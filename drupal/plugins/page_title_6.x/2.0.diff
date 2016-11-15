@@ -1,0 +1,30 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	c6583079416d9a985ea0810373ae6367
+D	modules/blog.page_title.inc	
+D	modules/comment.page_title.inc	
+D	modules/forum.page_title.inc	
+D	modules/node.page_title.inc	
+D	modules/page_title.page_title.inc	
+D	modules/taxonomy.page_title.inc	
+D	modules/uc_catalog.page_title.inc	
+D	modules/user.page_title.inc	
+D	modules/views.page_title.inc	
+M	page_title-admin-settings-form.tpl.php	5ee8fded5d6f7d8843655a41441c88fb
+D	page_title.admin.css	
+M	page_title.admin.inc	2ed10f23909006445b9f969852e8d73f
+M	page_title.info	d5addd2eba8756a85d183db927c874cb
+M	page_title.install	c4e42b1696c91ebac5dad27a0245c993
+D	page_title.js	
+D	page_title.legacy.inc	
+M	page_title.module	636628a3760acd9f08a484e923a8a91b
+D	page_title.views.inc	
+D	page_title.views_default.inc	
+D	tests/page_title.test	
+D	tests/page_title_views_test.info	
+D	tests/page_title_views_test.module	
+D	tests/page_title_views_test.test	
+D	tests/page_title_views_test.views_default.inc	
+A	translations/page_title.pot	a1443aaae7afe67135be06bc6f370072
+A	translations/ru.po	2833d7cee941ed5163db9cc383a3142f
+D	views/plugins/page_title_plugin_display_page_with_page_title.inc	
+D	views_handler_field_node_page_title.inc	

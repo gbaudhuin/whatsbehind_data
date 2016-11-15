@@ -1,0 +1,10 @@
+M	CHANGELOG.txt	a34c476dee52d5604658ba716efba80d
+M	composer.json	5c3e4c30d598e44b52bdd3c6dbb19648
+M	config/schema/ultimenu.schema.yml	eb423d8ce7acf93b6131052b9f0e1867
+M	css/ultimenu.css	0bf9640700cf311d36dd390aa2b3a8b9
+M	skins/ultimenu--basic.css	8661858a0d4575e3e62fccb2a6aa250e
+M	src/Plugin/Block/UltimenuBlock.php	13be9f04ad23cb2908cb32b7a80b6bc6
+M	src/UltimenuManager.php	f1bc2587e0748470d3456b838e257370
+M	src/UltimenuManagerInterface.php	ca9c0bf0b6a4c4518fd2bd5ffb429e8f
+M	src/UltimenuSettingsForm.php	e9f9bcb8d74d3a9c13c9ec270b5d3de8
+M	ultimenu.info.yml	71e2f3583dac0063d8e754aff5837a6d

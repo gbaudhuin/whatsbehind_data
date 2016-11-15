@@ -1,0 +1,12 @@
+M	README.txt	3f91f942364cccf37f7adc2844fc8a1e
+M	business.info	ef131e37f8abc73646b1955ef7e10b82
+M	favicon.ico	7093f3674d93d12c051efa9a67d5e9b4
+D	images/arrows.png	
+D	images/comment-arrow.png	
+A	images/no-new-posts.png	3e22ace4c6b41e0ab85365f15f1b6672
+D	images/search.png	
+M	screenshot.png	83d2bc029b09d48128b9872470b5a83d
+M	style.css	935cc14226f7a70ed5257f07ddcefe56
+M	templates/maintenance-page.tpl.php	810d658bf1be1dfb174ce281b18dd392
+M	templates/page--front.tpl.php	fe72ccdfcf357a135df645b979a0b2cf
+M	templates/page.tpl.php	f0d8ce0d6088f351aab2b6956a743ea7

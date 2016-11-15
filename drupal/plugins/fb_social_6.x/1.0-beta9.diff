@@ -1,0 +1,11 @@
+M	CHANGELOG.txt	690ef817c0ce9836e14a5f0bd67c804c
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	fb_social.info	336bf64e76b417a51e41836150382e29
+M	fb_social.module	9c2884580318d7e3b777627f4ab206ac
+M	modules/fb_social_comments/fb_social_comments.admin.inc	8376d1a13ce11d89914928539cb12cea
+M	modules/fb_social_comments/fb_social_comments.info	6e27cc30305ee74cb0bd9803a8381dd4
+M	modules/fb_social_comments/fb_social_comments.module	961c8242d29265f4bcd2c1f00594c9d6
+M	modules/fb_social_like/fb_social_like.info	e103bd02879616006ef5ffd0dc768061
+M	modules/fb_social_likebox/fb_social_likebox.info	bfd360f8631f4dc2c2572671106e68d9
+M	modules/fb_social_send/fb_social_send.info	63128a2bb15817995d28732ac605a12e
+M	modules/fb_social_share/fb_social_share.info	42f821a5e08e03c7bb2a37d32a99fe19

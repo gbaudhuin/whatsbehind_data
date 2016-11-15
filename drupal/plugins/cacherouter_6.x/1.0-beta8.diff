@@ -1,0 +1,8 @@
+M	Cache.php	eda6fb92f10c4b147a7fa26c27210f61
+M	cacherouter.info	bb8885aadb361e4100be50b2a5af2036
+M	engines/apc.php	598e0bc0cf172b73c83e8d3df18e53ed
+M	engines/db.php	c75739d2952c768b65a6fb4c6cb63319
+M	engines/eacc.php	f4f16acc5c50c163e74c63ec4348b8ac
+M	engines/file.php	86b2edf860da686db93b5c3c770c5757
+M	engines/memcache.php	769ba4e7adebb94d52fffb760f5427e4
+M	engines/xcache.php	9b4f15322dc3ab58ac0cc37884edb477

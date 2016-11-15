@@ -1,0 +1,11 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	cce15dbcbae30439538403ad357e8ef3
+A	publishcontent.admin.inc	bae7e6f9b1dfe23237f686a5ea63a8b5
+A	publishcontent.api.php	635c94b0f4ed09424b55f02f28ec2e11
+A	publishcontent.info	b4670467f2f03a2e62e567f22afc8699
+A	publishcontent.install	4d8d07d8db6c4deaddd24f4a04fd8142
+A	publishcontent.module	184096091686998b3c11d168e774b9e3
+A	publishcontent_views_handler_field_node_link.inc	31c311f794ff4967d53fdfc36f1163d8
+A	tests/publishcontent.test	1eee7399ee5feb96f69b3ad815bf3a5f
+A	tests/publishcontent_test.info	4da2e9183aa1aadc714158006cea906f
+A	tests/publishcontent_test.module	64b206921fed8361982ec54404ec74ed

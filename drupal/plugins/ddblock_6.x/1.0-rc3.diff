@@ -1,0 +1,17 @@
+M	CHANGELOG.txt	a1259bf73eb78526fe44f3d74f1792e0
+M	INSTALL.txt	613d02f52a95cfee0c4020b8bcb4e8c7
+M	README.txt	e0c8c96830f01ed58ae8069f3a2a2598
+D	ddblock-block-content-array.tpl.php	
+D	ddblock-block-content.tpl.php	
+A	ddblock-cycle-block-content-array.tpl.php	6dc67f136c2c6ea0150f3a8f33a88b70
+A	ddblock-cycle-block-content.tpl.php	a01775d5eb1ac899bb89951677e3fda9
+A	ddblock-cycle-pager-content.tpl.php	6436dac1d4da55377fc753dce2ecdf9c
+M	ddblock.css	7cf4754e6acc6d8cc0a57a1ab5c39a8b
+M	ddblock.info	3a1c4ab6a9c15418928d35df885bf057
+M	ddblock.module	0f6645bf01641d2655e7527612d26ae4
+D	jquery.cycle.all.pack.js	
+A	js/ddblock.admin.js	8d34835f7b8bd608bcc2d38592495bc6
+A	js/ddblock.js	2d0e28978889ce0a4a966218287349b8
+A	js/jquery.cycle.all.pack.js	840d2ba6317d29f7cb554554dae48cb6
+A	js/jquery.easing.1.1.1.js	3bd09b9eedf2f8dd7af2c79a64d2ffc7
+A	js/json2.pack.js	8fc335f273f90fd0d2e1feaa9f32880b

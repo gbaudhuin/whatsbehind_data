@@ -1,0 +1,7 @@
+D	config/footermap.settings.yml	
+A	config/schema/footermap_block.schema.yml	e0089c7a9769b53bc491227d5aa02f35
+M	footermap.info.yml	adaa0cac81fab891dea7dcf9061a24ce
+A	phpunit.xml.dist	479d1b277e69c680042aace81e5c45a4
+M	src/Plugin/Block/FootermapBlock.php	c614351abeb9c6b0d0378c3f69535a8f
+A	src/Tests/FootermapBlockIntegrationTest.php	fd88776ff37ca385f967f7b700201227
+A	tests/src/Unit/Plugin/Block/FootermapBlockTest.php	f47f4497bd0728c165973e23692b0713

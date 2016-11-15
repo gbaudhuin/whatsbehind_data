@@ -1,0 +1,26 @@
+M	CHANGELOG.txt	36466bd2c4eb83f662fbccc848f6c8c7
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	b3823ddf9b0b9ffb3ae1b32743ff354f
+A	images/example.jpg	a27ffdd513c41e9d52fd113a193be000
+A	images/imageNav/README.txt	f37d076ffa0ec555bcd44e026715e8dc
+A	images/imageNav/imageNavLeftClick.gif	4aaa3f195f85d0558891c6449529cb7a
+A	images/imageNav/imageNavLeftHover.gif	f9f70f639b86dfccf6fa610a36fede33
+A	images/imageNav/imageNavLeftNorm.gif	a48fac86e48dd7c061972cdafc6f6712
+A	images/imageNav/imageNavRightClick.gif	65aed49e5942a08a05ddd71eee2e8eff
+A	images/imageNav/imageNavRightHover.gif	852e662f65e71203fcf8f6c74b3f0b46
+A	images/imageNav/imageNavRightNorm.gif	30ae165b35849098edc88ee4128dab8b
+A	images/imageNavLeft.gif	d6cb42bdbb3d4f1b539c9746a45617a4
+A	images/imageNavRight.gif	a58e0adec0192fda09adfcb296d6c246
+A	images/mime-16.png	d24219802fc6e67f75e9e18cbe5205c1
+A	images/mime-32.png	fa4e05ca7b5eb165700cccc231b5b3c2
+D	images/mime/16/bg-secondary.png	
+A	images/mime/README.txt	8bf40bb3c63f2270709c8a1bfd31aceb
+A	itweak_upload.admin.inc	6b375590a076a64f5c213a26f367abf6
+M	itweak_upload.css	5435a9c9256a390103597726f0a17c4d
+M	itweak_upload.info	6fda1f133cdbffa96aa2dc0fd64b0cf4
+A	itweak_upload.insert.js	a0cd476c3025efdbe063960b339fdb61
+A	itweak_upload.install	9fed5b5fa89dd528a97785af4f5b5926
+M	itweak_upload.js	51323bc7a09efe0de937780aa4add093
+M	itweak_upload.module	38355747c1a3f1576d2411196cee7e90
+D	translations/itweak_upload.pot	
+D	translations/itweak_upload.ru.po	

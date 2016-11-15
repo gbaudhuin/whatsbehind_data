@@ -1,0 +1,11 @@
+M	README.txt	802a9de8bb68d69ae9ee06dcc6f704d9
+M	record_shorten.info	92b33f482215fa436453a3cddec9e032
+M	shorten.admin.inc	e2656c1622d28b9d4ddb2c827b47b3b0
+M	shorten.info	901fd1ac55d4af923d1a265c462e43ae
+M	shorten.install	f42d01a6d5b947f5cd403222fcb39a5c
+M	shorten.module	02b2984a2ca06dd2449c487409ae4d27
+A	shorten_cs.admin.inc	c19640bfabac316be2926379ab01eb12
+A	shorten_cs.info	36dca2f54a16ec197c41619c53bbe9e6
+A	shorten_cs.install	ed66de549cb0d4ac60f45d0f515410aa
+A	shorten_cs.js	d45cff51a50d6a77f62df2923bd4a3bc
+A	shorten_cs.module	b5e88f94c91096db5f11a944d0c4ba41

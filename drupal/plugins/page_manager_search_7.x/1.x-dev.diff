@@ -1,0 +1,12 @@
+A	CHANGELOG.txt	35b220b1c615a819177c6ebbedd0b8a0
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	175b66c914597f03d87b86a7a04050e5
+A	includes/entity.inc	0453de1291a6b656b8b335ae02975ac4
+A	includes/search.inc	0c03e4554a3256a8f9745294f4e8df3f
+A	page_manager_search.entity.inc	2d858f89b7d27ebaa41420739627865e
+A	page_manager_search.info	270bab73862bdcbeec4d45d36f7afcb1
+A	page_manager_search.module	59cd67056d7685025d85a24e8397ae71
+A	tests/page_manager_search.test	c7f40691d52f76e61a3f71b04a404be0
+A	tests/page_manager_search_test.info	24d8d1ed78449a5ffe2f02f529221f7f
+A	tests/page_manager_search_test.module	beec29579b7264cbced839ebf815aa3d
+A	tests/plugins/task_handlers/page_manager_search_test.inc	7c2d29f5dca284778492d4c1f453e197

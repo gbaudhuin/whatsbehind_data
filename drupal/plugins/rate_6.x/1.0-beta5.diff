@@ -1,0 +1,18 @@
+M	README.txt	03b729c347e66f155ead552ca474ca90
+A	expiration/rate_expiration.info	821ad333f60ae41c42b6962a9e422473
+A	expiration/rate_expiration.install	1b54840bc1ac00c35caea9eae16518e3
+A	expiration/rate_expiration.module	b3ac619e851431d3c7125e3a3bc554f5
+M	rate.admin.inc	15ece981448be244c0923c6d8a700df3
+M	rate.hooks.inc	657a961944ac1ed8487a6eac2535c94c
+M	rate.info	12602dad78290b75fc8f3a713a874ada
+A	rate.install	ff85129567ae2c697a79463872e06eee
+M	rate.js	085a86fe6a6819fd051cebbf979fc6bb
+M	rate.module	c8deb2235393a8c35ed5f3097449b843
+A	rate.results.inc	b7e716a9cb84afe91c97e6df151384b4
+M	templates/emotion.tpl.php	f0d4a641df330285091fe96c3c7f7521
+M	templates/fivestar.css	15a378057101171ca91ffde5761b5067
+M	templates/fivestar.tpl.php	278938a7c33fad9f9ed4ad8464e47f18
+D	templates/helpful.tpl.php	
+M	templates/thumbs-up-down.tpl.php	9e09167cb0d8f94eb0ee721aaa3ce99a
+M	templates/thumbs-up.tpl.php	9e1a5916c7fdd6afce6ccf469aa5d0e0
+A	templates/yesno.tpl.php	aedd2dc70438a40dac5b4c1eabdd93cb

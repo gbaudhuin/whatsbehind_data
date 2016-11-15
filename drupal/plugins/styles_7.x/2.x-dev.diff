@@ -1,0 +1,29 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	161c1ed270b50b79d79ba2d028cd74ed
+D	contrib/file_styles/CHANGELOG.txt	
+M	contrib/file_styles/README.txt	75214669ad5029e3ad351912b41181cd
+M	contrib/file_styles/file_styles.admin.inc	7b0649267778ea57fed162e73c026043
+M	contrib/file_styles/file_styles.effects.inc	9668a7449877e9cda2effc0b2b3d9f49
+M	contrib/file_styles/file_styles.info	a15d7211f74a28dc17f9783b723d5142
+M	contrib/file_styles/file_styles.install	fcab6db17d55af2ecc6a256788862140
+M	contrib/file_styles/file_styles.module	afe083975b0cec97dd4f3de7415b9795
+M	contrib/file_styles/file_styles.theme.inc	194fb05ca66cd9d0c70b1f680a02b3aa
+A	contrib/file_styles/includes/file_styles.variables.inc	7f55d98617c3a71099af42a2ebdb965a
+A	contrib/file_styles/includes/styles/FileStyles.inc	65ad869d7a7e65404045d6a28b8305da
+A	contrib/file_styles/includes/styles/file_styles.styles.inc	6ca55a8c2ce2fdf6f09e2fd2f95989bf
+A	contrib/file_styles/includes/themes/file_styles.theme.inc	16dfe1efa7bfbc556afab3bf7b7138a8
+D	contrib/styles_ui/CHANGELOG.txt	
+M	contrib/styles_ui/README.txt	ee71576273c6a99ced45fc7221b68438
+M	contrib/styles_ui/styles_ui.admin.inc	3eb892151ad373557d921602182ee126
+M	contrib/styles_ui/styles_ui.info	0ecbbb93ee12a9eefba6e1f62d290dc5
+A	contrib/styles_ui/styles_ui.install	a30d38fa52a6ba51bc3b046880c97e38
+M	contrib/styles_ui/styles_ui.js	e07aa8eaba31e78951dc204345a35a7d
+M	contrib/styles_ui/styles_ui.module	b8cd2b2a325a9c0ee44022d21a6b0c81
+A	includes/Styles.inc	ec5ef1e548a06b8b2d8ad1f1cd6503e4
+A	includes/php/get_called_class.inc	862af0874459ba11c3c8104fefcf66ce
+A	includes/styles.features.inc	521f59b37d77712ff170a6c354ed4789
+A	includes/styles.variables.inc	96f440b7e08b5634e4a8943fb97aaf1f
+M	styles.info	8f3f9db498f9112cb440a35bcb15c925
+M	styles.install	e941c0e5122f694a2c1ae560907b8eb8
+M	styles.module	8dd17ec0063241aba9220acd741b392a
+A	themes/styles.theme.inc	83ce47056f941c8c04c98bf1ce36f732

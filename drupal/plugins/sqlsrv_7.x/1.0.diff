@@ -1,0 +1,5 @@
+M	sqlsrv.info	ad83358a81abe072ff1fcd2ea7f5451a
+M	sqlsrv/query.inc	ece4ae68fc79d1379ae6d919fae6915e
+M	sqlsrv/schema.inc	52a17bb2fff601e4b6fe12841816d145
+M	sqlsrv/select.inc	c293180f49ab70bd556b8b06a59c3e35
+M	tests/sqlsrv.schema.test	3acc6aeac73aece6b1f8168523af6642

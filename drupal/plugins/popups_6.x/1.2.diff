@@ -1,0 +1,21 @@
+M	CHANGELOG.txt	12864af87bdfcaeb4b4108790ed1697e
+M	README.txt	816f6372359ed15f52e22bf4510c2d19
+A	popups-popup.tpl.php	cddbadb3d8f66e3a4c1eeaf69295e69f
+D	popups.api.php	
+M	popups.css	9eb788f0292211b72ee18687fdcddfbb
+M	popups.info	2d076416db98f94e44cb12b2b2fcfac3
+M	popups.js	1de5792658080fa5305336715cc211e9
+M	popups.module	a20cda7c7e81857eb0d88f129315b9c5
+M	popups_admin.info	f12c7eb72d99b94ae6bcfcb78d6cd93d
+M	popups_admin.module	aba2d0525fb438e3fd719edd3e1074a5
+M	popups_test.info	b9471bffe497119d2be2b9649c0aa867
+M	popups_test.module	f771752ce191f807dde30ab4c2115a14
+D	skins/basic/popup-icon.png	
+D	skins/blue/blue.css	
+D	skins/blue/images/sprites.png	
+D	skins/blue/images/tile-v.png	
+D	skins/facebook/facebook.css	
+D	skins/facebook/facebook.js	
+D	skins/facebook/loading-large.gif	
+D	skins/facebook/loading.gif	
+D	skins/facebook/popups-border.png	

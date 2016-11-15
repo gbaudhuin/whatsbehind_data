@@ -1,0 +1,17 @@
+M	block_styles.info.yml	112f4065329553374640307b4e2c6ea5
+M	block_styles.module	94ac0753f89823e1c86ce506223d9887
+M	config/schema/block_styles.schema.yml	1df603686ad67e7eeb95704943cd2cb0
+M	modules/block_styles_bootstrap/block_styles_bootstrap.info.yml	361e39d093d321ba3195e5a98e37aca2
+M	modules/block_styles_bootstrap/block_styles_bootstrap.themes.yml	c0f12a050921920fdeb88aec2c21e60b
+M	modules/block_styles_bootstrap/templates/bootstrap_collapse/block--bootstrap--collapse.html.twig	b86baaa1c737ea5ebbb1e71a31bfbf69
+M	modules/block_styles_bootstrap/templates/bootstrap_dropdown/block--bootstrap--dropdown.html.twig	c6ce589bceb3921af0185778d087a0a8
+M	modules/block_styles_bootstrap/templates/bootstrap_modal/block--bootstrap--modal.html.twig	ccef84523b5d3200e5f0522e825f7130
+M	src/Entity/BlockStyle.php	05117024a53fac61e27da7711b7fd865
+M	src/Entity/BlockStyleInterface.php	3c1fd0f89a2a5465cf4a252d9aa49087
+D	templates/bootstrap_collapse/block--bootstrap--collapse.css	
+D	templates/bootstrap_collapse/block--bootstrap--collapse.html.twig	
+D	templates/bootstrap_dropdown/block--bootstrap--dropdown.css	
+D	templates/bootstrap_dropdown/block--bootstrap--dropdown.html.twig	
+D	templates/bootstrap_dropdown/block--bootstrap--dropdown.js	
+D	templates/bootstrap_modal/block--bootstrap--modal.css	
+D	templates/bootstrap_modal/block--bootstrap--modal.html.twig	

@@ -1,0 +1,13 @@
+M	README.txt	a79f6efb6152ae7a3f52d5a3acd4bb7f
+A	aws-amazon-s3-upload.tpl.php	9166a6eb43a717384b507c35e159a32a
+M	aws_amazon.admin.inc	877995b2df0e1e7eea252c9f7fe6b2de
+A	aws_amazon.css	48b0cb0ff63a4eb35de8812d407de626
+A	aws_amazon.field.inc	cacacd7dd83470ab5a3aae7c2bc18bac
+M	aws_amazon.info	1aed200c5526894cb6f6dd0e3c563b44
+A	aws_amazon.install	3c378efe645aa911530726cb19355c7f
+A	aws_amazon.js	84be75c933b7e39b81f5b29603c70757
+M	aws_amazon.module	0143bf1bdad160ecd69e1d2e14bf28d9
+A	images/back.png	f86d90185cbfd78a5bed70b1e16cee9b
+A	images/download.png	5cc2aa3ec09bf2aa94ee6ce952987803
+A	images/folder.png	3ddf8a65045b7cd6a7e6aa43eb59e54b
+A	images/restore.png	f1c2c7db75d485f2cdb695771b0f759b

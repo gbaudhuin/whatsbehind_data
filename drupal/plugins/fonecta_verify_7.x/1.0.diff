@@ -1,0 +1,7 @@
+A	Fonecta.php	39cd4bedfceb5e00168872563df871a2
+M	fonecta_verify.info	a274ef92fd3ad5b4e4b4803be7247814
+M	fonecta_verify.install	c0ef6e6d3fc9f6c5efee0e212ff912da
+M	fonecta_verify.module	18b6f0870cd65157b4ad5dc5322a7ca2
+M	fonecta_verify.tpl.php	b738c6458228f2d32ae337a14010b4e7
+D	includes/fonecta.inc	
+M	includes/fonecta_verify_page.inc	ef7a3b48f0970f83db14791716f08890

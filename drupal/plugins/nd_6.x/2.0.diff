@@ -1,0 +1,20 @@
+M	CHANGELOG.txt	088d8c9ddab96dce43d72696993d0f3b
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	f6dcb1a7a9362ecd97106b7633e8fce1
+D	css/nd_regions.css	
+D	modules/nd_permalink/nd_permalink.info	
+D	modules/nd_permalink/nd_permalink.module	
+M	nd.info	d636c5828bb9f07b4537d4924e4b8b48
+M	nd.install	77bdee64df40d104a8d0058af24a26b3
+M	nd.module	b1012717029585bb43f4a51071c55734
+D	nd.rules.inc	
+D	nd_fields_examples.inc	
+M	templates/nd.tpl.php	e61a56cbca5e8ae003d50b69c469c9fe
+M	tests/nd.buildmodes.test	04b38b89cb26e2fd530f3085c27a1378
+M	tests/nd.fields.test	4243f4d0acde79c16adc4230df911af1
+M	tests/nd.plugins.test	e8a4add56035305370eaf58a13de5e88
+M	tests/nd.regions.test	ac4da9a97c4a7001d117e969f321741f
+M	tests/nd.tools.test	c5bde06ccb11b38d3940aea48964443f
+M	tests/ndtest.ds_default.inc	7f8b2878ed8460c1443c2c46e9b7b268
+M	tests/ndtest.info	0f2a2efb6a0195b7885679319cae77b9
+M	tests/ndtest.module	bb6f868135fc40ef824c8e4ff2f04430

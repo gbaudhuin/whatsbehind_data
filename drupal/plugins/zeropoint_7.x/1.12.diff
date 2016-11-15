@@ -1,0 +1,24 @@
+M	CHANGELOG.txt	caa9d3eb6cea71229fd311a1aa46789b
+M	README.txt	e1fc7e09823216f6caddbf6798b1ee57
+M	_custom/custom-style.css	09ca9e2a9e0d96424fe64856f01a3a23
+M	css/grey.css	c7040ea3634aaa1876d317e3796ffd51
+M	css/ie6.css	19f6c3ae20995bc4ac02268c8a88a505
+M	css/ink.css	d0fd2b485b3df7ee6b34e104b19e4a6e
+M	css/ivy.css	bbc61cb50209bd8cd8440b1b94c4ac1f
+M	css/lime.css	452b171226827c5f8c38f011e3640ec7
+M	css/nature.css	a9c4f7ffed0761565705be3a8edfe0d4
+M	css/orange.css	68b76d3df59f79fb79f0875f0ebd0bfc
+M	css/print.css	acad952f07d459e9ce09558f93d734a9
+M	css/sangue.css	c88758d6ee68953dc2237b9bcd2d2aa6
+M	css/sky.css	44618a819b494e007d82cc811c02d094
+M	css/style-zero-rtl.css	13777eec8a25beba9de89af733a92b0b
+M	css/style-zero.css	083cfa7948a1649d5c75af83c4d6bab3
+M	template.php	18fafd9bdb1faba2f6e8ae13289962be
+D	templates/comment-wrapper.tpl.php	
+M	templates/comment.tpl.php	a0e5aad15952230df518069c64e14686
+M	templates/html.tpl.php	6ce63297ec5f9e9bfcf6daf1e1581fb8
+M	templates/maintenance-page.tpl.php	fc0451078f936e877e478b4daf7716b6
+A	templates/node--blog.tpl.php	4dbd75b5cd687229195176a49e3becac
+M	templates/node.tpl.php	5d2eadf80501992911cb2a0fa8dd1ee9
+M	theme-settings.php	945b0e418710a0a3de68e00642ecc1b5
+M	zeropoint.info	3f277eaa6dea544d8010c2ac2821d29a

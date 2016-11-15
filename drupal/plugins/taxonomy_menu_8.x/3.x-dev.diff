@@ -1,0 +1,38 @@
+A	.travis.yml	9b438e0cdc2c1d33de88897620d1442f
+A	README.md	9e4f06f078edf14ed6c1c15ce58f7bd8
+D	README.txt	
+A	Tests/Controller/TaxonomyMenuTest.php	e58d1aea68443b537e94c8e0232fa834
+D	UPGRADE.txt	
+A	composer.json	9828028e9d46037bf39fd2d0af9558e8
+A	config/schema/taxonomy_menu.schema.yml	62064b1cc30a5e68ea69a861180873da
+D	lib/Drupal/taxonomy_menu/Tests/TaxonomyMenuConfigurationTest.php	
+D	lib/Drupal/taxonomy_menu/Tests/TaxonomyMenuCustomPathConfigurationTest.php	
+D	lib/Drupal/taxonomy_menu/Tests/TaxonomyMenuCustomPathFunctionalTest.php	
+D	lib/Drupal/taxonomy_menu/Tests/TaxonomyMenuFunctionalTest.php	
+D	lib/Drupal/taxonomy_menu/Tests/TaxonomyMenuUnitTest.php	
+D	lib/Drupal/taxonomy_menu/Tests/TaxonomyMenuWebTestCase.php	
+A	src/Controller/TaxonomyMenu.php	6cb655b93d326618662e4bda62d2e3b0
+A	src/Controller/TaxonomyMenuListBuilder.php	4ef43c75febff634f0df21533286478f
+A	src/Entity/TaxonomyMenu.php	a438dbdf1e8aa5c433cd293392870341
+A	src/Form/TaxonomyMenuForm.php	3e006b347ce0a65c1384ffeaf6bebf32
+A	src/Plugin/Derivative/TaxonomyMenuMenuLink.php	68a45fc6f3f1136108635f7b469ddcd3
+A	src/Plugin/Menu/TaxonomyMenuMenuLink.php	1f91c7267a8001992db3cf8618b2a758
+A	src/TaxonomyMenuHelper.php	5b33a78c14e4c60103e9baa1ee6c7736
+A	src/TaxonomyMenuInterface.php	d518ce10ca23e2e743f4459efe2889ce
+A	src/Tests/TaxonomyMenuOperations.php	bda29f7d1243261e39dc2b08fdf67301
+D	taxonomy_menu.admin.inc	
+D	taxonomy_menu.api.php	
+D	taxonomy_menu.batch.inc	
+D	taxonomy_menu.database.inc	
+M	taxonomy_menu.info.yml	82cc23ff9fd72d73334886891d5e6a0b
+D	taxonomy_menu.install	
+A	taxonomy_menu.links.action.yml	a2c5646ccc037946d1eeac1e42bb9ec9
+A	taxonomy_menu.links.menu.yml	8f7d8667ad3ea743fb8e28a827aa9127
+M	taxonomy_menu.module	4c623ef4b2c490ebc6ff2ad9a8c71f06
+A	taxonomy_menu.routing.yml	a949275cd0cf2616e427586b62499659
+A	taxonomy_menu.services.yml	a527214514ba3cbd4ee5198c7723503f
+D	taxonomy_menu_custom_paths/taxonomy_menu_custom_paths.info.yml	
+D	taxonomy_menu_custom_paths/taxonomy_menu_custom_paths.module	
+D	tests/modules/taxonomy_menu_dummy_paths/lib/Drupal/taxonomy_menu_dummy_paths/Controller/TaxonomyMenuDummyPathsController.php	
+D	tests/modules/taxonomy_menu_dummy_paths/taxonomy_menu_dummy_paths.info.yml	
+D	tests/modules/taxonomy_menu_dummy_paths/taxonomy_menu_dummy_paths.routing.yml	

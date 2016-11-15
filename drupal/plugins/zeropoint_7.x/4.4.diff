@@ -1,0 +1,23 @@
+M	CHANGELOG.txt	22b3b50391b45a32a72dba8efb839499
+M	_custom/custom-style.css	84b3f9503c30091f299a8ec7b4563595
+D	_custom/headerimg-rtl/credits.txt	
+M	_custom/headerimg-rtl/rotate.php	14bb1f092259e35cdbc9904b80ab4178
+D	_custom/headerimg/credits.txt	
+M	_custom/headerimg/rotate.php	d0a80374104addd889d689ca6897a9e7
+M	css/grey.css	2239c1b7fbb9b357cf2a72e3e3301fad
+M	css/ink.css	2da1113767e2d2864391739de1d61cbc
+M	css/ivy.css	16fbf5367c128f1dc4514d38a5bbb4d4
+M	css/lime.css	cbf19ad8611c272398f9df02014daac3
+M	css/nature.css	659fa2fbaedb32f1f408276503c70e26
+M	css/orange.css	a3cbe789ca7a7cf880ea8f8b8d06cc92
+M	css/sangue.css	e2ac87d3fed64f82292bfc57f8e9041d
+M	css/sky.css	6f21dd377525bf305a602a1bf6f39e9e
+M	css/style-zero-rtl.css	3c00a79ab91d04078aa69ca40d652a12
+M	css/style-zero.css	0a465e8c10d289ea2446090b79a0c4a8
+A	images/all/mobi-dot.png	5815712ffd298dc23465df78a701f33d
+A	images/all/mobi-sq.png	e07c16477a468e5e8335bd3c4a678f83
+M	js/toggles.js	7fc30884cda49ce078e1d6c033caa77e
+M	template.php	ffb36a2169ad374be645652654546930
+M	templates/page.tpl.php	7049d396b5fe6de70a568d100fcb0e19
+M	theme-settings.php	6358776794595b402b012b6f627ef879
+M	zeropoint.info	87ca0866f1cbee26220dd6cdc1a869db

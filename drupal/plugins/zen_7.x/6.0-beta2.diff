@@ -1,0 +1,20 @@
+M	README-FIRST.txt	6e727c5c138e575cd2a1023b9c132146
+M	STARTERKIT/.eslintrc	c1307c6cc069b84c2f76f3ba77282a76
+M	STARTERKIT/Gemfile	cfa220e6d374ca4dc81ee7d47646bee2
+D	STARTERKIT/Gemfile.lock	
+M	STARTERKIT/README.txt	46db57dc3b9c9313607360818d0e5e7d
+M	STARTERKIT/css/README.txt	7ca0364b1b408438fdc3e23eda18f519
+M	STARTERKIT/css/styles.css	78970102511b90ca25fabcd6741c704e
+M	STARTERKIT/gulpfile.js	d18a35c1c7a7cfe7a2fb530b652e52c3
+M	STARTERKIT/package.json	dcd44e6b40082b1ab23f3fe159ac5a54
+M	STARTERKIT/sass/README.txt	b783807e2b5de451ed874c66d37b0f91
+M	STARTERKIT/sass/components/resizable-textarea/_resizable-textarea.scss	3fac3277b6bafca4d5df10fc528e9871
+M	STARTERKIT/sass/components/table-drag/_table-drag.scss	ded03e0d856348d82060057236a7642d
+M	STARTERKIT/sass/style-guide/homepage.md	80e1d6edfed33a1d3c921f630e9bd3c9
+M	STARTERKIT/styleguide/index.html	b0501d4c6d2e05800086032b9661888c
+M	STARTERKIT/templates/README.txt	98e2698997ade8ddd8efae7434deeb93
+M	zen-internals/css/styles.css	3c6575937be9ef9835c026e58888d44a
+M	zen-internals/gulpfile.js	03e6bc6801e68315d414bb341dcd5be8
+M	zen-internals/package.json	ff32e81e8cc3089ee5da261a89771880
+M	zen-internals/zen.drush.inc	b5c3c39ad426b4a5e979064e9737f7ec
+M	zen.info	d6d659979713a183b9b32e06f71dd3ff

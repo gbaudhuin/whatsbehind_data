@@ -1,0 +1,18 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	composer.json	
+M	less.admin.inc	503027067de237e9cd237ad1a440ec2b
+D	less.drush.inc	
+M	less.info	31802fc9a9df7198e91ebb02a72f625f
+D	less.install	
+M	less.module	707a24c49dd813ed34e911657853a58a
+D	less.theme.inc	
+D	less.watch.js	
+D	less.wysiwyg.inc	
+D	less_demo/images/logo.png	
+D	less_demo/imports/less_demo.clearfix.css.less	
+D	less_demo/imports/less_demo.imported.css.less	
+D	less_demo/less_demo.info	
+D	less_demo/less_demo.module	
+D	less_demo/styles/less_demo.css.less	
+A	lessphp/LICENSE	2887747a1404ae4fb71a95d440d3778f
+A	lessphp/lessc.inc.php	5b2fe98ca8ec71d1372f391ba75603f4

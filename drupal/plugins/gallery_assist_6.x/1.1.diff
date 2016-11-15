@@ -1,0 +1,16 @@
+M	README.txt	2e88189b0047503eb8dc6aa46cc82915
+M	css/gallery_assist.css	30d3f7447a189b132a4e5ba8d8f1b273
+D	doc/hooks.php	
+M	gallery_assist.admin.inc	3d42f3d481df29699b78d0c0ce12a444
+M	gallery_assist.info	346ca08082649669b3ceb7693de04578
+M	gallery_assist.install	d7aef9c7f40311821d16f20b60eb1974
+M	gallery_assist.module	dd02aa5781bc812eceadb753eee8bebf
+M	gallery_assist_display.inc	b2df0698d76f90f62bb6e722f445bb44
+M	gallery_assist_list_display.inc	a78e816577638fefe042e6e3e1da9555
+M	gallery_assist_node_settings.inc	0688dfaa02ca7ae0c99f9db8983c64e2
+M	js/gallery_assist.js	8dd4ae17e65fd852ea7dc03f3daf01cc
+M	translations/gallery_assist.de.po	10e8ead1fc8536e69cd09c19b2f1923a
+M	translations/gallery_assist.es.po	1918f308f0b07653538f3e8914c510a5
+M	translations/gallery_assist.hu.po	dc3ed0e65fdb0a42f951022a5e86aa56
+M	translations/gallery_assist.pot	ed76d05446831c5f76d799249877fd69
+M	translations/gallery_assist.ro.po	8956ff483152cc92ad9865dc99a814b5

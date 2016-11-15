@@ -1,0 +1,11 @@
+A	config/install/core.entity_view_mode.paragraph.preview.yml	aef5cedfa76cdf6f8fbdd970aadd7309
+D	config/install/core.entity_view_mode.paragraphs_item.preview.yml	
+M	modules/paragraphs_type_permissions/paragraphs_type_permissions.info.yml	692929b14e063db8cd58537f1f7e96cc
+M	modules/paragraphs_type_permissions/paragraphs_type_permissions.module	281e2a71d822ae008b0c4a90873fe428
+M	modules/paragraphs_type_permissions/src/ParagraphsTypePermissions.php	be17b97be6eaf7868e71fa4869a3fdb9
+M	paragraphs.info.yml	aece62c370a29e845201a681bb19702e
+M	paragraphs.module	635ebbeb560b611608df1aa0e14b9e82
+M	src/Entity/ParagraphsType.php	80ddebb27107602073a43db0b5bb60ff
+M	src/Plugin/Field/FieldWidget/InlineParagraphsWidget.php	3e0e3efecff1c1af2c632736be1cafb3
+A	templates/paragraph.html.twig	e5e78779a474cef19351a5fa261a059d
+D	templates/paragraphs-item.html.twig	

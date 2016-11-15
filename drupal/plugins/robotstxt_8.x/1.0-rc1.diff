@@ -1,0 +1,7 @@
+M	robots.txt	f0b1c3d86372330e70abe7660bcce660
+M	robotstxt.info.yml	b112b1b85018ac227650041d0345d2c1
+M	src/Controller/RobotsTxtController.php	21ef9c98aaa8ee3c8362d2390828b523
+M	src/Form/RobotsTxtAdminSettingsForm.php	97e249d48ed5a522566e03cbf078c401
+M	src/Tests/RobotsTxtBasicTest.php	00174ef8605262e1f5171bbb95739a35
+D	tests/modules/robotstxt_test/robotstxt_test.info.yml	
+D	tests/modules/robotstxt_test/robotstxt_test.routing.yml	

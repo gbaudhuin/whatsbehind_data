@@ -1,0 +1,14 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	bc47097c930ac49948d2a797bf06da09
+A	drupalproject.inc	9c73c776775a131fe27843d5eb30ee39
+A	ftp.backend.inc	3a81a56ed7cd130f27464a6686e4d4d9
+A	plugin_manager.admin.inc	3c57471a6c47c1811b20fffbb86680ad
+A	plugin_manager.ajax.inc	457c1af34fad661f969139c2c93ec0c6
+A	plugin_manager.fileutil.inc	353c956dd519f4dab06af2fc209f288b
+A	plugin_manager.info	5e8e7c18b6762ec7a3642a47afd18be4
+A	plugin_manager.install	b01a6269cf8e2fe722aaabc9368bd222
+A	plugin_manager.module	1bd7f73f501bf45840150795c5bec6e7
+A	plugin_manager_search.css	1d6549703f6a0db487882b2a24f7e879
+A	plugin_manager_search.js	d4134ebee82b42742a1fd29c0160e4f9
+A	project.inc	6275a6dbd9119632000b019c5dbb9524
+A	ssh.backend.inc	3cebee4a308539fed3ae4ec6e97abe30

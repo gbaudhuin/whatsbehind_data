@@ -1,0 +1,8 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	c40755300d3a365106c6f0046435c95d
+A	similarterms.info.yml	a0f9ffbdae67f157ebc4e9a68a433316
+A	similarterms.module	8f4e0eecbaeb6d244d6f2ee2854ce448
+A	similarterms.views.inc	43e4ecf3ad5ae890575b52b9e9f07304
+A	src/Plugin/views/argument/SimilarTermsArgument.php	3d4fa275d6f7942159d63b3bf6f8dc88
+A	src/Plugin/views/field/SimilarTermsField.php	9495598cefc2055f1eaf0fbe0955787b
+A	src/Plugin/views/sort/SimilarTermsSort.php	7cef44bede8b19da2cc1c28fa0fc1b9c

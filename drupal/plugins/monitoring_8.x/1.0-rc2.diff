@@ -1,0 +1,10 @@
+M	modules/demo/config/install/search_api.index.demo.yml	27a75c6944affff10236adbfbd629072
+M	modules/demo/monitoring_demo.info.yml	9d8dee3b95c51a1ad69cc53ca16d1c4a
+M	modules/multigraph/monitoring_multigraph.info.yml	8f69c1fd6c53131a748529bcf3dac60c
+M	modules/test/monitoring_test.info.yml	9f32b0d1c10a3b30649dd0370bde3e0a
+M	monitoring.api.php	2267201915cd660dd38a738f6392ab45
+M	monitoring.info.yml	678d9c56f3b4ce11ca44ee4525f3391f
+M	src/Plugin/monitoring/SensorPlugin/ContentEntityAggregatorSensorPlugin.php	2d50d0a02a9f0bbb7ae0f26cd6c73904
+M	src/Plugin/monitoring/SensorPlugin/SearchApiUnindexedSensorPlugin.php	0488e97102d13878d2821dcab43f7c0c
+M	src/Tests/MonitoringCoreWebTest.php	102ad987162627da85f4b8372e2150ae
+M	src/Tests/MonitoringUITest.php	9a0fe995db032804ee4040dc7d20df51

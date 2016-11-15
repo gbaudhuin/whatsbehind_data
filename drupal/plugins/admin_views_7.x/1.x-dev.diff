@@ -1,0 +1,17 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	admin_views.css	2b6a289de4211aa95144fcb2ece77e35
+A	admin_views.info	866808949dcbde1109f9f5fa63e05a2d
+A	admin_views.install	7d4e566c5eb22134e8cb770d6035c117
+A	admin_views.module	342aa8f1dd51a00f0fac2d391eb7d185
+A	admin_views.views.inc	9def669b45f4a2e6c49ffc9a7b997faa
+A	admin_views.views_default.inc	e0a56f4b7d2c6201e6394c27c69e0dcf
+A	admin_views_default/book.admin-content-book.inc	e9dba468eaf428be925c961816347739
+A	admin_views_default/comment.admin-content-comment.inc	0302819adb32e724e47a6952d7b45721
+A	admin_views_default/node.admin-content.inc	95d3dfde09f13a010662417cd36aeb76
+A	admin_views_default/taxonomy.admin-content-taxonomy.inc	47148e74421bd1e174a1549dd64ab380
+A	admin_views_default/user.admin-people.inc	fdaf2bca0ab1391cc8d4539fb0f27ced
+A	plugins/views_plugin_access_menu.inc	258e184eb3443f910e0e17425f827394
+A	plugins/views_plugin_display_system.inc	ca9055418cd25c8f32936eee31d0d07c
+A	tests/admin_views.test	95b458fda61d6c4ac8c3cfe73e8e9d75
+A	tests/admin_views_test/admin_views_test.info	cb98130b7c126a13b271ad122f685f78
+A	tests/admin_views_test/admin_views_test.module	1f86adc2f5ca375fe5de7ac44feadbcf

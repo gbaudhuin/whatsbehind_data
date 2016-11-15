@@ -1,0 +1,12 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	8a06cbbd453176af07b12acac49a6f92
+A	restws.api.php	9585dd455f4faf52d2ec535357ea8b8c
+A	restws.entity.inc	0c025e925e28e1fce6f664ece1fc4563
+A	restws.formats.inc	82e8f0d3f1884c7f1a263ce8af243602
+A	restws.info	a9785d9c96ebdce8d161f2e6ace25f19
+A	restws.module	818abc5baa90f0b85db063e6bbebc6a2
+A	restws.test	8920b332c1e2f6877eaebf8c38b7a952
+A	restws_basic_auth/README.txt	3a9094fa1498a28a9bb9a4afd5958606
+A	restws_basic_auth/restws_basic_auth.info	338aa83b008fd24a81210b2a2314e2a9
+A	restws_basic_auth/restws_basic_auth.install	03bc91274347d8c4b6d668031f2b8b83
+A	restws_basic_auth/restws_basic_auth.module	016e687134407fc418ebaeda3174a780

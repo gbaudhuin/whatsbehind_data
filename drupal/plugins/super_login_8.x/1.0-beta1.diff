@@ -1,0 +1,6 @@
+M	config/install/super_login.settings.yml	82b134aafbdf84660818a4b6e7fd5750
+M	css/super-login.css	e7468dfb3a37efd2537150d2bd620f4e
+M	src/Routing/RouteSubscriber.php	4d8040dcf2913b52116cc3e313e1d048
+M	src/Super_loginSettingsForm.php	ec7790ef9aeb8f3c4a79b62d89df30e0
+M	super_login.info.yml	972f1511c2b3b6ee0ea557c01701dc91
+M	super_login.module	503743c669cabb0dc45707886474c64d

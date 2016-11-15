@@ -1,0 +1,11 @@
+M	CHANGELOG.txt	193fc6834b94542194498e93a014f0f4
+A	INSTALL.txt	7cbfc84818132650f6ad85d9edc5eb8c
+M	README.txt	68e543f41534c8341a5b78b95f7ca3e3
+M	filters/bayesian/bayesian.info	b958b6bbeec44e6d8580e6398c3cd550
+M	filters/custom/custom.info	41b78fc312a638b3e55645f01e20e84a
+M	filters/duplicate/duplicate.info	375791171ed548accc0a67d2b6930d39
+M	filters/node_age/node_age.info	e95fd241905ba0ad0b7030aa3d4719fe
+M	filters/surbl/surbl.info	356dda28b661d892acc0628c58f32f14
+M	filters/url/url.info	f88d7cc619bd2693e33f3d06efc1d96a
+M	spam.info	0cbbd5fb5b40a4e042cfff5daf1c9856
+M	spam.module	8ce20e20554ad511a70ef20887fde8ae

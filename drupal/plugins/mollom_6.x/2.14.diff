@@ -1,0 +1,13 @@
+M	README.txt	658978e8da47513c74342b037b0577d5
+M	includes/mollom.class.inc	25cee08f54543694bcd13feffbfc802c
+M	mollom.admin.inc	d3fd7f336bc2df00e652025567566171
+M	mollom.api.php	a758351c88ef1a95aa4ea26502dcc5fd
+M	mollom.drupal.inc	a570bce84dc5bf82cbf2e1eb08b33703
+M	mollom.info	f3ee30ac72a6213523b6812968515b02
+M	mollom.install	800cb27e6ab5a5b47035509a307ba499
+M	mollom.module	d779f9598618a74afe6f92e92f8dcbbd
+M	tests/mollom.test	11de5553ec02971b68872db26338b1ee
+M	tests/mollom_test.info	ad6e007885a7fba94cf5335a64ba5047
+M	tests/mollom_test.module	c070e51cec115d0da8923deef3993385
+M	tests/mollom_test_server.info	1fb7c90e05cf4f4641a516f925e9523a
+M	tests/mollom_test_server.module	4e38285b4ce36f530922402fbecd0af9

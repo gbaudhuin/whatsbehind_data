@@ -1,0 +1,13 @@
+M	faq.admin.inc	ad21d2462e8652cf2aa5bed15120cc85
+M	faq.info	61024bbc8852e943364cb50d0646599d
+M	faq.install	a5a0e4191661a0e1f3fe49f5016c34cd
+M	faq.js	727953e59edb926ca5aee0fafe3330f4
+M	faq.module	52b62371b88365ab6b527f579a337f22
+A	faq.test	b82f2db8c75694c8bdfe34aa3711e801
+M	includes/faq-category-questions-top-answers.tpl.php	b5ed9cb550d1bc4e98486f05986a88ba
+M	includes/faq-questions-top.tpl.php	258315727625414b8e9f1d75899d0cb0
+M	includes/faq.hide_answer.inc	36fb1083ef8d1d68d13bfc206f532fc4
+M	includes/faq.questions_inline.inc	56c51cf33ce636ff2c8cfb63df58450f
+M	includes/faq.questions_top.inc	710844bc5e7f6f7108ae8048a9f6ae93
+M	translations/es.po	d42d688e549b26b8cb08d1966a312ba8
+A	views/faq.views.inc	7464039196bfd9ba0a6c4265e11eb922

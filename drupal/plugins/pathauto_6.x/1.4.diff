@@ -1,0 +1,13 @@
+M	API.txt	f64ace22ae95cecf1e6a6a8a7bba24d3
+D	CHANGELOG.txt	
+M	INSTALL.txt	d326b4bc27e47b8b5cc663cd2cbc8c44
+M	pathauto.admin.inc	94b2da6810699b822ad412753afeb3c1
+A	pathauto.api.php	8753d06d5e45317e0c54f8b84d1de937
+M	pathauto.inc	b3e5f89a87e59e7d58773f935e953561
+M	pathauto.info	32b2f8efbc844c8d38088e2f5d480831
+M	pathauto.module	4180d1b6e7220a2e2d89cc29d5450958
+A	pathauto.test	2b007abadb51f2ffaffd0e91f4397ef0
+M	pathauto_node.inc	b553d382e82eba658b5861bf78dc379a
+M	pathauto_taxonomy.inc	4c817e3ad35ff8207056d27bf155388a
+M	pathauto_user.inc	46a9d5d709402479ee458bfd2b28f550
+D	tests/pathauto.test	

@@ -1,0 +1,99 @@
+A	README.md	ce28f3bd2082dd531e632ac39bd23ab6
+M	config/install/entity_print.settings.yml	7a28b314e80e6872c2f40422ff74caac
+M	config/schema/entity_print.schema.yml	fc3a3d9b34f9653e6ad7b28dee9afcaa
+M	css/entity-print.css	841f816aeac26a473468031093e34d3e
+D	entity_print.api.php	
+A	entity_print.entity_print_export_types.yml	2101e1e4f6a413cd68d72c20e5939378
+M	entity_print.info.yml	530ea79f8edcb403aae440160ff2b579
+M	entity_print.install	22d57c03f2319b3aa2954ce677e0c9c5
+M	entity_print.module	f1674ebaf4442b13d87bb405a345543e
+M	entity_print.permissions.yml	af8143b3325513a0801c2f176e962a8f
+M	entity_print.post_update.php	019e07eb3f589303e7460cb7f680685a
+M	entity_print.routing.yml	74e6882b3c46e57d48f2774f594d28e5
+M	entity_print.services.yml	fc3a05af85a15441aea156958915d48e
+M	modules/entity_print_commerce_order/entity_print_commerce_order.info	6dac060fe761e0577e1ba342c74ecaa9
+A	modules/entity_print_views/config/schema/entity_print_views.schema.yml	8dd216fad0060b744d170f241ace7190
+A	modules/entity_print_views/entity_print_views.info.yml	0b97cb0ed6bd6e2dd47b1759851c282b
+A	modules/entity_print_views/entity_print_views.module	461494ddbf1db37c9a8e80a6ba616a93
+A	modules/entity_print_views/entity_print_views.permissions.yml	fd0918cbc1ca8e202ccb325ed18c740c
+A	modules/entity_print_views/entity_print_views.routing.yml	f92c300689863d9d2ebad170e879d92c
+A	modules/entity_print_views/entity_print_views.services.yml	0cbdf84ed3d8d2c559583d4ce2771add
+A	modules/entity_print_views/entity_print_views.views.inc	3b97558f79937af25874e0428a036d2a
+A	modules/entity_print_views/src/Controller/ViewPrintController.php	0197c2bfd837b510b9bc1fb33c5b37b3
+A	modules/entity_print_views/src/Plugin/views/area/EntityPrintViewsLink.php	10b6b524e02d5ed6a62ad1af92e18276
+A	modules/entity_print_views/src/Plugin/views/display/PrintExtender.php	b1737913a30fc68749417abd094fc1ab
+A	modules/entity_print_views/src/Plugin/views/field/PrintLink.php	798367f6a87b0ea7f546741470c3769c
+A	modules/entity_print_views/src/Renderer/ViewRenderer.php	e57807ec9da1126b097c981f46581186
+A	modules/entity_print_views/tests/modules/entity_print_views_test_views/config/install/views.view.my_test_view.yml	c1bae090f329a5715d451bb7ea9289bd
+A	modules/entity_print_views/tests/modules/entity_print_views_test_views/entity_print_views_test_views.info.yml	968a9442208c124a7b2e178f89efbef2
+A	modules/entity_print_views/tests/src/Functional/PrintViewsTest.php	cdf5e0392d2f57f931649a18c51e8494
+A	modules/entity_print_views/tests/src/Kernel/ViewsAccessTest.php	0a0dccf102f38b5f9a81f5bb4622c000
+A	modules/entity_print_views/tests/src/Kernel/ViewsRendererTest.php	bf39c2fe1e75f28deab89bb4c466102f
+D	src/Annotation/PdfEngine.php	
+A	src/Annotation/PrintEngine.php	40e2f8d8caa254cda05968d1da5004d5
+M	src/Controller/EntityPrintController.php	6e9f67297d22194435159cf7bda50910
+A	src/Element/PrintLink.php	8d180c6a752b2e3a0c146964524dfa2d
+D	src/EntityPrintPdfBuilder.php	
+A	src/EntityPrintPermissions.php	dfcfdd93b545588fbd641dbe3949ff26
+D	src/Event/PdfEngineEvents.php	
+A	src/Event/PreSendPrintEvent.php	9ca2ada945e78122a6bb8f6741ce12ac
+A	src/Event/PrintCssAlterEvent.php	1aeb51ba646b4bf62682ac236fb9b34d
+A	src/Event/PrintEventBase.php	87ab2b111ffe7815cdf0eea7db6a7055
+A	src/Event/PrintEvents.php	a7a36f65d36fe2000ea4328f01815590
+A	src/Event/PrintHtmlAlterEvent.php	1913e3c8fb7cc721acb1b28f128efe00
+A	src/EventSubscriber/PostRenderSubscriber.php	50d59779131ca7761ec0008ef421addd
+A	src/EventSubscriber/PrintEngineExceptionSubscriber.php	36ad1f4aac363a6f2515f25aa9afacf0
+M	src/Form/SettingsForm.php	d9331d7def6489cc7c23f5a64710c130
+D	src/PdfBuilderInterface.php	
+D	src/PdfEngineException.php	
+D	src/Plugin/Action/PdfDownload.php	
+A	src/Plugin/Action/PrintDownload.php	a9576e56eccb06d1fde30c590a3b25d6
+A	src/Plugin/Block/PrintLinks.php	3da9ea29697fa3879bd1d485fd96958f
+A	src/Plugin/EntityPrint/ExportType/DefaultExportType.php	d1a7d32e441cf5e5100bc31aafb159c2
+D	src/Plugin/EntityPrint/PdfEngine/DomPdf.php	
+A	src/Plugin/EntityPrint/PrintEngine/DomPdf.php	56001918934b80d143247d441faa3279
+A	src/Plugin/EntityPrint/PrintEngine/PdfEngineBase.php	87124b8f462411020fb86dc4beb9c76c
+A	src/Plugin/EntityPrint/PrintEngine/TcPdfv1.php	ad91267122c5a1680fac153d545e016f
+M	src/Plugin/EntityPrintPluginManager.php	bbb1a04155c9ff8c1db2714b23f8ef7a
+A	src/Plugin/EntityPrintPluginManagerInterface.php	5a3387d5bccda224266666bc461706d6
+A	src/Plugin/ExportTypeInterface.php	61000c527c511a988355d69f75af54c9
+A	src/Plugin/ExportTypeManager.php	4b3cdea8f959d73dccbb078b16ea7e2a
+A	src/Plugin/ExportTypeManagerInterface.php	0ccc1084b7e32fe4126fd839de559cfa
+A	src/Plugin/Field/FieldFormatter/Base64ImageFormatter.php	c40dde9bc8ed23a8a86d6d0b83af442c
+A	src/PrintBuilder.php	8f0d8e6c1d14b1375bbaf99028fa998d
+A	src/PrintBuilderInterface.php	c25795f238cea935a0f66af1241506a4
+A	src/PrintEngineException.php	d26ec9d3f47bf1b2f37667242c3f30dc
+A	src/Renderer/ContentEntityRenderer.php	c87db34e6a25b959f66ebc832415b699
+A	src/Renderer/RendererBase.php	adac2a4feb670c2762d7a3383447c10a
+A	src/Renderer/RendererFactory.php	e8fe3033cff77afed29105a20956ba6f
+A	src/Renderer/RendererFactoryInterface.php	88254ea8bbae6033b4cd9d8df58598f2
+A	src/Renderer/RendererInterface.php	d400dd57c0454114a6a7cd93181c7928
+A	src/Tests/EntityPrintActionTest.php	90535fe94fc171c571852d58fcc4387f
+M	src/Tests/EntityPrintAdminTest.php	c56e9c3f134b638efcc0501bbe81c873
+D	src/Tests/EntityPrintTest.php	
+A	src/Tests/Update/EntityPrintUpdateTest.php	f23378b61b0efe7a42d9329a73507131
+M	templates/entity-print.html.twig	e756f3251a63576d33b307328176c69a
+A	tests/fixtures/entity-print-upgrade-1x-2x.php.gz	bb22524741aece67240146054731fb63
+M	tests/modules/entity_print_test/config/schema/entity_print_test.schema.yml	e9e03a2bf8d727e9f65da74888ad41a7
+M	tests/modules/entity_print_test/entity_print_test.info.yml	33594eea8ccc98362a4d6295bd93a5e4
+M	tests/modules/entity_print_test/entity_print_test.module	d646b50eade231d2d895f881e4a96438
+M	tests/modules/entity_print_test/src/EventSubscriber/TestEngineConfigurationAlter.php	d3be6fa6c4b18dce64636ef387754717
+D	tests/modules/entity_print_test/src/Plugin/EntityPrint/PdfEngine/NotAvailablePdfEngine.php	
+A	tests/modules/entity_print_test/src/Plugin/EntityPrint/PrintEngine/NotAvailablePrintEngine.php	e72687795a542fde322c582cd5d1d897
+A	tests/modules/entity_print_test/src/Plugin/EntityPrint/PrintEngine/PrintExceptionEngine.php	c5f7513567fa92b3e26d036b1ce336be
+A	tests/modules/entity_print_test/src/Plugin/EntityPrint/PrintEngine/TestWordPrintEngine.php	c1e0bc4f9bc76e4209eae8545986e6f3
+A	tests/src/Functional/Base64ImageTest.php	0240f7a85fc4c1cd1710102c33a63184
+A	tests/src/Functional/EntityPrintTest.php	d0c8a2d154aeb898dd7451861e7dfc39
+A	tests/src/Functional/InstallationTest.php	45bd8a4a5b55858b56868d09d3d430de
+A	tests/src/Kernel/ContentRendererTest.php	f0538e86aeb3adc0c7a608b5b5f3a143
+A	tests/src/Kernel/EntityPrintAccessTest.php	c16bfa85ebd216191d97eb0e5a9f2daf
+A	tests/src/Kernel/EntityPrintPluginManagerTest.php	99b864ef545529b62055c9b76f02739d
+A	tests/src/Kernel/ExtraFieldsTest.php	1e5c83c680441c98ee7a42fb72acfbf3
+A	tests/src/Kernel/NodePreviewTest.php	83886c34d2ccb4587dcf77c501315ea2
+A	tests/src/Kernel/PostRenderSubscriberTest.php	d6a5994df9ff6bd17d66399648c8e36a
+A	tests/src/Kernel/PrintBuilderTest.php	53e55a3b05980955a2798d78740342b7
+A	tests/src/Kernel/PrintHtmlAlterTestEvent.php	fe641182de0990ce1c163d42f87a9ca1
+A	tests/src/Kernel/PrintLinkTest.php	154a25bee0e563d8d40a9d99eb1d790a
+A	tests/src/Kernel/TranslationTest.php	d66c593e5aa46653d38d68a6a4c0aaef
+D	tests/src/Unit/EntityPrintTest.php	
+M	tests/themes/entity_print_test_theme/entity_print_test_theme.info.yml	e400610d33568314693b3919f74dfe71

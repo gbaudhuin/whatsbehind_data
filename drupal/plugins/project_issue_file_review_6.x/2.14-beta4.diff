@@ -1,0 +1,11 @@
+M	client/pifr_client.cron.inc	b18c7420336340b603b8e9e59e07ac93
+M	client/pifr_client.info	7099bf6e2567768289b7274efdfacb3d
+M	pifr.info	63a9e8260fb928881e8d1035fcdaa688
+M	review/assertion/pifr_assertion.info	bc38b012720ccad4e83f5d3279e60d96
+M	review/client.inc	c95d3a02fee8c56e05046f85ac5c7de2
+M	review/coder/pifr_coder.info	da913cdd2902b4f4ec5fdc9cbaba03d4
+M	review/drupal/pifr_drupal.info	9b98db301ae718c1509aa245257bb66f
+M	review/simpletest/pifr_simpletest.info	1f2b4ce410917971da6c2690053eb8dc
+M	server/pifr_server.info	d36a7d2b374fcfda94d3f54353911e9f
+M	server/pifr_server.test.inc	30928914cd60558e4fb3c9d050c1d86f
+M	util/shell/pifr_shell.info	4e8ad4d04adbe00df9d87844fd2ac4f3

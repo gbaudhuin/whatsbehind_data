@@ -1,0 +1,11 @@
+D	.spam.module.swp	
+M	content/spam_content_comment.inc	8574f1d5a8dbfb9c105b9d46b3d238f7
+M	content/spam_content_user.inc	10865d28d431fd358e5c3cf1d2d612f4
+M	filters/spam_filter_bayesian/spam_filter_bayesian.info	f3e061ff44667c2cb661e0f4c02a9b97
+M	filters/spam_filter_custom/spam_filter_custom.info	1368e99ed0366501133265dbab9c3a06
+M	filters/spam_filter_duplicate/spam_filter_duplicate.info	4f8135da55c3b5c7c9352589e4ff5dfc
+M	filters/spam_filter_node_age/spam_filter_node_age.info	007bf668c5aea0c5f36c660c1b55a8e1
+M	filters/spam_filter_surbl/spam_filter_surbl.info	611b5951ba0d83cd3ce4d6fb0548f2d4
+M	filters/spam_filter_url/spam_filter_url.info	3ab9233e9a1b879ba2e09b733f6bcac6
+M	spam.info	c78fb94596a82bd74bc99fe86cfe2c59
+M	spam.module	df8b18e59f1b844c7a41171d03ed3f02

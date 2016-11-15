@@ -1,0 +1,67 @@
+D	.codeclimate.yml	
+D	.phpmd.xml	
+M	.travis.yml	a2f65a336eded49822dd67ef35e5b88a
+M	.travis/drupal-8.1.x.make.yml	b48f7545f05d53e925fa313bed5d5ddb
+D	.travis/drupal-8.3.x.make.yml	
+D	README.md	
+A	README.txt	441c9e726000a509c29c5aab60a91dd6
+D	config/install/replication.replication_settings.article.yml	
+D	config/install/replication.replication_settings.page.yml	
+D	config/install/replication.replication_settings.published.yml	
+D	config/install/replication.settings.yml	
+D	config/schema/replication.replication_settings.schema.yml	
+D	config/schema/replication.schema.yml	
+M	replication.drush.inc	bdd7d4ac6f66042f13c086d3b4e14fd8
+M	replication.info.yml	dc6609b975dc790a86295c7ed6e3b844
+D	replication.links.menu.yml	
+D	replication.routing.yml	
+M	replication.services.yml	b0b14cf49aa4f86664e1c61d3bb116d8
+M	src/AllDocs/AllDocs.php	8526121b1c0083703895d77349af3d82
+D	src/Annotation/ReplicationFilter.php	
+M	src/BulkDocs/BulkDocs.php	15b0f37f8710d2168bac3b1ea8014643
+M	src/BulkDocs/BulkDocsInterface.php	5d3abfa3ac38e3dc4ec316a70c976d2b
+M	src/BulkDocsFactory.php	51cbd04679f4aad928dd35af19c978a3
+M	src/Changes/Changes.php	be6f8a52934b2e8c05d097ce8d3a0d96
+M	src/Changes/ChangesInterface.php	68e32710675c5703ce81a319fdbeabe5
+M	src/ChangesFactory.php	b0720446dee8841ae32c78ed3d4f17e0
+D	src/Entity/ReplicationSettings.php	
+D	src/Entity/ReplicationSettingsInterface.php	
+D	src/Form/SettingsForm.php	
+M	src/Normalizer/BulkDocsNormalizer.php	0fdd3a13cd9ec103dd95f940b4b191f4
+M	src/Normalizer/ChangesNormalizer.php	49fbe6d8aaa73b8cd287d389ba44179e
+M	src/Normalizer/CommentItemNormalizer.php	4a6cf5a3c1858ceaad4f8f17027570ce
+M	src/Normalizer/ContentEntityNormalizer.php	3808a4194dfae5488a7644039d4a854c
+M	src/Normalizer/EntityReferenceItemNormalizer.php	713ca29fa6590d8b0d83c5c17e8531ed
+M	src/Normalizer/FileItemNormalizer.php	2bc3edb7aeb5876a7f74c871e8325700
+M	src/Normalizer/LinkItemNormalizer.php	a2c40886ec060cca131c4303142022cd
+M	src/Normalizer/ReplicationLogNormalizer.php	3173aad75921b8205b032ada84c200ce
+M	src/Normalizer/TextItemNormalizer.php	e594e2218c26573c44d3c224c8d2a1b2
+D	src/Plugin/ReplicationFilter/EntityTypeFilter.php	
+D	src/Plugin/ReplicationFilter/PublishedFilter.php	
+D	src/Plugin/ReplicationFilter/ReplicationFilterBase.php	
+D	src/Plugin/ReplicationFilter/UuidFilter.php	
+D	src/Plugin/ReplicationFilterInterface.php	
+D	src/Plugin/ReplicationFilterManager.php	
+D	src/Plugin/ReplicationFilterManagerInterface.php	
+M	src/ProcessFileAttachment.php	caf63f895a6b35763de94312b19289e7
+D	src/ReplicationTask/ReplicationTask.php	
+D	src/ReplicationTask/ReplicationTaskInterface.php	
+M	src/RevisionDiff/RevisionDiff.php	68362c816291c75ced4a67feaaaba685
+M	src/RevisionDiff/RevisionDiffInterface.php	605e8a00d2478e71f757cc419a9b44fb
+D	src/UsersMapping.php	
+D	tests/src/Functional/ReplicationFilterTest.php	
+D	tests/src/Kernel/Plugin/ReplicationFilter/PublishedFilterTest.php	
+M	tests/src/Kernel/ReplicationLogTest.php	390dfaca6ec1e1ce6d10bc223d5564c6
+D	tests/src/Kernel/ReplicationSettingsTest.php	
+M	tests/src/Unit/Encoder/StreamEncoderTest.php	423937122c124fd7dc53382b7fcf28e6
+M	tests/src/Unit/Normalizer/AttachmentNormalizerTest.php	99895e66b0251c918ccd738c37305136
+M	tests/src/Unit/Normalizer/BulkDocsNormalizerTest.php	3dcd0d348495e01aecce26851c9db7a3
+M	tests/src/Unit/Normalizer/ContentEntityNormalizerTest.php	38fa5e5686af896914861853826e9534
+D	tests/src/Unit/Normalizer/EntityReferenceItemNormalizerTest.php	
+M	tests/src/Unit/Normalizer/FileItemNormalizerTest.php	63e54cf5d5e3e4252bec7622c425857e
+M	tests/src/Unit/Normalizer/LinkItemNormalizerTest.php	3e1908f995b5e5d9923dc3e83780c0ec
+M	tests/src/Unit/Normalizer/NormalizerTestBase.php	0000b608d1f3a3ba0438f8d8ae4fa524
+M	tests/src/Unit/Normalizer/ReplicationLogNormalizerTest.php	5262eb1536f5f3047b266e6b8fc9ecc5
+M	tests/src/Unit/Normalizer/WorkspaceNormalizerTest.php	eb8700c410df816b18e3fd9ab82f1c03
+D	tests/src/Unit/Plugin/ReplicationFilter/EntityTypeFilterTest.php	
+D	tests/src/Unit/Plugin/ReplicationFilter/UuidFilterTest.php	

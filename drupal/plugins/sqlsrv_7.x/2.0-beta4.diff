@@ -1,0 +1,9 @@
+M	README.txt	43bad82102a15863796d2d50fd10e746
+M	sqlsrv.info	e5fa0c904d12fbaeebaa16d7ace946e0
+M	sqlsrv/database.inc	9d0a1fd0ef72a62176c4cfa4e937b625
+A	sqlsrv/enum.inc	e89b32ef64800c9ec28a29ec71ea5ece
+M	sqlsrv/query.inc	6e85ae26d114ee0bab6c23c14786176e
+M	sqlsrv/schema.inc	f9b9f0243a2bcadc878230299f1798d6
+M	sqlsrv/select.inc	a32c472ae11820828ebd11db0480cd3e
+A	sqlsrv/transaction.inc	790570da2ca3803b92abb2e60f8705d1
+A	sqlsrv/utils.inc	34e6faefe285d017da9ac6f63e5a41a9

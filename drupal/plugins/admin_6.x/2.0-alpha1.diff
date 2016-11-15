@@ -1,0 +1,23 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	229c1223b1e04f02b315b5f12106d9d5
+M	admin.admin.inc	47fb8029af34327e3fba2fefa712c603
+M	admin.info	101a9051745ffb07a3d6f5c359c91e44
+M	admin.install	4bc1113a6d0ef98e4319675f4b83651c
+M	admin.module	cbcbc9eeb45aecf2db694bc6c00bf67f
+D	images/sprite-rtl.png	
+M	images/sprite.svg	fd8d7eb8007d7513d07e0cadcdb6d24a
+M	includes/admin.devel.js	f1876d819f130db30d48ca7cdab23aed
+D	includes/admin.menu-rtl.css	
+M	includes/admin.menu.css	04cbe23747663e9d558e59a7457fd9b7
+M	includes/admin.menu.js	a7e0e9bb38eb3d1a5027c4604a243650
+D	includes/admin.theme.inc	
+D	includes/admin.toolbar.base-rtl.css	
+D	includes/admin.toolbar.base.css	
+M	includes/admin.toolbar.css	f8811b15f9f2e2a522740b27b3ecbcb0
+M	includes/admin.toolbar.js	9f809d29ff36ea2dac64d01a880a1446
+D	includes/jquery.drilldown.js	
+M	theme/admin-toolbar.tpl.php	1c6da4ccc53e7524799ad8dd90ed49c2
+M	theme/theme.inc	771a33c505a57a49d043a4d0701642d0
+A	translations/hu.po	1daf477330fe56be1267e2c9aaa91899
+A	translations/pt-br.po	906708852cd63ee378822aaed70e7731
+A	translations/uk.po	85e4356f0a089ca43bee6ab173169f8a

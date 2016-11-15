@@ -1,0 +1,51 @@
+A	ace/ChangeLog.txt	ef71fbe0535437cb550a937f70c158a8
+A	ace/Readme.md	2715a9ee5e2ca7171329af6b69912203
+A	ace/editor.html	1721f4ba2b279e9c98a11fae73565eca
+A	ace/src/ace-uncompressed.js	f2592930899ecdb2f7db667c54b2ab1a
+A	ace/src/ace.js	02372eec8ecdf9f982a1ae57f7e062e3
+A	ace/src/cockpit-uncompressed.js	cb404a6517fa43f649ab985295fffbc6
+A	ace/src/cockpit.js	09cb200fb42fa6096ff595691e344936
+A	ace/src/keybinding-emacs.js	d1eb059ad59d2791a5fca18e243538f9
+A	ace/src/keybinding-vim.js	4580ebf63ba4113ba5faa37bc11bbca5
+A	ace/src/mode-c_cpp.js	a4a3ad83d61610ce579095e2beaf1dcb
+A	ace/src/mode-coffee.js	e2012dd1ea52166743b3f4ea50cedeff
+A	ace/src/mode-css.js	bb4db8db37578fb12b54c145d3fa9737
+A	ace/src/mode-html.js	2e24a1c753c137352a75ebfdc72d517b
+A	ace/src/mode-java.js	393c902ae9be636049feb98f42aa2d93
+A	ace/src/mode-javascript.js	53339f6ab7063c95c67d1052fefe1fe5
+A	ace/src/mode-php.js	6e4ee5ac63f44d04f168c4bc3fc2f199
+A	ace/src/mode-python.js	d9c243e5071e4fb4331c1c417b4045b3
+A	ace/src/mode-ruby.js	7185aaab172d9632d749b2e967a7b519
+A	ace/src/mode-xml.js	383bace69ea1f9b6e59769d77809d39b
+A	ace/src/theme-clouds.js	599de8dac9108199a833698926afe4eb
+A	ace/src/theme-clouds_midnight.js	96107f20b079fd4bb0fad84058fc678a
+A	ace/src/theme-cobalt.js	5a6e3690d287dcc9e48a73f86b0ed37b
+A	ace/src/theme-dawn.js	456e82ef8f7ab914016c5e3709a29605
+A	ace/src/theme-eclipse.js	fa6aa2eda110427574682e42ebcbfeb2
+A	ace/src/theme-idle_fingers.js	667e35000495d94f6143b56a59efccd7
+A	ace/src/theme-kr_theme.js	dbc2420f04d7f6d404561bc6c382915c
+A	ace/src/theme-mono_industrial.js	8ba0ddc0e1f1f89dfbb09de7b12beb02
+A	ace/src/theme-monokai.js	57a970f833bf9f0637b79b53e3ca33e4
+A	ace/src/theme-pastel_on_dark.js	71b075339a3b3b8bdbdf414898b6cbd2
+A	ace/src/theme-twilight.js	ad5b3bdaadb2a258e724a9e7cfdc18d5
+A	ace/src/worker-javascript.js	5d3c5c1d985919964380bbbe14936967
+D	bespin/README.txt	
+D	bespin/prebuilt/BespinEmbedded.css	
+D	bespin/prebuilt/BespinEmbedded.js	
+D	bespin/prebuilt/BespinMain.js	
+D	bespin/prebuilt/BespinWorker.js	
+D	bespin/prebuilt/resources/screen_theme/images/bespin-s.png	
+D	bespin/prebuilt/resources/screen_theme/images/check-selected.png	
+D	bespin/prebuilt/resources/screen_theme/images/check-unselected.png	
+D	bespin/prebuilt/resources/screen_theme/images/lines.png	
+D	bespin/prebuilt/resources/screen_theme/images/radio-selected.png	
+D	bespin/prebuilt/resources/screen_theme/images/radio-unselected.png	
+D	bespin/prebuilt/resources/screen_theme/images/scroll-down.png	
+D	bespin/prebuilt/resources/screen_theme/images/scroll-left.png	
+D	bespin/prebuilt/resources/screen_theme/images/scroll-right.png	
+D	bespin/prebuilt/resources/screen_theme/images/scroll-up.png	
+D	bespin/prebuilt/resources/screen_theme/theme.less	
+M	css.css	7be8c4c9b30970c4c8bcd502a005c3b9
+M	css.js	81fb18e5a097e8555dfd154a123f44fe
+M	live_css.info	541ff45c25c0dc53507350a168a311b8
+M	live_css.module	7c610f3b55983a560d53ca9035a58222

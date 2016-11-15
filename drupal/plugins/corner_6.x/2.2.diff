@@ -1,0 +1,11 @@
+M	CHANGELOG.txt	ef9d56c5433f09bd411aae6df6d56aa4
+M	README.txt	4577ba63a4d673783cbfe4a2ebda0983
+M	corner-admin.css	22d9439cb8e2c72e034d0c4a5f361f60
+M	corner.admin.inc	c8a7ef30350ea5d1ace0d8ce1aa5c728
+M	corner.css	86b2b43fc6f5599a3ce0b45d46bcf661
+M	corner.info	93c7fc39bcfada46586d819a9a37ed14
+M	corner.install	8078aae866e6626ddc0765776c4728e4
+M	corner.module	181ee8e64b22f4d914c11d4ba1717257
+M	corner.tpl.php	4db43c665ada31cbe25756c7b978969b
+M	tests/corner.test	549bc247bf32b60011ea86f47ed0e3df
+D	translations/hu.po	

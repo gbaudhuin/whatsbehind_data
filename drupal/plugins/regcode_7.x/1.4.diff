@@ -1,0 +1,11 @@
+M	includes/views_handler_field_term_regcode_tid.inc	08fe88626eb5f03251773406d0f4095c
+M	regcode.info	7496da63722cba972f2adfbb5823d313
+M	regcode.module	acb0711a1b55025599a897742d95c925
+M	regcode.rules.inc	52e026946fd0464031789802f294979e
+M	regcode_ie/regcode_ie.info	57e87698318c4dbbc55507aacd9cbe40
+M	regcode_mailer/regcode_mailer.info	6cf9687afda942f4c6b8ce31b84ae8d4
+M	regcode_og/regcode_og.info	785b882fa81dcd162ced15a157dfd370
+M	regcode_og/regcode_og.module	552a9191dfa7d0c9b97955048bf05082
+M	regcode_roles/regcode_roles.info	b86db85b95c72aa4bcd8af6145878c3e
+M	regcode_roles/regcode_roles.module	6600fa66463c026a2ca1d86a73d578a1
+M	regcode_voucher/regcode_voucher.info	e63778b9a87736819e6353e1d6be799a

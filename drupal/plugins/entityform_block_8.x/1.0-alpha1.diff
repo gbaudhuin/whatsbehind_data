@@ -1,0 +1,4 @@
+M	entityform_block.info.yml	ba3e6f4aa4fcd56db8b7a1d76616e528
+M	src/Plugin/Block/EntityEditFormBlock.php	a8a38326a9476535c0d3ab69aa2a315c
+D	src/Tests/LocaleTest.php	
+D	tests/test.de.po	

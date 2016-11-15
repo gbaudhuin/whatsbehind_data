@@ -1,0 +1,71 @@
+D	CHANGELOG.txt	
+M	README.txt	13e4cbed77e3595da7d9e917fb1573c0
+D	images/lock.gif	
+M	includes/spaces.views.inc	80218fc9a90bd2712b7b2913d6dcf0d4
+M	includes/spaces_handler_field_spaces_feature.inc	24ad69906dffa6fc9227edc41704f463
+M	includes/spaces_handler_filter_spaces_current.inc	c53648d1d3539e710d01e389b6dd8b16
+D	includes/spaces_handler_filter_spaces_feature.inc	
+M	includes/spaces_plugin_access_spaces_feature.inc	bed23a01f3a187f2f9a8c9a33b7e64ed
+A	plugins/space.inc	76bc4a59ecb09a5743816bc3b0919a89
+A	plugins/space_type.inc	ddb12582e733d31842af98d8c6534741
+A	plugins/space_type_purl.inc	1d41ce03edcf80a90ea8b7b80462e7ae
+A	plugins/spaces_controller.inc	0ff40848e5069dd02aee47d5f861546a
+A	plugins/spaces_controller_context.inc	d411c0e7f6a15d84229a6e663eae79e9
+A	plugins/spaces_controller_variable.inc	84bdc912f29e814b28f6dd5a6f00ff66
+A	spaces.admin.inc	362682f30bce4b8653d76e33adaa7987
+A	spaces.api.php	1232523b39c63e03ba85b5412bd8e6d8
+M	spaces.css	f4ab7c40d02df2d63fea09a529a8314e
+D	spaces.features.inc	
+M	spaces.info	348afab3ddf5fd3070945a697aeb1b7c
+M	spaces.install	293af0f437445841c394e2275fd2324c
+D	spaces.js	
+M	spaces.module	a7f423f44e08e10f1ffd1d4d306783cd
+A	spaces.overrides.inc	df6c97baae3a55f19234729312b909a1
+D	spaces.spaces.inc	
+M	spaces.theme.inc	df774c7c50e4fba5fa7049846cb70920
+D	spaces_admin.inc	
+M	spaces_blog/spaces_blog.defaults.inc	28d6f3d84e23ce7298f1c3ef3c6ff9d4
+M	spaces_blog/spaces_blog.features.inc	173c63a55765b3ad26c8797caa24868b
+A	spaces_blog/spaces_blog.features.node.inc	3d2ddedb47a102e2e50ac0bdae5d3ecf
+A	spaces_blog/spaces_blog.features.views.inc	78b1de91576bfd5938a5deb5c8f7faf7
+M	spaces_blog/spaces_blog.info	116461a61de775e7167638e7f1f63b6e
+M	spaces_blog/spaces_blog.module	41e465b3fac5f3dcf464032de7ddf499
+A	spaces_customtext/plugins/spaces_controller_customtext.inc	cbc6b5829286d6a3804240e1a3460928
+A	spaces_customtext/spaces_customtext.admin.inc	34228b4b974ed85b9360ee3c28d57a80
+A	spaces_customtext/spaces_customtext.css	28d48b5de7cbad10c399e1a6bb9e3385
+A	spaces_customtext/spaces_customtext.info	7adeb8f61d82da644d89f12a15112f1e
+A	spaces_customtext/spaces_customtext.module	b234025c419de43cbf94b30eaa456426
+A	spaces_dashboard/spaces_dashboard.admin.css	7ab4ac50ad873b7a1561d0b55b868531
+A	spaces_dashboard/spaces_dashboard.admin.inc	8c7d9d9c73349936e91f36d5718ede9d
+A	spaces_dashboard/spaces_dashboard.admin.js	a6f86ea530c073c12ca99f2ddb979217
+A	spaces_dashboard/spaces_dashboard.defaults.inc	f9330de92e9308e104a1f2939147f25d
+A	spaces_dashboard/spaces_dashboard.features.inc	90d9718a7ea128d60e80cb4f00397ccd
+A	spaces_dashboard/spaces_dashboard.info	5883a46dac07cf7296ab4defbf1a9baf
+A	spaces_dashboard/spaces_dashboard.module	a82e879a285fb8370196a1343fabc901
+A	spaces_dashboard/tests/spaces_dashboard.test	4f392926a03ee961792b827dae741248
+D	spaces_design/spaces-design.tpl.php	
+D	spaces_design/spaces_design.css	
+D	spaces_design/spaces_design.info	
+D	spaces_design/spaces_design.js	
+D	spaces_design/spaces_design.module	
+D	spaces_design/spaces_design.spaces.inc	
+A	spaces_og/README.txt	30afaa8b36c71529288f9744fb386424
+A	spaces_og/plugins/space_og.inc	9946bc3a259e937c2290a1bb433a146f
+M	spaces_og/spaces_og.info	38b1f08a0eb8ac5e688fe38aec07b615
+D	spaces_og/spaces_og.install	
+M	spaces_og/spaces_og.module	a6d8312349c5ce4b2aa9d0694ab3e7e2
+A	spaces_og/spaces_og.pages.inc	290c3df4d51507771ca734b93073a380
+A	spaces_og/tests/spaces_og.test	2d0d444dd42af89cff1bcedde062839e
+D	spaces_site/spaces_site.info	
+D	spaces_site/spaces_site.module	
+A	spaces_taxonomy/plugins/space_taxonomy.inc	5c6541ebef51675a8f4d5989625ee65c
+M	spaces_taxonomy/spaces_taxonomy.info	4899b750e18f401051e82f498fada9dc
+M	spaces_taxonomy/spaces_taxonomy.module	bf4cd958f219f44be9fb6be65c0b9d4d
+A	spaces_ui/spaces_ui.admin.inc	03c36f7071c641b7817e9b2aee9e4828
+A	spaces_ui/spaces_ui.info	55707d55a912f3fb7e517823b4fe1946
+A	spaces_ui/spaces_ui.module	346da49be0f3d425fc1266575353cceb
+A	spaces_ui/spaces_ui.theme.inc	d1a7cf85f368d3d4dfab58a5ba833888
+A	spaces_user/plugins/space_user.inc	7f446b898fed20979eb2ea6aedccce9d
+M	spaces_user/spaces_user.info	f403c30e05ce038600f9aa0ed45fe89c
+M	spaces_user/spaces_user.module	610c1b7db5c9b120e0ab8bf5e24d4899
+M	tests/spaces.test	f35ffc01e4d304ff1a5b5f4e6397e9e5

@@ -1,0 +1,11 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	0657f6784e979b4938cefac7c116f8ca
+A	realname.admin.inc	b871cef4ce59b303c025146bbccba748
+A	realname.api.php	de4ee70e3b41ed57e369478391fae957
+A	realname.info	45c0cc37163ab1f12737f6a00e3d003b
+A	realname.install	34a4fc687b30662de3eb1b4583bc6ef2
+A	realname.module	1c408c608559ba6369076570fb86621c
+A	realname.tokens.inc	02cec449fbe09baf90ee5b05cb5ab618
+A	realname.views.inc	b393e6aec2d761eda600d60bd2529be9
+A	tests/realname.test	4f38e813c90dd62f1b2f543e7279e643
+A	tests/realname_entity.test	f17f27dfc539f25f3ab4514f0793046a

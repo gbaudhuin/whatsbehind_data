@@ -1,0 +1,15 @@
+M	modules/og_access/og_access.info	9dfa4e52a38ffa1ec771044344c78859
+M	modules/og_actions/og_actions.info	60c98f1037b23ef93ba22353b31a6059
+M	modules/og_actions/og_actions.module	32fbd882fd2f3879688852facf4d60d2
+M	modules/og_notifications/og_notifications.info	d3bd4457a0a7fcf42ef0fe8cd8958902
+M	modules/og_notifications/og_notifications.module	8ce55e31c0ae2d5f640111eac893279e
+M	modules/og_panels/og_panels.info	da35ef336f5e8195eff1b64b5610633b
+M	modules/og_views/includes/og_views_handler_field_og_is_manager.inc	d1bc89b12aad4db3293f58fafc129e14
+M	modules/og_views/og_views.info	31b465d477f30d80bbc526f22bcae98e
+M	modules/og_views/og_views.module	9b0769031b5cc00106e5e08e182798e8
+M	modules/og_views/og_views.views.inc	c105194434ca9316e22a9c358873bccd
+M	modules/og_views/views/og.og_members.view	553d23b91fc0b44eb150c2148669aa3f
+M	modules/og_views/views/og.og_members_block.view	852d05816a91ffdac5a6dc367c33fb35
+M	og.info	03b74b84ee1487521c3051934eb23e8d
+M	og.module	6eaa87908a49e0a80918fff24d139b15
+A	tests/og.context.test	0f3fe16306c9cd20c1595c1abcf9078f

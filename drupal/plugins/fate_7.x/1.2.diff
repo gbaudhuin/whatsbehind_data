@@ -1,0 +1,12 @@
+M	CHANGELOG.txt	82f0644f7667342880c6f18a77d08249
+M	README.txt	f909756e9468a2d9d098892c79c41d98
+A	fate.api.php	f9f5268e596a5982c9d9f4eec2328c61
+M	fate.info	907ea6fbab668fd1ea909502039c0bd3
+A	fate.install	eaadc07f7c0a694c09b1218ca3997852
+M	fate.module	c88ca68f6f2e9781082cd597b12e5890
+M	fate.pages.inc	b7384b196f12f1e76f6d494ea7b62919
+A	tests/fate.fieldable_panels_panes.test	79e6598986d70678d99e923ace99307d
+A	tests/fate.helper.test	927859221a449829b677d8cffbb9416a
+A	tests/fate.node.test	8c4aa6d6566035ec91b295935e9b800f
+A	tests/fate.taxonomy_term.test	9ad78abb250bb8a4e306a6006cc562ca
+A	tests/fate.user.test	175c97d76a7dacd4d3b7a5a7a60563d2

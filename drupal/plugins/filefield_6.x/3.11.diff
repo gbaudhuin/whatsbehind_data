@@ -1,0 +1,12 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	field_file.inc	852649eb949a029939768eb54dc01598
+M	filefield.info	5feb4fde58f53b477b1385112a084e5f
+M	filefield.js	7200677714991c186fd5a3abb1d29956
+M	filefield.module	9c4bc1d3266d917993691c0131078382
+M	filefield.theme.inc	aec1f11d3eb067d1f32765d7bc5612f2
+M	filefield_field.inc	cbd9ecde957060c0a9d8b945af7cecca
+M	filefield_formatter.inc	2eccadbfa3105a0e7d6bc6ddb1091f8c
+M	filefield_meta/filefield_meta.info	60608e11dd6facacca0405f2d39f888e
+M	filefield_meta/filefield_meta.module	d6a3bd610ace96cebe383c37a419e2e8
+M	filefield_widget.inc	7364644db2c403204dafa009d08bae11
+M	tests/filefield.test	e8f7cfbaa414d91593980d56022e547a

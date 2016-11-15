@@ -1,0 +1,8 @@
+M	search_api_sorts.info.yml	451b01b3f8770e11db297b12f247861b
+M	search_api_sorts.module	a5c3f660219704e373ae8fd31a70177e
+M	src/Controller/AdminController.php	840ddd1c6034d6d07386d4adcb19eb3a
+M	src/Form/ManageSortFieldsForm.php	78e8db75eea6a08e47a042f6305ab763
+M	src/Plugin/Block/SearchApiSortsBlock.php	2afc343133159d5c3b687b09cc2897c0
+M	src/SearchApiSortsManagerInterface.php	2efd1fd278350c84bc2a677ea1020a16
+M	tests/search_api_sorts_test_hook/search_api_sorts_test_hook.info.yml	53e609354c474e46412818ecd36c9cfd
+M	tests/search_api_sorts_test_views/search_api_sorts_test_views.info.yml	9b7af8f7eba8aa6a592deede4d02142d

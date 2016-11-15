@@ -1,0 +1,45 @@
+M	README.txt	05fe886bc104740123ac20fd7ad91e2b
+M	includes/mailchimp.admin.inc	60260498bc3b6d4eb7ddf3ae6f2ddac9
+M	includes/mailchimp.drush.inc	c3bb28d20d466e3be866e56fedb99d82
+M	includes/mailchimp.inc	bc98083e3f6e5ae15bbf151d651cd826
+D	includes/mailchimp_exception.inc	
+M	mailchimp.api.php	fb4aebf480d410cba1786d81d5ff6abf
+M	mailchimp.info	af66f4d89fb8afb9a751e6fdafd3cc95
+M	mailchimp.install	626aa8a92f375509767439870fe2bccf
+M	mailchimp.make.example	c302c22706f5327b174e67b571056051
+M	mailchimp.module	980da480d3b2770b8d17af299f3202d1
+D	modules/mailchimp_activity/README.txt	
+D	modules/mailchimp_activity/includes/mailchimp_activity.admin.inc	
+D	modules/mailchimp_activity/includes/mailchimp_activity.entity.inc	
+D	modules/mailchimp_activity/includes/mailchimp_activity.ui_controller.inc	
+D	modules/mailchimp_activity/mailchimp_activity.info	
+D	modules/mailchimp_activity/mailchimp_activity.install	
+D	modules/mailchimp_activity/mailchimp_activity.module	
+M	modules/mailchimp_campaign/README.txt	3d24e121894fd0e0637c0c19e65307d3
+D	modules/mailchimp_campaign/includes/mailchimp_campaign.admin.inc	
+D	modules/mailchimp_campaign/includes/mailchimp_campaign.controller.inc	
+D	modules/mailchimp_campaign/includes/mailchimp_campaign.entity.inc	
+D	modules/mailchimp_campaign/js/mailchimp_campaign.utils.js	
+A	modules/mailchimp_campaign/mailchimp_campaign.admin.inc	a8dc52312b70e9720fece0f0bce0121c
+D	modules/mailchimp_campaign/mailchimp_campaign.css	
+A	modules/mailchimp_campaign/mailchimp_campaign.entity.inc	566c08dfa4c823ad0326fa6052e86e3a
+M	modules/mailchimp_campaign/mailchimp_campaign.info	75cde2e06f5fd52a295711c20be50795
+M	modules/mailchimp_campaign/mailchimp_campaign.module	8e5b82b9ef532d8ab0979f8e551fe188
+D	modules/mailchimp_campaign/tests/mailchimp_campaigns.test	
+M	modules/mailchimp_lists/README.txt	315ac9963746a3c18dae4ce22f508543
+M	modules/mailchimp_lists/includes/mailchimp_lists.admin.inc	7759e18fe0b13b551dcbbae094bc1715
+M	modules/mailchimp_lists/includes/mailchimp_lists.field.inc	bbc7d57ee080ab79361ac5152f86f9e6
+M	modules/mailchimp_lists/mailchimp_lists.info	0030ba7a81844b2071d6708077e594cf
+M	modules/mailchimp_lists/mailchimp_lists.install	38bedd8b580f91ed14777314330052f2
+M	modules/mailchimp_lists/mailchimp_lists.module	833b32f655cceddbe594649c8750c523
+D	modules/mailchimp_lists/mailchimp_lists.rules.inc	
+D	modules/mailchimp_lists/tests/mailchimp_lists.test	
+M	modules/mailchimp_signup/README.txt	a280ba01e976f0ca927ccff45dd98709
+M	modules/mailchimp_signup/includes/mailchimp_signup.admin.inc	9d02e682837209a81ffb7c8521b2450f
+D	modules/mailchimp_signup/includes/mailchimp_signup.ui_controller.inc	
+M	modules/mailchimp_signup/mailchimp_signup.info	d68dfa2003d5d805db59fab9b3dc3252
+M	modules/mailchimp_signup/mailchimp_signup.install	5e728ee31fd9d2b6dba825ea75e26eb9
+M	modules/mailchimp_signup/mailchimp_signup.module	ec3ac71cec9ba321ef032ee79469df69
+D	tests/mailchimp_campaigns_test.inc	
+D	tests/mailchimp_lists_test.inc	
+D	tests/mailchimp_test.inc	

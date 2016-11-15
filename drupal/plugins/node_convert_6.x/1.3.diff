@@ -1,0 +1,5 @@
+A	includes/book.node_convert.inc	b4af30fba20db592414a06ce8b10abf5
+A	includes/forum.node_convert.inc	f1d66f31a646c30853cccd4bf5b51d8f
+M	node_convert.info	db027a249f898db369ebbec2c844dbbc
+M	node_convert.module	555391ef92eb2de42f94c561eba45a25
+M	node_convert.test	ab7aa58d88bc6f528ea8269803bccfff

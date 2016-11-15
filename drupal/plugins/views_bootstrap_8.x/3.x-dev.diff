@@ -1,0 +1,12 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	src/Plugin/views/style/ViewsBootstrapAccordion.php	c6eb3a5c4f45796f525f6f8bbec143fb
+A	src/Plugin/views/style/ViewsBootstrapCarousel.php	55587f78f9ce45fd5cdaf391c2da6da9
+A	src/Plugin/views/style/ViewsBootstrapTable.php	734ccf4410557a6ab41c913a693144d7
+A	templates/views_bootstrap_accordion/theme.inc	b58b2a230308aae4958901ed6dceca53
+A	templates/views_bootstrap_accordion/views-bootstrap-accordion.html.twig	a9ee547cf6b1b9d523633259db2a4940
+A	templates/views_bootstrap_carousel/theme.inc	83ad9941459ef7b14fc9f92e60b58be1
+A	templates/views_bootstrap_carousel/views-bootstrap-carousel.html.twig	9aa5fb6fe6d1e03f0c6302deac29ae18
+A	templates/views_bootstrap_table/theme.inc	efa16876dab7aeb6602bd0e75bbabf06
+A	templates/views_bootstrap_table/views-bootstrap-table.html.twig	cfe8e7ffe6a14aa96982e040746316ad
+A	views_bootstrap.info.yml	ae6fb17a82bd7dc350efae05c3c4a2b4
+A	views_bootstrap.module	309b11ca55412da6ed70890039afbc0b

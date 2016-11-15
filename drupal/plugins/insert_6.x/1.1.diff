@@ -1,0 +1,14 @@
+M	README.txt	6c8b8d652801fb8d3238ca104dae4d7f
+M	includes/filefield.inc	b8bf7b1b4b1274cc16253a50ca114ac9
+M	includes/imagecache.inc	13c06d92549c68e4188bef934398bfd1
+M	includes/imagefield.inc	f427a1cad7e31d9be526dea80fb0e724
+M	includes/insert.inc	dc02fafb010f767f689612ec2ecf51ae
+M	insert.info	59c8a2ff8180a331ec81c19dd1840711
+M	insert.install	7371e7bac16fbedd6f68b585982f0a3c
+M	insert.js	f929ba1e2d09ad0c4f0f66df06b1b2c9
+M	insert.module	880f6ab0dfe927e5320435c7241e0145
+M	templates/imagecache-insert-image.tpl.php	1912444fe55030d0da83e42fa6d20b69
+M	templates/insert-image.tpl.php	70281be9a4de8d8062df8d0b2ab5da79
+M	templates/insert-link.tpl.php	56904e7e21dc73faac5c33f0d247f827
+M	templates/insert-widget.tpl.php	a9ccba0eafe623ddb8c473bfe66fd4fc
+D	translations/hu.po	

@@ -1,0 +1,12 @@
+M	INSTALL.txt	263151a740fb23f1fb549b611d4e3644
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	a38666f877d749891e0caf115ccde6a7
+A	isPassive.js	70ce4500dc885e904ff81bd5b156d5be
+A	shib_auth.css	09b4a5a6a2fce1798e72456232524fe4
+M	shib_auth.info	757d1c144d3e0be0ca02dd28ce4cace1
+M	shib_auth.install	388b6a2c1d212a2164d69ac302a91d6b
+M	shib_auth.module	6496827d7d0bdd2e5bebef5a0b927af6
+A	shib_auth_forms.inc	dd0a9c44e94697da602210559de47569
+A	shib_auth_roles_forms.inc	ddbb9f0b4c94fc777d3151f0ee5aad54
+A	shib_login_block.tpl.php	219e85771e7336b21140929a5260db6f
+D	translations/hu.po	

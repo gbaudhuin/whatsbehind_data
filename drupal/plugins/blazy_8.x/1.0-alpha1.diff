@@ -1,0 +1,67 @@
+D	.eslintignore	
+D	.eslintrc	
+D	CHANGELOG.txt	
+M	README.txt	7876024bfcb1fe5fb5d174043d82ce31
+M	blazy.info.yml	eeacd438afed9f660ada63b4a8f881c8
+M	blazy.libraries.yml	4c728583114dbb95730c2cabf7e9def9
+M	blazy.module	44b69e5a9c6ef8e95e817b149eb08e2a
+D	blazy.services.yml	
+D	blazy.views.inc	
+D	blazy_ui/blazy_ui.info.yml	
+D	blazy_ui/blazy_ui.libraries.yml	
+D	blazy_ui/blazy_ui.links.menu.yml	
+D	blazy_ui/blazy_ui.permissions.yml	
+D	blazy_ui/blazy_ui.routing.yml	
+D	blazy_ui/css/blazy.admin--vertical-tabs.css	
+D	blazy_ui/src/Form/BlazySettingsForm.php	
+D	composer.json	
+D	config/install/blazy.settings.yml	
+D	config/schema/blazy.schema.yml	
+D	config/schema/blazy.views.schema.yml	
+D	css/blazy.admin.css	
+D	css/components/blazy.colorbox.css	
+D	css/components/blazy.column.css	
+D	css/components/blazy.grid.css	
+D	css/components/blazy.lightbox.css	
+D	css/components/blazy.loading.css	
+D	css/components/blazy.media.css	
+D	css/components/blazy.ratio.css	
+D	js/blazy.admin.js	
+D	js/blazy.admin.min.js	
+D	js/blazy.colorbox.js	
+D	js/blazy.colorbox.min.js	
+M	js/blazy.load.js	7dfd2b9eaa5e15b542f670e1f2e26c78
+M	js/blazy.load.min.js	dac246c656b804ed25f61fd33ad551d0
+D	js/blazy.media.js	
+D	js/blazy.media.min.js	
+D	js/blazy.photobox.js	
+D	js/blazy.photobox.min.js	
+D	src/Blazy.php	
+D	src/BlazyFormatterManager.php	
+D	src/BlazyInterface.php	
+D	src/BlazyManager.php	
+D	src/BlazyManagerBase.php	
+D	src/BlazyManagerInterface.php	
+D	src/Dejavu/ASPECT-RATIO.txt	
+D	src/Dejavu/BlazyAdminExtended.php	
+D	src/Dejavu/BlazyDefault.php	
+D	src/Dejavu/BlazyEntityReferenceBase.php	
+D	src/Dejavu/BlazyEntityTrait.php	
+D	src/Dejavu/BlazyStylePluginBase.php	
+D	src/Dejavu/BlazyVideoBase.php	
+D	src/Dejavu/BlazyVideoTrait.php	
+D	src/Dejavu/README.txt	
+D	src/Form/BlazyAdmin.php	
+D	src/Form/BlazyAdminBase.php	
+D	src/Form/BlazyAdminFormatter.php	
+D	src/Form/BlazyAdminFormatterBase.php	
+D	src/Form/BlazyAdminInterface.php	
+D	src/Plugin/Field/FieldFormatter/BlazyFileFormatter.php	
+D	src/Plugin/Field/FieldFormatter/BlazyFileFormatterBase.php	
+D	src/Plugin/Field/FieldFormatter/BlazyFormatter.php	
+D	src/Plugin/Field/FieldFormatter/BlazyFormatterTrait.php	
+D	src/Plugin/views/field/BlazyViewsFieldFile.php	
+D	src/Plugin/views/field/BlazyViewsFieldMedia.php	
+D	src/Plugin/views/field/BlazyViewsFieldPluginBase.php	
+D	src/Plugin/views/style/BlazyViews.php	
+D	templates/blazy.html.twig	

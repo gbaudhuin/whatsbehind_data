@@ -1,0 +1,74 @@
+M	CHANGELOG.txt	3487022d4fa7a7b277f4b98871a5ff71
+D	css/skinr-ui-admin.css	
+D	js/skinr_ui.js	
+M	modules/block.skinr.inc	a1bb8461946fd7535364b83e24b16b9c
+M	modules/comment.skinr.inc	8cfdb17cdde4bc12dde1d5a19688f218
+M	modules/node.skinr.inc	9def07f5ff59ed0989ffa9cc371035bb
+D	modules/system.skinr.inc	
+M	modules/views.skinr.inc	8fa6887df9faf4833ab7913854b07aa1
+M	skinr.api.php	5adf6862a2d57ba36a580ddb80a1aaed
+D	skinr.features.inc	
+M	skinr.info	c00f821d5fbd404b54b78ef8e7b7419c
+M	skinr.install	d1b418e3cc56736baa014da3b98aa736
+M	skinr.module	91a8edb309c52c3cf9e42a79e7cbbd06
+M	skinr.skinr.inc	e7c180ed66034e8bdbd1e74f683b3576
+D	skinr.uuid.inc	
+D	skinr_context/skinr_context.api.php	
+D	skinr_context/skinr_context.features.inc	
+D	skinr_context/skinr_context.info	
+D	skinr_context/skinr_context.install	
+D	skinr_context/skinr_context.module	
+D	skinr_context/skinr_context_ui.admin.inc	
+D	skinr_context/skinr_context_ui.edit.inc	
+D	skinr_context/skinr_context_ui.info	
+D	skinr_context/skinr_context_ui.module	
+D	skinr_context/tests/skinr_context.test	
+D	skinr_context/tests/skinr_context_test/skinr_context_test.info	
+D	skinr_context/tests/skinr_context_test/skinr_context_test.module	
+D	skinr_context/tests/skinr_context_test_default/skinr_context_test_default.info	
+D	skinr_context/tests/skinr_context_test_default/skinr_context_test_default.module	
+D	skinr_context/tests/skinr_context_test_default/skinr_context_test_default.skinr_default.inc	
+D	skinr_context/tests/skinr_context_test_default_duplicate/skinr_context_test_default_duplicate.info	
+D	skinr_context/tests/skinr_context_test_default_duplicate/skinr_context_test_default_duplicate.module	
+D	skinr_context/tests/skinr_context_test_default_duplicate/skinr_context_test_default_duplicate.skinr_default.inc	
+D	skinr_context/tests/skinr_context_ui.test	
+M	skinr_panels/skinr_panels.info	721e70ee05b37184c7484d83216d38b8
+D	skinr_panels/skinr_panels.install	
+M	skinr_panels/skinr_panels.module	8c1e86d7dc82dd2f61421fca210a7fb0
+M	skinr_panels/skinr_panels.skinr.inc	ef42e61b43427f3f332079b3056c5378
+M	skinr_panels/tests/skinr_panels.test	1e9244245f1bd51d6389efdef7e5c7bd
+M	skinr_panels/tests/skinr_panels_test/pages_default/skinr_panels_test.inc	63ab760a7123d051923f3b284ac5d5ca
+M	skinr_panels/tests/skinr_panels_test/panels_default/skinr_panels_test_mini_panel.inc	8201d21adc5630fe5887fdd339e5d473
+M	skinr_panels/tests/skinr_panels_test/skinr_panels_test.info	f22e0c53b2756bdfc833234479a9d3da
+M	skinr_ui.admin.inc	c668ead5ebbc9fe6276bfdbb7fce4b79
+M	skinr_ui.api.php	185049e8ec193cdd690460f57116bcb7
+D	skinr_ui.edit.inc	
+M	skinr_ui.info	ceebd3729b82942ad13c5efa993ab93b
+M	skinr_ui.install	dc241b79bdb94746818637a874651606
+M	skinr_ui.module	ef01307205a3fff7050daba2516c6fbf
+A	skinr_ui.rules.inc	d22364671f9364006e742821da40cdbe
+M	tests/skinr.test	3c46d2426216fabf43033b8f1594828c
+M	tests/skinr_test/skinr_test.info	aa55153c6077399773a50b77b4788837
+M	tests/skinr_test/skinr_test.module	170c03e8c632e3af375ecb7f90bdd45d
+M	tests/skinr_test/skinr_test.skinr.inc	7631e2edf08fef6cef9844a3404f065e
+D	tests/skinr_test/skinr_test_advanced.css	
+D	tests/skinr_test/skinr_test_data.css	
+M	tests/skinr_test/themes/skinr_test_basetheme/skinr_test_basetheme.info	b924c7b34780ad5c861ac4f51fc76c10
+M	tests/skinr_test/themes/skinr_test_basetheme_other/skinr_test_basetheme_other.info	5ad7dd992e87f25869e54460818c33ae
+M	tests/skinr_test/themes/skinr_test_subtheme/skinr_test_subtheme.info	e7196f4092f07dc4d9c2511d3d2071d3
+M	tests/skinr_test/themes/skinr_test_subtheme_other/skinr_test_subtheme_other.info	4594b9514f33e76e1e839b2648f3e6f4
+D	tests/skinr_test_default/skinr_test_default.info	
+D	tests/skinr_test_default/skinr_test_default.module	
+D	tests/skinr_test_default/skinr_test_default.skinr_default.inc	
+D	tests/skinr_test_default_duplicate/skinr_test_default_duplicate.info	
+D	tests/skinr_test_default_duplicate/skinr_test_default_duplicate.module	
+D	tests/skinr_test_default_duplicate/skinr_test_default_duplicate.skinr_default.inc	
+M	tests/skinr_test_incompatible/skinr_test_incompatible.info	b835ba4597d199cb6f146b2f82a47da9
+M	tests/skinr_ui.test	35ab38b2804db949884d6222f2e4a065
+M	tests/skinr_ui_test/skinr_ui_test.info	9f9f949a9a7c8ff3dd87c038b99476ea
+M	tests/skinr_ui_test/skinr_ui_test.module	b6b72f8014a6053d4331a8464aebaf1e
+M	tests/skinr_ui_test/skinr_ui_test.skinr.inc	424869f0cef54d472ad20bb8fb49a139
+D	tests/skinr_ui_test_skinable/skinr_ui_test_skinable.info	
+D	tests/skinr_ui_test_skinable/skinr_ui_test_skinable.module	
+D	tests/skinr_ui_test_skinable/skinr_ui_test_skinable.skinr.inc	
+D	tests/update.php	

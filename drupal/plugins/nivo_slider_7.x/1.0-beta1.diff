@@ -1,0 +1,15 @@
+A	banners.inc	de599e28d5abf8b85a6ec0cd0161e66a
+A	css/nivo_slider.css	d41d8cd98f00b204e9800998ecf8427e
+A	images/6.jpg	5834fc88812b01d20fc70ff3c481624c
+D	includes/nivo_slider_slider.inc	
+M	js/nivo_slider.js	e12ba1bda88d68f678027b8acce6c0eb
+M	nivo_slider.api.php	2e1beed02163f6e42079bbd779fe93c5
+M	nivo_slider.info	a7d3620b78b23e487e5768f4490b7a22
+M	nivo_slider.install	c73e9140d0c3f5516eae5bbd799f3e5c
+M	nivo_slider.module	5f8c328a078dfabc4a413b1c51b7ec4a
+D	nivo_slider.nivo_slider.inc	
+D	nivo_slider.test	
+M	nivo_slider_options.admin.inc	be5f466d8982d25dc1f5f6e1379e109d
+M	nivo_slider_slides.admin.inc	ae2792c2b9320e481ffce6187cc8b7b3
+M	readme.txt	4ad0c1b618d30d55d788ee0c227b9ee2
+D	themes/nivo_slider.theme.inc	

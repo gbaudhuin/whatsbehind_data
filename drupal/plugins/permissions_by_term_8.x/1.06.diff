@@ -1,0 +1,10 @@
+M	permissions_by_term.info.yml	583b953f508fe5e2410504e6b74c683b
+M	permissions_by_term.module	2d07f5e702117f99a4aec96bdd532ae5
+M	permissions_by_term.services.yml	8390ea59df9ac6a56cd24adc5d9910a5
+A	src/AccessCheckInterface.php	95e9229f736b32b03ccc91d12379acd9
+A	src/AccessStorageInterface.php	d9d0a1845f49be612c64994e89616fdd
+M	src/Controller/PermissionsByTermController.php	d8d0e25d0ab9cf6545a883f8f7f5c15f
+M	src/KernelEventListener.php	de7a84dd7bc92d583f77e2fb27d58f8f
+M	tests/codeception/tests/_support/AcceptanceTester.php	1ada1db3af487e19d66bf2a832e55491
+M	tests/codeception/tests/acceptance.suite.yml	ddd92873e87bbcb40367f60843c63dbe
+A	tests/codeception/tests/acceptance/TermPermissionsEditCept.php	ba6c87cfb514a0bcc5183a799e0e6ee2

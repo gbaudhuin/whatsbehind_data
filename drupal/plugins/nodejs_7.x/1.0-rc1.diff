@@ -1,0 +1,24 @@
+M	README.txt	4323ff34674fb3198c7c07f97fa12187
+D	TODO.txt	
+M	nodejs.admin.inc	60ea92d9b873b3356498bfc0574458ec
+M	nodejs.config.js.example	ddde04ac1b3b7c728b4b15f09ec9a39f
+M	nodejs.info	f448c46e5820dc1835f0be121f90be04
+M	nodejs.js	5eb5cececa9793fa1edfbe45756144f8
+M	nodejs.module	7c7988f15e28ed933c211831cf82a5be
+M	nodejs_actions/nodejs_actions.info	599adc38b1b0413a5075a769cdf527d0
+M	nodejs_actions/nodejs_actions.module	ce7851a556fd4d5973543c635f363b4b
+M	nodejs_ajax/nodejs_ajax.info	5867df1b168444c3dd12f5b6a215540f
+M	nodejs_buddylist/nodejs_buddylist.info	8d4c7f6fb923a020b9ffbff64e632799
+M	nodejs_buddylist/nodejs_buddylist.module	d2549f8d6c1009977e5f971962d78f5e
+M	nodejs_config/nodejs_config.info	a3d5b79cc7e984dbd50adc28c09ff81d
+M	nodejs_config/nodejs_config.module	3bece1cd0eb5d390c8868f6ce7b274b8
+M	nodejs_notify/nodejs.notify.js	3142433d12ff92ff0a67d28d02b0bb2c
+M	nodejs_notify/nodejs_notify.info	ab1215c4a401ec0bc92dcaaee61e9262
+M	nodejs_notify/nodejs_notify.module	e5cbf0b70de8fd62682df504c8f173f1
+M	nodejs_subscribe/nodejs_subscribe.info	b32acf8bece8829bba0bb5f1de42b5a8
+M	nodejs_subscribe/nodejs_subscribe.module	56057791e89d6bcb373d9f4a33693838
+M	nodejs_watchdog/nodejs.watchdog.js	ce5ba6eaf36d4be028945562d3ba7c51
+M	nodejs_watchdog/nodejs_watchdog.info	295579db951bb1cadd059957e77c9b81
+M	nodejs_watchdog/nodejs_watchdog.module	b2c291fa47f54ecc4ef4f3d71f1b50aa
+M	package.json	528b53a9bad566d4e102d4f35593135f
+M	server.js	2db5c3b31b9bbc2393e2e76522c7b366

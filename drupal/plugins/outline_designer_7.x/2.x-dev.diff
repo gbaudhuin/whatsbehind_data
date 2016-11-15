@@ -1,0 +1,39 @@
+D	.DS_Store	
+A	ELMS.rtf	d0387a3e30628409d93e64066df4de2c
+A	JWERTY.txt	1139b3111c39f27394485e64e28d60a7
+M	README.txt	74c36a416d239b2efdcbe698dbc831dd
+D	_notes/dwsync.xml	
+D	css/_notes/dwsync.xml	
+M	css/outline_designer.css	0eb65d3ca147024cd1422a44ffee83fa
+D	images/_notes/dwsync.xml	
+D	images/additional_icons/_notes/dwsync.xml	
+D	images/contextmenu/_notes/dwsync.xml	
+A	js/jquery.contextmenu.js	90cc36bba764a3104c79cadcbef76eec
+A	js/jwerty/book_copy.js	d0082d71b78f8bc7f10f64ecf1c7b5f6
+A	js/jwerty/hidden_nodes.js	dcf59d89839df1a0f21e209ffb707949
+A	js/jwerty/integration.js	bb1120b3d3c13172dd095847f894e40d
+A	js/jwerty/outline_designer_book.js	5f30903372edf12ef6a392d14d73e27d
+A	js/outline_designer.js	0f960c11edea6ead08b15e5ead718425
+A	modules/outline_child_pages/outline_child_pages.info	9ec1b1ce2843d6ab865a24c97cc55921
+A	modules/outline_child_pages/outline_child_pages.module	fa2390ee2242cb42713d4e2c1f805bd4
+A	modules/outline_designer_book/js/outline_designer_book.js	8c1bf4ec76023bf39f1d5b019451b123
+A	modules/outline_designer_book/js/overrides.js	43ed76f31afe5de8897f3e45bd869839
+A	modules/outline_designer_book/outline_designer_book.info	24fdb504b98d610e74b90b8bff1d9049
+A	modules/outline_designer_book/outline_designer_book.install	cf47a9382470c09403d696c9a5a3db92
+A	modules/outline_designer_book/outline_designer_book.module	26640c1ff45af23d3cde7df3710df4c8
+D	outline_child_pages/_notes/dwsync.xml	
+D	outline_child_pages/outline_child_pages.info	
+D	outline_child_pages/outline_child_pages.install	
+D	outline_child_pages/outline_child_pages.module	
+A	outline_designer.api.php	932ab6d17135827323e77a2632f76cfc
+M	outline_designer.info	4723f8024f01b19f660418fa56fa954f
+M	outline_designer.install	19cd3bcaa933cf7524b090bc9debdc7c
+M	outline_designer.module	3786f79ff9e41be6bf5fb19aadf157ba
+D	outline_designer_og/README.txt	
+D	outline_designer_og/_notes/dwsync.xml	
+D	outline_designer_og/outline_designer_og.info	
+D	outline_designer_og/outline_designer_og.module	
+D	script/_notes/dwsync.xml	
+D	script/jquery.contextmenu.js	
+D	script/overrides.js	
+D	script/scripts.js	

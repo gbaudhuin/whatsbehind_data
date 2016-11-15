@@ -1,0 +1,13 @@
+M	basic_seo_rules/basic_seo_rules.info	da6e51e2df7ef07ec8b2f506d907da7e
+M	basic_seo_rules/basic_seo_rules.module	fc76be26e3c9bfa7e85500467934d24e
+M	inc/seo_checker.admin.inc	4229875dcf3ca4072804c249a1b07373
+M	inc/seo_checker.theme.inc	857a8263f9be90173dbfb6ced8ac3936
+M	keyword_rules/keyword_ruels.install	438db8e0919002f2e84b4232e4a77269
+M	keyword_rules/keyword_rules.info	41927a842ac445e136bda5669cfbf132
+M	keyword_rules/keyword_rules.module	37914ff325136842740926835d23853c
+M	seo_checker.info	09c1b7e28b51f705fd52ede79c073ebf
+M	seo_checker.install	1e4c28b1abd35e15b035c12e6691c195
+M	seo_checker.module	f4c4839d16c37772a3f3d3f2803ec012
+M	theme/slider-atleast.tpl.php	59f930e4897faaed3978701482cc3299
+M	theme/slider-nojquery.tpl.php	0b5c0167f6ccfff1a32737fc7a5d4034
+M	theme/slider-range.tpl.php	9fc3b6c3a952b8e03070e8bcee179469

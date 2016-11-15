@@ -1,0 +1,7 @@
+A	.gitignore	7b11d8adfeed89f8a91ad5fc859e1759
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	cdd1173d961add22fdcc872b42cda791
+A	ckeditor_smiley.info.yml	cd3e89a806227339cfeed6571f309f6d
+A	ckeditor_smiley.module	ce407ff5715c837d02b1aba7975bf512
+A	composer.json	fce708b25b2a7e140477cbeb2f24cdad
+A	src/Plugin/CKEditorPlugin/SmileyCKEditorButton.php	b50590162a74eed7061efa0054d1b089

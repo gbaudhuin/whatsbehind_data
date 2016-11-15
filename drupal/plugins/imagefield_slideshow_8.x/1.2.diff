@@ -1,0 +1,4 @@
+M	imagefield_slideshow.info.yml	5f04d4988f673f486ad9fd98105c9f08
+A	imagefield_slideshow.install	5881c7901bfb88ccca0c68875402786b
+M	js/imagefield_slideshow.js	60a6e9d5a2b62df8e2c2a8d338d0196d
+M	src/Plugin/Field/FieldFormatter/ImagefieldSlideshowFieldFormatter.php	d131a4737a2ca82f6702a262d9123273

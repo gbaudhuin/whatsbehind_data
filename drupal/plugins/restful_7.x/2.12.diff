@@ -1,0 +1,7 @@
+M	modules/restful_example/restful_example.info	1e80997840038b08b20ef93030388abb
+M	modules/restful_token_auth/modules/restful_token_auth_test/restful_token_auth_test.info	2c7e1f668b35a6d25329772023e90601
+M	modules/restful_token_auth/restful_token_auth.info	91d838273bd160a7409697bfb1a9ac2e
+M	restful.info	a1d73b073b848b5231e7b7fd17b2338b
+M	src/Plugin/resource/DataProvider/DataProviderDbQuery.php	43ec8733e8d733287b6ae3b31864468f
+M	tests/modules/restful_node_access_test/restful_node_access_test.info	ac6d73cb1f33f8055ad7271300cdd982
+M	tests/modules/restful_test/restful_test.info	fd1e89d1fd7e5144682ab7343d6cae94

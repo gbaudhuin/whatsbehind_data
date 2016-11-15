@@ -1,0 +1,19 @@
+M	README.txt	6b59db492f4efc42f773b35b87b6d778
+M	colorbox.info.yml	83df889a0bcb5755ace749a87ec0c1c4
+M	colorbox.install	cbc5f017012e2031bb7ec19d3c74eb0e
+M	colorbox.module	383903b64aedba75d90de71d9f6e69ba
+D	colorbox.post_update.php	
+M	composer.json	574583582c512d0f107e88142441c4db
+M	config/install/colorbox.settings.yml	334ca4b8c5e2e2f9444f624ddabd3811
+M	config/schema/colorbox.schema.yml	677ddeb333af33e2b760c7353d60ab34
+M	drush/colorbox.drush.inc	7f8fa84ceab5a9b7a753b46ce9278755
+M	js/colorbox.js	52ee8686766b29511e573a6cb1b73cec
+M	src/ActivationCheck.php	6b59ed36a979f1c1b70cb6a7458e911c
+M	src/ColorboxAttachment.php	224914e86c7408fee2297b28ca09e46f
+M	src/Form/ColorboxSettingsForm.php	5989fbada04c343258fded63de412ecb
+M	src/Plugin/Field/FieldFormatter/ColorboxFormatter.php	fd04b892c9d67cb3598d63bdf29cda9b
+A	src/Tests/Colorbox.php	7a5245a4112d92f80a6b87b852b1981f
+D	tests/modules/colorbox_library_test/colorbox_library_test.info.yml	
+D	tests/modules/colorbox_library_test/colorbox_library_test.install	
+D	tests/modules/colorbox_library_test/colorbox_library_test.module	
+D	tests/src/FunctionalJavascript/ColorboxJavascriptTest.php	

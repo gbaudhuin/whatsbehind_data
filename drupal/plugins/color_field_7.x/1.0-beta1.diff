@@ -1,0 +1,20 @@
+M	README.txt	17c2a1bf637c644ebd36c79412dfe90b
+A	color_field.css	50da604b4fbcbc2d84935661f288bc87
+D	color_field.drush.inc	
+M	color_field.info	b6212fc10876cf0a681eca536c61251d
+M	color_field.install	9ec893d7116048917e7b6488ab0dfd97
+A	color_field.jquery.js	7e0c7d549dba7f48316db089e183dbe6
+A	color_field.js	b1f6c8937296acc734fb641aabf3cc20
+M	color_field.module	350da1aff8e2c2a9767724815a1e5dcd
+M	color_field.test	c4953903348af936e4862b7786f3b238
+D	color_field_default/color_field.css	
+D	color_field_default/color_field.jquery.js	
+D	color_field_default/color_field.js	
+D	color_field_dematte_color_picker/color_field_dematte_color_picker.jquery.js	
+D	color_field_eyecon_color_picker/color_field_eyecon_color_picker.jquery.js	
+D	color_field_farbtastic/color_field_farbtastic.jquery.js	
+D	color_field_jquery_simple_color/color_field_jquery_simple_color.css	
+D	color_field_jquery_simple_color/color_field_jquery_simple_color.jquery.js	
+D	color_field_spectrum_color_picker/color_field_spectrum_color_picker.jquery.js	
+D	images/transparentBox16.gif	
+D	images/transparentBox32.gif	

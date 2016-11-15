@@ -1,0 +1,13 @@
+M	README.txt	7d94ef2ce1c2c86c43bfe2537cc6d2e6
+M	payment/payment.classes.inc	1867345d217785d4a0ff9cf8dd808c57
+M	payment/payment.info	e1e2606e6ae3dd8e173a5584c92639db
+M	payment/payment.module	40cfc2d61c0feebf251c5bdbce8d27b5
+M	payment/payment.payment.inc	814f8089705cad320a07ba947eda3ed1
+M	payment/payment.ui.inc	1344b3221e31017d8fc2af4d2f0327a2
+M	payment/tests/payment_test/payment_test.info	a8c9840e269af3262f97fc4c995d1aff
+M	paymentform/paymentform.info	26351971cf81972d67a07ccabcc62cd7
+M	paymentform/tests/paymentform_test/paymentform_test.info	9f1115c096d4769036c174df6bfcfd55
+M	paymentmethodbasic/paymentmethodbasic.info	ac350d4bb22a170d2b8bc8016bebce22
+M	paymentmethodbasic/tests/paymentmethodbasic_test/paymentmethodbasic_test.info	96a21d20da9c9773094ef4d4396fece7
+M	paymentreference/paymentreference.info	26015353cd5bd7ec26f31243cec56d06
+M	paymentreference/tests/paymentreference_test/paymentreference_test.info	fc22f84a3d032ff1af316507d1fd60a3

@@ -1,0 +1,6 @@
+M	role_delegation.info.yml	23db6aef10c6ebf49de28ded28cd6e4d
+M	role_delegation.module	a3665039a708fde5c9e1dc841a3798c3
+M	src/Access/RoleDelegationAccessCheck.php	6f449fd6c9d5622301b344a13552ecc2
+M	src/Form/RoleDelegationSettingsForm.php	796866df41be854448dc2054c4726ec9
+M	src/Tests/RoleAssignTest.php	64d8cf981fa2b8933423759fa86fa262
+M	tests/src/Kernel/AccessTest.php	7f756f729f5c120b23026bcb80fe017c

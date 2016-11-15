@@ -1,0 +1,11 @@
+A	.cvsignore	4586f6c028b8c68b87dfbf66b3574e37
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	107bc544475dc0e1c0c12021ad26b342
+M	jcarousel.css	48221a14c1fce0011b6dc8c2c24fc829
+M	jcarousel.info	bc2d064c712260dccd9c96e004b2098f
+M	jcarousel.jq.inc	0e9d4ab95a5a1d482dd7ca3d9872de33
+M	jcarousel.js	a9e3a405d1417be6bdcbdbcf94d8f658
+M	jcarousel.module	074c42fdc90ee1c876846a1596e15f5c
+M	jcarousel/lib/jquery-1.2.3.pack.js	314108939bfe083599f2eb7a5787403b
+D	jcarousel/lib/jquery.jcarousel.jsmin.js	
+M	jcarousel/style.css	092ed7026a32e8b083e2efb922ff79c5

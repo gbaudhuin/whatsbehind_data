@@ -1,0 +1,13 @@
+M	CHANGELOG.txt	6f3cd0ffcdb0270787b4fb97a3133c00
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	8fe4f9dfa82e158ee2429e2f18057f25
+M	popups-popup.tpl.php	e897642ef6a7a12e1d327a315676f60c
+M	popups.info	3a6ddecf51d212ad790b5cd640daf6d2
+M	popups.install	e9f3a26d545be5b7d713de4cf7c4b19c
+M	popups.js	7b6d6794d3502797ce01261c33d13e23
+M	popups.module	caf587c9d333f42ef29ff4d698b36a3d
+M	popups_admin.info	519f6bf63aca59345b5bdc85373307c2
+M	popups_admin.module	9e12396cd5a8f0f7cddacdbafb9a4906
+D	popups_test.info	
+D	popups_test.module	
+A	translations/ja.po	ec9af065b17c997fc08ae86617a569ac

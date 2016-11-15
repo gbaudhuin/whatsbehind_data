@@ -1,0 +1,54 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	726f6a9ed31df956c0fa7753917a1165
+M	admin.admin.inc	ec269170bbc881232b87a775745eeb5a
+M	admin.info	5c36495824581658dfcc4aec00af21fa
+M	admin.install	3ea8c51fb17d6f56753544e6361ccd9a
+M	admin.module	156f502d4823197c28bfca45ffb83c88
+A	images/black.png	fa985239750aec16e8446b3fab5091e1
+A	images/bleeds.png	9d3e5519ed64fe0ae855fb21d63d4f04
+A	images/bleeds.svg	fa9323ecc0c07b734965fb57031c54f1
+A	images/sprite-rtl.png	bf663693f8d1b9f0d8942c7f49484e59
+A	images/sprite.png	6dcb3a3ff5ea78b81a506e9b54aa1a0b
+A	includes/admin.devel.css	be58582af4b61eb4b32a87def54e4525
+A	includes/admin.devel.inc	82b8a61c04877d15ca9a033543cae077
+A	includes/admin.devel.js	c6e11afd7341697df152798c1ac457c5
+A	includes/admin.menu-rtl.css	6b966ce47e9b6545a62e2fc6cff50930
+A	includes/admin.menu.css	8393bf560ec3923d5c8312ffb8f3efed
+A	includes/admin.menu.js	865692da20777c2bb7686d53c948e7d6
+A	includes/admin.theme.inc	19e11018bb80b002575d9600b7fcbfba
+A	includes/admin.toolbar-rtl.css	2ae9da7accaee66c78c7e4874dfa1544
+A	includes/admin.toolbar.base-rtl.css	eda82227438594b8b17faaf147d3542f
+A	includes/admin.toolbar.base.css	e356491fe6134fbd9d83d4d5e221e5ee
+A	includes/admin.toolbar.css	00e6804999b91b6aeb53f18be08622e6
+A	includes/admin.toolbar.js	5ffb2a84e15fed3653e1da6b81ed09ea
+A	includes/jquery.cookie.js	8300eb5446df027b01ddd21e03c361b4
+A	includes/jquery.drilldown.js	c47c7cd591be6dcb975d04d920a189a5
+D	source/admin.svg	
+D	source/icons.svg	
+A	theme/admin-panes.tpl.php	cff6b50f73d83d957d75afcd15c9678b
+A	theme/admin-toolbar.tpl.php	cad766fc0390656d7542c6ed0b879ae1
+D	theme/ie6.css	
+D	theme/mask.png	
+D	theme/page.png	
+D	theme/page.tpl.php	
+D	theme/reset-rtl.css	
+D	theme/reset.css	
+D	theme/slate.info	
+D	theme/sprite.png	
+D	theme/style-rtl.css	
+D	theme/style.css	
+D	theme/template.php	
+A	theme/theme.inc	893686497344d4e93298f08429dba87f
+D	theme/theme.js	
+D	toolbar/admin-links.tpl.php	
+D	toolbar/admin-toolbar.tpl.php	
+D	toolbar/admin_toolbar-rtl.css	
+D	toolbar/admin_toolbar.css	
+D	toolbar/admin_toolbar.js	
+D	toolbar/icons.png	
+D	toolbar/sprite.png	
+D	toolbar/theme.inc	
+D	translations/hu.po	
+D	translations/pt-br.po	
+D	translations/sv.po	
+D	translations/uk.po	

@@ -1,0 +1,16 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	de503084c115ef88794610bef59ce7a4
+M	editors/ckeditor/README.txt	56ce0c1851c155d8861412848c91ce1d
+M	editors/ckeditor/plugin.js	bcb9b3e1401127e2140ff8692f02e862
+M	editors/ckeditor/video_filter_dialog.js	9e95530a29bb0dc38a23cf61fd6d09d2
+M	editors/fckeditor/video_filter/fckplugin.js	1564557235f4f3706b84d56670a9eccd
+M	editors/fckeditor/video_filter/video_filter_dialog.js	6137c8f035d331f50a6084278a66e037
+M	editors/tinymce/editor_plugin.js	40203e40047ccdbb6e4ef6315ab41119
+D	editors/tinymce/video_filter-4.js	
+M	editors/tinymce/video_filter.js	8fe05686bfa9fb9738ad07934ab3f984
+D	video_filter.api.php	
+M	video_filter.codecs.inc	7a6d946613325271c41e110769efd7a8
+M	video_filter.css	39bd9481dc695aaf6ee75fd1808a366d
+M	video_filter.info	fc179b861d087411afb0dd0263b4a5c8
+M	video_filter.module	7b18d9da789ecafbdf93c2d771ccb06c
+M	video_filter_dashboard.tpl.php	3fc90be3f383da8a60a159d10ae6219f

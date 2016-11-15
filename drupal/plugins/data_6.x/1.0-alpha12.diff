@@ -1,0 +1,13 @@
+M	CHANGELOG.txt	010534238a9fc4c5cfa26a525b3b5f13
+M	data.info	dddb0573f07acd65b7cb4f347b236eb2
+M	data.install	42f0bdee0f4c2e6b9f255d0e844bf9ae
+M	data.module	87015f59b01a1933326341dfe9d8c6d9
+M	data_node/data_node.info	f84a80c26fbcc1c7163f5f1dd6927137
+M	data_search/data_search.info	efbd5872df001c9b6253ae281a71b291
+M	data_taxonomy/data_taxonomy.info	604a53264d24209ad143f77727b6ec56
+M	data_ui/data_ui.admin.inc	cc819a48cb66060700544a63a81d72ed
+M	data_ui/data_ui.info	b20299935d08edf61173128b959d597f
+M	data_ui/tests/data_ui.test	a367a513c3a5f667c390f39c9f2b2d13
+M	data_ui/tests/data_ui_test.info	493b3418bc2da380b7d5752a2931ea20
+M	data_ui/tests/data_ui_test.install	2ce9c78e0ebee7ef67bbac895ddae6cb
+M	includes/DataTable.inc	e5fa0b4cc6763283f4d9e573de23ae7b

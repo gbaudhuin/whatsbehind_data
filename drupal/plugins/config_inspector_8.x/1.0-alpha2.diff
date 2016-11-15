@@ -1,0 +1,10 @@
+M	config_inspector.info.yml	5410ac837b5aa181e879fd27e39712f4
+D	config_inspector.menu_links.yml	
+M	config_inspector.module	2aa4926c0075d9ffbf8c1d16c4800aad
+A	config_inspector.permissions.yml	f47f91d4fbb5b590cf2b132e17c93c33
+M	config_inspector.routing.yml	1180236939ae8fe10e2763ee57aa74aa
+A	css/config_inspector.css	889f313607602804d89679d6dd435582
+A	icons/error.png	023420d5c4239930d355fe1e613c9f92
+A	icons/error.svg	b90fe2f6dea3a14995c3a4af823e25b7
+D	lib/Drupal/config_inspector/Controller/ConfigInspectorController.php	
+A	src/Controller/ConfigInspectorController.php	863b3ce430699d36758ac82d698deeda

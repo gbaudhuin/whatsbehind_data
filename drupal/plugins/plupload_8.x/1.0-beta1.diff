@@ -1,0 +1,13 @@
+M	README.txt	66bac7e60a2e1e98bfdbb030fc3946f0
+M	js/i18n.js	495ff7ff0bec2b4cc90b4a31fdd25ca1
+M	plupload.css	4b13b71e837da980bbf8f6846083790b
+M	plupload.info.yml	f454f64cfb768565ffc5c6b4330df14a
+M	plupload.install	4600568d97ab633f6f1b0f1d2a7ef769
+M	plupload.js	5d18ca3575ce28df667643b533234815
+M	plupload.libraries.yml	acc379a373fd158657ef2b79f5b3b655
+M	plupload.module	047827a6b24cce7c2aedd067ca85ba68
+M	plupload_test/plupload_test.info.yml	8a4d56c6a800b56e3568dc02ef1a2079
+M	plupload_test/src/PluploadTestForm.php	0f9e81f3f47be267d53817aa5449688b
+M	src/Element/PlUploadFile.php	d863bfcdac53f15f8fc27aa677079a7e
+M	src/UploadController.php	02a2778ee25a582e4690ac5c6fe43a99
+M	src/UploadException.php	6d01f516a87f030aa612fe9b00a938fe

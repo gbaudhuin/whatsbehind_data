@@ -1,0 +1,50 @@
+M	css/media.css	d364456390b4ba0e1b5646e7cccf990a
+D	images/display-list-active.png	
+D	images/display-list.png	
+D	images/display-thumbnails-active.png	
+D	images/display-thumbnails.png	
+D	images/icons/ricebowl/application-octet-stream.png	
+D	images/icons/ricebowl/application-pdf.png	
+D	images/icons/ricebowl/audio-mpeg.png	
+D	images/icons/ricebowl/audio-x-generic.png	
+D	images/icons/ricebowl/image-x-generic.png	
+D	images/icons/ricebowl/video-x-generic.png	
+D	images/loading.gif	
+D	images/types/default.png	
+D	includes/MediaBrowserLibrary.inc	
+M	includes/MediaBrowserPlugin.inc	43b801ab881808c67ecd0c569f05f5a5
+M	includes/MediaBrowserUpload.inc	12a82191b3e571852a7c025be9b2bfc4
+A	includes/MediaEntityTranslationHandler.inc	e3f74a784c1f004a38866d4ed1cc82d3
+M	includes/media.admin.inc	57b814a5d868ab406a8b1c7195af4158
+M	includes/media.browser.inc	897b57998246d1aa5addbd159c8e94d3
+M	includes/media.fields.inc	986b0588e7f9c96eb0d1eb6cdcac2715
+M	includes/media.filter.inc	34d0a1207b8b539886db6436d356b5b1
+M	includes/media.theme.inc	6b939befd9c3307559248b2f51708c92
+D	includes/media.types.inc	
+M	includes/media.variables.inc	34e97e1ce98f1e82f89181c6c126e8d2
+M	includes/media.xml.inc	520544d28429d74346aac60409b0abc0
+M	includes/media_views_plugin_style_media_browser.inc	7da4bb412be8746722aeabfde81735f5
+M	js/media.admin.js	0958c432efc4bf7aced81b94a4a876f0
+A	js/media.browser.edit.js	f56ac2fa0b0754d80ccfb8d606af8455
+M	js/media.format_form.js	8f71854b83591fef1d9c5560a453e1d1
+M	js/media.js	684a7a6a90533b285c806703834ef0ba
+M	js/media.popups.js	dfbc710e1d7531ffee51c758030dc750
+D	js/plugins/media.library.js	
+M	js/plugins/media.views.js	bb1fe7cc3eb3800bb436fae747782405
+M	js/wysiwyg-media.js	4db3a63f7d09e7d4a7f0a67677ec6bba
+M	media-views-view-media-browser.tpl.php	237448953076d491a97223b472272711
+M	media.api.php	e5d51dd2c742bda2514ae4d900341efd
+M	media.info	c12e6d957a79d463b6c5de0b04a6a3d7
+M	media.install	7df2757f5970f3c5d3e614f0630e1d20
+M	media.media.inc	430b138167965f7b0bd8fdd44746eb87
+M	media.module	f15bcd7b20bdbcf4753bd8fe05a494cb
+M	media.views.inc	58a68fd40e598e39272e684cdf79feae
+M	modules/media_internet/media_internet.info	4c29c077d1280dbd6eccc364876985ca
+M	modules/media_internet/media_internet.module	142640a864cc18ff30f002ddc5ef94e1
+M	modules/mediafield/mediafield.info	a886ad3e0a61875c913f265be124aafa
+M	modules/mediafield/mediafield.module	349a9add02161d6af23cb0ef20be748c
+M	tests/media.entity.test	f7fefb7454617213f535b65380dd3014
+M	tests/media.test	301595bec0f850fb5642965756475f1e
+D	tests/media.types.test	
+M	views/media_default.view.inc	e5e36da17696bbcf0f4923c398bf269a
+M	wysiwyg_plugins/media.inc	134645c98da146b2907255f65ffc8df1

@@ -1,0 +1,9 @@
+D	CHANGELOG.txt	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	9cb16c0b2c3a0a8fc0480cfb946b2bdd
+M	sections.admin.inc	bebdd920a22885b12a8f352e25a645c8
+M	sections.info	11d55723a383563caf299979fc0ab562
+M	sections.install	32f8f1872ed963d0eaf0c9121b3a7eab
+M	sections.module	d44a38f48a9d67451838bdf781376e37
+A	translations/de.po	112ec256351c70d46c994dfcb9b4b9d2
+A	translations/sections.pot	e67e6ebe85badb4a8d7e431019baa595

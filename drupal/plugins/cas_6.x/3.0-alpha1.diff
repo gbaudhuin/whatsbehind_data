@@ -1,0 +1,23 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	dba972edd863acf602e794ca7f6c26da
+D	README_SERVER.txt	
+M	cas.admin.inc	3fe53b3a01a802f0e850a2ac4e4a23fc
+M	cas.api.php	630be3b8bdb5d41baf8fbd7bb9aae872
+M	cas.css	b91be151ad0d2f3a83430bfdb797fbaf
+D	cas.drush.inc	
+M	cas.info	f17659cfc9128642e171e37a9660794d
+M	cas.install	5e26578c154da12ed5ff9b097f0635c5
+M	cas.js	03d77194100988a78f2be6306c09ea08
+M	cas.module	08ba99c90b00ac64aec07d5e00d09c70
+M	cas.pages.inc	cb68e5ae1bcec424ef5107d24bb908c9
+M	cas.test	ec9e50da897b0ceb1c80cd61fc4945de
+D	cas.tokens.inc	
+M	cas.user.inc	67ac9022539c57e23718f0d528969539
+D	cas_server.api.php	
+M	cas_server.info	017902fc731a8caff97dbd64db9e8438
+M	cas_server.install	3859121fe74b11190ce382dff2751443
+M	cas_server.module	505270f94f538bf5ae798bd320208170
+D	includes/views/cas.views.inc	
+D	includes/views/handlers/cas_handler_field_cas_name.inc	
+M	tests/cas_test.info	dc81a1bdbba94faf9b103c46c86f3f43
+M	tests/cas_test.module	daa5e2147f15698430cbeeaacf40efc9

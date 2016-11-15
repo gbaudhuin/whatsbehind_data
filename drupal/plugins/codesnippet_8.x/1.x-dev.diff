@@ -1,0 +1,10 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	8bd092528b28362291a0b5fa677ce3a0
+A	codesnippet.info.yml	49d20d51b7b61518f297f446fdae8e19
+A	codesnippet.install	6a31ed507895eeab7de329d8edb2d367
+A	codesnippet.libraries.yml	2d21d2d4fa889eaa485aa3d25ce68295
+A	codesnippet.module	2d534561182804c23b54fe88c3eea03b
+A	composer.json	7d565209213d61c22bfa7cfab865145f
+A	js/codesnippet.admin.js	2a3779e5429d494b0e227ac7c9177950
+A	js/codesnippet.js	63117804d945a6b952090438a2f0e6c0
+A	src/Plugin/CKEditorPlugin/CodeSnippet.php	8d604bf58db7ba4fd4c3cb6bb516c460

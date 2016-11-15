@@ -1,0 +1,12 @@
+M	README.txt	e6264f15136c332ca8d05315b622d77b
+M	acquia_agent/acquia_agent.info	0d5cd64a61dddb895472d4d2121ef023
+M	acquia_agent/acquia_agent.install	768ad24c4f295d0735f1ca770e897478
+M	acquia_agent/acquia_agent.migrate.inc	0dcc2c6518464eb84c38494d4978b4d2
+M	acquia_agent/acquia_agent.module	2f9d5e3e354f0149d7b22db39a3a54f3
+M	acquia_agent/acquia_agent.pages.inc	38848b3b79761319e5d6086f64e72be7
+M	acquia_search/acquia_search.info	ce2df28ff7f837c5dee3b07aea162789
+A	acquia_spi/acquia_spi.api.php	43c0fd30ed5fa38897be1c24d5fd8a78
+M	acquia_spi/acquia_spi.info	ac5662023f2e549dc4b45f63922e32f9
+M	acquia_spi/acquia_spi.install	8f49a2d2d3bc9011dfc5144a05d80409
+M	acquia_spi/acquia_spi.module	d5a00a46fcd31594710201ea27381b06
+M	acquia_spi/security_review.inc	831a6cbdc5fcda66ab8abd0d77c33a76

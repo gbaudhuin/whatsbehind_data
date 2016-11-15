@@ -1,0 +1,41 @@
+D	admin_views_default/file.admin-content-file.inc	
+M	file_entity.admin.inc	65141413d57cd43e84a3d8a36b1da226
+M	file_entity.admin.js	2181867c652f0e6df4a9ec20d94a3560
+M	file_entity.api.php	738ddafdb7c85ab870396ca44751cdd5
+D	file_entity.devel_generate.inc	
+M	file_entity.field.inc	88a858300b2b34d2021a3192498e75ec
+D	file_entity.file.inc	
+M	file_entity.file_api.inc	a2ef4d7d1c5c4a9e34d32848f9695cfa
+D	file_entity.file_default_displays.inc	
+M	file_entity.info	4afb1a125eb652264a396ca04f03f594
+M	file_entity.install	803fe6956626765e8e6fb3f6773c8aa1
+D	file_entity.js	
+M	file_entity.module	050cb2a3ace0e6646eaa7483220ddf39
+M	file_entity.pages.inc	56a91527c8d295eef4071561a46db8c1
+D	file_entity.pathauto.inc	
+D	file_entity.test	
+D	file_entity.theme.inc	
+M	file_entity.tokens.inc	2026c18cc080e98c81619a7b89a6c98a
+M	file_entity.tpl.php	a71b0b98495aee1d1629940300222de8
+M	file_entity.views.inc	b5419419f48d4f9581585725f9281397
+D	plugins/content_types/file_content.inc	
+D	plugins/content_types/file_display.inc	
+D	plugins/entity/PanelizerEntityFile.class.php	
+D	plugins/entity/file.inc	
+D	plugins/tasks/file_view.inc	
+A	tests/file_entity.test	484ac32c5d18dafd8d0f9d21e476f7ac
+M	tests/file_entity_test.info	e3dccc39d35b71da1f852219c2e443b2
+M	tests/file_entity_test.module	0aacb31bdcb22a40810366c6361241c7
+M	tests/file_entity_test.pages.inc	8703f0b46ea9b9e204b1d56155c966ac
+M	views/views_handler_argument_file_type.inc	1159cc9c83e1faec6dd2f5d8a0cf937a
+D	views/views_handler_field_file_filename.inc	
+D	views/views_handler_field_file_link.inc	
+D	views/views_handler_field_file_link_delete.inc	
+D	views/views_handler_field_file_link_download.inc	
+D	views/views_handler_field_file_link_edit.inc	
+D	views/views_handler_field_file_link_usage.inc	
+D	views/views_handler_field_file_rendered.inc	
+M	views/views_handler_field_file_type.inc	62d3725c2fd9fc7355851f13240819e8
+M	views/views_handler_filter_file_type.inc	47a536b77564eda3ef08e6a2f7c93806
+D	views/views_handler_filter_schema_type.inc	
+D	views/views_plugin_row_file_rss.inc	

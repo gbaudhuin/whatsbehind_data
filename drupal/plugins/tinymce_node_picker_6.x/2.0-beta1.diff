@@ -1,0 +1,16 @@
+M	README.txt	992b0b5fe2167e08d868dcbb4b05701f
+M	css/dialog.css	c4254ddad001055a9f5778863c032866
+M	js/dialog.js	6ca4b64ce192bd6e15ec7bb927f64006
+A	js/tree.js	7d0010369a72029262a0361e361fdded
+A	linkpicker/editor_plugin.js	33f500274f680cbd65bd9e895cf107db
+A	linkpicker/img/linkpicker.gif	055decf01f657d6de829797906859346
+A	linkpicker/js/dialog.js	ff7c6a3db0d905ae655a273b87d42c78
+A	linkpicker/langs/en.js	e3c958c51f74663e53d1fb5fe90c979f
+A	linkpicker/langs/en_dlg.js	1edfe310d7cc45357de7093b47c863fd
+M	plugins/nodepicker.inc	018a80d89dc43eee6517d5ee8268c12d
+M	plugins/nodepicker/images/nodepicker.png	086c6cbc7e3be5566ef41d9f835e0925
+M	plugins/nodepicker/nodepicker.js	ac6556af44db345128a705d0d8d616e1
+M	tinymce-node-picker-page.tpl.php	de27ca978ea16dbde0ff9e41c70ea461
+M	tinymce_node_picker.info	fce6e32cd80a52ed443db6e8bbac9ff4
+M	tinymce_node_picker.module	3e1387089b90ba670024ff29b3963b53
+A	tinymce_node_picker.page.inc	d7388dd75792585611ae303b3e94fba7

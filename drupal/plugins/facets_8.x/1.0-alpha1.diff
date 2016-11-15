@@ -1,0 +1,146 @@
+A	.travis.yml	136190a34b5da41a5ac49b2315cc975e
+M	README.txt	f3b997e43e68fff4209e61085148a471
+D	composer.json	
+M	config/schema/facets.facet.schema.yml	4b4b832cbcbe9947eb912d29c2e0952c
+M	config/schema/facets.facetsource.schema.yml	c9ffc87f89fe482e538e059fffe66758
+M	config/schema/facets.processor.schema.yml	952085f61c7e30fe5de77d4c1438c7fd
+D	config/schema/facets.widgets.schema.yml	
+A	core_search_facets/core_search_facets.module	1bb8b3bd00a1dd3f28104ff837de8eed
+A	core_search_facets/src/Tests/WebTestBase.php	e34c400210edfc352bc27ce615b4fff3
+M	facets.api.php	8ffa521851341ee95316a8448bcdeffb
+M	facets.info.yml	aee41b1f634894ed94d1938a6001c95f
+M	facets.libraries.yml	6f50aecf76b1febc5428752d0d709e19
+M	facets.links.contextual.yml	d67a5ab8786fa41d646b730b2687c28d
+M	facets.links.menu.yml	620697cc9beca271b0ef4d283bedd00c
+M	facets.links.task.yml	d4175c70e2a74e7cb98a6b727f3eed6b
+M	facets.module	53f7e7f9230162b40ef979a44c48d6c7
+M	facets.routing.yml	f8fac558230c59fb6278f5292eb6af25
+M	facets.services.yml	c0e4102c53885645ce33e4eaedb10bdd
+D	js/checkbox-widget.js	
+D	js/dropdown-widget.js	
+D	js/edit-facet.js	
+D	js/soft-limit.js	
+D	modules/core_search_facets/core_search_facets.module	
+D	modules/core_search_facets/src/Plugin/facets/query_type/CoreNodeSearchDate.php	
+D	modules/core_search_facets/src/Tests/WebTestBase.php	
+D	modules/rest_facets/rest_facets.info.yml	
+D	modules/rest_facets/src/Plugin/views/style/FacetsSerializer.php	
+D	modules/rest_facets/src/Tests/RestIntegrationTest.php	
+D	modules/rest_facets/tests/rest_view/config/install/views.view.search_api_test_views_fulltext.yml	
+D	modules/rest_facets/tests/rest_view/rest_view.info.yml	
+M	src/Annotation/FacetsFacetSource.php	aa7fa8449348a008650fbd5cef896aa7
+M	src/Annotation/FacetsProcessor.php	99554b7144635c421c9fee4b49cc4e57
+M	src/Annotation/FacetsQueryType.php	ec94b9954674357b78bfe1bae152f2f1
+M	src/Annotation/FacetsUrlProcessor.php	42c43c1d00b15f0d9db9d3bf56352b18
+M	src/Annotation/FacetsWidget.php	781ffabc148282a9c099058c225a0250
+M	src/Controller/FacetController.php	e5f1c6313c53029706c1997c455338c7
+M	src/Controller/FacetSourceController.php	2d9c8e7c3f7110e4f0193997201730e7
+M	src/Entity/Facet.php	4e6fe14a4fda8a2b0714c5f323134af6
+M	src/Entity/FacetSource.php	329c12c6ae84b23dad483bfd308a62af
+D	src/EventSubscriber.php	
+M	src/Exception/Exception.php	12bc3e81d5bc6cce93d0e19dba787470
+M	src/Exception/InvalidProcessorException.php	054ccf2df00753418110a9b76a467a58
+M	src/Exception/InvalidQueryTypeException.php	60de9312814da67e01bffcf6e0ddc7b7
+M	src/FacetInterface.php	68f023e00c5eb868ce85d573d23a7487
+M	src/FacetListBuilder.php	c1cc5f6b230e23beaaad92576447e947
+M	src/FacetManager/DefaultFacetManager.php	9355da68c7a4a1d22c5ce698e31afd15
+M	src/FacetSource/FacetSourceDeriverBase.php	5f30970926488ff770a7adc72ceb4e60
+M	src/FacetSource/FacetSourcePluginBase.php	407e56ffafdfb539631e6f574c94aa2c
+M	src/FacetSource/FacetSourcePluginInterface.php	740d8281741bb164448b88a309b537ff
+M	src/FacetSource/FacetSourcePluginManager.php	124bb718c53f746cae17b29cb5e224aa
+D	src/FacetSource/SearchApiFacetSourceInterface.php	
+M	src/FacetSourceInterface.php	65327c382258d4f8a0c73b38fa8e4015
+M	src/Form/FacetDeleteConfirmForm.php	94809bea4363e85e14eb22eebc45a573
+A	src/Form/FacetDisplayForm.php	f2c45f1b14d1abe4d48b46758f4d43de
+M	src/Form/FacetForm.php	a797640f6ed7366c223d20ac956ac873
+D	src/Form/FacetSettingsForm.php	
+M	src/Form/FacetSourceEditForm.php	91c02ae077b31fb37334011318b19621
+M	src/Form/SubFormState.php	d31eef133529ba9a51337e3e86e02ddb
+M	src/Plugin/Block/FacetBlock.php	9ff6dbe3b439f8a3d7dc6586e4fa1556
+M	src/Plugin/Block/FacetBlockDeriver.php	546509a2377f49eaacebe18320023e4d
+M	src/Plugin/Condition/OtherFacet.php	7fd0865af45564861b6354f67c73fac4
+M	src/Plugin/facets/facet_source/SearchApiBaseFacetSource.php	2b147ad3e9ba74e6532aad8e559399b3
+D	src/Plugin/facets/facet_source/SearchApiViews.php	
+D	src/Plugin/facets/facet_source/SearchApiViewsDeriver.php	
+A	src/Plugin/facets/facet_source/SearchApiViewsPage.php	ab16d8a38ee6ce8ef57a93429928c981
+A	src/Plugin/facets/facet_source/SearchApiViewsPageDeriver.php	be339698c96977331c2555ba57895f9e
+M	src/Plugin/facets/processor/ActiveWidgetOrderProcessor.php	2b972c71610b9d57a92b969bd7d32000
+M	src/Plugin/facets/processor/CountLimitProcessor.php	6fc1d62faef50da4a3afd3f85d4ef01d
+M	src/Plugin/facets/processor/CountWidgetOrderProcessor.php	02bd289a267e7d717e04b4140d935e5c
+M	src/Plugin/facets/processor/DisplayValueWidgetOrderProcessor.php	76b7220851af81e7156422948d8fef4c
+M	src/Plugin/facets/processor/ExcludeSpecifiedItemsProcessor.php	a29cc673f9b0378e093b75da34ee7ef1
+D	src/Plugin/facets/processor/HideActiveItemsProcessor.php	
+M	src/Plugin/facets/processor/HideNonNarrowingResultProcessor.php	b6219806c648075b22456f5d46555b98
+D	src/Plugin/facets/processor/ListItemProcessor.php	
+M	src/Plugin/facets/processor/RawValueWidgetOrderProcessor.php	9a6cb8c0b79def9bf9fa64639387d38c
+D	src/Plugin/facets/processor/TranslateEntityProcessor.php	
+M	src/Plugin/facets/processor/UidToUserNameCallbackProcessor.php	4568ab2b8b99e87a43658a8b0b1bafbe
+M	src/Plugin/facets/processor/UrlProcessorHandler.php	4933d9cccf96dec31a35592ed092cfed
+M	src/Plugin/facets/query_type/SearchApiString.php	f4e2b9fddd282d6bd00baef4f4356876
+M	src/Plugin/facets/url_processor/QueryString.php	b4b5e90cbda135731b404b550af6397b
+D	src/Plugin/facets/widget/ArrayWidget.php	
+M	src/Plugin/facets/widget/CheckboxWidget.php	cde5bc5d7f63148d760b20015c6ae4ad
+D	src/Plugin/facets/widget/DropdownWidget.php	
+M	src/Plugin/facets/widget/LinksWidget.php	1cd804096fb0ba6bb1de949e61f41222
+M	src/Processor/BuildProcessorInterface.php	fab3ae25e40d35860fc2a6ad3aa89a82
+M	src/Processor/PostQueryProcessorInterface.php	9f81a85e49519c4769b8496fd85dabd0
+M	src/Processor/PreQueryProcessorInterface.php	811d372a6aa71e18f036ce7806dc74a8
+M	src/Processor/ProcessorInterface.php	3a777c677340aa3ad0e68129ed715725
+M	src/Processor/ProcessorPluginBase.php	597feaeffcb81a698229daf104355c42
+M	src/Processor/ProcessorPluginManager.php	83117e933b30ee0438b38349b45462ff
+D	src/Processor/SortProcessorInterface.php	
+A	src/Processor/WidgetOrderProcessorInterface.php	d217d98d67b7766ec05616c9bb2b6f2e
+M	src/QueryType/QueryTypeInterface.php	850392a2e2ec9fbd8c142a4ea09016fa
+M	src/QueryType/QueryTypePluginBase.php	2b421e56e6aaa0ed30a3b05bc564663b
+M	src/QueryType/QueryTypePluginManager.php	bdf709910b4288cf1ab82a9dbe1428fa
+M	src/Result/Result.php	46ee835d7d2d38e84c3012e321943917
+M	src/Result/ResultInterface.php	69a3394c9eb7f369052cddcd36be317a
+D	src/Tests/BlockTestTrait.php	
+M	src/Tests/ExampleContentTrait.php	eb8b050a2ac7bf1571cbf21e28eabaed
+M	src/Tests/FacetSourceTest.php	f986427dc20d79761f5c08778ee9161f
+M	src/Tests/IntegrationTest.php	ff1c237827c9c4cfd8390b87de5ea76c
+D	src/Tests/LanguageIntegrationTest.php	
+D	src/Tests/ProcessorIntegrationTest.php	
+D	src/Tests/TestHelperTrait.php	
+M	src/Tests/UrlIntegrationTest.php	96deed3b15291e9f8f1be7e43fac7c03
+M	src/Tests/WebTestBase.php	13edc052fef7d199aec53322dac2cf9a
+M	src/Tests/WidgetIntegrationTest.php	b95edd3814b7cc03ef18cdba93232f2d
+M	src/UrlProcessor/UrlProcessorInterface.php	c2ec914cec0ba623cc5c417e3e8f1743
+M	src/UrlProcessor/UrlProcessorPluginBase.php	92141a96abe9a4ab7c7ac5547a9d1f35
+M	src/UrlProcessor/UrlProcessorPluginManager.php	f258537859df9e3c15c1f87a7e7542a7
+D	src/Utility/FacetsDateHandler.php	
+A	src/Widget/WidgetInterface.php	daa93025f1b35a1f21087aa29bb06156
+D	src/Widget/WidgetPluginBase.php	
+D	src/Widget/WidgetPluginInterface.php	
+M	src/Widget/WidgetPluginManager.php	7155b1f4459d318a4c59b84bf133a1db
+D	templates/facets-result-item.html.twig	
+M	tests/facets_query_processor/facets_query_processor.info.yml	e2b1ac6e8310254ade04c6426dbfcf7a
+M	tests/facets_query_processor/src/Plugin/facets/url_processor/DummyQuery.php	6cc32c1c334c7c8c1bfa9b148006c297
+M	tests/facets_search_api_dependency/config/install/views.view.search_api_test_views_fulltext.yml	b6601bee5c14f3d8b16441b829e468fb
+M	tests/facets_search_api_dependency/facets_search_api_dependency.info.yml	4c64cb9959b81ae0a8fdf25ff451305d
+D	tests/src/FunctionalJavascript/WidgetJSTest.php	
+M	tests/src/Unit/FacetSource/FacetSourcePluginManagerTest.php	aaec77603e658fdae968573a283dfa2d
+M	tests/src/Unit/Plugin/Condition/OtherFacetTest.php	a1ad8d66eb2d6792959bf7436209594a
+M	tests/src/Unit/Plugin/processor/ActiveWidgetOrderProcessorTest.php	3cb882238f2aa8f1bb7133ffe8d0daa0
+M	tests/src/Unit/Plugin/processor/CountLimitProcessorTest.php	e949c9ae2ab65261f1cf31d7cb74e5d1
+M	tests/src/Unit/Plugin/processor/CountWidgetOrderProcessorTest.php	75069db4fa580a796ed533854b1e7c52
+M	tests/src/Unit/Plugin/processor/DisplayValueWidgetOrderProcessorTest.php	25c66a5068bcbd1271d10a2fff6bf43a
+M	tests/src/Unit/Plugin/processor/ExcludeSpecifiedItemsProcessorTest.php	45aebd3c9cff30a5b81698db23d253a3
+D	tests/src/Unit/Plugin/processor/HideActiveItemsProcessorTest.php	
+M	tests/src/Unit/Plugin/processor/HideNonNarrowingResultProcessorTest.php	123d4fb3845b878570fc54e3aa870c3d
+D	tests/src/Unit/Plugin/processor/ListItemProcessorTest.php	
+M	tests/src/Unit/Plugin/processor/RawValueWidgetOrderProcessorTest.php	4a04f04e9c5a5bb24327fa1f3779b808
+D	tests/src/Unit/Plugin/processor/TranslateEntityProcessorTest.php	
+M	tests/src/Unit/Plugin/processor/UidToUserNameCallbackProcessorTest.php	7096a2e22177c6e0839a9ea9776218cc
+M	tests/src/Unit/Plugin/processor/UrlProcessorHandlerTest.php	64ff0e547538136b89d6ee6b5dcdf99d
+M	tests/src/Unit/Plugin/query_type/SearchApiStringTest.php	6c1179661062fb7df81c2e595ccd0907
+M	tests/src/Unit/Plugin/url_processor/QueryStringTest.php	850a4c764acb17a44256d9b63ee62dc4
+D	tests/src/Unit/Plugin/widget/ArrayWidgetTest.php	
+M	tests/src/Unit/Plugin/widget/CheckboxWidgetTest.php	cf287496224ed1f6309e2bd09d57f674
+D	tests/src/Unit/Plugin/widget/DropdownWidgetTest.php	
+M	tests/src/Unit/Plugin/widget/LinksWidgetTest.php	d628bb4ad16c9b037a52563a7cd35b68
+M	tests/src/Unit/Processor/ProcessorPluginManagerTest.php	195564ad25f39d7436a97cccd4869341
+M	tests/src/Unit/QueryType/QueryTypePluginManagerTest.php	10730d1145b5cba952df3e524b297c44
+D	tests/src/Unit/UrlProcessor/UrlProcessorPluginManagerTest.php	
+D	tests/src/Unit/Utility/FacetsDateHandlerTest.php	
+D	tests/src/Unit/Widget/WidgetPluginManagerTest.php	

@@ -1,0 +1,8 @@
+M	CHANGELOG.txt	866d8f22c6618d5cd0f1f1f562eace0b
+M	README.txt	d3debb78abcf6e5d2eed7ac96523a1ac
+M	marketo_ma.info	2d75615e93183cc5877b0b5d882a2e37
+M	marketo_ma.module	4fd780184ec37ddab190e5f7df602be3
+M	user/marketo_ma_user.info	fca0b587461c730d504f67d857b202f5
+A	webform/includes/marketo_ma_webform.webform_settings.inc	cf7c953be5abacd3b4aa2f6efbaeef93
+M	webform/marketo_ma_webform.info	42145b67e6e1d9463d022b9ad9682c9a
+M	webform/marketo_ma_webform.module	eb3af95ac35a537454f8631f19ff335c

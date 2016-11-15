@@ -1,0 +1,32 @@
+M	CronRule.class.php	965ad2cd2941cd510915b55f99d5d654
+M	js/ultimate_cron.nodejs.js	3052621a63495e704771f4bc430fe378
+M	plugins/ctools/export_ui/ultimate_cron_job_ctools_export_ui.class.php	d377026a3cc38260fb2b4d1c0310f9c2
+M	plugins/ctools/export_ui/ultimate_cron_job_ctools_export_ui.inc	6c44482029ae6ae698d016b28b1e7f5c
+M	plugins/ultimate_cron/launcher/background_process_legacy.class.php	641724bdb23eace479eb203f2de1d4a0
+M	plugins/ultimate_cron/launcher/serial.class.php	a9f916b4cb5e5f52c27866c3799cbc1e
+M	plugins/ultimate_cron/logger/cache.class.php	344a0991047d447bad0ee04f9dfd03c3
+M	plugins/ultimate_cron/logger/database.class.php	42b0e4511b04ef2d9378b199e94a90dc
+M	plugins/ultimate_cron/scheduler/crontab.class.php	3f97bea43b31f04887086ed82f763f87
+M	plugins/ultimate_cron/scheduler/simple.class.php	5971caa881ab556811fc548423721f2f
+M	plugins/ultimate_cron/settings/general.class.php	4b4707013fc7d569a869c45ea7a04b6a
+M	plugins/ultimate_cron/settings/poorman.class.php	14c90bfbd193a34e9952dbd40ac213a9
+M	plugins/ultimate_cron/settings/queue.class.php	2ec961ba8e8b67576a3eb58c7cd8a396
+A	templates/page-admin-settings-cron-log.tpl.php	90d158cd17f61327668446d0dfe3971f
+M	tests/rules.test	95f966d3256773fb77b0039a46827f6d
+M	ultimate_cron.admin.inc	9aed03f66c3907989cfa013e4f86e74f
+M	ultimate_cron.api.php	8e2130978daf9f5a852208f8a5b74054
+D	ultimate_cron.cache-signal.inc	
+D	ultimate_cron.cron.inc	
+M	ultimate_cron.drush.inc	979a3bb531319634c7f1334cbf822be0
+M	ultimate_cron.info	ef774089eb37db004be72fe271383bdf
+M	ultimate_cron.install	c76062986f8cbe1180770e81b1bd93e6
+M	ultimate_cron.job.inc	a9820419a145e4e74e6f9f0faffcc8bf
+M	ultimate_cron.lock.inc	d9482fcc05e4be8cbd506d787d72222b
+D	ultimate_cron.memcache-lock.inc	
+D	ultimate_cron.memcache-progress.inc	
+M	ultimate_cron.module	63e2b18449a23070e26a9246d3792c91
+A	ultimate_cron.nagios.inc	905ab9b07c0f234b280915edafcdc973
+M	ultimate_cron.plugin.inc	705bd2a0d7fe4213bbc1d1eda4f85dbb
+M	ultimate_cron.poorman.inc	53e669e8e0ee9e0f6f6bff3380173904
+M	ultimate_cron.progress.inc	4d25d1fd69f7a0b0a28b1c2d439f42a2
+M	ultimate_cron.signal.inc	9ca6b8a365571f4673e8c8c1d25991df

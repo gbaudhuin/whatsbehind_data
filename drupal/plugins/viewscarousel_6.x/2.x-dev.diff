@@ -1,0 +1,24 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	e365f4b40a4d7559d4a356f1d95f5f4e
+D	jquery.jcarousel.css	
+D	jquery.jcarousel.js	
+D	jquery.jcarousel.pack.js	
+D	skins/ie7/credits.txt	
+D	skins/ie7/loading-small.gif	
+D	skins/ie7/loading.gif	
+D	skins/ie7/loading_small.gif	
+D	skins/ie7/next-horizontal.gif	
+D	skins/ie7/prev-horizontal.gif	
+D	skins/ie7/skin.css	
+D	skins/tango/credits.txt	
+D	skins/tango/next-horizontal.png	
+D	skins/tango/next-vertical.png	
+D	skins/tango/prev-horizontal.png	
+D	skins/tango/prev-vertical.png	
+D	skins/tango/skin.css	
+D	viewscarousel-view.tpl.php	
+M	viewscarousel.info	3bd7f93caff602071c981a99422e63f2
+D	viewscarousel.js	
+M	viewscarousel.module	8fdde3a72ebdbb52309f4e1271a79e0b
+M	viewscarousel.views.inc	113270f5ed749822e29045a758769ff0
+M	viewscarousel_style_plugin.inc	9e5141fd8ff798ab54cc10fac6f509e3

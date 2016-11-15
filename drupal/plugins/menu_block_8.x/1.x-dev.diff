@@ -1,0 +1,9 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	8d2119690bba094f10ab788311cc3d29
+A	config/schema/menu_block.schema.yml	a741df8b903e5f156b0f62bd5bc15c40
+A	menu_block.info.yml	3401290fe07e14a8ec55c7e71eec638e
+A	menu_block.module	a1ec9b5817c385be44c8396c5f0897b0
+A	menu_block.services.yml	42db9769b59e1cda23f0bacad60e57ed
+A	src/EventSubscriber/MenuBlockKernelViewSubscriber.php	23bfc2f37e6c2203a8547bb3d29078b0
+A	src/Plugin/Block/MenuBlock.php	cb5224c981a52e4181af9f45cfc2ce17
+A	src/Plugin/Derivative/MenuBlock.php	9153081ba27a8fdf6763e6f0189357b9

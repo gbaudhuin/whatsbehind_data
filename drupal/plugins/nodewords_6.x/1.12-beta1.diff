@@ -1,0 +1,14 @@
+M	API.txt	d074b462ac7e3d6636f3744944e7578b
+M	CHANGELOG.txt	9d5d26863c6bde69cbfab00023795852
+D	includes/tracker.inc	
+M	includes/user.inc	dfca6eb1a311749261d165745b9eae17
+M	nodewords.admin.inc	35f3e557b0788c148afbe4b76c8bd374
+M	nodewords.info	43bfb1f7053ddbfa7999a4b087aef41a
+M	nodewords.install	bc44dd4bd2fc55c9097aaa428b09a24b
+M	nodewords.module	d5b55c7c5f2a7f7c037896bc4c9eda0f
+M	nodewords_basic/nodewords_basic.info	fe11320a48d35e3f315aca3d4b831fe5
+M	nodewords_basic/nodewords_basic.module	2dba33134c65c4b2c171c1511f247b69
+M	nodewords_extra/nodewords_extra.info	79574ef26aad09df48f3c61cf5cb154b
+M	nodewords_extra/nodewords_extra.module	e808a09d7679fa80b17dabaf346484a0
+M	nodewords_verification_tags/nodewords_verification_tags.info	37403a8f67f5b7dfb4af9cb9371f391e
+M	nodewords_verification_tags/nodewords_verification_tags.module	d487d42ac9a54abbba614f839df41262

@@ -1,0 +1,37 @@
+M	course.info	4291916c658998f84bb9a445722c571f
+M	includes/course.outline.inc	6cebf49d83bbc74caa328138cfadebcb
+M	includes/course_object.core.inc	ddaec0e0c8f16f392bf25d2cca3cf9d6
+M	modules/course_book/course_book.info	da1bb9e4c696e8d2e680fb50931aa7ac
+M	modules/course_certificate/course_certificate.classes.inc	dcf2dc4eeef393df2fcf370069a8a260
+M	modules/course_certificate/course_certificate.info	757cd2f2e17ecb6475b6e2ae78c61341
+M	modules/course_content/course_content.info	586b70f2911d4be212b1c61a2d707379
+D	modules/course_credit/course_credit.api.php	
+D	modules/course_credit/course_credit.info	
+D	modules/course_credit/course_credit.install	
+D	modules/course_credit/course_credit.module	
+D	modules/course_credit/course_credit.views.inc	
+D	modules/course_credit/includes/course_credit_course_report_credit_awarded_vhr.inc	
+D	modules/course_credit/includes/course_credit_credit_awarded_credit_instance_vhr.inc	
+D	modules/course_credit/includes/views_handler_field_course_credit_node_active_types.inc	
+D	modules/course_credit/includes/views_handler_field_course_credit_title.inc	
+D	modules/course_credit/includes/views_handler_filter_course_credit_type.inc	
+D	modules/course_credit/includes/views_join_course_credit.inc	
+D	modules/course_credit/plugins/content_types/course_credit.inc	
+M	modules/course_object_manual/course_object_manual.info	dcc78ac6b0a156a9f8001fceac9164c6
+M	modules/course_poll/course_poll.info	5b2e3760daafce550c3b9a369aef9fed
+M	modules/course_quiz/course_quiz.info	ff9936c2a450c07c65158f401e4807dc
+D	modules/course_requirements/course_requirements.info	
+D	modules/course_requirements/course_requirements.module	
+D	modules/course_restrict_credit/course_restrict_credit.api.php	
+D	modules/course_restrict_credit/course_restrict_credit.info	
+D	modules/course_restrict_credit/course_restrict_credit.module	
+M	modules/course_scorm/course_scorm.info	6413416b67fc7649dcbb75a9d0c06a80
+M	modules/course_signup/course_signup.info	1fd179d80c9b1eacd526aed93ef9fca1
+M	modules/course_signup/course_signup.module	6a6cc2f01efda533db66d6a93512bf7c
+M	modules/course_uc/course_uc.info	c185e51927b3fe2d729e925b607b4ca8
+M	modules/course_webform/course_webform.info	68d8588de10213a4728d7e30f83c53ec
+M	plugins/course/access/conditional.inc	d6bdb49801c98a146542a186f570538e
+M	plugins/course/access/timing.inc	ad45f13b5a755e4095601fb0a09d1af4
+M	tests/CourseOutlineUiTestCase.test	da399dce5ab8d86e1d040c2631033f6e
+M	tests/course_test/course_test.classes.inc	7495a9ed8228c5a69fa0caf86db5d899
+M	tests/course_test/course_test.info	17696ab6db31c1900c25e67369a74c75

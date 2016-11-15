@@ -1,0 +1,18 @@
+M	CHANGELOG.txt	922ba57a61d1713893c1a92042c1d4b7
+M	taxonomy-filter-item.tpl.php	492e5ebd74ebc424fa19bf3b62d21ebb
+M	taxonomy_filter.admin.inc	e3d2f3478a72d473a927c8917d32a120
+M	taxonomy_filter.css	a071ff0155a1a3ae36bc282e49a50a99
+M	taxonomy_filter.info	03d97554a2b93732930fe28876d077b3
+M	taxonomy_filter.install	d070636bdfe11b9fb3bf84007b6cf479
+M	taxonomy_filter.module	1efdaf6464e7476a5de83c2d846092fa
+A	taxonomy_filter.test	730359e828ba509598c5815eccd91f61
+M	taxonomy_filter.theme.inc	abbb8ab63a89c3e04e9002ff7bc02323
+D	tests/taxonomy_filter.test	
+A	tests/test_data.php	8059bba3b8c649c6a0f663fcb2462278
+M	tf_cloud/tf_cloud.info	fd4fad5cc7ec7a5ec89016f326e87f54
+M	tf_context/tf_context.info	74b70447430ef0f79a150ece76589fca
+M	tf_count/tf_count.info	858735c5358bfef75aef860ec1f48af3
+M	tf_count/tf_count.module	e6433cb5a31b53dc9b5e40e0304ce29b
+M	tf_dynamic/tf_dynamic.info	d5acda83145cf67ee5408da688b7e807
+M	tf_multi/tf_multi.info	3fa9a286c41a27aca1541273e0258af9
+M	tf_multi/tf_multi.module	d61daa40430b5509f8cbff5fdde28502

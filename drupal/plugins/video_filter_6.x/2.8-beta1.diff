@@ -1,0 +1,10 @@
+D	translations/es.po	
+D	translations/hu.po	
+M	video_filter.codecs.inc	d2b2b2c47544eb7c28b57b8631d2825a
+A	video_filter.css	93d1b262822acfaf4d60abe80c9941f3
+M	video_filter.info	fe741d404926e3f48b6425fee58bd569
+M	video_filter.module	c0b79f510fd76d2facc8cf084b98508e
+M	wysiwyg/tinymce/editor_plugin.js	eb3c14658a93865220e95f7574529130
+M	wysiwyg/tinymce/editor_plugin_src.js	f0d5a1bc47e6d581b1358c4de171a6b5
+M	wysiwyg/tinymce/jscripts/video_filter.js	0b191968d896be61bacbd85605535881
+D	wysiwyg/tinymce/video_filter.css	

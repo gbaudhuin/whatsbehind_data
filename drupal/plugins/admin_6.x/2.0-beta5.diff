@@ -1,0 +1,12 @@
+M	admin.admin.inc	212b4788f28401b66c06e8266db5b277
+M	admin.info	6a1f874c8f708b0ba7bf786acff62df5
+M	admin.install	a0ef3b4878bcb4344a68195b4a664c93
+M	admin.module	92806645a82e9f3250e286ce2e30b0b3
+M	includes/admin.menu.css	4fea00d7c1ff1d4abb4b70ad83f51d84
+M	includes/admin.menu.js	d15360e2173a779e36557b1ba07d8427
+M	includes/admin.toolbar.base.css	2bf9bd51c4ba66a168f670a0bb30673b
+M	includes/admin.toolbar.js	f98a616faf3728d0768709408f82486c
+M	includes/jquery.drilldown.js	52d67cb7e23c195a30f847f9d31d2292
+M	theme/admin-toolbar.tpl.php	cad766fc0390656d7542c6ed0b879ae1
+M	theme/theme.inc	f6ecd13039f4a1d4a809ec7b05f308b3
+M	translations/hu.po	518ee30cf71221252b2bcf845e1c8eaa

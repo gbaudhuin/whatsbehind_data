@@ -1,0 +1,8 @@
+A	profile2_regpath.admin.inc	d840c2b23c117adf5593e9d686814f5c
+A	profile2_regpath.inc	c94be0e85d2dd41638a2872f56a68464
+M	profile2_regpath.info	c57e2f417d8b9830f4e0484c7e5d1ebe
+M	profile2_regpath.install	7261cfdbc2e91963dae7ae3eb241deb2
+M	profile2_regpath.module	19f3ff37dad0b3ac4c49e978d80ceaf3
+A	profile2_regpath_blocks/profile2_regpath_blocks.info	568a8309da6bfe12fa52e53d2b7d3923
+A	profile2_regpath_blocks/profile2_regpath_blocks.module	32d82f7aedc4362ce80e91710a92a770
+D	registration_form.inc	

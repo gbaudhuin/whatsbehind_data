@@ -1,0 +1,7 @@
+M	embed.info.yml	00e0b3a5be3d2bd0225e039b2fcb035d
+M	js/embed.js	c4bcc1159052f6f8906a6a44ac3d2caa
+M	src/Controller/EmbedController.php	4c8e49557261b956a6fa92a5e90e84f2
+M	tests/embed_test/embed_test.info.yml	50a60af0f0593287d8590dcec1c05722
+M	tests/embed_test/embed_test.module	ce407ff5715c837d02b1aba7975bf512
+D	tests/embed_test/src/Plugin/Filter/EntityEmbedByID.php	
+D	tests/src/Functional/EmbedPreviewTest.php	

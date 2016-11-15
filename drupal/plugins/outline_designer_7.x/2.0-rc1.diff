@@ -1,0 +1,19 @@
+A	ELMS.rtf	29abab3d168acdaf0c0f3287fef3ee06
+M	README.txt	53acd5507aeca3cc39bf78ae71f8fc2c
+M	css/outline_designer.css	5f1343337a71adc18a3942d0fa05b344
+A	js/jwerty/book_copy.js	d0082d71b78f8bc7f10f64ecf1c7b5f6
+A	js/jwerty/hidden_nodes.js	dcf59d89839df1a0f21e209ffb707949
+A	js/jwerty/integration.js	3ee627ad1631557821c6d86806af021b
+A	js/jwerty/outline_designer_book.js	5f30903372edf12ef6a392d14d73e27d
+M	js/outline_designer.js	fb247aadd82cee1dc95692b4787b9846
+M	modules/outline_child_pages/outline_child_pages.info	4fbf9b479e8b2ca0ceb91e26f1643e4d
+D	modules/outline_child_pages/outline_child_pages.install	
+M	modules/outline_child_pages/outline_child_pages.module	fa2390ee2242cb42713d4e2c1f805bd4
+M	modules/outline_designer_book/js/outline_designer_book.js	892c07b46a6256bc26f8ab5ca475347f
+M	modules/outline_designer_book/outline_designer_book.info	b3c312265852c8691bd5278c9d6affc6
+M	modules/outline_designer_book/outline_designer_book.module	2bd8e3233a44fce5c7497d2a4a8bbf95
+D	modules/outline_designer_og/README.txt	
+D	modules/outline_designer_og/outline_designer_og.info	
+D	modules/outline_designer_og/outline_designer_og.module	
+M	outline_designer.info	999b4d703590e39f439d4200e66cef68
+M	outline_designer.module	1e751a71ec7a6c333af8be8c93a7e15d

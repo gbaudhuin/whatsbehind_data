@@ -1,0 +1,9 @@
+M	audit/storage_audit.info	56e2ee22db2e55cce0a2dc9a7f409072
+M	audit/tests/storage_audit_test.info	89350c0c1ff43fb20f237546ee552df4
+M	container.inc	d675e22c647e4faba289869e744915fb
+M	core_bridge/storage_core_bridge.info	1271c008e4a5f2e761d35097eb952d17
+M	core_bridge/storage_core_bridge.module	c1c6315f230866e2735849b71fd3a398
+M	statistic/storage_statistic.info	13c0efc00eed2c2de4e99ecddf16c3a7
+M	storage.info	99c60a462dc75494eacebe4dc454acb4
+M	storage.install	dd87d20f292f4209028ee46d07e65a44
+M	storage.module	6a105f1d08183c2a80eff0ad67f76a05

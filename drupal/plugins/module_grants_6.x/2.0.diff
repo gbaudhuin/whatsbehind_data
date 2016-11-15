@@ -1,0 +1,19 @@
+M	CHANGELOG.txt	969620a100b3c83c605766031056e0f8
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	92506cc05ceb17ba083b3f4c29410d5b
+D	module_grants.admin.inc	
+D	module_grants.api.php	
+M	module_grants.info	486ab564a4eee1bffcea5b87c695be2b
+D	module_grants.install	
+M	module_grants.module	d1751a8ddafb55ebc9086506c52b1420
+D	module_grants.pages.inc	
+D	module_grants_monitor/module_grants_monitor.css	
+D	module_grants_monitor/module_grants_monitor.info	
+D	module_grants_monitor/module_grants_monitor.module	
+D	module_grants_monitor/module_grants_monitor.pages.inc	
+D	node_tools/node_tools.info	
+D	node_tools/node_tools.module	
+A	translations/de.po	1e73df50ff01ad1268e4077afa7f7f40
+A	translations/module_grants.pot	ed0fa411808362e36791a791b309ce74
+D	user_tools/user_tools.info	
+D	user_tools/user_tools.module	

@@ -1,0 +1,35 @@
+M	CHANGELOG.txt	6a6c13c4f2e1cd6400ce9ea39bb554ec
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	calendar.info	45240bbbc937b73a416280702ed791b8
+M	calendar.install	6ea57a01ce247e77c4cd586d598cc7a7
+M	calendar.module	7d4e5785b8f7a6601512fbe9acb822f9
+A	calendar_ical/calendar-row-ical-node.tpl.php	36a83811e1a39438f1d74249d276c01c
+A	calendar_ical/calendar-style-ical.tpl.php	e9b78a84d531dfdca99fbcb2d7a21d2b
+A	calendar_ical/calendar_ical.info	6b3ac521621b88731bbf3229093f7dc9
+A	calendar_ical/calendar_ical.install	cd122467089684ec68f483b92711baae
+A	calendar_ical/calendar_ical.module	106731e17e7c19210a0c63c87ad33645
+A	calendar_ical/calendar_plugin_row_ical_node.inc	fc1edcb14272b37683d7df3f086e990b
+A	calendar_ical/calendar_plugin_style_ical.inc	2b15a1691a1c15dcad6ce022341c2182
+A	calendar_ical/theme.inc	ff63f74dc3f666a6dd723bee4771c1c1
+D	css/calendar-overlap-no-scroll.css	
+M	css/calendar-overlap.css	7afb51044fd781b3d79a805ce68a176e
+M	css/calendar.css	cf096204d8ba627891865b99297b6547
+M	css/calendar_multiday.css	54da0a1230a35523613e90fe15e84023
+M	includes/calendar.views.inc	204b1ac2521c101363a52312618abc43
+A	includes/calendar.views_default.inc	adba05c3ff630f851b8ec9ccf9fc48ce
+D	includes/calendar.views_template.inc	
+D	includes/calendar_plugin_row.inc	
+A	includes/calendar_plugin_row_node.inc	77730674de7cdc9f56761ef508e79f5d
+M	includes/calendar_plugin_style.inc	e306192c642349f217961e679e1b4ab0
+M	js/calendar_colorpicker.js	615ead9d267405a3822573ba049e14a3
+M	js/calendar_overlap.js	6c25254d37d74f59f2cad7697e0d1b25
+M	readme.txt	afee45b70bee1aa1e44ff278b35baf03
+M	theme/calendar-day-overlap.tpl.php	cc3d9f20a1bc962dd3fc15322612cf99
+M	theme/calendar-day.tpl.php	23814475e5f06c570b7f9ac9a4d12374
+M	theme/calendar-month-col.tpl.php	dedd182eca8641cb2cfff8ea7232b4d2
+D	theme/calendar-month-multiple-entity.tpl.php	
+M	theme/calendar-month.tpl.php	c13facf56b9947998fe413f8c0fa473f
+A	theme/calendar-row-node.tpl.php	4ae32bd2f2b1913c64a457c651e5416f
+M	theme/calendar-week-overlap.tpl.php	73c579497f452b2c3ed9e2620daf6156
+M	theme/calendar-week.tpl.php	27b8ab34d483bea25e94e4e592d98b6d
+M	theme/theme.inc	7e53ec5f468c30f28b5c41d6af5e583b

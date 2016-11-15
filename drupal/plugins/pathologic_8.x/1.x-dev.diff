@@ -1,0 +1,17 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	486b7b52be4bceffd45226c5117eb06e
+A	config/install/pathologic.settings.yml	d83d56ad7ee2324138634f09c77342ff
+A	config/schema/pathologic.schema.yml	904123f28a9fb6f09aa3f0736727df45
+A	pathologic.api.php	5df230af0a9be62b4c521fd185860435
+A	pathologic.info.yml	81c383a58e863569d359ecbba5c48e8f
+A	pathologic.install	52a804dba9bb8a0ac2051e882d987cb9
+A	pathologic.links.menu.yml	43d7404ed0fc946260ee1d14aea86d7b
+A	pathologic.module	cdd5a9c2e7ebe80151a095c96b33639e
+A	pathologic.routing.yml	2e216775ba7f6a17d774f93d93af7f00
+A	pathologic_test/pathologic_test.info.yml	2e3d27613a5cf9d3733017cc3dc3d6cd
+A	pathologic_test/pathologic_test.module	267b212dacbecb9066fcd21f260ea8cc
+A	src/PathologicSettingsCommon.php	7ef0629441bf6adc0f4ec2a39f79f1b3
+A	src/PathologicSettingsForm.php	b72c1d4e8cea925ce42e7ab5a09175fa
+A	src/Plugin/Filter/FilterPathologic.php	a49aeab536b1c27496299e0a8d394cea
+A	src/Tests/PathologicTest.php	e94490c174dc2e6ac8447e3cf18b498b
+A	src/Tests/PathologicUITest.php	3b492427239740105a3240fe0a614734

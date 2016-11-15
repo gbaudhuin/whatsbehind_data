@@ -1,0 +1,8 @@
+M	pm_block_user/pm_block_user.info	161eb4b615a3b8efeb41cd4a4c8b200d
+M	pm_block_user/pm_block_user.test	94e1d258590aca42ade2177f3c58bc86
+M	pm_email_notify/pm_email_notify.info	04ec386994122780c13b4c62d2e47a05
+M	pm_email_notify/pm_email_notify.module	5bafaf6d3044779dd816d140daaf813d
+M	privatemsg.info	7aa3e4bb26bfd4e9486aeb13cf046f7f
+M	privatemsg.install	d6ce2855137b6e34ec8a51b172dd0aa7
+M	privatemsg.module	621cd37c7c580c4a5f889e280a747e55
+M	privatemsg_filter/privatemsg_filter.info	323dd4bf96a801f55155557a571c1ee0

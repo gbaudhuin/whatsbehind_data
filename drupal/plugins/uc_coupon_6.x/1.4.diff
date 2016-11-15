@@ -1,0 +1,10 @@
+A	uc_coupon.admin.inc	8a079ff23575733e54b6e1c15f7a20b2
+A	uc_coupon.ca.inc	baa05e7fd03939a3eb3785b3e53cfa4f
+M	uc_coupon.info	ada2da59e6b2893283e01710b82de4f0
+M	uc_coupon.install	dee877e85c205569f854be86bb670b39
+M	uc_coupon.js	59264b0d9b551e207944385d574fcfd7
+M	uc_coupon.module	065288c6d08281796c03abdc3d94de1c
+A	uc_coupon_purchase/uc_coupon_purchase.ca.inc	f2f1b1cb0b169b9336153f68ce72a675
+A	uc_coupon_purchase/uc_coupon_purchase.info	7c058217c816f21ddd660d6b7dbc7910
+A	uc_coupon_purchase/uc_coupon_purchase.install	28a4bea7b7551245713e73c733b4839c
+A	uc_coupon_purchase/uc_coupon_purchase.module	4cb3385cbd1700f569844b5e4e7155f6

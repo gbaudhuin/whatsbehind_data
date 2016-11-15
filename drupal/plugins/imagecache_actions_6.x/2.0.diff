@@ -1,0 +1,46 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	canvasactions/imagecache_canvasactions.install	
+D	canvasactions/imagecache_canvasactions.module	
+D	canvasactions/rounded_corners.inc	
+D	coloractions/imagecache_coloractions.module	
+D	coloractions/tests/bright.imagecache_preset.inc	
+D	coloractions/tests/bright.jpg	
+D	coloractions/tests/inverse.imagecache_preset.inc	
+D	coloractions/tests/inverse.jpg	
+D	coloractions/tests/overlay.imagecache_preset.inc	
+D	coloractions/tests/overlay.jpg	
+A	help/textrender_syntax.html	89fe5f8b42b723cddb0db4c831d3198b
+D	imageapi_image_overlay.inc	
+D	imagecache_actions.info	
+M	imagecache_actions.jquery.js	92fec1fc756fa027570838a23e9dd77e
+D	imagecache_actions.module	
+A	imagecache_canvasactions.install	4ee20ee4ccc25070c4531157a49de6d9
+A	imagecache_canvasactions.module	25829695b3b3bb0905ca67e93ffdc809
+A	imagecache_coloractions.module	31f253967f9800ed8c4998102a3e1393
+A	imagecache_textrender.info	8bdee95a0259d6387bbcd20aa2301e0c
+A	imagecache_textrender.module	dbbdc144749ecbc1f618de5bed22dcbd
+A	imagefilter.inc	914b1670316859e2d297bf499eebe8ce
+A	old/imagecache_textactions.info	3eda15399529b50d11d28dc283c50804
+A	old/imagecache_textactions.install	57145aaee512f467ec436eaec28b1f46
+A	old/imagecache_textactions.module	93c6afa2c5b327898660a1244b01d026
+A	old/textactions.inc	dfa871860abcb715d3eb37ca4518632f
+D	tests/README.txt	
+D	tests/imagecache_testsuite.features.inc	
+M	tests/imagecache_testsuite.info	56c6a2ce3d9c9c4f973ed2c238c846a7
+M	tests/imagecache_testsuite.module	cd1ebcfea5afc942afebec84ac79fb4b
+A	tests/keyword_positioning.jpg	63ec3b97692a303126dfdce009b3797d
+A	tests/positioned_underlay.png	0cb8e7bbd29fff6e8145e93fb503d658
+A	tests/text_positioning.imagecache_preset.inc	9039fffb5674ad156c0b427df51abd08
+A	tests/textactions_fancy.imagecache_preset.inc	5e1750f2975584fabf6c513eaec71aba
+A	tests/textactions_fancy.jpg	8f79ca1593190c6307520ceb110a34d5
+A	tests/textactions_positioning.imagecache_preset.inc	f02e0f3cff4d693371b72ff029368210
+A	tests/textactions_positioning.jpg	1514c0c575c090776d287d442dd4902c
+A	tests/textactions_shadow_alpha.imagecache_preset.inc	407920cde2d58aa24c27c2df0e0bf46d
+A	tests/textactions_shadow_alpha.jpg	2745484d35a69dcd5d62acb43e796551
+A	tests/textactions_simple.imagecache_preset.inc	2922563e02a30cbb956eaa243b6288e3
+A	tests/textactions_simple.jpg	03fe5be07110c1a38e22417ee5eac77f
+A	textrender.inc	eaacb41c5b4392d65846162b29815695
+D	utility-color.inc	
+D	utility-form.inc	
+M	utility.inc	93fc5f39313e5169072b3204eda05733
+M	watermark.inc	507e9d3bc45c41adc62c7c971cec948c

@@ -1,0 +1,24 @@
+M	INSTALL.txt	e2d73fc61d80ea3a9bd87d2e95421804
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	eed5f0f1f8d9636bff46671679cbc571
+D	UPGRADING.txt	
+D	contrib/logintoboggan_content_access_integration/README.txt	
+D	contrib/logintoboggan_content_access_integration/logintoboggan_content_access_integration.info	
+D	contrib/logintoboggan_content_access_integration/logintoboggan_content_access_integration.install	
+D	contrib/logintoboggan_content_access_integration/logintoboggan_content_access_integration.module	
+D	contrib/logintoboggan_rules/README.txt	
+D	contrib/logintoboggan_rules/logintoboggan_rules.info	
+D	contrib/logintoboggan_rules/logintoboggan_rules.module	
+D	contrib/logintoboggan_rules/logintoboggan_rules.rules.inc	
+M	logintoboggan-rtl.css	74fe67332a3c60f3f5e0866fee6ca381
+M	logintoboggan.css	4fe1561704fef660f239d8f5cd95cf8f
+M	logintoboggan.info	d67a4b4601af0e4c62c44ea5c01aa91d
+M	logintoboggan.install	c0df1e6884b726a864742396f0d77b07
+M	logintoboggan.js	59f25f19f11b563caa4453648f5d0f3b
+M	logintoboggan.module	02638559b8105746c01e1bf4533785d4
+A	po/de.po	06e70149b13279ceea9d18d7acf9dd4d
+A	po/es.po	5c629722c921deb6664060e66ed5aa6a
+A	po/he.po	10ab7d839bdf8e317a275ec8d96ef09a
+A	po/logintoboggan.pot	5a4bfc578ade1f027236ead50df5efa1
+A	po/nl.po	c10f55d596da5e6d289ba74edd33ec41
+A	po/pl.po	1e2cd65d4a81f2d1ccf9d52623a560d9

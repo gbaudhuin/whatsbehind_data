@@ -1,0 +1,7 @@
+M	exclude_node_title.info.yml	402430b4230e7c7f24feccb454337a29
+M	exclude_node_title.install	d47f203d37fcb410d886dae3f746c260
+M	exclude_node_title.module	7f2418da2c0cee45162f834b095b30e9
+M	exclude_node_title.routing.yml	5f724969fe8fec567e6b08aecf77e1ea
+M	src/ExcludeNodeTitleManager.php	1a5a497459213b482b740ea7cccf79fb
+M	src/ExcludeNodeTitleManagerInterface.php	4aa278556bca3f6c7dd378a87fb74c5b
+M	src/Plugin/DsField/Node/NodeTitle.php	908c98fbf05983cf542de16869496c4a

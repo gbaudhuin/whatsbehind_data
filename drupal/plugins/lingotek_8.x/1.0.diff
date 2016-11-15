@@ -1,0 +1,52 @@
+M	config/install/lingotek.profile.automatic.yml	6cb27cb37c703c323a307771c3568d2d
+M	config/install/lingotek.profile.disabled.yml	7c89844bd32d840bd0c9858ddef750d7
+M	config/install/lingotek.profile.manual.yml	781022baabd31fe0ff35a03859d29c83
+M	config/schema/lingotek.schema.yml	d475f2f76686ef30efe9955d50c8d224
+M	css/lingotek.settings.css	bfcbda661a8fbe3507e5dd35c4089cf7
+M	js/connect.js	eea1cae14cba27ca34ca697660f179ae
+M	lingotek.info.yml	3214b278701fabc897a707611a1a786c
+M	lingotek.install	bf5c4a766b00b7503232a4dba247d231
+M	lingotek.services.yml	bebdccd90ef693396eb592dbde762f6d
+M	src/Controller/LingotekControllerBase.php	1dda8d0711ca536f429bb875cc7c4987
+M	src/Controller/LingotekDashboardController.php	0d4aab45058c8d5073f593a8899d11cf
+M	src/Controller/LingotekEntityController.php	679b7ba14e32f4cb1e6a2eb50f0eaa84
+M	src/Controller/LingotekNotificationController.php	d67f75306f98fa898ced402cdbc42bdc
+M	src/Controller/LingotekSetupController.php	ec05d20a1c9fb3f25dd33bd400653dbc
+M	src/Entity/LingotekProfile.php	a5b67f2e24afa587e26eedbc32a9efa8
+M	src/Form/LingotekManagementForm.php	645ce961fc9a7ef8305985b92d9bd3ab
+M	src/Form/LingotekProfileFormBase.php	f8d0d0a069dced7976419f160238d042
+M	src/Form/LingotekSettingsTabContentForm.php	48180fdea23a230ea45782830e218d48
+M	src/Form/LingotekSettingsTabUtilitiesForm.php	3bd6d777cb966dd7470c279caac2f8a8
+D	src/Form/LingotekSetupForm.php	
+A	src/LanguageLocaleMapper.php	d33c392f8a0dc8c577b1770e4143183f
+A	src/LanguageLocaleMapperInterface.php	47a2d626dd76130b1a6dc8d39c1240ba
+M	src/Lingotek.php	14dda9977c3185d115788f79813627bd
+D	src/LingotekConfigSet.php	
+M	src/LingotekContentTranslationService.php	cc22f51584331b65ff68586222f63b20
+D	src/LingotekException.php	
+M	src/LingotekInterface.php	a32102fa88b4391249b6aa07517d7d6d
+M	src/LingotekLocale.php	13ddc3b29b158de1bafbbef0de0ae182
+D	src/LingotekLog.php	
+D	src/LingotekProfile.php	
+M	src/LingotekProfileInterface.php	ad1bbf4a66ea4502bb6e05419189c76d
+D	src/LingotekSync.php	
+D	src/LingotekTranslatableEntity.php	
+D	src/LingotekXMLElement.php	
+M	src/Remote/LingotekApi.php	6d1f08e9828b67f398f23387a26d1943
+M	src/Remote/LingotekApiInterface.php	f1679adb86dfa296a76fa77e48252bbb
+A	src/Tests/Form/LingotekProfileFormTest.php	a1901c258ea6c0875a8c245d017365a2
+M	src/Tests/Form/LingotekSettingsTabContentFormTest.php	f3570f085d4a62144962be512de95be9
+M	src/Tests/LingotekAccountTest.php	3515cd30577a87e27b4550055def295f
+A	src/Tests/LingotekNodeBulkDebugTest.php	3a2982bc4aba86afc9e28d47505381af
+M	src/Tests/LingotekNodeBulkLocaleTranslationTest.php	4c70bdfa02e2679cdc086416fde71442
+M	src/Tests/LingotekNodeBulkTranslationTest.php	82de7433494331d2377a1f10f7028d1c
+M	src/Tests/LingotekNodeTranslationTest.php	ce23ae855e35baeb6f5588b14f2bb9b0
+M	src/Tests/LingotekNotificationCallbackTest.php	6ad959a51ba510abc01202aa130db1ee
+M	src/Tests/LingotekTestBase.php	363a13d7a9846b877d495e5428f2fb49
+M	tests/modules/lingotek_test/lingotek_test.info.yml	6dbac8de184256aceee07065c19cde32
+A	tests/modules/lingotek_test/lingotek_test.install	18754edd35f544dcaae66c35eb5ff6d7
+M	tests/modules/lingotek_test/lingotek_test.routing.yml	3319cbef5845fed743a83bf472af865e
+M	tests/modules/lingotek_test/src/Controller/FakeAuthorizationController.php	d5a67b9ad5d0a6d2412c478f078b8e5f
+M	tests/modules/lingotek_test/src/LingotekFake.php	ab91eb0d42fb49d2b6ae25d8cdc666c2
+M	tests/src/Unit/LingotekUnitTest.php	e98777a88a26c1d0da2641beb0f48f3e
+M	tests/src/Unit/Remote/LingotekApiUnitTest.php	e8f4f921e12f1cacc1468ed4268f7d58

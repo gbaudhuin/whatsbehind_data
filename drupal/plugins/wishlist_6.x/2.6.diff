@@ -1,0 +1,17 @@
+M	INSTALL.txt	520db085b2cabdd595484426274a57da
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+D	includes/views/handlers/views_handler_argument_wishlist_giftee_user_uid.inc	
+D	includes/views/handlers/views_handler_filter_wishlist_giftee_user_uid.inc	
+D	includes/views/handlers/views_handler_relationship_wishlist_total_purchased.inc	
+D	includes/views/wishlist.views.inc	
+D	includes/views/wishlist.views_default.inc	
+D	po/ca.po	
+D	po/de.po	
+D	po/nl.po	
+D	po/wishlist.pot	
+M	wishlist.admin.inc	7bd399afaf4c9812bc1efb4a3d322bc8
+M	wishlist.css	40e7e7e3c4957e94e3df8dc40481f347
+M	wishlist.info	16909e020ae7af885c2f38566b74295e
+M	wishlist.install	503b6102e7601afe0b0e3de3b2c87ba3
+M	wishlist.module	c32d9dbcb613cfe2cd21ab8d288d54ea
+M	wishlist.page.inc	cfe6b4ab16512e89a51d1f644d5dc641

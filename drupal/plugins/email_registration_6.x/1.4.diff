@@ -1,0 +1,9 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	2db44b196579e77dc3161b26d6be4306
+M	email_registration.info	93c6a5357988e43e6edad0f500849fb8
+D	email_registration.install	
+M	email_registration.module	f59fba1fbc73cdefebeabec9d9e467bd
+M	email_registration.test	f5f2c33a03561d35e2d4e1cd92f648b7
+D	translations/de.po	
+D	translations/es.po	
+D	translations/fr.po	

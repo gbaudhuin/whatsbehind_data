@@ -1,0 +1,4 @@
+M	NOTES.md	0e48d1756fe5061b07df9e4807df5a8d
+M	src/Plugin/Filter/TocFilter.php	9ab66f24e0fcb551f2ac7bd03c03296a
+M	tests/modules/toc_filter_test/toc_filter_test.info.yml	6f555ec9b6329bd875d6536add51f456
+M	toc_filter.info.yml	772bc32fc978480bb749b86d932b17b6

@@ -1,0 +1,45 @@
+M	contrib/image_attach/image_attach.info	586adc0918de1f8d8e4b670960027883
+M	contrib/image_attach/image_attach.install	88cec9ce88fa326fc52ca96aa552e152
+M	contrib/image_attach/image_attach.module	38185a9a7c4d03e5f45d09fbc4996eff
+M	contrib/image_attach/image_attach.views.inc	4abfa6a79d0fcc72c653897996fdec1d
+A	contrib/image_attach/image_attach_views_handler_field_iid.inc	590a27fc10ae8bd2471c685eaed50a6b
+D	contrib/image_attach/translations/de.po	
+A	contrib/image_attach/translations/image_attach.de.po	dcad13d7b9164aa674c9609270ead114
+A	contrib/image_attach/translations/image_attach.el.po	19579107992b2cdafba47c640cbb3d56
+M	contrib/image_attach/translations/image_attach.pot	c6ca72c00b83203a0dedf6bb2b88dcc4
+M	contrib/image_gallery/image_gallery.info	1d8bc7bf7868706f7af683d997a26763
+M	contrib/image_gallery/image_gallery.install	103995565d52da0d79685afccf55469d
+M	contrib/image_gallery/image_gallery.module	d86d02b80fb48c62463803dbaa79b7c6
+D	contrib/image_gallery/translations/de.po	
+A	contrib/image_gallery/translations/image_gallery.de.po	3c3de1b16f0c0447a479a03626f8d6de
+A	contrib/image_gallery/translations/image_gallery.el.po	72dcb7c3ec9b0746515dd50ddd8476f7
+M	contrib/image_gallery/translations/image_gallery.pot	82b953763bd06badbe1de124fd47e8a8
+M	contrib/image_im_advanced/image_im_advanced.info	6db006449170854f6e62f44087dbb97f
+M	contrib/image_im_advanced/image_im_advanced.install	6eb5ecee796a761dcdaca2bc548ce311
+M	contrib/image_im_advanced/image_im_advanced.module	4567f075f3eb042fb7d5acc5d709da01
+D	contrib/image_im_advanced/translations/de.po	
+A	contrib/image_im_advanced/translations/image_im_advanced.de.po	a53287b0af5b050fabc0133ec7ad5f80
+A	contrib/image_im_advanced/translations/image_im_advanced.el.po	cf361aa6881251f017554df8530c5e28
+M	contrib/image_im_advanced/translations/image_im_advanced.pot	ce3ddb94d873fc54efb710e5055bdead
+M	contrib/image_import/image_import.admin.inc	05d6c5f55144a61b11fb5b0607cc570f
+M	contrib/image_import/image_import.info	adf3e1f03e55b909e820add76a1d490a
+M	contrib/image_import/image_import.install	bb65663fc6b00a7df1dedfa78b2d0865
+M	contrib/image_import/image_import.module	421aeeb8bcd566abcc5cdaebe7d4b51b
+A	contrib/image_import/image_import.pages.inc	69f18ac87dda8c33282d09cc4ed6b5b1
+D	contrib/image_import/translations/de.po	
+A	contrib/image_import/translations/image_import.de.po	6e57adf2489dea8153276c1fe7773572
+A	contrib/image_import/translations/image_import.el.po	3ebebb328a487180600571c7b8efad64
+M	contrib/image_import/translations/image_import.pot	46361474f41f9de5764d22887239505b
+M	image.admin.inc	0847c1b929dea4db182fe35a1ef88b97
+M	image.imagemagick.inc	7954d5827fde9347274eae0ab57e40fb
+M	image.info	47b5469c28a5aab150277c034d27e0f6
+M	image.install	6833069cd5cf9548f123b3eec577feb2
+M	image.module	558efc713780d3bce9c9f575b4edc42e
+D	image.views.inc	
+D	translations/de.po	
+A	translations/general.de.po	cdad9a65b432f55fd7174d94648049fa
+A	translations/general.pot	01a2dedb872efce379b9e0cac9509ffd
+A	translations/image.de.po	0146c51a7226411e39d99b7b22924bd8
+A	translations/image.el.po	877c4ab41677efb35687e939ce61c30e
+A	translations/image.ja.po	339f5a4d77893c2cbaabccfad4775af5
+M	translations/image.pot	9624732ea26bffdb83a9eb169347a9f3

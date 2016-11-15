@@ -1,0 +1,12 @@
+M	CHANGELOG	542722233da4172a07ad4d67ba795722
+M	includes/DrupalOAuthDataStore.inc	5f90ffdd9abc093bd3c11ebf863d10bf
+M	oauth_common.admin.inc	5e60a89a5a54cd6b529ded7786e71e97
+M	oauth_common.authorizations.inc	41d80e83f19e75f0290a4edb0f497cfb
+M	oauth_common.consumers.inc	992e582ca1b8370a25e7da9d2e869f75
+M	oauth_common.inc	5a4fc1237207b2cda1a434e25979d45b
+M	oauth_common.info	98bd07a0f972350e479cd209545aff66
+M	oauth_common.install	347004934e556cc34edb3c517a4be3e9
+M	oauth_common.module	12336e1482d2542dc23e88a2ada63997
+M	oauth_common.pages.inc	8794fc157cd02660d9fe440348a13758
+M	oauth_common_consumerui.info	4b4416561fdcd8b31d422384a741faf4
+M	oauth_common_providerui.info	2ee12a84eb5a2840820dd670eb515612

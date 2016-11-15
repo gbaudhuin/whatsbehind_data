@@ -1,0 +1,26 @@
+M	CHANGELOG.txt	44a26a33e2a78863729a834685bd10f0
+M	README.txt	9274375c105fff85d765343ac831a993
+M	revisioning.info	fc65fa126367ac55e939427e9dfaed26
+M	revisioning.install	48237de1f771e5d8527d352ce87153e1
+M	revisioning.module	2f5a44031ab751b6405a4cb83f7bfcbe
+M	revisioning.pages.inc	300e0dcabbf7005495bff938900f0195
+M	revisioning.rules.inc	af30a182336e24f0f2751e5caafa591c
+M	revisioning_api.inc	b0a2a08c21e0ba516a6e0cde5a2e2a1b
+D	revisioning_scheduler/revisioning_scheduler.info	
+D	revisioning_scheduler/revisioning_scheduler.install	
+D	revisioning_scheduler/revisioning_scheduler.module	
+D	revisioning_scheduler/revisioning_scheduler.views.inc	
+M	revisioning_theme.inc	00c882b01795f371b80ac7520d680314
+M	revisioning_tokens.inc	7fea1859d40464efd1601dd5edfe6486
+M	revisioning_triggers_actions.inc	d8fb26da6e4f47c5638ba013bbec858d
+D	translations/de.po	
+D	translations/fr.po	
+D	translations/revisioning.pot	
+M	views/revisioning.views.inc	0c041afd6763441230898303908a47a7
+M	views/revisioning.views_default.inc	1e6e198c64ef8ffe76e16db5f0478f8a
+D	views/revisioning_handler_field_node_last_editor.inc	
+M	views/revisioning_handler_filter_node_number_of_revisions.inc	121e475f097bda4c03e2425c4bfcf4c7
+M	views/revisioning_handler_filter_node_revision_moderation.inc	61e150dc41fcf43f69add2f2455edf2d
+M	views/revisioning_handler_filter_node_state.inc	7f0b4b2c6433baa8e8aa828252895e89
+D	views/revisioning_handler_filter_revision_latest.inc	
+M	views/revisioning_handler_filter_revision_state.inc	92c54a52c037e43bf18f00351d9d21bf

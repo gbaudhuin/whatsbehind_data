@@ -1,0 +1,15 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	a5b7c90c641c0d626e3e308d11d3107a
+A	config/install/tablefield.settings.yml	4f0ff9cb9c5994463f87d5ac2c61747b
+A	src/Controller/TablefieldController.php	2a54e3c511e0f69f7458c619a2fa97ac
+A	src/Element/Tablefield.php	830a5db5f5e3558fd307148bce8abd4d
+A	src/Form/TablefieldConfigForm.php	f01923ab59e591fa15b0dc3f2dcc2847
+A	src/Plugin/Field/FieldFormatter/TablefieldFormatter.php	9cf4e2cb24f7b9ad7612e069f779d7b0
+A	src/Plugin/Field/FieldType/TablefieldItem.php	a6d3b5a361660c5d1295188f54ea8242
+A	src/Plugin/Field/FieldWidget/TablefieldWidget.php	ff6c147f2ec6b599b05f4c8f82dd55ae
+A	src/Utility/Tablefield.php	df37cb3b3d9af79424d0ad894886c6bd
+A	tablefield.info.yml	314efbc6f878ee3bba7edb8a95c4063f
+A	tablefield.install	d425562f8a032ad3da56a54a90771080
+A	tablefield.links.menu.yml	ff4e4635008b0743ff4e1fc399eb0a7a
+A	tablefield.permissions.yml	e0e95c48bc2bc69d0a7c61f12b8d8642
+A	tablefield.routing.yml	27d4064bcef35be228d25194228587ae

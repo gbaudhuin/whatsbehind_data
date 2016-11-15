@@ -1,0 +1,22 @@
+M	CHANGELOG.txt	d8a62f648b2e19dde07d2b49781ead07
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	README.txt	
+M	classes/associated_display.inc	6ed4b2810c13deb4113bd29b57779ff3
+D	classes/breadcrumb_display.inc	
+M	classes/handler_form.inc	12d5f188db5ede8d68c4994591bcdf90
+M	classes/term_display.inc	d0d7ab581a46b3a9b8897f25468861cd
+M	handlers/associated/core.inc	f38999d6efccffbb354e44478ed5247b
+M	handlers/associated/hidden.inc	9be558cb9edb4013b7c7f965a3981c6f
+M	handlers/associated/views.inc	784cf7f802c57a4cb73ca2c6cc8b46c0
+D	handlers/breadcrumb/core.inc	
+D	handlers/breadcrumb/hidden.inc	
+D	handlers/breadcrumb/ignore.inc	
+M	handlers/term/core.inc	8aec5cc5abff03d59daed27441cb3ce9
+M	handlers/term/hidden.inc	1241cc3685daa943bab080e710787c7a
+D	plugins/content_types/term_context/icon_term.png	
+D	plugins/content_types/term_context/term_page_display.inc	
+M	taxonomy_display.admin.inc	6631633af7ae99a70d4f93d18e08a048
+M	taxonomy_display.api.php	1936ade0dc1ff706b63e82dc143fce10
+M	taxonomy_display.info	b883af7069606f37b864f59a3be8a371
+M	taxonomy_display.install	4834f8dd2189d8f6417d0661eea82774
+M	taxonomy_display.module	c0c985726610c31603de143e33b60065

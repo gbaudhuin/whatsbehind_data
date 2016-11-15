@@ -1,0 +1,11 @@
+M	README.txt	09828d189ee9543b9316bb23545a1cb4
+A	help/term_merge.help.ini	faa4d2786b5592741f80a6e8772127d3
+A	help/term_merge.html	0f23df840b57e9a86767f6e3f2b23097
+A	help/term_merge_duplicate_suggestion.html	93720fb0e8b634768e6625d1e338dab1
+A	plugins/duplicate_suggestion/description.inc	1cbb1ebab5a06642fd296422890032a0
+A	plugins/duplicate_suggestion/name.inc	d485d4b35efd787156efda3715b5d390
+A	plugins/duplicate_suggestion/parent.inc	1927d4043c09e5ac8dd82861d6841314
+M	term_merge.info	4a28e436d10e0edea0f1b24199251905
+M	term_merge.module	e683691776744c154bf6e921b4eb0ace
+M	term_merge.pages.inc	d2272f359ac7edd1eeec2288c2ff566e
+M	term_merge.test	a0c2efe503fb69453f5fd4163e6df85a

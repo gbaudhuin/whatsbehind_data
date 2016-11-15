@@ -1,0 +1,8 @@
+M	content_taxonomy.info	cd201c3f772c63b7344f1cc6b5ae1960
+M	content_taxonomy.module	7f98fdfb88c7c3429c697df54a84f867
+M	content_taxonomy_autocomplete.info	192f4d01acebad2386c304510ae550b3
+M	content_taxonomy_autocomplete.module	b9747ceed201141c8296b1ae59c439f6
+M	content_taxonomy_options.info	f32b78a09ff886ddccc69ef3202162d1
+M	content_taxonomy_tree.info	29a376f67ea0fdee14dce5669fc39940
+M	tests/content_taxonomy.test	f410f02174825f6ae71f77d91b9c567a
+A	translations/hu.po	509b1a88b1e21d425185e36a1480c2c7

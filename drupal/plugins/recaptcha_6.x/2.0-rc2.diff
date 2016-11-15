@@ -1,0 +1,6 @@
+M	README.txt	929242a7608fe8c78f69b58c7af0163a
+M	recaptcha.info	1db940afb4c90b71a772f5416e849954
+M	recaptcha.install	09d8ef7cfd3cee3ccd71852d76be13bf
+M	recaptcha.module	4a33dcb79d2e3f737b83e3d442d92d1e
+A	recaptcha.test	0118562886fbfa9fe2456047afafea50
+A	src/ReCaptcha/RequestMethod/Drupal6.php	8979ea702fb835b738f30b4d4d739153

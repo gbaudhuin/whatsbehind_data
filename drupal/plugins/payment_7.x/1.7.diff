@@ -1,0 +1,11 @@
+M	payment/payment.api.php	fa3aa39df2670ceecd141798fe10d14b
+M	payment/payment.classes.inc	e749ebfe5a81d809f20262bad18f99d3
+M	payment/payment.info	ced95073e31946d4ebb41f97e5d15df4
+M	payment/payment.module	b7ce9ee8bc11ded26ac4be0d7801c2a2
+M	payment/tests/payment_test/payment_test.info	3154d4e960c736b00be4aa5f099f9fb8
+M	paymentform/paymentform.info	741dd46aac2aafb55c2b6d2b6ea9f7a5
+M	paymentform/tests/paymentform_test/paymentform_test.info	23c9a5bb31be91d3f95d6805efd029b9
+M	paymentmethodbasic/paymentmethodbasic.info	fbfd6739ceea32eb23e0f2e713af8ff0
+M	paymentmethodbasic/tests/paymentmethodbasic_test/paymentmethodbasic_test.info	d964274db19db6bad01614e8df031f34
+M	paymentreference/paymentreference.info	4ba0dec52945d84aa79cd641da58e405
+M	paymentreference/tests/paymentreference_test/paymentreference_test.info	630add00c36d19092ae65b971f198979

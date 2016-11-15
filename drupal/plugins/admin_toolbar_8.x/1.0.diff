@@ -1,0 +1,22 @@
+D	README.txt	
+A	admin_toolbar.info	c2bb7a3382ef4d0842c4528e5ff6ef58
+M	admin_toolbar.info.yml	e0c763cdf6ed539899ef052ec7a8d8be
+M	admin_toolbar.libraries.yml	e3be7ca8f23dc8772fb5dfc5c77763c0
+M	admin_toolbar.module	9f3ecff26d9be5e16762477db4ed2d3a
+D	admin_toolbar_tools/README.txt	
+M	admin_toolbar_tools/admin_toolbar_tools.info.yml	adbc0f94dc0539e6549b4e71bf8b9be8
+M	admin_toolbar_tools/admin_toolbar_tools.libraries.yml	93f9552ca9b3231adf087bd43da6db4f
+M	admin_toolbar_tools/admin_toolbar_tools.links.menu.yml	c438b341a3575095570daded99f9d2f5
+M	admin_toolbar_tools/admin_toolbar_tools.module	72dfd7d756e9944e8f7458d0ad93c179
+M	admin_toolbar_tools/admin_toolbar_tools.routing.yml	a9a54a3c7055d4981f2995db788be117
+M	admin_toolbar_tools/css/tools.css	923811955368ed94f911a29071eff755
+M	admin_toolbar_tools/misc/icons/ffffff/d8-item.svg	e0289baf7d3a49a6610a3cb4258ef9f9
+M	admin_toolbar_tools/src/Controller/ToolbarController.php	3591a662d01f369a16ecf7d94c7727fc
+D	admin_toolbar_tools/src/Tests/AdminToolbarToolsAlterTest.php	
+D	composer.json	
+M	css/admin.toolbar.css	51c5018af489b55ee1b3bff3bad950e1
+D	js/admin_toolbar.js	
+D	misc/icons/0074bd/chevron-left.svg	
+D	misc/icons/0074bd/chevron-right.svg	
+D	misc/icons/ffffff/chevron-right.svg	
+D	src/Tests/AdminToolbarAlterTest.php	

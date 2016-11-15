@@ -1,0 +1,9 @@
+M	README.txt	4e9ced40445b2cd3fa91e610e89678a7
+D	composer.json	
+M	config/install/easy_breadcrumb.settings.yml	1bab1156a184754a0d5d3e8001939c3f
+M	easy_breadcrumb.info.yml	0ebb481526071c1fbd393ded39527135
+M	easy_breadcrumb.services.yml	32fdbcf3a6b2747676972236d1f3e937
+M	src/EasyBreadcrumbBuilder.php	eab28bc28e9a2ebb5bf9f5fba1c3d257
+M	src/EasyBreadcrumbConstants.php	637ec7d5e97119ad862cafe201c1b507
+M	src/EventSubscriber/InitSubscriber.php	5f4d6e0e93df76ce8e72b186e9828282
+M	src/Form/EasyBreadcrumbGeneralSettingsForm.php	bb4396d76c34ca2da1cb65899b91c76b

@@ -1,0 +1,100 @@
+D	config/schema/ctools.schema.yml	
+M	ctools.info.yml	c84ee6a603a0fd09316f2f0f5f038ccb
+M	ctools.module	aaf1f99893097e0c9dbe47a125f18977
+M	ctools.services.yml	4b07faa24fa4772043a2a353bd7c9390
+D	modules/ctools_block/config/schema/ctools_block.schema.yml	
+D	modules/ctools_block/ctools_block.info.yml	
+D	modules/ctools_block/src/Plugin/Block/EntityField.php	
+D	modules/ctools_block/src/Plugin/Deriver/EntityFieldDeriver.php	
+D	modules/ctools_block/src/Tests/EntityFieldBlockTest.php	
+D	modules/ctools_block/tests/modules/ctools_block_field_test/config/install/core.base_field_override.node.ctools_block_field_test.promote.yml	
+D	modules/ctools_block/tests/modules/ctools_block_field_test/config/install/core.entity_form_display.node.ctools_block_field_test.default.yml	
+D	modules/ctools_block/tests/modules/ctools_block_field_test/config/install/core.entity_view_display.node.ctools_block_field_test.default.yml	
+D	modules/ctools_block/tests/modules/ctools_block_field_test/config/install/core.entity_view_display.node.ctools_block_field_test.teaser.yml	
+D	modules/ctools_block/tests/modules/ctools_block_field_test/config/install/field.field.node.ctools_block_field_test.body.yml	
+D	modules/ctools_block/tests/modules/ctools_block_field_test/config/install/node.type.ctools_block_field_test.yml	
+D	modules/ctools_block/tests/modules/ctools_block_field_test/ctools_block_field_test.info.yml	
+D	modules/ctools_views/ctools_views.info.yml	
+D	modules/ctools_views/ctools_views.module	
+D	modules/ctools_views/src/Plugin/Display/Block.php	
+D	modules/ctools_views/src/Tests/CToolsViewsBasicViewBlockTest.php	
+D	modules/ctools_views/tests/modules/ctools_views_test_views/ctools_views_test_views.info.yml	
+D	modules/ctools_views/tests/modules/ctools_views_test_views/test_views/views.view.ctools_views_entity_test.yml	
+D	modules/ctools_views/tests/modules/ctools_views_test_views/test_views/views.view.ctools_views_test_view.yml	
+D	src/Access/AccessInterface.php	
+D	src/Access/TempstoreAccess.php	
+D	src/Annotation/Relationship.php	
+D	src/Context/EntityLazyLoadContext.php	
+D	src/ContextMapper.php	
+D	src/ContextMapperInterface.php	
+D	src/ContextNotFoundException.php	
+A	src/EventSubscriber/WizardControllerSubscriber.php	1a3384eb6d8ed96eb70b35394ed00cad
+M	src/Form/ConditionConfigure.php	efe5aa1bb90694cd92d643288638c96b
+M	src/Form/ConditionDelete.php	a691c2a38dcfbbc697a65e7bf9d9dfaa
+M	src/Form/ContextConfigure.php	4708b9f93f6058e698d70f04405fe058
+D	src/Form/ContextDelete.php	
+M	src/Form/ManageConditions.php	be80a86b854e2dc1938b4ffb38f92f40
+D	src/Form/ManageContext.php	
+D	src/Form/ManageResolverRelationships.php	
+D	src/Form/RelationshipConfigure.php	
+M	src/Form/RequiredContext.php	4fb380eb7c36b9b9fedbf05f0582b3ec
+M	src/Form/RequiredContextDelete.php	7ad70aa9ea9088d9f21b5cd23c7c224c
+D	src/Form/ResolverRelationshipConfigure.php	
+D	src/Form/ResolverRelationshipDelete.php	
+D	src/ParamConverter/TempstoreConverter.php	
+M	src/Plugin/Block/EntityView.php	5a7de45f9c7f65df9df63bc46632f269
+M	src/Plugin/BlockVariantTrait.php	a914445e1591b27e3875a828c5e54262
+D	src/Plugin/Condition/EntityBundle.php	
+A	src/Plugin/ConditionVariantInterface.php	056d396a50bd1fd8f5fa1420e00073f5
+A	src/Plugin/ConditionVariantTrait.php	7994f48d66ba10441ed1775ea2dd657c
+D	src/Plugin/Deriver/EntityBundle.php	
+M	src/Plugin/Deriver/EntityDeriverBase.php	0da691d4cdee2015556532197b6bc139
+D	src/Plugin/Deriver/TypedDataEntityRelationshipDeriver.php	
+D	src/Plugin/Deriver/TypedDataLanguageRelationshipDeriver.php	
+D	src/Plugin/Deriver/TypedDataPropertyDeriverBase.php	
+D	src/Plugin/Deriver/TypedDataRelationshipDeriver.php	
+M	src/Plugin/DisplayVariant/BlockDisplayVariant.php	d02251daa344342e2fde8056998faa31
+D	src/Plugin/PluginWizardInterface.php	
+D	src/Plugin/Relationship/TypedDataEntityRelationship.php	
+D	src/Plugin/Relationship/TypedDataLanguageRelationship.php	
+D	src/Plugin/Relationship/TypedDataRelationship.php	
+D	src/Plugin/RelationshipBase.php	
+D	src/Plugin/RelationshipInterface.php	
+D	src/Plugin/RelationshipManager.php	
+D	src/Plugin/RelationshipManagerInterface.php	
+M	src/Plugin/VariantPluginCollection.php	d5068521cf53220f28e40974659d4359
+D	src/Routing/Enhancer/WizardEnhancer.php	
+D	src/Testing/EntityCreationTrait.php	
+M	src/Tests/Wizard/CToolsWizardTest.php	e99e285184456b6350253f94561b2844
+D	src/TypedDataResolver.php	
+M	src/Wizard/EntityFormWizardBase.php	afedf6c2609a2f8c54067a076bc8ad39
+M	src/Wizard/FormWizardBase.php	03d811e503254fbda98a077135019f16
+M	src/Wizard/FormWizardInterface.php	e07de819ea74796af8f5b52d04d36758
+M	src/Wizard/WizardFactory.php	54708f94293cd373033fabe533810207
+D	tests/modules/ctools_wizard_test/config/schema/ctools_wizard_test_config_entity.schema.yml	
+M	tests/modules/ctools_wizard_test/ctools_wizard_test.info.yml	666200ae049e0f424818a92cd02e5e7f
+D	tests/modules/ctools_wizard_test/ctools_wizard_test.links.action.yml	
+D	tests/modules/ctools_wizard_test/ctools_wizard_test.links.menu.yml	
+M	tests/modules/ctools_wizard_test/ctools_wizard_test.routing.yml	bdabd30bbbae52ee09dc2bcd7eb848fd
+D	tests/modules/ctools_wizard_test/src/Entity/ExampleConfigEntity.php	
+D	tests/modules/ctools_wizard_test/src/ExampleConfigEntityInterface.php	
+D	tests/modules/ctools_wizard_test/src/ExampleConfigEntityListBuilder.php	
+D	tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityDeleteForm.php	
+D	tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityExistingForm.php	
+D	tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityExternalForm.php	
+D	tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityGeneralForm.php	
+D	tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityOneForm.php	
+D	tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityTwoForm.php	
+M	tests/modules/ctools_wizard_test/src/Form/OneForm.php	460f0f3ef46ce3fbdb8fe68f80a0bee3
+M	tests/modules/ctools_wizard_test/src/Form/TwoForm.php	2a472991858a560269bb26ca3f54602c
+D	tests/modules/ctools_wizard_test/src/Wizard/EntityAddWizardTest.php	
+D	tests/modules/ctools_wizard_test/src/Wizard/EntityEditWizardTest.php	
+M	tests/modules/ctools_wizard_test/src/Wizard/WizardTest.php	4da71593de0f44f0338218d2cf819f92
+D	tests/src/Kernel/RelationshipManagerTest.php	
+D	tests/src/Kernel/RelationshipsTestBase.php	
+D	tests/src/Kernel/TypedDataEntityRelationshipPluginTest.php	
+D	tests/src/Kernel/TypedDataLanguageRelationshipPluginTest.php	
+D	tests/src/Kernel/TypedDataRelationshipPluginTest.php	
+D	tests/src/Kernel/TypedDataResolverTest.php	
+M	tests/src/Unit/BlockDisplayVariantTest.php	352f6e0b2e1483b0b76e74bce73bd906
+D	tests/src/Unit/ContextMapperTest.php	

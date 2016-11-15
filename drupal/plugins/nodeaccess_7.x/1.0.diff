@@ -1,0 +1,9 @@
+M	CHANGELOG.txt	ea01037f71cae23d2f7781515e767638
+D	nodeaccess.admin.inc	
+D	nodeaccess.api.php	
+M	nodeaccess.info	2db6c46023ed24e81ec21911830b7bf9
+M	nodeaccess.install	e93d855d7a34befe14303890997b90c7
+M	nodeaccess.module	3f7ce01820d170dbda64dadb9f209f26
+D	tests/nodeaccess_grant.test	
+D	tests/nodeaccess_publish.test	
+D	tests/nodeaccess_role.test	

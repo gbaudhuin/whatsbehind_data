@@ -1,0 +1,9 @@
+M	README.md	823ef005182b946d94c396924c454e1c
+M	jdrupal.api.php	ac967f7b4d1e5ba641b1c9a40f7df3d8
+M	jdrupal.info.yml	23c9c6c71cc6b473932290ab86dea3e0
+A	jdrupal.libraries.yml	cd4d55a63173b5ebf08455167cd8c6d9
+D	jdrupal.links.menu.yml	
+M	jdrupal.module	8141316a06c587fb5f7d3b17cd971cca
+D	jdrupal.routing.yml	
+M	src/Controller/jDrupalController.php	bf1eef5901e77d0bed5623e2c70da67d
+M	src/Plugin/rest/resource/jDrupalConnect.php	157853cd1cb0080e57f915115ca550d9

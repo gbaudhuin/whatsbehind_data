@@ -1,0 +1,13 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	f030ff6a7727f5e2489c4643abdfc3ed
+A	recaptcha-php-1.11/LICENSE	8c863d134de86e9f4623b04127051732
+A	recaptcha-php-1.11/README	d6cc7bf9298e02f88ee8872859a324f8
+A	recaptcha-php-1.11/example-captcha.php	8f1a30496285160ed3b978a42871e83c
+A	recaptcha-php-1.11/example-mailhide.php	3c0df991598dc7874e36fa55371f4309
+M	recaptcha.admin.inc	0734ff45c4f87a67a44f0bf68456d533
+M	recaptcha.info	94f3a908b27f6fe34205e6a18c22ffcf
+M	recaptcha.install	4019af57e89a1807c1b90ab72b937094
+M	recaptcha.module	0314886f1ced6dc669ed2a2801d45bd2
+D	recaptcha/README.txt	
+M	recaptcha_mailhide.info	a1c7a55c4c3945c2300f6c27665d36a6
+M	recaptcha_mailhide.module	ecf9383f8b25a34de959fba4be2e0938

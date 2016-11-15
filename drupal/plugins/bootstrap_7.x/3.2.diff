@@ -1,0 +1,10 @@
+M	bootstrap.info	39d724c60f2934c97b3111b3541142f3
+M	docs/FAQ.md	dd53a6366f2ca3c217388e378c1a7594
+M	includes/alter.inc	083adad8e8c22cbbd0eec5751f470c03
+M	includes/common.inc	83d51b61987ee97c01c7a35ffad10f57
+M	includes/registry.inc	88f9ccf11664bcb3899437814c9e1e1d
+M	templates/system/breadcrumb.func.php	5a138dfcab8a3f00080ab23435858ffd
+M	templates/system/breadcrumb.vars.php	08eb19c82913af63aedb1f54e6be263e
+M	templates/system/page.vars.php	6d978622656a48ca8230f6a968b83cc2
+M	templates/views/views-view-table.tpl.php	3953dc6feb325bb14d0601e6635fee42
+M	theme-settings.php	46174673df3cac21d1343f0836b6eabf

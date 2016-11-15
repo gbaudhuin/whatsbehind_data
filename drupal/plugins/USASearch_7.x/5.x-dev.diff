@@ -1,0 +1,36 @@
+M	README.md	f271c4705c8addf0ea293a1342672587
+M	README.txt	f271c4705c8addf0ea293a1342672587
+M	usasearch.admin.inc	6c3641cf0b7a82f0f9dc55c97182123f
+M	usasearch.info	a8ae05845fad2f4a1d2a44c7417a8730
+M	usasearch.install	053705ebf9b6c964e65c57c86dad29fb
+M	usasearch.module	238579b59e24a30c2fd67af8db4f91c4
+A	usasearch.rules.inc	d50d3190c024d874691b6b0a48565286
+A	usasearch_api/README.md	bcfe230e285135c52f7a48d8c71f64b0
+D	usasearch_api/UsaSearchClient.inc	
+A	usasearch_api/UsaSearchDocument.inc	f24e8d27f111112c6d3656f73545d95c
+M	usasearch_api/composer.json	986a656ca1ec3d3ac7a5c932fd43c0d9
+D	usasearch_api/usasearch_api.css	
+D	usasearch_api/usasearch_api.inc	
+M	usasearch_api/usasearch_api.info	6f2b1edfed8789c1e63a85840ef947a7
+D	usasearch_api/usasearch_api.install	
+M	usasearch_api/usasearch_api.module	11d039442f5bdafcfbf5b45e58196109
+D	usasearch_api/usasearch_docs/usasearch_docs.info	
+D	usasearch_api/usasearch_docs/usasearch_docs.module	
+D	usasearch_api/usasearch_images/usasearch_images.info	
+D	usasearch_api/usasearch_images/usasearch_images.module	
+D	usasearch_api/usasearch_news/usasearch_news.info	
+D	usasearch_api/usasearch_news/usasearch_news.module	
+D	usasearch_api/usasearch_videonews/usasearch_videonews.info	
+D	usasearch_api/usasearch_videonews/usasearch_videonews.module	
+M	usasearch_field/usasearch_field.info	0d7efa0423687843b725e6e2e0bcb3d0
+M	usasearch_field/usasearch_field.install	876aedf8e4b313e19aa173d82660bcd0
+A	usasearch_field/usasearch_field.install.coder.orig	cc0e67239cc3ea494f9cd877b7895f67
+M	usasearch_field/usasearch_field.module	d3140dc88da3d81da911d4cd49e9cfd8
+A	usasearch_field/usasearch_field.module.coder.orig	7f8ff65f66c2dadb6ce90209233398a6
+M	usasearch_hosted/usasearch_hosted.inc	15839957d7a6a648b770575e58c227e9
+M	usasearch_hosted/usasearch_hosted.info	2f7b34abc6d3d9ce7bb6db6b3ef98ec5
+M	usasearch_hosted/usasearch_hosted.module	4cc0c596c2073cf528080f7e93185fb1
+D	usasearch_index/README.md	
+D	usasearch_index/usasearch_index.inc	
+D	usasearch_index/usasearch_index.info	
+D	usasearch_index/usasearch_index.module	

@@ -1,0 +1,9 @@
+M	.gitignore	ea426b59d9a29a6ec260ef5d5859bed8
+M	includes/janrain_capture.api.inc	d944ebd4952f1c449ce709f7eeb70817
+M	includes/janrain_capture.endpoints.inc	69c05afa20d6284006fe80b69feea133
+M	includes/janrain_capture.widget.inc	26e4c6b65d52272414b7f61fd9b1daa7
+M	janrain_capture.info	a51c95a498ec98c55fb2eeb9d2aa51d2
+M	janrain_capture.module	333e4df13d4d187423c629572a1c9508
+M	janrain_capture_mapping/janrain_capture_mapping.info	5ca45f13673c56aa8d95f45b22e099c5
+M	janrain_capture_screens/janrain_capture_screens.info	7935c1b3a8af4d11826e5afc7be5666d
+M	janrain_capture_ui/janrain_capture_ui.info	fad62c0d191fce39155085aac227b5ed

@@ -1,0 +1,69 @@
+M	.gitignore	536b33118c7a321b61d79575fc7147f2
+M	Gruntfile.js	a8680134722603c167ae0bed74f81017
+M	config/install/toolbar_themes.settings.yml	a15e7a96ec586600ab3f894e1e9faf49
+M	css/toolbar-themes-form.css	249b76a0d8a616a0cc833fd6df1155c4
+M	src/Form/ToolbarThemesSettingsForm.php	e2e1ce42134c4ceee8ba83bdd9d29755
+M	templates/toolbar-themes--menu.html.twig	71f855a3d6f585eea37eb39219067bc5
+M	templates/toolbar-themes--toolbar.html.twig	9ecac7eeabf2752e3997dd16f775d586
+M	themes/base/base_handles.css	de090022481769bbdd29b6b5fb32de09
+M	themes/base/base_handles.css.map	70f0357904d6f53d2f2256ad60cbdeca
+M	themes/base/base_handles.scss	2b6c65e80c0c37d92b9a8d38d77568f2
+M	themes/base/base_icons.css	a5bbd59a6fc5a6413709ad03dbf2c9ab
+M	themes/base/base_icons.css.map	2bdf07ccb3788c8a7ffea279a46db804
+M	themes/base/base_icons.scss	6ab8838985fa0a7a2049f3d47d335b6f
+D	themes/base/grunticons/original/toolbar-icon-admin-toolbar-tools-help.svg	
+D	themes/base/grunticons/original/toolbar-icon-edit.svg	
+D	themes/base/grunticons/original/toolbar-icon-entity-user-collection.svg	
+D	themes/base/grunticons/original/toolbar-icon-escape-admin.svg	
+D	themes/base/grunticons/original/toolbar-icon-help-main.svg	
+D	themes/base/grunticons/original/toolbar-icon-help.svg	
+D	themes/base/grunticons/original/toolbar-icon-home.svg	
+D	themes/base/grunticons/original/toolbar-icon-link-toolbar-menu.svg	
+D	themes/base/grunticons/original/toolbar-icon-menu.svg	
+D	themes/base/grunticons/original/toolbar-icon-shortcut.svg	
+D	themes/base/grunticons/original/toolbar-icon-system-admin-config.svg	
+D	themes/base/grunticons/original/toolbar-icon-system-admin-content.svg	
+D	themes/base/grunticons/original/toolbar-icon-system-admin-reports.svg	
+D	themes/base/grunticons/original/toolbar-icon-system-admin-structure.svg	
+D	themes/base/grunticons/original/toolbar-icon-system-modules-list.svg	
+D	themes/base/grunticons/original/toolbar-icon-system-themes-page.svg	
+D	themes/base/grunticons/original/toolbar-icon-toolbar-menu.svg	
+D	themes/base/grunticons/original/toolbar-icon-user.svg	
+D	themes/base/grunticons/processed/grunticon.loader.js	
+D	themes/base/grunticons/processed/icons.data.png.css	
+D	themes/base/grunticons/processed/icons.data.png.css.map	
+D	themes/base/grunticons/processed/icons.data.svg.css	
+D	themes/base/grunticons/processed/icons.data.svg.css.map	
+D	themes/base/grunticons/processed/icons.fallback.css	
+D	themes/base/grunticons/processed/icons.fallback.css.map	
+D	themes/base/grunticons/processed/png/toolbar-handle.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-admin-toolbar-tools-help.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-edit.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-entity-user-collection.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-escape-admin.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-help-main.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-help.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-home.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-link-toolbar-menu.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-menu.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-shortcut.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-system-admin-config.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-system-admin-content.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-system-admin-reports.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-system-admin-structure.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-system-modules-list.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-system-themes-page.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-toggle-horizontal.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-toggle-orientation.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-toggle-vertical.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-toolbar-menu.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-tour.png	
+D	themes/base/grunticons/processed/png/toolbar-icon-user.png	
+D	themes/base/grunticons/processed/preview.html	
+D	themes/base/templates/toolbar-themes--base-menu.html.twig	
+D	themes/base/templates/toolbar-themes--base-toolbar.html.twig	
+M	toolbar_themes.info.yml	b1d154e05a8d0ba8b932ca9e0521954b
+D	toolbar_themes.install	
+M	toolbar_themes.libraries.yml	80d77078e6c8f70fe7ef8883bfe4b945
+M	toolbar_themes.module	73617ef8aa74091a89874af664bb6739
+M	toolbar_themes.toolbar_themes.yml	d6a139e996304c01a6d8cd1c3fac3d57

@@ -1,0 +1,22 @@
+A	CHANGELOG.txt	edc4866aff9dc315f28d55f3f557dc59
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	4f88a6df234cc0199791db705d00a975
+D	better_exposed_filters.api.php	
+M	better_exposed_filters.css	e4cfd92050f8824f1d60506baf17a8e4
+M	better_exposed_filters.info	760b9260d8a1de7a7280276672a4821d
+D	better_exposed_filters.install	
+M	better_exposed_filters.js	20815c6cdfa3ff131e892ac225031142
+M	better_exposed_filters.module	c4e19bb026b096762c0a9accb2211796
+M	better_exposed_filters.theme	577ae5dfe16c249480eb891d2f423ff9
+M	better_exposed_filters.views.inc	abc33d35c91e11967d6dfe9fdac6f7d2
+M	better_exposed_filters_exposed_form_plugin.inc	dfc42782a1fe11f72da543441866c44d
+D	tests/bef_test_content/bef_test_content.features.field_base.inc	
+D	tests/bef_test_content/bef_test_content.features.field_instance.inc	
+D	tests/bef_test_content/bef_test_content.features.inc	
+D	tests/bef_test_content/bef_test_content.features.taxonomy.inc	
+D	tests/bef_test_content/bef_test_content.info	
+D	tests/bef_test_content/bef_test_content.install	
+D	tests/bef_test_content/bef_test_content.module	
+D	tests/bef_test_content/bef_test_content.views_default.inc	
+M	tests/better_exposed_filters.test	a5dacd75510e56dbf8df0513e0307451
+D	tests/better_exposed_filters_TestBase.php	

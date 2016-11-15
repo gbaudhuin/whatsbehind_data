@@ -1,0 +1,9 @@
+M	CHANGELOG.txt	aa2bf60f74ce4a4afa3fdb7eb9a385d7
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+D	includes/viewfield.views.inc	
+D	theme/viewfield.css	
+D	theme/viewfield.theme.inc	
+A	viewfield.css	ed38a4e5dcb5f2ce0d1efc12dfbd069a
+M	viewfield.info	16a373f8222e1ad20c64743992e17741
+M	viewfield.install	c8c0eca48b199775cf3f9e68602759ff
+M	viewfield.module	d98398437c22de27d172b8f0a8cc49e8

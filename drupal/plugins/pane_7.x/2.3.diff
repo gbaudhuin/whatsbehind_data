@@ -1,0 +1,12 @@
+M	contrib/pane_entity_host/pane_entity_host.info	52bdd1fb8d8afd37f5a5874b2b398409
+M	contrib/pane_entity_host/plugins/panes/pane_entity_host.inc	46799318d36172d19fbdf04df1a372ed
+M	contrib/pane_entity_reference/pane_entity_reference.info	cf242043357f7f59f96b3a5e93d77bd9
+M	contrib/pane_entity_reference/pane_entity_reference.module	5c2aa5a0a322698438fa026a07f7876f
+M	contrib/pane_entity_reference/plugins/panes/pane_entity_reference.inc	be7d678d9e053657b0e834e495adccce
+M	includes/pane_base.inc	85b080bdcaeb3c7e62136130bfd0f211
+M	pane.admin.inc	b7b1f083bf449932150a743cf6da935c
+M	pane.info	ef904cb89fcbfad0f378aba6fdaac51c
+M	pane.install	713760f17dcebfe08a8fd81a3e6c5b23
+M	pane.module	bdd76e50997a4f1768021c4bf9d56106
+M	plugins/content_types/pane.inc	ba269bfb39a0742e7fc3bf0b2d3db50b
+M	plugins/panes/pane_text.inc	085fad66bbd74d96a3980eba42d15e64

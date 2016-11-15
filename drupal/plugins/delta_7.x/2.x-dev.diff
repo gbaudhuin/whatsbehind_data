@@ -1,0 +1,24 @@
+A	.cvsignore	040c0aedf1edae30f7ef7357489ab23e
+A	CHANGELOG.txt	d2c999582125700c34ef38bd33a949ed
+A	README.txt	1ddd6d4a138bf9655277f0d80d86645e
+D	assets/popup_skin/delta_popups.css	
+D	assets/popup_skin/popup-icon.png	
+D	conditions/contexts.info	
+D	conditions/contexts.module	
+D	conditions/node_type.info	
+D	conditions/node_type.module	
+D	conditions/paths.info	
+D	conditions/paths.module	
+D	delta-override-form.tpl.php	
+D	delta-settings.inc	
+D	delta.css	
+M	delta.info	02e90c801cc2d54111fa87bc8fc84a6e
+M	delta.install	4a0d6038cae2dc2107b60f1a90b4efd5
+D	delta.js	
+M	delta.module	1334026dedee007d3541ca49d5c1589a
+A	delta_ui.admin.inc	ba808e25b94daf6a848b7afc5863955b
+A	delta_ui.info	f142eb2bb90c717c48f2aa3b62349be6
+A	delta_ui.js	8252bf1ce4f6dc1d35551b6b624aa150
+A	delta_ui.module	f0f6c809b23e6e5bd64fc21244e223aa
+A	plugins/context_reaction_delta.inc	f159f027f5f6fd075c59c8db814339e4
+D	theme-functions.inc	

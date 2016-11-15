@@ -1,0 +1,8 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	d43f46d71c20f56de933e31769c6da0a
+A	facebook_comments_block.info.yml	106ca2f29ad9755435ee067b48d8ff77
+A	facebook_comments_block.libraries.yml	9c1b503b0be241b63acf96fd716b0c1a
+A	facebook_comments_block.module	ca05fe81f904e63d06c33d8713bd75e8
+A	js/facebook_comments_block.js	2dbb96cdfc53f254f5323ba26d120d31
+A	src/Plugin/Block/FacebookCommentsBlock.php	8fa55392bcf8b521d305e7827cb25261
+A	templates/block--facebook-comments-block.html.twig	888c84ad21dd0059b85a70d02adfe06d

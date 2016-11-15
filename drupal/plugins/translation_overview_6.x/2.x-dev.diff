@@ -1,0 +1,31 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	images/current-unpublished.png	33391b0d60e62668a291ad791ed2b62c
+A	images/current.png	61c6deb1d385ab8ad367f3fe64402f94
+A	images/missing-high.png	6ed7f4a9a8510a8aa9f1ffb65299fc19
+A	images/missing-ignore.png	ce6587034842b5d9a1e7b77b767eabd2
+A	images/missing-unpublished-high.png	118020fe431fc841a83c20520de4876c
+A	images/missing-unpublished-ignore.png	93e50803b21e17a18033d3763cad2974
+A	images/missing-unpublished.png	ac9bc2695efdc6b0e19bbe890b767e47
+A	images/missing.png	21e7fbd5e75f33d713b55762e775ec5a
+A	images/note.png	30c304053adc31a9eda073de1f858248
+A	images/original-unpublished.png	aab0eb88e409ba9a14bca1e294f6d667
+A	images/original.png	28a141a416a801d769e350fad3285dec
+A	images/outofdate-high.png	875077bed7e779d86f4a1e894925dce2
+A	images/outofdate-ignore.png	d7064cee70af0a3216f75e98c2419e46
+A	images/outofdate-unpublished-high.png	4a93dd3327bb209211bc9db60c7dcd4e
+A	images/outofdate-unpublished-ignore.png	19af898409cd6220594220165c69a213
+A	images/outofdate-unpublished.png	94edc896c5c7992b2ee7e17c43ea1b41
+A	images/outofdate.png	efedf41948e389b892657a9c9fc28763
+D	status_current.png	
+D	status_missing.png	
+D	status_original.png	
+D	status_outofdate.png	
+M	translation_overview.css	8371e0c304adb37d8637c2bf4651ce49
+M	translation_overview.info	265c0b78621345f2f193ee830065f2ad
+A	translation_overview.install	6012eda230e6c3d6817708d07ccd5ae8
+M	translation_overview.module	47e11421499dfd08701e59507882acaa
+M	translation_overview.pages.inc	72a5fee114831f5f0df80f39f89c8250
+A	translation_overview.test	4f765041ca42ef1fdbb51ae7c17f87d6
+D	translations/da.po	
+D	translations/de.po	
+D	translations/translation_overview.pot	

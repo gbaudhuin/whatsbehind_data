@@ -1,0 +1,11 @@
+M	README.txt	94908042a226bfb777c4f312b88c2f6c
+M	media.info	b4495c9dc8b92f5c1fd836f98774b112
+M	modules/media_bulk_upload/media_bulk_upload.info	4b6829586dd4349941b7aa425fe8c151
+M	modules/media_internet/media_internet.info	9c31dec62917cfbebb99c59a7752ac5c
+M	modules/media_internet/tests/media_internet_test.info	fb2bf86624032ac0e0878c992fa5322b
+M	modules/media_migrate_file_types/media_migrate_file_types.info	18831c360e5c785a1e334ebe390b19cd
+M	modules/media_wysiwyg/js/media_wysiwyg.filter.js	666235235dbed7bbcd5c2e61831b07ba
+M	modules/media_wysiwyg/media_wysiwyg.info	05e6d838c4c3c3ea484f0362671d3465
+M	modules/media_wysiwyg_view_mode/media_wysiwyg_view_mode.info	c276176b2cff30feb1e9401d0d9d6f3a
+M	modules/mediafield/mediafield.info	2c6d2b06cc3054b8733e4ca34d2b0ef5
+M	tests/media_module_test.info	2f9502e135204b1f5c2bd8f30e36f681

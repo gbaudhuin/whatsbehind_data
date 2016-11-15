@@ -1,0 +1,7 @@
+M	README.txt	437d0f8c5eaddacc37eff7afaf5a1099
+M	campaignmonitor-block-content.tpl.php	dcb953a12af944ff4cf4142e450c7871
+M	campaignmonitor.info	1f265e57ba4500563a505b917c3c023a
+M	campaignmonitor.install	fa4c471d681b99111400380b9117c15f
+M	campaignmonitor.module	c7051f7af7e660450b5f3b80bff515a1
+A	includes/campaignmonitor.admin.inc	0e2aee1cb2a5a096496769906a5b656d
+A	includes/campaignmonitor.user_page.inc	82f82938121cbe3d760917637d943577

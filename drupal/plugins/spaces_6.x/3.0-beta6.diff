@@ -1,0 +1,16 @@
+M	includes/spaces.views.inc	dfe6415177b7df02f37bb80679f05962
+A	includes/spaces_handler_field_node.inc	18d2a0d7fa3e0fe00352db67bb20906a
+M	plugins/space_type_purl.inc	62413ed1650bef2cfa31249e5646b865
+M	spaces.info	6ec4bddf88892fe61b2c9b9148fd95c3
+M	spaces.module	33a125912a7473eaa38db18b259e282b
+M	spaces_customtext/spaces_customtext.info	2c7a2054458a5b592898f6e3f834b58f
+M	spaces_dashboard/spaces_dashboard.info	2558266a78fcf5f9a9854a8742ab773d
+M	spaces_og/spaces_og.info	38f8a2cb18634e7cb5a4c16a886986d9
+M	spaces_og/tests/spaces_og.test	b93b3f3196a6362fab8b6eff8574d108
+M	spaces_og/views/spaces_og.views.inc	cff41ce40c13a94fc8771dbbe8bf9e6a
+A	spaces_og/views/spaces_og_handler_field_og_group_nids.inc	3e1a128df5d066a4db7cac932468288a
+M	spaces_taxonomy/spaces_taxonomy.info	a00fb2b7db611d008e6cbc013c8693b1
+M	spaces_ui/spaces_ui.info	74355400cf74372f6e26348b778afdc0
+M	spaces_user/spaces_user.info	43bff6227b82cf089f71754ee9d296b0
+M	tests/spaces.test	7aa747c7bdfbdf8f8eda9d200f867d73
+M	tests/spaces_test.info	90d2eade26ad35d7b6d5ba1a9a96406c

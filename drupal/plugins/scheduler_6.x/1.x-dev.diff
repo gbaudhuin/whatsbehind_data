@@ -1,0 +1,9 @@
+A	.cvsignore	4586f6c028b8c68b87dfbf66b3574e37
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	06b71c6393c5a61bd5cbfbf8b1be171c
+A	scheduler.info	641da37f6cc5c4098716a6e70a28643a
+A	scheduler.install	b4a506b4f02e25c7245177e3babfbc68
+A	scheduler.module	6df67e60925944d10faa9ac864d101c7
+A	scheduler.views.inc	418fb2c71c2804072fece0ac912872c8
+A	scheduler_handler_field_scheduler_countdown.inc	5ed4ca6538eb3cd33dfaa40f61974f50
+A	scheduler_vertical_tabs.js	1bd46278568b28a5845c8701a2e2462c

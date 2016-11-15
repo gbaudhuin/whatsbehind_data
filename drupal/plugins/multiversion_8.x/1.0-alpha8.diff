@@ -1,0 +1,29 @@
+M	.travis.yml	e326dda8289e343bf2fb8b423010be3e
+M	multiversion.info.yml	1adf4bca17de66addcada9d91a8aaaa8
+M	multiversion.module	86540eed1eb61da6f5a23198e2908696
+D	src/AccountProxy.php	
+M	src/Entity/Index/EntityIndex.php	140a25079758bbeac14b0d229b6a0003
+M	src/Entity/Index/RevisionTreeIndex.php	dc299d1aaa7b9c113a2c0636371cc936
+M	src/Entity/Index/RevisionTreeIndexInterface.php	c0eb693f3946c8c105d144cae6f85827
+M	src/Entity/Index/SequenceIndex.php	7dab8e2a0ff08cc2ab9fefa6c2f80e35
+M	src/Entity/Query/QueryTrait.php	85365c019824ea00a31bb9512d7c2e8d
+M	src/Entity/Storage/ContentEntityStorageTrait.php	add3095b221941f1462c472b742beaf7
+D	src/Entity/Storage/Sql/UserStorageSchema.php	
+M	src/Field/RevisionsProperty.php	b7a4ec116475c0ed9643a682e003e11f
+M	src/MultiversionManager.php	99adc6d448b093d52bb8c89ec7780302
+M	src/MultiversionMigration.php	6faf63026002d9a97b3d1ce6295bdf43
+M	src/MultiversionServiceProvider.php	64d3bf88cc70ab85c1b8c238c0f4c8f3
+M	src/Plugin/migrate/destination/ContentEntityBase.php	30d59f4448cba7a26b2a998deefd9477
+M	src/Plugin/migrate/destination/TempStore.php	0f821d6f33d99d3fafb66c1cf4ef5c26
+M	src/Plugin/migrate/source/SourcePluginBase.php	3114fcfb425597ec18cc1b782d773f8c
+M	src/Plugin/migrate/source/TempStore.php	75893b3b6f8d0093a44c3892b3c84e57
+M	src/Tests/EntityQueryTest.php	a7869af33c3437dd554cdef936db2918
+M	src/Tests/EntityStorageTest.php	8caeedfa7d1563cc33cceac543933f73
+M	src/Tests/FieldTestBase.php	56c21a5bff252bb2150c8246b991be56
+M	src/Tests/MigrationTest.php	44159dd9481399511688d32e4a8b6715
+M	src/Tests/RevisionFieldTest.php	5eaa34a78592bac7ebc244e61a30d08d
+M	src/Tests/SequenceIndexTest.php	2677d619f800a3dfadd24c6777948118
+M	src/Tests/UninstallTest.php	174babc8eb400d883ab67c676757572f
+M	src/Workspace/ConflictTracker.php	e75a7f3d804b26608a36b7882ff21095
+M	src/Workspace/ConflictTrackerInterface.php	999ff6f1401da18ab1083e68eee8938a
+M	tests/modules/multiversion_test_views/multiversion_test_views.info.yml	4299ae17aa28dc5ce540ad8823724d28

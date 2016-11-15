@@ -1,0 +1,13 @@
+M	css/styles.css	30d307d33bffb0e7e44dfed2da739a1e
+M	js/vcl.js	89f37b9945fdd4bf866720f0d8feebdc
+M	sass/styles/_style.scss	2bc1ec31df870d0f20c9a73a8853ec19
+M	src/Plugin/Filter/FilterVCL.php	3b446951c48ba8e75a2e3b034dcc1c19
+M	swaps/src/Form/AccordionAttributesForm.php	99dcc296657386daa44311ad7233bf6f
+M	swaps/src/Form/DivAttributesForm.php	936d418b5ed16ecea423e34648a27e86
+M	swaps/src/Form/ListAttributesForm.php	802d5dee0a7f9d301bd27ecdc9f5e5a4
+A	swaps/src/Form/ResponsiveContainerAttributesForm.php	85ef20318937a6c58582b16b7227dccb
+M	swaps/src/Plugin/Swap/SwapDiv.php	0eca8552256eb21971801a75e0395468
+A	swaps/src/Plugin/Swap/SwapResponsiveContainer.php	e0dffa933fd55c0d0876db4abdd2d72a
+M	swaps/swaps.info.yml	9db83639e908f14f3b8ca7ac79baaa64
+M	vcl.info.yml	ab38bec3b448571f53f815b2ecaa5706
+M	vcl.routing.yml	f2cf9e1bfc0aa569a68817edfb4ed9da

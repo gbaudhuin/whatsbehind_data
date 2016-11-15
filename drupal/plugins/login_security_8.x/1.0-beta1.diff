@@ -1,0 +1,8 @@
+M	login_security.info.yml	e9f34224cd832a433ef207d1a076e8c8
+M	login_security.module	c423046f2c2cbed53ce5a0c7c8d3b130
+M	src/Form/LoginSecurityAdminSettings.php	5a57994d868c84401321d7b3aeb120ce
+M	src/Tests/LoginSecurityEmailTest.php	f2d6ab99aaca73f0afe414b8e83c1262
+M	src/Tests/LoginSecurityInterfaceTest.php	a65966f897b5724de2398fa2cf6151bd
+M	src/Tests/LoginSecuritySoftBlockTest.php	a035e6a92ae4f96e228b40a89cda0def
+M	src/Tests/LoginSecurityTestBase.php	5c850c014d27e8dca031ba53847b3dd8
+M	src/Tests/LoginSecurityUserBlockingTest.php	e2959c1c697cbcce5afbf17d7b9bfbe2

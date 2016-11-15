@@ -1,0 +1,12 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	d94846542ce962ed3ed3353376bf5191
+A	config/system_status.settings.yml	eea8b5a623ac0726b87953bc68ad532d
+A	src/Access/SystemStatusAccessCheck.php	4eb6dba04af41ce8ce46dd2bbd0d17eb
+A	src/Controller/SystemStatusController.php	d03ac673bb371d915d0e4fb6abd49aed
+A	src/Controller/SystemStatusEncryption.php	076b671740f6e705068e30edae0a313f
+A	src/Form/SystemStatusSettingsForm.php	50143c8f91472a63ed21e3d7f42bd9c0
+A	system_status.info.yml	cec45834cfe31e3f9d4fbdd0f28f89d9
+A	system_status.install	3eb1b9cc99b90b76303a0afb127fdaa9
+A	system_status.module	7e60ce8d09b363a4555635bacb925f25
+A	system_status.routing.yml	96df01534aaf9edf8591e9d818ef6192
+A	system_status.services.yml	8c29bc2dd17a2ddc9343c6d6f03ebbb6

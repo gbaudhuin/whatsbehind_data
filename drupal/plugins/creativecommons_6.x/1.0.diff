@@ -1,0 +1,20 @@
+M	README.txt	a6c1c61a6ecdffa5a8964d4c8fa4901f
+M	apachesolr_cc/apachesolr_cc.info	b1a5f90cf7a5bc943c978e78175b0178
+M	apachesolr_cc/apachesolr_cc.module	1b8346fb8bfe74a14df4f6964ec7ca14
+M	creativecommons.actions.inc	d3def990acde81cb7667ec0e754ec509
+M	creativecommons.class.php	1c95f3c3f5fa3e1a4b6f8eb697ea3f4d
+M	creativecommons.info	e16d50203e22c8bade050d5779df1a07
+M	creativecommons.install	e33d8d13d96b1785282350cc2052b585
+M	creativecommons.module	782dad2f5305abbe736e8f9e7f80906e
+A	images/buttons/large/mark.png	1f8cec42b3c9276f1acbe2847d123083
+A	images/buttons/small/mark.png	c84c528cf931adad589c4a83113baf2e
+A	images/icons/mark.png	2df02ed43d89945975e7c9eeee7cfd9f
+M	includes/creativecommons.views.inc	958b261e946e005b9562d71487198600
+M	includes/creativecommons.views_default.inc	92fb6bdf113c8b14d0e58940aaa3e118
+M	includes/creativecommons_views_handler_argument_nid.inc	0bdf4e080af3fe34c46c587ef3131946
+M	includes/creativecommons_views_handler_field_attribution.inc	bc5bc6d7287529a77c7429563854d899
+M	includes/creativecommons_views_handler_field_license_uri.inc	a8f1b2ff2f1b3825f5838ef011a30fa7
+M	includes/creativecommons_views_handler_filter_license_uri.inc	b1569a16dc3ac8486416c8a81bded737
+M	theme/theme.inc	2139b02d1e124fcbc171d0c9fa19c220
+D	translations/creativecommons.pot	
+D	translations/es.po	

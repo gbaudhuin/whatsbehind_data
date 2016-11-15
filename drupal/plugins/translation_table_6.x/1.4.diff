@@ -1,0 +1,13 @@
+M	README.txt	61b3c559d764226cf15aa30dfb1a9591
+M	css/translation-table-admin-rtl.css	efa7f1fdc7fa47378cbc9907233dfec9
+M	css/translation-table-admin.css	78954f1ee0f645157687ab2b412496ec
+M	includes/admin.inc	8452869d68795c1e8e916d17da731001
+M	includes/theme.inc	17b7057441645e7108a5da2044d81db8
+M	modules/content.translation_table.inc	fc1fcffd505d66ae979f1f7328e76c0b
+M	modules/menu.translation_table.inc	87c6e651d7104d9ebd445d51bd97d7cc
+M	modules/node.translation_table.inc	a52912581d4b25e67f7ac0debecef618
+M	modules/quicktabs.translation_table.inc	e6888ad0cdf87c877819c0b17dcd5e50
+M	modules/taxonomy.translation_table.inc	e43566608e17731efe80643787c2393f
+M	translation_table.info	30a742271bf860a9d89ff287a802375d
+M	translation_table.module	e657a02fe787af603dfab216f00e180f
+M	translations/hu.po	f2c897aa3e138d3597cc5a9d07f5d787

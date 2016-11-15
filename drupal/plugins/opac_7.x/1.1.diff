@@ -1,0 +1,15 @@
+M	includes/opac.connector.inc	bef6f2f6f877e3d352fe536d9bf40d64
+M	modules/opac_asin/opac_asin.info	9c8eab5f954aac905a19c849f6ea53f4
+M	modules/opac_authorities/opac_authorities.info	3c1624c586393d0bb3fe2af88677a51f
+M	modules/opac_items/opac_items.admin.inc	5c513f0822ce6c916552c317b260c501
+M	modules/opac_items/opac_items.api.php	cf5b7ce7b42ec40774dbfd8cdf4be6ea
+M	modules/opac_items/opac_items.css	67ac99b9b5160f56d678a58390c7bec4
+M	modules/opac_items/opac_items.info	7e8dfeaaafb6988712dd95a703bceaa0
+M	modules/opac_items/opac_items.js	0cc9ab057ceaebd88f472608285f2b8d
+M	modules/opac_items/opac_items.module	009c825996b3000526fecb0f4f0b5f2b
+M	modules/opac_marc/opac_marc.info	a699c2560f7a5b620d6bdc0bdc41726c
+M	modules/opac_users/opac_users.admin.inc	039c2fc91a173e965d8eb645fdf7db13
+M	modules/opac_users/opac_users.info	fa29f6d37149386bf1edf86b590f65b5
+M	modules/opac_users/opac_users.module	9b8a93427708c7f8a177eb7eaea61bc0
+M	modules/opac_users/opac_users.pages.inc	d046ceaf9c77cd75447cc98feebf825c
+M	opac.info	59177c385268252c0b3668aeafa77a6a

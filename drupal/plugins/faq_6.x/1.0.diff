@@ -1,0 +1,26 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	070918325bd5ebd364926ff590a67aca
+D	faq.admin.inc	
+M	faq.css	ac8d5c3cf0d3eca9d6d28b436bf0e126
+M	faq.info	fbb23e6b92d6d07c67858d7f4afe6db9
+M	faq.install	f1e6a80609a1a523935546fcee825060
+M	faq.js	8490486deb674d526504b3b53ea31403
+M	faq.module	4d37210e1934752a98db2c5ed4e1d9b9
+A	faq.schema	322c0be4e4b1a60b2ce3b427c4bd6d3c
+D	faq.test	
+A	faq_config_screenshot.jpg	881c7f4f9aaa634e4c2f9b7d052b2958
+D	includes/faq-category-hide-answer.tpl.php	
+D	includes/faq-category-new-page.tpl.php	
+D	includes/faq-category-questions-inline.tpl.php	
+D	includes/faq-category-questions-top-answers.tpl.php	
+D	includes/faq-category-questions-top.tpl.php	
+D	includes/faq-hide-answer.tpl.php	
+D	includes/faq-new-page.tpl.php	
+D	includes/faq-questions-inline.tpl.php	
+D	includes/faq-questions-top.tpl.php	
+D	includes/faq.hide_answer.inc	
+D	includes/faq.new_page.inc	
+D	includes/faq.questions_inline.inc	
+D	includes/faq.questions_top.inc	
+A	po/ja.po	8fb0803b032fcf9acc1a02db5403d927
+D	views/faq.views.inc	

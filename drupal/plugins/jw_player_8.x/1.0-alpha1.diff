@@ -1,0 +1,27 @@
+M	README.txt	c37e37cead3d899b51941059e223641a
+D	config/install/jw_player.settings.yml	
+A	config/jw_player.settings.yml	f520ff18aa390eea0330a78b8dc93d34
+M	config/schema/jw_player.schema.yml	67e2865dff21bf42371b2dfaa13798fc
+D	js/jw_player.preset.js	
+M	jw_player.api.php	bb33c8e7d26af92900f77999feb3b170
+A	jw_player.field.inc	40ec0676c9fd96fc42a6ba03e8515722
+A	jw_player.info	ad3d5f37e92372f2b77d12aa4f0c44ef
+M	jw_player.info.yml	1e7275e9e776400ea505b31cc1c39291
+M	jw_player.install	36aeb69371c00c8a5c005ef71f0aa296
+D	jw_player.js	
+M	jw_player.libraries.yml	6f1a26e79f3ce97a4065e75a49cb3ea7
+M	jw_player.module	6f6d9f426597e3ff98970e3a817e3ea6
+D	jw_player.services.yml	
+M	jw_player_seek.js	3f5e9b4aa1f78579135ec1a1497518bb
+A	src/Controller/Jw_playerListBuilder.php	38d0e5ee5348cf77673bdd23d98cc425
+D	src/Element/JwPlayer.php	
+M	src/Entity/Jw_player.php	58effc56f1b707dfe9f2a4af67a640ff
+D	src/EventSubscriber/JwPlayerSettingsCacheTag.php	
+M	src/Form/JwplayerPresetAdd.php	3b1b269efc0bb114c6271513cbf90b46
+M	src/Form/JwplayerSettingsForm.php	1da0f15fd68f8fcd0844c6d6f3f03412
+M	src/Jw_playerInterface.php	ad9e91dffc13f8704013184a6eaeadc3
+D	src/Jw_playerListBuilder.php	
+M	src/Plugin/Field/FieldFormatter/JwplayerFormatter.php	d312438c328a39f0d72b29155372f97c
+D	src/Tests/JwPlayer7ConfigurationTest.php	
+M	src/Tests/JwPlayerConfigurationTest.php	31658c0d5d7c38b9b7a53f590bb44b9c
+M	templates/jw_player.html.twig	42f2bed030853b33d61607580985f5d4

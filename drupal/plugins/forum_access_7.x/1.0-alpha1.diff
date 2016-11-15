@@ -1,0 +1,11 @@
+M	CHANGELOG.txt	d50d1defc2a5b14a367e3b72c4c33e55
+M	INSTALL.txt	e64b2bc0b638b3a8a34e7dbb5055c7d6
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	fc54de094506fbc17ca69be3ca521cd1
+M	forum_access.admin.inc	080c446bf84eda31348dabb9c5825bea
+M	forum_access.info	795c24740842481e9e55de3e877547cf
+M	forum_access.install	c9be2be70a581a9419ba9d0504d9884c
+M	forum_access.module	fc07d8f8b5ec48afa11516b0c8e5ee21
+M	forum_access.node.inc	2656214af3fad47917c1334bab6c3068
+D	tests/forum_access.test	
+D	tests/forum_access_test_base.php	

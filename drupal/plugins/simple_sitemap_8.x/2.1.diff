@@ -1,0 +1,42 @@
+D	README.md	
+D	composer.json	
+D	config/install/simple_sitemap.custom.yml	
+M	config/install/simple_sitemap.settings.yml	994d46592843a00c6cb6a25eb91743d0
+D	config/schema/simple_sitemap.schema.yml	
+M	js/simple_sitemap.fieldsetSummaries.js	468c50677d7c3404c6de383eebd60334
+M	js/simple_sitemap.form.js	3facb3be775e1c9a1686c94500a6f02b
+D	js/simple_sitemap.sitemapEntities.js	
+D	simple_sitemap.api.php	
+M	simple_sitemap.drush.inc	d977263abf7bcff0ffab9327c51b9755
+M	simple_sitemap.info.yml	9e62df334658c9f50646f1c99edeb128
+M	simple_sitemap.install	007231431a548f1ca9638f937d418893
+M	simple_sitemap.libraries.yml	736508a3c214fe4f0700e841013ed34f
+M	simple_sitemap.links.task.yml	0fad57c0adc2681691cd3953dacc844e
+M	simple_sitemap.module	89b6fc63b6305741608cab17740ac022
+M	simple_sitemap.permissions.yml	c0959456d3ce93907d4a3455dfdaeba5
+M	simple_sitemap.routing.yml	f3a23aef6788961fe581a90421785fd7
+M	simple_sitemap.services.yml	64fb537d0ee1c612ceadb14686c827cd
+A	src/Annotation/LinkGenerator.php	2d434dfca548318850f53ba801eeb27a
+A	src/Batch.php	91b03225236a3e75d432668c4487dfa7
+D	src/Batch/Batch.php	
+D	src/Batch/BatchUrlGenerator.php	
+M	src/Controller/SimplesitemapController.php	57d585874ae6f65b14f27d0cde14a85a
+A	src/CustomLinkGenerator.php	c7884bcd2d9f4952aa17d8a0c8cd3906
+D	src/Form/FormHelper.php	
+M	src/Form/SimplesitemapCustomLinksForm.php	873e86a0b3b886175066dce6d6cac8af
+D	src/Form/SimplesitemapEntitiesForm.php	
+D	src/Form/SimplesitemapFormBase.php	
+M	src/Form/SimplesitemapSettingsForm.php	77b607a5da98be466ab71becaf4e8ebc
+A	src/LinkGeneratorBase.php	7d9ef2115723dce85b81f235196742f1
+A	src/LinkGeneratorInterface.php	51b3edb541428d973b0fb733e25c57d2
+D	src/Logger.php	
+A	src/Plugin/LinkGenerator/Menu.php	054b9beeab44ed957f781b89fa585c99
+A	src/Plugin/LinkGenerator/NodeType.php	c4b57e8874e765905a10b8a4663395d8
+A	src/Plugin/LinkGenerator/TaxonomyVocabulary.php	77bd9866168aac222f0262b99bd181a4
+A	src/Plugin/LinkGenerator/User.php	3721bcc665125831a92151a5432a388a
+M	src/Simplesitemap.php	e46e6ebf9d8184db1c89bace8e3d8af4
+A	src/SimplesitemapManager.php	d427267774ddba0ceba634b93ddecff3
+M	src/SitemapGenerator.php	fb6a4e759b7e84d3896f5f915544da7b
+D	src/Tests/SimplesitemapTest.php	
+D	tests/src/Unit/SimplesitemapTest.php	
+D	tests/src/Unit/SimplesitemapTestBase.php	

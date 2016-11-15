@@ -1,0 +1,14 @@
+M	APIEXAMPLE/contentanalysisexample.info	e2e60b896d5d256860d103bdacc379a7
+M	APIEXAMPLE/contentanalysisexample.js	3fc0ab611fdfbf9b1a0d80681ec50d92
+M	APIEXAMPLE/contentanalysisexample.module	0f9e808a2390c24ce358f6826e1e9edd
+D	TODO.txt	
+M	contentanalysis.admin.css	5b39de45722ce51e07f94c09dbb1a7e9
+M	contentanalysis.admin.inc	30b8640558c9b0c9705aa979bd6fd466
+M	contentanalysis.css	f60fed56687701d9b63a22da4012ed10
+M	contentanalysis.info	e8ad2247d0820ca0da7df43b4b6e3da4
+M	contentanalysis.install	9b09550948c36fa4780b9b7d3e64d798
+M	contentanalysis.js	1f51f6fefde992c5f19e7e97c4a16101
+M	contentanalysis.module	c0e314446b09a0e8b5a5b94690f6a574
+D	install.sql	
+D	jobs/application.php	
+D	jobs/cm_LIB.php	

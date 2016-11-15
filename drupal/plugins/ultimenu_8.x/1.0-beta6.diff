@@ -1,0 +1,15 @@
+M	CHANGELOG.txt	6c14e3e80593b55ae8068f2d6aaec7cc
+A	config/schema/ultimenu.schema.yml	ed7b2e2fb9fb203fbb2f01e2260dec41
+D	config/ultimenu.settings.yml	
+M	css/ultimenu.css	59dbd7eb5de5b1e44adf89af64e5a420
+M	includes/ultimenu.utilities.inc	49224ee5f31113ffbbc23a3921fe7ef6
+M	js/ultimenu.js	ecc760f23dab4d9eeeaea70dbaf86bcb
+M	src/Plugin/Block/UltimenuBlock.php	80cab5ffd03b4a0b83a50d462c26ceca
+M	src/Plugin/Derivative/UltimenuBlock.php	56904a535f5068834b18da454f7d5e28
+M	src/UltimenuSettingsForm.php	865f4b5e48e663e5ca06e680867936c3
+M	templates/ultimenu.html.twig	6e0d3a374157852cde502e18199ebde4
+M	ultimenu.info.yml	066122255c48d9ea842d6ee362043b55
+M	ultimenu.libraries.yml	8042db946408c8a84514da787b61beb1
+M	ultimenu.links.menu.yml	dac5a03f593060a8aab33d7be04a7c94
+M	ultimenu.module	ca1afc0c2541c4a77800935899fd0306
+A	ultimenu.permissions.yml	dde2d5d0ba1a15f991ec19400be198c5

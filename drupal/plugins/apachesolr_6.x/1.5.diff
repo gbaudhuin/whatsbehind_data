@@ -1,0 +1,8 @@
+M	CHANGELOG.txt	d7094d46e4558251858cb5695c5f1f84
+M	apachesolr.info	f07413096a9512228d96153addef28ee
+M	apachesolr_search.info	77293c000ab987436dd7a8ed8bf52cb6
+M	apachesolr_search.module	d766c56e817115cd4069f1672a6fe9bc
+M	contrib/apachesolr_image/apachesolr_image.info	1199411770ce37004a5665d6713848de
+M	contrib/apachesolr_nodeaccess/apachesolr_nodeaccess.info	7a4dbaf1209176dfefbf6b7a7715d985
+M	contrib/apachesolr_og/apachesolr_og.info	89ccdb1b41825eaee8d0ac025444ffcf
+M	drush/apachesolr.drush.inc	409af2f3712414c9e774d5e39f45a58c

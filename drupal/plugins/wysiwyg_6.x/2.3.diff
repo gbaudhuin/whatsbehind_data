@@ -1,0 +1,8 @@
+M	CHANGELOG.txt	ea9f53d93b28433623c4409ba48a5ab3
+M	editors/ckeditor.inc	12ebf3835cb7fca3717c85bb4c7ada5e
+M	editors/js/ckeditor-3.0.js	e0f00f86a8d40699fc95e800c45b3229
+D	translations/sv.po	
+M	wysiwyg.api.php	3a56c9336787743690c05d2c97f2bd99
+M	wysiwyg.info	e91d32d308d0c6497d2e9883ea081406
+M	wysiwyg.install	898a751c68c9ce1a27def91afe8fe7d6
+M	wysiwyg.module	ff2bfa09a2a5f9a40372288298000780

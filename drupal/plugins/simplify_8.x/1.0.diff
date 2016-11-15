@@ -1,0 +1,7 @@
+M	simplify.info.yml	68c265fb7441dc7a9b2e8546398a793c
+M	simplify.module	e05aa934b2e302ead3ceefa7b45d191a
+M	src/Form/SimplifyAdminForm.php	62e11a8d40d65459b9aff826e8d07f70
+M	src/Tests/PerBlockTypeSettingsTest.php	c62bac33f2f3d29a78fe3c7b7273fead
+M	src/Tests/PerContentTypeSettingsTest.php	eca06d1b23d0e721208821ad736dfbb5
+M	src/Tests/PerVocabularySettingsTest.php	0c864c323de6501e09c9f2ca05b36ae8
+M	src/Tests/UserSettingsTest.php	893b7f4f32f0a3051b2497b5e678b95d

@@ -1,0 +1,11 @@
+M	CHANGELOG.txt	ef847c3814befe361b41f75d23ae1b4d
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	UPGRADE.markdown	
+M	similarterms.info	05920f2118341632201c35fa74bdce23
+D	similarterms.install	
+M	similarterms.module	50bc77dd38cab973b4dbf3554542040e
+M	views/similarterms.views.inc	951e00decab9438c593e9717a3848676
+M	views/similarterms.views_default.inc	d27920f59528cd7447565c9282735b98
+M	views/similarterms_handler_argument_node_nid.inc	6587fc8732298d84b1b2b7aaabdd1d82
+M	views/similarterms_handler_field_similar.inc	f7313b7064793e6b1bc382765d8d9e12
+M	views/similarterms_handler_sort_similar.inc	84cdb50cc71e546596df7a608b1e44c5

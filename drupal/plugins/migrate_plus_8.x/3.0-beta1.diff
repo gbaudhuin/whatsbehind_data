@@ -1,0 +1,8 @@
+M	config/schema/migrate_plus.schema.yml	b156458d153d6640d38cfa324bda7fbb
+M	migrate_example/migrate_example.info.yml	990921af3997a8c4996462625199716e
+M	migrate_example/migrate_example_setup/migrate_example_setup.info.yml	1edc389c7245c8fb7dffd52935ae2d9d
+M	migrate_example_advanced/migrate_example_advanced.info.yml	3770d076458fdc8f8b3c741be349548a
+M	migrate_example_advanced/migrate_example_advanced_setup/migrate_example_advanced_setup.info.yml	ed06fe28626462a3173f5e6fe34573ee
+M	migrate_plus.info.yml	363f77be6b2c3a0a7b5917562fbb5f0d
+M	migrate_plus.module	96279dc836c1a6053aa8f99a1c41d5ec
+M	src/Plugin/migrate_plus/data_parser/Json.php	234f4a037b283f1e604a43bd63017fd3

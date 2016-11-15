@@ -1,0 +1,25 @@
+M	README.txt	701967554ff6584d52864590b983b390
+M	features.admin.inc	37bd0612d5579b1d33b9dd579790b605
+M	features.api.php	d46be626c03625ec57d42c7f371a1478
+M	features.css	634673ddb4bc646bdbcef4e79f075f1d
+M	features.drush.inc	a277eef96bc140ce4315e03e74555e12
+M	features.export.inc	593fe25595a88d9ac2141e2bb4f18e75
+M	features.info	abcba6be2ba218329c458d6f1a51381f
+M	features.install	99ca7f63c3b85df4f737137339b7e837
+M	features.js	38d7c2c9c6d76f362221c84dd383dba4
+M	features.module	7437bba7019f945b104204e8f97c1728
+D	includes/features.contact.inc	
+M	includes/features.ctools.inc	c55dedeb13539e54d4cb870f25164075
+M	includes/features.field.inc	6118ddceb472f905a83c4e97ab60c275
+M	includes/features.image.inc	1b00124a9fa803d35fc022b4957c1406
+M	includes/features.locale.inc	feda652a7f1681f277a72f4cecdc1e97
+M	includes/features.menu.inc	f1326dcdc43eddfbd6db9d44fd462a4f
+M	includes/features.node.inc	9f60e7f7292f6bd684d01076e3049782
+M	includes/features.taxonomy.inc	e3ec48480d6fb457169c11311e2eab32
+M	includes/features.user.inc	f3803450b3573df1aeb41e06240e2dbe
+M	tests/features.test	dcd0544be368c7f6ca7fbac0a7927864
+A	tests/features_test.features.field.inc	3a63016fad9ec2722ef9f3706e88809f
+D	tests/features_test/features_test.features.field_base.inc	
+D	tests/features_test/features_test.features.field_instance.inc	
+M	theme/features-admin-components.tpl.php	9057d6ba7ab1999dd1dc7016bde7b395
+M	theme/theme.inc	a15ed932c9896de3473935bde9cbf780

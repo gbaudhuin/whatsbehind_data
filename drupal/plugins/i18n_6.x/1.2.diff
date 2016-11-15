@@ -1,0 +1,70 @@
+M	CHANGELOG.txt	01366fc1c30e4a3d03ce0d754469336d
+M	INSTALL.txt	50c42c9f5872baefca7c15b4b25bc486
+M	i18n.info	ccc58440491abf0446186c2212fc2d40
+M	i18n.install	37a3e46d6ed8f3e1e72712e1388e8331
+M	i18n.module	e8694e7d4641b3e6fb72813822d0d247
+M	i18n.pages.inc	c40d766f7ab3ee8cf7cf0e8b390dd435
+M	i18nblocks/i18nblocks.info	0e14a0c029a144a4df16549feb30952d
+M	i18nblocks/i18nblocks.install	b4a3e1eadebde8bec0bcf9ecb5a1925f
+M	i18nblocks/i18nblocks.module	f33fdc1d2a780bb1d8b68ea1f0023fed
+M	i18nblocks/translations/i18nblocks.de.po	2a9ded0ee7d56b978f66256d90e5dc61
+M	i18nblocks/translations/i18nblocks.pot	9db1f82f638117a46c2931bf480a149a
+D	i18nblocks/translations/uk.po	
+A	i18ncck/i18ncck.info	77d811a79c691d74971196c39a7d7627
+A	i18ncck/i18ncck.install	9284f6b8ada7c97eff284171aedaea32
+A	i18ncck/i18ncck.module	e45f925f6ad1e7155a10f9ac13e44ab6
+M	i18ncontent/i18ncontent.info	776008980020c590df9db2caf26e12f7
+M	i18ncontent/i18ncontent.install	a2b60063babe2dbfa8d9ccaa6e1ded70
+M	i18ncontent/i18ncontent.module	02863fe6adf6950646f74c60fe552cfb
+M	i18ncontent/translations/i18ncontent.de.po	8b9356e69259c6d2e02fc9f542dc47e4
+M	i18ncontent/translations/i18ncontent.pot	a2b293335581245b3a6c65aae1be9b1f
+D	i18ncontent/translations/uk.po	
+M	i18nmenu/i18nmenu.info	ec9853491ea9ed9ad85afa09fea4d1d8
+M	i18nmenu/i18nmenu.module	539e15ef122c6dd758e204426593a4d2
+M	i18nmenu/translations/i18nmenu.de.po	3c583e948517ec666b53a54f73ae3c0f
+M	i18nmenu/translations/i18nmenu.pot	c5fb22625c58784a26a2af81ab54573d
+D	i18nmenu/translations/uk.po	
+M	i18npoll/i18npoll.info	28f7f7b179174c29a7836b37c873cc96
+M	i18npoll/translations/i18npoll.de.po	5dd745160a3fda3c42f0f8debeacb3d8
+M	i18npoll/translations/i18npoll.pot	07092171a0895c74899fa6a2010bb452
+M	i18nprofile/i18nprofile.info	1050ccf772ef69ad9367eb3458a31b4b
+M	i18nprofile/i18nprofile.module	0d447a6b64efbf5d5ec1788b2a1b20fc
+M	i18nprofile/translations/i18nprofile.de.po	89b2166cc5f599276927b3011c2c180d
+M	i18nprofile/translations/i18nprofile.pot	8a8418e4a98fa9e235d6664aae127275
+M	i18nstrings/i18nstrings.admin.inc	4597d3ec13c3267bb81e5a1ef2407b0e
+M	i18nstrings/i18nstrings.info	6fafa3961b5a1f3ab97750ebad02c9f1
+M	i18nstrings/i18nstrings.install	871cf131686100ce1df6bcfc40eb47c2
+M	i18nstrings/i18nstrings.module	390a738763eef3a0c2a92f5ae2a777c0
+M	i18nstrings/translations/i18nstrings.de.po	a214bd6435551b1de5502ea5f261026d
+M	i18nstrings/translations/i18nstrings.pot	c3c1fa59cbfd5e9d0990c1369e99b698
+D	i18nstrings/translations/uk.po	
+M	i18nsync/i18nsync.info	62ac57d84af453e575d9e5595be15b7f
+M	i18nsync/i18nsync.module	c231c88be1cf069a0cc362a20c7a7743
+M	i18nsync/translations/i18nsync.de.po	d0021aaf60e6255b655be464ac3fefb6
+M	i18nsync/translations/i18nsync.pot	4360079aa0b294b6f8e69f5149da6541
+D	i18nsync/translations/uk.po	
+M	i18ntaxonomy/i18ntaxonomy.admin.inc	6c550f0007a294dcd2923c9ba5fc1ec8
+M	i18ntaxonomy/i18ntaxonomy.info	afcc5763917d35718baa0d5174065c33
+M	i18ntaxonomy/i18ntaxonomy.module	47d198478a7d8a531dd0befba76ae807
+M	i18ntaxonomy/translations/i18ntaxonomy.pot	844fc94468fe27b24cb38a930acfc056
+D	i18ntaxonomy/translations/uk.po	
+M	i18nviews/i18nviews.info	61144dfa2b88be0b50553f4ed20516d8
+M	i18nviews/i18nviews.module	9d93d55206ef38a0f7b866b14f274e69
+M	i18nviews/includes/content_negotiation_filter_handler.inc	20eccdbc32b1054cfc23b17417b7de57
+M	i18nviews/includes/i18nviews.views.inc	d93d306408a6f6a9fee484ae127e6ac7
+A	i18nviews/translations/i18nviews-includes.de.po	63b1b7657ce0a751ac7efd759f7d0042
+A	i18nviews/translations/i18nviews-includes.pot	26f35b46726b12c10678e74370e38031
+M	i18nviews/translations/i18nviews.de.po	5647c7eb54b8e01369832849dd7d586f
+M	i18nviews/translations/i18nviews.pot	c2513b37044b7d301e623a8bc0d0242f
+A	tests/drupal_i18n_test_case.php	13296624d645615679d8b5736157a66f
+A	tests/i18n_api.test	128fd7635ed6c4254c872054283e8a38
+A	tests/i18n_test.info	68b96f417915db3803b205d63b667682
+A	tests/i18n_test.module	36911e6fbddc52a02045618d67ff8f94
+M	translations/general.de.po	a68afcfd44bc67a8d49e89b025861242
+M	translations/general.pot	540b464193b8a124ff4ba6bce7df61c7
+A	translations/general.uk.po	ee518183a1f1af75bfd0af21454d251a
+M	translations/i18n.de.po	a845081f2a5242a2d5169b0c96235407
+M	translations/i18n.pot	6f654baa463cd4ddfe5d148c0a07a14a
+A	translations/i18n.uk.po	44151b63f9b0c55dc57101db2225954c
+D	translations/uk-ua.po	
+D	translations/uk.po	

@@ -1,0 +1,63 @@
+A	DEVELOPER.txt	5360d99888e454804cd5dbfe815b09ba
+A	INSTALL.txt	fd2d1c9b6746631def689ebf4790a43e
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	c066704fa6881b2951ad3a6f7ac88b1c
+A	activity.admin.inc	302645a80e8bb29caee34c44158956a3
+D	activity.css	
+M	activity.info	63d97e3c71a7c8536adc740e757df022
+M	activity.install	482aada70520be190ea049769333a1ff
+M	activity.module	e20a14ea1ded87cf45ceebf258c065bb
+D	activity_admin.js	
+D	activity_comments.js	
+A	activity_comments/activity-comment.tpl.php	f3bfe8b687b2b593bd05a9c82a929ece
+A	activity_comments/activity_comments.css	30e40485ae80472021dbafbb4a6780f0
+A	activity_comments/activity_comments.info	2f98a38233d149a6c4f0ea8fd218c860
+A	activity_comments/activity_comments.install	5275b523816de9998ca2f696c43f4cbb
+A	activity_comments/activity_comments.js	fa1577ee6b8141daef457a3274a1a622
+A	activity_comments/activity_comments.module	4045de058290668588757925a9defae5
+A	activity_comments/views/activity_comments.views.inc	1ea40a17bf119f4c6923ec9711913a3a
+A	activity_comments/views/activity_comments_handler_field_comments.inc	7cae5ac74a51b2a62f74a78ead50c60f
+D	contrib/activityhistory/activityhistory.info	
+D	contrib/activityhistory/activityhistory.install	
+D	contrib/activityhistory/activityhistory.module	
+D	contrib/commentactivity/commentactivity.info	
+D	contrib/commentactivity/commentactivity.install	
+D	contrib/commentactivity/commentactivity.module	
+D	contrib/favorite_nodesactivity/favorite_nodesactivity.info	
+D	contrib/favorite_nodesactivity/favorite_nodesactivity.install	
+D	contrib/favorite_nodesactivity/favorite_nodesactivity.module	
+D	contrib/flagactivity/flagactivity.info	
+D	contrib/flagactivity/flagactivity.install	
+D	contrib/flagactivity/flagactivity.module	
+D	contrib/nodeactivity/nodeactivity.info	
+D	contrib/nodeactivity/nodeactivity.install	
+D	contrib/nodeactivity/nodeactivity.module	
+D	contrib/ogactivity/ogactivity.info	
+D	contrib/ogactivity/ogactivity.install	
+D	contrib/ogactivity/ogactivity.module	
+D	contrib/user_relationshipsactivity/user_relationshipsactivity.info	
+D	contrib/user_relationshipsactivity/user_relationshipsactivity.install	
+D	contrib/user_relationshipsactivity/user_relationshipsactivity.module	
+D	contrib/useractivity/useractivity.info	
+D	contrib/useractivity/useractivity.install	
+D	contrib/useractivity/useractivity.module	
+D	contrib/votingapiactivity/votingapiactivity.info	
+D	contrib/votingapiactivity/votingapiactivity.install	
+D	contrib/votingapiactivity/votingapiactivity.module	
+A	modules/activity.activity.inc	1ee0307c7411b9165e36e2d9f2978bab
+A	modules/comment.activity.inc	22c49a2232bc1ad2e853ea03743c3baf
+A	modules/node.activity.inc	467f31bb524f09e5780c9b8ecb59a7a6
+A	modules/user.activity.inc	2dd587e2f05b84df5c6844d24d59fc7a
+D	tests/ActivityAPITests.test	
+A	tests/activity.test	9d7792fd21292ef861a4f897a995b6ff
+A	theme/views-view-row-activity-rss.tpl.php	604656aa2569783da2995c4d9f8968f6
+A	views/activity.views.inc	406ff96e7884b9df2872dea536c83328
+A	views/activity.views_default.inc	90140ad01dfee8b8da1c839139ebd6b6
+A	views/activity_handler_argument_activity_user.inc	18611a6e7671b4116a113130795feee3
+A	views/activity_handler_field_activity_link.inc	9a71cfec39b80e14646103e82a8aa30c
+A	views/activity_handler_field_activity_link_delete.inc	2678b5c5698b2815f39184359802a44e
+A	views/activity_handler_filter_operations.inc	90ccaa4abef020a9d7ef816b95311c2d
+A	views/activity_views_handler_argument_access.inc	145cd7348605b9ce9b1aa87669ddfeb8
+A	views/activity_views_handler_field_message.inc	a7576f01010e6efd5482fd71c357c53d
+A	views/activity_views_handler_filter_access.inc	cc21448224171d100c6d44dc2cb35fd5
+A	views/activity_views_plugin_row_activity_rss.inc	0bc436a9f297d8bbe626712d5a790300

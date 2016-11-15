@@ -1,0 +1,5 @@
+A	simplenews_scheduler.api.php	583113ee75cdd0c61c14ac596c4753e2
+M	simplenews_scheduler.info	0eda7bd982fc0705f14b86cf9a238422
+M	simplenews_scheduler.install	52d91f83d3fe4ff07a058cc2d403445e
+M	simplenews_scheduler.module	20752241094468d11e31592bae08c3a1
+A	tests/simplenews_scheduler.test	2b511a9e2a7f9e60050c827975481d3f

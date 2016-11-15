@@ -1,0 +1,8 @@
+M	CHANGELOG.txt	c275689a11fc2f4dd1e66d735d7bba3d
+A	INSTALL.txt	e8a82422c23569ce682c0b5ebb61821e
+M	subuser.info	ed7c835d34b06e24e6903970e7145e9e
+M	subuser.module	334df9fb37187eb3438d42f5959da19a
+M	subuser.pages.inc	70cae1216f251b2758b55451c68df500
+A	subuser.patch	cf2a56558a1ef702b66e093dd7ecad78
+A	subuser.test	4bfdda1925c819508619858dea20a1c8
+M	subuser.views_default.inc	07ad3f5fb169ada3e4b401cd4d8fb695

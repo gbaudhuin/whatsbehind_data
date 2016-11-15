@@ -1,0 +1,16 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	rpx_core.info	cb3d7744bf6a7d85378ad4ab93db3822
+D	rpx_core.install	
+M	rpx_core.module	4572278d3419b4f1478535b04bb30ebb
+M	rpx_core.pages.inc	f0feaca77ba647527412439f71f92bb5
+M	rpx_core.webapi.inc	3502b10cbe06b792416f55dbce83660d
+M	rpx_rules.info	878642cb97c05bdc7947ea9b4d68b42e
+M	rpx_ui.admin.inc	060495775c169b7b327ad0bb7e0e120d
+M	rpx_ui.info	a6d3c89c6aca944efa2f02618bc0e6d1
+M	rpx_ui.install	ee8d162a8dec43fc96d3b0241d8235a8
+M	rpx_ui.module	a6dbb68b913cac7c0db85f2a28e3604d
+M	rpx_ui.pages.inc	35ee98822055a103749865770f964a50
+M	rpx_ui.paths.inc	ae715036c3a9d14ca46e6b1d87c00bf6
+M	rpx_widgets.css	4cf7e73130be58dff0988b75a37052f4
+M	rpx_widgets.info	d43caf8bb0d80466603c20d5279fbea5
+M	rpx_widgets.module	801ee01cced4df9ea630fabcc3821d87

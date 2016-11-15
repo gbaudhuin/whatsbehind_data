@@ -1,0 +1,9 @@
+M	acsf.drush.inc	ce0cbf84cfac03f523073489ea610fb1
+M	acsf.info	12b7758a45893d8c7e28ad6228d485a4
+M	acsf_duplication/acsf_duplication.info	870a2ce595fd333189e6bf50d5866a48
+M	acsf_init/lib/cloud_hooks/common/post-db-copy/000-acquia_required_scrub.php	710b590a9341614a76f78e327c329d88
+M	acsf_openid/acsf_openid.info	b651d206a3a26513234f94efcd174655
+M	acsf_pingdom/acsf_pingdom.info	0ced836e73eac0df9cb9380eaa6479c5
+M	acsf_theme/acsf_theme.info	47bd4a67312453976ca43be7ce958d1c
+M	acsf_variables/acsf_variables.info	2264f5b8d4905303f1ddcbc7630c26e0
+M	build_info	87c22f24d3160c444528d72664c7ef93

@@ -1,0 +1,7 @@
+M	src/Cache/ChainedFastBackend.php	b05f85744f38833e3c5c7736d05970fd
+M	src/Cache/ChainedFastRawBackend.php	85dfce60bbcb1f2d2a7c496bf8573732
+M	src/KeyValueStore/ChainedStorage.php	3fabb2d4a7fc34c95a649a940e4762ef
+M	src/KeyValueStore/ChainedStorageExpirable.php	605c87f0c19fdb9eb3864c58b6ed1bb6
+M	src/KeyValueStore/ChainedStorageTrait.php	290c6a43d354fcaadd87db879ca923e2
+M	src/SupercacheServiceProvider.php	c1a700ac0b292762b977bcdf3657d510
+M	supercache.info.yml	df7b68538d9e5336aae11214f2f1acdf

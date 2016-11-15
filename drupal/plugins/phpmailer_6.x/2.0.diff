@@ -1,0 +1,8 @@
+M	CHANGELOG.txt	af28df723df9e9e16b5622a114897c1e
+M	includes/phpmailer.class.inc	3af6308ecea72d252da46869acc12046
+M	includes/phpmailer.drupal.inc	cb9e3ccd6c659194abc6eeb37c24d6b5
+M	includes/phpmailer.mimemail.inc	f3898206dc019bfe09c0a312e57ded6c
+M	phpmailer.admin.inc	adabeb57bd4710403294f1e353b8d847
+M	phpmailer.info	8d6a5abb867f0542798d95942aff6157
+A	phpmailer.install	5f51f830fcfdd7f21979d4e89dd1e9bf
+M	phpmailer.module	e4ed83c2986c4b8e51eab9436a7a396a

@@ -1,0 +1,22 @@
+M	CHANGELOG.txt	50be7de2c37a114ba9952a802db6b7a2
+M	README.txt	6e42e7ff6acb8489b0b3ed9e5520b6fc
+A	images/imageNav/README.txt	f37d076ffa0ec555bcd44e026715e8dc
+A	images/imageNav/imageNavLeftClick.gif	4aaa3f195f85d0558891c6449529cb7a
+A	images/imageNav/imageNavLeftHover.gif	f9f70f639b86dfccf6fa610a36fede33
+A	images/imageNav/imageNavLeftNorm.gif	a48fac86e48dd7c061972cdafc6f6712
+A	images/imageNav/imageNavRightClick.gif	65aed49e5942a08a05ddd71eee2e8eff
+A	images/imageNav/imageNavRightHover.gif	852e662f65e71203fcf8f6c74b3f0b46
+A	images/imageNav/imageNavRightNorm.gif	30ae165b35849098edc88ee4128dab8b
+A	images/imageNavLeft.gif	d6cb42bdbb3d4f1b539c9746a45617a4
+A	images/imageNavRight.gif	a58e0adec0192fda09adfcb296d6c246
+M	itweak_upload.admin.inc	526f51161091a416694ea36f328b2284
+M	itweak_upload.css	43774e88563f6ce4653a642ce49df57d
+M	itweak_upload.info	13967da1822cfc9d40cbc171b079698c
+A	itweak_upload.insert.js	a0cd476c3025efdbe063960b339fdb61
+M	itweak_upload.install	9fed5b5fa89dd528a97785af4f5b5926
+M	itweak_upload.js	51323bc7a09efe0de937780aa4add093
+M	itweak_upload.module	28782c23121d26c35faba558c7231dcd
+D	translations/itweak_upload.de.po	
+D	translations/itweak_upload.pot	
+D	translations/itweak_upload.pt-br.po	
+D	translations/itweak_upload.ru.po	

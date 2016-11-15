@@ -1,0 +1,6 @@
+M	lib/mandrill.mail.inc	be9c2184f402719844247d94a77ef75e
+M	mandrill.info	c45d2e5582be7cd86f25d395c9e3d63d
+M	modules/mandrill_activity/mandrill_activity.info	5a940c6b9d5fa32a03ea0c5bb8cde6ad
+M	modules/mandrill_reports/mandrill_reports.info	d6b5fd8750eb2c24aa31d64eb985a5e6
+M	modules/mandrill_template/mandrill_template.info	5b6c65e374f1550c0dba53d19f1c7d84
+M	modules/mandrill_test/mandrill_test.info	67d46348dc45d642b44a02061b006bcb

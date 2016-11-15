@@ -1,0 +1,6 @@
+D	composer.json	
+M	override_node_options.info.yml	75bf21d79b4f2ed189e5a87e098ea840
+M	override_node_options.module	8b75d6949a7c8186b3a059d784ab594c
+M	override_node_options.permissions.yml	6ee0f15db6612fe4c8e8bedf63e0eb31
+D	src/Form/OverrideNodeOptionsNodeForm.php	
+D	tests/src/Functional/OverrideNodeOptionsTest.php	

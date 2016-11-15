@@ -1,0 +1,7 @@
+A	.gitignore	e21fd64d5801c7d761cb7b2b99315d7d
+M	uc_coupon.admin.inc	34b4caa433a22cab2565522b59a53daf
+A	uc_coupon.api.php	1862756cf6d5b652432fb4534b181bb5
+M	uc_coupon.info	83befc6d8ac65bb0859fd3aa01314a31
+M	uc_coupon.module	7a35a13c9efd11c875f19e668ff71b89
+M	uc_coupon_purchase/uc_coupon_purchase.info	4dede86c8e24739f7ad742e859e94fff
+M	uc_coupon_register/uc_coupon_register.info	ce2c7f58cc2ac06cc36eb80aed31d104

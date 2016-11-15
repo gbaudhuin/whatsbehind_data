@@ -1,0 +1,9 @@
+M	composer.json	1b1f417a0d7f2f74c1d8041f7544e2f2
+M	simplesamlphp_auth.info.yml	58ea5f427ddd0fc8bd0cdd6a6f0e5835
+M	simplesamlphp_auth.install	16ca26eb3ae728c47809e4869afe0ff7
+M	src/Plugin/Block/SimplesamlphpAuthBlock.php	1e497cc7dbe74147c2e289ca544bfb1a
+D	src/Tests/SimplesamlphpAuthTest.php	
+D	tests/simplesamlphp_auth_test/simplesamlphp_auth_test.info.yml	
+D	tests/simplesamlphp_auth_test/src/SimplesamlphpAuthTestManager.php	
+D	tests/simplesamlphp_auth_test/src/SimplesamlphpAuthTestServiceProvider.php	
+M	tests/src/Unit/Service/SimplesamlphpDrupalAuthTest.php	f6cc0c1722796c629c9a627d5950596a

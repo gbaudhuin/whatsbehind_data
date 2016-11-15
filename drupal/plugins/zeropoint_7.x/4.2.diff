@@ -1,0 +1,38 @@
+M	CHANGELOG.txt	81ff131878f8b6244b2379fa27c1ec71
+A	css/drupal/drupal-default-min-rtl.css	6ac0ccb7e9a9921373181592b48ac940
+A	css/drupal/drupal-default-min.css	876fcca1a9459b4ad34f9cf7f3df5933
+A	css/drupal/drupal-default-rtl.css	4f89a40be0c5c64ab4a4daf8b84cea71
+A	css/drupal/drupal-default.css	50d378cfd278511fc050a2b2e703fbcd
+A	css/drupal/drupal-system-min-rtl.css	30376f1ba5a59d7d52b2adff6205841d
+A	css/drupal/drupal-system-min.css	6dbab1edf27d7cbf72ad1ab0cd61fa3a
+A	css/drupal/drupal-system-rtl.css	0d9bb47e115a5096b34b517edfeb155d
+A	css/drupal/drupal-system.css	5b919894a2a7eb599648a97eb071bfc7
+M	css/grey.css	46d3a8ae2ba8b9a5e97b60149f2caa35
+M	css/ink.css	33494db16d34d15e3c6934d6c0ba1e95
+M	css/ivy.css	2f340765f41208f49c30408e9a6b1132
+M	css/lime.css	b2e3836429c5ed67c5b0bb86f3e0c845
+M	css/nature.css	f9414f7afd2fbe1831bf1dbe8741a3c3
+M	css/orange.css	48be129b655aff7c0a26bf3e9472a3a7
+M	css/sangue.css	eadec12b4008b1263e46a0046f3ef691
+M	css/sky.css	99113134e063dc3d0dca420d248ee1a9
+M	css/style-zero-rtl.css	77153cc71c279adbf09518abd54795b7
+M	css/style-zero.css	c0abc716a767355490a1c5211b56f4e0
+M	css/themer.css	ffeb62eee2ad9f3fe11db041b4694ffe
+D	images/all/icons/attach.png	
+A	images/all/icons/email.png	af58188296abfe7adbf9280a563731f2
+A	images/all/icons/key_add.png	87705dd9e8b5c8dd66bf6828ec6e9b38
+A	images/all/icons/key_delete.png	04052823413c0baac1589e05ddc04c9e
+D	images/all/icons/mail.png	
+D	images/all/icons/mail2.png	
+D	images/all/icons/print.png	
+M	images/all/icons/printer.png	242421c98dbd8b054fc76a036d04321c
+M	template.php	e6d7f139ffc991eef1e9d026996d6592
+M	templates/block.tpl.php	78a28267ff0b1438443c1d1fbed32daf
+M	templates/comment.tpl.php	ae84b814277f4e787eeb1011e159a5ee
+M	templates/html.tpl.php	237162cb504805cee34e01b38d90868f
+M	templates/maintenance-page.tpl.php	e890a08552beff0403dafb83fb1c8342
+A	templates/node--blog.tpl.php	3507ab2ece979da07f73fefa488bdfd9
+M	templates/node.tpl.php	36c3786e2ac847abdb839c7f5839dbe2
+M	templates/page.tpl.php	a85d29f274182bc39e9e53f199ea34f8
+M	theme-settings.php	765be78878d9ddda6bdb0627f5f0c0ca
+M	zeropoint.info	40d93fbbd8040fdacf3fa6876292d56b

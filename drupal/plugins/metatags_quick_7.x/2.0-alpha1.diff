@@ -1,0 +1,19 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	5bb57d07d98cc6ac9704adb37fbce2f4
+D	css/admin.css	
+D	js/admin.js	
+D	known_tags.inc	
+M	metatags_quick.admin.inc	ad7236fd90992da9a358fd982b54a13d
+D	metatags_quick.drush.inc	
+D	metatags_quick.feeds.inc	
+M	metatags_quick.info	f3be92bbd01e61a2c2b52492938e0a3f
+M	metatags_quick.install	1160262658b4c93ab88476d93e9de046
+D	metatags_quick.migrate.inc	
+M	metatags_quick.module	6c1bf07c523bc2b986586dacf68d8d4b
+D	metatags_quick.views.inc	
+D	metatags_quick_extra.admin.inc	
+D	metatags_quick_extra.info	
+D	metatags_quick_extra.module	
+D	metatags_quick_import.admin.inc	
+D	metatags_quick_import.info	
+D	metatags_quick_import.module	

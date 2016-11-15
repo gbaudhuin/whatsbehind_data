@@ -1,0 +1,38 @@
+M	CHANGELOG.txt	52b251ffed31d66e5dae64be906a4053
+M	README.txt	fbaa31c8b977314d5d149e0edec7df68
+M	better-autocomplete/better-autocomplete.css	4fac37c4bfbe3f784e7c0432f4eb8ee7
+M	css/linkit.css	3cceaceee0352c5f5e1682dc87b62e08
+M	editors/ckeditor/plugin.js	4fd668d1ebf705dff78a7eac6e6b073a
+M	editors/tinymce/editor_plugin.js	6290267922f5d49a6f9bfb18b097c3d0
+M	editors/tinymce/linkitDialog.js	5ce523ed1ea1c1d1b678fbf3f4871744
+M	js/linkit.dialog.js	3c651300d276d0cf7db5c94c326a6811
+D	js/linkit.field.js	
+M	js/linkit.js	e4d01438cfbf770b86f6873564d57f24
+D	js/linkitFieldDialog.js	
+M	linkit-dashboard.tpl.php	c9fe9adb84937e42ab7a1320b2354506
+M	linkit.api.php	6a13ca61e60984463247a4cad16a2dca
+D	linkit.field.inc	
+M	linkit.info	e1a8084446384d8221e17b61bc34a77d
+M	linkit.install	8ba0fb9abf7c5b92088d25a0f4b5f6fa
+M	linkit.module	a3985b97928eb0fc5c60c35a0aa81387
+M	linkit.theme.inc	c1941962dbdce8bcd699b3cc99784e5d
+M	plugins/export_ui/linkit_profiles.inc	a15cb3035e68bf5aacedc432fde34a71
+M	plugins/export_ui/linkit_profiles_ui.class.php	93a2641272622455ebc882f0294739c1
+A	plugins/linkit.external.inc	80c07894e2f6d2ac3bcd472fdf513269
+A	plugins/linkit.file.inc	28cb1fdacf2e406a4932b09faaa83c66
+A	plugins/linkit.node.inc	f5d35023f63525ba0984cca3b4927344
+A	plugins/linkit.taxonomy.inc	7ab1fb12dee595d42416c85200381910
+A	plugins/linkit.user.inc	cb85d22c3c004053520c8d241525ee9e
+D	plugins/linkit_insert/html_link/html_link.inc	
+D	plugins/linkit_insert/html_link/html_link.js	
+D	plugins/linkit_insert/markdown/markdown.inc	
+D	plugins/linkit_insert/markdown/markdown.js	
+D	plugins/linkit_insert/raw_url/raw_url.inc	
+D	plugins/linkit_insert/raw_url/raw_url.js	
+D	plugins/linkit_plugins/entity.inc	
+D	plugins/linkit_plugins/linkit-plugin-entity.class.php	
+D	plugins/linkit_plugins/linkit-plugin-file.class.php	
+D	plugins/linkit_plugins/linkit-plugin-node.class.php	
+D	plugins/linkit_plugins/linkit-plugin-taxonomy_term.class.php	
+D	plugins/linkit_plugins/linkit-plugin-user.class.php	
+D	plugins/plugin.class.php	

@@ -1,0 +1,14 @@
+A	LICENCE.txt	4fe869ee987a340198fb0d54c55c47f1
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	e7b225d9591692b2cb8760e6453684c2
+M	both.inc	2a5f072117cd29a8b538f4a164d4d18b
+D	cmf.css	
+M	cmf.info	4ffcffe20f071a8f74ff05626e88422e
+M	cmf.module	ef5554918e6ed9c1b0325299f981ed27
+M	comment.inc	edc772d5dbe9c56de94b9d20abba2fbf
+D	images/active.png	
+D	images/blocked.png	
+D	images/comment.png	
+D	images/edit.png	
+D	images/node.png	
+M	node.inc	6555af08cc00919b4001246da0df69b9

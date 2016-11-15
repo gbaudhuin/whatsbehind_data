@@ -1,0 +1,66 @@
+M	includes/ScaldAtomController.inc	df18ded69bca0fd9f4eed437071c2008
+M	includes/scald.admin.inc	a0d04f0a53ecf316c2d0d4f0feb2cc35
+M	includes/scald.atom.inc	985454d9daa1c02ec71747128076296a
+M	includes/scald.pages.inc	269d44f166c5fda25246456f6988e5dd
+M	includes/scald.plupload.inc	0f2c875e32336fead8a1d9cc5295ff96
+M	modules/fields/atom_reference/atom_reference.css	5530590d1cb3e921f73e1235505d0dc8
+M	modules/fields/atom_reference/atom_reference.info	1be7122d74a0e9ae9fea335a0c317eca
+M	modules/fields/atom_reference/atom_reference.install	09c8d85fd693d3063aed36f57f43e75d
+M	modules/fields/atom_reference/atom_reference.js	3259e42beb2fb5045d4cfe3974f75742
+M	modules/fields/atom_reference/atom_reference.module	eb02a1c2cb0c5435c3c65a6573945fa7
+M	modules/fields/mee/mee.info	9de5029372e49f579bff344b12888dd8
+M	modules/fields/mee/mee.install	5099362aa9a15eba7ae68c2531857f17
+M	modules/fields/mee/mee.module	9a119788df529963279dc37897cb5720
+A	modules/fields/mee/mee.views.inc	b9ea45ffa3ad5eb497719733dc14f399
+M	modules/library/dnd/css/dnd-library.css	7666cc2661ab23221599a2267dc48018
+M	modules/library/dnd/css/editor.css	9bb4fa5971d1bee32d30842e5d1e5d9c
+M	modules/library/dnd/dnd.admin.inc	4bc2a93ad5d653741efbe480b48689e1
+M	modules/library/dnd/dnd.info	136b68782328ed32e9cfd89027780336
+M	modules/library/dnd/dnd.module	ebdbdc6b51ccd6362933a03ad7341b2a
+M	modules/library/dnd/js/dnd-library.js	c29dc142947d5b172faa601872739576
+M	modules/library/dnd/js/dnd-modal.js	473fbde712c927f1583d5e55738bac4b
+M	modules/library/dnd/plugins/ckeditor/dialogs/dnd.js	f68a931d442b2a68ad674a9ed05215ed
+M	modules/library/dnd/plugins/ckeditor/lang/en.js	3eadc9a53e7df901fac45e067ace127d
+M	modules/library/dnd/plugins/ckeditor/plugin.js	5664b8d140194abe68f85bf8c9695663
+A	modules/library/dnd/plugins/dndck4/dialogs/atomProperties.js	0f0e06ab41077f2f7d8e2610257d0f3f
+A	modules/library/dnd/plugins/dndck4/icons/atom.png	29802e8f735dd216b2de54b9565d12c3
+A	modules/library/dnd/plugins/dndck4/lang/en.js	ca90e9e491254745eb226efd5081b3a5
+A	modules/library/dnd/plugins/dndck4/plugin.js	e514c0a6fe76412f6834a60fcddc9ad1
+M	modules/library/scald_dnd_library/scald_dnd_library.info	48035607e7391e799e8234c281e7bec2
+M	modules/library/scald_dnd_library/scald_dnd_library.module	aa79596d3e22d34d9048daf2b0bff83e
+M	modules/providers/scald_audio/scald_audio.info	e290755a29b031dcaac73134cf40c074
+M	modules/providers/scald_audio/scald_audio.module	3ed2b1cbdd19247f2cdaad6ba235d620
+D	modules/providers/scald_dailymotion/scald_dailymotion.admin.inc	
+D	modules/providers/scald_dailymotion/scald_dailymotion.info	
+D	modules/providers/scald_dailymotion/scald_dailymotion.install	
+D	modules/providers/scald_dailymotion/scald_dailymotion.module	
+D	modules/providers/scald_dailymotion/scald_dailymotion.pages.inc	
+D	modules/providers/scald_dailymotion/scald_dailymotion_player.tpl.php	
+M	modules/providers/scald_flash/scald_flash.info	3af20da9fc82f10b68a0d921672b8803
+M	modules/providers/scald_flash/scald_flash.module	f98cbc30327408a990dda97a3be91380
+M	modules/providers/scald_image/scald_image.info	b0fe03dc727f9d3501260f7ed099b0ed
+A	modules/providers/scald_image/scald_image.js	63d9b695a112d1d453a745dbf8acea8c
+M	modules/providers/scald_image/scald_image.module	1e70a2e80c2d18a345e6be80510364c2
+A	modules/providers/scald_video/README.txt	dc325fc2b9861c40183743e977b2b751
+A	modules/providers/scald_video/scald_video.info	a5e2f902db5424a0bdbb5c83455ddfc9
+A	modules/providers/scald_video/scald_video.install	05c1aa0a4b710fdb589b5267bd985b8a
+A	modules/providers/scald_video/scald_video.module	02c9b9efad5d103e2e84e295a897af7c
+A	modules/providers/scald_video/scald_video_player.tpl.php	3b5418114a6b88058465d498593bdf38
+D	modules/providers/scald_vimeo/scald_vimeo.info	
+D	modules/providers/scald_vimeo/scald_vimeo.install	
+D	modules/providers/scald_vimeo/scald_vimeo.module	
+D	modules/providers/scald_vimeo/scald_vimeo_player.tpl.php	
+D	modules/providers/scald_youtube/scald_youtube.info	
+D	modules/providers/scald_youtube/scald_youtube.install	
+D	modules/providers/scald_youtube/scald_youtube.module	
+D	modules/providers/scald_youtube/scald_youtube.test	
+D	modules/providers/scald_youtube/scald_youtube_player.tpl.php	
+M	modules/scald_quickstart/scald_quickstart.info	bd48e61e96680a529cbc5869946cf1c2
+A	scald-atom.tpl.php	c9554d7a5a80011908c42cceff7da7bf
+M	scald.api.php	5ef0008120aa3f57a44ec3a0f3f2c273
+A	scald.features.inc	0f49fb3922845f00aa53d5615645dd76
+M	scald.info	5ebf3cfa0427ec50f2aba20ff4b2a35f
+M	scald.install	a285eb663f48511082d9f6fe797056f4
+M	scald.module	09c89908097bce2ebcb0c9ee542e261b
+M	tests/scald.test	7dbaa39c704bbd286858c62717257129
+M	tests/scald_test/scald_test.info	0a9e00d732fb57afc673f036904d6ab4

@@ -1,0 +1,7 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	config/schema/entityform_block.schema.yml	5cf31d3fcb4a058e0125dc3fb3001978
+A	entityform_block.info.yml	e0e3d78f3da35d089fc2a34f229ce368
+A	src/Plugin/Block/EntityEditFormBlock.php	5dfa28afeb467a5fc3a310b293e0744f
+A	src/Tests/EntityFormBlockTest.php	43c329d80754f9a77823a58670414d24
+A	src/Tests/LocaleTest.php	93d4b963f8a53cf23d3eecc85f90debd
+A	tests/test.de.po	39e42456daa73f102640fe741403fbe1

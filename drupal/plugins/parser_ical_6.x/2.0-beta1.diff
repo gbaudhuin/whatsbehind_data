@@ -1,0 +1,6 @@
+M	includes/ParserIcalFeedsParser.inc	690a05f4a704896c4ee8458f86d48156
+M	parser_ical.info	5ee80f341ffb907355d1d01a27d93306
+D	tests/feeds/Basic.ics	
+D	tests/feeds/Basic1.ics	
+D	tests/feeds/Location.ics	
+D	tests/feeds/School.ics	

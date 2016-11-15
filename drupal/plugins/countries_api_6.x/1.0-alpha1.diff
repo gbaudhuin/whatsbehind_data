@@ -1,0 +1,17 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	da952cc49f6d78cae261ebf4bb9b63a4
+D	contrib/continents_api/continents_api.info	
+D	contrib/continents_api/continents_api.install	
+D	contrib/continents_api/continents_api.module	
+D	contrib/continents_api/data/continents.csv	
+D	contrib/countries_api_service/countries_api_service.info	
+D	contrib/countries_api_service/countries_api_service.module	
+D	contrib/regions_api/regions_api.module	
+D	contrib/regions_api_service/regions_api_service.module	
+M	countries_api.info	8aed4a8ecdde647470954b8957ccd208
+M	countries_api.install	e1b69fafcf25ddcd43ab4103bf0c2ccc
+M	countries_api.module	ed229d2b1676685b988ea375e51dc10e
+M	data/countries.csv	9fdfec9517fc54fe87c6a744edc0617b
+A	regions_api.module	7de6e0ffde31697ec8a17c5eaf7731f3
+A	regions_api_service.module	09e05d299de1ea433cd47681fb0cbcdc
+M	tests/countries_api.test	d4d1aa9df25b57dcfe0135c055195c44

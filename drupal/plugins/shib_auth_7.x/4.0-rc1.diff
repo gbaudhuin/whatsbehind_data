@@ -1,0 +1,8 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	shib_auth.info	542255f16d6e3bdbe3783f4d59b4ce71
+M	shib_auth.install	96572c8dd2556b539f28c02b6ed5486a
+M	shib_auth.module	f966b36e02392c4ae0ab0922d2365c63
+M	shib_auth_forms.inc	a0b6f24d35077955c9067195ee220376
+D	shib_auth_profile/shib_auth_profile.info	
+D	shib_auth_profile/shib_auth_profile.module	
+M	shib_auth_roles_forms.inc	ca9f35a5ad287a75e5db0f6bac2c3a07

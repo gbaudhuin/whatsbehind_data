@@ -1,0 +1,11 @@
+M	client/pifr_client.admin.inc	f468071ca5bbcc1774a929dd43dcf5c8
+M	client/pifr_client.info	8d7ed6d8b0d36ea41aad33927daeacf8
+M	client/pifr_client.module	0b5ad22df7927e03f75f9060f7fb5ba3
+M	client/pifr_client.xmlrpc.inc	4588ad44670556f77727deb2b71491d5
+M	pifr.info	115e269fe21a68dd033b68e5407d1246
+M	review/assertion/pifr_assertion.info	f59d330a5fb4e09d4313013c491de3b6
+M	review/coder/pifr_coder.info	d049f4321f9305676e64d425651ad72d
+M	review/drupal/pifr_drupal.info	d161f5d231823ae37018e0c9c37a5f97
+M	review/simpletest/pifr_simpletest.info	5df78136f2a5f7c1425598a519d012e0
+M	server/pifr_server.info	6350c772745e7a241de424d6622d95f9
+M	util/shell/pifr_shell.info	8992924e9c9d005f0a67b66268d6b869

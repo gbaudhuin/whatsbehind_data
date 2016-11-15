@@ -1,0 +1,26 @@
+M	API.txt	300aa7c88d05af8432fb36802ff16d1c
+A	CHANGELOG.txt	d47c90851b78d567e9d83738b56be554
+M	INSTALL.txt	3418c1edce3a5aac6d5fb9bf8df4d925
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	e2e9fbdad560781e06ca2f19ddef0818
+A	contrib/pathauto_node_event.inc	31c4696b6a04b1a92799f146bbdf3e40
+A	contrib/pathauto_node_i18n.inc	2f36ce3f57d96d37df1f54341389e45c
+M	i18n-ascii.example.txt	8c4cfaa44b3289b3cb146761457a002f
+D	pathauto.admin.inc	
+D	pathauto.api.php	
+M	pathauto.inc	4620fe034a49b37536ee8eadb5498726
+M	pathauto.info	b9027756a2b0fdfd7cf3a982ebb7201b
+M	pathauto.install	45e628e12a8660f2e225bfa1415fae84
+M	pathauto.js	7945b51a5d003af4f917f5487c2d08dc
+M	pathauto.module	3b75ad1e2cf06093b5636ef63b05ba51
+D	pathauto.test	
+M	pathauto_node.inc	ae002d9383a4bfafc77d5235d668fb95
+M	pathauto_taxonomy.inc	8fc6e2e42cc05e18f839a72a0984563a
+M	pathauto_user.inc	9b18d215e4573ca16bee9ab584f3ccba
+A	po/de.po	5712fedcb101c5d6764fdb4c1216491c
+A	po/es.po	ae060ec8e32803e153f28760b8cff3ee
+A	po/fr.po	cf389f92d4165d0737765521cabbec4c
+A	po/pathauto.pot	09614639f8ad777bab10c8fbbf1ad768
+A	po/pathauto.ru.po	1200378a990821806d2d0dc3c57e7a29
+A	po/ru.po	4d61a01ddfcc22513bc4f83314afc84a
+A	translations/ja.po	1ebf9191858d177da6aa9910e370dea3

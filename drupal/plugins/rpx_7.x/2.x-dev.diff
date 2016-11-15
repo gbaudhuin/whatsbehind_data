@@ -1,0 +1,32 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	dc717975b1795662cbcfb5a933c48a85
+D	images/providers_icons16.png	
+D	images/providers_icons32.png	
+A	rpx.api.php	e593459bdae3f664256ebb8fe976cbf7
+M	rpx_core.info	848aa5a9e65e8a3ae526a2f1d3bd2ff0
+A	rpx_core.install	0176afbc8f6a7b923caba596c231b21f
+M	rpx_core.module	8152f37a415026d317fcd3fd22ba28d7
+M	rpx_core.pages.inc	46c6a2200ce3dc6417a2743f625186a3
+M	rpx_core.webapi.inc	d49406b1f147a48220af017da23a2279
+M	rpx_rules.info	c6db50bab7207cc4dca9a988887933d2
+M	rpx_rules.module	3cf9a26ca014b93a763976387be22aa2
+M	rpx_rules.rules.inc	3879ecea03383f45937cdc0e560885dc
+M	rpx_ui.admin.inc	832b4fdc77bbdc0b846aa606d16cda0b
+M	rpx_ui.info	4fd537f9b79d6bb10ea31e6449675358
+M	rpx_ui.install	00b4a1bd6343720c0137c8e11c09f321
+M	rpx_ui.js	cf172adf7ba7293463e4b4117299deb6
+M	rpx_ui.module	8b5154e291ec63ed6b19df6a539747b9
+M	rpx_ui.pages.inc	c97d942df272e6f0875e39d7b446d0aa
+M	rpx_ui.paths.inc	6b7b4795d7203bb40b1892234cedec80
+M	rpx_ui.tokens.inc	c281c88b9ccb7c02c3a8578e6d36ed14
+M	rpx_widgets.css	3a2da82e837b621530e546775cdeb2f2
+M	rpx_widgets.info	c6389be99c1d631f672fc76f24e1476e
+M	rpx_widgets.js	eaefb1eebbb672f5d87e59a7c677fc04
+M	rpx_widgets.module	333140a038a7a52facf87fa72a2f9ef1
+D	rpx_xdcomm.html	
+M	views/rpx_ui.views.inc	d93d50004df7662763b1dd081de1539e
+M	views/rpx_ui_handler_field_delete_link.inc	e106238927939d76e0ea2880a2b76ec1
+M	views/rpx_ui_handler_field_provider_icon.inc	3e49109a5adaf9d3e5551d834ce59b92
+A	views/rpx_ui_handler_field_share.inc	ec42a6fcf0a7cda2eb9fc862e6970494
+M	views/rpx_ui_handler_filter_provider_name.inc	6923dac762340589981ec08729ce4610
+M	views/rpx_ui_handler_filter_provider_title.inc	8503a3fef50e737901cd7482ed8853d4

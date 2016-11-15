@@ -1,0 +1,85 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	3a2d33662b01991ca9f84af4209b3edb
+M	devel.admin.inc	987996283740272d35f9580c24090f6d
+M	devel.css	4589d6785c40f66922c5ee25874c130f
+M	devel.drush.inc	3ea695640f4bfc6446d6e5770268654a
+M	devel.info	67882d2e580de1b012ddf36b7e091fcf
+M	devel.install	e5b64ace5c48200dd251de797c4d9e1d
+M	devel.js	190a276cdc45060d54f046c607841514
+D	devel.mail.inc	
+M	devel.module	72e6272198da095794d980121e7230dd
+M	devel.pages.inc	f6d34f9aa22e2c15d19631531057497c
+D	devel.rules.inc	
+D	devel.test	
+D	develDrushTest.php	
+M	devel_generate/devel_generate.drush.inc	aedeafd98b83866870e6573284fcd07d
+M	devel_generate/devel_generate.fields.inc	d41e1328c5da8fdcf395cec6b055cb92
+M	devel_generate/devel_generate.inc	2e69acda3ac6243480c8c6fd869b1612
+M	devel_generate/devel_generate.info	fc3641bccc0b32267d774390dae18c04
+M	devel_generate/devel_generate.module	b7ce68d24e3d1b8d412a0972185aaf28
+D	devel_generate/devel_generate.test	
+M	devel_generate/devel_generate_batch.inc	f0d92c27c90339b0bd6a84a65cce142d
+M	devel_generate/file.devel_generate.inc	2de903a1d8f25b096b638b03873584e7
+M	devel_generate/image.devel_generate.inc	00722854e0948ec87151d9f67ae97d5d
+D	devel_generate/list.devel_generate.inc	
+A	devel_generate/nodereference.devel_generate.inc	79a32b9afd98941d45886bb2965d2569
+M	devel_generate/number.devel_generate.inc	c3091965ccb6d869fd2a8d819dd05ec5
+M	devel_generate/taxonomy.devel_generate.inc	b1f2f168effab86f8a7522a86ae638af
+M	devel_generate/text.devel_generate.inc	a80c852b628cc6b916d32a9acc2c7b7b
+A	devel_generate/userreference.devel_generate.inc	745ad80b9784c9f17b675feb1d1396ab
+D	devel_krumo_path.js	
+D	devel_node_access.api.php	
+M	devel_node_access.info	d8d9e13f98ac8f5928424661268a5eb8
+M	devel_node_access.install	6e75f1169f00d4a29a350cc27f8fed84
+D	devel_node_access.js	
+M	devel_node_access.module	393e2babcf4376c68a8b225e70d7e267
+D	jquery-1.4.4-uncompressed.js	
+M	krumo/INSTALL	f41295a0d8a21142f3c3f725c217e90d
+M	krumo/LICENSE	ef938cb01cb27e791cc3c596e363acfb
+M	krumo/README	73e798432e2de8ea7e976152f4228bae
+M	krumo/TODO	737b5f7d649f41c85a00a6cf9e66e779
+M	krumo/VERSION	139f881b58ee3ae200079b9834481916
+M	krumo/class.krumo.php	a14a908144b16f591da592fb4cef9d18
+D	krumo/docs/Krumo/_class.krumo.php.html	
+A	krumo/docs/Krumo/_class_krumo_php.html	3d493b2afe9752a1796392221993602a
+M	krumo/docs/Krumo/krumo.html	181b7266a5ab883d1804a77ef805d9d9
+M	krumo/docs/blank.html	7f8fd67603a49a5df1357e73327bdd7c
+M	krumo/docs/classtrees_Krumo.html	f09ddfdb833b3dfa51105dee537f02f5
+M	krumo/docs/elementindex.html	4396d9615d484f97275aabf52e97b06e
+M	krumo/docs/elementindex_Krumo.html	7127aefa4a8d5bf214863e3f71c72241
+M	krumo/docs/errors.html	d410b6ce16d15510fb02a537148ab845
+M	krumo/docs/index.html	1cb4983099e2e66cb91405d2e50ca091
+M	krumo/docs/li_Krumo.html	c915fd0ea448660bd88c7e0eddf68ed6
+D	krumo/docs/media/images/Interface.png	
+D	krumo/docs/media/images/Interface_logo.png	
+D	krumo/docs/media/images/StaticMethod.png	
+D	krumo/docs/media/images/StaticVariable.png	
+M	krumo/docs/media/lib/classTree.js	edb1c297511efd3d4440e7900e69cfe4
+M	krumo/docs/media/stylesheet.css	dfd5d9ca1bf786fc9238c7610bf1d001
+M	krumo/docs/packages.html	75832ee356c9b5aced0e2804df4a8c32
+M	krumo/docs/ric_INSTALL.html	997518de79d68f1613ab837ef18944f9
+M	krumo/docs/ric_LICENSE.html	47e972fee23a4e76ca669a69ce50b387
+M	krumo/docs/ric_README.html	069a837158109cd3802c0eb3b8030735
+M	krumo/docs/ric_TODO.html	b1ef830d4287ebdbb5745c603ba2b232
+M	krumo/docs/ric_VERSION.html	d0e4f42810a620aac1c98893f84cc1fa
+M	krumo/krumo.ini	f4a48ba0fab5e922cb2e480a87948ac2
+M	krumo/krumo.js	614f93fa9e5c63dfd6b82bff632fa19f
+M	krumo/skins/blue/skin.css	f8f97ddae7e5c09c66c7f88f381ed9f1
+M	krumo/skins/default/skin.css	43192fde2f962729f5cf07196091c76a
+M	krumo/skins/green/skin.css	cc78c716171b4548a0c3fffc336b5d87
+M	krumo/skins/orange/skin.css	502daa768d7de0b736a17cd4eb6de063
+A	krumo/skins/schablon.com/skin.css	eae533b22ce40fef94ffea2944f00e65
+D	krumo/skins/white/skin.css	
+A	loader-little.gif	d04cf00c1911eb729340568485087a0a
+A	performance/README.txt	afde29805e0dd7f941f05d0a05a4ed04
+A	performance/performance.info	171a08668c9073e3b16cc81ff1459129
+A	performance/performance.install	72b37c3298c2cf2fc5cfab7b8edc610d
+A	performance/performance.module	ad0ef7b277bfb739bc8b488975ec844a
+D	runtests.sh	
+A	translations/da.po	a7fc5bbafcbf2d16873b10ded3ce70cd
+A	translations/de.po	773e8d980d81392ba3fc26ac14610f2c
+A	translations/devel.pot	7882f63e0dd05104e235fe5a8d337745
+A	translations/fr.po	f16bbec663041b458b2c9d445dd2bd4a
+A	translations/hu.po	3447cddae542342b33d44df7a9578a2d
+A	translations/it.po	934bf0d0125cd9cba05d12edb8444a32
+A	translations/tr.po	b8323690032e516dbd2eae91b0fd4406

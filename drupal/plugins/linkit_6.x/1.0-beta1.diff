@@ -1,0 +1,14 @@
+A	CHANGELOG.txt	2cf5b7e14d591dc5ffd5333b781f7178
+A	README.txt	82ede28e964014d3fa9dc7be5d91c7b1
+M	editors/linkit_tinymce/linkit_tinymce_dialog.js	0104bb3d237561ec209c82933d6cb98a
+M	linkit.info	17af0774bc7318b63eb3efacfb9a4411
+M	linkit.module	186980599f944b1aa00e69ad0b2cdda0
+A	plugins/linkit_node/linkit_node.info	1faa777ab9f3b1e4f9eb0a6662286fd9
+A	plugins/linkit_node/linkit_node.js	d640bff4128ca85806cb53cfd60d7809
+A	plugins/linkit_node/linkit_node.module	c47a591340a897e576d9188a1ef516f5
+A	plugins/linkit_taxonomy/linkit_taxonomy.info	dfaa7199a79bd26b5542aac538fed316
+A	plugins/linkit_taxonomy/linkit_taxonomy.js	160280f37c9808385ea663342952b13c
+A	plugins/linkit_taxonomy/linkit_taxonomy.module	45cac429554f9e1d47c8e6383d82e4b7
+A	plugins/linkit_views/linkit_views.info	d5b291cdcba0fb43c624e66253b89ec3
+A	plugins/linkit_views/linkit_views.js	ba960d3e9aec3fcb9a692e1142fd5ef4
+A	plugins/linkit_views/linkit_views.module	f946ed70dbf221f13ccd1f9516963162

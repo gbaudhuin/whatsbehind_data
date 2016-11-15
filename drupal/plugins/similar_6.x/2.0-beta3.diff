@@ -1,0 +1,5 @@
+M	similar.info	b27885ca807cc5faf7e8028393a95a00
+M	views/similar.views_default.inc	0ca6d3ba0065341bca25bc0caadc0216
+M	views/similar_handler_argument_nid.inc	5343b99f2c5be633f57b7971b18b46ae
+M	views/similar_handler_field_similarity.inc	9b2d0055b9cc46ec4d3ed1d015f72408
+M	views/similar_handler_filter_similarity.inc	d7190ab0e30020158b0e8700abc22853

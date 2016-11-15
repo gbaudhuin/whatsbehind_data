@@ -1,0 +1,17 @@
+M	PROJECTPAGE.md	df1a58eeda915e64a90452f181a37080
+M	README.md	df1a58eeda915e64a90452f181a37080
+A	modules/purge_purger_http_tagsheader/purge_purger_http_tagsheader.info.yml	787df0bca0f33c6d34154f3e92716e54
+A	modules/purge_purger_http_tagsheader/src/Plugin/Purge/TagsHeader/PurgeCacheTagsHeader.php	fe681a1ebdc0bbbfac622e2354fc9321
+A	modules/purge_purger_http_tagsheader/src/Tests/PurgeCacheTagsHeaderTest.php	37ff70ec24b151e1b65135cc9d3edc00
+M	purge_purger_http.info.yml	586b14b382d51e19ee44f08640bca802
+M	src/Entity/HttpPurgerSettings.php	740cfd1e00aee13f7a915d78b64dab3a
+M	src/Form/HttpBundledPurgerForm.php	f7f708929ad475331a22959b3ff23182
+M	src/Form/HttpPurgerForm.php	19c07f49f151c067028d2f6739b57296
+M	src/Form/HttpPurgerFormBase.php	36006270d308317c0775136ed7d2524a
+M	src/Plugin/Purge/DiagnosticCheck/ConfigurationCheck.php	13b6d2ad17bc6e1125dbf4de4d4e5b6b
+M	src/Plugin/Purge/Purger/HttpBundledPurger.php	8625f3fb9390ffc8f6f7f229a400d196
+M	src/Plugin/Purge/Purger/HttpPurger.php	280b413e7449f302cfe0c59035d043e6
+M	src/Plugin/Purge/Purger/HttpPurgerBase.php	743b48b75287ea55ddc691962dfab3ef
+M	src/Tests/HttpBundledPurgerFormTest.php	411a7daeaf536cb80362bd95b2490476
+M	src/Tests/HttpPurgerFormTest.php	7f753113cce1e2d948f06929d2b8df86
+M	src/Tests/HttpPurgerFormTestBase.php	dcd0d812a9ffa666d5ba33b8dba990a7

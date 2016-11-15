@@ -1,0 +1,7 @@
+M	includes/ParserIcalFeedsParser.inc	0486ebb377e56a744c610d9da92ef9ef
+M	parser_ical.dateapi.inc	e940e0b556e3553ac776614ea87b534c
+M	parser_ical.info	88e4dcc720f94d93e2279be0ceeb5248
+M	parser_ical.module	07f2bb3815e010988b4ac6e15ae83011
+A	tests/feeds/Basic1.ics	5cebe4769e6979e598fcd4d7d17a8c7d
+A	tests/feeds/Location.ics	d7a642fc76e423f3f1b1513b9859ffa2
+M	tests/parser_ical_feeds.test	fff83b9c4c751e749f4ff746f165a68c

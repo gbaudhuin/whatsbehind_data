@@ -1,0 +1,10 @@
+M	README.txt	f424399ac9daa1456f4b6424b6945dfa
+A	recaptcha.admin.inc	c62fd0f3cc13c0d02025de1f459bebfc
+D	recaptcha.inc	
+M	recaptcha.info	7d445708f1b737948bb0d76a2f21c4f7
+M	recaptcha.install	d81e1c3ac1825d0d9171c42879a17190
+M	recaptcha.module	fe83885c5df8f221a082875c6192ad63
+M	recaptcha/README.txt	de26755e1c99584a9ca8abbf29abd7d1
+A	recaptcha/recaptchalib.php	cca314c467c7ea569493f35396713134
+M	recaptcha_mailhide.info	c904170bf595bc9cb1e72cf938ab2a88
+M	recaptcha_mailhide.module	90052bab113b8a31a9a207f1e2cf386e

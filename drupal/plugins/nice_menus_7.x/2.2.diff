@@ -1,0 +1,13 @@
+M	CHANGELOG.txt	ee079a0f6c4e603c6c6870e2749103e8
+M	README.txt	a31bfd2828f52363ba9312de7f777fda
+M	UPGRADE.txt	a184f693e7032660c702f938bf9e2c79
+A	css/nice_menus_default-rtl.css	932bb53e987bc27a0eaf748e78fb9579
+A	js/nice_menus.js	ca02ef500562e470f77226248a8cff62
+A	js/superfish.js	ffc3a0cd293ca96904e0db8a89d78649
+A	nice_menus.admin.inc	796814a4aec9344bd99bd6357d94c72f
+M	nice_menus.info	b6ce96ee7be3fb06e01ab58f49fd264d
+M	nice_menus.install	f99b8a9c6a51d1a2c85f717b9e60d694
+D	nice_menus.js	
+M	nice_menus.module	f4370f5bcc030301519ee4efba88c775
+D	nice_menus_default-rtl.css	
+D	superfish/js/superfish.js	

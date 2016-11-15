@@ -1,0 +1,21 @@
+M	README.txt	01b092fef11a6edf8d986b20ab22de7f
+M	og.admin.inc	815d2cb7718d9f886d423ae5b24ac390
+M	og.info	fe58205257bf4d50f4badb209f105790
+M	og.install	fc357021092d09ec92dd4a337f8e3736
+M	og.module	6b00615d5cf23498f5a3539a4283fb0a
+A	og.rules.inc	cc5f5bf19fe9d2857a450d2307ce964d
+M	og_access.info	984362d14e113c614ce18ead926183d1
+M	og_access.module	d69a84aeabca95650a9e619f5f7d91e7
+A	og_actions/README.txt	a89391bb7677ca921f8ceca430eec3f5
+A	og_actions/og_actions.info	880b8cf831cdb510cab614145b881f94
+A	og_actions/og_actions.module	1ffca86d359653cb083b8e852e3c6acc
+M	og_notifications/og_notifications.info	345547b28f41d856186dd8f5ffd50167
+M	og_notifications/og_notifications.module	7b1e5f410889345bad99584383349706
+M	og_panels.info	576abe00c4b3cf5ac27da9b4011c5103
+A	og_views/og_views.info	8b0d53b6e38d48d82bebaa844da9c89b
+A	og_views/og_views.module	4acc58c27f942013fa6a8f761e216ae6
+D	og_workflow_ng.inc	
+M	tests/og_post.test	7a82fdf6995d3c537497f82e2b2cb13a
+M	tests/og_subscribe.test	c41deb60fd05aed399a8793bb12b0ea4
+M	translations/de.po	82eded00d15cfdb0065f17861811dc11
+M	translations/og.pot	4b3d921b6f214c38040b7e3663bee7c0

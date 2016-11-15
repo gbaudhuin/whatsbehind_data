@@ -1,0 +1,16 @@
+A	CHANGELOG	0f2ddafdcc25a635fe7d85d36dad7d72
+A	README	f7e16ad67dfe9f923cef91810799826c
+M	includes/DrupalOAuthClient.inc	8009d01b024c70831c73cfb57bd61507
+M	includes/DrupalOAuthDataStore.inc	da47afc1af70613de3a4ee82d8d4dd74
+M	includes/DrupalOAuthServer.inc	e7624ab5eafd0f797f722114813983a9
+M	includes/OAuthSignatureMethod_HMAC.inc	fa97ca33929140c34ffd6881d3aa474f
+M	lib/OAuth.php	575d4263e490dac9430e7448791c5212
+M	oauth_common.inc	d2d1e2120347eeacc47084a0329b7f6e
+M	oauth_common.info	68e29e139cd4a15a79bacfc1f48507fa
+M	oauth_common.install	df0a5b5c9a717d189abd5297129159ff
+M	oauth_common.module	7feb0206bb5b2d54ebde09316c848318
+M	oauth_common.pages.inc	1ad3de4e4667a73ec4d1aa6eb53363bd
+M	oauth_common_consumerui.info	19a7f93bc9411d46573dbd4481c2f1e4
+M	oauth_common_providerui.info	5d451321a0ffb055c121fcf6bcfac466
+M	updates/update.6100.inc	366340b9aedf8d98d23fdf266c9da8bf
+A	updates/update.6202.inc	daf82612b6f83b55180430b2162ebf45

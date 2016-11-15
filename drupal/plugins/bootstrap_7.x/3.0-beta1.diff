@@ -1,0 +1,24 @@
+M	bootstrap.info	c3ef890a24d033a45b6d751d3bdb8b09
+M	bootstrap_subtheme/bootstrap_subtheme.info.starterkit	74c0e87245a1ac9cc90f0632b4482870
+M	bootstrap_subtheme/less/bootstrap.less	bc193241d854201a5cb1013a73d92db7
+M	bootstrap_subtheme/less/overrides.less	5f510da27a54e78f3c63111dd39b9a90
+D	bootstrap_subtheme/less/responsive.less	
+M	bootstrap_subtheme/less/style.less	b0e149d4dc6d0157391cf9ede5295909
+M	bootstrap_subtheme/less/variables.less	28021ed4e376e5001cf884b1ebe2a1a1
+M	css/overrides.css	9fac09f9cd1171512d2e3ebab50d9591
+M	includes/form.inc	cf62020f047dcfd54f8d209a4c393fad
+M	includes/icons.inc	5f37188d90c8fa33cc3b50249bedaa42
+D	includes/modules/views.inc	
+M	includes/pager.inc	15ba93deb3368e65d7384c61e8a86330
+M	includes/theme.inc	9806b1ea4a5a0d639f1f48a7e97d34f2
+M	screenshot.png	00a4c4f62a1205da2e16d9ffc395196b
+M	template.php	47eeb61e438ddef915106a7b03b5be62
+D	templates/block--no-wrapper.tpl.php	
+D	templates/comment-wrapper.tpl.php	
+D	templates/comment.tpl.php	
+D	templates/node.tpl.php	
+M	templates/page.tpl.php	7c7b21cc11a0dc9f68953f0c79179319
+D	templates/region--no-wrapper.tpl.php	
+D	templates/region.tpl.php	
+A	templates/search-block-form.tpl.php	44de51b017673f225d0d621401fdeac4
+M	theme-settings.php	c54a099d2bcd67a3888c5671b3e75b55

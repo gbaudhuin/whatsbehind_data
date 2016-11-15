@@ -1,0 +1,13 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	README.txt	
+D	css/translation-table-admin-rtl.css	
+D	css/translation-table-admin.css	
+D	includes/admin.inc	
+D	includes/theme.inc	
+D	modules/content.translation_table.inc	
+D	modules/menu.translation_table.inc	
+D	modules/node.translation_table.inc	
+D	modules/quicktabs.translation_table.inc	
+D	modules/taxonomy.translation_table.inc	
+M	translation_table.info	936ff333d964aae7e06393647fe68acb
+M	translation_table.module	00b3e2a6915d9725d34fb70905572de9

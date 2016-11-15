@@ -1,0 +1,12 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	jammer.info	ea1dd07da49349ebc1ea454967c10538
+M	jammer.install	b37231ce2e76da0d8bea03f1186049e9
+M	jammer.test	4ab39fb7527899bc287aefe6987c40f2
+A	jammer_feed.info	aa02bd19342ba05244b2d84fb3d53145
+A	jammer_feed.module	52cc51c889f5baa3cc0dd3d8eceeef11
+M	jammer_feed_icon.info	31327fb055d8361494cc5230270b111e
+M	jammer_generic.info	67ea38fd7763296fb796aea0c0a9e747
+M	jammer_generic.module	322374ab0d67f9e35dd782e3595a5e33
+M	jammer_messages.info	d86b36f05d295d0568a10cb38c61ab20
+M	jammer_messages.install	5b904a9084bd3282e51217c95b04899d
+M	jammer_messages.module	7ff63037220d98d0969408b275bf1f0e

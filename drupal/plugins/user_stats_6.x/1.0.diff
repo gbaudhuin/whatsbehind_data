@@ -1,0 +1,24 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	a052a75a8c07b198c50140c8c9680d1d
+D	translations/general.ru.po	
+D	translations/root.ru.po	
+D	translations/sv.po	
+D	translations/user_stats.pot	
+M	user_stats.admin.inc	3677002ab624d43ac856999e34b46d42
+A	user_stats.api.php	4e434334a633766b0fe2fa1790311a2d
+M	user_stats.author-pane.inc	0bf7939f623c47866dbf8f6ab706dbb2
+M	user_stats.info	de3c0e2b4218a2402bc20b06338a0849
+M	user_stats.install	3419a9efab69dfccc86dbf00655e86df
+M	user_stats.module	969c5e77ccdd575b0c90fb19b56ca8a3
+M	user_stats.rules.inc	79d1b7fdf1eeeba289661ec80ff296fb
+D	views/translations/views.ru.po	
+M	views/user_stats.views.inc	837f24c8228152fdacac539e930f5b16
+M	views/user_stats.views_default.inc	212513767acff18ad20e2b78d0a2a005
+M	views/views_handler_field_ip_user_count.inc	f29a5ba042dcaa9e84edb6748e40e955
+M	views/views_handler_field_is_online.inc	b5b91e499e37f6cd792c69c98746848f
+M	views/views_handler_field_user_ip_count.inc	0134d3808f61b06c71e4e666aebd4a1b
+M	views/views_handler_field_user_picture_bare.inc	c8677d157deb1759cf3021c85b481b68
+M	views/views_handler_filter_is_online.inc	5a3002eda9ba3f89edb36d2249582c64
+M	views/views_handler_sort_ip_user_count.inc	645ee9c498eaae93b26a0b5766b2d715
+M	views/views_handler_sort_is_online.inc	59308037dd3eba62db6f03b6584512de
+M	views/views_handler_sort_user_ip_count.inc	546132fa013257c45eaa1c30cf415782

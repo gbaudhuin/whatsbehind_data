@@ -1,0 +1,16 @@
+A	certify.classes.inc	c361ec3b3cf40be0d75dce7a222bc1da
+M	certify.info	358f5e92b8668ec8d36c35c4ce03cff9
+M	certify.install	d9b19264d644d7a38d8f29c30f78126a
+M	certify.module	a4db635e479ed4e6d29dbaea331daf96
+A	certify_book/certify_book.classes.inc	54de01138bafbe75e6d0d6bcc1b838b7
+A	certify_book/certify_book.info	d019b82bfa81b500a5541b88baa40657
+A	certify_book/certify_book.install	5e91a0cfcb36b742ca686afd4e96f32b
+A	certify_book/certify_book.module	840be55301f538c66439956f5df8677f
+A	certify_book/theme/certify_book_view.tpl.php	dd3f3010b345a540081d7f0bb68d306c
+A	certify_quiz/certify_quiz.classes.inc	2f74bb6ddb16807dfc7f15aa41686ff3
+A	certify_quiz/certify_quiz.info	88eae4d4eb28c711176517ba7083dba2
+A	certify_quiz/certify_quiz.module	249a41fb54e335f1e76a4fb7ab2b37ea
+A	certify_quiz/theme/certify_quiz_view.tpl.php	6dc67b9c3f2fe159e0ed0878afeb3f2f
+M	theme/certificate-single.tpl.php	f3ad82452a1f0c024e75ec1fdd03164f
+M	theme/certify-view.tpl.php	58bb811e8ec403fe5509b8cdb1471983
+M	theme/certify.tpl.php	8c3b8b7549a2ce582226f400f0e11423

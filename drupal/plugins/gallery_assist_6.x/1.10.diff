@@ -1,0 +1,35 @@
+M	README.txt	9502847e69276f61e8ebcf9fba231433
+M	css/gallery_assist.css	1b668b4ac3c02e8b6b9010bb405c47dd
+M	gallery_assist.admin.inc	9973111442a5a85c72dbcf623c031968
+M	gallery_assist.info	984fddc8f6ea71debf4d29f1dd601c2b
+M	gallery_assist.install	ca62d69dab364e6f3e149c0049c5c3b3
+M	gallery_assist.module	3c0e12e0fc481b1d564f5de8003d857d
+M	gallery_assist_display.inc	849da9c91ce9e14582bb459bcadc1501
+M	gallery_assist_node_settings.inc	3580c0eee389f19292e617e5476ee327
+A	help/block-options.html	411b9bce5fa45976713a3e31d7bbaca8
+A	help/configuration.html	043cfe07f21694e8ba5f0f2d3f8c6256
+A	help/folder-structure.html	ef6f34e73c4733092e8f6e4c1c344edb
+A	help/gallery-assist-for-the-cooliris-viewer.html	f7fcb2352b96db4257910c955af1750d
+A	help/gallery-assist-ic.html	caeda8d7a2d20583f11aee34e66bda40
+A	help/gallery-assist-lightboxes.html	cd11a720879c42486a7646e5beb09a92
+A	help/gallery-assist-upport.html	e2e5f03115cead5c82d612a715ac5ab2
+A	help/gallery-assist-views.html	f047ac03c1028660e8d0013013cce542
+A	help/gallery-assist.html	e1b06810f01de2eeaf56fb6001d4d831
+A	help/get-started.html	e4646465992cd3f165bf39c8a24ca6bf
+A	help/global-settings.html	8d4f4b90aea22b7f1dc6ec4df279e4fa
+A	help/image-fupload-for-gallery-assist.html	463bab5d3f0527e3f3ade6d5d7f8dac1
+A	help/install.html	6d6dc1407c8b6db15eeded96d17c7790
+A	help/own-node-type-and-assigments.html	dd2aa7be1c502d95e204848d66f0c3c7
+A	help/settings-in-the-node.html	140ce002620ba0cca2f468dacf4cdf2b
+A	help/submodules.html	3defb6571df6100a88475651fc783749
+A	help/the-pager.html	0931c35aa9efcb759727bebd93c48959
+D	images/cog_edit_16x16.png	
+D	images/css-sprites.png	
+D	images/icon-set.png	
+D	images/icon-set2.png	
+M	templates/gallery-assist-item.tpl.php	ad269344d4dbe439ae031b68d9adc243
+M	translations/gallery_assist.de.po	5b1e85226e722638c21c0ca0ac17e7b6
+D	translations/gallery_assist.es.po	
+D	translations/gallery_assist.hu.po	
+D	translations/gallery_assist.pot	
+D	translations/gallery_assist.ro.po	

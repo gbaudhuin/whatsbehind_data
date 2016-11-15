@@ -1,0 +1,10 @@
+M	composite.info	774a80d8cfe7ba8d9e50dbc77040c7ed
+M	composite.install	16cf9547146ade85e8a676e50743d8d5
+M	composite.module	8ad30a9198eb302e68fa27ad9bc00139
+M	composite.node.inc	66188f78b0f03904de2b0978eb158adf
+M	composite.pages.inc	9f67797f2178d6eccf93febf3e0037a1
+M	modules/content/composite_cck.info	4473dd1f1c3d11a19059dfcce5873596
+M	modules/content/composite_cck.module	a44b26f607fd34d36bac46ab84a4a3c6
+A	modules/fields/composite_fields.info	8290b80f8cbfcfe7940abaf2a19a9387
+A	modules/fields/composite_fields.module	acf7214f51b56554e249bb6332ec1aab
+A	modules/fields/composite_fields.upload.inc	d3840daf6e08b41ca15fc039d677a8cc

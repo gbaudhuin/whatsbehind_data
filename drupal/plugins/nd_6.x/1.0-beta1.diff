@@ -1,0 +1,35 @@
+M	CHANGELOG.txt	a0a09d96d0af38cfe1f88d13ed2f7e96
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	8a647f120e68c7971d0a02f58f51f607
+M	css/nd.css	2e462288b1baecd67021e11a55b1bdbb
+D	css/regions.css	
+A	formatters/formatters.inc	c7d2fec02c8db7685db3ddf579fd62fa
+M	includes/nd.admin.inc	b7a68a7546cf3882ba6f71b2b82d7a4e
+D	includes/nd.buildmodes.inc	
+A	includes/nd.core_search.inc	5b09afb63260185bfbd2b39c1bbb2751
+D	includes/nd.display.inc	
+D	includes/nd.fields.inc	
+D	includes/nd.plugins.inc	
+D	includes/nd.registry.inc	
+M	js/nd.js	74c8493043aee0d562ada59f90ac4cec
+D	js/nd_buildmodes.js	
+M	nd.info	8061b3de5ca94a327ad330808a16a607
+M	nd.install	612bd783e0c22051ec226d6b0f8bdad3
+M	nd.module	34a90b6fd6ae2a8ff00c5a5b1fdfe046
+A	nd_init.info	4ec443f5548ee084b95fa1613f99fc5a
+A	nd_init.install	25833b1d97dce2b4300f31887397926d
+A	nd_init.module	35a156a3802234cd4343e8bac6c99603
+D	plugins/cssoverrider.inc	
+D	plugins/emptyregionrender.inc	
+D	templates/node.tpl.php	
+D	tests/nd.buildmodes.test	
+D	tests/nd.fields.test	
+D	tests/nd.plugins.test	
+D	tests/nd.regions.test	
+A	theme/nd-content-admin-display-overview-form.tpl.php	dca93d4e5101f227eefbd831d137899b
+A	theme/nd-content-admin-field-overview-form.tpl.php	ebd31681add4b298b9f9b7121be0a325
+D	theme/nd-display-overview-form.tpl.php	
+M	theme/nd-row-node.tpl.php	2221cb64afeeac8f81756c4c060c88eb
+M	theme/theme.inc	e240fd9a9be44b11d4050fd22b131ad7
+M	views/nd.views.inc	bd3f545ffed75404b31fbdc570e9466c
+M	views/views_plugin_nd_node_view.inc	7580d2e8e4e3f710203f6a38288ea672

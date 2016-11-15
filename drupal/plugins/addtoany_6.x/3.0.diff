@@ -1,0 +1,11 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	addtoany.admin.inc	02173b47f519f3841e6d10e8ba606e45
+D	addtoany.css	
+M	addtoany.info	e4a11957325fdbb64ee57e37f32ff7ec
+M	addtoany.module	7b3799802cd4c61f6ae177835c1c4814
+D	images/share_16_16.png	
+D	images/share_save_120_16.png	
+D	images/share_save_171_16.png	
+D	images/share_save_256_24.png	
+M	views/addtoany.views.inc	36b97347077a395a0d1b34f36dd62377
+M	views/addtoany_handler_field_addtoany_link.inc	5b774823853696b9bd5fedb9c661d578

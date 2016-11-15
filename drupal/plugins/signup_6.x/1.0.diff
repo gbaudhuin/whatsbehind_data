@@ -1,0 +1,37 @@
+M	CHANGELOG.txt	733c025905c7b6658fff45e336770606
+M	INSTALL.txt	95a718012ba688b0342f3803f9982a9d
+M	README.txt	7d98af9574c3287f67882756ae333cce
+M	UPGRADE.txt	eacbafe6c1262023d7d8fcc3485234fb
+M	includes/admin.settings.inc	bcf60dc3aaa606ff9741db22f78bd960
+M	includes/admin.signup_administration.inc	821e388d66ad216ab7192d44438ab0cd
+M	includes/date.inc	8faf5044f9843c414307a244f9bb0181
+M	includes/node_admin.inc	3f380dee347ad0b1eb03a5273a38463e
+M	includes/node_form.inc	1d57025e85beb3b10b71d72bcd61dc5f
+M	includes/node_output.inc	67ca0e403cd26fb0bc56fef14737aafb
+M	includes/signup_form.inc	2c3c1a56c81bee180fe9df822b7219c2
+M	modules/signup_confirm_email/signup_confirm_email.info	fa4db99237a158a852497a7d814a0330
+D	modules/signup_confirm_email/translations/signup_confirm_email.pot	
+A	modules/signup_roles/signup_roles.info	7f86c64b3487ba9618164a9d1907980e
+A	modules/signup_roles/signup_roles.module	149eb1dc7b08f90f33acd09eaacc0ced
+M	signup.info	b333ad96d031ea330bc8f415d0629313
+M	signup.install	9e21f28d76e9abaf230a77e0302a463a
+M	signup.module	9ef57b4894296d8dccd6c0177ff497db
+D	theme/no_views.inc	
+M	theme/node.inc	1ad32b52d6db1a0db9c1324a37cbece4
+M	theme/signup_form.inc	1b9ea251ea009a63f97f9e2890fa2324
+D	translations/da.po	
+D	translations/de.po	
+D	translations/es.po	
+D	translations/fr.po	
+D	translations/ja.po	
+D	translations/nb.po	
+D	translations/nl.po	
+D	translations/signup.pot	
+D	translations/sv.po	
+A	views/default_views/signup_available_signups.view.php	e1716581934ab6ea722b775ac78fe9ce
+A	views/default_views/signup_current_signups.view.php	601ef4b77dfc280f05ab4c137e6c4d39
+A	views/default_views/signup_user_admin_list.view.php	61a56fabe5d42a412cde714267e5a01e
+A	views/default_views/signup_user_list.view.php	e35575960208c7f216ed3bbe7fb993b6
+A	views/default_views/signup_user_vbo_admin_list.view.php	c77a0b1334836f17aa4f890e311eac85
+M	views/signup.views.inc	50d71dd34f529f6c5983ae800247c8a4
+M	views/signup.views_default.inc	f1f2c6258f20d42e7de35396ba7d5bf1

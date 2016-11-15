@@ -1,0 +1,5 @@
+M	cloudflare.info.yml	ecd27d798a1a5c8eaafa91c27471516f
+M	cloudflare.services.yml	00a97d2c688568f2268f472d62ba8e26
+M	modules/cloudflare_form_tester/cloudflare_form_tester.info.yml	1dfe4b1f0185da01a5322dda4435634d
+M	modules/cloudflarepurger/cloudflarepurger.info.yml	f8f0674e421015cb25507827455a337d
+M	src/Zone.php	c31358929276e3373a5ae30e05c2a4b1

@@ -1,0 +1,12 @@
+M	CHANGELOG	ea3ee4993c5170e80594565159afb26c
+M	includes/api/api.inc	5058ff12c91fbb055df2ebb6a7b2a486
+M	includes/forms/forms.inc	f361697dccf639d4f7a17d1b95953d0b
+M	patterns.info	419ad227c7af6a6ca0b456857855d815
+M	patterns.module	c9f7c8fd736e36001fcc17f18327fcbd
+M	patterns_components/patterns_components.info	974fbadb5a7aefaaabcd55e279b66892
+M	patterns_examples/patterns_examples.info	4a078e039c507d2e1d0efab23a84128a
+A	patterns_export/export.inc	16e0724efdf25eb0b4c559b6f80c2475
+A	patterns_export/patterns_export.info	a461575a29a8dfee8da4258cdc0cb00d
+M	patterns_phpparser/patterns_phpparser.info	32fddf8ed2aabb09bfb1f90893875cc3
+M	patterns_xmlparser/patterns_xmlparser.info	af78244d1d7d120fa5e931f0c6e79377
+M	patterns_yamlparser/patterns_yamlparser.info	18c4102e87924dd03a6d3bfc3c82b0a1

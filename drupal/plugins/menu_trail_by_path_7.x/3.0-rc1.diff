@@ -1,0 +1,6 @@
+M	menu_trail_by_path.admin.inc	51d5f422c146df3ee7ab9db885c93297
+M	menu_trail_by_path.info	948cb4b904eda2681b0d188de15ce673
+M	menu_trail_by_path.module	1ea2e5aab3859ad50162288a7b2099a8
+M	src/MenutrailbypathBreadcrumb.inc	d88e8f6c3b7c78b4954bde32fb669605
+D	src/MenutrailbypathConfig.inc	
+M	src/MenutrailbypathMenuHelper.inc	eb7c9da79ea3cce8fd18949a8a69da87

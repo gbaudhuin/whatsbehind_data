@@ -1,0 +1,4 @@
+M	double_field.info.yml	936cdc8996cbc0e241bc0b4f047a5c44
+M	src/Plugin/Field/FieldType/DoubleField.php	803b7fa93a40c0be553c6329f9c1cdc4
+D	src/Tests/FieldStorageTest.php	
+A	src/Tests/FieldTypeTest.php	93dc03724f900cf8e998b568152fac8b

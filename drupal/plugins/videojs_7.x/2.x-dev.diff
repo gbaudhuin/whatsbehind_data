@@ -1,0 +1,21 @@
+A	README.md	834de4fb5038be6b1ef55f383b0a63a4
+D	README.txt	
+M	includes/videojs.admin.inc	798babcc443b632e6d67ef59849f458c
+M	includes/videojs.theme.inc	b6b6ae20d8f41c01636da1df06ed9515
+M	includes/videojs.views.inc	a65e68b4126d03522dba4c2504fda2cc
+D	includes/videojs_style_plugin.inc	
+A	modules/videojs_hls/README.md	c2f05ca3a2a76e45361564bf88bd0fbc
+A	modules/videojs_hls/videojs_hls.info	a21f7a2fac3d6c434d9213099f6cda36
+A	modules/videojs_hls/videojs_hls.install	1f7f4e235209859fa721283696bd580b
+A	modules/videojs_hls/videojs_hls.module	ca6cfdd18f50ae5bab400f73314959d2
+A	modules/videojs_hls/videojs_hls.pages.inc	01e519b88b287a7396fc734988b0592b
+D	theme/THEMING.txt	
+D	theme/hu.css	
+D	theme/tube.css	
+D	theme/videojs.css	
+D	theme/videojs.js	
+M	theme/videojs.tpl.php	33ec6c1a55219045fee996ece38de0d1
+D	theme/vim.css	
+M	videojs.info	0708b2b5862db233ed156902a828dcb9
+M	videojs.install	75a361bd17149f76abf7e59b3c4f8ae6
+M	videojs.module	8b091913a733f66dfeb1c5283d91e82d

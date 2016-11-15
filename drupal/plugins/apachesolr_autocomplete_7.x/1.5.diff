@@ -1,0 +1,9 @@
+M	README.txt	344252bece92383e9c09e7b9f7e3e139
+A	apachesolr_autocomplete.api.php	036b5a3b07c21cf02be2e3b44bdef4b4
+M	apachesolr_autocomplete.info	4407c7f6b4a8c24eff172ac0448d2c2b
+M	apachesolr_autocomplete.install	928e08c9a8f30b02e35a998b83e24996
+M	apachesolr_autocomplete.js	3fd976b1c2fc4fc95f05dfd30b61287b
+M	apachesolr_autocomplete.module	4261b6cf11597d424b8c7dbdec2b8581
+A	apachesolr_autocomplete_jqueryui.js	6e3d3b028bfdd15d3cb1c996b6fc5b5d
+M	jquery-autocomplete/jquery.autocomplete.css	3f208b89176846436f5fbdc5a3e485dc
+M	jquery-autocomplete/jquery.autocomplete.js	8883a4c0fb7ddd7f8a776b45e079fd2d

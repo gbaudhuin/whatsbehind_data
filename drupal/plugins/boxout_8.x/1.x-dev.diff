@@ -1,0 +1,15 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	96a9fda835174d51b927deb4e6c82460
+A	boxout.info.yml	ff45a2f92de4b03ba2a54343ca606637
+A	boxout.install	f6b2e5c043167e03db05f2df96fce448
+A	boxout.libraries.yml	b7dfc82d5efe283d7b9ad478374cf419
+A	boxout.module	422aca23acfbd2e0807770a1a55c2575
+A	boxout.routing.yml	96a42cec92bb98f86aca7f14a87c0bc3
+A	composer.json	823a63e75d27fc49a707f795bf0852a0
+A	css/boxout.css	c062ec5f11c66aaf5408dd7fbc99a127
+A	js/plugins/boxout/boxout.css	df503685284c79b3e1e37087e8caa25c
+A	js/plugins/boxout/boxout.png	f2843eb9241c37d8bbfed3f04a99fe9e
+A	js/plugins/boxout/plugin.js	b0759de45a986e799db160e7be2770b7
+A	src/Form/BoxoutDialog.php	c2c7064cfc1a5197659db114653a7d26
+A	src/Plugin/CKEditorPlugin/Boxout.php	97b34abf4feed7532117baef9425e6e5
+A	src/Tests/BoxoutAdminTest.php	5a936b9979888b8f424a8de4f3625bc3

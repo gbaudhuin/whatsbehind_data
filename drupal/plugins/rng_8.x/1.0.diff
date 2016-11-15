@@ -1,0 +1,9 @@
+M	README.md	67ace328d926439088859ec587e9296b
+M	rng.info.yml	cb4c0b2e137598f3d1e90a2ce567ccee
+M	rng.services.yml	5c0d38deae82fe0866c6a4d3000a6c59
+M	rng_debug/rng_debug.info.yml	f9bb8517a33aa270f4d4ce69c590d4d0
+M	rng_views/rng_views.info.yml	814a7e8410f224750a84d6816a34554c
+A	simplytest.make	91a46da84b131e0e85203dd3c3e35ff4
+M	src/AccessControl/RegistrationAccessControlHandler.php	39bfe6ad5ac139464f7ef802f7f9a0fe
+A	src/Cache/Context/RngEventCacheContext.php	fa3280c3a5d0e7dff61adafc2011afe4
+A	src/ContextProvider/RngEventRouteContext.php	a10a0144ad3352c43724dc32c6244541

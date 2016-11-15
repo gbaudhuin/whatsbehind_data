@@ -1,0 +1,36 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	addresses.txt	
+D	addressfield-rtl.css	
+D	addressfield.address_formats.inc	
+D	addressfield.administrative_areas.inc	
+D	addressfield.api.php	
+D	addressfield.css	
+D	addressfield.devel_generate.inc	
+D	addressfield.feeds.inc	
+M	addressfield.info	8bc4aa9077980fae6c73b503eb4b2fc7
+D	addressfield.install	
+D	addressfield.migrate.inc	
+M	addressfield.module	0d501246c69fee06a726d780e9579b27
+D	addressfield.tokens.inc	
+D	example/addressfield_example.info	
+D	example/addressfield_example.module	
+D	example/plugins/format/address-ch-example.inc	
+A	includes/addressfield_form.inc	f049ffe35379626382f9786b201ed568
+A	includes/addressfield_form_default.inc	07122ad99bade821ef7892468722f7e8
+A	includes/addressfield_form_us.inc	1b956e85ef979b7f0c40ef2c83615156
+D	plugins/format/address-hide-administrative-area.inc	
+D	plugins/format/address-hide-country.inc	
+D	plugins/format/address-hide-locality.inc	
+D	plugins/format/address-hide-postal-code.inc	
+D	plugins/format/address-hide-street.inc	
+D	plugins/format/address-optional.inc	
+D	plugins/format/address.inc	
+D	plugins/format/name-full.inc	
+D	plugins/format/name-oneline.inc	
+D	plugins/format/organisation.inc	
+A	theme/addressfield-formatter--US.tpl.php	118b8d2d1da1e76dcc7e896c8cda8c23
+A	theme/addressfield-formatter.tpl.php	66c1dd652941e3f86800126aca9629bf
+D	views/addressfield.views.inc	
+D	views/addressfield_views_handler_field_administrative_area.inc	
+D	views/addressfield_views_handler_field_country.inc	
+D	views/addressfield_views_handler_filter_country.inc	

@@ -1,0 +1,10 @@
+M	composite-zones-form.tpl.php	d20d64b5c9440f265e1d42857f40dbaa
+M	composite.info	7bb25c407ceb04999c0eb2222c5f0b45
+M	composite.install	750119e2c4c42826809143b98ca972e2
+M	composite.module	3b98a86fa4c1654736e9df1cfbdcb1f7
+M	composite.node.inc	1c29bd94191bb27f5d283061ceca47df
+M	composite.pages.inc	7c7eba2cb6da9028f2adfcea5bb2803e
+M	modules/content/composite_cck.info	7d463623961408c90a0e2a06838e82d8
+A	theme/composite-layout-threecol-flexigrid.css	ece92f0c66cf0c111d181a159715cf64
+A	theme/composite-layout-threecol-flexigrid.icon.png	a2da9b8f973819046e0416d8cb1250ee
+A	theme/composite-layout-threecol-flexigrid.tpl.php	12e929581f928898645ffdd9446100c2

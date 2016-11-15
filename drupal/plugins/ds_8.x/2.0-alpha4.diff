@@ -1,0 +1,269 @@
+M	README.txt	badaf53c69dba813a4129a77b92e94a6
+D	composer.json	
+A	config/ds.settings.yml	e53d53658c924226958e470e633298ba
+D	config/install/ds.settings.yml	
+D	config/schema/ds.entity_display.schema.yml	
+M	config/schema/ds.field.schema.yml	b5740066152e8af5c1d3a2def8fd1efd
+D	config/schema/ds.field_plugin.schema.yml	
+D	config/schema/ds.field_template.schema.yml	
+M	config/schema/ds.schema.yml	90c58fd709bf5904ded5b34b85355f96
+D	config/schema/ds.views.schema.yml	
+M	css/ds.admin.css	fad3e8dcd7dacbd0383d01f67be36f2f
+M	drush/ExampleField.php	71cb09b1e2e795adf127fb3ba45b2d1e
+M	drush/ds.drush.inc	10676429e092135c8a413d92b29d808c
+M	drush/example_layout/example-layout.html.twig	3252a67ec95ab95c72433efde4674571
+A	drush/example_layout/example_layout-rtl.css	9b2e0184c2a4f9234163dfa54fd608cb
+M	drush/example_layout/example_layout.css	c35a2a729b8a443be579c7b5b3d4e2c2
+M	drush/example_layout/example_layout.inc	16f58b9ff39106889035c7004d5981b1
+M	ds.api.php	23a323d652cb401cfd2630d2d329fa0c
+M	ds.info.yml	75dfcaeba379cfc68ae11d65523d06c1
+M	ds.install	4076005556c69f6aa964b0e2997eaca1
+D	ds.layouts.yml	
+D	ds.libraries.yml	
+D	ds.links.action.yml	
+D	ds.links.menu.yml	
+D	ds.links.task.yml	
+A	ds.local_tasks.yml	ef19492a65d91eefe03fa2b68816b748
+M	ds.module	f7e1610c2d51751f84dd67f85cd3fb23
+D	ds.permissions.yml	
+M	ds.routing.yml	e8c3819097c4ea3ef7d5e75e0c7faed8
+M	ds.services.yml	8959adb6cb0c79d2f38fab471d097300
+M	includes/field_ui.inc	a1bd145020df8d7d9538afc0c10273ff
+A	includes/registry.inc	d7ea346d0bd89ac7b996d77e62fd4995
+A	includes/revision.inc	2344e76bcd1da43c45666448f6c262ac
+M	js/ds.admin.js	950d7237fbbb5c08d3628ca63396325e
+A	layouts/ds_1col/ds-1col.html.twig	6bd9533216fa5f9d492eeed8f8a76ebf
+A	layouts/ds_1col_wrapper/ds-1col-wrapper.html.twig	c848f9f47f87980b715cd257ca940469
+A	layouts/ds_2col/ds-2col.html.twig	a2f11d6531f2452623deda931bd1c2ab
+A	layouts/ds_2col/ds_2col-rtl.css	f5140ce1f6042d8df553c5e380b26b9c
+A	layouts/ds_2col_fluid/ds-2col-fluid.tpl.php	dc20ab80cca88b43f76c5552829f3c48
+A	layouts/ds_2col_fluid/ds_2col_fluid-rtl.css	5814dcdc72ab49cece1a79ce9b4c2213
+A	layouts/ds_2col_stacked/ds-2col-stacked.html.twig	8c49969c145c6d16fd86e623ab1fa3e2
+A	layouts/ds_2col_stacked/ds_2col_stacked-rtl.css	a5f3ebeb24af50b2b72379475812407e
+A	layouts/ds_2col_stacked_fluid/ds-2col-stacked-fluid.tpl.php	7dc63d1e9b2f54b99173d59c22eb6e6f
+A	layouts/ds_2col_stacked_fluid/ds_2col_stacked_fluid-rtl.css	8b476253aaf2ed8b2134062beb6045f5
+A	layouts/ds_3col/ds-3col.html.twig	f14e6abcbbe4bd6018da083fa13a6bf8
+A	layouts/ds_3col/ds_3col-rtl.css	e9c7d9d48b4bdb7f917e0b34b370958f
+A	layouts/ds_3col_equal_width/ds-3col-equal-width.html.twig	059d7e5145d6952e942107cee98ba1ec
+A	layouts/ds_3col_equal_width/ds_3col_equal_width-rtl.css	e710adbb3496435fb13a51ab41ac2bc5
+A	layouts/ds_3col_stacked/ds-3col-stacked.html.twig	81070d76962f538b9ac6515121c34ede
+A	layouts/ds_3col_stacked/ds_3col_stacked-rtl.css	76d9fbfa47fb042691af5ce508fe33de
+A	layouts/ds_3col_stacked_equal_width/ds-3col-stacked-equal-width.html.twig	4d40835d37ed38f40ded32a62f5be693
+A	layouts/ds_3col_stacked_equal_width/ds_3col_stacked_equal_width-rtl.css	9003a3a784e524b386af658e51309858
+A	layouts/ds_3col_stacked_fluid/ds-3col-stacked-fluid.tpl.php	ca0859db313fc06841403d2bc37ee039
+A	layouts/ds_3col_stacked_fluid/ds_3col_stacked_fluid-rtl.css	bf4bad82eee4d822196e9a3bc1aff5b2
+A	layouts/ds_4col/ds-4col.html.twig	5da8278b8b9422e42f869d2cea74ffbc
+A	layouts/ds_4col/ds_4col-rtl.css	1e3eb9684d2a4c62fdd74d53e860527c
+A	lib/Drupal/ds/Access/ContextualTabAccessCheck.php	459890217936dfe6467c9531a3701e78
+A	lib/Drupal/ds/Controller/DsController.php	b3fe3b1080e73439559c29a0651d0a65
+A	lib/Drupal/ds/Form/ChangeLayoutForm.php	fbc8125fbfe3db02b7761f6d88c586aa
+A	lib/Drupal/ds/Form/SettingsForm.php	2911329339e4eb24cfdba48ab6b422e8
+A	lib/Drupal/ds/Plugin/DSPluginManager.php	a8c90216f6b1cefe1ee02053341ad60d
+A	lib/Drupal/ds/Plugin/Derivative/DsEntityRow.php	33865e9f525be342fee5761572b2e37f
+A	lib/Drupal/ds/Plugin/Derivative/DynamicPreprocessField.php	8f663dec61a139af5d0036defd9cf2b2
+A	lib/Drupal/ds/Plugin/DsField/BlockBase.php	8599063ca92b84225b998199261fd924
+A	lib/Drupal/ds/Plugin/DsField/CodeBase.php	7e2462b9d56fc7cfce48b70cdfbdba23
+A	lib/Drupal/ds/Plugin/DsField/CommentLinks.php	2b40d1a43fa9c61fcc33d1bd7730a18d
+A	lib/Drupal/ds/Plugin/DsField/CommentPermalink.php	6234a92abd16cd2c67e48870672307eb
+A	lib/Drupal/ds/Plugin/DsField/CommentSubmittedBy.php	e9dbff6731bb558d300ab8ca4a60fae3
+A	lib/Drupal/ds/Plugin/DsField/Date.php	f57d426f87e1794dd7fbfcc4627d840e
+A	lib/Drupal/ds/Plugin/DsField/DsFieldBase.php	12ac05783412fc69e766d04abfc0ed52
+A	lib/Drupal/ds/Plugin/DsField/DsFieldInterface.php	ef0954cd22b8df33e5a39c58a01c9789
+A	lib/Drupal/ds/Plugin/DsField/DynamicBlockField.php	5b5019afd6506718e3574990a6cbb2e2
+A	lib/Drupal/ds/Plugin/DsField/DynamicCodeField.php	0baf3ae901ba7fd231e74ae303e5364a
+A	lib/Drupal/ds/Plugin/DsField/DynamicPreprocessField.php	8f9e50940b31b7bba36d212ac9902f8e
+A	lib/Drupal/ds/Plugin/DsField/Entity.php	9758f3e9aa498901a7c0fab7ab7021f9
+A	lib/Drupal/ds/Plugin/DsField/Field.php	780ff1b60a112c1249cf79dd083db1eb
+A	lib/Drupal/ds/Plugin/DsField/Link.php	3cb6d647b19c4aa92d8ba5f70b44b792
+A	lib/Drupal/ds/Plugin/DsField/NodeAuthor.php	ec4f92e1457a35f4d400283a6485d29d
+A	lib/Drupal/ds/Plugin/DsField/NodeComments.php	c9c7d146f66070c20cddcced78d5f662
+A	lib/Drupal/ds/Plugin/DsField/NodeSubmittedBy.php	608543b27a63a152df05f8ab677545ee
+A	lib/Drupal/ds/Plugin/DsField/PreprocessBase.php	6a7453d2ac6ef29e142d1fdf2277f31a
+A	lib/Drupal/ds/Plugin/DsField/Title.php	2690592aa87f397e90f873fc0be12d98
+A	lib/Drupal/ds/Plugin/DsField/User.php	5edb8e60a4d06f04fe3e808abbe59941
+A	lib/Drupal/ds/Plugin/views/row/DsEntityRow.php	316faef2bc0c0858539d7300e8a0e5e1
+A	lib/Drupal/ds/Tests/BaseTest.php	4c778072de7866e3429101b49f9fe98b
+A	lib/Drupal/ds/Tests/EntitiesTest.php	178d57fb652a25c97d9a559248f6b8da
+A	lib/Drupal/ds/Tests/FieldPermissionsTest.php	02b70c8e265b693b6d2697145cbc2724
+A	lib/Drupal/ds/Tests/FieldsTest.php	6dd60cb2acada3fadad0b5ffeec852bf
+A	lib/Drupal/ds/Tests/FormsTest.php	e8f200af26adb4e70eec3b55bb80782a
+A	lib/Drupal/ds/Tests/HooksTest.php	5e5cd7746041ea7cc91f7990194fd76a
+A	lib/Drupal/ds/Tests/SearchTest.php	75dac96371032710b6d25bbe69a12b80
+A	modules/ds_code/config/filter.format.ds_code.yml	e2c8eda62d91b7137bb4c6e6db11f36c
+A	modules/ds_code/ds_code.info.yml	dd4b7ff37054ec9764da60b307465aaf
+A	modules/ds_code/ds_code.install	4d264598191995fad2d4376ff167e6da
+A	modules/ds_code/ds_code.module	50711a1a0b8418429251d40861f76284
+A	modules/ds_code/lib/Drupal/ds_code/Plugin/Filter/DsCode.php	19327ae52bf6f2e4177fcee99a756787
+M	modules/ds_devel/ds_devel.info.yml	7f2af23f864df2f4b1b62a9c20968e02
+D	modules/ds_devel/ds_devel.links.task.yml	
+M	modules/ds_devel/ds_devel.module	ce407ff5715c837d02b1aba7975bf512
+A	modules/ds_devel/ds_devel.routing.yml	3d7b88d5de84b5fad432b99385f7a9d9
+D	modules/ds_devel/ds_devel.services.yml	
+A	modules/ds_devel/lib/Drupal/ds_devel/Controller/DsDevelController.php	84a5b079b0474ef404d9d74844c2e4ad
+D	modules/ds_devel/src/Controller/DsDevelController.php	
+D	modules/ds_devel/src/Plugin/Derivative/DsDevelLocalTask.php	
+D	modules/ds_devel/src/Routing/RouteSubscriber.php	
+M	modules/ds_extras/README.txt	f665ff42d6e1460341708d6e2ff69b8c
+A	modules/ds_extras/config/ds.extras.yml	87d5af7ace496eee0493313ecb41cb44
+D	modules/ds_extras/config/install/ds_extras.settings.yml	
+D	modules/ds_extras/config/optional/core.entity_view_mode.node.revision.yml	
+M	modules/ds_extras/config/schema/ds_extras.schema.yml	98c96db3a66c8e9a0c1f170c93d37179
+M	modules/ds_extras/ds_extras.info.yml	a7de4381a944c0fd9ca07aa828abe2d6
+M	modules/ds_extras/ds_extras.install	c92ecf84b958714f62aa700a32e3eb00
+D	modules/ds_extras/ds_extras.libraries.yml	
+M	modules/ds_extras/ds_extras.module	f020cbb85d1ea51d259d67a0973ec942
+D	modules/ds_extras/ds_extras.permissions.yml	
+M	modules/ds_extras/ds_extras.routing.yml	a8f154e42b327381fa0ee570341d2304
+M	modules/ds_extras/ds_extras.services.yml	ef35675031173e048c0d93f3dd714e9b
+A	modules/ds_extras/includes/admin.inc	27efbea0476cf3a21c2a02c9dc6f5159
+M	modules/ds_extras/js/ds_extras.admin.js	58bc8504d9b543c3fecc29945309ca4a
+A	modules/ds_extras/js/ds_extras.js	0465f2ac0d651999d270923177b68844
+A	modules/ds_extras/lib/Drupal/ds_extras/Access/SwitchFieldAccessCheck.php	cada9cda54f4764691f06da63f35f8b2
+A	modules/ds_extras/lib/Drupal/ds_extras/Controller/DsExtrasController.php	bdeab4706dec9ae4c395a3799fd0615e
+A	modules/ds_extras/lib/Drupal/ds_extras/Plugin/DsField/SwitchField.php	5f694ed7e57e821fca90c6721af8c2b3
+D	modules/ds_extras/src/Controller/DsExtrasController.php	
+D	modules/ds_extras/src/ExtrasPermissions.php	
+D	modules/ds_extras/src/Plugin/DsField/SwitchField.php	
+A	modules/ds_forms/css/ds_forms.admin.css	56c6e0e4d24422657b0622ea87d18dff
+A	modules/ds_forms/ds_forms.info.yml	53ec505586d938a6c6cca52a5b52134d
+A	modules/ds_forms/ds_forms.install	206d4261a8dc8d6a55e397c2575b0504
+A	modules/ds_forms/ds_forms.module	3c9ee23a3fbe02c6ab0bd5091ff4cedd
+A	modules/ds_forms/js/ds_forms.admin.js	c9a3e4fef4772a6b1b2b10852608942c
+A	modules/ds_search/config/ds.search.yml	ec00a7abc79b025dc5d0aca8ef314fc9
+A	modules/ds_search/css/ds_search.theme.css	0000bb5a9d316f848e7d4ad93551a951
+A	modules/ds_search/ds_search.info.yml	15b8e27e42e118b14dfa2ee40b8ffa78
+A	modules/ds_search/ds_search.install	959a9ba38e24da2f031cfedc8904c1d9
+A	modules/ds_search/ds_search.module	9847393e0153bf156d55294890df2747
+A	modules/ds_search/includes/admin.inc	73a4c3ee35a08a05bbf3d03d1a388e67
+A	modules/ds_search/js/ds_search.js	3a2943056e2a25863b155dd3a2604012
+D	modules/ds_switch_view_mode/ds_switch_view_mode.info.yml	
+D	modules/ds_switch_view_mode/ds_switch_view_mode.module	
+D	modules/ds_switch_view_mode/ds_switch_view_mode.permissions.yml	
+D	modules/ds_switch_view_mode/src/Permissions.php	
+A	modules/ds_ui/ds_ui.info.yml	77a68d2b52b46127e9cc13d672967f96
+A	modules/ds_ui/ds_ui.local_actions.yml	52c465d173222b1b3cdfbc6b6af6bde7
+A	modules/ds_ui/ds_ui.local_tasks.yml	2ceb414760e365e66f0645851032dca2
+A	modules/ds_ui/ds_ui.module	d94060ac2f6932bedaf1d948439fb9c5
+A	modules/ds_ui/ds_ui.routing.yml	61a8ca7d38ae0e307b1a08cf4b454b96
+A	modules/ds_ui/lib/Drupal/ds_ui/Form/BlockFieldForm.php	9b43b39a466281260a63e264e1da1820
+A	modules/ds_ui/lib/Drupal/ds_ui/Form/ClassesForm.php	a8c49e460a3cefd7f919900f7ad2a3d0
+A	modules/ds_ui/lib/Drupal/ds_ui/Form/CodeFieldForm.php	3f27b9be3b076e2a81c9b28cbc370378
+A	modules/ds_ui/lib/Drupal/ds_ui/Form/FieldDeleteForm.php	3a4f4a8c13605bac23a88578da4df974
+A	modules/ds_ui/lib/Drupal/ds_ui/Form/FieldFormBase.php	dd368277bb0acdc138576b6bf88fb8b7
+A	modules/ds_ui/lib/Drupal/ds_ui/Form/PreprocessFieldForm.php	1087295189bed108de6be172159f2d23
+D	src/Annotation/DsFieldTemplate.php	
+D	src/Controller/DsController.php	
+D	src/Ds.php	
+D	src/DsAttribute.php	
+D	src/Form/BlockFieldConfigForm.php	
+D	src/Form/BlockFieldForm.php	
+D	src/Form/ChangeLayoutForm.php	
+D	src/Form/ClassesForm.php	
+D	src/Form/CopyFieldForm.php	
+D	src/Form/FieldDeleteForm.php	
+D	src/Form/FieldFormBase.php	
+D	src/Form/SettingsForm.php	
+D	src/Form/TokenFieldForm.php	
+D	src/Plugin/Derivative/BundleField.php	
+D	src/Plugin/Derivative/DsEntityRow.php	
+D	src/Plugin/Derivative/DsLocalTask.php	
+D	src/Plugin/Derivative/DynamicCopyField.php	
+D	src/Plugin/DsField/Block/BlockDescription.php	
+D	src/Plugin/DsField/BlockBase.php	
+D	src/Plugin/DsField/BundleField.php	
+D	src/Plugin/DsField/Comment/CommentUser.php	
+D	src/Plugin/DsField/Date.php	
+D	src/Plugin/DsField/DsFieldBase.php	
+D	src/Plugin/DsField/DsFieldInterface.php	
+D	src/Plugin/DsField/DynamicBlockField.php	
+D	src/Plugin/DsField/DynamicCopyField.php	
+D	src/Plugin/DsField/DynamicTokenField.php	
+D	src/Plugin/DsField/Entity.php	
+D	src/Plugin/DsField/Field.php	
+D	src/Plugin/DsField/Link.php	
+D	src/Plugin/DsField/Node/NodeAuthor.php	
+D	src/Plugin/DsField/Node/NodeSubmittedBy.php	
+D	src/Plugin/DsField/Title.php	
+D	src/Plugin/DsField/TokenBase.php	
+D	src/Plugin/DsField/User/User.php	
+D	src/Plugin/DsFieldTemplate/DefaultField.php	
+D	src/Plugin/DsFieldTemplate/DsFieldTemplateBase.php	
+D	src/Plugin/DsFieldTemplate/DsFieldTemplateInterface.php	
+D	src/Plugin/DsFieldTemplate/Expert.php	
+D	src/Plugin/DsFieldTemplate/Minimal.php	
+D	src/Plugin/DsFieldTemplate/Reset.php	
+D	src/Plugin/DsFieldTemplatePluginManager.php	
+D	src/Plugin/DsLayout.php	
+D	src/Plugin/DsPluginManager.php	
+D	src/Plugin/views/Entity/Render/ConfigurableLanguageRenderer.php	
+D	src/Plugin/views/Entity/Render/CurrentLanguageRenderer.php	
+D	src/Plugin/views/Entity/Render/DefaultLanguageRenderer.php	
+D	src/Plugin/views/Entity/Render/RendererBase.php	
+D	src/Plugin/views/Entity/Render/TranslationLanguageRenderer.php	
+D	src/Plugin/views/row/EntityRow.php	
+D	src/Routing/RouteSubscriber.php	
+D	src/Tests/BlockFieldPluginTest.php	
+D	src/Tests/BlockTest.php	
+D	src/Tests/CacheTagsTest.php	
+D	src/Tests/CommentTest.php	
+D	src/Tests/DsTestTrait.php	
+D	src/Tests/DynamicFieldPluginTest.php	
+D	src/Tests/EntitiesTest.php	
+D	src/Tests/FastTestBase.php	
+D	src/Tests/FieldGroupTest.php	
+D	src/Tests/FieldPermissionsTest.php	
+D	src/Tests/FieldPluginTest.php	
+D	src/Tests/FieldTemplateTest.php	
+D	src/Tests/HiddenRegionTest.php	
+D	src/Tests/LayoutFluidTest.php	
+D	src/Tests/LayoutPluginTest.php	
+D	src/Tests/ManageDisplayTabTest.php	
+D	src/Tests/TwigRenderTest.php	
+D	templates/ds-1col-wrapper.html.twig	
+D	templates/ds-1col.html.twig	
+D	templates/ds-2col-fluid.html.twig	
+D	templates/ds-2col-stacked-fluid.html.twig	
+D	templates/ds-2col-stacked.html.twig	
+D	templates/ds-2col.html.twig	
+D	templates/ds-3col-equal-width.html.twig	
+D	templates/ds-3col-stacked-equal-width.html.twig	
+D	templates/ds-3col-stacked-fluid.html.twig	
+D	templates/ds-3col-stacked.html.twig	
+D	templates/ds-3col.html.twig	
+D	templates/ds-4col.html.twig	
+D	templates/ds-entity-view.html.twig	
+D	templates/ds-field-expert.html.twig	
+D	templates/ds-field-minimal.html.twig	
+D	templates/ds-field-reset.html.twig	
+A	tests/modules/ds_exportables_test/config/ds.field.exportable_field.yml	e085c553e6bd54b05338f33e590b8737
+A	tests/modules/ds_exportables_test/config/ds.field_settings.node.article.default.yml	68546ec7c9bf03b04a147aa0c6e46970
+A	tests/modules/ds_exportables_test/config/ds.layout_settings.node.article.default.yml	53ae3a95d30f649758eed4917f4edfa7
+D	tests/modules/ds_exportables_test/config/install/core.entity_view_display.node.article.default.yml	
+D	tests/modules/ds_exportables_test/config/install/ds.field.exportable_field.yml	
+M	tests/modules/ds_exportables_test/ds_exportables_test.info.yml	be4f992317ebbf6bd0f83616d4518450
+A	tests/modules/ds_exportables_test/ds_exportables_test.module	6bebb4acedb1a1398a61187331d1b10d
+D	tests/modules/ds_test/config/schema/ds_test.schema.yml	
+D	tests/modules/ds_test/css/dstest-2col.css	
+M	tests/modules/ds_test/ds_test.info.yml	926c281161ceea94fcceee09569e10d7
+D	tests/modules/ds_test/ds_test.layouts.yml	
+D	tests/modules/ds_test/ds_test.libraries.yml	
+M	tests/modules/ds_test/ds_test.module	6d1a43eb1761d1476930c3750f68f174
+A	tests/modules/ds_test/ds_test.views_default.inc	8f0986ab3092f0c7a29d4837e5ab73cb
+A	tests/modules/ds_test/dstest_1col/dstest-1col.html.twig	c5ccf539bfe855ba9f95aa8b798973aa
+A	tests/modules/ds_test/dstest_2col/dstest-2col.html.twig	eae0a65f8149131cc917ef279e452790
+A	tests/modules/ds_test/lib/Drupal/ds_test/Plugin/DsField/TestField.php	f14041193576b7d78ac3fb82a0b5f355
+A	tests/modules/ds_test/lib/Drupal/ds_test/Plugin/DsField/TestField2.php	cb068b4e7c3c6a9a6bb9e7e368d81f8a
+A	tests/modules/ds_test/lib/Drupal/ds_test/Plugin/DsField/TestFieldZeroFloat.php	dd5af917163d4ea8e16b86be91565754
+D	tests/modules/ds_test/src/Plugin/Block/DsTestBlock.php	
+D	tests/modules/ds_test/src/Plugin/DsField/TestField.php	
+D	tests/modules/ds_test/src/Plugin/DsField/TestField2.php	
+D	tests/modules/ds_test/src/Plugin/DsField/TestFieldZeroFloat.php	
+D	tests/modules/ds_test/src/Plugin/DsField/TestMultipleField.php	
+D	tests/modules/ds_test/src/Plugin/DsFieldTemplate/TestLayout.php	
+D	tests/modules/ds_test/templates/ds-test-template.html.twig	
+D	tests/modules/ds_test/templates/dstest-1col-title.html.twig	
+D	tests/modules/ds_test/templates/dstest-1col.html.twig	
+D	tests/modules/ds_test/templates/dstest-2col-fluid.html.twig	
+D	tests/modules/ds_test/templates/dstest-2col.html.twig	
+D	tests/modules/ds_test/test_views/views.view.ds-testing.yml	
+D	tests/src/FunctionalJavascript/JavascriptTest.php	

@@ -1,0 +1,32 @@
+M	CHANGELOG	296cd2ab708b261e848468cd1625fc15
+M	README	af400ba1c50155aae085dcc273aecd8c
+M	css/admin.css	a1f3ca91103319d4ee2ffc269379d71a
+M	includes/DrupalOAuthClient.inc	3dc601e15ea666366461c6a8f02d70eb
+M	includes/DrupalOAuthConsumer.inc	f08e516b8fd3f286211fb40b5327880a
+M	includes/DrupalOAuthDataStore.inc	d8398105ac5a48c9ac47b49c97c05d21
+M	includes/DrupalOAuthRequest.inc	6630c50b596cb8766416f7efe84db8bc
+M	includes/DrupalOAuthServer.inc	1d69622826951b1347ad03b8a334a582
+M	includes/DrupalOAuthToken.inc	6e380da946dd2131cf4c03d4a4ad1f74
+M	includes/OAuthSignatureMethod_HMAC.inc	bf60ba460db587cd54201572edbd4bf3
+M	oauth_common.admin.inc	12847c0f245c119d680d5f86b91f837e
+M	oauth_common.authorizations.inc	09aa0f0c53da8c018d33a06ae3638a78
+M	oauth_common.consumers.inc	f3a305b0512f975c0cd802059f8fc42f
+M	oauth_common.inc	18339a0edb53681301fe22a31b19787a
+M	oauth_common.info	66e366aadbbda5226ac5da5d90851f7a
+M	oauth_common.install	cb46630b45fbd0a1dfc5dc446fd5d898
+M	oauth_common.module	7a7e14f8943a616ca397bd54372ce6f1
+M	oauth_common.pages.inc	b8c43408656454c774c56fa43846f0db
+M	oauth_common_auth_level.tpl.php	d0bbf712f8e8116e39a8b5bb0b219012
+D	oauth_common_consumerui.inc	
+D	oauth_common_consumerui.info	
+D	oauth_common_consumerui.module	
+M	oauth_common_providerui.info	e3dff99354e0be378a7c122ce4b5ac64
+M	oauth_common_providerui.module	caf0d2277e8f3a7813bd37290aa467ea
+M	updates/update.6001.inc	ebc05a76abd3171b2b5d196099529b37
+M	updates/update.6002.inc	e8448b32417a867a07a37e753f394e5f
+M	updates/update.6003.inc	e81f963f4e5e61a9265c14cb153c81ed
+M	updates/update.6100.inc	bc420117a12ac46f9db36b2542d0947c
+M	updates/update.6200.inc	80640b06b0723edb93605722abd92647
+M	updates/update.6201.inc	43594e3b7c4befe0757f1dadfa4a703a
+M	updates/update.6202.inc	7d812d24bad63fae388dfddf05baf086
+A	updates/update.6300.inc	3b36a44f46e30adfcfa8afa3c5a8cb41

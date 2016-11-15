@@ -1,0 +1,29 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	README.txt	
+M	classes/commerce_coupon.inc	7c200543389ec20cbf9deaf422214d36
+A	classes/commerce_coupon_log.inc	307fef27b4b49e48f7e1f21c241cccf7
+M	classes/commerce_coupon_type.inc	645ffd6e44beb010ff5fb9e467d6db6a
+D	commerce_coupon.api.php	
+M	commerce_coupon.info	8aa65c5647f051405d2aed6e52682c32
+D	commerce_coupon.info.inc	
+M	commerce_coupon.install	a22ef425e71b8e6c82d3715adcbba70d
+M	commerce_coupon.module	cb38fb972796c1edae63cf1a2cbe7d37
+M	commerce_coupon.rules.inc	ab0259f6df3d49b4ce12a7dfcf570463
+D	commerce_coupon.rules_defaults.inc	
+D	commerce_coupon_ui.info	
+D	commerce_coupon_ui.module	
+M	includes/commerce_coupon.checkout_pane.inc	6d2e4bd647930fba6ccb2001065db601
+D	includes/commerce_coupon_ui.forms.inc	
+D	includes/commerce_coupon_ui.settings.inc	
+D	includes/views/commerce_coupon.views.inc	
+D	includes/views/commerce_coupon_ui.views_default.inc	
+D	includes/views/handlers/commerce_coupon_handler_area_cart_form.inc	
+D	includes/views/handlers/commerce_coupon_handler_field_coupon_granted_amount.inc	
+D	includes/views/handlers/commerce_coupon_handler_field_coupon_operations.inc	
+D	includes/views/handlers/commerce_coupon_handler_field_coupon_order_remove.inc	
+D	includes/views/handlers/commerce_coupon_handler_field_times_used.inc	
+A	modules/batch/commerce_coupon_batch.info	d1bb7792aa828ad953bdc775d261985f
+A	modules/batch/commerce_coupon_batch.module	c438b680f1085ead8e980759f44cc8e2
+A	modules/batch/includes/commerce_coupon_batch.form.inc	42c6f09279fb51031706c41af65c717f
+D	plugins/selection/EntityReference_SelectionHandler_Generic_commerce_coupon.class.php	
+D	plugins/selection/coupon.inc	

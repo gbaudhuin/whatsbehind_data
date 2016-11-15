@@ -1,0 +1,12 @@
+M	colorbox.admin.inc	279770c0be5d2bb7cfb37d6424a71a1e
+M	colorbox.info	78ce84c0b7c1fe77caed651340905416
+M	colorbox.install	d7fa0e07761e3f8cf4ef948f2db17335
+M	colorbox.module	4e9b3b539443ed21b75b9591c00a5828
+M	colorbox.theme.inc	ab26b53b61e5a6fbeab845aeecc18b24
+M	colorbox.variable.inc	2f33795a7aaef919c68ff33f0d2b66bf
+A	styles/plain/colorbox_style.css	d00369a9e90fcd861211b01f21ed4207
+A	styles/plain/colorbox_style.js	7f7703b6c1bc82c46ba66a2ed77107ed
+A	styles/plain/images/controls.png	980460c7f46300f62ce7b0862ce84b97
+A	styles/plain/images/loading_animation.gif	7e99e1159a3686f6aa4f90043c554483
+A	styles/plain/images/loading_background.png	7c96a54b079f79d48db5c29c3a538b83
+M	views/colorbox_handler_field_colorbox.inc	5dd3f339f7b596de3a04e5178dca7f76

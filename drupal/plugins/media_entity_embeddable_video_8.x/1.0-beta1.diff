@@ -1,0 +1,8 @@
+M	.travis.yml	439eb84196ac1081033752b5487af43d
+M	config/install/media_entity_embeddable_video.settings.yml	9c162d04c6a40a0183eeb04cf08cff77
+M	config/schema/media_entity_embeddable_video.schema.yml	3962d5e1bc8bf5821e629099edd816b6
+M	media_entity_embeddable_video.info.yml	151eecc854cd262c7ca48ae2cb9f1e43
+M	src/Kernel/Extension/VideoProviderMatchConstraintTest.php	a07fa4ef5a72948e3e2f72c962b12972
+D	src/Plugin/Field/FieldFormatter/Video.php	
+M	src/Plugin/MediaEntity/Type/EmbeddableVideo.php	163f2ea39b118255a825fdd7fee230cf
+M	src/Plugin/MediaEntity/VideoProvider/YouTube.php	76912dd72e527d620e7e3014fed1fac3

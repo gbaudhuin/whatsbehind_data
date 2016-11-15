@@ -1,0 +1,12 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	adff8992372c6b367f285fa2c250a298
+A	devel_debug_log.info.yml	ee244915cb4c8ee9fa82d7a0f247e6aa
+A	devel_debug_log.install	0cb509eab028cc830a15e1bf2f3d7f60
+A	devel_debug_log.links.menu.yml	bca3ea980b8c7c90b99ea1d1ce73d4e2
+A	devel_debug_log.module	59fbd84fc76771a78fb959d63e8e77fb
+A	devel_debug_log.routing.yml	c3e6e5959957870d4fb31ab1c984c136
+A	devel_debug_log.services.yml	c312f9977933323983fb1407799f8017
+A	src/Controller/DevelDebugLogController.php	c5f0152f69c0ded9667e6da11ce998d9
+A	src/Form/DevelDebugLogDeleteForm.php	f56913eaa1b42a7bbd42dce422afacbb
+A	src/Twig/DevelDebugLogExtension.php	c01b1c76dd377a538289c65480dbe3a4
+A	templates/devel-debug-log-list.html.twig	23fe82d67cf8fc3e4ecdf6ee747b7bb2

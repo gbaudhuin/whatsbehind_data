@@ -1,0 +1,120 @@
+M	README.txt	7885160bfef62c0395fea53d6dc090ae
+M	docs/scald_overview.txt	b68f15cf8533779eec6b21bf5bbd8722
+M	docs/scald_provider_api.txt	bb0fa199ca623cdbce42aa7aa3cc22bf
+A	includes/ScaldAtom.inc	69e07f68bbcb35b1fc1d038c1235e9dc
+M	includes/ScaldAtomController.inc	083894d26a993f6e7eee7cb673ad6133
+M	includes/scald.admin.inc	f2502c3e869de91d0c3a7d7bb5a75776
+A	includes/scald.atom.inc	c3531c84ed91766fd62c2e75d3364736
+M	includes/scald.constants.inc	491ff6dd12cb6fba70bf6059640fdeac
+M	includes/scald.debug.inc	d57ca665680fa2cf666bc470b0b2b655
+M	includes/scald.pages.inc	1493ddebf3011633954617a5082b8b5c
+M	includes/scald.views.inc	8b32c27d486f8d58c03cebba21913c78
+A	includes/scald.views_default.inc	b4935ebd8f9734270eefd677e7ad2722
+M	includes/scald_views_handler_field_representation.inc	7c5e68d3e629d90a8613a0c2886e416f
+M	includes/scald_views_handler_filter_actions.inc	b32bd994c396d281d338cba38c0d6010
+M	includes/scald_views_handler_filter_atom_provider.inc	0f36bb8270ce723b58c878af7db22140
+M	includes/scald_views_handler_filter_atom_type.inc	25b435b74db66f9396c1065efd67db88
+M	modules/fields/atom_reference/atom_reference.info	f22919ee9bbcd81d139695ff5c31f03c
+A	modules/fields/atom_reference/atom_reference.install	cb224132794a2d3a115f9a0ca50df1ee
+M	modules/fields/atom_reference/atom_reference.module	03a1a5218b11b87200a46bc5dc6db291
+M	modules/fields/mee/mee.info	35dec97d5077653489d09ae5c1568c2a
+M	modules/fields/mee/mee.install	2cce76529271d19f5fe479b96aa66f87
+M	modules/fields/mee/mee.module	0315d95473f0ec3677cdbe32fbe1b38b
+M	modules/fields/mee/plugins/sas.inc	dc6656d45ce695c1014176493038e3cb
+M	modules/fields/mee/plugins/sas/sas.js	b8f86b4c47433775eef25aebe4f083d4
+M	modules/library/dnd/README.txt	58e24aa80020db31d83fe66f745a3fec
+M	modules/library/dnd/css/dnd-library.css	3859642f3ca14cc9e15dfe88608fb3d3
+M	modules/library/dnd/css/editor.css	83bcf62fc7ec1af4dfef8b7f754334a3
+M	modules/library/dnd/dnd.admin.inc	d800c234457a3eee234abb7ef6a34f6e
+M	modules/library/dnd/dnd.info	435cf3565e6ef5d3515021d040b0ce90
+M	modules/library/dnd/dnd.module	1810dcb48161f43d23b1fab8a73a2819
+M	modules/library/dnd/js/dnd-library.js	2e914e6f6998d30a3ea2383193f4ea84
+D	modules/library/dnd/js/jquery.fieldselection.js	
+D	modules/library/dnd/js/jquery.url.packed.js	
+D	modules/library/dnd/modules/dnd_test/dnd-editor-item.tpl.php	
+D	modules/library/dnd/modules/dnd_test/dnd-library-footer.tpl.php	
+D	modules/library/dnd/modules/dnd_test/dnd-library-header.tpl.php	
+D	modules/library/dnd/modules/dnd_test/dnd-library-item.tpl.php	
+D	modules/library/dnd/modules/dnd_test/dnd-library-preview.tpl.php	
+D	modules/library/dnd/modules/dnd_test/dnd_test.css	
+D	modules/library/dnd/modules/dnd_test/dnd_test.info	
+D	modules/library/dnd/modules/dnd_test/dnd_test.module	
+D	modules/library/dnd/modules/dnd_test/img-backup/page-1-large.jpg	
+D	modules/library/dnd/modules/dnd_test/img-backup/page-1-small.jpg	
+D	modules/library/dnd/modules/dnd_test/img-backup/page-2-large.jpg	
+D	modules/library/dnd/modules/dnd_test/img-backup/page-2-small.jpg	
+D	modules/library/dnd/modules/dnd_test/img/icon/L.png	
+D	modules/library/dnd/modules/dnd_test/img/icon/M.png	
+D	modules/library/dnd/modules/dnd_test/img/icon/S.png	
+D	modules/library/dnd/modules/dnd_test/img/item-1-L.jpg	
+D	modules/library/dnd/modules/dnd_test/img/item-1-M.jpg	
+D	modules/library/dnd/modules/dnd_test/img/item-1-S.jpg	
+D	modules/library/dnd/modules/dnd_test/img/item-1-thumb.jpg	
+D	modules/library/dnd/modules/dnd_test/img/item-2-L.jpg	
+D	modules/library/dnd/modules/dnd_test/img/item-2-M.jpg	
+D	modules/library/dnd/modules/dnd_test/img/item-2-S.jpg	
+D	modules/library/dnd/modules/dnd_test/img/item-2-thumb.jpg	
+D	modules/library/dnd/modules/dnd_test/img/item-3-L.jpg	
+D	modules/library/dnd/modules/dnd_test/img/item-3-M.jpg	
+D	modules/library/dnd/modules/dnd_test/img/item-3-S.jpg	
+D	modules/library/dnd/modules/dnd_test/img/item-3-thumb.jpg	
+A	modules/library/dnd/plugins/ckeditor/dialogs/dnd.js	38232286f691372775a7679516a9ec80
+A	modules/library/dnd/plugins/ckeditor/icons/atom.png	29802e8f735dd216b2de54b9565d12c3
+A	modules/library/dnd/plugins/ckeditor/lang/en.js	f5db59fb9a0596c00976600017946537
+A	modules/library/dnd/plugins/ckeditor/plugin.js	5c343c353e3420c2a8ba9d1236fad32a
+M	modules/library/scald_dnd_library/includes/scald_dnd_library.views.inc	58f8352dceaccee492e2b9a4b3049815
+M	modules/library/scald_dnd_library/includes/scald_dnd_library.views_default.inc	c993f9892d5dc02137141f0d16301626
+M	modules/library/scald_dnd_library/includes/scald_plugin_display_library.inc	67e1e6d0f9a3be49354234e00f7b3056
+M	modules/library/scald_dnd_library/includes/scald_plugin_style_library.inc	7940f9d3007247ba05dd00423c35c94b
+M	modules/library/scald_dnd_library/scald_dnd_library.info	f771b57583db5fcb323ffd9c3066d116
+M	modules/library/scald_dnd_library/scald_dnd_library.install	9c435f74afd31915c5a5b384bb14e31c
+M	modules/library/scald_dnd_library/scald_dnd_library.module	29efccfd1991e569218d5e4691312de9
+A	modules/providers/scald_audio/libraries/dewplayer/dewplayer-playlist.swf	2bd8ce584c7314106a2bcaa695e9f37e
+A	modules/providers/scald_audio/scald_audio.info	3ea486a18bed135d1c8d2a9018346a2e
+A	modules/providers/scald_audio/scald_audio.install	358b967d90b832845f3a1ad74f15b2f4
+A	modules/providers/scald_audio/scald_audio.module	a453507ba12b4614fcbf154d91eb9181
+A	modules/providers/scald_audio/scald_audio_player.tpl.php	2d47abf2ff0daa1be04c2e3f13523b15
+M	modules/providers/scald_dailymotion/scald_dailymotion.admin.inc	2ef97bbf042e9090ef3c9d3749d34351
+M	modules/providers/scald_dailymotion/scald_dailymotion.info	caae07250cd38da402c4d5688b656a1f
+M	modules/providers/scald_dailymotion/scald_dailymotion.install	f1cb733665da20a41ffec2e4ce260c76
+M	modules/providers/scald_dailymotion/scald_dailymotion.module	6bc1511c9bde0222cb9c58b4597a8d97
+M	modules/providers/scald_dailymotion/scald_dailymotion.pages.inc	0f2e6c51fb83cce7cb008d5b75a9a10e
+M	modules/providers/scald_dailymotion/scald_dailymotion_player.tpl.php	06bb53ca07d6b1475943927f101725ba
+A	modules/providers/scald_flash/icons/flash.png	3af2eb795999a0e8cbf6525f125170d3
+A	modules/providers/scald_flash/scald_flash.css	c293a9322957b706f238727abc37ab51
+A	modules/providers/scald_flash/scald_flash.info	6bc382853fddf4ae333c2dd23c5f498f
+A	modules/providers/scald_flash/scald_flash.install	2812de3464e4efa3663740cb9a81330a
+A	modules/providers/scald_flash/scald_flash.module	f725621ae800fd77d46fdfca7d422e06
+A	modules/providers/scald_flash/scald_flash_object.tpl.php	47776061e91909d82f8f8d721bd612fb
+M	modules/providers/scald_image/scald_image.info	ba6d7d4f14813575ffbdaefff1e77b0e
+M	modules/providers/scald_image/scald_image.install	aed0cc9264a92e66f3a288f995e4ada8
+M	modules/providers/scald_image/scald_image.module	d4403da249f0e45e42878a2f6310fb78
+D	modules/providers/scald_soundcloud/php-soundcloud/README.md	
+D	modules/providers/scald_soundcloud/php-soundcloud/Services/Soundcloud.php	
+D	modules/providers/scald_soundcloud/php-soundcloud/Services/Soundcloud/Exception.php	
+D	modules/providers/scald_soundcloud/php-soundcloud/Services/Soundcloud/Version.php	
+D	modules/providers/scald_soundcloud/php-soundcloud/tests/Soundcloud_Test.php	
+D	modules/providers/scald_soundcloud/php-soundcloud/tests/Soundcloud_Test_Helper.php	
+D	modules/providers/scald_soundcloud/scald_soundcloud.info	
+D	modules/providers/scald_soundcloud/scald_soundcloud.install	
+D	modules/providers/scald_soundcloud/scald_soundcloud.module	
+D	modules/providers/scald_soundcloud/scald_soundcloud_player.tpl.php	
+M	modules/providers/scald_twitter/scald_twitter.css	212d5a4f711b80a0e09aa71010029bf1
+M	modules/providers/scald_twitter/scald_twitter.info	b28e5793b0cf2a13c543eecace25b329
+M	modules/providers/scald_twitter/scald_twitter.install	4e8b23c2df854ea3e8c8f1ae4e831ab5
+M	modules/providers/scald_twitter/scald_twitter.js	d17e0cbdc516ab1cc5c233607c700014
+M	modules/providers/scald_twitter/scald_twitter.module	92b1efd6dcd9cfdbe0e06db9b0ad62e0
+M	modules/providers/scald_vimeo/scald_vimeo.info	6e9a4f26fda0c33cb06eb08c81864cd8
+M	modules/providers/scald_vimeo/scald_vimeo.install	977289c9c5c587eab61f4a93f633f1d3
+M	modules/providers/scald_vimeo/scald_vimeo.module	dfcc5ca1e3d90ff71190fb62653e94a8
+M	modules/providers/scald_vimeo/scald_vimeo_player.tpl.php	6c9bfea3ed291817021bc697bc010600
+M	modules/providers/scald_youtube/scald_youtube.info	8db24fa1e10eca629793b9885e357d59
+M	modules/providers/scald_youtube/scald_youtube.install	ac009891531dc1016b0a950a1eb03af9
+M	modules/providers/scald_youtube/scald_youtube.module	ac7f464f8abe7e995df479fec0cf5ebd
+M	modules/providers/scald_youtube/scald_youtube_player.tpl.php	99d85c2b223637328206ee388c406962
+M	modules/scald_quickstart/scald_quickstart.info	7bb6c5a4985d8ab005a829dea79d820d
+M	modules/scald_quickstart/scald_quickstart.install	908470ea66b5d473fecfd169fb29394f
+M	modules/scald_quickstart/scald_quickstart.module	41b2fdfe8cc395d37259d61312faf7b6
+M	scald.info	6e2058fe709ef0fdfd62f848cb31905e
+M	scald.install	1108663d1070047d6581d3dc0509133f
+M	scald.module	6ee89d674865aef5cc9a4a66d295f4e5

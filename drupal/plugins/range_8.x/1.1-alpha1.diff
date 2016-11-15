@@ -1,0 +1,20 @@
+M	config/schema/range.schema.yml	4b43c2ee91d55ad3acafead19d096946
+A	config/schema/range.views.schema.yml	84c53e845c220281235624eab899d1fe
+A	css/range.admin.css	dcd8cdb61bbd40ee77cb01ac6545f3c3
+D	css/range.field-widget.css	
+A	lib/Drupal/range/Plugin/Field/FieldType/RangeDecimalItem.php	62ab91b0ded39007725c9ae94b396ea7
+A	lib/Drupal/range/Plugin/Field/FieldType/RangeFloatItem.php	6065d8cd0180d06daa5abae2e8988fe7
+A	lib/Drupal/range/Plugin/Field/FieldType/RangeIntegerItem.php	8e5468943bbbe52d7798ff29c55a4b03
+A	lib/Drupal/range/Plugin/Field/FieldType/RangeItemBase.php	dcdc704749ccaa4fd5158f70023adf13
+A	lib/Drupal/range/Plugin/views/filter/RangeWithin.php	4f362196b69677ca9f5ab2927f5a3477
+A	range.feeds.inc	a80f5397e39aca47be7942cd19aed7de
+M	range.info.yml	1fbb2d0620d372b436d1ceaf645f9a7c
+D	range.libraries.yml	
+A	range.views.inc	368bb60631230d1eb30c977717b08da7
+D	src/Plugin/Field/FieldType/RangeDecimalItem.php	
+D	src/Plugin/Field/FieldType/RangeFloatItem.php	
+D	src/Plugin/Field/FieldType/RangeIntegerItem.php	
+D	src/Plugin/Field/FieldType/RangeItemBase.php	
+D	src/Plugin/Field/FieldType/RangeItemInterface.php	
+D	src/Tests/RangeFieldUITest.php	
+D	src/Tests/RangeTestBase.php	

@@ -1,0 +1,32 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	874e5aba86dfb164b98546f1b93c040f
+A	backup_migrate.css	c7e086c38e9c679ba0965e21826ae660
+M	backup_migrate.info	36e9dc0e64e3a770845e35df8f794d62
+M	backup_migrate.install	dcb52551060b0fb9847259cd281a03fe
+A	backup_migrate.js	998c6794664c4f24c44398a03c781c38
+M	backup_migrate.module	70a75b4c7a0da250049346880b6d214e
+A	includes/backup_migrate.drush.inc	78395325f6bfcacbbb2e73a93523aaa3
+A	includes/crud.inc	f3f3532d19ced056b22af66387b9279a
+A	includes/destinations.browser.inc	9a43f32dab3e96c62758503f89f3bab6
+A	includes/destinations.db.inc	a3e1fdbe9d4c049a2ef013063e27252f
+A	includes/destinations.db.mysql.inc	d3b5815c13fa5c977a353babdb414f3a
+A	includes/destinations.email.inc	4b7fd20a1b090453d5aa3c1ab95d6d63
+A	includes/destinations.file.inc	300b64a3a3c2d48a0f1e9655e4a5009c
+A	includes/destinations.ftp.inc	4aa2eb261b1f78871b2b6bce7d266f78
+A	includes/destinations.inc	1bb486146cca677cf6565e3953ae29f9
+A	includes/destinations.nodesquirrel.inc	96b0f4f3039e387f6ef893485b2b65be
+A	includes/destinations.s3.inc	f8a59310a2d245cee9a82a1f70bcbc0c
+A	includes/files.inc	9862471215b7f7141747c1bdb8c7ad8e
+A	includes/filters.backup_restore.inc	847e296335ef891c1aec4e50a797cdc2
+A	includes/filters.compression.inc	dbc2824397404f4056fdf0aea3d663b9
+A	includes/filters.encryption.inc	33bdeb4d7b0c99cbf4d8745ff1e1f1b5
+A	includes/filters.inc	c91eaf1e9fae8feb7055a362cae66c5d
+A	includes/filters.statusnotify.inc	a86191c99fb8ec843ffddcfd46f5170a
+A	includes/filters.utils.inc	5c8922d33b22f7ef8394fc97f29151a9
+A	includes/profiles.inc	50e73731025bf4895ae8efc9291c80a9
+A	includes/schedules.inc	56c6c7b459fd912d7d05b8375d1c6c5d
+D	po/de.po	
+D	po/fr.po	
+D	po/sk.po	
+A	tests/backup_migrate.functionality.test	93b4e05a3c8c8f70b9a9989b6104806d
+A	tests/backup_migrate.unit.test	fec699fd89ac081bb0bc357431118393

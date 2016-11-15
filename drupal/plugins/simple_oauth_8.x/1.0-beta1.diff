@@ -1,0 +1,35 @@
+D	.travis.yml	
+M	README.md	d466d981ace9b20a777598c92546f0b0
+M	simple_oauth.info.yml	0029c1a81d79a2a1ae59caa591abc642
+M	simple_oauth.services.yml	c01918092a5a986f528dd30e894cea0a
+M	src/AccessTokenAccessControlHandler.php	7e1694214445a95f1194c76c697c4474
+M	src/AccessTokenInterface.php	f41ece62cb4c144555fd5091bc5c473b
+M	src/AccessTokenListBuilder.php	eac71210ad89e4dd17bc9181b059dda1
+M	src/AccessTokenResourceInterface.php	545c74525b528d07a9db6ae071fa3411
+M	src/AccessTokenResourceListBuilder.php	89422ffe40d2346ce76fcb21d408ddf3
+M	src/AccessTokenValue.php	b6710b44c2cf193945c44930d4ecae30
+M	src/AccessTokenValueInterface.php	c5136b9466d2cc1bd3461d08cef32c1d
+M	src/AccessTokenViewBuilder.php	72c2f5d65eeccd5859c69e139f7c2777
+M	src/Authentication/Provider/SimpleOauthAuthenticationProvider.php	a5f388e82bd07b19948cfb438710d3c8
+M	src/Authentication/Provider/SimpleOauthAuthenticationProviderInterface.php	eb0a9c330104826524ac60a5922b76ba
+M	src/Authentication/TokenAuthUser.php	74ec4cabe56c791ea68f9f79de2e5e04
+M	src/Authentication/TokenAuthUserInterface.php	d2e835a9c05225cf5df1d76e6026daad
+D	src/Cache/Context/BearerTokenCacheContext.php	
+M	src/Controller/AccessTokenRefresh.php	ffb19f0b31b550559960054098dba2f2
+M	src/Controller/AccessTokenUserList.php	be0c91df10e3b67d118640a7224365f7
+M	src/Entity/AccessToken.php	3a80f0c83e36e9da07b13c89cbb311dd
+M	src/Entity/AccessTokenResource.php	e9a9a8bb6f92f0e19470dc576042b400
+M	src/Entity/AccessTokenViewsData.php	5ddf540590c5e8a3b31ccdd784a887be
+M	src/Entity/Form/AccessTokenDeleteForm.php	39ed33d151d9e1e6d786fa7f62a5c92f
+M	src/Entity/Form/AccessTokenForm.php	7c43099ed1fc3db85e395f9860e288db
+M	src/Entity/Form/AccessTokenResourceDeleteForm.php	a968907e8961aff6771eacf41dac9b02
+M	src/Entity/Form/AccessTokenResourceForm.php	e422d7dfa0a7dfd9243485b2f5708750
+M	src/Entity/Form/AccessTokenSettingsForm.php	4d0650fb6d617213336e32ea6f45a379
+M	src/LockableConfigEntityAccessControlHandler.php	aafa4e69c73c4f97937619e7ea75950d
+M	src/PageCache/DisallowSimpleOauthRequests.php	2d4a50eb00443c81ed059a480876c4d0
+M	src/Plugin/Validation/Constraint/OwnOrAdminConstraint.php	7cc8564a8d99f599ced122436059127b
+M	src/Plugin/Validation/Constraint/OwnOrAdminConstraintInterface.php	2c0a6e0af42b6283aa3085ac388a6c74
+M	src/Plugin/Validation/Constraint/OwnOrAdminConstraintValidator.php	27bb5d6de5721f978acb21a62fa6d38d
+D	tests/src/Unit/Authentication/Provider/SimpleOauthAuthenticationTest.php	
+D	tests/src/Unit/Plugin/Validation/Constraint/OwnOrAdminConstraintValidatorTest.php	
+D	tests/src/phpunit.xml	

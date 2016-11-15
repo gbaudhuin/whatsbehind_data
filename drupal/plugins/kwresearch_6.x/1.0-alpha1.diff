@@ -1,0 +1,29 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	icons/google_insights_for_search.png	332af26b1c0e58faf50371cadebe6195
+M	icons/google_search_based_kw_tool.png	1e9c0db5d1c6879055f35c39a6242772
+M	icons/google_trends.png	afce1cc5f8e8d02c4fb914c109789c58
+M	icons/gorank_related_kws.png	94b626d9d32c9e83e895c8c24cff67b9
+D	icons/keyword_delete.png	
+D	icons/keyword_edit.png	
+D	icons/node_report.png	
+D	icons/page_keyword_add.png	
+D	icons/page_keyword_delete.png	
+D	icons/refresh.png	
+D	icons/site_keyword_add.png	
+D	icons/site_keyword_delete.png	
+M	icons/trellian_search_term_suggestion.png	a22ab82fb3a33ece38c3ab5e0844154d
+D	includes/contentanalysis.inc	
+D	includes/page_report.inc	
+D	includes/site_report.inc	
+D	includes/stats.inc	
+D	includes/stats_report.inc	
+D	includes/tax_report.inc	
+M	kwresearch.admin.inc	ea35bef26e02695b6391c337b3ad6b17
+M	kwresearch.css	21b9c54edd720104f9da0993c2a42fc0
+M	kwresearch.info	ea4eccf5079497d346ad6713cd6187f7
+M	kwresearch.install	7986c6d4abb01221f37e8fa965ffd8b9
+M	kwresearch.js	38e580e6ad77732adf5d46a24517c080
+M	kwresearch.module	166ef44047ba02aff5f0f417efce8e7d
+D	modules/kwresearch_google/kwresearch_google.info	
+D	modules/kwresearch_google/kwresearch_google.install	
+D	modules/kwresearch_google/kwresearch_google.module	

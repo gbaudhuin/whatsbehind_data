@@ -1,0 +1,21 @@
+M	README.txt	6da243c3b83e8a19fe4b125708640047
+D	ldap_integration/ldapauth.conf.php	
+D	ldap_integration/ldapdata.conf.php	
+D	ldap_integration/ldapgroups.conf.php	
+D	ldap_integration/libdebug.php	
+M	ldapauth.admin.inc	359b55dbdd49771e08a66b1048a0915a
+A	ldapauth.admin.js	0645954c97230f2a94f11d10365962c1
+M	ldapauth.info	9c14827856b22b45528fe6e42c4ddf2c
+M	ldapauth.install	3a40be70e7a6e33c21271a09c639e658
+M	ldapauth.module	6f899ae185ba8a96f696b7b7fb35a67e
+A	ldapauth.theme.inc	e2a232b4b402a13b262a2b23431e005e
+M	ldapdata.admin.inc	0dcc23a78f8d8b5beaf0f592b950fd1e
+A	ldapdata.admin.js	c330fe8604c6daec03df60bb8a3bac24
+M	ldapdata.info	c81ac98ae2121141a55640693f663977
+M	ldapdata.install	31072c243f7c12abbd9a5ac3b2073a51
+M	ldapdata.module	7826d3be588db6040d99c8266b6dd13a
+M	ldapdata.theme.inc	0596a551fb1e4bcc8b4d5ebe0231fe5e
+M	ldapgroups.admin.inc	b88bd3b01f8f115cf7e2f034fb2cb8c0
+M	ldapgroups.info	76ddf7c9b1f5dc52c50b7d2db9c65ebf
+M	ldapgroups.install	1d779cbe97abf37d9b2e9c9767a1088f
+M	ldapgroups.module	f1f0a91f64f6485fd84f3bdb27cdf0ea

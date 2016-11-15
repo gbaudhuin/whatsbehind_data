@@ -1,0 +1,13 @@
+A	.gitignore	e76165beefecdedb9ac91c57f8c17199
+M	CHANGELOG.txt	b8168819b4e6a407bb92777f02b655a4
+M	README.txt	870d1e2aed2244a58ecea7b65d083239
+M	Solr_Base_Query.php	3cb12673cd42f57555b242718ec1d49a
+M	apachesolr.index.inc	2da6617b09e73243c20c179a9b4e8f2d
+M	apachesolr.info	8b487397af54cdb43458d6aa7c0e99a2
+M	apachesolr_search.info	e5e483636127d62f692aa66745b68b24
+M	apachesolr_search.module	b58a8ea286b8c111134cd1d4eb9aedea
+M	contrib/apachesolr_image/apachesolr_image.info	1632bb55adf7d1b712239431c8e9e2b1
+M	contrib/apachesolr_nodeaccess/apachesolr_nodeaccess.info	73ed535986fb528bbfab17563ddb77bb
+M	contrib/apachesolr_og/apachesolr_og.info	77d7e93a5cfb1cd2a4d67e49ad5c395a
+M	schema.xml	74882fbbcc47b202eb4e51888cb3c4d8
+M	solrconfig.xml	dff6ab6e38a634a6225ac385142322d5

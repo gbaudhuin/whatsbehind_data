@@ -1,0 +1,9 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	mail_logger.css	15c4b37811012e152f35d190dc98cd09
+A	mail_logger.info	7b2f84910562c327ce752e4698f3b044
+A	mail_logger.install	0a1c3355dbbb8698e065b1d052761a4d
+A	mail_logger.module	e32b1f51192c02281a6b3df1addf8346
+A	mail_logger.rules.inc	ee92e22ad11c5c97511b868053e9c746
+A	views/handlers/mail_logger_handler_field_mail.inc	b8dae1e07ac46e1ba7a630cba565b0a0
+A	views/handlers/mail_logger_handler_field_mail_logger_entry.inc	e15be028250b119ff9cf8cf7b27410ac
+A	views/mail_logger.views.inc	edbc153ffebe830512ccf5642ae99ab6

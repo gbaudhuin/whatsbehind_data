@@ -1,0 +1,11 @@
+M	rng.info.yml	bc5f54464a9c42a4d46ae14cbf196c1b
+M	rng.module	ece9e140fff91ca44d626e5020c58092
+M	rng_debug/rng_debug.info.yml	a68ad614265e8d9d704cb2308316d900
+M	rng_views/rng_views.info.yml	584a89f224ce20c0540f949e7a74ac9c
+M	rng_views/rng_views.module	b232ed8456a207a91b8758ea73327f10
+M	src/Form/EventTypeForm.php	c9f927a8cd7b6331a4baa2f43de11655
+M	src/Plugin/Condition/EventOperation.php	c32b9e587b4c4cb09b2de4635c36130f
+M	src/Tests/EventTypeTest.php	4443e7ff35ec21904bd320034dc39e9e
+M	src/Tests/RNGTestBase.php	86a221238a3bda6312a690f0f86f2120
+M	src/Tests/RegistrationTest.php	751a514c5822fc751010266adc14405c
+A	templates/registration.html.twig	c4b3c353cd5a264de8fb903b7c92e538

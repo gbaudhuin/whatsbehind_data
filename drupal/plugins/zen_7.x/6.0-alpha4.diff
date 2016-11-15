@@ -1,0 +1,16 @@
+D	STARTERKIT/.eslintignore	
+M	STARTERKIT/.eslintrc	ad959c21b1bd5429494a37ad66de27f9
+M	STARTERKIT/README.txt	cc94a4969ad4a850ce7c0718aba94a7f
+M	STARTERKIT/gulpfile.js	083f7216423a9f0858a163628918e7a9
+M	STARTERKIT/js/script.js	7c6945d936a5badf2650a4607fefa8ce
+D	STARTERKIT/kss-config.json	
+M	STARTERKIT/package.json	a7e88b870ebec2dfacb1b85e06ce2f3e
+M	STARTERKIT/sass/_variables.scss	cc97dfe34b4f19c765663ac2e677db3c
+M	STARTERKIT/sass/base/headings/headings-h.hbs	7fd6d4f88975c05d6167d051f048cfac
+A	STARTERKIT/sass/components/nav-menu/_nav-menu.scss	fac1328c886578d17f683e0abdfbdfb5
+D	STARTERKIT/sass/components/side-menu/_side-menu.scss	
+M	STARTERKIT/sass/library/_rtl.scss	27b535254609295f09076d49d544f6a8
+A	STARTERKIT/sass/style-guide/kss-only.scss	d396ca9232b58efb23dad05fae131111
+M	STARTERKIT/theme-settings.php	88abc1aa4e75d3d1c380fc3698ba7ecc
+M	theme-settings.php	e3bcc9d5fb07b85115e1fa035df65433
+M	zen.info	f2535fcf45437b074f170993e504abd8

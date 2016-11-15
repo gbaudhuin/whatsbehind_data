@@ -1,0 +1,14 @@
+M	README.txt	5ec58cee250f74afbfdb44247d4d5c3c
+M	imce.info	45d4e1dd563564787f8f07a984b40fdd
+M	imce.install	bc51db86a1a26c25da714f4b8c0eb8c6
+M	imce.module	7ca34e38afc4c4cc4edb9386d39d4d1d
+M	inc/admin.inc	3c4cc180a8086f0064d200f0df7f715b
+M	inc/page.inc	ab3bb8a9dce25a83dd9f5ef71ae3337d
+M	js/imce.js	24461ce7055ba41674c17cc9c22ad005
+M	js/imce_extras.js	19d38a60aaa74ae3bf65e77c05401805
+M	js/imce_set_app.js	7a85aae9d6d9dee3b964eeb7c03ff0dc
+M	tpl/imce-content.tpl.php	5342b86bc60478201de789077d81af64
+M	tpl/imce-page.tpl.php	9a16cfb05311e7968781cb50fd00bf0b
+M	translations/fr.po	7bf505ef726146726f67bd745bf25f68
+A	translations/uk-ua.po	17f3ce170593cbbb1bfff4f16f3d36ca
+A	translations/uk.po	17f3ce170593cbbb1bfff4f16f3d36ca

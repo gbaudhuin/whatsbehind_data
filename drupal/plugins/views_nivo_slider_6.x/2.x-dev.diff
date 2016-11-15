@@ -1,0 +1,16 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	js/jquery.nivo.slider.pack.js	ee4291138cf90f1b5d01665b73c38385
+M	js/license.txt	91dec6765c633ccbd6d0fa9361e9f7bb
+M	js/nivo-slider.css	79840961ee4fc89ee2850830ba66f9dd
+M	js/views_nivo_slider.js	d7ac5eec99c3124f2358bb0429cec043
+M	styles/default/custom-nivo-slider.css	72fd191680261d42a070da19d8390720
+A	styles/default/loading.gif	dd6b7b0bf5c3af22499abc0a9ee1e1b2
+M	views-nivo-slider-view-nivo-sliderfields.tpl.php	7f275c65683d17f980f9bbaca031d3ff
+M	views-nivo-slider-view.tpl.php	3a7bae2acec0f45625d0d90c04f08c57
+A	views_nivo_slider.css	48142751459f998d99340758ebb4df64
+M	views_nivo_slider.info	96fd314b544288c4987252f636166ec9
+A	views_nivo_slider.js	74c1d0b4cdc347c3359f7d8f89512830
+M	views_nivo_slider.module	4c3be8f3743fdcec8a833953e91f3bec
+M	views_nivo_slider.views.inc	c1891faebeb232e5720ae62e38bc2525
+M	views_nivo_slider_plugin_row_nivo_sliderfields.inc	4d2eaf7b7e18979bdfdb33021afb0818
+M	views_nivo_slider_style_plugin.inc	7cb5031926c807e63a39526032a16730

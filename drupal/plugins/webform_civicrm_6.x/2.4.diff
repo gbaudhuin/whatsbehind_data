@@ -1,0 +1,8 @@
+M	README.txt	0001518be17af242dd5fca2191427216
+M	webform_civicrm.info	191db001426386e31410966ad1e54b87
+M	webform_civicrm.install	ba41a4dde161d2eb43fa1f18b631f17c
+M	webform_civicrm.module	643a2d5fad8390e78a7504adf46ee9d8
+A	webform_civicrm_admin.inc	464eb1a3e7015e6d1e3e68ae9607d1f2
+M	webform_civicrm_d6_functions.inc	f799e34dc0bedd78e6cf38c7b771f8ca
+M	webform_civicrm_forms.inc	778fcdb5671fb09d5923d07c6687e8f5
+M	webform_civicrm_utils.inc	855e0ce2d682a527cde009cb009c2393

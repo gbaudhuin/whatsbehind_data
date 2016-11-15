@@ -1,0 +1,13 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	715a96c43cbdf5478294adaf490ea851
+M	js/quicktabs.js	2e9619c1f1c6472cf53912be4725d20c
+D	js/quicktabs_ahah.js	
+M	js/quicktabs_form.js	f33c60227bf0ec2eefa4692ec82e5b28
+M	quicktabs.css	f1fe339fc80d2795708f4bc675ea7c1d
+M	quicktabs.info	9727f73514302a66663b874de9cf963e
+M	quicktabs.install	40230ffbde3143418c27d70a69dadf28
+M	quicktabs.module	6f31c186737153dcddca546148c57182
+D	tabstyles/sky/images/bg-shade-dark.png	
+D	tabstyles/sky/images/bg-shade-light.png	
+D	tabstyles/sky/images/bg-shade-medium.png	
+D	tabstyles/sky/sky.css	

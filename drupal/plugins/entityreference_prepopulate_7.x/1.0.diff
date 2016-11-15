@@ -1,0 +1,8 @@
+M	README.txt	e834a338781feccf3c36819d0116645d
+D	entityreference_prepopulate.api.php	
+M	entityreference_prepopulate.info	1e781301ed432bb5b4a1a145e84ea4da
+M	entityreference_prepopulate.module	6eb8a96e21610d55e98c6dfa49a3eb95
+D	entityreference_prepopulate.test	
+M	plugins/behavior/EntityReferencePrepopulateInstanceBehavior.class.php	f5b0f31b16cfec54780f49711cc71c1b
+D	tests/entityreference_prepopulate_test.info	
+D	tests/entityreference_prepopulate_test.module	

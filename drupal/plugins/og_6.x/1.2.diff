@@ -1,0 +1,17 @@
+M	includes/og.rules.inc	9bb34352d2a0a0558ef6c43629d63a1c
+M	modules/og_access/og_access.info	070ecee857fcf5f88c9a2219bbfe4eb0
+M	modules/og_access/og_access.module	9c12fb8243367179a3dd70491a65a015
+M	modules/og_actions/og_actions.info	55d9d469efc77e3408757e9ed4bacea6
+M	modules/og_notifications/og_notifications.info	760c39e0dfe0697b708dbb6092516974
+M	modules/og_notifications/og_notifications.module	6cb1f6780dfa6726738d5807cf640419
+M	modules/og_panels/og_panels.info	fbdc7974fbfad8de9789a2aca2829848
+A	modules/og_views/includes/og_views_handler_field_og_uid_groups.inc	e3544b3ed415c584188096dab435c535
+M	modules/og_views/og_views.info	5028774d6da4e710eab4bc6fb0aa3daf
+M	modules/og_views/og_views.module	c1ec913b789518b5d28f017522d39f36
+M	modules/og_views/og_views.views.inc	7fc2a81185d687a50b44c83c7a7ff5f0
+M	modules/og_views/og_views.views_default.inc	d7cf62652269d4dc06dbe5e5ac28474e
+M	modules/og_views/views/og.og.view	6920307285447d8edd74930a7c9d37b6
+M	modules/og_views/views/og.og_my.view	15074f168efcf733480e5cdef86c4aa4
+M	og.info	fc23378760d2093c88e6bf73f9dca5fc
+M	og.install	7ee5a47457202b0d7b196824af05ca01
+M	og.module	0572bda3e97802f6a7952c5564570af6

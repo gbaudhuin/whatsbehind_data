@@ -1,0 +1,9 @@
+M	README.txt	00394303f4e32ebe52432e6da9d55ff3
+M	social_stats.admin.inc	67e5aeac70825c7036597dd3d53c0c41
+M	social_stats.info	72dbf3b95597208d941371ca0c21c716
+M	social_stats.install	6f5f5f2c1f8d45fd4d79fa48e8adb037
+M	social_stats.module	0b76113bd63daf25f0ce5e0c5b5e0d6d
+M	social_stats_panels/plugins/content_types/social_stats_total_shares.inc	e69ed3ff451193cdf14e2200c19ec0b6
+M	social_stats_panels/social_stats_panels.info	71ccff8a6619ae45d4a0de305dd4608e
+M	social_stats_views/social_stats_views.info	2fa2843099447d0b0d5aa56ddd8492da
+M	social_stats_views/social_stats_views.views.inc	600b1191894747f5846dc0c473c027c5

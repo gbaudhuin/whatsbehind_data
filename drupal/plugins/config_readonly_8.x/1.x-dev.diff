@@ -1,0 +1,10 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	5c787bab32c57dc261c8c66f9fd0237c
+A	config_readonly.info.yml	6cdf5d3d114e43ffba6424fbec46f3d0
+A	config_readonly.module	07dfec6b5e0ce26a3b4fd8b7457f02aa
+A	config_readonly.services.yml	1a10f3215114177858e24be4fb81ca54
+A	src/Config/ConfigReadonlyStorage.php	2c6f99e386f1332311f1982243d248f0
+A	src/ConfigReadonlyServiceProvider.php	64f12c90361d91ab3255265ebed7bfad
+A	src/EventSubscriber/ReadOnlyFormSubscriber.php	c83debe64541d9ea0c42a64e223916ef
+A	src/ReadOnlyFormEvent.php	ce07f50cb51030925faf9413a074adca
+A	src/Tests/ReadOnlyConfigTest.php	0cae1645406b46b87580abd771ade6e3

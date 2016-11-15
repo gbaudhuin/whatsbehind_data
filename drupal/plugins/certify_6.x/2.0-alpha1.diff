@@ -1,0 +1,15 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	certify.classes.inc	6f2c2d0c17bec4be5628804d06cfc476
+M	certify.info	aa50372ae57995e86fe9350d44974b91
+M	certify.install	90148bc76b60ff12fa3852a12a9cc190
+M	certify.module	f3627b4aa8f3da9fd6c53e13de6e8014
+M	certify_book/certify_book.classes.inc	ff1d0bbc7eb8ab23deda1cc0a288bc36
+M	certify_book/certify_book.info	d557f8769d7b0bd27e8103d607059cdc
+M	certify_book/certify_book.install	a1536877b5e37b5560d1e8dad01f1eff
+M	certify_book/certify_book.module	c9bd8a87622f08f300aee8bb346a94f4
+M	certify_book/theme/certify_book_view.tpl.php	15cc9ac4f8dc59ea6dc1f3ef7a6c258b
+M	certify_quiz/certify_quiz.classes.inc	ec1cc950313944bb81b76e55e02daf06
+M	certify_quiz/certify_quiz.info	4fd137f90c1ef67d5cb35e4a21381c20
+M	certify_quiz/certify_quiz.module	6cb43a1be36ed77ad692ddb73bb4c581
+M	certify_quiz/theme/certify_quiz_view.tpl.php	b70ec4ecca80c1ef56cfcb7686d6f57b
+M	theme/certificate-single.tpl.php	2ab4a1b9cecf5b7ebaea476a469dbd02

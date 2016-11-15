@@ -1,0 +1,4 @@
+M	commerce_reorder.info	54d2f5e2e1f278a7c34f8d6cdeed9f69
+M	commerce_reorder.module	fe276646850d2530ff5370365ce49f16
+M	includes/views/commerce_reorder.views.inc	1f142cb89abe5a575c7b9cf51580ae2e
+M	includes/views/handlers/commerce_reorder_handler_field_commerce_reorder_button.inc	e922bb1fa5511236f250fc86ae62a88f

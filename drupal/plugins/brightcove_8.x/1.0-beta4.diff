@@ -1,0 +1,9 @@
+M	brightcove.info.yml	4923c9c3491639a43df06506155fe597
+M	brightcove.links.menu.yml	47db7530d6afd4e1e86f733a6e9db374
+M	src/BrightcoveVideoInterface.php	918facd3681de16523b677a7104a66ff
+M	src/Entity/BrightcovePlaylist.php	8821f8c080d99cabdf2e5a3a17dd752a
+M	src/Entity/BrightcoveVideo.php	8100bf9bdd5c5d2f314d8932a370790d
+M	src/EntityChangedFieldsTrait.php	98475b1a3575ca4a4af9af5528d475fb
+M	src/Form/BrightcovePlaylistForm.php	f2fbc020a7d6a30e7809dcd36c36c06a
+M	src/Form/BrightcoveVideoForm.php	01096b57d493a3acb63e525ace52ba4d
+M	src/Form/BrightcoveVideoPlaylistForm.php	a30b47fdc6a1083251b1f6af51e4ce77

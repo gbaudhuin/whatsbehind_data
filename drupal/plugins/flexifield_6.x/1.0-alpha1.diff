@@ -1,0 +1,15 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	28d22773cd049730269eed95f4e44e69
+D	flexifield-cck-overrides.inc	
+D	flexifield-test.inc	
+D	flexifield-widget.inc	
+M	flexifield.info	004f0ad0c69d2b59ffc539bcbad904c2
+M	flexifield.install	1a2f41edf30c6257336043e5ffaab61e
+M	flexifield.module	ff5de9af2d501d83b70d28efccea6e02
+D	modules/displaycontexts/flexifield_displaycontexts.info	
+D	modules/displaycontexts/flexifield_displaycontexts.module	
+D	modules/fieldgroup/flexifield_fieldgroup.info	
+D	modules/fieldgroup/flexifield_fieldgroup.module	
+D	modules/filefield/flexifield_filefield.info	
+D	modules/filefield/flexifield_filefield.module	
+D	views/flexifield.views.inc	

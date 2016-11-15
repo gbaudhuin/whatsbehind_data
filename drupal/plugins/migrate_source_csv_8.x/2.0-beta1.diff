@@ -1,0 +1,9 @@
+M	composer.json	72dc4018b9ae1612002f9fd604d2b48b
+M	config/schema/migrate_source_csv.source.schema.yml	70899ffa57fe6b058026f563bad3fd93
+M	migrate_source_csv.info.yml	4927f1a15a6ef2fdd5574c8eda0292fa
+A	phpunit.xml.dist	59a894cb4bbd2904a725b5672895c8e9
+M	src/CSVFileObject.php	46f7115599591afac293df51acb8f93d
+M	src/Plugin/migrate/source/CSV.php	2ab87df25bc68afa91af30aa535348ec
+A	tests/bootstrap.php	3b979d155c3d6008fec5cbec557909e2
+D	tests/src/Kernel/Plugin/migrate/source/CSVKernelTest.php	
+M	tests/src/Unit/CSVFileObjectTest.php	bd803ed690381ce5bf91c3eb8667b5ea

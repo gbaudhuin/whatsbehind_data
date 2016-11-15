@@ -1,0 +1,17 @@
+M	INSTALL.TXT	7ac6e7da1a66f39d0edcbbbbb493b11d
+A	comment_notify-rtl.css	b742f9c8e140c4033c7b9b366e610308
+M	comment_notify.css	4ad60fe8efc92ac95259e8bc0a8411e8
+M	comment_notify.info	73ed3a353d385f8701d9d3d8170e03be
+M	comment_notify.install	e9081264762d2719781bb2839156d65d
+M	comment_notify.module	83bb537198fa1332db8b8051af202089
+A	comment_notify.test	a6f64691d47b8cb9b8d323e15f1bb034
+M	translations/comment_notify.pot	ec7408f8f7d10bce34f4c98c53f3d1e2
+A	translations/da.po	05bb09bd71811f7dd5f0419ab57131be
+M	translations/de.po	a3994bf5d355752edd93e9840aa0e3b0
+M	translations/el.po	c38be3d25d7b2c7bbf0ca2fe9ace1b5c
+A	translations/fi.po	924d09b1cf827a21734418b2249de51c
+A	translations/fr.po	444a804075bafa00988d6a9a6a4940b0
+A	translations/ru.po	cc24fe3a0bba15e71e4c25212a5835e2
+A	translations/sv.po	209d699897ea32e7f84d3df1e8c8e122
+A	translations/tr.po	543489e4aad1a292398271ac49b4a10e
+A	translations/uk.po	7d4419fa9d0d3239775cebb6da203a08

@@ -1,0 +1,6 @@
+M	audit/storage_audit.info	54a3d818ac5b41136dbc7b22d09b4d65
+M	audit/tests/storage_audit_test.info	8288273993e4fe5d95ef2d06392b923c
+M	core_bridge/storage_core_bridge.info	ff7740f0568141c46f0ab85de8cf43f1
+M	services/s3.inc	4b282ea51260dcc46cc6ac3cb2905f25
+M	statistic/storage_statistic.info	4660826f46d0ab628e6bd7b2ec72e00f
+M	storage.info	5127b52149cc3b689104e9e2d2a5a0e7

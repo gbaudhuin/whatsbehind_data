@@ -1,0 +1,17 @@
+D	composer.json	
+M	config/schema/geofield.schema.yml	cb02d376f864d5c97a85673b692a564e
+M	geofield.info.yml	b8a3395079f938e131edca3418696674
+D	geofield.libraries.yml	
+M	geofield.services.yml	28e2e2bd446f46691ce397dacf650e74
+M	src/Element/GeofieldElementBase.php	80d85ebf341f4d1f919402be4517ffeb
+M	src/Element/GeofieldLatLon.php	b8fccfc5c6181470c07633546ede3d0d
+D	src/GeoPHP/GeoPHPInterface.php	
+D	src/GeoPHP/GeoPHPWrapper.php	
+M	src/Plugin/Field/FieldFormatter/GeofieldDefaultFormatter.php	2109434b2d56dccfbdadc95eaad97638
+M	src/Plugin/Field/FieldType/GeofieldItem.php	414aa6ac28ab6bff4343b7db10807d18
+M	src/Plugin/Field/FieldWidget/GeofieldLatLonWidget.php	13385b5c465b82dc3a82d0d50a590a4d
+M	src/Plugin/GeofieldBackend/GeofieldBackendDefault.php	c39327bf7e2999f0e2bec9f9039d7b35
+M	src/Plugin/Validation/Constraint/GeoConstraint.php	e9753d00da43a1dc83de42230a8d203e
+D	src/Plugin/migrate/process/GeofieldLatLon.php	
+M	src/Plugin/views/sort/GeofieldProximity.php	9cc0687e87fb6bcc659128b683af8060
+M	src/Tests/GeofieldItemTest.php	22f528afdfeddd09b1b21e1fd9f5441c

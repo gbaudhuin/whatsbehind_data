@@ -1,0 +1,19 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	32ea161dd8df10540362a0be12542df9
+D	includes/purl_domain.inc	
+D	includes/purl_extension.inc	
+D	includes/purl_pair.inc	
+D	includes/purl_path.inc	
+D	includes/purl_processor.inc	
+D	includes/purl_querystring.inc	
+D	includes/purl_subdomain.inc	
+D	includes/purl_useragent.inc	
+D	purl.admin.inc	
+M	purl.admin.js	699d7294d38230d46f76ae63f9d8a1e2
+D	purl.api.php	
+M	purl.info	0e7f710e972c82d7dc1fc57c16cccbb3
+M	purl.install	397123386b51d2c2c49c2bbd5c6d99b3
+M	purl.module	65ede3e8b85dc5dc2386e05f85e8bb7c
+D	tests/purl.test	
+D	tests/purl_test.info	
+D	tests/purl_test.module	

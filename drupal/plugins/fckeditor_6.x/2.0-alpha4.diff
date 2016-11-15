@@ -1,0 +1,32 @@
+M	.cvsignore	3882a6b1e73111f4c09183528ce70481
+M	CHANGELOG.txt	39592517d9b7e650dd9165a3bc925228
+M	README.txt	b485028815bd3ba9050d41d3698b35e5
+M	TROUBLESHOOTING.txt	5cb1da98aea909fc2180edac186eefec
+A	fckeditor.admin.inc	dd6e4dacd41201fd2bf219fbd4a06af0
+M	fckeditor.config.js	a703a0f9ac836c9da98a94050369f6ae
+M	fckeditor.css	7a4c399fe9a97737c3f79655e25cf6ba
+A	fckeditor.help.inc	9a99f332c13b488f2b87d751caecf817
+M	fckeditor.info	a8eb3438b12517795ac9c0cf138ccdbe
+M	fckeditor.install	21eaef4732d293fed44541ff106cafdc
+A	fckeditor.lib.inc	07c454b9376d5430552aea7642f205f3
+M	fckeditor.module	7e57724756561033d63b1c747b7acc0f
+M	fckeditor.popup.html	274e7b4a452b0bbaa030f7f26acf4cdf
+D	fckeditor.popup.js	
+A	fckeditor.user.inc	f1c81383e8eb0767257759b4342413c9
+M	fckeditor.utils.js	d52b5f2c65e3bc3afb6d42b96ab5ac5f
+M	filemanager.config.php	7d61f78516048e32e311e8888962fd62
+M	img_assist_fckeditor.js	3a2c6b73174a6bdd7a5702634d110ad4
+M	plugins/drupalbreak/fckplugin.js	e36692ff1b17d126fb6aedb4e56affc0
+M	plugins/drupalpagebreak/fckplugin.js	8fe95bcd4780450adbee95eef86794f6
+M	plugins/imgassist/fck_imgassist.html	c09c74fb2e18fbf30cab317932de64e5
+M	plugins/imgassist/fckplugin.js	ac35f4deae933b79f2794ff93d5573cb
+M	plugins/linktomenu/jscripts/functions.js	dee83686fd657941b53f29f2ef0f9a5d
+M	plugins/linktomenu/jscripts/utils.js	0d0a6c6d83f47a99faae87c998ded964
+M	plugins/linktonode/jscripts/functions.js	1c8e7c0b2c0dbf3e208cbc4c6a9b0693
+M	plugins/linktonode/jscripts/utils.js	a0c207a9f30220431c0490f902372401
+D	translations/cs.po	
+M	translations/de.po	20bc3d7055194438993abb70b013c177
+M	translations/fckeditor.pot	f051981e0a8f1c2fd9c51d0cbdb60f97
+D	translations/fi.po	
+D	translations/hu.po	
+M	translations/sv.po	dee33d6c30ae610acaf4cc13a6d43c17

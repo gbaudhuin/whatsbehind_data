@@ -1,0 +1,12 @@
+M	includes/simplenews.admin.inc	fd2769fc69d743d230cd09481fba6a48
+M	includes/simplenews.mail.inc	e8cd0bde07ef017f27ed0f195b95ad40
+M	includes/simplenews.subscription.inc	d11a6bc612015167bb66db4c69a88151
+M	simplenews.info	e6095607f61933f712cbc163ae80acec
+M	simplenews.module	f3e25ccbea20560f822c4e2e23cf9a5d
+M	simplenews_action/simplenews_action.info	f3f2bb1c338bd94c8d1dceb21de6ef66
+D	simplenews_test/simplenews_test.info	
+D	simplenews_test/simplenews_test.install	
+D	simplenews_test/simplenews_test.module	
+M	tests/simplenews.test	cf056d5b2ef610898bfb68810b1bd3d2
+M	theme/simplenews-multi-block.tpl.php	9a960fdd2f90b329ed7050f3834f1f6d
+M	theme/simplenews-newsletter-body.tpl.php	c7fec4c5f5180b8c5786647e2f404d65

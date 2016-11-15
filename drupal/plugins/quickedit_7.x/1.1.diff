@@ -1,0 +1,19 @@
+M	InPlaceEditors/CKEditor.php	aa10f308d723b2910d0eabc9da14ba54
+M	README.txt	647815a2175654f80d7570a638564e68
+M	css/quickedit.theme.css	cd845a8099fdc4b7b7ea0002789f2d35
+M	includes/EditEntityFieldAccessCheck.php	d39df7d5b6bd9be8104662516868821f
+A	includes/EditMetadataGenerator.php	491f7b388d9e91f2c613f15dea34f84f
+M	includes/QuickEditMetadataGenerator.php	491f7b388d9e91f2c613f15dea34f84f
+M	includes/filter.inc	d6eb60ed6bcf7b2410256ebe827802f5
+M	includes/panelizer.inc	181673a497093f0cf4d12f1fe0011bbb
+M	js/editors/formEditor.js	9056e58f9ed85347432bd60923e9dd27
+M	js/editors/formattedTextEditor.js	c492b700476733462e9242a0120031f2
+M	js/editors/plainTextEditor.js	33f6aba01971de5ed536b2c2d4e65f76
+M	js/models/EntityModel.js	2e509631a711ded2c574b6aec779e6a1
+M	js/quickedit.js	0fae47ba400cee9bde2aadd747af2d6f
+M	js/views/FieldDecorationView.js	619434c8c71162c458065af28840cb47
+M	quickedit.info	52f74185c0262c04c7ed83c2d0d78614
+M	quickedit.install	586bf18aca404929d7278507da2a10b9
+M	quickedit.module	b1d1136af2ea0f1382dc7b71b00b83af
+D	quickedit.quickedit.inc	
+M	tests/quickedit_test.info	bcbd1d47d4161e2b619ab776f22e3dfb

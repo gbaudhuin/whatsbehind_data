@@ -1,0 +1,11 @@
+M	README.txt	ae36b6ae9db9251604bf2f13a8740922
+M	petition-signatures-admin.inc	b042fc665067a6b213c984671d5dcfb8
+M	petition.info	4c23d5d4c14f653cd54232c6d18d5317
+M	petition.install	d80da26a8235591aa8b81ec5a399e362
+M	petition.module	78846a4a2499871f8d52a560f8b28c31
+M	signaturedisplay.css	3d7d63468ef1fccd748c7cf22fd74698
+M	signaturedisplay.info	02cdd1d36c53de1bf17a1f3b8430090c
+M	signaturedisplay.module	d2507bbc7c255f6874318b14abeeed8c
+A	translations/fr.po	9ec08664253cd5ec53c2ee8fee2cda60
+A	translations/it.po	f67e1bb9bcf0537b15542b54159afe20
+A	translations/petition_node.pot	ae4e1b4285e223a3deb7bc85fcf6570e

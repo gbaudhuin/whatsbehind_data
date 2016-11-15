@@ -1,0 +1,28 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	2988e1bdced1878410d312bc8ab01ba4
+M	images/aol.png	33bb02c6a0da1a285bdd1c3f7e4dfe54
+D	images/blogger.png	
+M	images/facebook.png	b9c0ff98e6f3139fdf34c195c22ea4c8
+D	images/flickr.png	
+M	images/google.png	f2f6b994d2c44c3384033aaf5a9ea75a
+D	images/hyves.png	
+D	images/linkedin.png	
+A	images/live.png	50740beec2177de8a78b8603d6eee371
+D	images/live_id.png	
+D	images/livejournal.png	
+D	images/myopenid.png	
+M	images/myspace.png	3f9844af7b51b0b6fc8b8c4bc4598450
+D	images/netlog.png	
+M	images/openid.png	d254ab470a0658523260346e660b111b
+D	images/provider-icons.png	
+D	images/twitter.png	
+D	images/verisign.png	
+D	images/wordpress.png	
+M	images/yahoo.png	ba4940d81baefb35f2811f7bec1c13e2
+D	rpx.admin.inc	
+D	rpx.class.php	
+D	rpx.css	
+M	rpx.info	99e199263613e353725fc016a8916e0c
+D	rpx.install	
+M	rpx.module	647c694135926ca05798c02e6cdf8810
+D	rpx_xdcomm.html	

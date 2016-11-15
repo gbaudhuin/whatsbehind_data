@@ -1,0 +1,11 @@
+M	plugins/video_s3/video_s3.info	fd6a88ab45a59fb98cfdd79411fbfbe1
+M	plugins/video_zencoder/video_zencoder.info	d1f008d3d2d93bc49ef38b25c2285c4c
+M	plugins/video_zencoder/video_zencoder.module	a2ab6c3bb42854eccc4e92c58a334dc0
+M	transcoders/video_localcommand.inc	d1d55df9adffbcfca1e443b34e14da98
+M	types/uploadfield/uploadfield.info	ea91b6b67aa038fa07afeaef88cf359f
+M	types/uploadfield/uploadfield.module	6403a91a42965e40c7269f20f1a4fd67
+M	types/videoftp/videoftp.info	4a4bece8e6eb82935deded9b066d5282
+M	types/videoftp/videoftp.module	49dbcf718033cb96e544ea4ab16aca69
+M	video.info	0e7976063f17645e61fa52544b4ca2d7
+M	video.install	c12aae00e004a3885dd2a0a25649a085
+M	video_widget.inc	eb97b65420bdee01d87a2c57ba60a8e2

@@ -1,0 +1,11 @@
+A	CHANGELOG.txt	a4eb0b7d0ba4fec81dbb6cdd721f1e07
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	ab34fa2c958e2f5ca5434b37fb0171af
+A	config/install/user_registrationpassword.settings.yml	9cb84d0fec2d6c7ac9f6c0375b210034
+A	config/schema/user_registrationpassword.schema.yml	67f4e9a443943a18c2cade228800b496
+A	src/Controller/UserRegistrationPassword.php	54bab8748c8393fb3a593d79b285029c
+A	src/Tests/UserRegistrationPassword.php	b756b66c1e62b094b548fa21221beb15
+A	user_registrationpassword.info.yml	17d291497f5c0879ea63883d3aeb0847
+A	user_registrationpassword.install	4dddbfffccb7334ff7581f39e160db27
+A	user_registrationpassword.module	e7c32e22d079de4959be090c5ffe97e1
+A	user_registrationpassword.routing.yml	eb0b64d0a60e21932d76fc2d1d5dbbeb

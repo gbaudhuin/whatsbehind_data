@@ -1,0 +1,19 @@
+M	css/fivestar.css	44b88fd6ae76b016a33fd0c63ba871ed
+M	fivestar.api.php	f4edfc39e083d62bab7eab1cd6401547
+M	fivestar.info	507ccc2981b06b05bc24dd00f3793215
+M	fivestar.install	f365b88961beec69136c26ad92e1fea3
+D	fivestar.migrate.inc	
+M	fivestar.module	dae3acc4b4fd562713a7d9ecf6e8cb72
+D	help/about.html	
+D	help/advance-settings.html	
+D	help/api.html	
+D	help/fivestar.help.ini	
+D	help/getting-started.html	
+D	help/images/widgets-preview.png	
+D	help/widgets.html	
+M	includes/fivestar.admin.inc	4ceb7d4ce6ef8fd5a57d9fbe0b6117ed
+M	includes/fivestar.field.inc	f641c4d1ca369dc667930e80aab4a753
+M	includes/fivestar.theme.inc	d5b7a8f480a1bfc18e54ee3a74aca908
+M	js/fivestar.ajax.js	88509dd12deb82e4cbce03b2da5e1702
+M	js/fivestar.js	1136d1f27f1081db21e1c57be4e06891
+D	test/fivestar.base.test	

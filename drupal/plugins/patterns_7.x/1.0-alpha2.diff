@@ -1,0 +1,50 @@
+M	.gitignore	40f4378a098975188586d3086517e02e
+A	CHANGELOG	713ab4c88664ffb329f7d75bd57d7166
+M	components/block.inc	fd715796dd52fa19f683328afb3694cc
+A	components/field.inc	51173c4006b99b3237f2d50342dd620e
+M	components/menu.inc	3440b6fda035f40985001c241d5828a3
+A	components/node.inc	e206f5c792fdcd0b4b1782783036076f
+D	components/patterns.field.inc	
+D	components/patterns.node.inc	
+D	components/patterns.taxonomy.inc	
+M	components/system.inc	c2f8c77a2d59902580046a39871eecb7
+A	components/taxonomy.inc	eceed74ad32538c4a664f974f1d0fa72
+M	components/user.inc	ceabe721f15e461c74d080abab3e46cb
+M	doc/patterns.html	d708f3273559bf2b5be5f132686993a6
+M	doc/patterns.txt	35a773380f55fe8bbb728d4cf868f4a4
+A	includes/export.inc	a2757d9d87aeb69f841ea83940d3f6de
+A	includes/imports.inc	b5aa9a2c6fa09ce05846fd8146e31070
+D	includes/patterns.imports.inc	
+A	patterns.drush.inc	ae52290081aed6c1a49f78a45fb65865
+M	patterns.info	7672532b5ee2e5a76238fee5e27284c0
+M	patterns.install	70f2ae74720c5ff6a97386f5d4f7fba0
+M	patterns.module	a7e45a1d15c5238f967c05a5860d786f
+M	patterns/fill_forms.yaml	620af77d4b355e18fef22b853853dcc5
+M	patterns/menu_item_delete.yaml	6238668828cc1769bc85ddb5b03b30f6
+M	patterns/menu_item_modify.yaml	5328bf46abb1a3095b93390df6b5ce97
+D	patterns/navg_onepage.yaml	
+A	patterns/node.yaml	4ad8fb42a9eedf5ec87647cf4baaeb5c
+A	patterns/node_delete.yaml	a21671826a37c441a7cf74f441022caf
+M	patterns/theme.yaml	f2a21bee5d73b611fd424ec235146b8e
+M	patterns/user_role.yaml	d356da527abbc845a9e1a15557d86744
+M	tests/block/block.test	4c615bf560be805384e2ca508d79450f
+M	tests/menu/menu_item_delete.yaml	43fcf3bc6947946708d1d2bb24411969
+M	tests/node/content.test	3a9a5def6626a54d91cce73ef0c378e0
+A	tests/node/node.test	bf1ccc0fbe6511e2d0f6a07a446c1a73
+A	tests/node/node_delete.yaml	a21671826a37c441a7cf74f441022caf
+A	tests/parser/invalid/patterns.parser_missing_actions.yaml	269aa35ada72817c7a144062f7f9330b
+A	tests/parser/invalid/patterns.parser_misspelled_tag.yaml	cf38ee491e1c12447457eb1a13bc18b0
+A	tests/parser/parser.test	d5b421df430c44804c5e135e0d469e03
+A	tests/parser/valid/patterns.parser_ok.yaml	40486cf7aa56f05b4b00c250d7523a4b
+M	tests/patterns.test	cd91066af3f17078d332390670bd71f9
+A	tests/shortcut/shortcut.test	37c226855341accac77bfd4ba139118f
+A	tests/shortcut/shortcut_add_link.yaml	e5474b8273dfdc3e6ddb2d37cb4b78ff
+A	tests/shortcut/shortcut_add_set.yaml	174ce176b829596e3aed2271288b0b87
+A	tests/shortcut/shortcut_delete_link.yaml	372058523c0f138c2df8282a8bbc7b8d
+A	tests/shortcut/shortcut_delete_set.yaml	1a94d47682a22b733bf530cec27e9cbb
+A	tests/shortcut/shortcut_edit_link.yaml	c3cdc87f0b3115b4c6dc6a4ae48dd035
+A	tests/shortcut/shortcut_edit_set.yaml	2b14fab2091dbd062d2bec2e13d67827
+A	tests/shortcut/shortcut_set_switch.yaml	fffca21691c5d1f80708eca84fa9d247
+A	tests/system/fill_forms.yaml	620af77d4b355e18fef22b853853dcc5
+M	tests/system/system.test	190d5a49fef70059c229fc2f39a4a249
+M	tests/system/theme.yaml	5ffe5b922d05300d48560bf0ad67e5ee

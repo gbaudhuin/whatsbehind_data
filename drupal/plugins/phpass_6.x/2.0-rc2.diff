@@ -1,0 +1,8 @@
+M	INSTALL.TXT	5d0f829628b32d54d95b39058c09fc56
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.TXT	5a63371b0e5ae4584383da3aa9e892a8
+M	password.inc	913302a811418f99c54d24ff12dbf237
+M	phpass.info	c93858d950fab162c41e841ebaad71a5
+M	phpass.install	4bc61c9a9feff45d3df8d2eb1e93d7b4
+M	phpass.module	03dd5e37c3e21444781f75c4fe6b2940
+A	user_load.D6.patch	a771e0bb738194499cd76aea39c638cc

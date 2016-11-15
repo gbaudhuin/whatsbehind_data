@@ -1,0 +1,13 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	524372fdee6b59036efc490129c8cff4
+A	smtp.admin.inc	65f023b4d2218ecbcc0182c6c3fdd291
+A	smtp.info	7909216a1ddfeae2cfe182910690fce4
+A	smtp.install	2fb56f5e1ac8e35915109f1786d2b89b
+A	smtp.mail.inc	52c936b6eb93c92f4f4d78e7f3907daf
+A	smtp.module	0ca121a6f0ac7eee9597b1cd27a77611
+A	smtp.phpmailer.inc	dbe90dd5e656646c8773d9a39ffa36c3
+A	smtp.transport.inc	916730829d534a40c9c5d9191865846c
+A	smtp.variable.inc	d1a20a1a17403482fc29c57ae9234089
+A	tests/smtp.unit.test	3c8db1a573b713ec24d160e23a72e835
+A	tests/smtp_tests.info	8721156e09221b079f98ef9004c5cfca
+A	tests/smtp_tests.module	e013021b166730f00b39d5ecbdbd2899

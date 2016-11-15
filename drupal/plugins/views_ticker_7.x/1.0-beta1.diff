@@ -1,0 +1,8 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	includes/views-ticker-view.tpl.php	401257bbd9eaa8d7196a9d7c7cc4ae47
+M	includes/views_ticker.views.inc	062b4cbf50b180e4a7b30e55a10c7024
+M	includes/views_ticker_style_plugin.inc	cd61b36363b953fde04a2e4b162b80da
+D	js/jquery.vticker-min.js	
+D	js/jscroller2-1.5.js	
+M	js/views.ticker.fade.js	868e5b0c01ffc556423b12cc04822b06
+M	views_ticker.info	f0ba30b344de74b0b6f9de9c7a25e7bc

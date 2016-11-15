@@ -1,0 +1,14 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	composer.json	fe73a4a488a427f31c3176206b91565f
+A	src/Annotation/TwigPlugin.php	10a97da80886bac06f367b17500f6310
+A	src/Plugin/Twig/TwigExtensionInterface.php	3003e32bec75d07dc673cc26aea2d930
+A	src/Plugin/Twig/TwigExtensionsPluginManager.php	0531f88c5600d5671ae93081b188495e
+A	src/Plugin/Twig/TwigPluginBase.php	c79e49a2418d5fe689023b0555193a2e
+A	src/Plugin/Twig/TwigPluginManagerInterface.php	8125d370dfd829944bf892b0fa6fe871
+A	src/Plugin/TwigPlugin/BlockView.php	d07c699a72a2e440d82b74f2dd447297
+A	src/Plugin/TwigPlugin/Truncate.php	b899d7c1399ad50305bed767828ec27c
+A	src/Plugin/TwigPlugin/UserIsLoggedIn.php	102ec5d6c6e2f954ef4a2293be892cb0
+A	src/TwigExtenderService.php	1ef12ef0ad32183e46a813264d2b8a95
+A	src/TwigExtenderServiceProvider.php	bc0db7489ba4d718eb07a6eae0c90af5
+A	twig_extender.info.yml	4b72c159b22344c5a00262ff43f95f09
+A	twig_extender.services.yml	db7907e3aba6cf5633f094ef194d89e3

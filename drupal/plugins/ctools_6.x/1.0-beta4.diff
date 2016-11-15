@@ -1,0 +1,67 @@
+M	API.txt	ffe88f23c711fd9c65404923efbd2cbd
+M	CHANGELOG.txt	c1fd520060afe42f882bfd210f50fb13
+A	bulk_export/bulk_export.css	36f953880daec8774ddd81b6b9df96c5
+A	bulk_export/bulk_export.info	a3ff5a9618d1d725002ea5e74c0f0578
+A	bulk_export/bulk_export.module	ce9200c25b9b3acf4a72e9d4b4748625
+M	css/modal.css	b694469dadfa327927d06b73df0ab936
+M	ctools.info	1dde08bc12175652297efe9331c6d6bc
+M	ctools.install	ef81003226fe1d06748f0fb9eced48ef
+M	ctools.module	fc37fec75e32db4d34fcb0448090bf29
+D	delegator/css/page-task.css	
+D	delegator/css/task-handlers.css	
+M	delegator/delegator.admin.inc	d41d8cd98f00b204e9800998ecf8427e
+D	delegator/delegator.info	
+M	delegator/delegator.module	d41d8cd98f00b204e9800998ecf8427e
+D	delegator/images/configure.png	
+D	delegator/images/delete.png	
+D	delegator/js/task-handlers.js	
+D	delegator/plugins/task_types/page.admin.inc	
+D	delegator/plugins/task_types/page.inc	
+D	delegator/plugins/tasks/node_view.inc	
+D	delegator/plugins/tasks/page.admin.inc	
+D	delegator/plugins/tasks/page.inc	
+D	delegator/plugins/tasks/term_view.inc	
+D	delegator/plugins/tasks/user_view.inc	
+M	help/plugins-creating.html	82ecea3d4694a35c9ff2becc83f0a06d
+M	includes/ajax.inc	347fa102882271e60f515c619d5ad302
+M	includes/content.menu.inc	98e529aa742fc17089f28fc563b83ed5
+M	includes/context-access-admin.inc	9ab3059783674e85a982f6fe4da4be82
+M	includes/context-task-handler.inc	b227f0047b907d9369bc8599a7f174ad
+M	includes/context.inc	3966ff5cc66fbb33b9dce43ae55750cf
+M	includes/export.inc	c747ea596394c5ad99768af70e50c3dc
+M	includes/form.inc	811f3f8202e1165c8cfd9197fb760f6b
+M	includes/menu.inc	f230a420cd14bb1e5d4cb61771298903
+M	includes/plugins.inc	abb67b6c3ad907681413eb1b9528991a
+M	includes/wizard.inc	cd51ddb68aa4cb662db7d9c9fd5afd34
+M	js/ajax-responder.js	fdbda82ee21091055e4e190944c7ae00
+A	page_manager/css/page-manager.css	c4ef103c65889ed4240903cc7b1b5d38
+A	page_manager/images/arrow-active.png	ffa7afc3a81b8c33311f53eee62033bd
+A	page_manager/images/locked.png	996bed957268988e6d42a6159bfc6c3f
+A	page_manager/js/page-list.js	f28af540a9a8028218a3d6bf297a74e4
+A	page_manager/page_manager.admin.inc	d8e01c3d8af1ed9e65e1ed89672c1a4d
+A	page_manager/page_manager.info	60669595ad1b20e8459c71e78e450697
+A	page_manager/page_manager.module	49df721623d0a71f779864ddf0f83898
+A	page_manager/plugins/tasks/node_view.inc	e4f17c8872a5dbbaa08a4d52cf569a5c
+A	page_manager/plugins/tasks/page.admin.inc	8a7bf76d4b0bf82797d8a8caa3b2c155
+A	page_manager/plugins/tasks/page.inc	982569cd09c2f4b01584cb8798d50af4
+A	page_manager/plugins/tasks/term_view.inc	3f4dfc115910f6df708f031fead15fb4
+A	page_manager/plugins/tasks/user_view.inc	ba2223917f6928391295a8cc8755c297
+A	page_manager/theme/page-manager-edit-page.tpl.php	795bb66a5ebe0dcdd4fddea735dd2ce7
+A	page_manager/theme/page_manager.theme.inc	179f4108d9ab957e9c605acb914dfb4a
+A	plugins/access/compare_users.inc	378938dbd6c5e41d4be35a2116a90547
+M	plugins/access/node_access.inc	baa835226a0f2674c7410b34d242684d
+M	plugins/access/node_language.inc	2d7f83bec682d120885696f2f0b99e5f
+M	plugins/access/node_type.inc	9ecbfaf8e61494a2382ad7ba62b9612e
+M	plugins/access/perm.inc	c09762dd7ae12b0c3819d52c0890bd3c
+M	plugins/access/role.inc	473756c97a71eabb79deefbe0357df61
+M	plugins/access/site_language.inc	4a1a716116e98682b4225b671f3b69b3
+M	plugins/access/term_vocabulary.inc	be49483b4c17f789c873bd5b73defe22
+M	plugins/arguments/string.inc	54071645f1e6c8df372646b72079e320
+M	plugins/arguments/term.inc	1344d80a9134b863d061d3851af5f27f
+M	plugins/arguments/terms.inc	b8cb781753595672dd90f8b53ac1c838
+A	plugins/content_types/node_context/node_links.inc	0df3b9879e57fe63172225c2923711a1
+M	plugins/content_types/user_context/user_profile.inc	aa4080cd04649d88c3b0dd5f0b120b55
+M	plugins/contexts/node_add_form.inc	8d1d39a16cf2376cd513becce1c72775
+M	plugins/contexts/string.inc	d25cb24b6d071ee4d77d7a0a34b16f4b
+M	views_content/plugins/content_types/views_panes.inc	755e21622e54bb4e972bb820e0202459
+M	views_content/views_content.info	643cde86228e27c85ff1dfcebcef219e

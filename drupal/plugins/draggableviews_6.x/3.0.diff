@@ -1,0 +1,33 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	22fa306c5bc0b1847647548c93638e54
+M	draggableviews-view-draggabletable-form.tpl.php	9449782f23d4c72e2c69cc5234f73e53
+M	draggableviews-view-draggabletable.tpl.php	7424acc75192f7aeea54b005eb99c802
+M	draggableviews.inc	66f4bac2d880166de06f625dda58d6bf
+M	draggableviews.info	31dbf8fbdbd627e0c8e8b9f59d8f9e37
+M	draggableviews.install	577b46204be4387ddb1335f41ec0bea7
+M	draggableviews.js	ca8fb9a1f2e5f41cc083f7f908c7b9f7
+M	draggableviews.module	53c75f5199161c281930d281318ecf0d
+A	draggableviews.views.inc	1633f553ec2a23c467be6e1fa6c76b62
+A	draggableviews_plugin_style_draggabletable.inc	66b84ccef07c54f093dd86ea14e90f45
+M	draggableviews_theme.inc	2644a33fdd0e1345a2e191214efea4c6
+A	graphics/icon_edit.gif	4cafb1935782a8e7a419e2cd0c4f03c5
+A	graphics/icon_edit2.gif	4aaed5eaa4593dc338ba9d30eca9b0d3
+A	graphics/icon_save.gif	d725c37e87a587bebbb0f991f1faf42e
+D	implementations/draggableviews_handler.inc	
+D	implementations/draggableviews_handler_native.inc	
+D	modules/draggableviews_book/draggableviews_book.info	
+D	modules/draggableviews_book/draggableviews_book.module	
+D	modules/draggableviews_book/draggableviews_book.views.inc	
+D	modules/draggableviews_book/draggableviews_handler_book.inc	
+D	modules/draggableviews_book/views_handler_argument_draggableviews_book.inc	
+D	modules/draggableviews_cck/draggableviews_cck.info	
+D	modules/draggableviews_cck/draggableviews_cck.module	
+D	modules/draggableviews_cck/draggableviews_handler_cck.inc	
+D	modules/draggableviews_taxonomy/draggableviews_handler_taxonomy.inc	
+D	modules/draggableviews_taxonomy/draggableviews_taxonomy.info	
+D	modules/draggableviews_taxonomy/draggableviews_taxonomy.module	
+M	styles.css	9e8ab8253ab530f3ced878aa4f735c65
+D	views/draggableviews.views.inc	
+D	views/draggableviews_plugin_style_draggabletable.inc	
+D	views/handlers/views_handler_field_draggableviews_structure.inc	
+D	views/handlers/views_handler_sort_draggableviews_structure.inc	

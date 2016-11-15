@@ -1,0 +1,14 @@
+M	CHANGELOG.txt	73469158e1e39296e98cdfb84d80dfcd
+M	README.txt	d04768ea0cba409eaa4381c7832735cb
+M	linkit.admin.inc	50362198befc123660e152c1c2551f31
+M	linkit.info	8eabf97a3893713ebeb360f472836a28
+M	linkit.module	3111fd706aeab2d1d56a4cb0a5da9064
+A	plugins/linkit_file/linkit_file.info	5f6fc6a10978162c6801f1ca3a9ecc17
+A	plugins/linkit_file/linkit_file.module	c97e8d47517bac5d5d5b9049e683329e
+M	plugins/linkit_node/linkit_node.info	4194986668d461528570d818f2548422
+M	plugins/linkit_node/linkit_node.module	4763b704d94693a3d7080d6773b0b5d4
+M	plugins/linkit_permissions/linkit_permissions.info	9da1e39e79b8edcf84383fef58edf5cf
+M	plugins/linkit_taxonomy/linkit_taxonomy.info	f8a204aa34f68e63c0df45d8d2b8a751
+M	plugins/linkit_taxonomy/linkit_taxonomy.module	d1584d504dba648978ba27d656a3f091
+M	plugins/linkit_user/linkit_user.info	8bf1e15b17487f8bd31d62d8e32a8fee
+M	plugins/linkit_views/linkit_views.info	a58fc1906adca1a6dd74caa8ebf7f198

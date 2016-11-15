@@ -1,0 +1,14 @@
+A	.gitignore	2e65b43f70e048d80e9e29da2f365862
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	134aeac39393385792761ff95363119a
+A	composer.json	470b0a1bf0bfdbc863acc78c413e5fe9
+A	config/install/shariff.settings.yml	40155bb239f2cedc04f801260913c164
+A	shariff.info.yml	990cf163147b1b3e84a614effc953cc9
+A	shariff.install	16620236dea0e80d9caaf2f7f37041fe
+A	shariff.libraries.yml	90c19d52019a090b011cf98366264df3
+A	shariff.links.menu.yml	f0d0c515645a53e6e5e2b0fd3a86510a
+A	shariff.module	01e875932c0a3cd7306f19ac01d43423
+A	shariff.routing.yml	95997acb2b11126f14692f49b78e75a7
+A	src/Form/ShariffSettingsForm.php	2a2400f364bf64c9628f7fe4b94c50e5
+A	src/Plugin/Block/ShariffBlock.php	7cfb67ea604f8bc98597e3a600011785
+A	templates/shariff.html.twig	9d8d4c9807ab341e96d17efa45d31a41

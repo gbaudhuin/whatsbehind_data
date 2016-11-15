@@ -1,0 +1,19 @@
+M	INSTALL.txt	0db82e2be415b971b6ce06d13c8459b8
+M	README.txt	4604cc10866b6e57e7c0312c104927ba
+M	contrib/mt_browscap/mt_browscap.info	b228b8ff68e9fab808e4877dc8ccec5c
+A	mobile_device_tester/mobile-device-test.tpl.php	d9ccd2003e6f12d48cf58265c0246523
+A	mobile_device_tester/mobile_device_tester.info	2843497291838300a81b0938dee9467b
+A	mobile_device_tester/mobile_device_tester.module	483eea64908d91804f454b396c7161e7
+M	mobile_tools.admin.inc	0044d349b6fec9e6178c019cd62eaa6a
+M	mobile_tools.info	02c9e30f658fd74e0a13bab0940b5798
+M	mobile_tools.install	bfcada30fb6b63215424949cf271cd85
+M	mobile_tools.module	e8746506064914cf221f709698474e2b
+M	mobile_tools_cache.inc	7c20fb63b16f0f8f97362e0fc676b393
+A	mobile_tools_roles.admin.inc	77094db031899397bf99535680bd5c44
+D	mobile_tools_roles.inc	
+A	mobile_tools_roles.info	81f4b556ad07bc3c85e66891b398878f
+A	mobile_tools_roles.install	babf28c4cbc9716b56eff37128bac2ab
+A	mobile_tools_roles.module	58d7ca3d6b1661b422c361bbb184db7a
+M	plugins/access/is_mobile.inc	5d4fefa9c674e8777415f6af0571da62
+A	plugins/mobile_tools_context_condition_mobile.inc	d97e6bcc6bdff60ee8e88ac856d874c6
+A	theme/mobile-tools-header.tpl.php	051a6b9ebac4968d6550a794f5396204

@@ -1,0 +1,10 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	css/galleryformatter.css	4e04220c4a431406c8990d4db335dacf
+A	galleryformatter.info.yml	2bd1ca828f60df6c6cc30715cbe3d701
+A	galleryformatter.libraries.yml	237a317c3d4d54fa201104f8a0dfe3fb
+A	galleryformatter.module	16e78ac454f682a1aa97d01a5758b8f2
+A	js/galleryformatter.js	1052c0269fa03cb3a99cf7b44647ccb6
+A	js/infiniteCarousel.js	4f6789296a9e3fc7b58c5f93336446f3
+A	src/Plugin/Field/FieldFormatter/GalleryFormatterFormatter.php	419a27849a4d227f2ba935c2cdc45d1c
+A	templates/galleryformatter.html.twig	cd4109aaa7077e7ecede48315b81d78c
+A	theme/galleryformatter.tpl.php	b0555ddb33ce57396d392d49ead5a481

@@ -1,0 +1,12 @@
+D	views/handlers/views_autocomplete_filters_handler_filter_combine.inc	
+D	views/handlers/views_autocomplete_filters_handler_filter_search_api_fulltext.inc	
+D	views/handlers/views_autocomplete_filters_handler_filter_search_api_text.inc	
+D	views/handlers/views_autocomplete_filters_handler_filter_string.inc	
+D	views/views_autocomplete_filters.views.inc	
+D	views_autocomplete_filters.api.php	
+M	views_autocomplete_filters.inc	a9de590aad993e95fa8d395d96046b22
+M	views_autocomplete_filters.info	e0c7ea300fa394d37bbdb80aa6332fb0
+D	views_autocomplete_filters.install	
+M	views_autocomplete_filters.module	ef6fa684b8548a7f27ce6ec79924bc42
+A	views_autocomplete_filters.views.inc	361b56a37b8ac9f2c29d261c6629dc97
+A	views_autocomplete_filters_handler_filter_string.inc	40a258a9fb958a524c74b0e15c2a56c8

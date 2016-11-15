@@ -1,0 +1,14 @@
+M	data.api.php	31515b7f66ef79f5bcf911d835bfcf44
+M	data.info	0fb5b2b7da34cc94dce14b069387a543
+M	data.views.inc	c57e3fc19a87ab68edc10a4892cc9deb
+M	data_entity/data_entity.info	0742f418725fba6e4d9c13fd4ce7360b
+M	data_node/data_node.info	93c31a5281c8d7f3c47da9d5d28cceb6
+M	data_search/data_search.info	6295981e75c0d428ecd7b3a566e65857
+M	data_taxonomy/data_taxonomy.info	c4fe11f415e5871218e482571d8452e9
+M	data_taxonomy/data_taxonomy.module	cccbd265ca89d22b5c1f71d0bc191e3d
+M	data_ui/data_ui.admin.inc	c8ac27274f83d0f7c49c79de4f241b9b
+M	data_ui/data_ui.info	2ed38749b7be7ae6e03aaf45172e47ae
+M	data_ui/data_ui.module	38a0cc46e2913456aa95654f6426b4e6
+M	data_ui/data_ui.views_default.inc	6ee945167a1adfb836d0bbb96cd04bff
+M	data_ui/tests/data_ui_test.info	29a56373cab57226f59c7f9c524d6f41
+M	includes/DataHandler.inc	1ee480561c5ea159120b739bb252569d

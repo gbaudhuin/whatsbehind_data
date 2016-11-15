@@ -1,0 +1,11 @@
+M	dfp.admin.inc	0472cceb23a801d96b13e9a58bcdc279
+M	dfp.adtest.inc	c6b931623f38bd297302cc1fd97b00ae
+M	dfp.info	2f2e5e22697e0f6bdfedb7f3c7aafa2f
+M	dfp.install	5af0c552f49a77b0441d5933a1b26528
+M	dfp.module	e8f0a1c14f7bbbba70b16c5cd0b571a1
+A	plugins/contexts/dfp_context_reaction_adunit.inc	61af4151d0cd58d2e58f4174a40c5913
+M	plugins/contexts/dfp_context_reaction_settings.inc	dfcc6b40948bc9e656f359126d4d529b
+A	plugins/contexts/dfp_context_reaction_sizes.inc	b99241885aab97c0068731749d1b4df8
+M	plugins/export_ui/dfp_ctools_export_ui.inc	57219932ec13c976862e0d6a005f6cd4
+M	plugins/export_ui/dfp_tag_ui.class.php	41db54ad7bfdbc8d651292632527d595
+M	tests/dfp.test	5e2015dc6b322e0736fa8116625816e1

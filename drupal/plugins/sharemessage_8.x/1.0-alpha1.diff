@@ -1,0 +1,70 @@
+M	README.txt	0bea3bd2cfc5ed15e12eb79cac866e42
+D	config/install/core.entity_view_mode.sharemessage.attributes_only.yml	
+D	config/install/core.entity_view_mode.sharemessage.full.yml	
+D	config/install/core.entity_view_mode.sharemessage.no_attributes.yml	
+D	config/install/core.entity_view_mode.sharemessage.only_og_tags.yml	
+M	config/install/sharemessage.addthis.yml	b4060463637e1633d1607192e6c04ab9
+D	config/install/sharemessage.settings.yml	
+M	config/install/sharemessage.sharrre.yml	fcf75f9b528b12506b8211228177b6a9
+D	config/install/sharemessage.socialshareprivacy.yml	
+M	config/schema/sharemessage.schema.yml	56b0bfc82c82b73bbe0321c3742113d0
+D	css/sharemessage.socialshareprivacy.css	
+M	js/addthis.js	8704ae68fb25aeff8e4c9f8e1e3a39aa
+M	js/sharrre.js	25f0522232a0e4dc28ff162e820723a0
+D	js/socialshareprivacy.js	
+M	modules/sharemessage_demo/config/install/node.type.sharecontent.yml	da7abf64476fa8355a35fdfc0f640f06
+D	modules/sharemessage_demo/config/install/sharemessage.sharemessage.sharrre_message_sharrre_demo.yml	
+D	modules/sharemessage_demo/config/install/sharemessage.sharemessage.social_share_privacy_demo.yml	
+D	modules/sharemessage_demo/config/optional/block.block.sharemessage_addthis.yml	
+D	modules/sharemessage_demo/config/optional/block.block.sharemessage_socialshareprivacy.yml	
+M	modules/sharemessage_demo/config/optional/filter.format.basic_html.yml	d397b5e62471bd66fdd244febbfaa57f
+M	modules/sharemessage_demo/sharemessage_demo.info.yml	a0d43991c9a8462c0a7d2bf7575a2a3b
+M	modules/sharemessage_demo/sharemessage_demo.install	26ef916f09e9b98708e38a741ebefc1e
+M	modules/sharemessage_demo/src/Tests/ShareMessageDemoTest.php	b2970d6b5eeac9c7fdb54e684c4d071c
+M	sharemessage.api.php	5b8782994459544b5b5739d72d152cd3
+M	sharemessage.info.yml	6dae20b136f26233270961b7f186946c
+M	sharemessage.install	290c4df14081c0509042af992e9d8436
+M	sharemessage.libraries.yml	489f7803146231dbedffbc99fb4d0dd7
+M	sharemessage.links.action.yml	d6cd2b3413b4ff968a0f9f866d8293e0
+D	sharemessage.links.contextual.yml	
+M	sharemessage.links.menu.yml	7d063ff47868e66c8de262c28808f004
+M	sharemessage.links.task.yml	7598f90b9340388765283ebc30adf9dc
+M	sharemessage.module	2edab7a77ca5a10793331ea4b7249fb2
+M	sharemessage.permissions.yml	fef79499e3b2577b5429d442c01b56df
+M	sharemessage.routing.yml	ebd37d52ddda906767b594c49ae18720
+M	src/Annotation/SharePlugin.php	ee0fcbb364057398319de59d382a5c13
+D	src/Controller/SharrreCounterController.php	
+M	src/Entity/Handler/ShareMessageAccessControlHandler.php	ecc0e6ed4613b90710c818dd0d3b951e
+M	src/Entity/Handler/ShareMessageListBuilder.php	a6fabdd7a652dda5e4ef94fad9851ca9
+M	src/Entity/Handler/ShareMessageViewBuilder.php	f991969fa31c340156d6054f8af2d629
+M	src/Entity/ShareMessage.php	0f395c004e25792d69619581d98c2f2f
+M	src/Form/AddthisSettingsForm.php	f0f15c3637850facfee68f7e6e121a01
+M	src/Form/ShareMessageForm.php	e5d757b1f29925ae60759ebb2a051eda
+D	src/Form/ShareMessageSettingsForm.php	
+M	src/Form/SharrreSettingsForm.php	7ecf1666380fd5dc1249a892dd0ccd90
+D	src/Form/SocialSharePrivacySettingsForm.php	
+M	src/Plugin/Block/ShareMessageBlock.php	1a171da147824e5618dfef38fef3da46
+M	src/Plugin/sharemessage/Addthis.php	4aba5f976056e662a9bb2ce07c3bc13b
+M	src/Plugin/sharemessage/OGHeaders.php	c74f00613ec4503867a4ac4cca83bba7
+M	src/Plugin/sharemessage/Sharrre.php	1c2598b7401f968759c57ea10bea0f4b
+D	src/Plugin/sharemessage/SocialSharePrivacy.php	
+D	src/ShareMessageInterface.php	
+M	src/SharePluginBase.php	24ab2394bff73fd553484216f0779b75
+M	src/SharePluginInterface.php	340063c7586592d2a8a0f55b6727cdaa
+M	src/SharePluginManager.php	3b3d399a2270ff82ee8caf28a59796dc
+D	src/Tests/Plugin/ShareMessageAddthisTest.php	
+D	src/Tests/Plugin/ShareMessageOGHeadersTest.php	
+D	src/Tests/Plugin/ShareMessageSharrreTest.php	
+D	src/Tests/Plugin/ShareMessageSocialSharePrivacyTest.php	
+M	src/Tests/ShareMessageExposeToBlockTest.php	b04b1d48f68f12d292cf2abe8000d3d0
+D	src/Tests/ShareMessageExtraFieldTest.php	
+M	src/Tests/ShareMessageSettingsTest.php	7cb518367e4c7b15ace33011a80c61d8
+M	src/Tests/ShareMessageTestBase.php	29cd73d1215e5865eccc3ad0098fb76a
+D	src/Tests/ShareMessageTwitterCardsTest.php	
+D	src/Tests/ShareMessageViewModesTest.php	
+M	src/Tests/ShareMessageWorkflowTest.php	cbb7d5fa061bb9c531d86c156fe23b32
+M	templates/sharemessage-addthis.html.twig	070e30251e46187e331d114b8584a06e
+D	templates/sharemessage-socialshareprivacy.html.twig	
+M	tests/modules/sharemessage_test/sharemessage_test.info.yml	d0a93ea1b9a6c1266107bd62f6a6b6f0
+M	tests/modules/sharemessage_test/sharemessage_test.routing.yml	81be05d620cb3a3e722042e64102112f
+D	tests/src/FunctionalJavascript/ShareMessageJavascriptTest.php	

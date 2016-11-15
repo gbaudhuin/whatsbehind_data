@@ -1,0 +1,119 @@
+M	README.md	f6d8fb51402fe8f030ac6b834388dc33
+M	config/schema/image_effects.schema.yml	ecbf7bfb2c1f950bd6bf4faee0093805
+D	css/image_effects.admin.convolution.css	
+D	css/image_effects.text_overlay_preview.css	
+M	image_effects.info.yml	2d4a16abb0abfed20159d8cbf04cbbbe
+M	image_effects.install	77e1b1ba565369c37be481040b93f95c
+M	image_effects.libraries.yml	b5f398e9d91d9e78853947ceefa260b0
+M	image_effects.module	c0324a7704b90952569390706130ebbb
+D	js/image_effects.admin.convolution.js	
+M	js/image_effects.farbtastic_color_selector.js	d26c27fd3849d99667cac88375b0a1f8
+M	js/image_effects.html_color_selector.js	2a2a9b7a7992d11480beebd7bc624602
+D	misc/images/transparent.png	
+M	src/Component/ColorUtility.php	7846d3fec864994897cfabd8fce4afd3
+M	src/Component/ImageUtility.php	780aa9e389c296e097cd52055bf46ef3
+M	src/Component/PositionedRectangle.php	62e6dda009f6affbded1daf65e4925f5
+D	src/Component/TextUtility.php	
+M	src/Element/ImageEffectsColor.php	8fb629ebce8bd68c74f8c8551c0e74aa
+D	src/Element/ImageEffectsPxPerc.php	
+M	src/Form/SettingsForm.php	152b9d6ff049dbd0b71f9c0bba541589
+M	src/Plugin/ImageEffect/AutoOrientImageEffect.php	e1f45b7d93900716dc3aed5e4c5e8abd
+D	src/Plugin/ImageEffect/BackgroundImageEffect.php	
+M	src/Plugin/ImageEffect/BrightnessImageEffect.php	294061f9f73da05fa92ef81cb8f88483
+M	src/Plugin/ImageEffect/ColorShiftImageEffect.php	930fc928355ee03736e0f99fc08793c2
+M	src/Plugin/ImageEffect/ContrastImageEffect.php	b52c7105d97487b7de4af1a21848d1ae
+D	src/Plugin/ImageEffect/ConvolutionImageEffect.php	
+D	src/Plugin/ImageEffect/ConvolutionSharpenImageEffect.php	
+D	src/Plugin/ImageEffect/InterlaceImageEffect.php	
+M	src/Plugin/ImageEffect/SetCanvasImageEffect.php	32178a36177564c437e09050b2ed9464
+D	src/Plugin/ImageEffect/SetTransparentColorImageEffect.php	
+M	src/Plugin/ImageEffect/StripMetadataImageEffect.php	da1c3525ec6ca0a2f3782f8dacd97027
+D	src/Plugin/ImageEffect/TextOverlayImageEffect.php	
+M	src/Plugin/ImageEffect/WatermarkImageEffect.php	315159cbdee9383353295b7daad497b2
+M	src/Plugin/ImageEffectsFontSelectorPluginInterface.php	cc530fff9aa0091b1542f2b71913e16a
+M	src/Plugin/ImageEffectsPluginBase.php	d3c718f2409318c1f5550353dd78772c
+M	src/Plugin/ImageEffectsPluginBaseInterface.php	2150c48c175ee8ad74d4af303ea58067
+M	src/Plugin/ImageEffectsPluginManager.php	2eb4c8c8b17616a721fbdd10322185ce
+D	src/Plugin/ImageToolkit/Operation/BackgroundTrait.php	
+M	src/Plugin/ImageToolkit/Operation/BrightnessTrait.php	bba11e4a56276dc858c5dac28ab35a76
+M	src/Plugin/ImageToolkit/Operation/ColorshiftTrait.php	0602f08ad6ece7f48c23aba38577a466
+M	src/Plugin/ImageToolkit/Operation/ContrastTrait.php	f52de84d9d7535e57e57a09f715967ad
+D	src/Plugin/ImageToolkit/Operation/ConvolutionTrait.php	
+D	src/Plugin/ImageToolkit/Operation/DrawEllipseTrait.php	
+D	src/Plugin/ImageToolkit/Operation/DrawLineTrait.php	
+M	src/Plugin/ImageToolkit/Operation/DrawRectangleTrait.php	f7a26cfb1efbbc75e8c76367102b6500
+D	src/Plugin/ImageToolkit/Operation/FontOperationTrait.php	
+D	src/Plugin/ImageToolkit/Operation/InterlaceTrait.php	
+D	src/Plugin/ImageToolkit/Operation/ReplaceImageTrait.php	
+M	src/Plugin/ImageToolkit/Operation/SetCanvasTrait.php	1a55c4b2d82785a3899c308899a4a4db
+D	src/Plugin/ImageToolkit/Operation/SetGifTransparentColorTrait.php	
+D	src/Plugin/ImageToolkit/Operation/TextOverlayTrait.php	
+D	src/Plugin/ImageToolkit/Operation/TextToWrapperTrait.php	
+M	src/Plugin/ImageToolkit/Operation/WatermarkTrait.php	5c4509ace417b79a7a26eb8aa3cafd1b
+M	src/Plugin/ImageToolkit/Operation/gd/AutoOrient.php	947a6755a2b7084b4f48ecfa4cc3157e
+D	src/Plugin/ImageToolkit/Operation/gd/Background.php	
+M	src/Plugin/ImageToolkit/Operation/gd/Brightness.php	6904e43accc9fd633b973135193b88ce
+M	src/Plugin/ImageToolkit/Operation/gd/Colorshift.php	001907f425280ab2d08333605658ca43
+M	src/Plugin/ImageToolkit/Operation/gd/Contrast.php	8e6e0e454848b0e9cde09ce261b0e4dc
+D	src/Plugin/ImageToolkit/Operation/gd/Convolution.php	
+D	src/Plugin/ImageToolkit/Operation/gd/DrawEllipse.php	
+D	src/Plugin/ImageToolkit/Operation/gd/DrawLine.php	
+M	src/Plugin/ImageToolkit/Operation/gd/DrawRectangle.php	4bce324fba00d259c568984f80687e53
+M	src/Plugin/ImageToolkit/Operation/gd/GDOperationTrait.php	fd71ec0d0210d8e094bff9573b5e130a
+D	src/Plugin/ImageToolkit/Operation/gd/Interlace.php	
+D	src/Plugin/ImageToolkit/Operation/gd/ReplaceImage.php	
+M	src/Plugin/ImageToolkit/Operation/gd/SetCanvas.php	ad0a0950fa55f09d2da7419db195f894
+D	src/Plugin/ImageToolkit/Operation/gd/SetGifTransparentColor.php	
+M	src/Plugin/ImageToolkit/Operation/gd/Strip.php	bffe1325f53a9956dd9e3ed7d051de26
+D	src/Plugin/ImageToolkit/Operation/gd/TextOverlay.php	
+D	src/Plugin/ImageToolkit/Operation/gd/TextToWrapper.php	
+M	src/Plugin/ImageToolkit/Operation/gd/Watermark.php	510a783af97fcbf7a8bb58af04ac74ce
+M	src/Plugin/ImageToolkit/Operation/imagemagick/AutoOrient.php	dc374c39e46fd27b18b3877b3faeff60
+D	src/Plugin/ImageToolkit/Operation/imagemagick/Background.php	
+M	src/Plugin/ImageToolkit/Operation/imagemagick/Brightness.php	57e8e5ebcf8ec57c11a353a36aa43a98
+M	src/Plugin/ImageToolkit/Operation/imagemagick/Colorshift.php	1b467c29b1144dbadb6b155312f285f2
+M	src/Plugin/ImageToolkit/Operation/imagemagick/Contrast.php	713d2d879bdc3f825e3553adb296a5e7
+D	src/Plugin/ImageToolkit/Operation/imagemagick/Convolution.php	
+M	src/Plugin/ImageToolkit/Operation/imagemagick/DrawRectangle.php	bc7b46cf272ac7321d0c0a1aac26722b
+M	src/Plugin/ImageToolkit/Operation/imagemagick/ImagemagickOperationTrait.php	0aef0500de2003d8457a163c2e701e71
+D	src/Plugin/ImageToolkit/Operation/imagemagick/Interlace.php	
+D	src/Plugin/ImageToolkit/Operation/imagemagick/ReplaceImage.php	
+M	src/Plugin/ImageToolkit/Operation/imagemagick/SetCanvas.php	12ec80887d944890878156af1912b767
+D	src/Plugin/ImageToolkit/Operation/imagemagick/SetGifTransparentColor.php	
+M	src/Plugin/ImageToolkit/Operation/imagemagick/Strip.php	9cb7dfa48be2b84928310cfe115e9797
+D	src/Plugin/ImageToolkit/Operation/imagemagick/TextToWrapper.php	
+M	src/Plugin/ImageToolkit/Operation/imagemagick/Watermark.php	6aa1b952cc622c5674340a06de21a54e
+M	src/Plugin/image_effects/ColorSelector/Farbtastic.php	ab3d4d84f3b39510b9b0757a554afb88
+M	src/Plugin/image_effects/ColorSelector/HtmlColor.php	48610109ae0927078831dd5eb3791e42
+M	src/Plugin/image_effects/FontSelector/Basic.php	a8a45718290ebce34c3496dbe7577b49
+M	src/Plugin/image_effects/FontSelector/Dropdown.php	7e7848b0395904f5e4e3f0c4ac9a179b
+M	src/Plugin/image_effects/ImageSelector/Basic.php	2c43b33f756446e4f10b93daa47b7b68
+M	src/Plugin/image_effects/ImageSelector/Dropdown.php	6f6a105b2f3348896ca9c38335ba5683
+M	src/Tests/ImageEffectsAutoOrientTest.php	d013e45108affe1cb3885746c3aafb9c
+D	src/Tests/ImageEffectsBackgroundTest.php	
+M	src/Tests/ImageEffectsBrightnessTest.php	ac6fcdc6ba85a60fe0f16f3fafb2da12
+M	src/Tests/ImageEffectsColorShiftTest.php	97a02547fbd26b4fbdd54f9162ef2924
+M	src/Tests/ImageEffectsContrastTest.php	735833a93f0b5283d21cd81e0a972ac3
+D	src/Tests/ImageEffectsConvolutionTest.php	
+D	src/Tests/ImageEffectsInterlaceTest.php	
+M	src/Tests/ImageEffectsSelectorPluginTest.php	4067ed7e2104057272408a3af2929392
+M	src/Tests/ImageEffectsSetCanvasTest.php	d28172843a9be9f20986d6f652e11e69
+D	src/Tests/ImageEffectsSetTransparentColorTest.php	
+D	src/Tests/ImageEffectsSettingsFormTest.php	
+M	src/Tests/ImageEffectsStripMetadataTest.php	fe2ac3d48f12df084d0fa652220bf0f0
+M	src/Tests/ImageEffectsTestBase.php	ed228603647ed3d2228bd9527090c2f0
+D	src/Tests/ImageEffectsTextOverlayTest.php	
+D	src/Tests/ImageEffectsTextUtilityTest.php	
+M	src/Tests/ImageEffectsWatermarkTest.php	ebde3a232da63f85d8b0fb9fa472e841
+D	templates/image-effects-background-summary.html.twig	
+D	templates/image-effects-convolution-sharpen-summary.html.twig	
+D	templates/image-effects-convolution-summary.html.twig	
+D	templates/image-effects-interlace-summary.html.twig	
+D	templates/image-effects-set-transparent-color-summary.html.twig	
+D	templates/image-effects-text-overlay-preview.html.twig	
+D	templates/image-effects-text-overlay-summary.html.twig	
+M	templates/image-effects-watermark-summary.html.twig	1554db4fa67e8cac713f0fd5dd6e1419
+D	tests/images/portrait-painting.jpe	
+M	tests/modules/image_effects_module_test/image_effects_module_test.info.yml	b6b4cfa4b77836d544f444cf1ccd084e
+M	tests/modules/image_effects_module_test/src/Plugin/ImageEffect/FontSelectionImageEffect.php	ed2fbbe01bae984c4a8e7022abf6c108
+M	tests/modules/image_effects_module_test/src/Plugin/ImageEffect/ImageSelectionImageEffect.php	0530a37e3fe1dc3c5411612a60a9eb5b

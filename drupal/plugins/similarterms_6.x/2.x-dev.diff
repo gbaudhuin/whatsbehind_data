@@ -1,0 +1,19 @@
+A	CHANGELOG.txt	7fdaf29d39eb6c1c3c05bf1cd789f27b
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.markdown	c92960e84fd6bb409b1ef513c691afa0
+D	README.txt	
+A	UPGRADE.markdown	6781b3dbcb94d58db841d87ed4ebc45e
+D	po/de.po	
+D	po/similarterms.pot	
+D	similarterms.admin.inc	
+M	similarterms.info	3fb43180af3e86e8b6fb8ba859ba7f0b
+M	similarterms.install	e421ffb081fc5e2a1d16acfabe1f8496
+M	similarterms.module	760a75bc85a7461dc460de6dc5515db1
+D	similarterms.tpl.php	
+D	translations/de.po	
+D	translations/similarterms.pot	
+A	views/similarterms.views.inc	c131fbf2162fc87d409cfc0fc409167f
+A	views/similarterms.views_default.inc	4fc10b213cb33eb72c311dcb47b7314c
+A	views/similarterms_handler_argument_node_nid.inc	005baf1e0b7d573f09f6d4d3c1b55e15
+A	views/similarterms_handler_field_similar.inc	5b32cdcccfdc1d307ae225f058a56992
+A	views/similarterms_handler_sort_similar.inc	c8fb92632671e937b4cbf8a509297baf

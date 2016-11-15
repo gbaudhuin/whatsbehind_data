@@ -1,0 +1,11 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	ba52abf8cce5a0857e5a6b2317a72053
+M	includes/jcarousel.views.inc	946ce1a67fac7147e6241e8e210e8036
+M	includes/jcarousel_style_plugin.inc	94b8cea0d2f94c874d208d7cfa16eeeb
+M	jcarousel.info	b213a11f3f934bf1f8732bba597e2c22
+M	jcarousel.module	cd5b831b5e5a2c06966c8e8364350272
+M	js/jcarousel.js	b05bcbba0401826c5b1b6afa58baea27
+M	js/jquery.jcarousel.js	91c234e9763d56fef9a43b064feeebba
+M	js/jquery.jcarousel.min.js	c2703824c8d68c14aa5cecc6d9e1a95c
+M	skins/default/jcarousel-default.css	6f5ac14022d6e7d44af39f36e204eeb0
+M	skins/tango/jcarousel-tango.css	7524967911dc63ed689e2adff5b5912a

@@ -1,0 +1,15 @@
+A	colorbox-insert-image.tpl.php	a29083a68fdbe71a4672116519291f0c
+M	colorbox.admin.inc	e304a23808107447b9e247ed9333f4ac
+M	colorbox.info	a462cca8dc3c398aa4ae3d0730fa7134
+M	colorbox.module	bcf99e3da67ef36b5f1a639a9f604ede
+M	colorbox.pages.inc	917028213230e62d5a2c9652432fa81c
+M	colorbox.theme.inc	1ee5d05aafab5d604e73cb3654c8394a
+M	drush/colorbox.drush.inc	932608d097d33da833f6954ee435ff9d
+M	js/colorbox.js	95fa75493255e0e005695bb64f567ffd
+A	styles/stockholmsyndrome/colorbox_stockholmsyndrome.css	9d328715c149260f50cf924f2a7cae3a
+A	styles/stockholmsyndrome/colorbox_stockholmsyndrome.js	5eabcffc424e9b86ba5cb303a85bcc1d
+A	styles/stockholmsyndrome/colorbox_stockholmsyndrome_screen.png	ce5b52fb45ea2d681b91f19919d5e5d8
+A	styles/stockholmsyndrome/images/bg_tab.png	0d6474d2f964c516b1678db294fe2e9e
+A	styles/stockholmsyndrome/images/controls.png	319d7b06d0ea4053854ef401a0aab64d
+A	styles/stockholmsyndrome/images/loading_animation.gif	7e99e1159a3686f6aa4f90043c554483
+M	views/colorbox_handler_field_colorbox.inc	236ef6003335c8aaf01da5d4e9467451

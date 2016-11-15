@@ -1,0 +1,9 @@
+M	includes/mollom.class.inc	606c85f95b9b23ab6d1fe0f9b131a6ba
+M	mollom.admin.inc	d8a8e602048e1aaa8af27f0a031365c7
+M	mollom.info	32192b6c75a23a1ed5b4a800dbcc000f
+M	mollom.module	578d6c9c4f827c65b6955f7467fdaed2
+M	tests/mollom.class.test	15a340808bfdff8adf5b539a9d241055
+M	tests/mollom.test	5408572b1a25a364b82e8f05c10f3990
+M	tests/mollom_test.info	6924448a900593de800df5c9b90e745e
+M	tests/mollom_test_server.info	d0642f1df00a2d11abd543fbe04a0bce
+M	tests/mollom_test_server.module	a8519da9a56308476dac54e86bb37ff0

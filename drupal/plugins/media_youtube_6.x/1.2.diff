@@ -1,0 +1,11 @@
+M	includes/media_youtube.admin.inc	5dbd12fd9218edcec896c0e436812620
+A	includes/media_youtube.api.inc	cf2f07e2fd0defa341c3eb9ede1ca7ee
+M	includes/media_youtube.media_mover.inc	4bc03568f39e79fe0cc3fd63ab694e84
+M	includes/media_youtube.variables.inc	08f37cf1b5fd6383865a1469ac246d90
+M	media_youtube.info	49e8ecb506ef3eb45ed8d556a2080f5c
+M	media_youtube.install	da2595c232da4cca58642a2b8aa19ea7
+M	media_youtube.module	d69b58d880e59f578516391dbc626fc0
+M	providers/emvideo/youtube.inc	8f48d2f74cb53a5a7362953b13d0f86f
+A	themes/media-youtube-default-external.tpl.php	cf54866ea6eefcd4b8229fe9c6100c86
+A	themes/media-youtube-flash.tpl.php	b389ed829c36780676070948e39a8c6d
+A	themes/media_youtube.theme.inc	6ea7620198c50b9420556dc55bbf3b1e

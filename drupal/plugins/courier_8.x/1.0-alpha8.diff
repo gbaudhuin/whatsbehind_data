@@ -1,0 +1,16 @@
+A	.travis.yml	cf45a81aca62f498a03da4aa0eb16f54
+M	README.md	aaf741d2fc5b977f82fda05319ee50a9
+M	courier.info.yml	7bfa7cb1db4797d258eb8bbd8d4c0782
+M	courier.module	4b6d1fd366897418446c1d95f4529398
+M	courier_message_composer/courier_message_composer.info.yml	0e95d406800e458ee63458c26af86e17
+M	courier_message_composer/src/Access/ComposeAccessCheck.php	fa43297c160259d41cecddc6c815a7d5
+M	courier_message_composer/src/Form/MessageForm.php	431b3ee765d19f4490856c7f67115b4f
+M	courier_system/courier_system.info.yml	dc20531881364a11764639652da1ca1b
+M	js/template.collection.list.js	af28096011b51ab2a0a57781c610fe61
+M	src/Controller/ChannelFormController.php	f834e013ce97be405cab2b2d6a581de2
+A	src/CourierTokenElementTrait.php	4c0044b14e47c2e34e973d81a2617e8e
+M	src/EmailInterface.php	446a22bc967615be27847a3905bd077b
+M	src/Entity/Email.php	e2e48c1f635b5fa374550d8c2f07af6c
+M	src/Form/EmailForm.php	bdd27cc4d96e134ac7c8482034194699
+M	src/Service/CourierManager.php	5d51fd7b8aa1613b4ef9816737d0cd18
+M	src/Tests/CourierTest.php	c96963a3725e8669b446c429ef34f83f

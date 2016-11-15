@@ -1,0 +1,8 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	32157d54e3414f6c8e2fba666c0b4519
+A	machine_name.info.yml	9b3c2fabf40425d311259141bb7c30cb
+A	src/Plugin/Field/FieldFormatter/MachineName.php	6f265054f683242b230c3a0c52ed90e8
+A	src/Plugin/Field/FieldType/MachineName.php	2443631abeafcd4b2406d0b700ef508a
+A	src/Plugin/Field/FieldWidget/MachineName.php	598134f96a4359be8154776d27bfe5d4
+A	src/Plugin/Validation/Constraint/MachineNameUniqueConstraint.php	00b0aa404ff045185af50e52a48621e6
+A	src/Plugin/Validation/Constraint/MachineNameUniqueValidator.php	e3b2fb5fa66ccae695b07433952e906c

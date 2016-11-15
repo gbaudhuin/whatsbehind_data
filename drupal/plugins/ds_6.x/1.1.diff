@@ -1,0 +1,19 @@
+M	CHANGELOG.txt	a305c3f749b4b81917ab3f9f5e6d3c47
+M	css/ds.css	48625397e9871ea6a3ffaf5dfcc49f4b
+D	css/regions.css	
+M	ds.info	8c127c405885968dfafb74dbe61c5f95
+M	ds.install	1f1b7cf7585332e832be6191d141c4ad
+M	ds.module	b3febc711666b5d6b5b12203291afa04
+M	includes/ds.buildmodes.inc	db5a46d0ceb222967b800551ef96223b
+M	includes/ds.display.inc	12482a192737da6df76f762059ce358f
+M	includes/ds.fields.inc	72c0c7fb71666016abdb5b88ae6a91c7
+A	includes/ds.groups.inc	c1118efe76cb60a3f5252697f0b90e04
+M	includes/ds.registry.inc	71bef3f0a4138a0b4c9d3a3e24197d13
+M	includes/ds.tools.inc	43c03b2a6852b002ec3b357d89688f8f
+M	js/ds.js	88ad8805955231c296f33beaf30ea399
+M	plugins/ds_cssoverrider.inc	bf47050fd844909509078343d17f19d3
+M	plugins/ds_emptyregionrender.inc	2d4e7c38a5ab231091169fbe342a9037
+A	plugins/ds_regiontoblock.inc	bf70703ac80e201b64dc02decd9db5fd
+M	theme/ds-display-overview-form.tpl.php	192918fc3df7257a6214595fe3d8d3dd
+M	theme/theme.inc	dac12d16de06ec8efac391bfaddca098
+M	views/views_plugin_ds_object_view.inc	8406e70677a7c47a2f0b8fe123a0030b

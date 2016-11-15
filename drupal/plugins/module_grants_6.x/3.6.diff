@@ -1,0 +1,11 @@
+M	CHANGELOG.txt	ffdf53814ae8a2636ec0fdc7cd152abe
+M	README.txt	9d7362f90f34e303d2a1dd9f56e1d605
+M	module_grants.admin.inc	c7c24caac432452999d1ebd4a11a85ac
+A	module_grants.api.php	007912fd9291c4e3d267a9e503705c67
+M	module_grants.info	40223ba5b843017075598dfbf48597e1
+M	module_grants.install	00499a65b41191ebf6181213a3beb0ea
+M	module_grants.module	8786c77710a9eb01eea3017aabe4716c
+M	module_grants_monitor/module_grants_monitor.info	d6985547819c79d804cd41a2fb356f13
+M	node_tools/node_tools.info	cb712e6d7a56ad1c796e515aebd2778f
+M	node_tools/node_tools.module	36baee22e46a7c61969c8e83e647006e
+M	user_tools/user_tools.info	8716f41787c2978a510c1ac278ce00d4

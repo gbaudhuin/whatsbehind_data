@@ -1,0 +1,17 @@
+M	coder.info	cbc0fa743cbfefd116077c35b7ddcac4
+M	coder_review/coder_review.common.inc	a448ee36a60f7807ef7ca98ced6cbd76
+M	coder_review/coder_review.drush.inc	ee348b981fe77b00166de0a96f5c6e00
+M	coder_review/coder_review.info	bf1c475346efe7470ceee4200c25c652
+M	coder_review/coder_review.module	e42717ad587447d8a375d7ebe60c6876
+M	coder_review/tests/coder_review_test/coder_review_test.info	9ec9942f5ad2f3c450ce43ec87fd6b1f
+M	coder_sniffer/Drupal/Sniffs/Commenting/DocCommentAlignmentSniff.php	7427115f31b9667c39a7311f801ceb62
+M	coder_sniffer/Drupal/Sniffs/Commenting/FunctionCommentSniff.php	73077484e270408cf59cee3fb2d27d81
+M	coder_sniffer/Drupal/drupalcs.info	90af9457879ed447e04766673ca71d95
+M	coder_sniffer/Drupal/ruleset.xml	2efa734b3af8f7a18ed59d3158a74fa9
+M	coder_sniffer/README.txt	1e38b0f032e1e44cf80055d148b98d0e
+M	coder_sniffer/Test/bad.info	0c43fb3ad8cdaee838d96ffb76be0b2c
+M	coder_sniffer/Test/bad.php	18dd1328e1d587d49a3d0119b4dc36ec
+M	coder_sniffer/Test/bad2.info	043c6cd8264e1e3bf0ddef8c3866fdc5
+M	coder_sniffer/Test/good.php	5e22303230a77454826391862e0baa1e
+M	coder_sniffer/drupalcs.drush.inc	f7718890ef7d523fbb406d98bc578c20
+M	coder_upgrade/coder_upgrade.info	cf5f41b9e55332600ea3024048fd2075

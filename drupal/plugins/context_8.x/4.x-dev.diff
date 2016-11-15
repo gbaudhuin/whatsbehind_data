@@ -1,0 +1,114 @@
+D	.editorconfig	
+D	.gitignore	
+D	.travis.yml	
+A	API.txt	35f1db5cc041890008cf02b01f10f699
+D	CHANGELOG.md	
+D	CONTRIBUTING.md	
+D	LICENSE	
+D	README.md	
+A	README.txt	8ec19d415fdca23aaca7501b020125fe
+D	composer.json	
+A	context.api.php	a050502ea41045d2c48a473a7994cfd1
+A	context.core.inc	fd3ee006920c210cc49e518747dcb413
+A	context.info	da56502a9542dfe61c7f58545ad048cf
+D	context.info.yml	
+A	context.install	42c78bf8f4df5a5a80674a51c44cbda9
+M	context.module	5dbe6125f3da2ec71fae9184c4d7a61a
+A	context.plugins.inc	f2997126240c510ca0c0d8890998d6d2
+D	context.services.yml	
+A	context_layouts/README.txt	fc8759704640280cea6ddd2c0f8a4749
+A	context_layouts/context_layouts.info	ee90657d1d5441b52803cdaed0498282
+A	context_layouts/context_layouts.module	0d1132e977364c024f48cc5e11976d1d
+A	context_layouts/plugins/context_layouts_reaction_block.css	de905214617b7f51996c9519157f921b
+A	context_layouts/plugins/context_layouts_reaction_block.inc	579b42e1d4a4ca9af5fa10b2c1977200
+A	context_layouts/plugins/context_layouts_reaction_block.js	7215c54982f7080574c6d6a666940304
+A	context_ui/README.txt	a119d164ac9397ee4f79cc541e0511a4
+A	context_ui/context_ui.css	a005ad507642d45def59ac8fa48f0a3a
+A	context_ui/context_ui.info	b26fe5979fba28eb20ec06fa1048fc53
+A	context_ui/context_ui.install	5367107be54fc5c00e7cb5dfc473a722
+A	context_ui/context_ui.js	e734ac6ce8ecf66f21723383c1162eca
+A	context_ui/context_ui.module	26e39c77954e92214b6b648805fb03d5
+A	context_ui/context_ui_dialog.css	f155c983e55cbeda1751bd473dbf1bf5
+A	context_ui/context_ui_dialog.js	ec598ad1f479d0d7789a289a20507628
+A	context_ui/export_ui/context.inc	01ec49f24a9212f3575f610ad56577de
+A	context_ui/export_ui/context_export_ui.class.php	5f04859f1d4981356434b4b4108f399f
+A	context_ui/jquery.pageEditor.js	cdfd64039948352dbe4267fdf022a07b
+A	context_ui/json2.js	b1e33451a69dec00dc53321c69070600
+A	context_ui/tests/context_ui.test	50fcfe1fb216f220786e960a892b4b2a
+A	context_ui/theme/context-ui-editor.tpl.php	af805bc4f2197043c6d8c233a46f694f
+A	context_ui/theme/context-ui-form.tpl.php	53411ae44540739278d59652cb082250
+A	context_ui/theme/context-ui-plugins.tpl.php	26322012ca5fe11d29947e98669da0c5
+A	context_ui/theme/filter.js	7c76c055fc22dc6100573ca7aaabefff
+A	context_ui/theme/theme.inc	132b8295740ba1c18200a1e654f8f53c
+D	modules/context_ui/assets/js/context_ui.admin.js	
+D	modules/context_ui/context_ui.info.yml	
+D	modules/context_ui/context_ui.libraries.yml	
+D	modules/context_ui/context_ui.links.action.yml	
+D	modules/context_ui/context_ui.links.menu.yml	
+D	modules/context_ui/context_ui.permissions.yml	
+D	modules/context_ui/context_ui.routing.yml	
+D	modules/context_ui/src/ContextListBuilder.php	
+D	modules/context_ui/src/Controller/ContextUIController.php	
+D	modules/context_ui/src/Form/ConditionDeleteForm.php	
+D	modules/context_ui/src/Form/ContextAddForm.php	
+D	modules/context_ui/src/Form/ContextDeleteForm.php	
+D	modules/context_ui/src/Form/ContextEditForm.php	
+D	modules/context_ui/src/Form/ContextFormBase.php	
+D	modules/context_ui/src/Form/ReactionDeleteForm.php	
+A	plugins/context_condition.inc	099ba0b083a10743d85d578a5fd0563d
+A	plugins/context_condition_book.inc	666a6fc1302a326f1d345d1a6e098c93
+A	plugins/context_condition_bookroot.inc	74fedf98af0e9759bdc142b42a133ed3
+A	plugins/context_condition_context.inc	3e7d0c37953a3c50f5049fafb3614261
+A	plugins/context_condition_context_all.inc	69866753e3b3ac0b7e2b2464551c8cc1
+A	plugins/context_condition_default.inc	fd21b15d089355f3bd9469ee01151473
+A	plugins/context_condition_language.inc	7ff55117d1ab14b644f688dd2499c5a6
+A	plugins/context_condition_menu.inc	ed17ae3ffb5c626731889ff97893a55f
+A	plugins/context_condition_node.inc	2cfa78b1e4b36d76595d4ab2f079c546
+A	plugins/context_condition_node_taxonomy.inc	bf678b56ea46b6ade512dec358c14740
+A	plugins/context_condition_path.inc	f79c5cc1f744205469cbd18dd0653622
+A	plugins/context_condition_query_string.inc	be3c5cac75cec0c8d775d277e4175b1f
+A	plugins/context_condition_sitewide.inc	e0219b6b1b50aa2fc7fdcfe0e30d65e6
+A	plugins/context_condition_taxonomy_term.inc	37f4207ba94b80992c25578ec8cb6a5f
+A	plugins/context_condition_user.inc	e8fb3e14aa9b3a7d15eba81166382190
+A	plugins/context_condition_user_page.inc	83921d3f4a2bbeab9c3280b48276580e
+A	plugins/context_condition_views.inc	6f92b83140d1996f845d2c6e739187e3
+A	plugins/context_reaction.inc	15dea9daeaa3fe113728cd96f4efce12
+A	plugins/context_reaction_block.css	eaca2ccb23a42464e7c0bc79b0ec404c
+A	plugins/context_reaction_block.inc	d273fdb3d4055e93535dc22ee6346726
+A	plugins/context_reaction_block.js	6620c14010a70104b8a3163c8c1e7b9b
+A	plugins/context_reaction_block.png	1afc74399b1db55f7baf8aae69a8e2b9
+A	plugins/context_reaction_block.svg	01a4bd5019213245359ce7160ba51512
+A	plugins/context_reaction_breadcrumb.inc	4f1c4ceac1e47f6dcb1474e6154c7034
+A	plugins/context_reaction_css_injector.inc	6b507b612409e3586f5ecad4aea08f50
+A	plugins/context_reaction_debug.inc	edc5826edbfba1ca9b3b5280df8668a9
+A	plugins/context_reaction_menu.inc	8bf14b4d6503ec39c7fc769423f758a9
+A	plugins/context_reaction_region.inc	5f630aa66b2c32632694fe654808c876
+A	plugins/context_reaction_template_suggestions.inc	f1a5670d624ae3ad8ec79e04c47f92ae
+A	plugins/context_reaction_theme.inc	099fbbea81877b98b37579fe529cb837
+A	plugins/context_reaction_theme_html.inc	27e0f7af97e5d2c666e1bf1a13765509
+D	src/ContextInterface.php	
+D	src/ContextManager.php	
+D	src/ContextReactionInterface.php	
+D	src/ContextReactionManager.php	
+D	src/ContextReactionPluginBase.php	
+D	src/Entity/Context.php	
+D	src/Entity/ContextAccess.php	
+D	src/EventSubscriber/BlockPageDisplayVariantSubscriber.php	
+D	src/Form/AjaxFormTrait.php	
+D	src/Plugin/ContextReaction/Blocks.php	
+D	src/Plugin/ContextReactionPluginCollection.php	
+D	src/Plugin/DisplayVariant/ContextBlockPageVariant.php	
+D	src/Reaction/Annotation/ContextReaction.php	
+D	src/Reaction/Blocks/BlockCollection.php	
+D	src/Reaction/Blocks/Controller/ContextReactionBlocksController.php	
+D	src/Reaction/Blocks/Form/BlockAddForm.php	
+D	src/Reaction/Blocks/Form/BlockDeleteForm.php	
+D	src/Reaction/Blocks/Form/BlockEditForm.php	
+D	src/Reaction/Blocks/Form/BlockFormBase.php	
+D	src/Reaction/ContextReactionFormBase.php	
+A	tests/context.conditions.test	0fda3b64d9b3a2d423e872081430b5df
+A	tests/context.reactions.test	cefc462bd08c311c0641b603230731a2
+A	tests/context.test	d9faa88a215c7a0c84966f0a4cda2c84
+A	theme/context-block-browser-item.tpl.php	3497131072b15d192a478dbe23d429d2
+A	theme/context-block-browser.tpl.php	e4fac80682a03f91a49c0f760bd940ea
+A	theme/context_reaction_block.theme.inc	e6eb31eaebdcdde89e78e42e837dbb11

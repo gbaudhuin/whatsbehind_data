@@ -1,0 +1,7 @@
+M	CHANGELOG.txt	b330b1eac6502dcd2981f02465c77b14
+M	README.txt	175b66c914597f03d87b86a7a04050e5
+A	includes/entity.inc	0453de1291a6b656b8b335ae02975ac4
+A	includes/search.inc	78af33dc4a90186ec6bc198b36ea200e
+A	page_manager_search.entity.inc	1517d822e0a5f45eb3bd6f3e15cfeda8
+M	page_manager_search.info	5b0601e088473ac2f861b84e320cd272
+M	page_manager_search.module	9312a936cbfa6ce3a66384d4ed902f00

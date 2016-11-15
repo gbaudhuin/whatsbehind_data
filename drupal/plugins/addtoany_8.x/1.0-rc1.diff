@@ -1,0 +1,19 @@
+D	README.txt	
+D	addtoany.config_translation.yml	
+M	addtoany.info.yml	42221eecc339d4124398a979e540bd20
+D	addtoany.install	
+M	addtoany.libraries.yml	04da40c309e7f81b6c1f9fd1bcf2c485
+M	addtoany.links.menu.yml	b19368dfd4a9722512f6f206a0bf4bbb
+M	addtoany.module	d6a4a7b88447f3fc32cab462260177b4
+D	addtoany.permissions.yml	
+M	addtoany.routing.yml	0b0792e684febf834459d7e339104770
+D	addtoany.views.inc	
+M	config/install/addtoany.settings.yml	3af64ecf2624c2917a81bb1fa218b6cd
+D	config/schema/addtoany.schema.yml	
+M	css/addtoany.css	8e26ebdba0452f17ae9f707a3cb7bb88
+M	js/addtoany.admin.js	dcff5ab60ce82ca5966160dfafad0ad4
+D	js/addtoany.js	
+M	src/Form/AddToAnySettingsForm.php	8234a4020fd30bf31d08411d1ad0e579
+M	src/Plugin/Block/AddToAnyBlock.php	0379ea2d621376edf0b59c1771e9b549
+D	src/Plugin/views/field/NodeAddToAnyShare.php	
+A	views/addtoany.views.inc	9d2dc0d76a564363e014042af52ea4ab

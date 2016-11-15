@@ -1,0 +1,14 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	5bee817b494b0c3644761c4a9b244857
+M	l10n_client-rtl.css	734c31e171987558ccfb7b8cda903826
+A	l10n_client.admin.inc	11d646cad19219ee3ae4b75e4319b015
+M	l10n_client.css	a4ec65994f2c82ec67373eff1f2bc089
+M	l10n_client.info	dccac5a3064cf09139b12b3c4ed415a6
+M	l10n_client.install	b99a9e56d56f021f4f63f19372b4c3e7
+M	l10n_client.js	8cde24ae92a5459adcf671d89734c3e6
+M	l10n_client.module	8bfc77d0aa86c6d18af281358a52e051
+D	translations/hu.po	
+D	translations/modules-l10n_client.de.po	
+D	translations/modules-l10n_client.he.po	
+D	translations/modules-l10n_client.pot	
+D	translations/sk.po	

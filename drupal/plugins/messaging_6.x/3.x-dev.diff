@@ -1,0 +1,65 @@
+M	CHANGELOG.txt	d2eb4d480a8e3673b45a7b8ab62111df
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	fc84c923a1cd9b795fdc60f79e143ee3
+A	classes/messaging_message.class.inc	adcab40d256474b965c869f29c6b8d72
+A	classes/messaging_message_template.class.inc	e5173e04bbd8f9bf620ac2b589358a25
+A	classes/messaging_method.class.inc	ac8c49e5abc5871c6e517b16176e9db6
+M	messaging.admin.inc	af19d1bf0010c370330dfa97b8e8142a
+M	messaging.info	18ed1717187cf1a45740818097323939
+M	messaging.install	c11439697232e98879988b63c13d9e3d
+M	messaging.mail.inc	4b9a3eed0b44ad03a2212d5feffb2953
+M	messaging.module	79c4133284502b5d4fc462c567877dfb
+M	messaging.store.inc	7afa7adf7dcf56c8951c2c265e6527a3
+M	messaging_debug/messaging_debug.info	547af924d15dc12d9b0996f3f97dd373
+M	messaging_debug/messaging_debug.module	9813b3b94e702f321e75caef89462652
+D	messaging_debug/translations/messaging_debug.de.po	
+D	messaging_debug/translations/messaging_debug.pot	
+M	messaging_mail/messaging_mail.info	fec9f4d4cba9f593a58c02a086279453
+M	messaging_mail/messaging_mail.module	6d24975456ac1a798eb5a706409181a8
+D	messaging_mail/translations/messaging_mail.de.po	
+D	messaging_mail/translations/messaging_mail.pot	
+M	messaging_mime_mail/messaging_mime_mail.info	ba7aa51052e3d9a999813cfb4b0b2ec3
+D	messaging_mime_mail/translations/messaging_mime_mail.de.po	
+D	messaging_mime_mail/translations/messaging_mime_mail.pot	
+M	messaging_phpmailer/messaging_phpmailer.info	725b34cc2721bfc72e602c8fd04b1891
+M	messaging_phpmailer/messaging_phpmailer.install	a199f44e455e15b8f4b0ddf4989ee034
+M	messaging_phpmailer/messaging_phpmailer.module	79d83521dfc15a171ec51b055b224866
+D	messaging_phpmailer/translations/messaging_phpmailer.de.po	
+D	messaging_phpmailer/translations/messaging_phpmailer.pot	
+M	messaging_privatemsg/messaging_privatemsg.info	ee290e173223cec8bf2aadf67e6a2804
+M	messaging_privatemsg/messaging_privatemsg.module	f5d2abcd48470f910c6562feaf575879
+D	messaging_privatemsg/translations/messaging_privatemsg.de.po	
+D	messaging_privatemsg/translations/messaging_privatemsg.pot	
+A	messaging_simple/messaging_simple.class.inc	d82187a45b7631ca57d88c6f1bd93eae
+M	messaging_simple/messaging_simple.info	d8d43836fb3f988279d6f07eb1f1ef97
+A	messaging_simple/messaging_simple.install	5f26523f4f36b7b73b93c4b3a16f3651
+M	messaging_simple/messaging_simple.module	e4090d887138ab2de901f147f431e9a8
+D	messaging_simple/translations/messaging_simple.de.po	
+D	messaging_simple/translations/messaging_simple.pot	
+M	messaging_sms/messaging_sms.info	354ef00b722cb8053186d917746f1cd7
+M	messaging_sms/messaging_sms.module	4d301680a88099033990737d6c127c49
+D	messaging_sms/translations/messaging_sms.de.po	
+D	messaging_sms/translations/messaging_sms.pot	
+A	messaging_template/messaging_template.admin.inc	87518674c0e8fdd4cf106e3bcfa89472
+A	messaging_template/messaging_template.css	747c99e7b081e3cc2062ecc3b8665296
+A	messaging_template/messaging_template.inc	08c24c93fbb41353ec7016f624d3045b
+A	messaging_template/messaging_template.info	f902bce6b5336876a0f2ba5caf805c84
+A	messaging_template/messaging_template.install	73e58482c950ad50802babb9aae0d6e6
+A	messaging_template/messaging_template.js	071a655ba60dbbf9b05998c74f66932f
+A	messaging_template/messaging_template.module	32fef3144f1eb128fd0f1dbae0941bfa
+M	messaging_twitter/messaging_twitter.info	f03ca046b5d9fad14a9059e900531d65
+M	messaging_twitter/messaging_twitter.module	656d687365842f7cbb2c8bee6996d501
+D	messaging_twitter/translations/messaging_twitter.de.po	
+D	messaging_twitter/translations/messaging_twitter.pot	
+M	messaging_xmpp/messaging_xmpp.info	4c2828f308898cd8872eef96fd1800e4
+M	messaging_xmpp/messaging_xmpp.module	475b1d6de287a0cd4c43ac2d03d9af40
+D	messaging_xmpp/translations/messaging_xmpp.de.po	
+D	messaging_xmpp/translations/messaging_xmpp.pot	
+M	tests/messaging_api.test	8513c9d7a9d7b645abc4be8151b56c97
+M	tests/messaging_methods.test	4e8ab24565d93ff794d697bc3c577d66
+A	tests/messaging_template.test	b9f3ca46519a8457a58b907ce9ec37ff
+M	tests/messaging_testcase.inc	a01a842c5e7b38f8a0544e2b80f2a042
+D	translations/general.de.po	
+D	translations/general.pot	
+D	translations/messaging.de.po	
+D	translations/messaging.pot	

@@ -1,0 +1,326 @@
+M	UPDATE.txt	e34794a92294bd4f9c46cf20dcead796
+M	build-petitions.make	e2c579cbcc90aa6fa9c4230c926e5f86
+M	drupal-org.make	ee88238c5c13ec3b598a463c3584328c
+D	libraries/colorbox/README.md	
+D	libraries/colorbox/colorbox.ai	
+D	libraries/colorbox/colorbox.jquery.json	
+D	libraries/colorbox/component.json	
+D	libraries/colorbox/content/ajax.html	
+D	libraries/colorbox/content/homer.jpg	
+D	libraries/colorbox/content/marylou.jpg	
+D	libraries/colorbox/content/ohoopee1.jpg	
+D	libraries/colorbox/content/ohoopee2.jpg	
+D	libraries/colorbox/content/ohoopee3.jpg	
+D	libraries/colorbox/example1/colorbox.css	
+D	libraries/colorbox/example1/images/border.png	
+D	libraries/colorbox/example1/images/controls.png	
+D	libraries/colorbox/example1/images/ie6/borderBottomCenter.png	
+D	libraries/colorbox/example1/images/ie6/borderBottomLeft.png	
+D	libraries/colorbox/example1/images/ie6/borderBottomRight.png	
+D	libraries/colorbox/example1/images/ie6/borderMiddleLeft.png	
+D	libraries/colorbox/example1/images/ie6/borderMiddleRight.png	
+D	libraries/colorbox/example1/images/ie6/borderTopCenter.png	
+D	libraries/colorbox/example1/images/ie6/borderTopLeft.png	
+D	libraries/colorbox/example1/images/ie6/borderTopRight.png	
+D	libraries/colorbox/example1/images/loading.gif	
+D	libraries/colorbox/example1/images/loading_background.png	
+D	libraries/colorbox/example1/images/overlay.png	
+D	libraries/colorbox/example1/index.html	
+D	libraries/colorbox/example2/colorbox.css	
+D	libraries/colorbox/example2/images/controls.png	
+D	libraries/colorbox/example2/images/loading.gif	
+D	libraries/colorbox/example2/index.html	
+D	libraries/colorbox/example3/colorbox.css	
+D	libraries/colorbox/example3/images/controls.png	
+D	libraries/colorbox/example3/images/loading.gif	
+D	libraries/colorbox/example3/index.html	
+D	libraries/colorbox/example4/colorbox.css	
+D	libraries/colorbox/example4/images/border1.png	
+D	libraries/colorbox/example4/images/border2.png	
+D	libraries/colorbox/example4/images/ie6/borderBottomCenter.png	
+D	libraries/colorbox/example4/images/ie6/borderBottomLeft.png	
+D	libraries/colorbox/example4/images/ie6/borderBottomRight.png	
+D	libraries/colorbox/example4/images/ie6/borderMiddleLeft.png	
+D	libraries/colorbox/example4/images/ie6/borderMiddleRight.png	
+D	libraries/colorbox/example4/images/ie6/borderTopCenter.png	
+D	libraries/colorbox/example4/images/ie6/borderTopLeft.png	
+D	libraries/colorbox/example4/images/ie6/borderTopRight.png	
+D	libraries/colorbox/example4/images/loading.gif	
+D	libraries/colorbox/example4/index.html	
+D	libraries/colorbox/example5/colorbox.css	
+D	libraries/colorbox/example5/images/border.png	
+D	libraries/colorbox/example5/images/controls.png	
+D	libraries/colorbox/example5/images/loading.gif	
+D	libraries/colorbox/example5/images/loading_background.png	
+D	libraries/colorbox/example5/index.html	
+D	libraries/colorbox/jquery.colorbox-min.js	
+D	libraries/colorbox/jquery.colorbox.js	
+M	make/7.x-1.x/drupal-org.make	ee88238c5c13ec3b598a463c3584328c
+D	modules/contrib/colorbox/LICENSE.txt	
+D	modules/contrib/colorbox/README.txt	
+D	modules/contrib/colorbox/colorbox-insert-image.tpl.php	
+D	modules/contrib/colorbox/colorbox.admin.inc	
+D	modules/contrib/colorbox/colorbox.api.php	
+D	modules/contrib/colorbox/colorbox.info	
+D	modules/contrib/colorbox/colorbox.install	
+D	modules/contrib/colorbox/colorbox.make.example	
+D	modules/contrib/colorbox/colorbox.module	
+D	modules/contrib/colorbox/colorbox.theme.inc	
+D	modules/contrib/colorbox/colorbox.variable.inc	
+D	modules/contrib/colorbox/drush/colorbox.drush.inc	
+D	modules/contrib/colorbox/images/controls.png	
+D	modules/contrib/colorbox/images/loading_animation.gif	
+D	modules/contrib/colorbox/images/loading_background.png	
+D	modules/contrib/colorbox/js/colorbox.js	
+D	modules/contrib/colorbox/js/colorbox_admin_settings.js	
+D	modules/contrib/colorbox/js/colorbox_inline.js	
+D	modules/contrib/colorbox/js/colorbox_load.js	
+D	modules/contrib/colorbox/styles/default/colorbox_style.css	
+D	modules/contrib/colorbox/styles/default/colorbox_style.js	
+D	modules/contrib/colorbox/styles/default/images/controls.png	
+D	modules/contrib/colorbox/styles/default/images/loading_animation.gif	
+D	modules/contrib/colorbox/styles/default/images/loading_background.png	
+D	modules/contrib/colorbox/styles/plain/colorbox_style.css	
+D	modules/contrib/colorbox/styles/plain/colorbox_style.js	
+D	modules/contrib/colorbox/styles/plain/images/controls.png	
+D	modules/contrib/colorbox/styles/plain/images/loading_animation.gif	
+D	modules/contrib/colorbox/styles/plain/images/loading_background.png	
+D	modules/contrib/colorbox/styles/stockholmsyndrome/colorbox_stockholmsyndrome_screen.png	
+D	modules/contrib/colorbox/styles/stockholmsyndrome/colorbox_style.css	
+D	modules/contrib/colorbox/styles/stockholmsyndrome/colorbox_style.js	
+D	modules/contrib/colorbox/styles/stockholmsyndrome/images/bg_tab.png	
+D	modules/contrib/colorbox/styles/stockholmsyndrome/images/controls.png	
+D	modules/contrib/colorbox/styles/stockholmsyndrome/images/loading_animation.gif	
+D	modules/contrib/colorbox/views/colorbox.views.inc	
+D	modules/contrib/colorbox/views/colorbox_handler_field_colorbox.inc	
+D	modules/contrib/conditional_styles/CHANGELOG.txt	
+D	modules/contrib/conditional_styles/LICENSE.txt	
+D	modules/contrib/conditional_styles/README.txt	
+D	modules/contrib/conditional_styles/conditional_styles.info	
+D	modules/contrib/conditional_styles/conditional_styles.install	
+D	modules/contrib/conditional_styles/conditional_styles.module	
+D	modules/contrib/conditional_styles/tests/conditional_styles.test	
+D	modules/contrib/conditional_styles/tests/conditional_styles_test.info	
+D	modules/contrib/conditional_styles/tests/conditional_styles_test.module	
+M	modules/contrib/devel_themer/devel_themer.css	a7fd09c944c11c18686a5cdf4a613262
+M	modules/contrib/devel_themer/devel_themer.info	93deb1c82312a007610c584611b3d372
+M	modules/contrib/devel_themer/devel_themer.js	073e569ba60c92f45cb72e6e94f7c74d
+M	modules/contrib/devel_themer/devel_themer.module	3bfd295c83d45a8ef7446fbc995feb34
+A	modules/contrib/devel_themer/themer-bar.png	164d594883ade54dfd51d3dd37d34fb2
+D	modules/contrib/globalredirect/LICENSE.txt	
+D	modules/contrib/globalredirect/globalredirect.admin.inc	
+D	modules/contrib/globalredirect/globalredirect.info	
+D	modules/contrib/globalredirect/globalredirect.install	
+D	modules/contrib/globalredirect/globalredirect.module	
+D	modules/contrib/globalredirect/globalredirect.test	
+D	modules/contrib/libraries/CHANGELOG.txt	
+D	modules/contrib/libraries/LICENSE.txt	
+D	modules/contrib/libraries/README.txt	
+D	modules/contrib/libraries/libraries.api.php	
+D	modules/contrib/libraries/libraries.drush.inc	
+D	modules/contrib/libraries/libraries.info	
+D	modules/contrib/libraries/libraries.install	
+D	modules/contrib/libraries/libraries.module	
+D	modules/contrib/libraries/tests/example/README.txt	
+D	modules/contrib/libraries/tests/example/example_1.css	
+D	modules/contrib/libraries/tests/example/example_1.js	
+D	modules/contrib/libraries/tests/example/example_1.php	
+D	modules/contrib/libraries/tests/example/example_2.css	
+D	modules/contrib/libraries/tests/example/example_2.js	
+D	modules/contrib/libraries/tests/example/example_2.php	
+D	modules/contrib/libraries/tests/example/example_3.css	
+D	modules/contrib/libraries/tests/example/example_3.js	
+D	modules/contrib/libraries/tests/example/example_3.php	
+D	modules/contrib/libraries/tests/example/example_4.css	
+D	modules/contrib/libraries/tests/example/example_4.js	
+D	modules/contrib/libraries/tests/example/example_4.php	
+D	modules/contrib/libraries/tests/example/example_info_file.libraries.info	
+D	modules/contrib/libraries/tests/libraries.test	
+D	modules/contrib/libraries/tests/libraries_test.css	
+D	modules/contrib/libraries/tests/libraries_test.inc	
+D	modules/contrib/libraries/tests/libraries_test.info	
+D	modules/contrib/libraries/tests/libraries_test.js	
+D	modules/contrib/libraries/tests/libraries_test.module	
+D	modules/contrib/services/LICENSE.txt	
+D	modules/contrib/services/README.txt	
+D	modules/contrib/services/auth/services_oauth/services_oauth.css	
+D	modules/contrib/services/auth/services_oauth/services_oauth.inc	
+D	modules/contrib/services/auth/services_oauth/services_oauth.info	
+D	modules/contrib/services/auth/services_oauth/services_oauth.install	
+D	modules/contrib/services/auth/services_oauth/services_oauth.module	
+D	modules/contrib/services/css/services.admin.css	
+D	modules/contrib/services/js/services.admin.js	
+D	modules/contrib/services/plugins/export_ui/services_ctools_export_ui.class.php	
+D	modules/contrib/services/plugins/export_ui/services_ctools_export_ui.inc	
+D	modules/contrib/services/resources/comment_resource.inc	
+D	modules/contrib/services/resources/file_resource.inc	
+D	modules/contrib/services/resources/node_resource.inc	
+D	modules/contrib/services/resources/system_resource.inc	
+D	modules/contrib/services/resources/taxonomy_resource.inc	
+D	modules/contrib/services/resources/user_resource.inc	
+D	modules/contrib/services/servers/rest_server/README.markdown	
+D	modules/contrib/services/servers/rest_server/formats/RssFormatView.inc	
+D	modules/contrib/services/servers/rest_server/formats/XCalFormatView.inc	
+D	modules/contrib/services/servers/rest_server/formats/xcal_format.info	
+D	modules/contrib/services/servers/rest_server/formats/xcal_format.module	
+D	modules/contrib/services/servers/rest_server/includes/RESTServer.inc	
+D	modules/contrib/services/servers/rest_server/includes/models.inc	
+D	modules/contrib/services/servers/rest_server/includes/node_resource.models.inc	
+D	modules/contrib/services/servers/rest_server/includes/rest_server.views.inc	
+D	modules/contrib/services/servers/rest_server/lib/Spyc.php	
+D	modules/contrib/services/servers/rest_server/lib/bencode.php	
+D	modules/contrib/services/servers/rest_server/lib/mimeparse.php	
+D	modules/contrib/services/servers/rest_server/rest_server.api.php	
+D	modules/contrib/services/servers/rest_server/rest_server.inc	
+D	modules/contrib/services/servers/rest_server/rest_server.info	
+D	modules/contrib/services/servers/rest_server/rest_server.install	
+D	modules/contrib/services/servers/rest_server/rest_server.module	
+D	modules/contrib/services/servers/xmlrpc_server/xmlrpc_server.info	
+D	modules/contrib/services/servers/xmlrpc_server/xmlrpc_server.module	
+D	modules/contrib/services/services.admin.inc	
+D	modules/contrib/services/services.authentication.api.php	
+D	modules/contrib/services/services.css	
+D	modules/contrib/services/services.info	
+D	modules/contrib/services/services.install	
+D	modules/contrib/services/services.make	
+D	modules/contrib/services/services.module	
+D	modules/contrib/services/services.resource_build.inc	
+D	modules/contrib/services/services.resource_update.inc	
+D	modules/contrib/services/services.runtime.inc	
+D	modules/contrib/services/services.servers.api.php	
+D	modules/contrib/services/services.services.api.php	
+D	modules/contrib/services/services.versions.api.php	
+D	modules/contrib/services/tests/functional/NoAuthEndpointTestRunner.test	
+D	modules/contrib/services/tests/functional/ServicesAliasTests.test	
+D	modules/contrib/services/tests/functional/ServicesArgumentsTests.test	
+D	modules/contrib/services/tests/functional/ServicesEndpointTests.test	
+D	modules/contrib/services/tests/functional/ServicesParserTests.test	
+D	modules/contrib/services/tests/functional/ServicesResourceCommentTests.test	
+D	modules/contrib/services/tests/functional/ServicesResourceDisabledTests.test	
+D	modules/contrib/services/tests/functional/ServicesResourceFileTests.test	
+D	modules/contrib/services/tests/functional/ServicesResourceNodeTests.test	
+D	modules/contrib/services/tests/functional/ServicesResourceSystemTests.test	
+D	modules/contrib/services/tests/functional/ServicesResourceTaxonomyTests.test	
+D	modules/contrib/services/tests/functional/ServicesResourceUserTests.test	
+D	modules/contrib/services/tests/functional/ServicesVersionTests.test	
+D	modules/contrib/services/tests/functional/ServicesXMLRPCTests.test	
+D	modules/contrib/services/tests/services.test	
+D	modules/contrib/services/tests/services_test_resource/services_test_resource.info	
+D	modules/contrib/services/tests/services_test_resource/services_test_resource.module	
+D	modules/contrib/services/tests/ui/ServicesUITests.test	
+D	modules/contrib/services/tests/unit/TestServicesModule.test	
+D	modules/custom/api_resource_users/api_resource_users.info	
+D	modules/custom/api_resource_users/api_resource_users.module	
+D	modules/custom/api_resource_users/example_responses/api_resource_users_index.response.json	
+M	modules/custom/front_class/front_class.info	1431c5f0fc6808e66b4f36a52158ed9f
+D	modules/custom/gatekeeper/css/gatekeeper.css	
+D	modules/custom/gatekeeper/gatekeeper.info	
+D	modules/custom/gatekeeper/gatekeeper.install	
+D	modules/custom/gatekeeper/gatekeeper.module	
+D	modules/custom/gatekeeper/js/gatekeeper.js	
+M	modules/custom/is_not_cached/is_not_cached.info	6e1ac9f85b371ec74fe212049fa1c6d5
+D	modules/custom/is_profane/README.txt	
+D	modules/custom/is_profane/is_profane.info	
+D	modules/custom/is_profane/is_profane.module	
+M	modules/custom/mongodb_util/mongodb_util.info	2e34f5c8e289f888d2326ea356c6e4b6
+M	modules/custom/petition_install/petition_install1/petition_install1.info	0edffc65694c4c0fe4365d78e48625a3
+M	modules/custom/petition_install/petition_install2/petition_install2.info	9396db033ce49ce171698d88bbef6184
+M	modules/custom/petition_install/petition_install3/petition_install3.info	5de62de0050e47cccc83dcf0360aa99a
+M	modules/custom/petition_install/petition_install4/petition_install4.info	fa1a595db4fa1fa09778992246a45935
+M	modules/custom/petitions_homepage/css/homepage.css	180b24d213a0ba531d52b22396866d42
+M	modules/custom/petitions_homepage/img/petitions_landing_wh_content_01.jpg	e2f139b5b2678a2b3d21bda0f8785c08
+M	modules/custom/petitions_homepage/img/petitions_landing_wh_content_02.jpg	0a57b8d13b0f6706cd4d40633062063b
+M	modules/custom/petitions_homepage/img/petitions_social_icons.jpg	3cd86ebb81addd9fadff039f5dee89a3
+M	modules/custom/petitions_homepage/img/petitions_tw_landing.png	a414f8bc1e27036e37d8ebe783135091
+M	modules/custom/petitions_homepage/petitions_homepage.info	cdad32ce24e9077b85193d666845aea4
+M	modules/custom/petitions_homepage/petitions_homepage.install	aabea283e0651718ace336c8f99afa33
+M	modules/custom/petitions_homepage/petitions_homepage.module	f34bf1a45fe0424ff02694e8a8272834
+M	modules/custom/petitions_homepage/sass/homepage.scss	78b378c13c12502c24b340220a1e7de2
+M	modules/custom/petitions_maintenance/petitions_maintenance.info	00ad6d78e10b7ae802556cf78da56918
+M	modules/custom/petitions_maintenance/petitions_maintenance.install	8bac5a7c9cb923edde17ce1f2593c68a
+D	modules/custom/petitions_profanity/petitions_profanity.info	
+D	modules/custom/petitions_profanity/petitions_profanity.module	
+D	modules/custom/petitions_signatures_display/README.txt	
+D	modules/custom/petitions_signatures_display/petitions_signatures_display.admin.inc	
+D	modules/custom/petitions_signatures_display/petitions_signatures_display.info	
+D	modules/custom/petitions_signatures_display/petitions_signatures_display.install	
+D	modules/custom/petitions_signatures_display/petitions_signatures_display.module	
+D	modules/custom/petitions_stats_users/petitions_stats_users.drush.inc	
+D	modules/custom/petitions_stats_users/petitions_stats_users.files.inc	
+D	modules/custom/petitions_stats_users/petitions_stats_users.info	
+D	modules/custom/petitions_stats_users/petitions_stats_users.install	
+D	modules/custom/petitions_stats_users/petitions_stats_users.module	
+D	modules/custom/petitions_stats_users/petitions_stats_users.pages.inc	
+D	modules/custom/petitions_stats_users/theme/petitions-stats-users.tpl.php	
+D	modules/custom/petitions_stats_users/theme/petitions_stats_users.css	
+M	modules/custom/petitions_usermenu/petitions_usermenu.info	effe71829043b42c1fc329a5dd6d24e0
+D	modules/custom/services_documentation/services_documentation.api.php	
+D	modules/custom/services_documentation/services_documentation.info	
+D	modules/custom/services_documentation/services_documentation.module	
+D	modules/custom/services_documentation/services_documentation_ui.info	
+D	modules/custom/services_documentation/services_documentation_ui.module	
+D	modules/custom/services_documentation/services_documentation_ui/services_documentation_ui.info	
+D	modules/custom/services_documentation/services_documentation_ui/services_documentation_ui.module	
+D	modules/custom/services_documentation/theme/services-documentation-method-bundle.tpl.php	
+D	modules/custom/services_documentation/theme/services-documentation-method.tpl.php	
+D	modules/custom/services_documentation/theme/services-documentation-resource.tpl.php	
+D	modules/custom/services_documentation/theme/services-documentation-version.tpl.php	
+D	modules/custom/services_documentation/theme/services-documentation-versions-overview.tpl.php	
+D	modules/custom/services_documentation/theme/services_documentation.css	
+M	modules/custom/wh_core/wh_core.info	0e24b075ba72b78c1e31dc3b9befd713
+M	modules/custom/wh_core/wh_core.install	384d09f78b10b59eda988b58d14c0bfd
+M	modules/custom/wh_core/wh_core.module	59db82e7d68ad253709f59b1ae538691
+M	modules/custom/wh_feedback/wh_feedback.info	200e54b48f87f99d23ed18273f7a3cef
+M	modules/custom/wh_petition_reporting/wh_petition_reporting.info	05e23e096692a5084180a6bc87d7d44a
+M	modules/custom/wh_petition_tool/wh_petition_tool.info	444ed2ae66071d92555977738d3fda27
+M	modules/custom/wh_petition_tool/wh_petition_tool.module	a43e7ee0388a02571db41149d91086e5
+M	modules/custom/wh_petitions/drush/wh_petitions.drush.inc	16b5939b213a919a785c68e0ffb73b6a
+M	modules/custom/wh_petitions/templates/wh-petitions-display-petition-info.tpl.php	783eb2add2ec56c03fbbf27e9d7710b0
+M	modules/custom/wh_petitions/templates/wh-petitions-page-petition.tpl.php	59af82881afece116af4515aded0e516
+M	modules/custom/wh_petitions/wh_petitions.admin.inc	4e4c26e53efa710f058d35598fa7374b
+M	modules/custom/wh_petitions/wh_petitions.form.inc	c5dabe9a3fb3a2379c9360d9011fbd48
+M	modules/custom/wh_petitions/wh_petitions.info	2d1c428957d7cdb89c82c71297c59306
+M	modules/custom/wh_petitions/wh_petitions.module	26117ed379c9872d3e363591ac0c83ce
+M	modules/custom/wh_petitions/wh_petitions.pages.inc	545c03f48095539c009983b4dfabacc2
+M	modules/custom/wh_profile_migrate/wh_profile_migrate.info	137fc12e5bc349b6e077156fa71b3e00
+M	modules/custom/wh_response/wh_response.info	b70e1b04797de31c53e0f6f16435d0f1
+D	modules/custom/wh_zipcodelookup/README.txt	
+M	modules/custom/wh_zipcodelookup/wh_zipcodelookup.info	5aec5b3ecb0d8b68917f51fa98631df3
+M	modules/custom/wh_zipcodelookup/wh_zipcodelookup.js	0d26c9ccfa0e16b7186de6e12faa0ba7
+M	modules/custom/wh_zipcodelookup/wh_zipcodelookup.module	2dc9652d1f3ab7979b2cd034acabf63b
+D	modules/features/petitions_api/petitions_api.features.inc	
+D	modules/features/petitions_api/petitions_api.info	
+D	modules/features/petitions_api/petitions_api.module	
+D	modules/features/petitions_api/petitions_api.services.inc	
+M	modules/features/petitions_logintoboggan_settings/petitions_logintoboggan_settings.info	9221cebabb5dbe1554b136c852114f2e
+M	modules/features/petitions_user_registration/petitions_user_registration.info	d28707fe045ff5e0065300952d23a2ec
+M	modules/features/taxonomy_sync/taxonomy_sync.info	96c6b473cc26c63a7e517d1a89c91323
+M	modules/features/wh_contexts/wh_contexts.info	bac63b67afc5425831385dcbdf96c0f4
+M	modules/features/wh_misc/wh_misc.info	0e8a40ff67a0e0e0a83935d06c09c433
+M	modules/features/wh_petition_page/wh_petition_page.info	77df4666cdcc1d1193ae7ed7fef6497a
+M	modules/features/wh_response_feature/wh_response_feature.info	0cd5067566b15ff0a6cec9bafa3bcc17
+M	modules/features/wh_user_profile/wh_user_profile.info	6b56cfe7ed80762c436caa19300a3c69
+M	modules/features/wh_user_ss_data/wh_user_ss_data.info	011249e5d1d5124506c58f1fc1c76bae
+M	petitions.info	cf1309aee3d8df9811633e72419257a5
+M	themes/fortyfour/fortyfour.info	30e9d141ecd3e5ed6dcdcb2aca5ebaf6
+M	themes/fortyfour/template.php	6474f5004e56d09ed001832fba8cce3c
+M	themes/fortyfour/templates/fortyfour-footer.tpl.php	a592b893dae8dfe3aa20f0d84079c285
+M	themes/fortyfour/templates/fortyfour-header.tpl.php	690772ecc56cf9f42c69ea2eb25867bf
+M	themes/fortyfour/templates/fortyfour-mainnav.tpl.php	35c3c60e5cec2e109752ce1ee2b9129e
+M	themes/fortyfour/templates/fortyfour-subfooter.tpl.php	674dae1d7e41ec461eaced6417aa9a7b
+M	themes/fortyfour/templates/html.tpl.php	0d1ec8d18c8a2a86465a7511a15e69e6
+M	themes/fortyfour/templates/maintenance-page.tpl.php	88a33b6eb7396a275f941c829003705a
+A	themes/fortyfour/templates/node--chart.tpl.php	acfd100e744a8efb78eb00f1a9a773d9
+M	themes/fortyfour/templates/node.tpl.php	2128ed1cc5ef2a474b51d68735496d67
+M	themes/fortyfour/templates/page.tpl.php	08201d4faef06759ff195d7357cd0960
+M	themes/fortyfour/templates/views-view-fields--front-page-grid--page.tpl.php	c9ba5232f319a09d64af913d17cbf2a6
+M	themes/fortyfour/templates/views-view-list--front-page-grid--block-1.tpl.php	9a6275b8d87168a59f983f41c0ec3542
+M	themes/fortyfour/templates/views-view-unformatted--front-page-grid--page.tpl.php	641f8532224a9dc981d1933af44ab86f
+M	themes/petitions44/css/style.css	8cd1fcf060e5faf1f8624430a9d74ca9
+M	themes/petitions44/img/sprite-buttons.png	43097a3ced1764b83db4ec61aaccfc9a
+D	themes/petitions44/img/wh_home_footer.jpg	
+D	themes/petitions44/img/wh_home_new_header.jpg	
+M	themes/petitions44/petitions44.info	b171a364bb873862fbdbdd1a76cd1b20
+M	themes/petitions44/sass/style.scss	ca40f97c248f6ac6f131610bce6bb2bf
+M	themes/petitions44/template.php	c28a7377fd89835f0f44181b2bb05aff
+M	themes/petitions44/templates/page.tpl.php	37e8ebb095d3ac01ec86c807a5918a42

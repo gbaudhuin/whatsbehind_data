@@ -1,0 +1,35 @@
+A	INSTALL.txt	e9b0b111dddab86c41fb37ff87cd7c73
+D	README.txt	
+D	images/refresh.png	
+D	includes/CHANGELOG.md	
+M	includes/LICENSE-GPL.txt	418ec4ea47682552266ffb70d8324d8f
+M	includes/README.md	1b2302aab1ccc1edd46c139b8a17b779
+D	includes/TODO.md	
+D	includes/composer.json	
+M	includes/mollom.class.inc	3bac2f82b4486609544b4ea84a34b554
+D	mollom-captcha-audio.tpl.php	
+D	mollom-captcha-image.tpl.php	
+M	mollom-captcha-player.swf	48141ecca26bd4bff845f9fd544fc93f
+D	mollom.admin.blacklist.js	
+D	mollom.admin.css	
+M	mollom.admin.inc	95a059b9652090c964167107c0654c8e
+M	mollom.admin.js	6dc025b2b226528b61935b08aaa5cc8e
+M	mollom.api.php	0fa66075b115e65fdfc0140f810e5f99
+M	mollom.css	ccbfd4f86cac524800a88ee35ee0d935
+M	mollom.drupal.inc	60d235ba2efcc22ed8ca962b7cc16e53
+D	mollom.flag.css	
+D	mollom.flag.inc	
+D	mollom.flag.js	
+D	mollom.flag.position.css	
+M	mollom.info	b49a8a1a4f6afe0ff0ff0dc6fdaf5c61
+M	mollom.install	0e78ee50498332d1c8bb34726a1b15df
+M	mollom.js	190ceccc224cfeb4599777cc0b137595
+M	mollom.module	d1d6f987d8e2c4630780cbc4b29eaff0
+M	mollom.pages.inc	654f8237c831fcfb32c1d8bf4ca13a26
+M	tests/mollom.class.test	e1575d722b13d7b589f81b377a2cf353
+M	tests/mollom.test	b6d200db868defc136f3153f404c2fe4
+M	tests/mollom_test.info	39b52a8f1dca151415cc8572cc033c14
+M	tests/mollom_test.install	f5e043c424cdaffe8717ca3529c9434a
+M	tests/mollom_test.module	1af015fc5b21b95d2e0a326cdeffd2a5
+M	tests/mollom_test_server.info	ba1b50438f065a2ab98a749f14c7b734
+M	tests/mollom_test_server.module	06867309f9551bac68b3287badc098c9

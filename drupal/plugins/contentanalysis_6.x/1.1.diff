@@ -1,0 +1,12 @@
+M	APIEXAMPLE/contentanalysisexample.info	4e311b853f0175387643a38f4e484992
+A	TODO.txt	d41d8cd98f00b204e9800998ecf8427e
+M	contentanalysis.admin.css	7d56f3b76b86fec3004231fb7cadce3a
+M	contentanalysis.admin.inc	cb4f79a21e3dcf695a301d070e35d9f2
+M	contentanalysis.css	a1f541126b98d53561ee0aa6e071b741
+M	contentanalysis.info	d75d0c243133ed5d1cf83c4aca706407
+M	contentanalysis.install	b395858bad243065cbf7e18bbc8bd657
+M	contentanalysis.js	22b2a09c94275739e089b401e7d98fde
+M	contentanalysis.module	a8970964115be60cca6959c47f579372
+A	install.sql	f0238cbf2ab8f0f259a161a0156b62ae
+M	translations/contentanalysis.de.po	20e51e8281b769ebc2adae5732fb8224
+M	translations/contentanalysis.pot	4e11c17b32bf9954aab986a481f1ef45

@@ -1,0 +1,13 @@
+M	CHANGELOG.txt	29c6d2bd822daac0a33450991a976a05
+M	advanced_profile.info	b13cbe4c4b1e1bd4beeef46fdba26a69
+M	advanced_profile.module	665dd15a9fd4bd0dd462b2a45a822f3a
+M	includes/panels/advanced_profile.pages_default.inc	c7b9b8f1daf872873d3fa6181fa91192
+M	includes/panels/panels.inc	b03af5bfdef171647f88a6249cdcabaf
+M	includes/theme.inc	7c1e818cc30d8cedbf852301de52427b
+M	includes/views/apk.apk_ur_friends_gallery.view	5d41460722ca9dab8e7c60b21eb31b03
+A	includes/views/apk.apk_user_posts.view	95dd67af63ea43e6afb44b5609310313
+M	includes/views/apk.apk_user_replies.view	a33a111f5d278bf1bc76cfd07fc1b899
+M	includes/views/apk.apk_user_topics.view	8683b08848cad7b19c4528622cb878be
+M	theme/advanced_profile.css	954d93ed209a144d81343049a8e20adb
+M	theme/advanced_profile_author-pane.tpl.php	e5dbeb09a923cbab6cc887246244bce8
+A	theme/advanced_profile_blue-lagoon.css	56109bf8d61438b0e69bdf44fdc3eb8d

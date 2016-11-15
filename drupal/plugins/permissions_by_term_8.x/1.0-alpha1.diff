@@ -1,0 +1,45 @@
+D	.gitignore	
+M	README.txt	1260f483829374b974d57fae97cafe3c
+A	permissions_by_term.info	9113b96ff557c85b97c4d2721eb606eb
+M	permissions_by_term.info.yml	9e9c978171bda98cbb18e1b0e07f768b
+M	permissions_by_term.install	f5ffaac72f0e80ff3ff5b854a314e2b6
+M	permissions_by_term.module	b473752cb253aa8f209fd66c043d8425
+M	permissions_by_term.routing.yml	3a50bd813386f4fcb3ad01b4b33a79f8
+D	permissions_by_term.services.yml	
+D	phpunit.xml	
+D	src/AccessCheck.php	
+D	src/AccessCheckInterface.php	
+D	src/AccessStorage.php	
+D	src/AccessStorageInterface.php	
+A	src/Controller/DefaultController.php	1c68df846673f472fd66010d394ab726
+D	src/Controller/PermissionsByTermController.php	
+D	src/KernelEventListener.php	
+D	src/Plugin/views/filter/PermissionsByTerm.php	
+D	tests/bootstrap.php	
+D	tests/build.xml.example	
+D	tests/codeception/README.md	
+D	tests/codeception/codeception.yml	
+D	tests/codeception/tests/_bootstrap.php	
+D	tests/codeception/tests/_data/dump.sql	
+D	tests/codeception/tests/_support/AcceptanceTester.php	
+D	tests/codeception/tests/_support/FunctionalTester.php	
+D	tests/codeception/tests/_support/Helper/Acceptance.php	
+D	tests/codeception/tests/_support/Helper/Functional.php	
+D	tests/codeception/tests/_support/Helper/Unit.php	
+D	tests/codeception/tests/_support/UnitTester.php	
+D	tests/codeception/tests/_support/_generated/AcceptanceTesterActions.php	
+D	tests/codeception/tests/_support/_generated/FunctionalTesterActions.php	
+D	tests/codeception/tests/_support/_generated/UnitTesterActions.php	
+D	tests/codeception/tests/acceptance.suite.yml	
+D	tests/codeception/tests/acceptance/AccessRemovalOneTermCept.php	
+D	tests/codeception/tests/acceptance/AddDeleteEditNodeCept.php	
+D	tests/codeception/tests/acceptance/RestrictNodeCept.php	
+D	tests/codeception/tests/acceptance/RestrictTermAccessFormCept.php	
+D	tests/codeception/tests/acceptance/TermPermissionsEditCept.php	
+D	tests/codeception/tests/acceptance/_bootstrap.php	
+D	tests/codeception/tests/functional.suite.yml	
+D	tests/codeception/tests/functional/_bootstrap.php	
+D	tests/codeception/tests/unit.suite.yml	
+D	tests/codeception/tests/unit/_bootstrap.php	
+D	tests/src/Kernel/SelectTermTest.php	
+A	upgrade-info.html	2e3cfc7a7d0f0227979bfc479fb08d74

@@ -1,0 +1,70 @@
+D	README.txt	
+D	composer.json	
+A	config/install/diff.plugins.yml	f26591bb6fbf47cc3fd6c55f45e23ff2
+M	config/install/diff.settings.yml	51822fe47480666a5a49297f7e563b50
+M	config/schema/diff.schema.yml	075c74c224f49e481d8ae8e23c60ee10
+D	css/diff.colors.css	
+A	css/diff.default.css	91de21e50039d52cd0f1bbc254ed4b09
+M	css/diff.general.css	0e18238b112ff39463e087d4a0c406fd
+D	css/diff.single-column.css	
+D	css/diff.visual-inline.css	
+M	diff.api.php	51e76f90bfbb8b57510d62720ee98e0c
+M	diff.info.yml	e3a3a067e2567eecf119e94a7f1994f9
+D	diff.install	
+M	diff.libraries.yml	496347fea9575ee1d30f62a48030026a
+M	diff.links.task.yml	8aa0762ab4d52d7b25bbe5d63a34f8ed
+M	diff.module	7aa9e159c91dbb6fe6259c337f92334b
+M	diff.routing.yml	fba746e2b3c3271a68ef68c9b6720b8f
+M	diff.services.yml	df3c6c19b02b316735a50d927e921261
+D	diff.views.inc	
+M	js/diff.js	14bda4aceb3a8428bf339ca76a111056
+D	src/Annotation/DiffLayoutBuilder.php	
+M	src/Annotation/FieldDiffBuilder.php	dbfa9be7f987e8bc75828b815e1c1704
+M	src/Controller/NodeRevisionController.php	87787351129cd9a2eef7b2e4fd7c9255
+D	src/Controller/PluginRevisionController.php	
+A	src/DiffBreadcrumbBuilder.php	af8d655d5505a2a03f63be4affa1975a
+M	src/DiffBuilderManager.php	26bcbe9952eff1aa92d4cd418a01d986
+D	src/DiffEntityComparison.php	
+M	src/DiffEntityParser.php	139737affb0fc10bcf5c2815dce52042
+M	src/DiffFormatter.php	3aea7e5a86692e1654601b048252b471
+D	src/DiffLayoutBase.php	
+D	src/DiffLayoutInterface.php	
+D	src/DiffLayoutManager.php	
+A	src/EntityComparisonBase.php	9e653250df39aa0b992a3feb3317c38d
+M	src/FieldDiffBuilderBase.php	1f4a387112171f2cdd83897288590239
+M	src/FieldDiffBuilderInterface.php	c91ff08ff3a41f2f43b10d0dbaaa4129
+D	src/FieldReferenceInterface.php	
+M	src/Form/GeneralSettingsForm.php	a7b32aaa1827b863ed97b32c50b13c7b
+A	src/Form/NodeEntitySettingsForm.php	b8762b6185131cf9990ebe19a8a844b5
+M	src/Form/RevisionOverviewForm.php	502b4448a23f8500f9fae172e003d5a5
+A	src/Plugin/Diff/CoreFieldBuilder.php	8f9784c2655f7863f23ddbfefafefedb
+D	src/Plugin/diff/Field/CoreFieldBuilder.php	
+D	src/Plugin/diff/Layout/SplitFieldsDiffLayout.php	
+D	src/Plugin/diff/Layout/UnifiedFieldsDiffLayout.php	
+D	src/Plugin/diff/Layout/VisualInlineDiffLayout.php	
+D	src/Plugin/views/field/DiffFrom.php	
+D	src/Plugin/views/field/DiffPluginBase.php	
+D	src/Plugin/views/field/DiffTo.php	
+D	src/Routing/DiffRouteProvider.php	
+M	src/Routing/RouteSubscriber.php	fc1a43082e22185791481b481d6096f1
+A	src/Tests/AdminFormsTest.php	1b558b150d205af73c59f63b819b1ad4
+D	src/Tests/DiffAdminFormsTest.php	
+M	src/Tests/DiffLocaleTest.php	4789bab867f88d35d2f49a1ac186112a
+D	src/Tests/DiffPluginEntityTest.php	
+D	src/Tests/DiffPluginFileTest.php	
+M	src/Tests/DiffPluginTest.php	f46c36699c9e01f609b5c6d660d7e14d
+D	src/Tests/DiffPluginTestBase.php	
+D	src/Tests/DiffPluginVariousTest.php	
+M	src/Tests/DiffRevisionTest.php	f333cde3ec0ef0f0391e3af6f9248228
+D	src/Tests/DiffTestBase.php	
+D	src/Tests/DiffViewModeTest.php	
+D	src/Tests/DiffViewsTest.php	
+A	src/Tests/ViewModeTest.php	74dfeacf18d5aa1dacfb6151c2096c25
+D	src/VisualDiffThemeNegotiator.php	
+D	tests/modules/diff_test/config/optional/views.view.test_diff_view.yml	
+M	tests/modules/diff_test/diff_test.info.yml	f4b1dd763683ca7772c9188f0dc51dc6
+M	tests/modules/diff_test/diff_test.module	d41d8cd98f00b204e9800998ecf8427e
+D	tests/modules/diff_test/src/Plugin/diff/Field/TestHeavierTextPlugin.php	
+D	tests/modules/diff_test/src/Plugin/diff/Field/TestLighterTextPlugin.php	
+D	tests/src/Kernel/DiffControllerTest.php	
+D	tests/src/Unit/VisualDiffThemeNegotiatorTest.php	

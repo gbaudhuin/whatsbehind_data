@@ -1,0 +1,12 @@
+M	audit/storage_audit.info	3b88c8e1b7470f316e1402cfa73fc718
+M	audit/tests/storage_audit_test.info	3f8e13c3719cb30a10c8c56ffcea8400
+M	container.inc	bed13b3d8b1470cad89cc5eb05bcd703
+M	core_bridge/storage_core_bridge.info	9752673df7e102f24868809d14a09fe9
+M	selector.inc	9c43ef5b0f2d9a69c9d18ae59ceefca2
+M	services/rackspace.inc	4b67fec585581379878b966c0fb7d288
+M	services/s3.inc	b43d463a2bb606e6140f1f429ea2036c
+M	statistic/storage_statistic.info	6631aca5b8eb6785fc307bc663af1b3c
+M	storage.api.php	aabd6ced09719c4699db901dc03e1525
+M	storage.inc	d77d3530cc3e4190de5856125eca11ac
+M	storage.info	c83024cb383ae38ef54d07140a727e7c
+M	storage.module	dee00b7ea157756fe6ada71c60545ab9

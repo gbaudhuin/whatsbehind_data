@@ -1,0 +1,19 @@
+M	CHANGELOG.txt	c1b7109732aa8c774016101099485dbd
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	4088c72afee02fe144486143aa0997ef
+M	menu_position.admin.inc	12e318e2c188f663424f1e425c01309e
+M	menu_position.api.php	7a149e20e430c531168d18a2b6f32b30
+D	menu_position.features.inc	
+M	menu_position.info	d72652e28e4e839e321b82d692e318ee
+M	menu_position.install	868f9ce88ac6e074c63350098abe75eb
+M	menu_position.module	4a703c1ad9d2dd5ff12d171fcc4e8b87
+M	plugins/menu_position.content_type.inc	c68be725c78744cabcbdbfa0d5d578fd
+M	plugins/menu_position.example_plugin.js	41ae8c2d5c0a9d074f43b2597a799cb8
+D	plugins/menu_position.language.inc	
+D	plugins/menu_position.language.js	
+D	plugins/menu_position.taxonomy.inc	
+D	plugins/menu_position.taxonomy.js	
+D	plugins/menu_position.user_page.inc	
+D	plugins/menu_position.user_page.js	
+D	plugins/menu_position.user_roles.inc	
+D	plugins/menu_position.user_roles.js	

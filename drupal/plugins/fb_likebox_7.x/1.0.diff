@@ -1,0 +1,10 @@
+M	CHANGELOG.txt	d01ab12eafd858324abaca873f80eb88
+M	fb_likebox.info	dc1619a4fca259eebcd7b3fdee405b77
+M	fb_likebox.module	e5b0f04b63171ae12816897dc86e9aeb
+D	fb_likebox_patterns/fb_likebox_patterns.info	
+D	fb_likebox_patterns/fb_likebox_patterns.module	
+D	fb_likebox_patterns/patterns/fb_likebox_faces_stream.yaml	
+D	fb_likebox_patterns/patterns/fb_likebox_no_faces_stream.yaml	
+D	fb_likebox_patterns/patterns/fb_likebox_no_stream_or_faces.yaml	
+D	fb_likebox_patterns/patterns/fb_likebox_only_faces.yaml	
+M	templates/fb_likebox.tpl.php	368943ee03816c1a3f338a97fe5fdd78

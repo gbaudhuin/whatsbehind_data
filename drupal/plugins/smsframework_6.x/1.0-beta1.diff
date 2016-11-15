@@ -1,0 +1,49 @@
+A	API.txt	e770d971dd255c9334ac3ffab1724c06
+D	CHANGELOG.txt	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	beeaa8a8230d4fb96fd8b7030272880b
+M	modules/sms_actions/sms_actions.info	26688f8cbe05dd0fd9b2f14710ba76a3
+M	modules/sms_actions/sms_actions.module	6eb7732365323c8d5aba148ec47fba5a
+M	modules/sms_blast/sms_blast.info	e1ff607b29d9778ea00b3deb3c457935
+M	modules/sms_blast/sms_blast.module	7d703ba7d6a4b37ecf82ca42c2c93473
+D	modules/sms_clickatell/CHANGELOG.txt	
+M	modules/sms_clickatell/sms_clickatell.info	80e5dc6d4bacc0f3604e7d496b17abe6
+M	modules/sms_clickatell/sms_clickatell.module	c47827e4f150490f3cde268628835149
+D	modules/sms_devel/README.txt	
+D	modules/sms_devel/js/sms_devel_virtualgw.js	
+D	modules/sms_devel/sms_devel.info	
+D	modules/sms_devel/sms_devel.install	
+D	modules/sms_devel/sms_devel.module	
+D	modules/sms_devel/sms_devel.send_form.inc	
+D	modules/sms_devel/sms_devel.virtualgw.admin.inc	
+D	modules/sms_devel/sms_devel.virtualgw.inc	
+M	modules/sms_email_gateway/sms_email_gateway.info	975531a69ce90aeedae58f285fc45580
+M	modules/sms_email_gateway/sms_email_gateway.module	c8f63041f2f8ec0251cb965c364e30f6
+M	modules/sms_sendtophone/sms_sendtophone.info	aa3b0953c3ff9a9a5ba241b166503edf
+M	modules/sms_sendtophone/sms_sendtophone.module	845aa515795b4bfa3466ac0b74da665e
+D	modules/sms_simplegateway/README.txt	
+D	modules/sms_simplegateway/sms_simplegateway.info	
+D	modules/sms_simplegateway/sms_simplegateway.module	
+D	modules/sms_track/README.txt	
+D	modules/sms_track/sms_track.admin.inc	
+D	modules/sms_track/sms_track.info	
+D	modules/sms_track/sms_track.install	
+D	modules/sms_track/sms_track.module	
+D	modules/sms_track/views/sms_track.views.inc	
+D	modules/sms_track/views/sms_track.views_default.inc	
+D	modules/sms_track/views/views_handler_field_sms_track_direction.inc	
+D	modules/sms_track/views/views_handler_field_sms_track_gateway.inc	
+D	modules/sms_track/views/views_handler_field_sms_track_local_number.inc	
+D	modules/sms_txtlocal/sms_txtlocal.info	
+D	modules/sms_txtlocal/sms_txtlocal.module	
+M	modules/sms_user/sms_user.info	10b7ee38e7374aeb2858bb07de51d2e7
+M	modules/sms_user/sms_user.install	a3069a8bfa8464e93bcc85bf6149296e
+M	modules/sms_user/sms_user.module	19b3fd3ff2760666e3a3be3f79263bab
+D	modules/sms_valid/README.txt	
+D	modules/sms_valid/sms_valid.admin.inc	
+D	modules/sms_valid/sms_valid.info	
+D	modules/sms_valid/sms_valid.install	
+D	modules/sms_valid/sms_valid.module	
+D	sms.admin.inc	
+M	sms.info	8b43e82bb248053ae789daa4d6d74a99
+M	sms.module	06f896f46367795e178a7e8de96a9370

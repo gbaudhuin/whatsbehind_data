@@ -1,0 +1,9 @@
+A	twilio.actions.inc	8dca269f0ce0d84dc1dd8399ef8cacdb
+M	twilio.codes.inc	dcaec55d1927a1d7bc912a1f2f43c2ff
+M	twilio.info	1e86e78f70466c4a68a0b8fed75c717d
+M	twilio.module	869b37d2595a783a3b44d5cde1bae9b0
+M	twilio.rules.inc	0d21881b393deb4d03cce5e89c5386de
+M	twilio.user.inc	ea10f4360d191b760346f380fe00c410
+M	twilio_twiml/twilio_twiml.info	89697432aa98ae26914d14162195f500
+M	twilio_twiml/twilio_twiml.module	8f1fdcefb755c1528ef7bf7d5e2aed6d
+M	twilio_twiml/twilio_twiml.rules.inc	6c5c16b875f6f54d2c730985077f1c32

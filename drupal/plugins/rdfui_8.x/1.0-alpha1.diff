@@ -1,0 +1,18 @@
+D	composer.json	
+M	js/rdfui.autocomplete.js	10e3a86b8323a9413bf4b35bba502188
+M	rdf_builder/rdf_builder.info.yml	85a56309d0f7ec499cef7b1fcec295a2
+M	rdf_builder/rdf_builder.links.action.yml	790512f8720329af468a4ed5fcc685bd
+M	rdf_builder/src/Form/ContentBuilderForm.php	6be5bc89980f40f48ae7f2468b33c4be
+M	rdf_builder/src/Tests/ContentTypeBuilderTest.php	bd1b1fa8f3e7f470b1f73155ce83a397
+M	rdfui.info.yml	cd1e75c1bcb5b5cdc5a978dd36afd1e5
+M	rdfui.libraries.yml	e8c5672fdc51d876c0abe81f2a1c0d5e
+M	rdfui.module	276b14d51b95d9051306a3e0bd6bd801
+M	src/ContentMappings.php	b69c14ac3fda2831c762f2c61624f9fc
+M	src/EasyRdfConverter.php	aa5433e529de0c453fbc25593e383393
+M	src/Form/FieldMappings.php	b9ae50ff0dbce8392ec2200233f2ae40
+M	src/Plugin/Derivative/RdfUiLocalTask.php	71906df2bd3807d31e7706a2d448072a
+M	src/Routing/RouteSubscriber.php	8ac148fac086b7c5cb87e55d9d26872c
+M	src/SchemaOrgConverter.php	7ee2b468576591bc60ef87b43bddc5be
+M	src/Tests/EasyRdfConverterTest.php	4ef3930731ec158cf2b5a5d58e88ea5a
+M	src/Tests/RdfUiContentMappingTest.php	304e56ca1cdcce0a97df24cbcf648805
+M	src/Tests/RdfUiFieldMappingTest.php	e7479d09de89209f61086e0735201b41

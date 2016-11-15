@@ -1,0 +1,34 @@
+M	css/layout.css	94a124d33cccc9d6b8c43f1bfdc83946
+M	css/style.css	6280999601791eae7831ec79af72749e
+M	hatch.info	838e0d65fd5c68ec5fd32b11336260cf
+D	js/fancybox/blank.gif	
+D	js/fancybox/fancy_close.png	
+D	js/fancybox/fancy_loading.png	
+D	js/fancybox/fancy_nav_left.png	
+D	js/fancybox/fancy_nav_right.png	
+D	js/fancybox/fancy_shadow_e.png	
+D	js/fancybox/fancy_shadow_n.png	
+D	js/fancybox/fancy_shadow_ne.png	
+D	js/fancybox/fancy_shadow_nw.png	
+D	js/fancybox/fancy_shadow_s.png	
+D	js/fancybox/fancy_shadow_se.png	
+D	js/fancybox/fancy_shadow_sw.png	
+D	js/fancybox/fancy_shadow_w.png	
+D	js/fancybox/fancy_title_left.png	
+D	js/fancybox/fancy_title_main.png	
+D	js/fancybox/fancy_title_over.png	
+D	js/fancybox/fancy_title_right.png	
+D	js/fancybox/fancybox-x.png	
+D	js/fancybox/fancybox-y.png	
+D	js/fancybox/fancybox.png	
+D	js/fancybox/jquery.easing-1.3.pack.js	
+D	js/fancybox/jquery.fancybox-1.3.4.css	
+D	js/fancybox/jquery.fancybox-1.3.4.js	
+D	js/fancybox/jquery.fancybox-1.3.4.pack.js	
+D	js/fancybox/jquery.mousewheel-3.0.4.pack.js	
+D	js/fitvids/README.md	
+D	js/fitvids/jquery.fitvids.js	
+D	js/footer-scripts.js	
+M	templates/node--article.tpl.php	65881b7ed65cf8cdd486000b60b31d0a
+M	templates/node.tpl.php	fc967ecb1e6393f1d1bcf935844919f3
+M	templates/page.tpl.php	44b508c6343a191adfdb6426cc15dd93

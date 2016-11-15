@@ -1,0 +1,11 @@
+D	CHANGELOG.txt	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	ae80805e3ca621d1a1e97db297ea71ba
+A	translations/uc_addresses.pot	a51164378f90ec28b52e7414ec89707f
+M	uc_addresses.admin.inc	c0279be2c7c7ee1dfd1299a12ad5f257
+M	uc_addresses.css	23f4c2800cdd72a6b87be462be713062
+M	uc_addresses.info	932ce102dbff774a9ef1e6e5c3df8b43
+M	uc_addresses.install	739159093227e391c3a4f33ded496861
+M	uc_addresses.js	d135a51521241381a8ee06e4caa705b3
+M	uc_addresses.module	01c8bc3770be99cbdd3727da233d8f91
+M	uc_addresses_address_pane.inc	826a1a9ec57ada90e4184fed8ba23a7f

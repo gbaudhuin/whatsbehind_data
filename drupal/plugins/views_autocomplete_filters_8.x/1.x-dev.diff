@@ -1,0 +1,10 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	js/views-autocomplete-filters-dependent.js	44e9ec116b6b8ed33dfdfc731602524a
+A	src/Controller/ViewsAutocompleteFiltersController.php	7a3610a8c112b6c9ee6581f042256e36
+A	src/Plugin/views/filter/ViewsAutocompleteFiltersCombine.php	c77cacb501fe91db51620e8e9d7515aa
+A	src/Plugin/views/filter/ViewsAutocompleteFiltersString.php	1290b2770ea719760eae0ba1cc93712b
+A	views_autocomplete_filters.info.yml	1f922c7b0834cf2e29496e5b51ee8123
+A	views_autocomplete_filters.libraries.yml	bc399ad88232792ac678e704d884d50c
+A	views_autocomplete_filters.module	41fab047fc426abb4c1789d2e1842453
+A	views_autocomplete_filters.routing.yml	e0af102728a561b1026bc9c2d03537f7
+A	views_autocomplete_filters.views.inc	ab37d399ee8d677aee9883739ec36a5c

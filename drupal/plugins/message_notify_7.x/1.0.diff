@@ -1,0 +1,7 @@
+M	message_notify.info	33ef368ed2b179c005ac0f93875a288d
+M	message_notify.module	e296e703d9ea8252f38b22fe3b576948
+D	message_notify.rules.inc	
+M	message_notify_example/message_notify_example.features.field.inc	dcb264a50143a25216545a974f63bcbc
+M	message_notify_example/message_notify_example.features.inc	af315caaf89234e821c2eb4fe47287e6
+M	message_notify_example/message_notify_example.info	a0edcc6516401a8b703a5882d2d299b2
+M	message_notify_example/message_notify_example.module	9ce0b90258801e61d35603c404646a78

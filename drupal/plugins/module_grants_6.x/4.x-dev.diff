@@ -1,0 +1,16 @@
+M	CHANGELOG.txt	e050dd57e3b2720a1c2198ca960e4733
+M	README.txt	b838a77ac66b45a72791ac40d69bb881
+M	module_grants.admin.inc	80a96bba6a635b4045c78e344030863f
+D	module_grants.api.php	
+M	module_grants.info	fb686d06fc59146d9b541e7889b136d1
+M	module_grants.install	ef684d85d4d2dbb61db43ddbaede09e6
+M	module_grants.module	b664f4ee2ffcd97664486967e1e41e61
+M	module_grants_monitor/module_grants_monitor.info	695aa1c8e187c7f842f1fb6d4f2a7f59
+D	module_grants_views/module_grants_views.info	
+D	module_grants_views/module_grants_views.module	
+D	module_grants_views/module_grants_views.views.inc	
+D	module_grants_views/module_grants_views_handler_field_node_link_delete.inc	
+D	module_grants_views/module_grants_views_handler_field_node_link_edit.inc	
+M	node_tools/node_tools.info	4877ef19a22e34ba68564ee16f95accc
+M	node_tools/node_tools.module	bc9e5388d7b59a6d23d76f8a6de35f88
+M	user_tools/user_tools.info	65b293b67fe93535b75a4acf628cad32

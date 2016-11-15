@@ -1,0 +1,9 @@
+M	CHANGELOG.txt	306952e358a74934447d3031cff0af06
+M	README.txt	e496a4be38c207f9dd04036cf8c41869
+A	galleria.admin.inc	c3093ecb8b4baa511b26fd3d25ea6f09
+M	galleria.info	68cf8e8d877e0a1aa58d5320b78f1f3d
+A	galleria.install	72797e9d3e6728b66c1bb51684f02c4a
+M	galleria.module	81ed224a799344f2c5e1468344cc5731
+D	galleria_iframe.tpl.php	
+M	inc/galleria.css	f61cd76249dcfe9190633d1325f092e8
+M	inc/galleria.js	fe7b5650b518cf1c2d40003e5ecde429

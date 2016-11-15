@@ -1,0 +1,9 @@
+M	classified.info	78b36e11ab66142a62b54802479aa8d8
+M	classified.module	844c4067081db2145327f3a8ed24638c
+M	classified.scheduled.inc	600c835f30b0dd4c31928eba44a7e8e8
+M	classified.tokens.inc	fcfa7cb8f768f863faa91732feab640b
+M	help/api.html	7ba07030201db61fb97e56773dee6779
+M	modules/classified_notifications/classified_notifications.info	e0f1fbdcf445e0a82f4f32a9e9b4605c
+M	modules/classified_notifications/classified_notifications.module	baca922748fffc17cd08059deaf37ba8
+M	tests/classified_basic.test	d7fbfdebbe55db55ea35a354d34e5310
+A	tests/classified_notifications.test	5fc97bb9a87c547f3e74c7f38c61f750

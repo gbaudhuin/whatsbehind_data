@@ -1,0 +1,8 @@
+M	.travis.yml	94dc42d360b8c8ce1bb1065564420477
+A	.travis/drupal-8.1.x.make.yml	57f8485696a16dfce7e338455f689406
+M	multiversion.info.yml	b6d9fce027e3a0b356a7d6323b5bda6f
+M	multiversion_ui/multiversion_ui.info.yml	b19cfda36d4d1cbe3e6901bd44fef279
+M	src/Entity/Workspace.php	ff13239968a22a895a9287e8c2c6e6b2
+M	src/Tests/WorkspaceTest.php	3a35b9d160b755fd409d6a80d639ee20
+M	src/WorkspaceForm.php	25df0980b7dc360ebba8f8063841a706
+M	tests/modules/multiversion_test_views/multiversion_test_views.info.yml	eb162617be314cebd20b53af14bc22ed

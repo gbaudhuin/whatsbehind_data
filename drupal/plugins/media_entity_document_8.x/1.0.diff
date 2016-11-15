@@ -1,0 +1,4 @@
+D	composer.json	
+M	media_entity_document.info.yml	c464b8102c0a90a52395dd9c815271d6
+M	src/Plugin/EntityBrowser/Widget/Upload.php	1a6d4a5fea353881138793c93503e27c
+M	src/Plugin/MediaEntity/Type/Document.php	cb8fa7c40e51ef2b60c9e592909f2454

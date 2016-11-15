@@ -1,0 +1,15 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	editablefields.css	1235e698cc6d525a7792c3ce3b290418
+M	editablefields.info	da6e885de9e26aab36741a58dbc2875f
+A	editablefields.install	a831e0b5e9d5c308eebe47a307d207a7
+M	editablefields.js	853331533e68023a8861705f18b51b1d
+M	editablefields.module	aec96cde806fd4c769473f5aa70ad626
+A	editablefields.view.inc	3beefb00777a6bd04265b7d33c23efa9
+A	editablefields_overrides.js	84316317995275226b37a544a81a2487
+A	includes/views/editablefields.views.inc	a6a02e87f3340c05feb08bb983866db9
+A	includes/views/editablefields_handler_field_node.inc	5d83b17ff0e75e24445726c9686effe9
+A	plugins/editables/cck.inc	c4ed08e230e26f147bce1a448ab80377
+A	plugins/editables/node.inc	0523cdc3230b227a91d6d0178258aaa5
+A	plugins/export_ui/editablefields_ctools_export_ui.inc	b9100bb664a3977a5b590d9f6167259b
+A	plugins/responders/inline.inc	5cd10f3ef61deb3a13bf74e1c5d0dffc
+A	plugins/responders/modal.inc	ae8e4eabe287c027f0d686cdcfd568b8

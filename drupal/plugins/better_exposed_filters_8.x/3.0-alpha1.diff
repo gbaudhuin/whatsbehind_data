@@ -1,0 +1,25 @@
+M	better_exposed_filters.info.yml	6cb36eaf85d98fdb8cbaccf32c4f43d2
+M	better_exposed_filters.libraries.yml	58cce78274a79eca945af1c6004d6592
+D	js/auto_submit.js	
+D	js/bef_datepickers.js	
+M	js/better_exposed_filters.js	cf2408a40e64aa4611559b6ee95ba16d
+M	src/Plugin/views/exposed_form/BetterExposedFilters.php	33cf4a00032f62999e3493cd56b026fd
+M	tests/bef_test/bef_test.info.yml	5252dd8da4c4ddacc1169e53bf3f0546
+M	tests/bef_test/config/install/core.entity_form_display.node.bef_test.default.yml	48d87964f92e9ac2a3d044f0314dd770
+M	tests/bef_test/config/install/core.entity_view_display.node.bef_test.default.yml	b75bb7eccb6fef78b1ab5af836332b5d
+M	tests/bef_test/config/install/core.entity_view_display.node.bef_test.teaser.yml	bce45d442c738744869b91600d9ff390
+M	tests/bef_test/config/install/field.field.node.bef_test.body.yml	2d57b078b1fa02aecbdc20cdd2fd2175
+M	tests/bef_test/config/install/field.field.node.bef_test.field_bef_boolean.yml	a7d3ad5019c788c1cecb8fcd78580792
+M	tests/bef_test/config/install/field.field.node.bef_test.field_bef_email.yml	4783de267f1e9b88a0279fc79176c610
+M	tests/bef_test/config/install/field.field.node.bef_test.field_bef_integer.yml	e4acd66b5b58c5459f7d51cdcf740860
+M	tests/bef_test/config/install/field.field.node.bef_test.field_bef_letters.yml	ee679c120cdaae05d98a9ffad37e6b6d
+M	tests/bef_test/config/install/field.field.node.bef_test.field_bef_location.yml	9b399690adfd9bd9e5ad6ab9070c3e16
+M	tests/bef_test/config/install/field.storage.node.field_bef_boolean.yml	f0e43d3c363046e1bae466305ccb3880
+M	tests/bef_test/config/install/field.storage.node.field_bef_email.yml	eba3ae1933c4560d38be68b8c3498ba7
+M	tests/bef_test/config/install/field.storage.node.field_bef_integer.yml	e39f1ffae14f9c8d36ac21b10a0cace1
+M	tests/bef_test/config/install/field.storage.node.field_bef_letters.yml	21ab0f2beddc83930836e0483bdea0ea
+M	tests/bef_test/config/install/field.storage.node.field_bef_location.yml	5d3db987cc1c34e6e14ae7227f9d5b18
+M	tests/bef_test/config/install/node.type.bef_test.yml	77a6ffb9020738af0e1da2dd6104e129
+M	tests/bef_test/config/install/taxonomy.vocabulary.bef_test_location.yml	c7d79d34258f20cabdea1dab772f6bb7
+M	tests/bef_test/config/install/views.view.bef_test.yml	c3bf2a382152e3f283c5524dae06470d
+M	tests/better_exposed_filters.test	a5dacd75510e56dbf8df0513e0307451

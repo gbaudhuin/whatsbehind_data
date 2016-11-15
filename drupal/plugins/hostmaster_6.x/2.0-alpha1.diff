@@ -1,0 +1,117 @@
+M	.gitignore	cce3014196df5b05b445d267b72079a2
+D	build-hostmaster.make	
+D	drupal-org-core.make	
+D	drupal-org.make	
+M	hostmaster.make	3cb0c50b2a734610e3fb76054a2a483f
+M	hostmaster.profile	2fb0fee19395e499d0a6885980c89116
+M	modules/hosting/alias/hosting.feature.alias.inc	6b0c3699b700235f087a144948065a5c
+M	modules/hosting/alias/hosting_alias.info	5132707ce9645f1e43555ab46866c8f1
+M	modules/hosting/alias/hosting_alias.install	6a4b3aee09fc200ba987dd9c6cb39fe4
+M	modules/hosting/alias/hosting_alias.module	d436243a3a1afc1ffb485e25b23df025
+M	modules/hosting/client/hosting.feature.client.inc	76f7eddfb75342a24979a8ea4946ce76
+M	modules/hosting/client/hosting_client.access.inc	de6f0e25e2f3e539b509d13909b5171a
+M	modules/hosting/client/hosting_client.info	06254cee29c5ec631e09adfd425cc5db
+M	modules/hosting/client/hosting_client.module	f44c0d29ab5213315cbce6f87ee9311b
+M	modules/hosting/clone/hosting.feature.clone.inc	ddabe480dbbe7b04d401b8eea28e35e8
+M	modules/hosting/clone/hosting_clone.drush.inc	02fc92dcd035743f5ffc625015069eff
+M	modules/hosting/clone/hosting_clone.info	b5ac26b3c55654b89ad01391aa948d18
+M	modules/hosting/clone/hosting_clone.module	a8fd9fbf08ed5020da17c3cf0a5ccad0
+M	modules/hosting/cron/hosting.feature.cron.inc	ff6bf3cdb416ab8a748dbb3c06956e76
+M	modules/hosting/cron/hosting_cron.info	869c3342598368c05c952eb90d8f0de4
+M	modules/hosting/db_server/hosting_db_server.info	804b32b72d81d48424d1bb5d8fb5e53e
+M	modules/hosting/dispatch.hosting.inc	a96df385b016ed10837a443ea75a2cef
+M	modules/hosting/dns/hosting_dns.info	c580182a9fe9eff31722932ff13db651
+M	modules/hosting/example/hosting.feature.example.inc	4cff621c257c194b2db22aaf2c488d88
+M	modules/hosting/example/hosting_example.info	2f94de999081fee133414a81c6da52eb
+M	modules/hosting/example/hosting_example.module	5e2177bc898021094ef4067b1f588e35
+M	modules/hosting/hosting.api.php	c7f4958ee33455c09c46df0824a7a6c0
+M	modules/hosting/hosting.css	2dfbd18cd4b33a760ad5856fef4f09be
+M	modules/hosting/hosting.drush.inc	dca81595a1d58e3950d770c448050247
+M	modules/hosting/hosting.features.inc	e95de0cf93682b3ca4f8c9f6a31fd886
+M	modules/hosting/hosting.inc	f7f16d1d437b3152a1fd72821814ddff
+M	modules/hosting/hosting.info	74851f4a70f17f5277a8191a1ef3ca66
+M	modules/hosting/hosting.install	72b7ca08fb2390ea89fe316135a121e2
+M	modules/hosting/hosting.module	19fcc9817e7a7e0609c4c01e6d825bd6
+M	modules/hosting/hosting.queues.inc	501a99db76a43a1856c3af54b45c9fd3
+M	modules/hosting/migrate/hosting.feature.migrate.inc	2388121d1b7aa6f7f9d17dde949c2428
+M	modules/hosting/migrate/hosting_migrate.drush.inc	af590d626839db4e53a553b74adffd87
+M	modules/hosting/migrate/hosting_migrate.info	2b8b2f245b7f05ddbfbf17dbce452312
+M	modules/hosting/package/hosting_package.info	016e030d64f8a5db3ba59f9e3e4a64cf
+M	modules/hosting/package/hosting_package.install	36ddeb1ffb0d2918aa4f4c3dca87ddb6
+M	modules/hosting/package/hosting_package.instance.inc	3fe52f99e0605a3064dbf5f2adc2d23a
+M	modules/hosting/package/hosting_package.module	af2b71f9a48b36f819b82ee25d3f86b1
+A	modules/hosting/package/hosting_package.views.inc	f9fb23980d6c4765599dd2e4d3f23fc8
+A	modules/hosting/package/hosting_package_handler_filter_hosting_package_type.inc	0488805f0cb8b19852da697051e610bd
+M	modules/hosting/pause.hosting.inc	1c0d4c22f5aedaed0a37003d54c29e64
+M	modules/hosting/platform/hosting_platform.drush.inc	685f3790ae9003daa55ba58cc9e7c312
+M	modules/hosting/platform/hosting_platform.info	fae221631970ebdd632d9b5e17ee488c
+M	modules/hosting/platform/hosting_platform.install	ec356e43fd61a9c9fdd0f582a9bfd93d
+A	modules/hosting/platform/hosting_platform.js	35031767d05de522df318f8bcfa49130
+M	modules/hosting/platform/hosting_platform.module	7b08d961ede24bef1e8990e271c5e43b
+M	modules/hosting/platform/hosting_platform.views.inc	1a1488c14afadb5b6b165c681aed7791
+A	modules/hosting/queued/README.txt	d723b07ed43e8a63c0e8c981271438d5
+A	modules/hosting/queued/hosting.feature.queue_runner.inc	d617f51a3d3d4938be89840fc08c3f63
+A	modules/hosting/queued/hosting_queued.admin.inc	811c086333009ec5f963e74b818f2c67
+A	modules/hosting/queued/hosting_queued.conf	02f009eadb60cc95c82622193aeb5829
+A	modules/hosting/queued/hosting_queued.drush.inc	6560560f46d2d6eb339037ff46dd92cf
+A	modules/hosting/queued/hosting_queued.info	6b134e6b97e3112548b7501a70e3ce1d
+A	modules/hosting/queued/hosting_queued.install	cb628345897a468570bb878a1abffdc2
+A	modules/hosting/queued/hosting_queued.module	5c2c9883d3be1b28f10bc7ed5309bfa1
+A	modules/hosting/queued/hosting_queued.sh	35a04faddbb353e6611f92fd6f20cdf2
+A	modules/hosting/queued/init.d.example	b80274282c126719e144e19b45db5d3a
+A	modules/hosting/quota/hosting.feature.quota.inc	a24eb2fdd8ac96134805df00827f7bdd
+M	modules/hosting/quota/hosting_quota.info	caf4ce63a1b737d66698cb6fb398a1c0
+M	modules/hosting/server/hosting.ip.inc	9f2f26f2b37528318b2ae5ce0e682d3d
+M	modules/hosting/server/hosting_server.drush.inc	5a9c26b6abeb07d1c94bb047960ec62f
+M	modules/hosting/server/hosting_server.info	a548ae3429990b9cbbbc6126c834de80
+M	modules/hosting/server/hosting_server.install	959c4f4c1e271ad44daf0df79ae41559
+M	modules/hosting/server/hosting_server.module	e6ff7cc951f2ead8adca80996a06e386
+M	modules/hosting/signup/hosting.feature.signup.inc	fe9ff2e05526fe47c13125e34d69d784
+M	modules/hosting/signup/hosting_signup.info	1bbf34942e92dcabc4c4cf4926fc9f96
+M	modules/hosting/site/hosting_site.api.php	3dbbad3b115536a70fe3b8d3666732dc
+M	modules/hosting/site/hosting_site.backups.inc	d52d9e5a356d71da099402213090c97d
+M	modules/hosting/site/hosting_site.drush.inc	0bf7d592e3008b8e355455bf1ef11be9
+M	modules/hosting/site/hosting_site.form.inc	451a970c4188abbfdcb1c67a22e33794
+M	modules/hosting/site/hosting_site.form.js	ca0e56e2299d840f02518402aede7984
+M	modules/hosting/site/hosting_site.info	001ded885f1f7786cc5fd0db12538ed9
+M	modules/hosting/site/hosting_site.install	f23b1a64493db67518c4249951477124
+M	modules/hosting/site/hosting_site.module	3e547676a8a3bd4c275d50561db34dad
+M	modules/hosting/site/hosting_site.nodeapi.inc	28287f78d7cea87bf212c4c48cda08e5
+A	modules/hosting/site/hosting_site.views.inc	4fc77102e8415b0d33280d8cc9cfff20
+A	modules/hosting/site/views_handler_field_hosting_language.inc	7409bf02ed409ed464dde43aa2698c3b
+A	modules/hosting/site/views_handler_field_hosting_site_status.inc	8eba5dd7302e8c4317141ab4c9f43283
+A	modules/hosting/site/views_plugin_style_site_table.inc	fc1b398e87c73b66627b0648cb669323
+M	modules/hosting/task.hosting.inc	d491a4147d628bd0ec0d0470650bdf80
+M	modules/hosting/task/hosting_task.api.php	6342644de817330a3f5a236a07fea8e9
+M	modules/hosting/task/hosting_task.info	d78f3d0e39ac949ea2d80059dba6848f
+M	modules/hosting/task/hosting_task.install	301c3603abb7cc9ed4d3529ef157b57a
+M	modules/hosting/task/hosting_task.js	56677dcf92c83634062b935d46a18d71
+M	modules/hosting/task/hosting_task.module	e926a14693152db6dd80104850d17a92
+M	modules/hosting/task/hosting_task.views.inc	ff0e67c778953eb836dffd68c3800176
+M	modules/hosting/web_cluster/hosting.feature.web_cluster.inc	e42652d65feae34ece972407d8b0c49a
+M	modules/hosting/web_cluster/hosting_web_cluster.info	d934f3a353020024d2d25851d1317748
+M	modules/hosting/web_pack/hosting.feature.web_pack.inc	63ab301ef647effdbe31d7ac78bfdf06
+M	modules/hosting/web_pack/hosting_web_pack.info	16ccbae89a5e05642f7a030e8eaf0e0c
+M	modules/hosting/web_server/hosting_web_server.info	1251f4244313e32aa402fa56e464e5cf
+M	modules/hosting/web_server/hosting_web_server.install	e90713865febc2a9dc2effa5408badc4
+M	modules/hosting/web_server/nginx/hosting.feature.nginx.inc	8b02b66d0309460a7533d93d7b9686f2
+M	modules/hosting/web_server/nginx/hosting_nginx.info	b604a124befecc7a4fd9f587f4852fb2
+M	modules/hosting/web_server/nginx/ssl/hosting.feature.nginx_ssl.inc	c338f7b794f1c59a1395fca28e4e3732
+M	modules/hosting/web_server/nginx/ssl/hosting_nginx_ssl.info	e60c6977e60086b719774a3dd0f9b82e
+M	modules/hosting/web_server/ssl/hosting.feature.ssl.inc	026c940fd8fc0630fda638ff3d6f7bc5
+M	modules/hosting/web_server/ssl/hosting_ssl.drush.inc	53831c21acbab468a5bb211ae1ce6dfb
+M	modules/hosting/web_server/ssl/hosting_ssl.info	748954b99b862bea5975fcfd2438ec14
+M	modules/hosting/web_server/ssl/hosting_ssl.module	531ea89068938325820da551560b9678
+M	modules/hosting/web_server/ssl/hosting_ssl.nodeapi.inc	9fe609068731ecb27c14ac6f730ae3ca
+D	themes/eldir/eldir.info	
+D	themes/eldir/favicon.ico	
+D	themes/eldir/ie6.css	
+D	themes/eldir/images-source/aegir_icons.svg	
+D	themes/eldir/images-source/aegir_logo.svg	
+D	themes/eldir/images-source/aegir_sprite.svg	
+D	themes/eldir/images/grid_e8.png	
+D	themes/eldir/images/page.png	
+D	themes/eldir/images/sprite.png	
+D	themes/eldir/page.tpl.php	
+D	themes/eldir/style.css	
+D	themes/eldir/template.php	

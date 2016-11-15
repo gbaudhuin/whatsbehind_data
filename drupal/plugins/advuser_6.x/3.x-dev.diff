@@ -1,0 +1,15 @@
+A	.gitignore	b926eac299cd30ffbd153f4953ee3fd0
+D	CHANGELOG.txt	
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	ecaf053ee0af0efc6eb01356ce2c2bea
+M	advuser.info	8ab7c115282316fe0fb8ab39e9eec5af
+M	advuser.install	f2800e465a7c5f8ac85a01bd75910cf6
+M	advuser.module	f5f5629d0b3ada69a4aa9fb62eaf3a62
+D	advuser_filters.inc	
+A	css/advuser.css	8a1c7231c9e86d3897a1c70646d8e7b4
+A	forms/advuser_admin.inc	023122cb469218f4ab42ad3dd510dd25
+A	forms/advuser_admin_account.inc	ef79dabb43bb0239f6f2c1772d889f20
+A	forms/advuser_filter_ui.inc	e67074e33cd9c4a419b7dfa68321ff1c
+A	forms/advuser_multiple_delete_confirm.inc	48884336b4ab56d00bcfc1e99f3e6b95
+A	forms/advuser_multiple_email_confirm.inc	906d64ecb12baa9fdb91b4fd7999b9a7
+A	forms/advuser_settings.inc	19272d48cd0db8a75a95252c04df57ec

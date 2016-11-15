@@ -1,0 +1,7 @@
+M	config/install/require_login.config.yml	e25b664bcfddb82c90b42c41f1e2facf
+A	config/schema/require_login.schema.yml	4a758427a744854c59e53390f098f3f6
+A	require_login.config_translation.yml	509ad2c05e407238ea287afcd21c0e42
+M	require_login.info.yml	1ce3e94d174b09b98420c8d207a70ebd
+M	require_login.install	6287f59ea8810daf11f2b217db4b1e39
+M	src/EventSubscriber/RequireLoginSubscriber.php	40e16ecaad1277508473faea69f733e6
+M	src/Form/RequireLoginSettingsForm.php	ec0972cec902898b5d118c0788bc5a1f

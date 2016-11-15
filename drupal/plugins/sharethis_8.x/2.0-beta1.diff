@@ -1,0 +1,23 @@
+D	README.txt	
+A	composer.json	dc19e80ed295d6f39c5d73cc8d511a9e
+M	config/schema/sharethis.schema.yml	98cf9d7c49655b454bfab229181e7d57
+M	config/schema/sharethis.views.schema.yml	c8f06404cb9e4027ccd4cb5fc1906279
+M	js/sharethis.form.js	7245ebf369af7615c0cdc944a83b7b43
+M	js/sharethis.js	5912264606c67396ed47d33eae240db3
+M	js/stlib_picker.js	634604bb76a86f89aea67218261dcccc
+M	sharethis.info.yml	54748c378238275c4104389d2cd2a1c9
+M	sharethis.libraries.yml	df0cb0dddc96f857f3cc3e2aca1e01fa
+M	sharethis.links.menu.yml	4e0abe8faec500d4e53f5b34bb9687c6
+M	sharethis.module	0454dae6e740858446473a01d197ee45
+M	sharethis.permissions.yml	69e53457f384c09906a561e5a1d67004
+M	sharethis.services.yml	73f6077ac735266ca5cd952b0d66072f
+M	src/Form/SharethisConfigurationForm.php	39ad6076fbb59a8785fde2d4ae9140c8
+M	src/Plugin/Block/SharethisBlock.php	e74a8fcab8d953c5e4cc47567d9faa9f
+M	src/Plugin/Block/SharethisWidgetBlock.php	a4c319981991d6317cc803d87165121e
+M	src/Plugin/views/field/SharethisNode.php	abe752efd894da8ec07e864940441a1b
+M	src/SharethisManager.php	4f35742e3c01e2c52828a1c39710814b
+M	src/SharethisManagerInterface.php	9a0817fefe8cfeaca48a6a99ca8bc5a4
+M	src/Tests/SharethisBlockTest.php	b6a6aa272eee0a8827f029277c68e568
+M	src/Tests/SharethisConfigFormTest.php	25c2ed4d372708dce87006e75f759c6b
+M	src/Tests/Views/SharethisViewsPluginTest.php	0c7edbaad6501235b5163d742f2b7b9a
+M	tests/modules/sharethis_test_views/sharethis_test_views.info.yml	0bdfa03f9bd42a50a230c7ed90a7a915

@@ -1,0 +1,11 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	073a5f65f6697b8f7caf3f09d8c66647
+D	field_slideshow.css	
+M	field_slideshow.info	f523d88013d99f337e2bf10c002ac01b
+D	field_slideshow.install	
+D	field_slideshow.js	
+M	field_slideshow.module	6104c12f0d4620ce5978c81243922f01
+D	field_slideshow.tpl.php	
+D	field_slideshow_controls.tpl.php	
+D	field_slideshow_pager.tpl.php	
+A	js/jquery.cycle.all.min.js	963df8753639994365f05dfe8cad1daf

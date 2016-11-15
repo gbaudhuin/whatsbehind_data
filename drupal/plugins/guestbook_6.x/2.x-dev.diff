@@ -1,0 +1,17 @@
+M	CHANGELOG.txt	121870492a7286b7f2079114b63e301a
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	a1266054308703191fdce23f4e06a275
+M	guestbook.info	d160860c9c32927d5c14f9e094f45133
+M	guestbook.install	faff8cb57a945cc90c16342a4a006634
+M	guestbook.module	8b7e722d6b25f761a513e29858a678b6
+A	panels/guestbook_user.inc	25c3a0b697e20ff555265d9e5b35fa8f
+D	translations/cs.po	
+D	translations/de.po	
+D	translations/es.po	
+D	translations/fr.po	
+D	translations/guestbook.pot	
+D	translations/it.po	
+D	translations/nl.po	
+D	translations/pl.po	
+D	translations/ru.po	
+D	translations/sv.po	

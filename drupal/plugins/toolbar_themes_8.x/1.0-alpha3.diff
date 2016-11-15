@@ -1,0 +1,4 @@
+M	config/install/toolbar_themes.settings.yml	7c04f3bb13ac8b696e2ee5172fdb95fc
+M	src/Form/ToolbarThemesSettingsForm.php	75c4ab86bb34a2cf8781a424bc39ddbe
+M	toolbar_themes.info.yml	14157a198b8a323c1a9753bdd55dccc9
+M	toolbar_themes.module	dd710db9ad0c8242fdb47c0380edfff3

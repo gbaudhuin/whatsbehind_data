@@ -1,0 +1,8 @@
+A	README.txt	70d0f1e621efaf1c397808abc2fb96f8
+M	blockcache_alter.info	7afe32bfe6a564c35fbcb04f2204e49d
+A	blockcache_alter.install	54b0ef9a26a68d809564fefb9db51a72
+A	blockcache_alter.js	d02f666f549163bc8785b5e15f7e4c10
+M	blockcache_alter.module	f2bfe6e7ac6859358da1c156d5a15f5a
+A	blockcache_alter.test	23bf8ee9792b4bb13e6253bb116e7539
+A	blockcache_alter_no_node_grants.patch	b36c030988c37d939cc09adb6891b465
+A	blockcache_alter_with_node_grants.patch	b07912d36a9675138049a9f6ca22633d

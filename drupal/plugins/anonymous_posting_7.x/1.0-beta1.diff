@@ -1,0 +1,12 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	89f68be33ad04712f84ce28c9ee41887
+M	anonymous_posting.admin.inc	c7f1959fa4e3762d27f28a32f986bbc6
+M	anonymous_posting.info	58e0a9cd0c7015f9ee37cd47427a2d75
+M	anonymous_posting.install	9d2ab03c5a80c04ce02c8734ec499624
+M	anonymous_posting.js	09d679f67e6579fb97435a354d01fa3e
+D	anonymous_posting.migrate.inc	
+M	anonymous_posting.module	6b355a4c0c28db73349a697a4687a0fa
+D	anonymous_posting.tokens.inc	
+D	anonymous_posting_field/anonymous_posting_field.info	
+D	anonymous_posting_field/anonymous_posting_field.install	
+D	anonymous_posting_field/anonymous_posting_field.module	

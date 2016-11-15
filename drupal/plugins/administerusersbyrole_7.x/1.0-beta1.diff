@@ -1,0 +1,5 @@
+M	administerusersbyrole.info	2d337faa2c030620a879365e2f6356fa
+M	administerusersbyrole.module	e4b3f4c57d636ef9d73abf7356a70af9
+D	views/administerusersbyrole.views.inc	
+D	views/administerusersbyrole_handler_field_user_link_cancel.inc	
+D	views/administerusersbyrole_handler_field_user_link_edit.inc	

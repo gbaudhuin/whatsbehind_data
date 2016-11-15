@@ -1,0 +1,3 @@
+M	FeedsXPathParser.inc	7a245a61404d97cfe4f9f8d50e3cd7f9
+M	feeds_xpathparser.info	d18c96bd2abd58af2cd181d8a5d87642
+A	tests/feeds_xpathparser_query_parser.test	e3600cff3b6c80afca27c5f1a38a81c7

@@ -1,0 +1,136 @@
+M	CHANGELOG.txt	63de30bebeb1251dec9b25df1bed98b4
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	30ebe5f020dc6731f7263d99afef48ab
+M	advanced_forum.info	3184523f4f61fe7a3c3da11c0dcd67fd
+M	advanced_forum.install	2e583e91b5caa2081938554a33f1309c
+M	advanced_forum.module	60bdbd765fe767ca39d276009b03f419
+M	advf-plugins.inc	dd5bb03b7d24c3029bb54cb1a9fa95ae
+M	styles/blue_lagoon/advanced_forum-structure.css	b4da4f4aeaed083b295d9bf49809edbf
+M	styles/blue_lagoon/advanced_forum.css	d42af71e197261ae89664200e6fd4322
+M	styles/blue_lagoon_stacked/advanced_forum-structure.css	617ffa22d6f8216cb94a05bbbed71a84
+M	styles/blue_lagoon_stacked/advanced_forum.css	fd3f9456c523f422223c97822cf762ad
+M	styles/blue_lagoon_stacked/advf-author-pane.tpl.php	9c4ed5deb9f996df0d61c5021070d0d3
+M	styles/boxy/advanced_forum-structure.css	e716f4f02390f24e6e4a44fef96d4820
+M	styles/boxy/advanced_forum.css	ee7165d9812ac91a32d501857744000e
+D	styles/boxy/images/blank.png	
+D	styles/boxy/images/blank_lock.png	
+D	styles/boxy/images/blank_note.png	
+D	styles/boxy/images/blank_small.png	
+D	styles/boxy/images/buddy-add.png	
+D	styles/boxy/images/buddy-remove.png	
+D	styles/boxy/images/contact.png	
+D	styles/boxy/images/delete.png	
+D	styles/boxy/images/edit.png	
+D	styles/boxy/images/forum-folder-locked.png	
+D	styles/boxy/images/forum-folder-new-posts.png	
+D	styles/boxy/images/forum-folder.png	
+D	styles/boxy/images/locked-topic.png	
+D	styles/boxy/images/mark-read.png	
+D	styles/boxy/images/new-poll.png	
+D	styles/boxy/images/new-topic.png	
+D	styles/boxy/images/post-reply.png	
+D	styles/boxy/images/private-message.png	
+D	styles/boxy/images/quote.png	
+D	styles/boxy/images/reply.png	
+D	styles/boxy/images/topic-closed.png	
+D	styles/boxy/images/topic-default.png	
+D	styles/boxy/images/topic-hot-new.png	
+D	styles/boxy/images/topic-hot.png	
+D	styles/boxy/images/topic-new.png	
+D	styles/boxy/images/topic-sticky.png	
+D	styles/boxy/images/user-offline.png	
+D	styles/boxy/images/user-online.png	
+M	styles/boxy_stacked/advanced_forum-structure.css	5faeee0cf79b3af9d3214b22ecfea326
+M	styles/boxy_stacked/advanced_forum.css	9f2d73daffd8e55a9dcefa0eb35b820d
+M	styles/boxy_stacked/advf-author-pane.tpl.php	4943da3ffe4bb8c5fbafb70e8b2e2206
+D	styles/boxy_stacked/images/blank.png	
+D	styles/boxy_stacked/images/blank_lock.png	
+D	styles/boxy_stacked/images/blank_note.png	
+D	styles/boxy_stacked/images/blank_small.png	
+D	styles/boxy_stacked/images/buddy-add.png	
+D	styles/boxy_stacked/images/buddy-remove.png	
+D	styles/boxy_stacked/images/contact.png	
+D	styles/boxy_stacked/images/delete.png	
+D	styles/boxy_stacked/images/edit.png	
+D	styles/boxy_stacked/images/forum-folder-locked.png	
+D	styles/boxy_stacked/images/forum-folder-new-posts.png	
+D	styles/boxy_stacked/images/forum-folder.png	
+D	styles/boxy_stacked/images/locked-topic.png	
+D	styles/boxy_stacked/images/mark-read.png	
+D	styles/boxy_stacked/images/new-poll.png	
+D	styles/boxy_stacked/images/new-topic.png	
+D	styles/boxy_stacked/images/post-reply.png	
+D	styles/boxy_stacked/images/private-message.png	
+D	styles/boxy_stacked/images/quote.png	
+D	styles/boxy_stacked/images/reply.png	
+D	styles/boxy_stacked/images/topic-closed.png	
+D	styles/boxy_stacked/images/topic-default.png	
+D	styles/boxy_stacked/images/topic-hot-new.png	
+D	styles/boxy_stacked/images/topic-hot.png	
+D	styles/boxy_stacked/images/topic-new.png	
+D	styles/boxy_stacked/images/topic-sticky.png	
+D	styles/boxy_stacked/images/user-offline.png	
+D	styles/boxy_stacked/images/user-online.png	
+M	styles/naked/advanced_forum-forum-legend.tpl.php	80d4f507917a37d6d1ffb6a54bbe6e44
+M	styles/naked/advanced_forum-structure.css	f31f2ff2145faa50217db4c3e10a022a
+M	styles/naked/advanced_forum-topic-legend.tpl.php	a0bc596933de833a3ce36ee631c8776d
+M	styles/naked/advanced_forum.css	5566f57d1832aafbf2c00298c8acebfc
+M	styles/naked/advf-author-pane.tpl.php	24bffe7fb1f354c6bfec906a0cef4134
+M	styles/naked/advf-comment-wrapper.tpl.php	e7d6dd45cc4a7b641c1f029d5941c44f
+M	styles/naked/advf-forum-icon.tpl.php	cbb0585838d88d11444f8b2b9e2a174b
+M	styles/naked/advf-forum-list.tpl.php	850e5a6f2bea2a2740475771b2997a46
+M	styles/naked/advf-forum-post.tpl.php	276255f5ec2ff29e41287254f1ae10b5
+M	styles/naked/advf-forum-preview-post.tpl.php	11cc9825ebab2268a56d922c02c29683
+M	styles/naked/advf-forum-repeat-post.tpl.php	4eebe5934f7c315a962dccaac682d426
+M	styles/naked/advf-forum-statistics.tpl.php	18258b6783b4df317e483e92927a6f59
+M	styles/naked/advf-forum-submitted.tpl.php	6f1fa480a267a9094cc9e44ef37c602c
+M	styles/naked/advf-forum-topic-list.tpl.php	44e641f97772369d92f396be74bf6b5f
+M	styles/naked/advf-forums.tpl.php	3fe1b25a13fd9c6e28695cf5c3039ad4
+M	styles/naked_stacked/advanced_forum-structure.css	480233af697c5704ff5aabfe90332c54
+M	styles/naked_stacked/advanced_forum.css	f59f103180598e13e9b84f0cddeb268f
+M	styles/naked_stacked/advf-author-pane.tpl.php	ec134e4a70828fa3b23fc32ed5555092
+A	translations/advanced_forum.pot	4a025240e831f520baec872320a7beda
+A	translations/de.po	dffc4e3674a119278e8302ddc1197f0b
+A	translations/el.po	18c37c90da6984b04c26763510237259
+A	translations/es.po	13f531758b81c310a7f265d1a69dca0c
+A	translations/fr.po	808a2158d864da508281d9abf95dceea
+A	translations/images/de/blue_lagoon/SOURCES.txt	586c871be86d525185677580e71611ec
+A	translations/images/de/blue_lagoon/delete.png	1bfad2a6566ebe4928b2a988690bef1f
+A	translations/images/de/blue_lagoon/edit.png	455a7b023b0c9ff1605ed2a1de5258e7
+A	translations/images/de/blue_lagoon/locked-topic.png	c6843a349a0df144cce022b864860c88
+A	translations/images/de/blue_lagoon/mark-read.png	b6ff1f680115273fc96a165b75a2a3d8
+A	translations/images/de/blue_lagoon/new-poll.png	63d50ee881f2feba2a33e83bc2176d24
+A	translations/images/de/blue_lagoon/new-topic.png	83a1f047e9f45d1b39b6c2ebc5601cb4
+A	translations/images/de/blue_lagoon/post-reply.png	cfb7038eae417acf98d54ab7858dc3f8
+A	translations/images/de/blue_lagoon/quote.png	7677fcf6ccbd787d781189e646f2bc13
+A	translations/images/de/blue_lagoon/reply.png	6b017ae6f51191e384172e53dde92c64
+A	translations/images/el/blue_lagoon/delete.png	197931a529dd54dda65de851ea04cdc5
+A	translations/images/el/blue_lagoon/edit.png	1400f12a319470e969f08af9fb39c233
+A	translations/images/el/blue_lagoon/locked-topic.png	6ca27c1c5a4bf9d95b96ea7152ea982a
+A	translations/images/el/blue_lagoon/mark-read.png	f68478e612526055e1fb4b63669c68f5
+A	translations/images/el/blue_lagoon/new-poll.png	480c2ff82cd65ca6c2649c7953d1d8d1
+A	translations/images/el/blue_lagoon/new-topic.png	0a0503edbab032b5d7e16ab0f345ca96
+A	translations/images/el/blue_lagoon/post-reply.png	eead4ae46ba310d269e5a8509222d751
+A	translations/images/el/blue_lagoon/quote.png	4a30746762df7dbf13f74b9f4dba8dbf
+A	translations/images/el/blue_lagoon/reply.png	9377c2c6af3e1fb129668f7d68ce0284
+A	translations/images/sv/blue_lagoon/delete.png	fe354d185b1db0e6c399e3b0b48c564e
+A	translations/images/sv/blue_lagoon/edit.png	8dc73be0bfd9e7bf2a16c6c647b01c7d
+A	translations/images/sv/blue_lagoon/locked-topic.png	b613c3422d4004c8cd4a94c51d5c65dd
+A	translations/images/sv/blue_lagoon/mark-read.png	042428e300e07903493e49e59ff56cb4
+A	translations/images/sv/blue_lagoon/new-poll.png	d506eef6a99209f193ac9f19da875d22
+A	translations/images/sv/blue_lagoon/new-topic.png	3c9b57e9ff32b7bc9382baf27f825910
+A	translations/images/sv/blue_lagoon/post-reply.png	4e3ba8b2f556ded012de16ab1a2eab73
+A	translations/images/sv/blue_lagoon/quote.png	2f4197ded732baa768229454831234a8
+A	translations/images/sv/blue_lagoon/reply.png	2f7a876b9e0eebe12d6cf692a6be940b
+A	translations/images/sv/naked/delete.png	e14f9aee5b71e8df3f6c2672042ee98d
+A	translations/images/sv/naked/edit.png	35b745205b880f0b857a29ae97d6d94b
+A	translations/images/sv/naked/locked-topic.png	b2fb671a63529b2bbbb976693c8e1bda
+A	translations/images/sv/naked/mark-read.png	1e3e157bbe885bbbbb242994d078ae09
+A	translations/images/sv/naked/new-poll.png	a18c2f21bf06ecdabc89a67ca661d6bf
+A	translations/images/sv/naked/new-topic.png	a82c0e2be4f867d6632c8cf7cec49e19
+A	translations/images/sv/naked/post-reply.png	b015d2e0b5b207c1a314d66a26c70ac3
+A	translations/images/sv/naked/quote.png	dcf44a773a86d9cfeb628f44856f2c40
+A	translations/images/sv/naked/reply.png	31d9e6557c2909d3117cb731f2314e6c
+A	translations/nl.po	9b05466697fcbf567fd08b1bed4c792e
+A	translations/ru.po	4409f6c455ee68016f55a60b746416b1
+A	translations/sv.po	46b10746cea55801f7eb20c147c1c25f

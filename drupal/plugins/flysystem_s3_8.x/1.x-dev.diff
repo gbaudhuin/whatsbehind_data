@@ -1,0 +1,14 @@
+A	.gitignore	cd9b6943fc8fe58cdccef0b0215bf6bb
+A	.travis.yml	8797db90a58e303a687f223ed8e2ac07
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	daa3535daddb326137f89b38ac49c0a1
+A	composer.json	fe4496badba2ee846dfd7d3df61a2a0c
+A	flysystem_s3.info.yml	4b870fbc6a5c306224b0c9070ed1d9e8
+A	phpunit.xml.dist	0e87120cd640bff8d7a5b8e0b7216c0c
+A	src/AwsCacheAdapter.php	d087d43ebb9b11a50dff22754e166839
+A	src/Flysystem/Adapter/S3Adapter.php	c5815dd33f386d60ee19f902842d3472
+A	src/Flysystem/S3.php	10a156c6221c5cec134f3fc03317dabe
+A	src/Tests/ModuleInstallUninstallWebTest.php	3f55c6008533397281f8bbdbae0f7b76
+A	tests/bootstrap.php	3b979d155c3d6008fec5cbec557909e2
+A	tests/src/Unit/AwsCacheAdapterTest.php	b7fb12ac42ff3d307e5da886f10657e6
+A	tests/src/Unit/Flysystem/S3Test.php	62ad1c87c810ceb4daa86eba3228a7c2

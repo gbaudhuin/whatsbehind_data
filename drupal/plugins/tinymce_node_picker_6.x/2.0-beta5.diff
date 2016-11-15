@@ -1,0 +1,13 @@
+M	INSTALL.txt	4b13b26180ffeb723f48a7a65bda5d95
+M	README.txt	6e1f969baf7880443ac64d46cd16fbf6
+M	css/dialog.css	0b74a9035f30d9013afaf9e9918ac261
+M	js/dialog.js	ef634082be44293fe0dfb222a24db780
+M	js/tree.js	180b366cd62873254b7c8ae23967a6e9
+M	plugins/nodepicker.inc	b00c91e3936e5d538c2b2fbdb64daf3f
+M	plugins/nodepicker/langs/en.js	b94585d68c4cf6d616a9e56ca6ffa6ab
+M	plugins/nodepicker/nodepicker.js	372c908371df27d6828009857bdd24c6
+M	tinymce-node-picker-page.tpl.php	667de3e3fc2186e60100579f319745de
+M	tinymce_node_picker.info	58be943b2b2dc38fcac6776cb0ddb462
+A	tinymce_node_picker.install	8671ce88b18ba2eb012fb26313750228
+M	tinymce_node_picker.module	ad260684d827b9a672e24a83e1aa4e7e
+M	tinymce_node_picker.page.inc	8bfe66cd73af20282d5dd08e879ba94b

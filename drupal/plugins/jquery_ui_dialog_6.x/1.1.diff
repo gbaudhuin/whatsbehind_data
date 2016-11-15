@@ -1,0 +1,9 @@
+M	css/jquery_ui_dialog.main.css	ebd2bbd2528f1c7b0df53b5f254f58b7
+A	css/jquery_ui_dialog_child.css	7f327f176eedab3fe05670d3ee1ee1b8
+M	jquery_ui_dialog-page.tpl.php	f8ca318de400872736cc3bb655e35377
+A	jquery_ui_dialog.api.inc	be40d4b45d2a16927a5eaeeafa44f5d4
+M	jquery_ui_dialog.info	d34224c27c4609a8f297505dc7d6adb8
+A	jquery_ui_dialog.install	728a92895eb6a8250ef03f386f030e9b
+M	jquery_ui_dialog.module	18e6cab2d47fb828fdff0fdc666735dc
+M	js/jquery_ui_dialog_child.js	eb82c286fba9cf862c96b477ce15fde0
+M	js/jquery_ui_dialog_parent.js	be34f478674efff67e9a54b6d3c5175c

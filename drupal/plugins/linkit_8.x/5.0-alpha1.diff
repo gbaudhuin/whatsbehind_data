@@ -1,0 +1,75 @@
+M	README.md	ffa98a423a9448f3358f4d4d188f883a
+M	config/optional/linkit.linkit_profile.default.yml	e64e686b25212ad7ce5240280d54c220
+M	config/schema/linkit.schema.yml	0383ed82529eb8865165786dda3fec96
+M	css/linkit.autocomplete.css	af5fab6a7d3d1128083f103522009802
+M	js/autocomplete.js	eb3af707e8d6141765ed2eb314a78ed9
+D	js/linkit.filter_html.admin.js	
+M	js/linkit.imce.js	a81e1e7b7063b5af82332afc531b387d
+M	linkit.info.yml	d04c962bd8954f91fece54205520b01d
+M	linkit.install	7668619f2b8aba3b6ee9998ef3a48b52
+M	linkit.libraries.yml	fe3d935fb5967250a49bd1019a136311
+M	linkit.module	7fb28f3386d1bde3ed8a82c023734045
+M	linkit.services.yml	9bf912b198a90c1239d8b8c65a027280
+D	src/Annotation/Substitution.php	
+M	src/Controller/AutocompleteController.php	88c2fa41c5564b951585e90ac547ad8f
+M	src/Controller/LinkitController.php	ff44fb28652633070d6ea0f46eaf85d7
+M	src/Element/Linkit.php	c17b22630ab30e7df4063412574313cc
+M	src/Entity/Profile.php	59c899e7cb753678ce845c3b598dc3d0
+M	src/Form/Matcher/EditForm.php	0404a6acd2fe0183817e966801069926
+M	src/Form/Matcher/OverviewForm.php	c88f4a78f718047c9c727288ae59ac72
+M	src/Form/Profile/FormBase.php	b966aa376b9bb539c92ea889072f8dd7
+M	src/MatcherBase.php	9f2f1c5819b18a4d6b1679f57196d0aa
+M	src/MatcherInterface.php	06197f4daaeeb881f66499cb3918cd99
+M	src/MatcherTokensTrait.php	5bcc9fb704bbdf5bcdde8e3037f66ed9
+M	src/Plugin/CKEditorPlugin/LinkitDrupalLink.php	285a5d93fd8d18d18be6bbdb75b5a7a4
+M	src/Plugin/Derivative/EntityMatcherDeriver.php	73154aeb33d24c0d86a54ffe313875d7
+M	src/Plugin/Filter/LinkitFilter.php	474f13533975635d70ebcdb33f04870a
+D	src/Plugin/Linkit/Matcher/EmailMatcher.php	
+M	src/Plugin/Linkit/Matcher/EntityMatcher.php	2e902d37e0172a0e311c07bbaa9ff237
+M	src/Plugin/Linkit/Matcher/FileMatcher.php	25b7fb6a015fce7a37d71b91f1c5ccc7
+D	src/Plugin/Linkit/Matcher/FrontPageMatcher.php	
+M	src/Plugin/Linkit/Matcher/NodeMatcher.php	d39a9e796c6630e4dfd4930e0f72a9da
+M	src/Plugin/Linkit/Matcher/TermMatcher.php	64af4736a04232d31fc6f9372e2eb121
+M	src/Plugin/Linkit/Matcher/UserMatcher.php	ddea2eaafef6ea4fa6677b2232213b60
+D	src/Plugin/Linkit/Substitution/Canonical.php	
+D	src/Plugin/Linkit/Substitution/File.php	
+A	src/ResultManager.php	86c92293bf04e7f2e125b15f4bbfe44e
+D	src/SubstitutionInterface.php	
+D	src/SubstitutionManager.php	
+D	src/SubstitutionManagerInterface.php	
+D	src/Suggestion/DescriptionSuggestion.php	
+D	src/Suggestion/EntitySuggestion.php	
+D	src/Suggestion/SimpleSuggestion.php	
+D	src/Suggestion/SuggestionCollection.php	
+D	src/Suggestion/SuggestionDescriptionInterface.php	
+D	src/Suggestion/SuggestionInterface.php	
+D	src/SuggestionManager.php	
+A	src/Tests/LinkitTestBase.php	0b190c8cebced0602901c294c92678fa
+A	src/Tests/MatcherCrudTest.php	e050db32197e9875b72a64f084a5c38e
+D	src/Tests/ProfileCreationTrait.php	
+A	src/Tests/ProfileCrudTest.php	b11b2d9c46838b7c5435418745f280af
+D	src/Tests/Update/LinkitUpdateTest.php	
+D	tests/fixtures/update/drupal-8.linkit-enabled.standard.php.gz	
+D	tests/fixtures/update/editor.editor.format_1.yml	
+D	tests/fixtures/update/editor.editor.format_2.yml	
+D	tests/fixtures/update/editor.editor.format_3.yml	
+D	tests/fixtures/update/filter.format.format_1.yml	
+D	tests/fixtures/update/filter.format.format_2.yml	
+D	tests/fixtures/update/filter.format.format_3.yml	
+D	tests/fixtures/update/linkit-additions.php	
+D	tests/fixtures/update/linkit.linkit_profile.test_profile.yml	
+M	tests/linkit_test/linkit_test.info.yml	de9a0395be57661d1e2533bc9d5ad79b
+M	tests/linkit_test/src/Plugin/Linkit/Matcher/ConfigurableDummyMatcher.php	e880ed16f34af55f9e2ad103745186e3
+M	tests/linkit_test/src/Plugin/Linkit/Matcher/DummyMatcher.php	65c5f273d2409ee51c7331dc14528560
+D	tests/src/Functional/ImceIntegrationTest.php	
+D	tests/src/Functional/LinkitBrowserTestBase.php	
+D	tests/src/Functional/MatcherAdminTest.php	
+D	tests/src/Functional/ProfileAdminTest.php	
+D	tests/src/FunctionalJavascript/LinkitDialogTest.php	
+D	tests/src/FunctionalJavascript/LinkitFormatAdminTest.php	
+D	tests/src/Kernel/Entity/ProfileTest.php	
+D	tests/src/Kernel/EntityMatcherDeriverTest.php	
+D	tests/src/Kernel/LinkitEditorLinkDialogTest.php	
+D	tests/src/Kernel/LinkitKernelTestBase.php	
+D	tests/src/Kernel/Matchers/FileMatcherTest.php	
+D	tests/src/Kernel/SubstitutionPluginTest.php	

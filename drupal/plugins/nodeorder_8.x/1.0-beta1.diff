@@ -1,0 +1,7 @@
+D	convert-nodeordermanager-to-a-service-with-an-interface-2704691-12.patch	
+M	nodeorder.info.yml	8a4991db0f2cae868ec815f278ba1652
+M	nodeorder.module	b2cfae10a290f541c1098ae54ae0645c
+D	nodeorder.services.yml	
+M	src/NodeOrderManager.php	897a89c02ba837f8f893dfe0578100fc
+D	src/NodeOrderManagerInterface.php	
+M	src/Tests/NodeorderCrudTest.php	64a7da99f81eb070961e82f8a438778a

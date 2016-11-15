@@ -1,0 +1,25 @@
+M	css/edit-ui.block.css	f983fb87196e07f9fa34a288d3cab5d6
+M	css/edit-ui.region.css	66fe6134b180d265a66c5d5096ac8172
+M	css/edit-ui.toolbar.css	951609290a5c2a8691569e36bb293d6c
+M	edit_ui.info.yml	a01925f7156f27c2012ea75527479547
+M	edit_ui.libraries.yml	fe891d7e88510a866aa3f1eac37b4f75
+M	edit_ui.links.contextual.yml	2675c4222733ec8fcec7646d6b7f2a98
+M	edit_ui.module	3bd0c29bfe0a759dd01e2bb6760c32c6
+M	edit_ui.routing.yml	8db7da9a285ef39e03a725ccf960d3cb
+M	js/block/collections/BlockCollection.js	1e9f864268a163c218f70b8ad57bd309
+M	js/block/models/BlockModel.js	04fa938ddc9079fb1a9c3d823ac5deb9
+M	js/block/views/BlockVisualView.js	ee5045208fd4a519b6e854fc79eae0da
+M	js/block/views/BodyVisualView.js	38fba9d18f45d52d26549bc7cc9cc740
+D	js/block/views/PageVisualView.js	
+M	js/edit-ui.block.js	9321a4336090e13dcd0e2c6cc33e6edf
+M	js/edit-ui.region.js	1b089173ee1f7bfe8ac80d46895cdfa5
+M	js/edit-ui.toolbar.js	bd0f7f626521dab10163a07a9bc5f064
+A	js/edit-ui.utils.js	fac9d8e4904eb62683ee9d7a4009cc75
+M	js/region/collections/RegionCollection.js	3c280eee5b61e6829fd8cfdc9a0a230e
+M	js/region/views/RegionVisualView.js	623999477e9a607e9bbae30f57bacade
+M	js/toolbar/models/ToolbarModel.js	85f3d5cec45db02682a95f7344ec9a08
+M	js/toolbar/views/ToolbarVisualView.js	307278d88275a04502a5fa4980dddbc7
+A	src/Ajax/AddBlockCommand.php	0298496eec3713fa715bea42c1fd8712
+A	src/Ajax/MessageCommand.php	ed3ee1dff1532b371ab36da88620644f
+M	src/Controller/EditUiBlockController.php	c3a6cc611a3a1266f906bf5ff9e3622e
+M	src/Element/EditUiToolbar.php	d8846def5f033976b0d1c9df0ac5fae0

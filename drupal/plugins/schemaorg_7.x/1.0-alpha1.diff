@@ -1,0 +1,31 @@
+A	CHANGELOG.txt	452f2632982c897be4f484786316c473
+D	example/schemaorg_event/schemaorg_event.features.field.inc	
+D	example/schemaorg_event/schemaorg_event.features.inc	
+D	example/schemaorg_event/schemaorg_event.info	
+D	example/schemaorg_event/schemaorg_event.install	
+D	example/schemaorg_event/schemaorg_event.module	
+D	example/schemaorg_event/schemaorg_event.strongarm.inc	
+D	example/schemaorg_event/schemaorg_event.views_default.inc	
+D	example/schemaorg_person/schemaorg_person.features.field.inc	
+D	example/schemaorg_person/schemaorg_person.features.inc	
+D	example/schemaorg_person/schemaorg_person.info	
+D	example/schemaorg_person/schemaorg_person.install	
+D	example/schemaorg_person/schemaorg_person.module	
+D	example/schemaorg_person/schemaorg_person.strongarm.inc	
+D	example/schemaorg_recipe/schemaorg_recipe.features.field.inc	
+D	example/schemaorg_recipe/schemaorg_recipe.features.inc	
+D	example/schemaorg_recipe/schemaorg_recipe.info	
+D	example/schemaorg_recipe/schemaorg_recipe.module	
+A	js/schemaorg.terms.json	9c9eb071bc918ceb8f51e342fdc521b9
+D	modules/schemaorg_contrib/schemaorg_contrib.addressfield.inc	
+D	modules/schemaorg_contrib/schemaorg_contrib.fivestar.inc	
+D	modules/schemaorg_contrib/schemaorg_contrib.info	
+D	modules/schemaorg_contrib/schemaorg_contrib.module	
+D	modules/schemaorg_ui/js/schemaorg_ui.terms.json	
+D	modules/schemaorg_ui/schemaorg_ui.info	
+D	modules/schemaorg_ui/schemaorg_ui.module	
+D	schemaorg.features.inc	
+M	schemaorg.info	d3fb5ef258b402452ed551d34511f6b7
+D	schemaorg.install	
+M	schemaorg.module	9ef42c24ab5bd403a6bbbc3fedbe09c0
+M	schemaorg.test	2c9b8e56de3467cf504a59c00d694658

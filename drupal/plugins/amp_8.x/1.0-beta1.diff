@@ -1,0 +1,43 @@
+M	README.md	58346967e8320e95b5090b6ada82668f
+M	amp.info.yml	f9eeaaac4961dbee4dd013e8c69ddae7
+M	amp.install	4f1e6aa1d0f7f4e5559cd50dd6a5c5fa
+M	amp.libraries.yml	240a40756b5d78f974d64d167f01d7e2
+D	amp.links.action.yml	
+M	amp.links.menu.yml	edb79021c8bd4e5c136107c01da9ef7f
+D	amp.links.task.yml	
+M	amp.module	221affb880f6c02badce4fe1954957b2
+M	amp.routing.yml	c1f0097d81456b907d86d92d24d5eff8
+M	amp.services.yml	126499684ff20fabc3cf554d52b00fb4
+M	composer.json	333a730dee0869e2225b1ce704789afb
+D	config/install/image.style.amp_metadata_content_image_696.yml	
+D	config/install/image.style.amp_metadata_logo_600x60.yml	
+D	config/schema/amp.metadata.schema.yml	
+D	modules/amp_adsense/amp_adsense.info.yml	
+D	modules/amp_adsense/amp_adsense.module	
+D	src/AmpMetadataHtmlRouteProvider.php	
+D	src/AmpMetadataInfo.php	
+D	src/AmpMetadataInterface.php	
+D	src/AmpMetadataListBuilder.php	
+D	src/AmpPrepareMetadataJsonInterface.php	
+M	src/Controller/AMPTestLibrary.php	f537bb412220f2cb1db5ff57e67790ad
+A	src/Controller/ampPage.php	bacff3e374276d477e3f05c9e7ab9545
+M	src/Element/AmpAnalytics.php	a95387e058b3c9cebfcb392029338280
+M	src/Element/AmpIframe.php	ef5fe5f6d7729ef28d53a6193048fb70
+M	src/Element/AmpProcessedText.php	af3f2b231672f1c9afde30246d3c792a
+D	src/Entity/AmpMetadata.php	
+D	src/EntityTypeInfo.php	
+M	src/EventSubscriber/AmpHtmlResponseSubscriber.php	a73587425b3988f92acc9960d371e21e
+D	src/Form/AmpMetadataDeleteForm.php	
+D	src/Form/AmpMetadataForm.php	
+M	src/Form/AmpSettingsForm.php	d55cae12e5b62b5847cfc4c79b36da6e
+M	src/Plugin/Block/AmpGoogleAdsenseBlock.php	23e9bb57691cc3201bd7d5f27d26f3ef
+M	src/Plugin/Block/AmpGoogleDoubleClickBlock.php	fb48fb44976c26a1eb460433c447abd6
+M	src/Plugin/Field/FieldFormatter/AmpImageFormatter.php	a02778e4ad773b86373eda19e1bac268
+M	src/Render/AmpHtmlResponseMarkupProcessor.php	d06bcec16df99655c2604ddb34aa7564
+M	src/Routing/AmpContext.php	e0b17bc74ecf49aa33bd40651b6690de
+M	src/Theme/AmpNegotiator.php	d9e2a0752501a1decf1890684bab89fb
+D	src/Utility/AmpMergeMetadata.php	
+D	src/Utility/AmpPrepareMetadataJson.php	
+D	src/Utility/AmpQueryParameters.php	
+M	templates/amp-pixel.html.twig	014a16a6647244c1752ea4fec4962a20
+D	tests/src/Functional/AmpFormatterTest.php	

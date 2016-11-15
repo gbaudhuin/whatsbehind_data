@@ -1,0 +1,20 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	attendance/attendance.css	
+D	attendance/attendance.info	
+D	attendance/attendance.install	
+D	attendance/attendance.js	
+D	attendance/attendance.module	
+M	class_lists/class_lists.info	7e6580d91867e23e8c2cf5e3c4fab9aa
+M	class_lists/class_lists.install	beb712f24c308a6668ec5beca4d0bb97
+M	class_lists/class_lists.module	6e70ae11e852ade4f2f0f9bfe0cae35c
+M	classes_and_lessons/classes_and_lessons.inc	fd50b440f06c6640d568bf1822245dbd
+M	classes_and_lessons/classes_and_lessons.info	cd8b66b2c39c09aa0144f466ef3e4231
+M	classes_and_lessons/classes_and_lessons.install	7dd9fc5cf60ab1804cc1cd483412627b
+M	classes_and_lessons/classes_and_lessons.module	3696b83751236036306f26b45344afd5
+M	room_booking/room_booking.info	e8c69f92f329e9ff45c206a58d9f78cd
+M	room_booking/room_booking.install	e0e47df506f1b5ce1edd1693f99ef532
+M	room_booking/room_booking.module	9b96aea835f0400ab0fe32ab80504ed0
+M	school_administration.forms.inc	dab92d1fec807f7d11408b27be123089
+M	school_administration.info	8c8439c065d924266eb0f9b9e7a14af6
+M	school_administration.install	01e9d9548847595ffe69e69a0a7b5ae4
+M	school_administration.module	19c8faf5a4f9f77a35a32099bbec6a8e

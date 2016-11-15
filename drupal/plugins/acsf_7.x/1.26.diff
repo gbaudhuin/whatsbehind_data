@@ -1,0 +1,14 @@
+A	.gitignore	77f4ca0acae4eeede38a63c856087db0
+M	.travis.yml	0f35fb226c617a4bcffc7206ccc7c433
+M	acsf.info	1df93375ad40a31ac74011d1d1ddf865
+M	acsf_duplication/acsf_duplication.info	d536ae416202a43764f841494363eba9
+M	acsf_init/acsf_init.drush.inc	f6faeef3ac90474b52452cded1374862
+M	acsf_openid/acsf_openid.info	6f01f3ac142409d2adc81cb98303a1d8
+M	acsf_pingdom/acsf_pingdom.info	48046fc1aea0282e2150671ce02948b4
+M	acsf_theme/acsf_theme.info	1f77ffee97fa18ef181cc3b86ea29df5
+M	acsf_variables/acsf_variables.info	fb7e37b5b2507606c795ec942864b2a4
+M	build_info	98e0e1277b478acb7db25d2286d21281
+M	src/Acquia/Acsf/AcsfEvent.php	2d8f24abb47d66a1549cb27fd39cddbb
+M	src/Acquia/Acsf/AcsfMessage.php	e2ce488b2b33143df5332f71a880f3ce
+M	tests/AcsfEventsTest.php	be037d063a0a230bbcefdf1200b15a81
+M	tests/AcsfMessageTest.php	deb9ad6a56eaac3f25f60019491fe316

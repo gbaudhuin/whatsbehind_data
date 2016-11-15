@@ -1,0 +1,19 @@
+M	CHANGELOG.txt	19148bdf5d1153ffe4d640e8f2382bea
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	97bc3846d70d13be9d2109e401bbe97f
+M	UPGRADE.txt	a184f693e7032660c702f938bf9e2c79
+A	css/nice_menus_default-rtl.css	aa29e06d37d6ca56e024af86165032a1
+A	js/jquery.bgiframe.min.js	6d3777ab2be264f2cd5424af32a15841
+A	js/jquery.hoverIntent.minified.js	015bbbd01da16828e415247b665a3cb7
+A	js/nice_menus.js	a3a2eeebf1f1b77688d5c29dd833245f
+A	js/superfish.js	ffc3a0cd293ca96904e0db8a89d78649
+A	nice_menus.admin.inc	e2ff4c51a31f07b970ecd30018b1710e
+M	nice_menus.info	523a527cff6266cd31d91fefbf9b31bc
+M	nice_menus.install	9cfd35955659cc412251cf34db0e117c
+D	nice_menus.js	
+M	nice_menus.module	2280e4df598c76b271dd408e38dfb9eb
+D	po/ja.po	
+D	po/nice_menus.pot	
+D	translations/nice_menus.pot	
+D	translations/sk.po	
+D	translations/sv.po	

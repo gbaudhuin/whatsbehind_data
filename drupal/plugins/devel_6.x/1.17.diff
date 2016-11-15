@@ -1,0 +1,19 @@
+M	README.txt	ad7469ba0d446a30c556bcdd85682470
+M	devel.info	3ddb3e4825162f57be7afa878a34f8e4
+M	devel.install	24a13f9bf264775ac3bc35ada61922ef
+M	devel.module	88d088aa3d0389b29534ccdf75302e24
+M	devel_generate.drush.inc	ae46b72c0ea5577e191e87357b501b08
+M	devel_generate.inc	3374fc292c2f54bbe024ffcb478377ea
+M	devel_generate.info	fbe44c2c8ff598047127e3bf2628f2ab
+M	devel_generate.module	0e14033c1551b75e162caf3501aa604f
+M	devel_node_access.info	d30ebf6eab50cc0362905dd518350957
+M	devel_node_access.module	d04a88df7077f1cc4112a870f6b3637f
+M	devel_themer.css	5c155ad07494112391273b4dd8e2d163
+M	devel_themer.info	cfe91162a4ea201f47186b2644311351
+M	devel_themer.js	5900278c346a32f06b2610f5945d7f48
+M	devel_themer.module	dfc555eb9688962a93f98991d52a2b09
+D	macro.info	
+D	macro.module	
+M	performance/performance.info	ea88ec68c5354510ce5cd016db15357a
+M	performance/performance.install	5ae91e59bc15b720172c2e77c5b9360f
+M	performance/performance.module	168142cfb65e12844496e9db65c2ae15

@@ -1,0 +1,12 @@
+M	core/includes/install.core.inc	79c457474fb65ab21d90c33fec964e49
+M	core/includes/theme.maintenance.inc	93680385ddc5cdf48032ca8925052565
+M	core/lib/Drupal/Core/Cache/MemoryBackend.php	04530827a519cc4c30cfd418f22fa4b2
+M	core/lib/Drupal/Core/Render/Renderer.php	63a637a24f873fc21e5ee0c2f586079d
+M	core/lib/Drupal/Core/Render/RendererInterface.php	a568b89a93a3b4a9bc5a689f4433ced5
+M	core/lib/Drupal/Core/StringTranslation/StringTranslationTrait.php	96d3ea9293c461a3fe8ddd2190f2fc05
+M	core/lib/Drupal/Core/StringTranslation/TranslationInterface.php	55262c6d9ba1c84237295a4f6f5f5a85
+M	core/lib/Drupal/Core/StringTranslation/TranslationManager.php	1bb3bae5a1b51a32e956ad6f2e4ca2b9
+M	core/modules/block/src/BlockViewBuilder.php	fe2c9dbf77f37bcf6e3b9163a169cee9
+M	core/modules/locale/src/Tests/LocalePluralFormatTest.php	9afc1df143c17d53c7ca8c1cc1da1c85
+A	core/modules/system/src/Tests/Installer/StandardInstallerTest.php	9c2f56a0142762dc3379a0d8c40fcf7f
+M	core/tests/Drupal/Tests/Core/Render/RendererTest.php	cbdd330449379a6521a9e4c90ad7de5f

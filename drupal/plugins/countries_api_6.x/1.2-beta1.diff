@@ -1,0 +1,25 @@
+M	README.txt	589c12db30258bf2115eef927fea934d
+A	contrib/continents_api/continents_api.info	d0aa325fa981368a47d330650a782348
+A	contrib/continents_api/continents_api.install	9ce8fa50642ef872b4203e54010e845c
+A	contrib/continents_api/continents_api.module	6841d907922abd958a0c6d8fb80138d4
+A	contrib/continents_api/data/continents.csv	677e353aae33faaa62b318cb4b996fb2
+M	contrib/countries_api_service/countries_api_service.info	78aee73fe3342ba9b5c16816b7e9e8a4
+M	contrib/countries_api_service/countries_api_service.module	0e4dcc0e39fe93b67daef139751044fa
+D	contrib/countries_api_service/translations/countries_api_service.pot	
+M	contrib/regions_api/data/regions.csv	a8b6d4147b722d3c75de46294783e1d9
+M	contrib/regions_api/regions_api.info	5400dc8bb893d0d105da4f5ba928d486
+M	contrib/regions_api/regions_api.install	961f54370af0f02915aec25f8b7f2854
+M	contrib/regions_api/regions_api.module	147c8e51786f9a61a2311c4641be5a1b
+M	contrib/regions_api/tests/regions_api.test	f1426d0558b09679e0f655d876bd0aa6
+D	contrib/regions_api/translations/regions_api.pot	
+M	contrib/regions_api_service/regions_api_service.info	401961d45e0152ae15486a76e0d47e4f
+M	contrib/regions_api_service/regions_api_service.module	5747149aef55fc8ce6e2eaca9ac41d1f
+D	contrib/regions_api_service/translations/regions_api_service.pot	
+A	countries-api-help.tpl.php	ec0cdf4e68dbaea202bada5dcb439cef
+M	countries_api.info	002d94b64f6e6f994f329cc51f9da768
+M	countries_api.install	8f320169393bb345e4e184ffe94b9966
+M	countries_api.module	0146aa87e5e145e4d61bae21a0d545a3
+M	data/countries.csv	f1107b61e6371423cbad45e23f271290
+M	tests/countries_api.test	18b57fff236d290fc51823100f6b7230
+D	translations/countries_api.pot	
+D	translations/nl.po	

@@ -1,0 +1,33 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	b2bc5799b88724e686a10fdc2b1a566f
+M	changelog.txt	ba0ea7d64a729a06849fc7f0d61b9fa8
+D	contrib/views_slideshow_singleframe/README.txt	
+D	contrib/views_slideshow_singleframe/changelog.txt	
+D	contrib/views_slideshow_singleframe/views-slideshow-singleframe.tpl.php	
+D	contrib/views_slideshow_singleframe/views_slideshow.css	
+D	contrib/views_slideshow_singleframe/views_slideshow.js	
+D	contrib/views_slideshow_singleframe/views_slideshow_singleframe.info	
+D	contrib/views_slideshow_singleframe/views_slideshow_singleframe.module	
+D	contrib/views_slideshow_singleframe/views_slideshow_singleframe.theme.inc	
+D	contrib/views_slideshow_singleframe/views_slideshow_singleframe.views_slideshow.inc	
+D	contrib/views_slideshow_thumbnailhover/README.txt	
+D	contrib/views_slideshow_thumbnailhover/changelog.txt	
+D	contrib/views_slideshow_thumbnailhover/views-slideshow-thumbnailhover.tpl.php	
+D	contrib/views_slideshow_thumbnailhover/views_slideshow.css	
+D	contrib/views_slideshow_thumbnailhover/views_slideshow.js	
+D	contrib/views_slideshow_thumbnailhover/views_slideshow_thumbnailhover.info	
+D	contrib/views_slideshow_thumbnailhover/views_slideshow_thumbnailhover.module	
+D	contrib/views_slideshow_thumbnailhover/views_slideshow_thumbnailhover.theme.inc	
+D	contrib/views_slideshow_thumbnailhover/views_slideshow_thumbnailhover.views_slideshow.inc	
+M	css/views_slideshow.css	b8f022d562ba321960ed2fabddfe46cb
+D	js/jquery.cycle.all.min.js	
+M	js/views_slideshow.js	036c80c536fd7e5f5c1d264358ba5cee
+D	views-slideshow-single-frame.tpl.php	
+D	views-slideshow-thumbnail-hover.tpl.php	
+M	views-slideshow.tpl.php	c751deb9dd3132e88aaaddc5e626e049
+M	views_slideshow.info	c664e2eecc28d548e10fb2568f8e0fe2
+M	views_slideshow.install	e1c73c93c9ebd8e3815885ecd299407e
+M	views_slideshow.module	a7b9abc9a847678bfdcf801e94ba6d1c
+M	views_slideshow.theme.inc	a3fdf3d5d18023b2303c89a4f441da34
+D	views_slideshow.views_slideshow.inc	
+M	views_slideshow_plugin_style_slideshow.inc	5c6e46e07cb0cf1bd0c4fa75730130ea

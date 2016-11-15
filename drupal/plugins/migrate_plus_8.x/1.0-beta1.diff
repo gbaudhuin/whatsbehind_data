@@ -1,0 +1,46 @@
+M	config/schema/migrate_plus.schema.yml	a5407f865865908de65b4ef84f663349
+M	migrate_example/config/install/migrate.migration.beer_comment.yml	13c35046bd925f7a7db93bf86e70de1c
+M	migrate_example/config/install/migrate.migration.beer_node.yml	cbb16e22d04b0230d71cd3c9da001c9f
+M	migrate_example/config/install/migrate.migration.beer_term.yml	a6df664dc01d65a0cca5127827af67ba
+M	migrate_example/config/install/migrate.migration.beer_user.yml	7919a1b3211e74c2127357cb91a851d6
+M	migrate_example/migrate_example.info.yml	427321c350fa373bb85ec5865d9396fd
+M	migrate_example/migrate_example_setup/migrate_example_setup.info.yml	b35a6b83ce616bf50385a916c88eb12b
+M	migrate_example_advanced/README.txt	6fa786b7e68ebdf77a1a11ef1e6bb299
+D	migrate_example_advanced/config/install/migrate.migration.wine_role_json.yml	
+D	migrate_example_advanced/config/install/migrate.migration.wine_role_xml.yml	
+M	migrate_example_advanced/config/install/migrate.migration.wine_terms.yml	f3ab02a9421f456f2fe28e001afedd72
+D	migrate_example_advanced/config/install/migrate.migration.wine_variety_list.yml.txt	
+D	migrate_example_advanced/config/install/migrate.migration.wine_variety_multi_xml.yml	
+D	migrate_example_advanced/data/0001.xml	
+D	migrate_example_advanced/data/0002.xml	
+D	migrate_example_advanced/data/index.xml	
+D	migrate_example_advanced/data/index2.xml	
+M	migrate_example_advanced/migrate_example_advanced.info.yml	70ad7ea3b89d3cffe7a68f3e6134f057
+D	migrate_example_advanced/migrate_example_advanced.install	
+M	migrate_example_advanced/migrate_example_advanced_setup/config/install/core.entity_form_display.node.migrate_example_wine.default.yml	9e206164929f875947617d61bfe6b676
+M	migrate_example_advanced/migrate_example_advanced_setup/config/install/core.entity_view_display.node.migrate_example_wine.default.yml	03ad236babf384aac6ef78090c0871ba
+M	migrate_example_advanced/migrate_example_advanced_setup/config/install/core.entity_view_display.node.migrate_example_wine.teaser.yml	3feeacfe90a318d70b67710dd3117459
+M	migrate_example_advanced/migrate_example_advanced_setup/migrate_example_advanced_setup.info.yml	08a340b9ffdc1206edc1eaf1d8db1c7d
+M	migrate_example_advanced/migrate_example_advanced_setup/migrate_example_advanced_setup.install	121523d58cafd6834d63e90797a8dfe7
+D	migrate_example_advanced/migrate_example_advanced_setup/src/Plugin/rest/resource/PositionResource.php	
+D	migrate_example_advanced/migrate_example_advanced_setup/src/Plugin/rest/resource/VarietyItems.php	
+D	migrate_example_advanced/migrate_example_advanced_setup/src/Plugin/rest/resource/VarietyList.php	
+D	migrate_example_advanced/migrate_example_advanced_setup/src/Plugin/rest/resource/VarietyMultiFiles.php	
+M	migrate_plus.info.yml	a16a88dd5e7f027362bf44ec84e02cd0
+M	migrate_plus.module	c19c104de135c946a0641d5cc30f5def
+D	migrate_plus.services.yml	
+D	src/Annotation/DataFetcher.php	
+D	src/Annotation/DataParser.php	
+D	src/DataFetcherPluginBase.php	
+D	src/DataFetcherPluginInterface.php	
+D	src/DataFetcherPluginManager.php	
+D	src/DataParserPluginBase.php	
+D	src/DataParserPluginInterface.php	
+D	src/DataParserPluginManager.php	
+M	src/Entity/MigrationGroup.php	9b89becf6e39ae87188f85f1a098d37a
+M	src/Event/MigratePrepareRowEvent.php	8e9b37b9d93ab381c2ed5f466f583f2d
+D	src/Plugin/migrate/source/SourcePluginExtension.php	
+D	src/Plugin/migrate/source/Url.php	
+D	src/Plugin/migrate_plus/data_fetcher/Http.php	
+D	src/Plugin/migrate_plus/data_parser/Json.php	
+M	src/Tests/MigrationGroupTest.php	e135ed3e014b670728fbdef9dba1c86d

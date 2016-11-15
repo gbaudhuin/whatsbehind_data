@@ -1,0 +1,10 @@
+M	CHANGELOG.txt	9b86d9c71f3441db0a5cc5e150b872cc
+M	README.txt	f18823979c58fd2168434fba5d2cb21c
+M	uc_views.info	cfae9bb3f6d1dafe859328d339f599fc
+M	uc_views.install	8be747e7f74bf26dc015f177cef078a9
+M	views/uc_views.views.inc	14a7ef45ff1cbb1766022853af0c5030
+A	views/uc_views_handler_field_cart_user.inc	69cbc469b7e9c13fe17cb1c34e832fb3
+A	views/uc_views_handler_field_country.inc	8dcc3d9f53f21f2862f2ca725b1ab172
+A	views/uc_views_handler_field_zone.inc	91ae5ce49aa7003814850f91a383750a
+A	views/uc_views_handler_filter_country.inc	b5452398d76a099dc19ab39e6e11e361
+A	views/uc_views_handler_filter_zone.inc	ad6bfcfd08364bd91c84b492432c0356

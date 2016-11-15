@@ -1,0 +1,11 @@
+M	courier.info.yml	35d9c2feab09d4ca6e2512769baca683
+A	courier.module	7166d9cba7945cf2878a1da38ae83574
+M	courier.services.yml	769a861405769a020470e7ec67e26147
+A	src/ChannelBase.php	a5f63d804abcecdbccca31b1a3f35fe4
+M	src/EmailInterface.php	7ed588a37584944195e3890563c03364
+M	src/Entity/Email.php	00799a8c66902424d04c3e1706ae920e
+M	src/Entity/TemplateCollection.php	3cfc55fd711b48308835bb697db5c7db
+M	src/IdentityChannelManager.php	fc08524e73797a662b1d3c7c09ab0999
+M	src/IdentityChannelManagerInterface.php	ef2b651e5bd3eaa289c64e8c1d3432b3
+A	src/Service/CourierManager.php	2505cf34b19c0e98f041a27fb911864a
+A	src/Service/CourierManagerInterface.php	6ea0b0dcfcf5c2f63495e778f88a7436

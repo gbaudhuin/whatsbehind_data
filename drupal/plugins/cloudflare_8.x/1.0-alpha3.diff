@@ -1,0 +1,5 @@
+M	cloudflare.info.yml	d98d37d614b06002cef31a6e18579852
+M	composer.json	96e27e94f9902f073c1d54ee0eddfff8
+M	modules/cloudflarepurger/cloudflarepurger.info.yml	c8471b85f1593410446697230599d954
+M	modules/cloudflarepurger/src/EventSubscriber/CloudFlareCacheTagHeaderGenerator.php	5681df46f5ab3087b7bfa5205e084bad
+M	src/Tests/CloudFlareAdminSettingsInvalidFormTest.php	23eea2906eb97400c8c1ade93d2e54c2

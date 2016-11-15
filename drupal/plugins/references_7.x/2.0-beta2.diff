@@ -1,0 +1,19 @@
+M	CHANGELOG.txt	758c5b2780265c21d865f411a13c4b45
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	node_reference/node_reference.devel_generate.inc	
+M	node_reference/node_reference.info	ce868922003aca810018738e5941b33e
+D	node_reference/node_reference.install	
+M	node_reference/node_reference.module	a96fecccb646c04533f9f857b190d473
+M	node_reference/node_reference.test	5a82f698c84aea7c60e3f4d376ede9a2
+D	references.feeds.inc	
+M	references.info	8b984df0720dc5dd095be2f208367065
+M	references.module	d6df794b9b39702a18bb0da877b31149
+D	references_uuid/references_uuid.info	
+D	references_uuid/references_uuid.module	
+D	user_reference/user_reference.devel_generate.inc	
+M	user_reference/user_reference.info	fb3f91e370a749a879ccdd975e5f5dd8
+D	user_reference/user_reference.install	
+M	user_reference/user_reference.module	79797f31436cedb796d84d521aa8e75f
+M	views/references_plugin_display.inc	dabe74d4a610b24d01132da33882bca8
+D	views/references_plugin_row_fields.inc	
+M	views/references_plugin_style.inc	6868916ae2a7eb7ebf91b35900ad6e18

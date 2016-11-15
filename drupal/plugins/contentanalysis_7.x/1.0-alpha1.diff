@@ -1,0 +1,15 @@
+M	APIEXAMPLE/contentanalysisexample.info	90915647b891d78836f01b7e757ca975
+M	APIEXAMPLE/contentanalysisexample.js	540fcc32d0bf483f166c128c435b3b74
+M	APIEXAMPLE/contentanalysisexample.module	8bebdfd373c75f8f27ebcafafe70bcb5
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	contentanalysis.admin.inc	4533fc80d62b6e4badfbf178c33043d5
+M	contentanalysis.css	57b8a73dccc1f22f3864eb7fcf76c087
+M	contentanalysis.info	c76437d352ffdba27d36b4f57ddbbf11
+M	contentanalysis.install	3698a8b32a2a5f1b67be5650c9b9d711
+M	contentanalysis.js	6aed4b4d656bdafac3040684dfa62d34
+M	contentanalysis.module	e1d87752761c502137aa0af35dbed12d
+M	includes/seo_friend.inc	4805f91feb891afc7e22edd2ed4d6811
+D	includes/theme.inc	
+D	theme/slider-nojquery.tpl.php	
+D	theme/slider-range.tpl.php	
+D	theme/slider-value.tpl.php	

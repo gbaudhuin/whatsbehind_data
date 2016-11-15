@@ -1,0 +1,33 @@
+M	CHANGELOG.txt	0240bec13a5d7b18180809e6a04ca602
+M	README.txt	addd60289b6f60a16669116f2f3eda0b
+D	css/libraries.admin.css	
+D	libraries.admin.inc	
+M	libraries.api.php	faca165d2bf54abb14f548e240c46ad4
+M	libraries.drush.inc	345ae2317a8d5390842c94277d62ae98
+M	libraries.info	7ba7da2a4c37b515ac9cd366fd36732d
+M	libraries.install	a160f5dc6cb9d2a77c9cd490ffee50c7
+M	libraries.module	4ab1d758a2155aa791ea576a850285e6
+D	libraries.theme.inc	
+D	tests/LibrariesAdminWebTest.test	
+D	tests/LibrariesUnitTest.test	
+D	tests/LibrariesWebTestBase.test	
+A	tests/example/example_1.css	073a13e0888ebec0d202585adbee3693
+A	tests/example/example_2.css	f895d9bfd3b9663b9123543177ef11d8
+A	tests/example/example_3.css	2ea70573abc90a46a74ff4f8ad361aea
+A	tests/example/example_4.css	475f1bd82477d2ddb471c2b763f5fbf2
+D	tests/libraries/example/example_1.css	
+D	tests/libraries/example/example_1.php	
+D	tests/libraries/example/example_2.css	
+D	tests/libraries/example/example_2.php	
+D	tests/libraries/example/example_3.css	
+D	tests/libraries/example/example_4.css	
+A	tests/libraries_test.css	05625822a7e37a62404bfc36a298742d
+A	tests/libraries_test.inc	430a6c6e5c763829e37e15dfefd1c66d
+A	tests/libraries_test.js	f4e10a04fa50d019ca734a4e49c76acc
+D	tests/modules/libraries_test_module/libraries_test_module.css	
+D	tests/modules/libraries_test_module/libraries_test_module.js	
+D	tests/modules/libraries_test_module/libraries_test_module_post_load.inc	
+D	tests/themes/libraries_test_theme/libraries_test_theme.css	
+D	tests/themes/libraries_test_theme/libraries_test_theme.info	
+D	tests/themes/libraries_test_theme/libraries_test_theme.js	
+D	tests/themes/libraries_test_theme/template.php	

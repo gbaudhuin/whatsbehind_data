@@ -1,0 +1,53 @@
+D	composer.json	
+D	config/install/services.settings.yml	
+M	config/schema/service_endpoint.schema.yml	fbc7aed76c0c377fe3df9482cf61602d
+D	config/schema/service_endpoint_resource.schema.yml	
+M	config/schema/services.schema.yml	2123598feb57e22df72025f994ca60af
+M	services.info.yml	357e81e07e51fa76c21653f0fb67a713
+D	services.install	
+D	services.links.task.yml	
+D	services.module	
+M	services.permissions.yml	163c94a8d39b8ab40f6e177b0f76cb16
+M	services.routing.yml	33adaf4516ae01a5f9a9a2b9122ca7ad
+M	services.services.yml	641915d989a3caf6bf2f42186059b4ad
+M	services_test/Plugin/ServiceDefinition/TestServiceDefinition.php	39f6ef746f87f925393bf5ccad03b9c7
+M	services_test/services_test.info.yml	844b5b21ec71205d7cbeb593b63287e8
+D	src/Access/CSRFTokenAccessCheck.php	
+M	src/Annotation/ServiceDefinition.php	69413d2d478959e17e32c83efd037b5c
+M	src/Controller/ServiceEndpointListBuilder.php	f2681ed4c9f7f16cfc50703d29881cea
+D	src/Controller/ServiceEndpointResources.php	
+M	src/Controller/Services.php	c0ad831127e841662e448a40f6d06f35
+M	src/Entity/ServiceEndpoint.php	b5f3bcf805394adf333fa3a79f1c47d1
+D	src/Entity/ServiceResource.php	
+M	src/Form/ServiceEndpointDeleteForm.php	316a09a7a8824771e840b60b94cfc215
+M	src/Form/ServiceEndpointForm.php	097bf3c860bc268b9654f2496cda7065
+D	src/Form/ServiceResourceBaseForm.php	
+D	src/Form/ServiceResourceConfigForm.php	
+D	src/Form/ServiceResourceDeleteForm.php	
+D	src/Form/ServiceSettingsForm.php	
+D	src/Plugin/Deriver/AliasGet.php	
+M	src/Plugin/Deriver/EntityDelete.php	9b875cf9fac2ce78dce5605dab80479d
+M	src/Plugin/Deriver/EntityGet.php	1a1cc8dab0418939da22bf3cd5487189
+M	src/Plugin/Deriver/EntityIndex.php	1dc2b214563a4bbd5b64595d9de878dc
+M	src/Plugin/Deriver/EntityPost.php	fd15f34cccf0d71acf180fb17fff9872
+M	src/Plugin/Deriver/EntityPut.php	89e8e9adf9d4b020230b380507780f4b
+M	src/Plugin/Deriver/EntityView.php	c3f2108cbba0c95da2dc6fc22f6f48b5
+D	src/Plugin/ServiceDefinition/AliasGet.php	
+M	src/Plugin/ServiceDefinition/EntityDelete.php	3180fda78ac4f12523a33e41af9b5788
+M	src/Plugin/ServiceDefinition/EntityGet.php	e47fef64a9aa0d963b9372db3a89fb3d
+M	src/Plugin/ServiceDefinition/EntityIndex.php	a6628570e9fbd7613e77ee66340a9184
+M	src/Plugin/ServiceDefinition/EntityPost.php	ee8ce1df27fb1032402049abe9a4e6c7
+M	src/Plugin/ServiceDefinition/EntityPut.php	05dfcb0fb4921f8891a14f042a40a230
+M	src/Plugin/ServiceDefinition/EntityView.php	636e0c079b0d05097cc9db02650d74db
+M	src/Plugin/ServiceDefinition/UserLogin.php	ad0aa64eeb9ac2aaa2b66b337f3cb7f2
+M	src/Plugin/ServiceDefinition/UserLogout.php	43f4dec608fe4213163431acb964e1a2
+D	src/Plugin/ServiceDefinition/VocabularyTreeGet.php	
+M	src/Routing/ServiceEndpoint.php	ffdd50526fa34bbfc22d6017c4f4a753
+M	src/ServiceDefinitionBase.php	a9ce1b0d193d9bad0d7835ed55680b09
+M	src/ServiceDefinitionEntityRequestContentBase.php	f451eb26ad8b19cb551a3a2e3de86c02
+M	src/ServiceDefinitionInterface.php	02045bf878667ef69a190580b8b27f36
+M	src/ServiceDefinitionPluginManager.php	26c9f838bba4ad71237029c07c84f4dd
+M	src/ServiceEndpointInterface.php	ffbd4b2ae121630d2300b43d76ff5cba
+D	src/ServiceResourceInterface.php	
+D	src/ServiceResourceOptionsTrait.php	
+M	src/StackMiddleware/FormatSetter.php	029fb29e61fb14f27bf87172d9b619ef

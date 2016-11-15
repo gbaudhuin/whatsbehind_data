@@ -1,0 +1,7 @@
+M	mailchimp.admin.inc	6cf6340adc83af7452327b4347a9ac36
+A	mailchimp.drush.inc	937f40f535e5bf9def739647b7a46a5f
+M	mailchimp.info	8e990b118c57789eec9b37f0853d72c2
+M	mailchimp.install	d14aaf123d3ec8b85abf753e1a527a25
+M	mailchimp.module	9b6c31082469c2daaf880dccbc5e2eef
+D	translations/mailchimp.fr_.po	
+D	translations/mailchimp.nl_.po	

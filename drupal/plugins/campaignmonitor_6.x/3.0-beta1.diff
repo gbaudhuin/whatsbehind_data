@@ -1,0 +1,9 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	53227198b2151b4989476d1dbc39bd17
+M	campaignmonitor-block-content.tpl.php	9828f78a441d2574ce56d2ea0eea28df
+M	campaignmonitor.info	2bc0970ffbc7121fd6bc188c09e26df4
+M	campaignmonitor.install	3e2ab33f8db6e7af3a56a4855385a406
+M	campaignmonitor.module	7827f8aba27e2552888dd426db1471a0
+D	includes/campaignmonitor.admin.inc	
+D	includes/campaignmonitor.user_page.inc	
+M	lib/CMBase.php	dcce9219f299bf1ffddc327e27c92ffc

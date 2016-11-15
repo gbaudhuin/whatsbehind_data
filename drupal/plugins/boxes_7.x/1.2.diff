@@ -1,0 +1,11 @@
+M	boxes.admin.inc	61291bdc1b296c9d133ec13d681d4681
+M	boxes.css	4737ba3ac8a6fcb90d04181182ba5a33
+M	boxes.info	0650d905d675c81fb6f21b7185f4cbfe
+M	boxes.js	6a471e605a81a646d0dd191a8b8e9084
+M	boxes.module	5bc3690492f67bb210ceebaf9c7e5421
+M	plugins/boxes_box.inc	fe84d4e54bdde64f281a98c9ec7c1e93
+M	plugins/boxes_simple.inc	8e44b8730f2e72e76718fbc03cd99ae7
+M	plugins/spaces_controller_boxes.inc	dc23b2697b7102d68b55d9ca25387d07
+M	swirly.gif	a637cac3b8188ae74667f7a457dcf20e
+M	tests/boxes.test	afa8e40e497fabbbc03e111e74b0fea5
+M	tests/boxes_spaces.test	f151b715c0fdd559d081397804c04555

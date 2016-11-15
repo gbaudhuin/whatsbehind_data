@@ -1,0 +1,103 @@
+M	README.txt	401f649cb6d62a00dda034a92ada1e8f
+D	config/install/core.entity_view_mode.paragraph.preview.yml	
+A	config/install/core.entity_view_mode.paragraphs_item.preview.yml	f67e8aa8af50b5dcec1f50852c211679
+M	config/schema/paragraphs_type.schema.yml	1bfd72607f4c3303f8ab64471b31bc1a
+M	css/paragraphs.admin.css	8da43d884fbfa9d0333e3b139c304154
+D	modules/paragraphs_demo/config/install/core.entity_form_display.node.paragraphed_content_demo.default.yml	
+D	modules/paragraphs_demo/config/install/core.entity_form_display.paragraph.image_text.default.yml	
+D	modules/paragraphs_demo/config/install/core.entity_form_display.paragraph.images.default.yml	
+D	modules/paragraphs_demo/config/install/core.entity_form_display.paragraph.nested_paragraph.default.yml	
+D	modules/paragraphs_demo/config/install/core.entity_form_display.paragraph.text.default.yml	
+D	modules/paragraphs_demo/config/install/core.entity_form_display.paragraph.text_image.default.yml	
+D	modules/paragraphs_demo/config/install/core.entity_form_display.paragraph.user.default.yml	
+D	modules/paragraphs_demo/config/install/core.entity_view_display.node.paragraphed_content_demo.default.yml	
+D	modules/paragraphs_demo/config/install/core.entity_view_display.node.paragraphed_content_demo.teaser.yml	
+D	modules/paragraphs_demo/config/install/core.entity_view_display.paragraph.image_text.default.yml	
+D	modules/paragraphs_demo/config/install/core.entity_view_display.paragraph.images.default.yml	
+D	modules/paragraphs_demo/config/install/core.entity_view_display.paragraph.nested_paragraph.default.yml	
+D	modules/paragraphs_demo/config/install/core.entity_view_display.paragraph.text.default.yml	
+D	modules/paragraphs_demo/config/install/core.entity_view_display.paragraph.text_image.default.yml	
+D	modules/paragraphs_demo/config/install/core.entity_view_display.paragraph.user.default.yml	
+D	modules/paragraphs_demo/config/install/field.field.node.paragraphed_content_demo.field_paragraphs_demo.yml	
+D	modules/paragraphs_demo/config/install/field.field.paragraph.image_text.field_image_demo.yml	
+D	modules/paragraphs_demo/config/install/field.field.paragraph.image_text.field_text_demo.yml	
+D	modules/paragraphs_demo/config/install/field.field.paragraph.images.field_images_demo.yml	
+D	modules/paragraphs_demo/config/install/field.field.paragraph.nested_paragraph.field_paragraphs_demo.yml	
+D	modules/paragraphs_demo/config/install/field.field.paragraph.text.field_text_demo.yml	
+D	modules/paragraphs_demo/config/install/field.field.paragraph.text_image.field_image_demo.yml	
+D	modules/paragraphs_demo/config/install/field.field.paragraph.text_image.field_text_demo.yml	
+D	modules/paragraphs_demo/config/install/field.field.paragraph.user.field_user_demo.yml	
+D	modules/paragraphs_demo/config/install/field.storage.node.field_paragraphs_demo.yml	
+D	modules/paragraphs_demo/config/install/field.storage.paragraph.field_image_demo.yml	
+D	modules/paragraphs_demo/config/install/field.storage.paragraph.field_images_demo.yml	
+D	modules/paragraphs_demo/config/install/field.storage.paragraph.field_paragraphs_demo.yml	
+D	modules/paragraphs_demo/config/install/field.storage.paragraph.field_text_demo.yml	
+D	modules/paragraphs_demo/config/install/field.storage.paragraph.field_user_demo.yml	
+D	modules/paragraphs_demo/config/install/language.content_settings.node.paragraphed_content_demo.yml	
+D	modules/paragraphs_demo/config/install/language.content_settings.paragraph.image_text.yml	
+D	modules/paragraphs_demo/config/install/language.content_settings.paragraph.images.yml	
+D	modules/paragraphs_demo/config/install/language.content_settings.paragraph.text.yml	
+D	modules/paragraphs_demo/config/install/language.content_settings.paragraph.text_image.yml	
+D	modules/paragraphs_demo/config/install/language.content_settings.paragraph.user.yml	
+D	modules/paragraphs_demo/config/install/node.type.paragraphed_content_demo.yml	
+D	modules/paragraphs_demo/config/install/paragraphs.paragraphs_type.image_text.yml	
+D	modules/paragraphs_demo/config/install/paragraphs.paragraphs_type.images.yml	
+D	modules/paragraphs_demo/config/install/paragraphs.paragraphs_type.nested_paragraph.yml	
+D	modules/paragraphs_demo/config/install/paragraphs.paragraphs_type.text.yml	
+D	modules/paragraphs_demo/config/install/paragraphs.paragraphs_type.text_image.yml	
+D	modules/paragraphs_demo/config/install/paragraphs.paragraphs_type.user.yml	
+D	modules/paragraphs_demo/config/install/search_api.index.paragraphs_demo_index.yml	
+D	modules/paragraphs_demo/config/install/search_api.server.paragraphs_demo_server.yml	
+D	modules/paragraphs_demo/config/install/views.view.paragraphs_search.yml	
+D	modules/paragraphs_demo/config/optional/language.entity.de.yml	
+D	modules/paragraphs_demo/config/optional/language.entity.fr.yml	
+D	modules/paragraphs_demo/css/paragraphs_demo.css	
+D	modules/paragraphs_demo/paragraphs_demo.info.yml	
+D	modules/paragraphs_demo/paragraphs_demo.install	
+D	modules/paragraphs_demo/paragraphs_demo.libraries.yml	
+D	modules/paragraphs_demo/paragraphs_demo.module	
+D	modules/paragraphs_demo/src/Tests/ParagraphsDemoTest.php	
+M	modules/paragraphs_type_permissions/paragraphs_type_permissions.info.yml	0f91f9a3f063c700d48b4a2c6be85716
+M	modules/paragraphs_type_permissions/paragraphs_type_permissions.module	1d1e378cec4c401c9f70cb11f7c5be5b
+M	modules/paragraphs_type_permissions/src/ParagraphsTypePermissions.php	1c59d546ae5756ca70a403a7c74e7280
+D	modules/paragraphs_type_permissions/src/Tests/ParagraphsTypePermissionsTest.php	
+M	paragraphs.info.yml	75e9a9c7c4afd886e7885cc850860468
+D	paragraphs.install	
+M	paragraphs.libraries.yml	3d856ee87969e0b2e4c0338b6cea0dd8
+M	paragraphs.links.action.yml	34c1cec070288e180b7c4db3111ffdca
+M	paragraphs.links.menu.yml	65f4c1108178a47ca17d887f93d89958
+D	paragraphs.links.task.yml	
+M	paragraphs.module	628976f37952b0b5e92e660bdb0bb382
+D	paragraphs.post_update.php	
+M	paragraphs.routing.yml	690a042b54dee622f2c997c2b848d18c
+M	src/Controller/ParagraphsTypeListBuilder.php	00157bfcb2f836ed9b043a3fa627f353
+M	src/Entity/ParagraphsType.php	995993fe80cab5b6864a9d34d5baf71c
+D	src/EventSubscriber/ReplicateFieldSubscriber.php	
+D	src/Feeds/Target/Paragraphs.php	
+D	src/Form/ParagraphsTypeDeleteConfirm.php	
+A	src/Form/ParagraphsTypeDeleteForm.php	18cb38fc1237acfffe018c7c2195cd02
+M	src/Form/ParagraphsTypeForm.php	1745e34861f3ecee11c0c9a0ee27aee4
+D	src/ParagraphAccessControlHandler.php	
+D	src/ParagraphInterface.php	
+D	src/ParagraphStorageSchema.php	
+A	src/ParagraphsItemAccessControlHandler.php	86208da0cf202491b773d440d992c0b0
+A	src/ParagraphsItemInterface.php	806bb033f24635cee93108e39822140f
+D	src/ParagraphsServiceProvider.php	
+M	src/ParagraphsTypeInterface.php	5f941b02ff90d06a38b059031e67ca9f
+M	src/Plugin/Field/FieldWidget/InlineParagraphsWidget.php	a1eb6b9688c6aff3ab87be0d04b70a73
+D	src/Tests/ParagraphsAccessTest.php	
+D	src/Tests/ParagraphsAddModesTest.php	
+D	src/Tests/ParagraphsAdministrationTest.php	
+D	src/Tests/ParagraphsConfigTest.php	
+D	src/Tests/ParagraphsContactTest.php	
+D	src/Tests/ParagraphsInlineEntityFormTest.php	
+D	src/Tests/ParagraphsPreviewTest.php	
+D	src/Tests/ParagraphsTestBase.php	
+D	src/Tests/ParagraphsTranslationTest.php	
+D	src/Tests/ParagraphsTypesTest.php	
+D	src/Tests/ParagraphsUninstallTest.php	
+D	src/Tests/ParagraphsWidgetButtonsTest.php	
+D	templates/paragraph.html.twig	
+A	templates/paragraphs-item.html.twig	1b7ab60c062fc035e0182dd40f09ebc1
+D	tests/src/Kernel/ParagraphsCompositeRelationshipTest.php	
+D	tests/src/Kernel/ParagraphsReplicateTest.php	

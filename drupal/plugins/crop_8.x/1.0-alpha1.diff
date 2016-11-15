@@ -1,0 +1,34 @@
+M	README.md	abef35180bccd95daec9e016a4d599d2
+D	composer.json	
+D	config/install/crop.settings.yml	
+M	config/schema/crop.schema.yml	93753672cb2152e25b892491248fab05
+M	crop.info.yml	51626d2789ec7a3252d80178a09661cb
+D	crop.install	
+M	crop.links.menu.yml	662b2f4067894b64dc16a62917cc1962
+M	crop.module	38aa9b9b512ce6270bb88ecc4870f598
+M	crop.routing.yml	42a35ad54605ec9ffb3fa0cfe5de40a3
+M	modules/crop_media_entity/crop_media_entity.info.yml	790204c598e6b46ed9f115a2a74d4ef7
+M	modules/crop_media_entity/src/Plugin/Crop/EntityProvider/MediaEntity.php	5c7b344a70625837c67ccb082c8e62a6
+M	src/Annotation/CropEntityProvider.php	bb29d327a07fa60909d8816666b7ad3f
+M	src/CropInterface.php	e9f06f9829f191ef63b5fe762f3aecf5
+M	src/CropStorage.php	81bcb71abcc6423d47b5ba5866611d95
+M	src/CropStorageInterface.php	9bdaeab5cfe075fba043fe03134a6e0c
+M	src/CropTypeInterface.php	0ca780e9ffc9413b8a8a14119e014080
+M	src/CropTypeListBuilder.php	d5fb20f10e881cb234dd1f842da4c12b
+M	src/Entity/Crop.php	deda56b69dee2c496f533bcda7194ead
+M	src/Entity/CropType.php	3fbf6857153a786621272eaee71a688b
+M	src/EntityProviderBase.php	7f6e1fcbfdd22954f2bb516a7eb45874
+M	src/EntityProviderInterface.php	0065f133a00f0ecd98414690eb8f7b21
+M	src/EntityProviderManager.php	71f9176091e673707f844c13ecea5dfd
+M	src/EntityProviderNotFoundException.php	001fca60adb6ae830eb94013a95d91ad
+M	src/Form/CropTypeDeleteForm.php	47b1e4fe4fc598c7cc6d969bb7218287
+M	src/Form/CropTypeForm.php	b0ba82d321525a8abb114d92df7bd6f1
+M	src/Plugin/Crop/EntityProvider/File.php	28823694fc0c24410fe8b45fe5b67bb2
+M	src/Plugin/ImageEffect/CropEffect.php	5dfb428eba91b467d7cc49082af60526
+M	src/Plugin/Validation/Constraint/CropTypeAspectRatioValidationConstraint.php	32554b31689d13e344a402e68938c79e
+M	src/Plugin/Validation/Constraint/CropTypeAspectRatioValidationConstraintValidator.php	3e4630ce32fc49dce4c9f669816134d7
+M	src/Plugin/Validation/Constraint/CropTypeMachineNameValidationConstraint.php	5252ce5f350fc6b18b645a5b229b97f8
+M	src/Plugin/Validation/Constraint/CropTypeMachineNameValidationConstraintValidator.php	63a2e49a5e68bc0ed752d026254372aa
+A	src/Tests/CropCRUDTest.php	8e4107a0c7ae1ebcb6e245d58f1429aa
+M	src/Tests/CropFunctionalTest.php	61305b40e0b6fa603ebcd39a9ccfc7c9
+D	tests/src/Kernel/CropCRUDTest.php	

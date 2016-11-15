@@ -1,0 +1,13 @@
+M	CHANGELOG.txt	ab3c06b4239b4b6960e78c82360f64ed
+A	feedapi.drush.inc	e5de0c92b295c715e96c61533bd0a8fc
+M	feedapi.info	82c5e2a69c833ded04bda2550b18d434
+M	feedapi.install	a2703b2bf41d61799d5a7ba2f1359efa
+M	feedapi.module	9247100beabd5973112c4537f58ca008
+M	feedapi_inherit/feedapi_inherit.info	a5c391de522f0a3cc901080609bc9a52
+M	feedapi_node/feedapi_node.info	5ee282ae1a2485cc727cbea1317e58ce
+M	feedapi_node/feedapi_node.module	fb126c34435a67b462e0add1ec975ffd
+M	feedapi_node/tests/feedapi_node.module.test	156717b6088be3b35d0011e73ad00d20
+A	feedapi_node/tests/files/feed	326313e008f4e2f7536968a05f9d8cde
+M	parser_common_syndication/parser_common_syndication.info	db45532d6a1b3961e630d6a2575b6c08
+M	parser_simplepie/parser_simplepie.info	f3e534e3002766c38bc561b4e6989986
+M	parser_simplepie/parser_simplepie.module	5f869dbe6e7973fca73ed68cb1b81219

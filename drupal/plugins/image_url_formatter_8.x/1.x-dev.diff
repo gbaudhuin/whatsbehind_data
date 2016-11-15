@@ -1,0 +1,6 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	b8f4db18050794c9a460bd1af1468935
+A	image_url_formatter.info.yml	4eeedab79d846fb4c3ecea6fc312c7ed
+A	image_url_formatter.module	5bdde6f9df13f24b8902520113b9b427
+A	src/Plugin/Field/FieldFormatter/ImageUrlFormatter.php	1a585a83db11587f9b1590b5cfc9d51b
+A	templates/image-url-formatter.html.twig	b9078dbf387b3bca11f547184d447878

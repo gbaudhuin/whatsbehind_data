@@ -1,0 +1,57 @@
+D	.travis.yml	
+M	README.txt	63057390f0f76fe8c7dd47ecab38f951
+M	coder.info	a405de229d098c1ae8904db28afd6bde
+M	coder_review/coder_review.admin.inc	22e54c746e51ef150751a04b8a9be384
+M	coder_review/coder_review.common.inc	e6ce43cdfca0cecdd0298a06e29fa716
+M	coder_review/coder_review.drush.inc	a8c95143b4c7dead52f4942eaea3368f
+M	coder_review/coder_review.info	5b35553a8a9f04be9bce2c4b6438e024
+M	coder_review/coder_review.install	16a1df72a95ca79f2c9406cefbbde4af
+M	coder_review/coder_review.module	0cc9fbb7bd6d1da400c2f784ab61eb9d
+M	coder_review/includes/coder_review_druplart.inc	31de26a901823b95577c3d30396f45f1
+M	coder_review/includes/coder_review_production.inc	94eaf24999fd69b2e03a82db8237476a
+M	coder_review/includes/coder_review_sniffer.inc	472ab28e34a2bb839a16c9cf1ce6d38a
+M	coder_review/includes/coder_review_style.inc	c580c3d3103a03c2358a52b8a9020a3f
+M	coder_review/tests/coder_review_test/coder_review_test.info	3d1107924f6ad6e44b74af407e2cd8c1
+A	coder_sniffer/Drupal/Sniffs/CSS/StyleSortSniff.php	3b3605dc830ee4d2fc191936120d0025
+A	coder_sniffer/Drupal/Sniffs/Classes/PrivateKeywordSniff.php	050742f65d8dd617462c37cf5c4653ec
+M	coder_sniffer/Drupal/Sniffs/Commenting/DocCommentAlignmentSniff.php	5bf108db29bf31cbd8e11d9ed2e55315
+M	coder_sniffer/Drupal/Sniffs/Commenting/FunctionCommentSniff.php	a3a38b77590a36ea6fb769eee9d186b6
+M	coder_sniffer/Drupal/Sniffs/Commenting/InlineCommentSniff.php	9edcf28d9bf3c6d0084f29edeff322fe
+M	coder_sniffer/Drupal/Sniffs/Files/LineLengthSniff.php	1555b43151b6d2faeb988a887af2b7d8
+M	coder_sniffer/Drupal/Sniffs/Files/TxtFileLineLengthSniff.php	1cd7d39cdf9dab7deb94b2f591383bef
+A	coder_sniffer/Drupal/Sniffs/Formatting/SpaceColonSniff.php	2c7f27600595e7c26f29abd8e8f19bb9
+D	coder_sniffer/Drupal/Sniffs/Formatting/SpaceInlineIfSniff.php	
+D	coder_sniffer/Drupal/Sniffs/Functions/DiscouragedFunctionsSniff.php	
+M	coder_sniffer/Drupal/Sniffs/InfoFiles/ClassFilesSniff.php	3c47422be169d24d3ef0e4c1e7497617
+M	coder_sniffer/Drupal/Sniffs/NamingConventions/ValidFunctionNameSniff.php	3f37f37766afb40289fdabba06f4d373
+M	coder_sniffer/Drupal/Sniffs/NamingConventions/ValidGlobalSniff.php	bcea5c5a7b604daafca5a20fa282e22c
+A	coder_sniffer/Drupal/Sniffs/Semantics/BrSniff.php	8ac1640f439333da6fdcb2beaf07b1db
+D	coder_sniffer/Drupal/Sniffs/Semantics/ConstantNameSniff.php	
+M	coder_sniffer/Drupal/Sniffs/Semantics/FunctionAliasSniff.php	55632566f9ae6389bdebb145503631b6
+M	coder_sniffer/Drupal/Sniffs/Semantics/FunctionCallSniff.php	2488552efc2751154c55a851c5583dbf
+M	coder_sniffer/Drupal/Sniffs/Semantics/FunctionTSniff.php	d5631d9115b0079e10a6e00658b465f9
+M	coder_sniffer/Drupal/Sniffs/Semantics/LStringTranslatableSniff.php	ec46661aaaea1f7aea70b1d4ae8e579c
+M	coder_sniffer/Drupal/Sniffs/Semantics/PregSecuritySniff.php	06ec0b0e0d4c13933aa8f2b49f144929
+M	coder_sniffer/Drupal/Sniffs/WhiteSpace/FileEndSniff.php	b84630630bbc8023e8fec753961aaabe
+D	coder_sniffer/Drupal/Sniffs/WhiteSpace/OperatorSpacingSniff.php	
+M	coder_sniffer/Drupal/Sniffs/WhiteSpace/ScopeClosingBraceSniff.php	89fa87b85e9374b2c8a9d81929c0fa57
+M	coder_sniffer/Drupal/drupalcs.info	60a7b8701a08308cd7de552be0489261
+M	coder_sniffer/Drupal/ruleset.xml	25e35d19950b2a164968dfa48103d031
+M	coder_sniffer/README.txt	433d035e5ca71e730ac44ac20318c53d
+D	coder_sniffer/Test/CoderSniffUnitTest.php	
+D	coder_sniffer/Test/Commenting/FileCommentUnitTest.1.inc	
+D	coder_sniffer/Test/Commenting/FileCommentUnitTest.inc	
+D	coder_sniffer/Test/Commenting/FileCommentUnitTest.php	
+A	coder_sniffer/Test/bad.info	fedf075b39568c693219ca083d069221
+D	coder_sniffer/Test/bad/BadUnitTest.php	
+D	coder_sniffer/Test/bad/bad.info	
+M	coder_sniffer/Test/bad2.info	35047507596c701ed8b4ccb881db5d8f
+D	coder_sniffer/Test/good/GoodUnitTest.php	
+D	coder_sniffer/Test/phpunit-bootstrap.php	
+M	coder_sniffer/drupalcs.drush.inc	7ae993e88a76527796a2961c2459ebbe
+M	coder_upgrade/coder_upgrade.info	644d34d7331c8a87f5575c7341886c97
+M	coder_upgrade/scripts/coder_upgrade.run.php	13d8fd366cb690f7117345e71d19d7d9
+D	composer.json	
+D	composer.lock	
+D	phpunit.xml.dist	
+M	scripts/coder_format/coder_format.inc	ccebc4054ed9c7be9b8dad5c79f84fb3

@@ -1,0 +1,8 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README	17a6b7fb44d8234390e52493157592ea
+A	contrib/permissions_reset/permissions_reset.css	47e660183d73d78c4f2d13e8e0702081
+A	contrib/permissions_reset/permissions_reset.info	826470663a55756193a363d3a042da40
+A	contrib/permissions_reset/permissions_reset.module	162e075f2555a9cfe02095c5587ce51b
+A	permissions_api.drush.inc	17754f38f203cc564b5aaae0a28a8502
+M	permissions_api.info	9ebd0d0a81a19f52009b9f94919741ca
+M	permissions_api.module	ed508524fe1bf809a10fba75ee3b0f18

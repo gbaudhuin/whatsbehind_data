@@ -1,0 +1,16 @@
+M	CHANGELOG.txt	5bff35e17d98cb0a7ed57abd38a9a3bc
+M	print.admin.inc	73c588f9cfc30a40c43963ade4f8f11d
+M	print.info	32f7e990603e04a6e2eb582a175f855c
+M	print.install	9342205a092dab8973ce9d2c12406e06
+M	print.module	b18221f93d346c217ac735d8aa26a645
+M	print.pages.inc	5d1b4395fd55c657f5105a59cc9f9840
+M	print_mail/print_mail.inc	2772f37ca31ee8159ed904e654278b13
+M	print_mail/print_mail.info	75b589ebe96d5eda7753a23983790e49
+M	print_mail/print_mail.install	49f3b661139dd3442eb321add09df9cd
+M	print_mail/print_mail.module	b35d7460d909927ab0675373a9f7eca8
+M	print_pdf/print_pdf.admin.inc	8f07d37e26588b8eab6ba48973e2e4ce
+M	print_pdf/print_pdf.info	ba4315027cc1cc2895b289e57e77512b
+M	print_pdf/print_pdf.install	86fd80fc830e1e882e1afd081978cb31
+M	print_pdf/print_pdf.module	b5fdd0a5677932434328a087d6a07e65
+M	print_pdf/print_pdf.pages.inc	c1e967d1fb8351e672b2617c75379595
+M	translations/hu.po	013be520dea11f5aaaf7855a99b9bab8

@@ -1,0 +1,9 @@
+A	CHANGELOG.txt	d9cc0cafa69e3ef785e840aa06ea5466
+M	modules/opac_asin/opac_asin.info	83551dccbaf4564f0760267b87c7de5d
+M	modules/opac_authorities/opac_authorities.info	ae8954069db64fca7ad12f10523b3d14
+M	modules/opac_items/opac_items.info	32b7cf3f1e55f135aa275bdc5586322a
+M	modules/opac_items/opac_items.module	68b43a70e7790b52f9b4e9ebc9eb202b
+M	modules/opac_marc/opac_marc.info	7a95eae739c56160bca82fd81e096f75
+M	modules/opac_users/opac_users.info	89cf5a5584c0dfb7a72f369137f75004
+M	opac.drush.inc	0753f2843d6f9f4990e1048135699931
+M	opac.info	42a96b725a5823af7d1c869320af7b07

@@ -1,0 +1,39 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	e6d8a8fed26b40b54735dbd7afbd6acc
+M	fontyourface.info	403a5e07404536cde05685e3b270119e
+M	fontyourface.install	2fb25d23b42fa481b3443a1610e3b2c3
+M	fontyourface.module	e20f50bb7d08b2b30028f5f7bbd2cb00
+M	fontyourface.test	650d55b82e8c3e8065e7ac73b83453e6
+M	modules/common_fonts/common_fonts.info	b00c642672785690a0ab113e969ec9a5
+M	modules/common_fonts/common_fonts.install	7fae2fe363d1f13ba0ddf3abfa7a8e28
+M	modules/common_fonts/common_fonts.module	c414526af1de1901a0c9bb974c5edcd8
+D	modules/fontdeck/fontdeck.info	
+D	modules/fontdeck/fontdeck.install	
+D	modules/fontdeck/fontdeck.module	
+D	modules/fonts_com/fonts_com.info	
+D	modules/fonts_com/fonts_com.install	
+D	modules/fonts_com/fonts_com.module	
+M	modules/fontsquirrel/fontsquirrel.info	9a5919ce988492d02f51d22147668609
+M	modules/fontsquirrel/fontsquirrel.install	2f86d3fd1c83c1705ab61a356513cbe6
+M	modules/fontsquirrel/fontsquirrel.module	ef40ea75110fd49635bc02decd98b8f3
+A	modules/google_fonts_api/font_list.inc	7b8f2c1746d2b6bf83e946d9e832fef3
+M	modules/google_fonts_api/google_fonts_api.info	7d068d6c9dfaf904a919eac9dea248fb
+M	modules/google_fonts_api/google_fonts_api.install	a1304fa1273ef6db7316c719a20acea6
+M	modules/google_fonts_api/google_fonts_api.module	a2a6c5889d4ea69ca33702d3bc6f57cb
+A	modules/kernest/kernest.info	3e318b91dcfe8c0336c92a6d1f78ad95
+A	modules/kernest/kernest.install	1592faa15a74c254870f3ddb3eade54e
+A	modules/kernest/kernest.module	3b0b2d9fa2bdcf0621120077f080fa9c
+D	modules/local_fonts/local_fonts.info	
+D	modules/local_fonts/local_fonts.install	
+D	modules/local_fonts/local_fonts.module	
+M	modules/typekit_api/typekit_api.info	5bfa1c3673244883f9a01a94fcca0da8
+M	modules/typekit_api/typekit_api.install	7892eb354c7894ac245ca1eec78c41f3
+M	modules/typekit_api/typekit_api.module	e1ad831e2a71d207993d64da4b43158f
+M	views/fontyourface.views_default.inc	4e9c5d973b7ba51fc19b7555181d83d4
+M	views/views_handler_field_fontyourface_font.inc	a9f5aaa02c45f21d4e9c64c5dfb04f3b
+M	views/views_handler_field_fontyourface_foundry.inc	dddb409f5f6b002842d6880712e2460a
+M	views/views_handler_field_fontyourface_license.inc	096acebccdf308f8a285017ceced395e
+M	views/views_handler_field_fontyourface_provider.inc	3a7b8465869ef522fce8f8f70ca8f3d6
+M	views/views_handler_field_fontyourface_tag_font_tid.inc	dc97593260f9558920ba40b647a02b61
+M	views/views_handler_filter_tag_font_tid.inc	b5ace3b5f46152feb35d9b14248f162f
+M	views/views_handler_relationship_fontyourface_tag.inc	46d478fbfb2321989e129b27b0d6cfd0

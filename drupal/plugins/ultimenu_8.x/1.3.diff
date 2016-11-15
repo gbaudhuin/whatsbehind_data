@@ -1,0 +1,12 @@
+M	CHANGELOG.txt	3f0bbf3b441f2df110dd43c2a0228c0f
+M	README.txt	9a85ebd5fd16eeebae06e3aa37b612de
+A	composer.json	13fcc0afeabbd6552b769bfeabb515fb
+M	config/schema/ultimenu.schema.yml	5bf6f9c18a56e2cbb7fb7d55cc003692
+M	css/ultimenu.css	a5595914087851dc56d5c54e63359e39
+M	js/ultimenu.js	9027f09ef09726e2b648061f4ba964dc
+M	js/ultimenu.min.js	ae2996f901232d1d79334b13766ced17
+M	skins/ultimenu--htb-tabs-blue.css	11e9c2af4f1619defa7a154243a596a6
+M	skins/ultimenu--htb-tabs-orange.css	5203bf6721b8a41ca3b9c514db599054
+M	skins/ultimenu--htb-tabs.css	0249ce5732e5396e494ab4cdec41b2df
+M	src/UltimenuManager.php	3d2f2ad6e6f1504f2a12ab08c98ce64f
+M	ultimenu.info.yml	ba0f8da3c659cc3da9af83e0d832e19c

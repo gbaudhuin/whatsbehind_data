@@ -1,0 +1,4 @@
+M	simple_gmap.info.yml	0f838279a108db8c00247cbe16ef742f
+M	simple_gmap.module	5adac14916e6841728bfff0b723b9ae3
+M	src/Plugin/Field/FieldFormatter/SimpleGMapFormatter.php	44be71741433c974c2a9bcfd4f537541
+M	templates/simple-gmap-output.html.twig	9a5b2aab0a43096b49718a55378d3df7

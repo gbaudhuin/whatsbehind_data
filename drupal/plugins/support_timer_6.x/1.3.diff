@@ -1,0 +1,14 @@
+A	.gitignore	d219d9ec9e2acfaf387cfe678ae33f98
+M	CHANGELOG.txt	1f80371ee026c375fd630b1e3e93138c
+D	support_plan/INSTALL.txt	
+D	support_plan/support_plan.admin.inc	
+D	support_plan/support_plan.info	
+D	support_plan/support_plan.install	
+D	support_plan/support_plan.js	
+D	support_plan/support_plan.module	
+M	support_rates/support_rates.info	d045e527e2382ede36a111ba0472b237
+M	support_rates/support_rates.install	c1a0f184c893f13d18fc6451b15f0e24
+M	support_rates/support_rates.module	4f1995146d7a107ecebc6cc930e2f579
+M	support_timer.info	2e076e6b03dcf556f55645123e5e6a7a
+M	support_timer.js	46ce1278afd5861d9017ce361db4cd30
+M	support_timer.module	6711a7b07f78f898f12db57cfbc37546

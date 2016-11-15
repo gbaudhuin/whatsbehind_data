@@ -1,0 +1,11 @@
+M	coder.info	20ed04d5bb1ce86d43e4423acfd8a1c7
+M	coder_review/coder_review.info	075979a24ccee92fce7b6ed101dacd6e
+M	coder_review/tests/coder_review_test/coder_review_test.info	f4abd4e2329cb573bc357e047a69562a
+M	coder_upgrade/CHANGELOG.txt	9b94b444b8d352e129fdbb3ed085d538
+M	coder_upgrade/coder_upgrade.info	4d755f8481de56736fc9cc00786a2522
+M	coder_upgrade/coder_upgrade.module	1d75ca7c2776c3f1829828acacce2fab
+M	coder_upgrade/coder_upgrade.test	05b9d8a90356efff344eb34af8714c85
+M	coder_upgrade/conversions/coder_upgrade.begin.inc	673e41085df7bcf2b1abc12ed02db694
+M	coder_upgrade/conversions/coder_upgrade.main.inc	fea0bcf1baa915ddfda416b6d0c53f1f
+M	coder_upgrade/scripts/coder_upgrade.run.php	885ad93629c764ff03d089a943e3c732
+M	coder_upgrade/tests/new/samples/example.module	700a33b86a5316dc69f670a8289e13e0

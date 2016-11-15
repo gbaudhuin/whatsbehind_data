@@ -1,0 +1,9 @@
+M	back_to_top.info.yml	8749718573982243f7706995c3eb223c
+D	back_to_top.libraries.yml	
+D	back_to_top.links.menu.yml	
+M	back_to_top.module	6a3834eb4d255e1e23664949ebfdf01e
+D	back_to_top.permissions.yml	
+M	back_to_top.routing.yml	eebfc28b0200d20d87da5b7566213345
+M	js/back_to_top.js	1c3a26a6c3679d3b30e9c8a8d898a6be
+A	lib/Drupal/back_to_top/Form/BackToTopSettingsForm.php	0b266a0170419706ddc981a71ee2372d
+D	src/Form/BackToTopSettingsForm.php	

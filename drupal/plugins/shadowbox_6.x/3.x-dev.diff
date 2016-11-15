@@ -1,0 +1,15 @@
+D	CHANGELOG.txt	
+M	INSTALL.txt	8c605bd0bab094e2a182661fdc78649c
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	1bc9b82488564cf7ab985104a051d0e5
+A	TROUBLESHOOTING.txt	6a537905b7ae1f03c0e18c84178fa289
+A	USAGE.txt	1051a1fbf21bff2f2eed5db2445cb160
+A	sample.png	eb0ab41c20b2322ddc06c04ca4573974
+A	shadowbox.admin.inc	129cb4827e85c85532a69e70491a1532
+A	shadowbox.css	8062d5ac97a58de2c9bbb150db539805
+M	shadowbox.info	fb19fc2e19ab3114a6d92c5f01b0969f
+M	shadowbox.install	4865d6f34aff56e6c4c55198fd24d9fe
+D	shadowbox.js	
+A	shadowbox.make	370b909815d2679eb801b8b3d7826b9a
+M	shadowbox.module	9a297ce6db0643e2c51d388634c2491c
+M	shadowbox_auto.js	0804443b249eca3ffcde4ca792aed7a5

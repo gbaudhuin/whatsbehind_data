@@ -1,0 +1,13 @@
+M	CHANGELOG.txt	fd597306b32c40b5fc65bfb5f5e5b80b
+M	contrib/image_attach/image_attach.info	3a377db9c53dfed3bd0cf53cc56c349d
+M	contrib/image_attach/image_attach.module	481ddf97ef52008946f01a2520a0ddc1
+M	contrib/image_attach/image_attach_views_handler_field_attached_images.inc	53a59521e199faa5dfb61d60533f7c23
+M	contrib/image_gallery/image_gallery.info	44d496af74cd28ab0a1796c83ca295a8
+M	contrib/image_im_advanced/image_im_advanced.info	01b3ea5d09864bdb38c6ad282851baae
+M	contrib/image_import/image_import.info	66f1c43fe0c5a4ef038168f5581af22a
+M	contrib/image_import/image_import.pages.inc	58e95ba481d260ce66676f5131626442
+M	image.admin.inc	997d31844f5ed845ff1a377f22af2536
+M	image.info	65d335cef021ad09e198f0bd3cb4d84b
+M	image.module	3503d3f7346363a70f701d692850483e
+A	translations/uk-ua.po	6a1b5e5cc26341bbd1920358b201f6fb
+A	translations/uk.po	6a1b5e5cc26341bbd1920358b201f6fb

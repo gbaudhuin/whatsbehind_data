@@ -1,0 +1,5 @@
+A	config/schema/google_webfont_loader_api.schema.yml	da7773f661a0c5da0c220e14d5fde346
+M	google_webfont_loader_api.info.yml	c955a0ba221dcd210857630e511c9569
+M	google_webfont_loader_api.js	95d14ed2899b69400ee0461e1223bf5c
+M	google_webfont_loader_api.module	64ab2e43e8881b86a973f645bce8d254
+M	src/Form/GoogleWebfontLoaderApiSettingsForm.php	66cc60f66bec9efe03b8b88fa614be18

@@ -1,0 +1,3 @@
+M	migrate_manifest.info.yml	0a235e0f319963c962d13885e5ad8d7c
+A	migrate_manifest.module	263b07b13d327bc0fac2e0a3e08da23b
+M	src/MigrateManifest.php	7394b48c01f1488aa1cd7ffcfb99ebdc

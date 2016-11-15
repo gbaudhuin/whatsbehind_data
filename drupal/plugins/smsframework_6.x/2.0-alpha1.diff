@@ -1,0 +1,11 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	modules/sms_actions/sms_actions.info	55e4a4e075c5934fb3c2767a73b61b25
+M	modules/sms_blast/sms_blast.info	cf6debd514bec3c508cf7f77298ffc19
+M	modules/sms_devel/sms_devel.info	826830ff8d55c7893719ad25a7d21311
+M	modules/sms_international/sms_international.info	9a9e733915bdb2d4052fba28dddca323
+M	modules/sms_sendtophone/sms_sendtophone.info	b7eb88b71b92699733309c6e02aab4cc
+M	modules/sms_track/sms_track.info	6ce11461f0b05d1aa75adecaf4f46ee8
+M	modules/sms_track/sms_track.module	a9b8f5784dfc044aabef762f73ea4268
+M	modules/sms_user/sms_user.info	455255363dd13723ab5aa402b300e4ae
+M	modules/sms_valid/sms_valid.info	65d553f798c19020887e611959cf4e83
+M	sms.info	0d79ccc568b4e4e1bb6a917cc5a812a3

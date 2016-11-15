@@ -1,0 +1,7 @@
+A	CHANGELOG.txt	cdc3c1bd76f249e582d9262c64f134d1
+A	autocomplete_widgets.admin.inc	e7824c377a65815f510ef166b69d1588
+A	autocomplete_widgets.common.inc	62d4bd54c69dcd97bdc8ac2f807f9c52
+M	autocomplete_widgets.info	8192bcfe3bf1bf6658648912983496ca
+M	autocomplete_widgets.install	f26e11e1bde5d3cc46bde2a73e6b1a81
+M	autocomplete_widgets.module	d981281875d8fd5b90128e5fcb0fdedf
+A	translations/autocomplete_widgets.pot	fd5751dc5d454cb0293f678a652bdec5

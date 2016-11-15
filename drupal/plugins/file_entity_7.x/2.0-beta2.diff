@@ -1,0 +1,15 @@
+M	file_entity.admin.inc	fcba83824ecfb53c19764b67281d48ca
+M	file_entity.field.inc	77d792020b39819fd1a15858600e6834
+M	file_entity.file.inc	7c351ce70ccfe673b53e30750c053f3e
+M	file_entity.file_default_displays.inc	3babe5d5de62c52f40e53a27262b3eb8
+M	file_entity.info	f18437a5cbf2938d18cf17c770c3d68a
+M	file_entity.install	914cc2bd5d60ff79e808de7bcb77b9af
+M	file_entity.module	3af135245b4f4cb52aaad5a5b93178c2
+M	file_entity.pages.inc	e4454fb8344441dc41b25c7e23d63d05
+M	file_entity.test	33be26f89742355e194c6d31e90889c6
+M	file_entity.theme.inc	1c0a3ddf59cf8ed77ff62e6979e8a827
+M	file_entity.views.inc	6128c5e60b9068aa55f8f16baba5bd70
+A	plugins/entity/PanelizerEntityFile.class.php	507eeda159f6ffb80c2ea06cf8fe3349
+A	plugins/entity/file.inc	92a8b41b45413f41a1e0310de1f206dd
+A	plugins/tasks/file_view.inc	e8393467d9d3b334a236a91d367bf93e
+M	tests/file_entity_test.info	263e77944b7c50c3d74cd6ec384c80ba

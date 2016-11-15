@@ -1,0 +1,13 @@
+M	supported/nodeprofile.inc	1adc8e3f1a3bf627505292c00bd2885c
+M	supported/profile.inc	bb9dc802179f6ea3f6a180fdcfedf521
+M	supported/subscribed.inc	f8628c115b706823d6f0ab715b1a776d
+M	supported/user.inc	964a9a906f2606203fd54a1d3cd65508
+M	supported/user_import.inc	19015f0114756e017b04ca4b0a0bb8c6
+M	supported/watchdog.inc	8c1052ebe0a4ca61b17d2b0390aa1a76
+M	tests/user_import.test	f95d22492ef6b4fa389e6958e5e40a90
+M	tests/user_import_basics.test	62e0e3ef9257425cfac62d8d27524a46
+M	tests/user_import_nodeprofile.test	c6bc2a29202e8e8b4be4da1a469e186e
+M	tests/user_import_profile.test	3e0b384aee9ebaef1b9ede57f05429d5
+M	user_import.info	8e213efd483ff824894f8cff60e47d86
+M	user_import.install	331b32845929052260472bdfaf4ba9dc
+M	user_import.module	60b904b64383754f3e8b32265494e2d5

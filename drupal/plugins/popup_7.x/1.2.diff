@@ -1,0 +1,13 @@
+M	README.TXT	6755b1b330157a3b8138aacaffce059a
+M	includes/popup.api.inc	46821a7c9bbb437922a46cb0a1f618c8
+M	modules/popup_block/popup_block.info	51365ba41e80948d10ba0448114dbd3f
+M	modules/popup_block/popup_block.module	b92fdf6049cf84b11c7f9d3426afae62
+M	modules/popup_descriptions/popup_descriptions.info	95e2e5943e00bae371efe903ec8af2b2
+M	modules/popup_filter/popup_filter.info	0f87417bf5128cee55fab82923150267
+M	modules/popup_menu/popup_menu.info	293179e3a04c9447228ae276df74df64
+M	modules/popup_nodereference/popup_nodereference.info	46b6480f49c2bb6204ce10cfc35d6499
+M	modules/popup_test/popup_test.info	31f439894d2e086e58fe00532c7302f5
+M	modules/popup_ui/includes/popup_ui.features.inc	225dea0ac116c52627851be95f06aef7
+M	modules/popup_ui/popup_ui.info	083bfa601f69620728c7339ce2b3e6df
+M	popup.info	04de77dd65ed91607a32a3dfd5b1d0e7
+M	popup.install	23df8fd4bc4096441ed9f6e44a6dbbf9

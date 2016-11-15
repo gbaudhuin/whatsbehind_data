@@ -1,0 +1,13 @@
+M	CHANGELOG.txt	8d2591727653ebb17e45726b10d8d647
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	c805f92eaa40137a50db0daba793efc3
+D	css/field_permissions.admin.css	
+M	field_permissions.info	3588e1dfbca86f432cac47b21a680014
+M	field_permissions.install	9553ff55a8aeb9b9c26d2dbba29a4537
+M	field_permissions.module	4be4445ec60d958e759770eee9faf2eb
+D	images/field-permissions-status-off.png	
+D	images/field-permissions-status-on.png	
+D	includes/admin.inc	
+D	includes/field_access.inc	
+D	js/field_permissions.tooltip.js	
+A	translations/field_permissions.pot	ed6409d0f48f4546925dde1c5bf3f42d

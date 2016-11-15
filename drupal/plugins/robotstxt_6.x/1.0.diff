@@ -1,0 +1,10 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	README.txt	
+M	robots.txt	520eb7340d7716fba1cc84c33ecdc6c1
+D	robotstxt.admin.inc	
+D	robotstxt.api.php	
+M	robotstxt.info	b0b5fb9c4a49c5515957a4370bc88f08
+M	robotstxt.install	d3f64920aeb99ebc7371799160f25d80
+M	robotstxt.module	b8e05480f3dc51dea55ba53bd198a1cf
+A	translations/de.po	14fe3c3f025a44a73dfe246ebb26ad44
+A	translations/robotstxt.pot	09684365ab3c6886f68538279d07be40

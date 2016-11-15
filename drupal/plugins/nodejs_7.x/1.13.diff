@@ -1,0 +1,12 @@
+M	nodejs.admin.inc	9f65c54b65b2fd12f93ec065854199ed
+M	nodejs.info	e583f52ae7ca8fba4c59e47f395d8eb4
+M	nodejs.install	c4db65e9861dff98c12ce3afb97a0af1
+M	nodejs.js	fcdefee42d1651ebcb969665846295b6
+M	nodejs_actions/nodejs_actions.info	c666719b63acd184c4fbe565c1c07efe
+M	nodejs_ajax/nodejs_ajax.info	055bf9d011cb9a5537824e33ac1b4570
+M	nodejs_buddylist/nodejs_buddylist.info	749619923b8ef51a216f7c0b0b06d103
+M	nodejs_config/nodejs_config.info	36833f9efe0f49040211017a6edc9a7e
+M	nodejs_config/nodejs_config.module	9a19718a9d19666976bbe39b2abf4d44
+M	nodejs_notify/nodejs_notify.info	fb405d1faf673ed6b62ffb8283fd649f
+M	nodejs_subscribe/nodejs_subscribe.info	a1405d4ccb9b9db41f666c18d09eddbd
+M	nodejs_watchdog/nodejs_watchdog.info	bc62bf856de74c870cb1f0efc228dae8

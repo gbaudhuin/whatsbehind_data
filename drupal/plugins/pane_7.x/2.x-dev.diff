@@ -1,0 +1,22 @@
+A	contrib/pane_entity_host/includes/entity_host.inc	8134ed99767a3df3f39d291fd4e09de1
+A	contrib/pane_entity_host/includes/entity_host_base.inc	c12334aca41b99476cd80e9cc91ebeba
+A	contrib/pane_entity_host/pane_entity_host.info	3f6b3b3025b50eea01c495d93f4e57c7
+A	contrib/pane_entity_host/pane_entity_host.module	6f32b696f3f5d4f38e71702e416edcb0
+A	contrib/pane_entity_host/plugins/entity_hosts/entity_host_entity_api.inc	24b6626a6c193785f220713da2f5603c
+A	contrib/pane_entity_host/plugins/entity_hosts/entity_host_fieldable_panels_pane.inc	427ae4ec8a63bb6bdbe44a0cf9c8e2fe
+A	contrib/pane_entity_host/plugins/entity_hosts/entity_host_node.inc	3cfd3381da970fc530ac4c0a66c4ab03
+A	contrib/pane_entity_host/plugins/panes/pane_entity_host.inc	9f89ef3963c71090141e22e8593209bf
+A	contrib/pane_entity_reference/pane_entity_reference.info	3727ca5fecb6dff1deef477e5160deea
+A	contrib/pane_entity_reference/pane_entity_reference.module	2683e67e8484a04d582b38e77f5be714
+A	contrib/pane_entity_reference/plugins/panes/pane_entity_reference.inc	a5822c3e6177da8a36cda167b032f8ea
+A	includes/pane_base.inc	0e8358a6e8130511e41310dd9b43a937
+A	pane-access-denied.tpl.php	8e8f15bae44b8a989feb686b6db7588c
+A	pane.admin.inc	0426d991d5f9ad1d298cdcc41834a070
+M	pane.info	6c4f88dd161a27d442b086b59d9ad17e
+A	pane.install	7086624b4389ad02ac4dedad505afc21
+M	pane.module	64a44f57a08fdf0c64ada093f3d0b70a
+A	pane.rules.inc	5ede775612e9b6609da949bca802fcc3
+A	pane.tokens.inc	c50fe57663c972ae8073daacc8d9e376
+D	pane.variable.inc	
+M	plugins/content_types/pane.inc	52c6a3d7256d5f833742d6e3164e9468
+A	plugins/panes/pane_text.inc	c519ac2e1fc5763ed2a4f6a4ca025e14

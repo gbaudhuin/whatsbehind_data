@@ -1,0 +1,36 @@
+M	CHANGELOG.txt	3615a68cf35e0550f139ac9e704961cc
+D	CREDITS.txt	
+M	INSTALL.txt	c6d4b7182a9d5ff3e627e7f608bd6567
+M	README.txt	c7a044806f5c20abc85816b431e91596
+M	i18n.admin.inc	24d81dd1d909610961c01d723c44a834
+M	i18n.info	357a733e34795ed743fd2fd0a19c02d5
+M	i18n.install	7dadd341c276177fe6982080dc527f2e
+A	i18n.js	caab432331eab2344d561e99a6d52112
+M	i18n.module	79bf0a28a3ccd57e043ffb91a23640f2
+A	i18n.pages.inc	d9bb095100b1998b29d2bcabcf505f7d
+M	i18nblocks/i18nblocks.info	0cfc853c3bd37e6abdb23f08caa81800
+M	i18nblocks/i18nblocks.module	8fa1b0ed9aedc299e426afea9b6f050e
+M	i18ncontent/i18ncontent.info	f56ae74dfc79d6151366eabe4e2a4b90
+M	i18ncontent/i18ncontent.install	f91d7e2b7535f423be1b729ddd2f93f9
+M	i18ncontent/i18ncontent.module	66c1ea92037d809bb6ae17c0f20b57c6
+M	i18nmenu/i18nmenu.info	099e9487b90e27994b7fbb39ef213023
+M	i18nmenu/i18nmenu.install	e0c677bcd773d235289d94a2f25c9573
+M	i18nmenu/i18nmenu.module	ec9a98b3cbb82a1fb9efe5b32cc19b25
+M	i18npoll/i18npoll.info	6279c15701528cac6b1c7159bb283808
+M	i18nprofile/i18nprofile.info	f9107317905837d9a5f6e7ceafeba58d
+M	i18nprofile/i18nprofile.install	adc15a67bc3d43cae9bd7ecd68b76a76
+M	i18nprofile/i18nprofile.module	9ec43a78cc483e09a7aa5a67b767e61b
+M	i18nstrings/i18nstrings.admin.inc	07fd1f00648b2aed7e1e908e00489b28
+M	i18nstrings/i18nstrings.info	5257f61d4ba1949db55a9073d8d0fa6f
+M	i18nstrings/i18nstrings.install	45648eab659c530ca2377822e7a6533a
+M	i18nstrings/i18nstrings.module	73508982794fc8d1f3a99938c36869e0
+M	i18nsync/i18nsync.info	ef6b1528f7efbf181fa9582eb3b91a7c
+M	i18nsync/i18nsync.module	7ae45730941d5d108f6876ec2c195095
+M	i18ntaxonomy/i18ntaxonomy.admin.inc	8a8346a76d0fd9ec2e5d3c8e196384b6
+M	i18ntaxonomy/i18ntaxonomy.info	73a57dfd72ee2c4b263476b008521d71
+M	i18ntaxonomy/i18ntaxonomy.install	f84d040ad2b764bb6c327203d58b69dd
+M	i18ntaxonomy/i18ntaxonomy.module	15a409c604a0bfc4c8ae6503c24b9e9b
+D	i18nviews/i18nviews.info	
+D	i18nviews/i18nviews.module	
+D	i18nviews/translations/i18nviews.de.po	
+D	i18nviews/translations/i18nviews.pot	

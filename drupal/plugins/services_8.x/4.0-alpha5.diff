@@ -1,0 +1,14 @@
+M	services.info.yml	a3b591b0a877c2203c3f139d1e18f7db
+M	services_test/services_test.info.yml	eeeeb7746f57468ec8598e3212c2defe
+M	src/Controller/Services.php	c0ad831127e841662e448a40f6d06f35
+M	src/Plugin/Deriver/AliasGet.php	a17050f0ddf01cabfa18b95460aed503
+M	src/Plugin/Deriver/EntityDelete.php	9b875cf9fac2ce78dce5605dab80479d
+M	src/Plugin/Deriver/EntityGet.php	1a1cc8dab0418939da22bf3cd5487189
+M	src/Plugin/Deriver/EntityIndex.php	1dc2b214563a4bbd5b64595d9de878dc
+M	src/Plugin/Deriver/EntityPost.php	fd15f34cccf0d71acf180fb17fff9872
+M	src/Plugin/Deriver/EntityPut.php	89e8e9adf9d4b020230b380507780f4b
+M	src/Plugin/Deriver/EntityView.php	c3f2108cbba0c95da2dc6fc22f6f48b5
+M	src/Plugin/ServiceDefinition/EntityView.php	636e0c079b0d05097cc9db02650d74db
+M	src/Plugin/ServiceDefinition/UserLogin.php	ad0aa64eeb9ac2aaa2b66b337f3cb7f2
+M	src/Routing/ServiceEndpoint.php	ffdd50526fa34bbfc22d6017c4f4a753
+M	src/ServiceDefinitionEntityRequestContentBase.php	f451eb26ad8b19cb551a3a2e3de86c02

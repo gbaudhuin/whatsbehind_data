@@ -1,0 +1,17 @@
+M	actions/ad_actions.info	a096a6c206cd708632b3bf9320c167aa
+M	ad.info	08e7be028088cd19be63ae033595a567
+M	ad.install	d37a1a5d952dca4c549d1dbb418268d5
+M	cache/file/ad_cache_file.info	8cf7f8ddfb8fd3025f2ae2a8faa8b78e
+M	channel/ad_channel.info	26225a3cfbb96c6d7ddb7c638f341544
+M	channel/ad_channel.module	be6e9a95eac81232069207691798cb53
+M	documentation/CHANGELOG.txt	5ae94fbfd0cc20abe0555d6f02b448d4
+M	embed/ad_embed.info	5aa969ca87de026216dd07a0b0f122a6
+M	external/ad_external.info	9d50a3d74e0264f23dee60b37beedddc
+M	html/ad_html.info	8074668e0d63e53db0ac2ff312042acd
+M	image/ad_image.info	5e0adc116aee9819ae83e3122f4a834a
+M	owners/ad_owners.info	4ce01a6ad8d7be19f71b9318b22f012f
+M	remote/ad_remote.info	0800691edd195bf03c36cf2af0a373c8
+M	report/ad_report.info	a7e101d766cbb21a671bf7a337c1c28b
+M	statistics/click_filter/click_filter.info	ec67d89118412d1e2590d0140c766769
+M	text/ad_text.info	e618efc0f340e993ca5e5fa3179c819f
+M	weight/probability/ad_weight_probability.info	11d24762166b81f54cfde45588a29643

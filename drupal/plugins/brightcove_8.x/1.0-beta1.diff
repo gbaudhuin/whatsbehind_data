@@ -1,0 +1,70 @@
+D	.gitignore	
+M	brightcove.info.yml	a38bc93c4e84d34bb0f0a33c0fe5064a
+M	brightcove.install	c15544c5b0e723a2574ee50b97db1e4f
+D	brightcove.libraries.yml	
+M	brightcove.links.menu.yml	36cb41eab219686e2a630f5ceb18b3b9
+M	brightcove.links.task.yml	49e79f108f8cf17b592cf4c757081a7d
+M	brightcove.module	ae8c67d6b52df74769c50af77e6c5b22
+M	brightcove.permissions.yml	8713a16634319a2c626312fef0771811
+M	brightcove.routing.yml	25c1ee7d49ac311ce135926d4e186cf4
+D	config/install/core.entity_form_display.taxonomy_term.brightcove_video_tags.default.yml	
+D	config/install/core.entity_view_display.taxonomy_term.brightcove_video_tags.default.yml	
+D	config/install/image.style.brightcove_video.yml	
+D	config/install/taxonomy.vocabulary.brightcove_video_tags.yml	
+D	config/install/views.view.brightcove_videos_by_api_client.yml	
+M	config/schema/brightcove_api_client.schema.yml	eba6e00fe44566fcdb1eac04a58fad8a
+D	css/video.css	
+D	js/video.js	
+D	modules/media_entity_brightcove/README.md	
+D	modules/media_entity_brightcove/media_entity_brightcove.info.yml	
+D	modules/media_entity_brightcove/media_entity_brightcove.module	
+D	modules/media_entity_brightcove/src/BrightcoveVideoField.php	
+D	modules/media_entity_brightcove/src/Plugin/MediaEntity/Type/BrightcoveVideo.php	
+D	src/Access/BrightcovePlaylistAccessControlHandler.php	
+D	src/Access/BrightcoveTextTrackAccessControlHandler.php	
+D	src/Access/BrightcoveVideoAccessControlHandler.php	
+M	src/Access/CSRFCallbackAccessCheck.php	3b07f19225c9f87c3720fdd33f9303a3
+M	src/BrightcoveAPIClientInterface.php	84751c864a9ffbd332928b499e4fdc52
+M	src/BrightcovePlayerInterface.php	c842a084cb67f3db6da639a67ca0ccd0
+M	src/BrightcovePlaylistHtmlRouteProvider.php	3081f9be791c47afa7085c8c372dc302
+M	src/BrightcovePlaylistInterface.php	34c3b069ad4dc8d0e49026fa92277092
+M	src/BrightcovePlaylistListBuilder.php	7cb478fca7aa9bef684f6354fbae1414
+D	src/BrightcoveTextTrackInterface.php	
+M	src/BrightcoveUtil.php	71ad7caf3b8c7635c8104fbc7ce215af
+M	src/BrightcoveVideoHtmlRouteProvider.php	a2dbf6e0bfca761c5fb9b3fdedc23825
+M	src/BrightcoveVideoInterface.php	f4e674cfe7378d78c79ab315800dbdda
+M	src/BrightcoveVideoListBuilder.php	d0b36a8953ca9afea139f2ea3fc884a6
+M	src/BrightcoveVideoPlaylistCMSEntityInterface.php	2d04f526a9cfa00d2dc107596b0844b2
+M	src/Controller/BrightcoveVideoController.php	995f293ed54037533fa99c9f5f328a0b
+M	src/Entity/BrightcoveAPIClient.php	b67edbbe621c1e1a91f3f506ea26cb15
+M	src/Entity/BrightcoveCMSEntity.php	6d0971cdca1ed470bedea58ebe960538
+M	src/Entity/BrightcoveCustomField.php	e4e5e28111096e73bb646cd5e4d0ba89
+M	src/Entity/BrightcovePlayer.php	d27ac138b22e728e5c96336efb90ba67
+M	src/Entity/BrightcovePlaylist.php	b826b506de3bd2882814ee181550c48c
+D	src/Entity/BrightcoveTextTrack.php	
+D	src/Entity/BrightcoveTextTrackViewsData.php	
+M	src/Entity/BrightcoveVideo.php	0d027441804408352a9eb9852f3de1a8
+M	src/Entity/BrightcoveVideoPlaylistCMSEntity.php	b8256b20cc273e86afc642847e96e0a3
+D	src/EntityChangedFieldsTrait.php	
+M	src/Form/BrightcoveAPIClientDeleteForm.php	4eafbc95bff5a5b5039e5f0a0405aa00
+M	src/Form/BrightcoveAPIClientForm.php	4a5fc2436c8cf2d640ae03ce1ef833a1
+D	src/Form/BrightcoveEntityDeleteForm.php	
+D	src/Form/BrightcoveInlineForm.php	
+M	src/Form/BrightcovePlaylistForm.php	a710e5c600347660ac5163014bf94bfa
+D	src/Form/BrightcoveTextTrackForm.php	
+D	src/Form/BrightcoveTextTrackSettingsForm.php	
+M	src/Form/BrightcoveVideoForm.php	d84c654e518f91a1c0f9feca93d8ab33
+M	src/Form/BrightcoveVideoPlaylistForm.php	85b8b4e2b06894461139a2e2ce3878f7
+M	src/Form/StatusOverviewForm.php	4a419eee55e23bf1dd7c5658b13b1a6b
+D	src/Plugin/Field/FieldWidget/BrightcoveInlineEntityFormComplex.php	
+M	src/Plugin/QueueWorker/BrightcoveClientQueueWorker.php	6ee030dfe02d2c49086ff767135a7df3
+M	src/Plugin/QueueWorker/BrightcoveCustomFieldDeleteQueueWorker.php	0d29d9e61697c6946b202b9c46123571
+M	src/Plugin/QueueWorker/BrightcovePlayerDeleteQueueWorker.php	79dce1a49ecb0529828d180b4c24b337
+D	src/Plugin/QueueWorker/BrightcovePlaylistLocalDeleteQueueWorker.php	
+D	src/Plugin/QueueWorker/BrightcoveTextTrackDeleteQueueWorker.php	
+D	src/Plugin/QueueWorker/BrightcoveTextTrackQueueWorker.php	
+D	src/Plugin/QueueWorker/BrightcoveVideoLocalDeleteQueueWorker.php	
+M	src/Plugin/QueueWorker/BrightcoveVideoPageQueueWorker.php	3f75c2aee9db143e722acb3f1300bd14
+M	src/Plugin/QueueWorker/BrightcoveVideoQueueWorker.php	7b2b5bef5033676e483a1bcf8e5cf5c9
+M	templates/brightcove-playlist-video-player.html.twig	f1c694f8db49713f15a2b686576c038d
+M	templates/brightcove-video-player.html.twig	f80f3309a44d367cb2e8a95dc25c3156

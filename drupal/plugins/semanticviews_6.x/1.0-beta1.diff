@@ -1,0 +1,16 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	ed4fbbc95507275a37f1b2f4f5f894aa
+M	help/semanticviews-help.html	cbbd7e4b549170d8f8cd7d027ab03da7
+M	help/semanticviews-tutorial.html	d895dca4bbd23f1823f6c313a24241fe
+M	help/semanticviews.help.ini	e67cd0211ba7d3fe75c5110b484004e2
+M	help/style-row-fields.html	25007563d9196aef80bbb71ecd6968b7
+M	help/style-unformatted.html	1633cdca02ce2e6c3de42b59ffcb31e3
+M	semanticviews-view-fields.tpl.php	f4d84157135af1de7ee41fe751dbaefa
+M	semanticviews-view-unformatted.tpl.php	8e585c3bcfc5665846969d775c2ecccd
+M	semanticviews.info	744fc289c4fc0689933cd874f5339a5e
+M	semanticviews.module	25ff2d934366c86222db96a5a414df5f
+D	semanticviews.theme.inc	
+M	semanticviews.views.inc	e3e45be7036b82e653977e381b941bb2
+M	semanticviews.views_default.inc	2c0875d8dcf57b5c3a310d02fee62082
+M	semanticviews_plugin_row_fields.inc	8d0c94eb5b4790a87a6332a6fa43845b
+M	semanticviews_plugin_style_default.inc	919dd069140c85c7cbe141b9686f7ad2

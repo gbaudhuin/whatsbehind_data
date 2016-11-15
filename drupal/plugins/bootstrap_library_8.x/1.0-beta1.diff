@@ -1,0 +1,9 @@
+M	bootstrap_library.info.yml	8a14739cb84901bf008b9896a4e415e3
+M	bootstrap_library.libraries.yml	9b90def79ee67f4ad8dfeef028e13c32
+M	bootstrap_library.module	7cbd22350ccf3c9da58305f94fcb9f88
+D	modules/bootstrap_library_scss/bootstrap_library_scss.info.yml	
+D	modules/bootstrap_library_scss/bootstrap_library_scss.install	
+D	modules/bootstrap_library_scss/bootstrap_library_scss.module	
+D	modules/bootstrap_library_scss/bootstrap_library_scss.services.yml	
+D	modules/bootstrap_library_scss/composer.json	
+M	src/BootstrapLibrarySettingsForm.php	56a92a48655488493c81ec8cecf34393

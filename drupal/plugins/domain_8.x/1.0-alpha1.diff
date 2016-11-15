@@ -1,0 +1,62 @@
+M	.travis.yml	6713d9c1e735769d3102c4cb1492f4dc
+M	CHANGELOG.md	abd7c7a2b5e831de3ba519cc4d317e1e
+M	README.md	8fd1c1443a7d455dc75e24bc34b404a8
+M	domain/config/install/domain.settings.yml	972862b67cff25db093535d1df43de0f
+M	domain/config/schema/domain.schema.yml	e6a409eac424f8bf394b58df417cbb2e
+M	domain/domain.api.php	f12a1a652e30fc972ce8932af464277e
+M	domain/domain.info.yml	b6a2f914a4731eff0aecb9bdfe94f423
+M	domain/domain.links.menu.yml	8c64f5fabd96fe76dfec4f9bf1320da4
+M	domain/domain.links.task.yml	81d930911ce7ef1752ffadaff15c1dd8
+M	domain/domain.module	593d87ae71be44e1bc73d3bbd338b57e
+M	domain/domain.routing.yml	600c82e99a5730ff9b7ff4c3e7f39837
+M	domain/domain.services.yml	489b7059c46cf421bd4b38ea67b2e576
+M	domain/src/Access/DomainAccessCheck.php	4e4a8160f87f59e4eccc0109b23a8b2a
+D	domain/src/Access/DomainRouteCheck.php	
+M	domain/src/Controller/DomainController.php	6013ac98819b41d50b1bfcdc81c2b7d9
+M	domain/src/DomainInterface.php	4a747bba40fbe10794b7e13daf23738b
+M	domain/src/DomainLoader.php	1b998a13f7709b00b97872531d13e1ad
+M	domain/src/DomainNegotiator.php	67ef9ecd82d318b5340fed60ce0f16df
+D	domain/src/DomainToken.php	
+M	domain/src/DomainValidator.php	c570e72a2caebd790d2c9df24c02c069
+M	domain/src/Entity/Domain.php	42b243bf1ede1eb1bdb8ea10b9d6ed4c
+D	domain/src/Form/DomainSettingsForm.php	
+M	domain/src/Plugin/Block/DomainServerBlock.php	fccfc9b37388405d2ac39c4614905812
+D	domain/src/Plugin/Block/DomainTokenBlock.php	
+D	domain/src/Plugin/views/access/Domain.php	
+D	domain/src/Tests/DomainCSSTest.php	
+M	domain/src/Tests/DomainEntityReferenceTest.php	fa0ed10634b772f58d7ea190206e2967
+M	domain/src/Tests/DomainInactiveTest.php	20ec997837114041f38f2dc802d36726
+M	domain/src/Tests/DomainNegotiatorTest.php	e86a95707f869f1a88dd59a22b33cee3
+D	domain/src/Tests/DomainTokenTest.php	
+M	domain/src/Tests/DomainValidatorTest.php	9bb7211f616ef0743e48250c1d5073b7
+D	domain/src/Tests/DomainViewsAccessTest.php	
+D	domain/tests/modules/domain_test/config/optional/views.view.domain_views_access.yml	
+M	domain/tests/modules/domain_test/domain_test.info.yml	a6632eb0edc934ffef9624d21348d895
+D	domain_access/config/install/domain_access.settings.yml	
+M	domain_access/config/schema/domain_access.schema.yml	7ff9b78532859fa70a56d658c6d2974b
+M	domain_access/domain_access.info.yml	deb4863bdc35c6c7dc02b8f85d733acc
+D	domain_access/domain_access.links.menu.yml	
+D	domain_access/domain_access.links.task.yml	
+M	domain_access/domain_access.module	df0ae87dfd1f4c53e4cf8d256632ca35
+D	domain_access/domain_access.routing.yml	
+M	domain_access/src/DomainAccessManager.php	c688ce5e0b5f56be5ed675c7e5f9c694
+D	domain_access/src/Form/DomainAccessSettingsForm.php	
+M	domain_access/src/Plugin/Action/DomainAccessRemove.php	bcb815731bbb1724f4a46d369efdd866
+M	domain_access/src/Plugin/Action/DomainAccessRemoveEditor.php	36a71ba4815cfe7f64ed590b3743a0e3
+D	domain_access/src/Tests/DomainAccessDefaultValueTest.php	
+M	domain_access/src/Tests/DomainAccessEntityReferenceTest.php	96876e331c37a8b83ac5c75711de7116
+M	domain_access/tests/modules/domain_access_test/domain_access_test.info.yml	d488745936142a7428ca3fdf22a749da
+M	domain_alias/README.md	2af5a70ca562b1dc6cbe48312c2d901c
+M	domain_alias/domain_alias.info.yml	de51bb4b97565b6f1346c8fb6c15b6af
+M	domain_alias/domain_alias.module	5fcae1bdf2f0f1e26dd345a806ad51dd
+M	domain_alias/domain_alias.services.yml	c99332dee4e0fc9e2e87f68b80583353
+M	domain_alias/src/DomainAliasLoader.php	6879044b83008d323fb32955a305eb8e
+M	domain_alias/src/DomainAliasValidator.php	6b0a50317fc570d227935cd234574b40
+D	domain_alias/src/Tests/DomainAliasSortTest.php	
+M	domain_config/domain_config.info.yml	63e7063707c1c21bf036e4442dfe4240
+M	domain_config/tests/modules/domain_config_test/domain_config_test.info.yml	3c876eb137d6449aab7f9a3e1a57b4d0
+M	domain_content/domain_content.info.yml	132b3c9e9ec3f5062bcbefa3a9897d8f
+M	domain_source/domain_source.info.yml	eabe672d8ccf6f1e639f06016858b18b
+M	domain_source/domain_source.module	93919df0b77f5687024ff6b8ff1c7935
+M	domain_source/src/HttpKernel/DomainSourcePathProcessor.php	6b91d0d97b4a577677e6c13c3e34a80e
+M	domain_source/src/Tests/DomainSourceEntityReferenceTest.php	d504a6a79546f89114e4ecbf4fb0f497

@@ -1,0 +1,10 @@
+A	CHANGELOG.txt	386ee51ddc86367386ad4aa241acdb45
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	ae2dfe6fe34ed8f1b373d907ef823077
+A	codefilter.css	c3cf5154bff4fedb219f2b5a5fbb914e
+A	codefilter.info.yml	ca22116cc19e575a3a53657febf5f268
+A	codefilter.js	4e396c6adf6a2d74288e25992198e51b
+A	codefilter.libraries.yml	26702685ab147d127947ebc82ff5d922
+A	codefilter.module	6d77a36cb7fb2a4ea67ac71e972a9a3b
+A	src/Plugin/Filter/CodeFilter.php	1f5cf000b9eddb640492b10dcc308606
+A	src/Tests/CodeFilterTest.php	66e30e4d3ea146f84638511a216bd31f

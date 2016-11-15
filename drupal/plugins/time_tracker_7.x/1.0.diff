@@ -1,0 +1,37 @@
+A	CHANGELOG.txt	bc7cb5ad0a3fb1eeaf071681bc3f7524
+D	TimeTrackerFeedsEntryProcessor.inc	
+A	css/time_tracker.css	9c341cc4eb858ddbb7f63f33aa7e23db
+D	includes/TimeTrackerActivityController.php	
+D	includes/TimeTrackerActivityControllerInterface.php	
+D	includes/time_tracker_activities.utils.inc	
+A	js/datepicker.settings.js	ad475e3e1354619237ae4eccc2d07212
+D	modules/time_estimate/time_estimate.info	
+D	modules/time_estimate/time_estimate.module	
+D	modules/time_estimate/time_estimate.theme.inc	
+D	modules/time_estimate/views/time_estimate.views.inc	
+D	modules/time_estimate/views/time_estimate_views_handler_field_remaining_time.inc	
+D	modules/time_sheet/css/time_sheet.css	
+D	modules/time_sheet/time_sheet.module	
+D	modules/time_sheet/time_sheet.theme.inc	
+D	modules/time_tracker_timer/js/time_tracker_timer.js	
+D	modules/time_tracker_timer/time_tracker_timer.module	
+D	modules/time_tracker_timer/time_tracker_timer.theme.inc	
+A	time_estimate/time_estimate.info	fa8432c4ead35af026636c540bf333ae
+A	time_estimate/time_estimate.module	c7429cf9e5a4c731d59dc43991c6698a
+A	time_sheet/css/time_sheet.css	6dcf5b2f0b087cfb696b95d8bc0ebcf4
+A	time_sheet/time_sheet.module	0eecdf29f4e1a106a17da74db3518499
+M	time_tracker.admin.inc	152d4abdef549b7947c1130ee8df2be2
+M	time_tracker.inc	46d1fcbe0cf6949999f3a3afc7ee0266
+M	time_tracker.info	c36355a3b003b57e5a1a787f0c7dc150
+M	time_tracker.install	d5bba940a11c2d924f6540d6e5cfa2ea
+M	time_tracker.module	16f4e0fe553061cc12ac3a8886284414
+M	time_tracker.rules.inc	a0d8fa99120326a447d951c4dc95c5b3
+M	time_tracker.theme.inc	6139df9b9e7443e8ffd54618ba0ebf50
+A	timer/time_tracker_timer.js	2425c43faed01ef3fc451fccf09dfa70
+A	timer/time_tracker_timer.module	12f81bec06ec67fe9b43a24454fc5821
+M	views/time_tracker.views.inc	7375adeb944e9074ad78c44962117ac2
+M	views/time_tracker.views_default.inc	69b3fdd2bc445a8b39d52f7926aa8ee2
+M	views/time_tracker_views_handler_field_numeric.inc	0b06c26d87cf56412db0dae5eff67cba
+M	views/time_tracker_views_handler_field_total_duration.inc	61b754ab39a719a1957f140ca981a684
+M	views/time_tracker_views_handler_filter_date.inc	991209d8e3c7eecff72e74624d6ff9d0
+M	views/time_tracker_views_handler_relationship.inc	c39fb8beed54c11c2991466589c17e18

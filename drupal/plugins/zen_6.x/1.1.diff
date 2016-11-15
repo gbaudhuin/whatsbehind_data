@@ -1,0 +1,48 @@
+M	CHANGELOG.txt	a4ef45f0dcc3232387c5f138a0e870ff
+M	README.txt	0912da578d44ef28b7e304a547f6b456
+A	translations/de.po	f05d9fb189016260d63767a16944d24c
+A	translations/zen.pot	268c2261910910dcb339e9a186952a4d
+M	zen/block-editing.css	42a5cb03d29115bcb9dbe224e5c26034
+M	zen/maintenance-page.tpl.php	0dfcd9f2476f6e2022fd7847a01a00b6
+M	zen/node.tpl.php	e04184e7944e28e50568749d0c0a6bbf
+M	zen/page.tpl.php	0aa4695e7e63bc80a7626c19016392ac
+D	zen/screenshot-drupal.org.png	
+D	zen/screenshot.large.png	
+M	zen/screenshot.png	f90ca8ee5d19fbd861d4a42e1386ba57
+M	zen/template.block-editing.inc	9ab4e3d311ddf88fb49e6db7e4e7c3ff
+M	zen/template.conditional-styles.inc	3c2450f8aa312f5315ac3577d0431571
+M	zen/template.php	c0a620ede5fe914d047055ce4247b0cc
+M	zen/template.theme-registry.inc	b7c3746fc54405276fe9811c3e51984c
+M	zen/zen.css	c40978358790b62f7750e56c60f29c9e
+M	zen/zen.info	8c98df469bc7c970c5ca96b31cc7bec5
+D	zen_classic/README.txt	
+D	zen_classic/favicon.ico	
+D	zen_classic/html-elements.css	
+D	zen_classic/icons.css	
+D	zen_classic/ie.css	
+D	zen_classic/images/background.png	
+D	zen_classic/images/blog.png	
+D	zen_classic/images/bullet.png	
+D	zen_classic/images/cog.png	
+D	zen_classic/images/dialog-information.png	
+D	zen_classic/images/dialog-warning.png	
+D	zen_classic/images/links.png	
+D	zen_classic/images/menu-collapsed.png	
+D	zen_classic/images/menu-expanded.png	
+D	zen_classic/images/menu-leaf.png	
+D	zen_classic/images/page.png	
+D	zen_classic/images/tabs.png	
+D	zen_classic/images/user.png	
+D	zen_classic/layout-garland.css	
+D	zen_classic/logo.png	
+D	zen_classic/maintenance-page.tpl.php	
+D	zen_classic/page.tpl.php	
+D	zen_classic/print.css	
+D	zen_classic/screenshot-drupal.org.png	
+D	zen_classic/screenshot.large.png	
+D	zen_classic/screenshot.png	
+D	zen_classic/template.php	
+D	zen_classic/theme-settings.php	
+D	zen_classic/zen-classic.css	
+D	zen_classic/zen-fixed.css	
+D	zen_classic/zen_classic.info	

@@ -1,0 +1,7 @@
+A	app/logo.png	6e58b0f8a9e550200434905fb6bf8eb6
+A	app/screenshot.png	38b94658b275033e5893159e7a67b0db
+A	oa_notifications.app.inc	728d87a6e22a3a1c0364362ecbab1857
+M	oa_notifications.info	6465fdab08e9d68de13313fb2c529cfb
+M	oa_notifications.module	87621b931e2cf04d0e379ffe9bc0eec3
+M	plugins/content_types/oa_notifications_pane.inc	f2be25704efb8a0f14006be6d55d7a9e
+M	templates/oa-notifications-details.tpl.php	047a446623cdcda567779afc472ffa31

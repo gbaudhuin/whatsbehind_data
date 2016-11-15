@@ -1,0 +1,6 @@
+M	civi_hooks.php	f065725c8798476a5bd9516a0c66555a
+M	civicrm_private_report.info	7e3e77147dd46d4408774b8c5cc2477e
+M	civicrm_private_report.module	8d77194c78e941387fb53b442633f3cc
+M	civicrm_private_report.test	2881e839c0c2b9a5c0628081b95ac909
+M	functions.php	542805c4cda3ccbced2550469f6adb6c
+D	resource/js/CRM_Report_Page_InstanceList-private.js	

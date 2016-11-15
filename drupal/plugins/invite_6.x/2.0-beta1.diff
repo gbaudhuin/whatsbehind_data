@@ -1,0 +1,15 @@
+M	CHANGELOG.TXT	0b25282d3d9ae55d87cf0273dc60768d
+M	README.txt	11af3c85831a5c3c2da24fb6d6685bcc
+M	invite.info	cf54b56ed9ab9579fe035410dfd78099
+M	invite.install	e068ec0f781a532c2ccbce6e9e644a00
+M	invite.module	476457a8165e17f35c71c9e613b6a0fa
+M	invite_admin.inc	186e51e2299c279bfd68121c695f5104
+M	invite_cancel_account.info	ce6770528a92b80966b28657a23ef526
+M	invite_stats.info	334f178a8db351cbe244a97d038cfa3e
+M	invite_stats.module	440d2b6c26a23d24a3f7850a511a3d79
+M	translations/de.po	8270ebbd5659f378406b4e623a32a6c4
+M	translations/fr.po	f6331f9deb521687dc06adc409eb1bf7
+A	translations/hu.po	f5e41acaf585ee1766326f257408c20d
+M	translations/invite.pot	c534dd4c09a4bb123df05d6d0d49db59
+M	translations/ja.po	b4de6e47b9ee5e8151a9044e88a9da3c
+A	translations/zh-hans.po	d6ae86482a30c73b9d8e8f262180b2a2

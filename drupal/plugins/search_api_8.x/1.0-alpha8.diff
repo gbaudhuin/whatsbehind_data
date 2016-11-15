@@ -1,0 +1,16 @@
+M	config/schema/search_api.index.schema.yml	a7270921e9b8502b4c04edef50541161
+M	config/schema/search_api.schema.yml	4b81b4960775a7975052b5c1731382cb
+M	config/schema/search_api.server.schema.yml	06e83fc2e5101b4d2018a699a1a626a9
+M	search_api.drush.inc	14f0a6f7efe8d50378fb769bfc89b1c6
+M	search_api.info.yml	184ba7179e3a2e0a98c63c6769528d9f
+M	search_api_db/config/schema/search_api_db.schema.yml	c1d8192bd5046103c4f80760ef9b0607
+M	search_api_db/search_api_db.info.yml	6e963f92fbd4f6f4fda2f895064796e8
+M	search_api_db/search_api_db_defaults/search_api_db_defaults.info.yml	bca3500c4217b752d9a90476dd7f5bb1
+M	search_api_db/src/Plugin/search_api/backend/Database.php	385083924ca3bbfcafb9fcccd5e7519a
+M	search_api_db/src/Tests/BackendTest.php	f40fea13b46c8c16fb2945a807af2922
+M	src/Entity/Index.php	e0c6d335df2e6887b9b4d3c273016a2d
+M	src/Entity/Server.php	46db6ffa36f74f424e094302167c7507
+M	src/Form/SubFormState.php	59c92d7ceb8044cd9bd1e0c54b135de1
+M	tests/search_api_test_backend/search_api_test_backend.info.yml	175c01526b2239a8bef5ebc11146f621
+M	tests/search_api_test_db/search_api_test_db.info.yml	4ca65963276abeece9375c5a6160ff7d
+M	tests/search_api_test_views/search_api_test_views.info.yml	9c89cbdf87d90ea3f1d612d27aabd557

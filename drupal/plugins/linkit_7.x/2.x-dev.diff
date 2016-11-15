@@ -1,0 +1,53 @@
+M	CHANGELOG.txt	cbdbd20fe0933b142f5bc379def79c68
+M	README.txt	7f78ee48f324ea94c4b090321e574eef
+A	better-autocomplete/better-autocomplete.css	c5c40fc36949a8115d372b1a5fded4e0
+A	better-autocomplete/jquery.better-autocomplete.js	603f6617a4b081b29092cae9288a9e74
+M	css/linkit.css	1c4b951d7a66078c2d4a911be149a8f6
+M	editors/ckeditor/linkitDialog.js	d65c3678926d2b8d365e06dcdbb6bbe7
+M	editors/ckeditor/plugin.js	4bc3371e2b7f1cd6a1644e73d4109b19
+D	editors/fckeditor/linkit/fckplugin.js	
+D	editors/fckeditor/linkit/linkit.png	
+D	editors/fckeditor/linkit/linkitDialog.js	
+M	editors/tinymce/editor_plugin.js	4b67b892667979e702ba6d2a36e0b817
+D	editors/tinymce/linkit.js	
+A	editors/tinymce/linkitDialog.js	2c574a5b6586a3b1378ac70707d93c32
+A	js/linkit.dialog.js	ecb2b8c6166834f5e956e8b026f811dc
+A	js/linkit.field.js	7275775f40b5816b1fee9e0bd72da6c8
+A	js/linkit.js	79fa7df5d2381332b9086ebda760664a
+A	js/linkitFieldDialog.js	c5e5097f6b47061f4163dfd26ae70948
+M	linkit-dashboard.tpl.php	0791dd23bff3ea0ef469fb2cbe49e269
+D	linkit.admin.inc	
+A	linkit.api.php	a7d1d5c0480fbffbf4fa71d67aad919c
+A	linkit.field.inc	41a54372f8e7b221ee9f6d8ed1cfd1d8
+M	linkit.info	ae8f09bc07c39c671b231eaba2b4e582
+M	linkit.install	aeb18bb6e8d1ec0123444aaf032642a9
+D	linkit.js	
+M	linkit.module	4c9b3c8d76c633776b144f9a9df90aa2
+A	linkit.theme.inc	3c69660584fa23c201d4498d88019642
+A	plugins/export_ui/linkit_profiles.inc	12290d0a690b6ea196a3a6a22d3ced04
+A	plugins/export_ui/linkit_profiles_ui.class.php	08484e69657a51ac4a7c4772fa9ee41b
+D	plugins/linkit_file/linkit_file.info	
+D	plugins/linkit_file/linkit_file.module	
+A	plugins/linkit_insert/html_link/html_link.inc	2fdaee6d3652c4097097013f771e5668
+A	plugins/linkit_insert/html_link/html_link.js	b98ada8ae3e8864f02ff05b708651447
+A	plugins/linkit_insert/markdown/markdown.inc	8c97e9dca41377d8bd8014a05c2db4c5
+A	plugins/linkit_insert/markdown/markdown.js	316fa8979d789927553e7504c32f931c
+A	plugins/linkit_insert/raw_url/raw_url.inc	ea47fbf9a8c69cd72c0b06f8a88000d2
+A	plugins/linkit_insert/raw_url/raw_url.js	6e26507ebc98f9babf32f5315c3f75f8
+D	plugins/linkit_node/linkit_node.info	
+D	plugins/linkit_node/linkit_node.module	
+D	plugins/linkit_permissions/linkit_permissions.info	
+D	plugins/linkit_permissions/linkit_permissions.module	
+A	plugins/linkit_plugins/entity.inc	4cfc3823a0caf41846aec2ed245631c7
+A	plugins/linkit_plugins/linkit-plugin-entity.class.php	514dec124f4be4781f51a1469d510770
+A	plugins/linkit_plugins/linkit-plugin-file.class.php	a12d19a0c15671bf17c8ba36a2ea713f
+A	plugins/linkit_plugins/linkit-plugin-node.class.php	70d1b2471185efaa7c06d84f33d58834
+A	plugins/linkit_plugins/linkit-plugin-taxonomy_term.class.php	2a240c6d657ce95637c22eba71bb515b
+A	plugins/linkit_plugins/linkit-plugin-user.class.php	cce9891c13e635c709df0bbdaa876364
+D	plugins/linkit_taxonomy/linkit_taxonomy.info	
+D	plugins/linkit_taxonomy/linkit_taxonomy.module	
+D	plugins/linkit_user/linkit_user.info	
+D	plugins/linkit_user/linkit_user.module	
+A	plugins/plugin.class.php	7116586854ef5cc320577f3ff1ccaaea
+A	throbber-active.gif	683c980b67a568abab7612f6be99865b
+A	throbber-inactive.gif	76ebc0b7eb8c635cf85e5b75758bdf9d

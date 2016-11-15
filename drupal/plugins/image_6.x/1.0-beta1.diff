@@ -1,0 +1,15 @@
+M	CHANGELOG.txt	a900345b270f19b8d2d43418769436a0
+M	contrib/image_attach/image_attach.info	bc9aebe0e3fb2b4b4167a8178f52ba56
+M	contrib/image_attach/image_attach.install	c40bfb686da18adc28776e6cda71f0cb
+M	contrib/image_gallery/image_gallery.info	2e1e445c3a6b329d29834b67564f98f6
+M	contrib/image_gallery/image_gallery.install	cd4c7393c0b77b8da7ed35f003292a83
+M	contrib/image_gallery/image_gallery.module	beafaced512d1e7b9a35d44cbdddc2be
+M	contrib/image_gallery/views/image_gallery.views_default.inc	f61f5d7c2604dac9246af54188da1857
+M	contrib/image_im_advanced/image_im_advanced.info	cb56bfc7983ce5f3419a14afaf5d6224
+M	contrib/image_import/image_import.info	a4b550bb5bee9eda7aec7f8a7cfca123
+M	contrib/image_import/image_import.pages.inc	098c4fec930c92551c41cf482cad675e
+M	contrib/image_import/translations/image_import.pot	07ef72142b6d4184ff870e45a6391f5e
+M	image.admin.inc	1730c64a451f0663d36b104f4ac3a066
+M	image.info	230ddc5ad902d150a3aa33009261447f
+M	image.install	779aebc5f5e3229258e4bb97868411e6
+M	image.module	58b8554732571b240cfd77148640e74c

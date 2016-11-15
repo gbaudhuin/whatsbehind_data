@@ -1,0 +1,35 @@
+M	CHANGELOG.txt	8733e6511dcd6ec065cb425481ed0d72
+M	README.md	ec82276324f7f520e07b7c2e26e820ef
+M	edit_ui.info.yml	831dea11dc8c615ca5da11367945963d
+M	edit_ui.libraries.yml	100bd0751c2fc2141f656afb5bbb08a5
+M	edit_ui.module	04ecd69c4daba2a5ba75c5085b05e5f4
+D	edit_ui.permissions.yml	
+D	edit_ui.services.yml	
+D	icons/bebebe/push-right.svg	
+D	icons/ffffff/push-right.svg	
+M	js/block/collections/BlockCollection.js	383c6d39e7b8dfec50e26cf948a8aae4
+M	js/block/models/BlockModel.js	1e4caca9822aaca297b4f190f3ae4a3c
+A	js/edit-ui.ajax.js	7cdfb1d3fe3aa69c13969e73a0e3b82f
+M	js/edit-ui.block.js	1c3cfc32bfa7457208f6f150ae55451e
+M	js/edit-ui.filter.js	ff885b80a5240a9a6b1d0f50168b0c14
+M	js/edit-ui.region.js	2a0a13219d751329e315f601f7368c37
+M	js/edit-ui.utils.js	5c27c0df571de5b00f91e9074130bcb7
+M	js/region/collections/RegionCollection.js	7fe33aa45bba98d5ad17f57ffd2bc97a
+M	js/region/models/RegionModel.js	62dcb1413a665b072270e95588eedf11
+A	modules/edit_ui_block/edit_ui_block.info.yml	eee213fa61dbbf14f8770887f782a5af
+A	modules/edit_ui_block/edit_ui_block.install	521ec761eaee88aec7c621b0d6c4a794
+A	modules/edit_ui_block/edit_ui_block.libraries.yml	6b72d1b76c5f47fd60001c36c6f3a2fc
+A	modules/edit_ui_block/edit_ui_block.module	e0abebd28829a10c27f56e8998c89a66
+A	modules/edit_ui_block/edit_ui_block.permissions.yml	9bd9bff51c77d014879b174aa3d31e8f
+A	modules/edit_ui_block/edit_ui_block.services.yml	83b175e4251f14b65d03ebc00fc0e172
+A	modules/edit_ui_block/icons/bebebe/edit_ui.svg	afb5e04fc1ddfc4778cee142cb2a471a
+A	modules/edit_ui_block/icons/ffffff/edit_ui.svg	a9feb3077ef411c00854a8c1c47225a7
+A	modules/edit_ui_block/js/edit-ui-block.block.js	0fb5a40c9c4b361721224854da133b8c
+A	modules/edit_ui_block/js/edit-ui-block.region.js	da619ff4e6c81860d090c2ef91a1b9e4
+A	modules/edit_ui_contextual/edit_ui_contextual.info.yml	7ed6791ce2eab16ee616fb2596fe253f
+A	modules/edit_ui_contextual/edit_ui_contextual.libraries.yml	d772703f54dcdcfbf10367486677ffdd
+A	modules/edit_ui_contextual/edit_ui_contextual.module	0d9d9e0fbef92d4548dc57e8430f358e
+A	modules/edit_ui_contextual/js/block/views/ContextualVisualView.js	52dac0f09553b72241d950148b989242
+A	modules/edit_ui_contextual/js/edit-ui-contextual.block.js	8c0a3187b8963865df7042b9bb80f341
+M	src/Ajax/AddBlockCommand.php	9f6fec6f2a8ef21faefd56cd32c3b2d4
+M	src/Controller/EditUiBlockController.php	e1d0277173fc634d991529f5e2e952cd

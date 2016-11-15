@@ -1,0 +1,9 @@
+M	includes/utils.inc	72358bd517a70b6108afd89d62c37d1a
+M	includes/wf_crm_admin_component.inc	c64064cc98ff8bc26695d9279675b399
+M	includes/wf_crm_webform_ajax.inc	7ffbf6bb40d186a95e6b4527c9ac53b0
+M	includes/wf_crm_webform_base.inc	a7daaf39dd61a6509ee75fd14dda030d
+M	includes/wf_crm_webform_postprocess.inc	df4db264c8c84a1575fcd62caf4fface
+M	includes/wf_crm_webform_preprocess.inc	34b631bef308e02ca251d8deb78055b5
+M	js/webform_civicrm_payment.js	280cae7d54ef925e2c86106c3214672b
+M	webform_civicrm.info	ece8b7efb94abf999feb0af945214cd6
+M	webform_civicrm.module	54895e108dc2374479b94a458899adf7

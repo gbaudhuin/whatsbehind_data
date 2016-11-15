@@ -1,0 +1,78 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	fdd00b5846d6acac035e40f5430daab9
+M	batch/maestro_batch_script_sample.php	bac9f4877636d1869d84276bcee5d99c
+M	css/maestro.css	ef5144d4bc6373eefd2dfea1424e3a8b
+D	css/maestro_ctools.css	
+D	includes/maestro.drush.inc	
+M	js/admin_template_editor.js	b8b205f07732be0846005a0ba6b9533d
+M	js/jquery.simplemodal.min.js	3eec8d4d7bc3df2030d792045cbf85d0
+M	js/maestro_structure_admin.js	a02247a5774545df5c803db431dfba3a
+M	js/moderator.js	ba40dcb90ad37be9dd189f4a11a6080c
+M	js/taskconsole.js	5196a44fbe5871c48f283b4fe62c21f7
+D	lib/lib-og_common.php	
+M	maestro.admin.inc	68ae844187498bff9fa94383401c73a9
+M	maestro.class.php	7c718ac829705a4473bba0efd7979ee2
+M	maestro.info	c3ac4722a3a3f5f8bf686478831103cc
+M	maestro.install	2c770c5e6d032c7e3b0ef7a69a507c1a
+M	maestro.moderator.inc	cc5daa191951fd33b5b060821f8cb4e4
+M	maestro.module	70ae3f40eb6c4b716fe8783f2c459680
+M	maestro.test	23d804c52174bbcd1daaa2c0e5114475
+D	maestro.views.inc	
+M	maestro_base_engine.class.php	a3672df6823ffeaff4125dfce1c00f15
+M	maestro_constants.class.php	2007819e8aeb48f04a30d6d361a7ec0d
+M	maestro_engine_version1.class.php	3c0eaca714ea08a983634f97892f4719
+M	maestro_interface.class.php	e1f9de66f14eda77f8d9b184a074a352
+M	maestro_notification.class.php	09a268d7fb3bf422d1857204a59456fb
+M	maestro_task_interface.class.php	f56e13ce6b43fbe36e61ce833d6f86c1
+M	maestro_tasks.class.php	b1d16d8a4c135887812b8c14127ec834
+D	modules/maestro_common/maestro-common-strict-warning-2056255-2.patch	
+M	modules/maestro_common/maestro_common.info	693b6007d578d42632b13ddbd515250e
+M	modules/maestro_common/maestro_common.module	5c8b1e5b449d288f06b5c0f31064cfc2
+D	modules/maestro_common/maestro_show_message_accept_reject.tpl.php	
+M	modules/maestro_content_publish/content_review.tpl.php	08c89e81ffd64ac89fb1f653c5d3b7ab
+M	modules/maestro_content_publish/maestro_content_publish.info	ef9758a7ba8827d84d89a2b80746c3cb
+M	modules/maestro_content_publish/maestro_content_publish.module	dd0e4312656f6064ec611440d9211ea8
+D	modules/maestro_inline_form_api_task/maestro_inline_form_api_task.engine.class.inc	
+D	modules/maestro_inline_form_api_task/maestro_inline_form_api_task.info	
+D	modules/maestro_inline_form_api_task/maestro_inline_form_api_task.interface.class.inc	
+D	modules/maestro_inline_form_api_task/maestro_inline_form_api_task.module	
+D	modules/maestro_inline_form_api_task/theme/maestro-task-inline-form-api-edit.tpl.php	
+D	modules/maestro_inline_form_api_task/theme/maestro-task-inline-form-api.tpl.php	
+D	modules/maestro_technical_support_request_workflow/maestro_technical_support_request_workflow.features.field	
+D	modules/maestro_technical_support_request_workflow/maestro_technical_support_request_workflow.features.inc	
+D	modules/maestro_technical_support_request_workflow/maestro_technical_support_request_workflow.info	
+D	modules/maestro_technical_support_request_workflow/maestro_technical_support_request_workflow.install	
+D	modules/maestro_technical_support_request_workflow/maestro_technical_support_request_workflow.module	
+M	modules/maestro_test_flows/maestro_test_flows.info	2382fc3536e4585d0c9ea6f6216336a1
+M	modules/maestro_test_flows/maestro_test_flows.install	1b00197d3ecbeae486236fe99c5817a8
+D	theme/maestro-all-flows-display.tpl.php	
+D	theme/maestro-all-flows.tpl.php	
+M	theme/maestro-outstanding-tasks.tpl.php	1c4ba496871a40d4c30e32ae8a484cd1
+M	theme/maestro-taskconsole.tpl.php	753dd42ff7a8687a1b680a9fb55963d7
+M	theme/maestro-trace.tpl.php	cbc1cb9d98c26095ae460e403233dbb6
+M	theme/project_detail_container.tpl.php	25f2fc6e5230be090d6156bccc5ec11d
+M	theme/structure/maestro-workflow-assign-notify-select-boxes.tpl.php	7197ce7c0027146d00bb599a03712b74
+M	theme/structure/maestro-workflow-edit-tasks-frame.tpl.php	8459289a1c16d9fac8c2ef31bbcdd0cd
+M	theme/structure/maestro-workflow-edit.tpl.php	09a7eca051f83394d9608fc33435d95d
+M	theme/structure/maestro-workflow-list-item.tpl.php	c78ab7a732cf2705dfd787c86e46b59e
+M	theme/structure/maestro-workflow-list.tpl.php	3d80c842e8e5f7ae72978a4c2945e246
+M	theme/structure/tasks/maestro-task-and.tpl.php	0775520a08575ca7da47b2a366b363cb
+M	theme/structure/tasks/maestro-task-batch-edit.tpl.php	71b2b08bafe39a45c712667c6e2c7ab8
+M	theme/structure/tasks/maestro-task-batch-function-edit.tpl.php	00807ecdd3c3f4c44036e178227d755d
+M	theme/structure/tasks/maestro-task-batch-function.tpl.php	59dafcdf83a604df07d8bd25c7d8c471
+M	theme/structure/tasks/maestro-task-batch.tpl.php	684677ab96ea80801226147959e1728e
+M	theme/structure/tasks/maestro-task-content-type.tpl.php	40dcb7f62576c06a7dc5f9e69615752d
+M	theme/structure/tasks/maestro-task-end.tpl.php	d0511270ccb55e5be0802f18bebd02dc
+M	theme/structure/tasks/maestro-task-fire-trigger-edit.tpl.php	811d08af498d04e07bcfe6289b590748
+M	theme/structure/tasks/maestro-task-fire-trigger.tpl.php	f383eeeb83c5b18e4b4b2dafe5985374
+M	theme/structure/tasks/maestro-task-if-edit.tpl.php	3f2da88a40f0b29c8ebd1feb170b6713
+M	theme/structure/tasks/maestro-task-if.tpl.php	ae6790621ecc059921cdea6506d3812c
+M	theme/structure/tasks/maestro-task-interactive-function-edit.tpl.php	657fec43aa672772852c3a2dfeb630d4
+M	theme/structure/tasks/maestro-task-interactive-function.tpl.php	a4dab4e3de406bddc649030c24664349
+M	theme/structure/tasks/maestro-task-manual-web-edit.tpl.php	7c75dc14ef94f57ee1df54fc1a37064b
+M	theme/structure/tasks/maestro-task-manual-web.tpl.php	9dac965e672ac17578418b18cc588cef
+M	theme/structure/tasks/maestro-task-set-process-variable-edit.tpl.php	665f5e30916766c51ca0812d1849b8c3
+M	theme/structure/tasks/maestro-task-set-process-variable.tpl.php	1e9c3e6722f21d772e2b071ba9df41ad
+M	theme/structure/tasks/maestro-task-start.tpl.php	17fb5d8826a769ad2cb1e006a5f7a052
+D	theme/structure/tasks/maestro-task-title.tpl.php	
+D	theme/structure/tasks/maestro-task-unknown.tpl.php	

@@ -1,0 +1,18 @@
+D	.cvsignore	
+A	INSTALL.md	b32cf1dcb84121842e6ae94eeba89a76
+D	INSTALL.txt	
+A	README.md	32ab661227baf0d092e53e0d3d21b481
+D	README.txt	
+M	includes/preset.inc	307c1dbb303fb31dfc7b212496034f53
+M	plugins/video_s3/video_s3.info	021cdf1896d25f5ffe85e3b7c6a2dd91
+M	plugins/video_zencoder/video_zencoder.info	6d47ea705e57964e259f2bab727a3802
+M	theme/video-play-html5.tpl.php	7e86713c50224b457e2e3c7b276474dc
+M	transcoders/video_ffmpeg.inc	0d80eb49a9eb0529b81c16256a9edbfe
+M	types/uploadfield/uploadfield.info	1b850d9cd4ee14f9a67f71f9e09c3818
+M	types/uploadfield/uploadfield_widget.inc	16516c016bba0b45341a41b5d3eb43cf
+M	types/videoftp/videoftp.info	d3e720d054b409c2066a237935221002
+M	types/videoftp/videoftp_widget.inc	96a8f4b8109ac606cb737b13131b76f4
+M	video.info	471a7e1ad4521bb1cc4be50ee302e1cf
+M	video.install	1a08f9a8fffed51c7282f38616b9e9c0
+M	video.module	3bf025e345bdd00c1ef43419732fe1c1
+M	video_formatter.inc	9ca910bc5483907f351831d309d5c588

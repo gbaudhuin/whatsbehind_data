@@ -1,0 +1,10 @@
+A	includes/.svn/all-wcprops	e256927e4337fd12217e57a5d1a2e7e8
+A	includes/.svn/entries	dd65be3e47594cead20e1a1321821085
+A	includes/.svn/text-base/webform_template.admin.inc.svn-base	3a4d30e902326d755ef4c38f1e893fde
+M	includes/webform_template.admin.inc	3a4d30e902326d755ef4c38f1e893fde
+D	webform_template.api.php	
+M	webform_template.info	cd38ac241462043624b870b132c944b6
+D	webform_template.install	
+M	webform_template.module	cfa0a4029edf00a2d316c3f2b392d5d3
+D	webform_template_i18n/webform_template_i18n.info	
+D	webform_template_i18n/webform_template_i18n.module	

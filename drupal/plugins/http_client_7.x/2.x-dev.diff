@@ -1,0 +1,16 @@
+A	CHANGELOG	c04d0114bf071f0f8b03dab50bb4a3a8
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README	0f415a9006697662e4f639a7baae3d4c
+A	http_client.info	2db651064a7bd43e0ed50bc7a562076a
+A	http_client.module	0067905d06485c02cadd705a71cb077a
+A	includes/HttpClient.inc	fe362809d3720074ee88b2c18c36121a
+A	includes/HttpClientCurlDelegate.inc	a09eb4ffb4fa0e6bd37835bc53909374
+A	includes/auth/basic/HttpClientBasicAuth.inc	488374539b884d1cdc4711a7a6c0e8fb
+A	includes/auth/oauth/HttpClientOAuth.inc	7e12fa93c59e45f63c9b995a045ef7ca
+A	includes/auth/oauth/http_client_oauth.info	1a5ae8c98ad4791fa8eabd2046627397
+A	includes/auth/oauth/http_client_oauth.module	ead7c0f9d237a341531e645c7fde0d08
+A	includes/auth/oauth2/HttpClientOAuth2.inc	9bd948c782f312751ac4e9b4eeaf43bf
+A	includes/auth/oauth2/README.org	7816dce7e53115193f62be3d8c672810
+A	includes/auth/oauth2/http_client_oauth2.info	cd7b76cb7b1f85cce18f187cb8b78c9e
+A	includes/auth/oauth2/http_client_oauth2.module	52965a8c6944208d6bcbf761a7af61d6
+A	includes/formatter/HttpClientXMLFormatter.inc	0fc4f86569905e582c8dd852a69af234

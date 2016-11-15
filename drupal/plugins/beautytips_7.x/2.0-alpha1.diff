@@ -1,0 +1,16 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	5d6184c8196284e8791259851bd78ff5
+M	beautytips.admin.inc	8c626490b2a18fe2daef8d7e624ca196
+M	beautytips.info	48365f7940330950331842095e9e2c8c
+M	beautytips.module	31f7584f3c3c5c9c0eb843035cfe751e
+M	beautytips_manager.admin.inc	e6c2c8660da3032715c9bef039ebb4e6
+M	beautytips_manager.info	d3788f242c6448a216149da277dbf599
+M	beautytips_manager.install	bd122af3e1d70187b3fd11fbc6d639ae
+M	beautytips_manager.module	97ab05b27eb756facfcd2d1b66a98a8e
+M	beautytips_ui.info	4bb52c53427555ed2a45edf6af486927
+D	css/beautytips-ltr.css	
+M	includes/drupal_help.inc	c219bc4b6600c6fd123028a21a42f19b
+M	includes/textinput.inc	265357f364ec6c6677ef68e3a09d03e9
+M	js/beautytips.js	7a65948db6ea46c251bfa53f0db3c1b4
+M	js/beautytips.min.js	70d7d4304c8ba00326fce7612a0a4548
+M	js/bt_custom_styles.js	61b4255ac94b122a41fa011110fb1025

@@ -1,0 +1,7 @@
+M	languagefield.info.yml	1faa581fa10e35317c89a3346f666c9f
+M	src/Controller/LanguageAutocompleteController.php	7e5899810a400d48b5c8267cbdd96eef
+M	src/Plugin/Field/FieldFormatter/LanguageFormatter.php	82caf337f60b035fe4ffea33a9c8edac
+M	src/Plugin/Field/FieldType/LanguageItem.php	141930ce0c1275915481058751b33fe4
+A	src/Plugin/Field/FieldWidget/LanguageAutocompleteTagsWidget.php	b3e78a7d1e1772a55af7b220a6a4523c
+M	src/Plugin/Field/FieldWidget/LanguageAutocompleteWidget.php	d5d6e5be9cc70b7d94f110e815fffa07
+M	src/Plugin/Field/FieldWidget/LanguageSelectWidget.php	12711770ada6a338adb554138d23d624

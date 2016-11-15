@@ -1,0 +1,68 @@
+A	config/install/multiversion.type.basic.yml	476b0abb2d960a6fa97caf92fdba6e20
+A	config/schema/workspace_type.schema.yml	51d114610bbebb6039a0a85d94ab6fc6
+M	multiversion.info.yml	fce912da61485e9e25dd207f94959dde
+M	multiversion.install	9c68444a258a5bfc71adb99dc53618a3
+D	multiversion.links.action.yml	
+M	multiversion.links.menu.yml	e92dd4a543f1f97acc4541c773051de8
+A	multiversion.links.task.yml	9d4eb1e675c3d24fbc5dd85a1b34bcf9
+M	multiversion.module	e56e8a70198ed1e3063ee2277cf6f98a
+M	multiversion.routing.yml	814f5d2e2f46c2ac2be273228b607b58
+M	multiversion.services.yml	4e0197b377cc912d9129f87dc882f84d
+D	multiversion_ui/css/multiversion_ui.admin.css	
+D	multiversion_ui/multiversion_ui.info.yml	
+D	multiversion_ui/multiversion_ui.libraries.yml	
+D	multiversion_ui/multiversion_ui.links.contextual.yml	
+D	multiversion_ui/multiversion_ui.links.task.yml	
+D	multiversion_ui/multiversion_ui.module	
+D	multiversion_ui/multiversion_ui.permissions.yml	
+D	multiversion_ui/multiversion_ui.services.yml	
+D	multiversion_ui/src/Controller/RevisionController.php	
+D	multiversion_ui/src/Controller/RevisionsController.php	
+D	multiversion_ui/src/Element/Rev.php	
+D	multiversion_ui/src/ParamConverter/EntityRevisionConverter.php	
+D	multiversion_ui/src/Plugin/Derivative/RevisionsContextual.php	
+D	multiversion_ui/src/Plugin/Derivative/RevisionsLocalTask.php	
+D	multiversion_ui/src/Routing/RouteSubscriber.php	
+D	multiversion_ui/templates/multiversion-rev.html.twig	
+M	src/CommentStatistics.php	dc31efd5acd013f2b568a0daa340fac1
+M	src/Entity/Index/SequenceIndex.php	af673ccef3fb62453ced328df6abe5d8
+M	src/Entity/Index/SequenceIndexInterface.php	5f2f9d8979b83c488beaf8234ca5ee74
+M	src/Entity/Query/QueryInterface.php	e921a21bca033d995257a017da7d3674
+M	src/Entity/Query/QueryTrait.php	8a9b2884299fec17297a54922cae7399
+M	src/Entity/Storage/ContentEntityStorageTrait.php	341449efa74eb2f441be5e11a7f16653
+A	src/Entity/Storage/Sql/FileStorage.php	d77a045f2041a270092f59308aecb7e8
+M	src/Entity/Storage/Sql/TermStorage.php	2ea5025cbb7bb7807abf2f148e9a6ad7
+M	src/Entity/Workspace.php	77cfbd2fcff45f634bae9252efe36c3f
+M	src/Entity/WorkspaceInterface.php	3512cbccbe6dcb171c39e4876957469d
+A	src/Entity/WorkspaceType.php	2d3e690a67da745d323b333def0547b2
+A	src/Entity/WorkspaceTypeInterface.php	4880949027c6a4ff3b37f36adf5cfcbe
+A	src/Form/MultiversionUninstallForm.php	3037e3081f5133ecac06573efd968a1d
+M	src/MultiversionManager.php	05b1988b57f053fb74808591ebea0907
+M	src/MultiversionManagerInterface.php	87b55c3d7a05e0df1e2722374edefef1
+M	src/MultiversionMigration.php	b062f7bbf6fafbf6282dc1108095618a
+M	src/MultiversionMigrationInterface.php	4b49e54442c0a11dbe5cf2b8cbed650b
+D	src/Plugin/Block/WorkspaceBlock.php	
+M	src/Plugin/migrate/destination/ContentEntityBase.php	fbe5c640061e01b88ab7e74f20a4a3bf
+A	src/Plugin/migrate/process/TextFieldProcess.php	db5c14a8bb106aa92a1c925c4065b655
+M	src/Plugin/migrate/source/ContentEntityBase.php	0183041335c7319aa55ffb058826473b
+A	src/StreamWrapper/MigrateStream.php	70369daea26bf8379efcc71c1edd6880
+M	src/Tests/EntityQueryTest.php	6bbae4140541a5ea12edbbc392a1d9a9
+M	src/Tests/EntityStorageTest.php	e3381775b653186dc1eff11b2190f87d
+M	src/Tests/FieldTestBase.php	b2d24aff16774527ac7371380817c301
+M	src/Tests/MenuLinkTest.php	86b74a0cc61c7876bab7479a3028d824
+M	src/Tests/MigrationTest.php	7d5e418b8c221325b54762e2010f327b
+M	src/Tests/SequenceIndexTest.php	833dcd3d1f2389088c3b4f2feda02560
+A	src/Tests/UninstallTest.php	bb5277868cb88baa0ad59eace1b10641
+M	src/Tests/UuidIndexTest.php	6da311e516034871e3a37dde2599b87a
+M	src/Tests/Views/WorkspaceTest.php	89c0180d2a80ac6d7e57e5622920cb76
+D	src/Tests/WorkspaceBlockTest.php	
+M	src/Tests/WorkspaceTest.php	abd1ec4ce84eb2019b22a073c3b8b117
+M	src/Workspace/SessionWorkspaceNegotiator.php	462e027257b534a1f5167527af789a06
+M	src/Workspace/WorkspaceManager.php	222a3e9ec3694a0d590a24c3bc607faa
+M	src/Workspace/WorkspaceManagerInterface.php	5967e3f8c788241239a935231b224019
+D	src/Workspace/WorkspaceSwitcherInterface.php	
+D	src/WorkspaceForm.php	
+D	src/WorkspaceListBuilder.php	
+M	tests/modules/multiversion_test_views/multiversion_test_views.info.yml	d9e8f0ccb63486e51cca4790b5560d53
+M	tests/src/Unit/SessionWorkspaceNegotiatorTest.php	8405323ec4caf449ee12d3fa1ce5ddbc
+M	tests/src/Unit/WorkspaceManagerTest.php	47293bcb2970118b3ab157bc7585f9cd

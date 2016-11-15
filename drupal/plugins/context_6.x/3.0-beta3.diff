@@ -1,0 +1,58 @@
+M	API.txt	d7a02f12c771881ae36e35e402b61c9c
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	8db78c3fb5ba79b354f87c5d77c5438c
+M	context.api.php	7808ffc225179c623fcefc9da486878b
+M	context.core.inc	3990505b3b8597f74aa001c2b854d3c5
+M	context.info	672a9cdc9207468cadc19798b6027b93
+M	context.install	d86e355ead49ad707689ac5e4c344dd3
+M	context.module	1fd03070c80db251381ba01df0415c29
+M	context.plugins.inc	9ab6b5818dbda7813d1c61d707c36854
+M	context_layouts/README.txt	8a473bcb57e5f5613cebf0bbc15ea56e
+M	context_layouts/context_layouts.info	4ab705c8e7e740912bf760c7526d8682
+M	context_layouts/context_layouts.module	ab8fd1bf4c9f072905ffec0c94aaa177
+M	context_layouts/plugins/context_layouts_reaction_block.inc	d68a38bd386d9f1e0e5804f62f775146
+M	context_layouts/plugins/context_layouts_reaction_block.js	e221869130560d3760964185178d89c7
+M	context_ui/README.txt	23b63eb5f40f026cc053e6c3eab3611c
+A	context_ui/context_ui.admin.inc	0703bf0d2ac2b5e808f5004b13e054f0
+M	context_ui/context_ui.css	7e7a2df9ff26a16652803eaa0abf2d9d
+M	context_ui/context_ui.info	dd29ad15d4e38ded3298c03785698360
+M	context_ui/context_ui.install	d5ce49bb8321da1954c131b22f18c82b
+M	context_ui/context_ui.js	491cdd2c7414a4463c745dc9b0d89a7b
+M	context_ui/context_ui.module	6594862b78f0781360ba4f73b8982beb
+D	context_ui/export_ui/context.inc	
+D	context_ui/export_ui/context_export_ui.class.php	
+M	context_ui/jquery.pageEditor.js	dba5571e3e45e21a04a3900f716ece51
+M	context_ui/tests/context_ui.test	b171314c22066ed520f16b57f5190469
+M	context_ui/theme/theme.inc	4a4a8df896e3f834e4ecfdf290deb20f
+M	plugins/context_condition.inc	2f355570d35e8d2f51958e6d65aec3c3
+M	plugins/context_condition_book.inc	d1f65731e5ef50314201d31ad3454e27
+M	plugins/context_condition_bookroot.inc	62ca4133c39e1f2a3502556314af18e2
+D	plugins/context_condition_context.inc	
+M	plugins/context_condition_language.inc	1aaf2895117adbf0fb2509ef8e645544
+M	plugins/context_condition_menu.inc	c45f9400468fabfa0ac7aec6efe41da2
+M	plugins/context_condition_node.inc	192f345f7be600b1fc2fbaaea9806b48
+M	plugins/context_condition_node_taxonomy.inc	bd3b0e16a75f47f08a5223318993493f
+A	plugins/context_condition_nodequeue.inc	17a54f947280c17bd7e3d7086d8720d8
+M	plugins/context_condition_path.inc	c2928741538983750f92cab8c615cdf0
+M	plugins/context_condition_sitewide.inc	c750f89aff5e0e962788c89b8eb8b081
+M	plugins/context_condition_user.inc	0c5b83f90963474d4a27de5d72211267
+D	plugins/context_condition_user_page.inc	
+M	plugins/context_condition_views.inc	0afb324a1421f6b4900c3b197b588e85
+M	plugins/context_reaction.inc	2bea863ebe73a7acb4e575d7f3a83241
+M	plugins/context_reaction_block.css	7ecb12f8f59eff43ad7a34ffcfcc2eb9
+M	plugins/context_reaction_block.inc	b41e8547a03acc34cfdca88fac2a9df3
+M	plugins/context_reaction_block.js	17d9514dbee0a4846144d2354830dc62
+D	plugins/context_reaction_block.png	
+D	plugins/context_reaction_block.svg	
+D	plugins/context_reaction_breadcrumb.inc	
+M	plugins/context_reaction_css_injector.inc	07707fe85fb7fa09758c536de96401f8
+M	plugins/context_reaction_debug.inc	da872448aeece8387f3cc72c724961bb
+M	plugins/context_reaction_menu.inc	06e1c43055ab1dea9e8edd44e0fa142d
+M	plugins/context_reaction_theme.inc	50bd62199076a0214de04d74eea5d3bf
+M	tests/context.conditions.test	999c7600ea4de4f0b8819235d15fc04e
+M	tests/context.reactions.test	265cdfa3ab356545f60ae4d28955fd65
+M	tests/context.test	58037c900d0c8723f9701373f6754cf3
+M	theme/context-block-browser-item.tpl.php	4178bfb73fce8b1e5c9d787aeeb63300
+M	theme/context-block-editable-block.tpl.php	cfb0616359b7c6045d966dfee5053aba
+M	theme/context-block-editable-region.tpl.php	26dd3048511f178dc620ff1be238f5b6
+M	theme/context_reaction_block.theme.inc	dfb24c75488c9eb35cde3caa1f2270f0

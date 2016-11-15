@@ -1,0 +1,11 @@
+M	CHANGELOG.txt	0d801e976866eaa1a17e7be61dd2dbf9
+M	modules/opac_asin/opac_asin.info	34c61533cdd5a54af3f5a9869f98c47d
+M	modules/opac_authorities/includes/harvest.inc	184301295e8adbc744a10b4b9e4e3a9b
+M	modules/opac_authorities/opac_authorities.drush.inc	56029ba1274a26eb9813fe50443e7fd4
+M	modules/opac_authorities/opac_authorities.info	83b40f8eeef630686676e195e20a1a8f
+M	modules/opac_authorities/opac_authorities.module	3eb8f3ffb26c8e16b0f5203e86f688a2
+M	modules/opac_items/opac_items.info	d356a62141a24a7d96c9f7e4a2ad816f
+M	modules/opac_marc/opac_marc.info	782d04efff70a7fb7b17f20644fa7ee7
+M	modules/opac_users/opac_users.info	7e6840e15375ff538a840bce2791a102
+M	modules/opac_users/opac_users.module	13fe6ec730c41a34d306518ac0ac56bb
+M	opac.info	2c6b310d05fdadcea375d4259c2c0b1c

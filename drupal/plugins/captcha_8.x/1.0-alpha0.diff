@@ -1,0 +1,41 @@
+M	README.md	345cdc191233be1f4e5dd54817e4885d
+M	captcha.admin.inc	14ee25df094a9288e75cbef05ae4b554
+M	captcha.inc	bc33e9aa4269fa18b1503a71b4a0d643
+M	captcha.info.yml	5383fab286c1b51140263a2fa6930329
+M	captcha.install	c7675f4fff93055034c8b48e99d8d1ca
+M	captcha.module	e6face986db8d658254934970fb74e07
+D	config/install/captcha.captcha_point.contact_message_feedback_form.yml	
+D	config/install/captcha.captcha_point.contact_message_personal_form.yml	
+D	config/install/captcha.captcha_point.user_login_form.yml	
+D	config/install/captcha.captcha_point.user_pass.yml	
+D	config/install/captcha.captcha_point.user_register_form.yml	
+M	docs/api.md	e700639f6e2d49f38b2caddce8af32df
+M	image_captcha/config/install/image_captcha.settings.yml	e5ee3c45de388fbad124e3959994c046
+M	image_captcha/image_captcha.admin.inc	78c71c7ccfc87284a2915a2997431d5b
+M	image_captcha/image_captcha.info.yml	e9808e531804b3c84692230a61361fe4
+M	image_captcha/image_captcha.install	6607d66da167cfbf4915d0431d9963e6
+M	image_captcha/image_captcha.js	a1fe25537ec3276167cc161f7785a717
+M	image_captcha/image_captcha.module	d037ed526d289bb98e2770bc73c3167a
+M	image_captcha/image_captcha.routing.yml	e5e4231657482154bbd0828230d3ea48
+M	image_captcha/src/Controller/CaptchaFontPreview.php	afed4f61c336e3972f5f2e8f698971ea
+M	image_captcha/src/Controller/CaptchaImageGeneratorController.php	fbc4ac133822a50688da0ee07d8c2ab9
+M	image_captcha/src/Form/ImageCaptchaSettingsForm.php	9e1e47579c5bf1ad18c3e860c5a838c8
+M	image_captcha/src/Response/CaptchaImageResponse.php	a6135506f2a73cac0fab8dae88585e5a
+M	src/CaptchaPointInterface.php	97a4d21f13280a95c1b4d60681985fb4
+M	src/Controller/CaptchaPointListBuilder.php	8ba51ec2f081b0b2b7c681da439d1032
+M	src/Element/Captcha.php	ba3ca77e247835c7f7293fc66f47bbbc
+M	src/Entity/CaptchaPoint.php	57c6aefa85edc2a0bfcb653dea47d3c9
+M	src/EventSubscriber/CaptchaCachedSettingsSubscriber.php	1f0b248b43a878a4685b0b706cd776bc
+M	src/Form/CaptchaExamplesForm.php	5aa052dd5b2b4de1c3b41439e85cc309
+M	src/Form/CaptchaPointDeleteForm.php	3794ab6841ab7691de3dde6af2334ccc
+M	src/Form/CaptchaPointDisableForm.php	59dc219e8442a608d80d4d5e5bc605ed
+M	src/Form/CaptchaPointEnableForm.php	95a904d94ef01b7f80af6a3aaa170920
+M	src/Form/CaptchaPointForm.php	80c12f9e012b526ebcd9718062d8409d
+M	src/Form/CaptchaSettingsForm.php	cd5de7d861274263361e0210f1fafce8
+M	src/Tests/CaptchaAdminTestCase.php	57409d5fdb450ccb2bc1e4550a461bfc
+M	src/Tests/CaptchaBaseWebTestCase.php	1d2fb67b99d84bfb04426cac0ebb7eb7
+M	src/Tests/CaptchaCacheTestCase.php	1d74f92732df19860c539684e2bd9426
+D	src/Tests/CaptchaCronTestCase.php	
+M	src/Tests/CaptchaPersistenceTestCase.php	4e4ca24343555a3bbaf491019257ef07
+M	src/Tests/CaptchaSessionReuseAttackTestCase.php	eaabfe6fc864fddc95ab4711f4d62e23
+M	src/Tests/CaptchaTestCase.php	f742260f0b1aaf13ebac53572e5299dc

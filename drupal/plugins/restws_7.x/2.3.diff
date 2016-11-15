@@ -1,0 +1,5 @@
+M	restws.info	af84a18a7b41c759eeddbeeba4d33eb7
+M	restws_basic_auth/restws_basic_auth.info	fb29ea547dd8d19fb83e83bad9e0ae81
+M	restws_basic_auth/restws_basic_auth.module	8468468edc5354fad0095581ede351bc
+A	restws_basic_auth/restws_basic_auth.test	e3104caed8426a17a2ea73492068200f
+M	tests/restws_test.info	3aec6bc5b850b03ec8bacf8a6d9f71a4

@@ -1,0 +1,17 @@
+M	CHANGELOG.txt	5f1f912d1ea163b5bae962450d04cef4
+M	README.txt	b5d824c9945ba4c8baad030007381fc9
+A	advanced_profile.admin.inc	58bc1bfec82b31421f9c367cc838b688
+M	advanced_profile.info	43ba533b2213564af70d83f39a8f2e3c
+M	advanced_profile.module	4b00a7633966edd53366abde44e2b933
+M	includes/panels/advanced_profile.pages_default.inc	bbdf893394d5fc295de2500b783a9d69
+M	includes/panels/panels.inc	1071f91999a6b4484ffa0bf7a87de6cf
+M	includes/theme.inc	64c6b9b483eebf7f894806e826f59ef1
+M	includes/views/views.inc	8ca9b54c48b315087ee2ec3c19fd4790
+M	theme/advanced_profile.css	0e4ba3711085659dc1600631a2a50412
+M	theme/advanced_profile_blue-lagoon.css	1e372369ca6366c8af6b2b16eae1527a
+D	theme/advanced_profile_view_user-list.tpl.php	
+D	uprofile.contact-links.export	
+A	uprofile/uprofile.basic.export	da1c546e2978a9b3591b1e4ac662b875
+A	uprofile/uprofile.contact.export	cae08572e4d62a11f8a025a8b0567227
+A	uprofile/uprofile.links.export	008f6a7687324a2ba7a79dae730d5b13
+A	uprofile/uprofile.social-networks.export	b6137d686ae575c581bf5ac6d73d2a42

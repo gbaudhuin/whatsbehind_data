@@ -1,0 +1,18 @@
+M	Tests/src/Unit/ButtonsElementTest.php	a76d41d918c70e0f66fcc5dcae58f2c4
+M	Tests/src/Unit/ElementsTest.php	9f2382921722d07049a06be144df3c88
+D	Tests/src/Unit/ListWidgetTest.php	
+M	Tests/src/Unit/ReferenceWidgetTest.php	d05d0384b00d2361223f494b427e7443
+M	Tests/src/Unit/SelectElementTest.php	cb59585b3d2ba8715c319f7e9102c4c4
+D	Tests/src/Unit/UnitTestBase.php	
+M	config/schema/select_or_other.schema.yml	4a5a000c06689bd16c1f2b2fbe6d6705
+M	select_or_other.info.yml	78c6969a526a454e6062d2bf62c32a0c
+D	select_or_other.module	
+M	src/Element/Buttons.php	5711ae1edf40eaab487ebb004a2a3153
+M	src/Element/ElementBase.php	b2ae9a465c27240bb0f4fefc447d47b3
+M	src/Element/Select.php	74e609dcf1bea71012a54d3a5afca955
+D	src/Plugin/Field/FieldWidget/ListWidget.php	
+D	src/Plugin/Validation/AllowedValuesConstraint.php	
+D	src/Plugin/Validation/AllowedValuesConstraintValidator.php	
+D	src/Tests/ListTest.php	
+M	src/Tests/ReferenceTest.php	92dda096dfe40710dc4c8a23b9c89b03
+M	src/Tests/TestBase.php	7a08c8e3aeba44b99f293feb3db2cdb2

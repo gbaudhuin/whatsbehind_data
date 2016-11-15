@@ -1,0 +1,25 @@
+M	CHANGELOG.txt	3fb5fb6cf665a194c2bb1df63fba3abb
+M	libraries.api.php	178f2152cb708dd08b6d483a2211766b
+M	libraries.info	9e2557cf5ce71af47911d016c165e90f
+M	libraries.module	25e730f817047d839b8d054a060821e2
+D	tests/example/example_1.css	
+D	tests/example/example_2.css	
+D	tests/example/example_3.css	
+D	tests/example/example_4.css	
+M	tests/libraries.test	2748dd1f2f037a4f072eb807d2a307b1
+A	tests/libraries/example/example_1.css	206cc91c5ee177b6a0e8e6371dbd9c45
+A	tests/libraries/example/example_1.php	19f8ee9abfb67af94d3bf522f32e6b08
+A	tests/libraries/example/example_2.css	27752add146571d1b2a16c12c9e7a072
+A	tests/libraries/example/example_2.php	a46fc99dcedd0d049ed3920c4bf38117
+A	tests/libraries/example/example_3.css	ee88744b829b5feda39da32714c16c4f
+A	tests/libraries/example/example_4.css	f9ab3de46eae9c31c9266213271e513d
+D	tests/libraries_test.css	
+D	tests/libraries_test.inc	
+D	tests/libraries_test.js	
+A	tests/modules/libraries_test_module/libraries_test_module.css	84c334ad55344b3344bb1ce45c2fe107
+A	tests/modules/libraries_test_module/libraries_test_module.js	12bdeecb12a045a3778f4233033e5e8e
+A	tests/modules/libraries_test_module/libraries_test_module_post_load.inc	f34c2833f5b54eada6ddf8f8fce279b4
+A	tests/themes/libraries_test_theme/libraries_test_theme.css	740f1933783ecb2891f6635787c3af00
+A	tests/themes/libraries_test_theme/libraries_test_theme.info	c9d17ecbd56221981066a655d5293eb9
+A	tests/themes/libraries_test_theme/libraries_test_theme.js	904694769ada24a151a8432747ff9c40
+A	tests/themes/libraries_test_theme/template.php	24d46efc4f44281d3b8652b294b16d43

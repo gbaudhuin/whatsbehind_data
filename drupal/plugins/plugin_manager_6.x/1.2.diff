@@ -1,0 +1,9 @@
+M	README.txt	f8817eaa56aea8c4b557d0fadc08600f
+M	ftp.backend.inc	ef1bfe6ec70c262a6737d06a8b741c82
+M	plugin_manager.admin.inc	a4b42fc8ebc19dae1c19970c97f4d9ad
+M	plugin_manager.info	62c6950b55f31c76ae72b834d2fc224d
+M	plugin_manager.install	b4f3ff93cd733215ba207f0c12706043
+M	plugin_manager.module	7a57d144896f6f47fa923c7ef10585ff
+A	plugin_manager_search.css	8bf1a1d85cac3961fad81504217c834e
+A	plugin_manager_search.js	6a54c95910d5858af063bef7eb4005ee
+M	ssh.backend.inc	a46d6eaded4baeb7ca1fa860b80b9926

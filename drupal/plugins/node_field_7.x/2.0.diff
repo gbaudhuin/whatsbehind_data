@@ -1,0 +1,14 @@
+M	README.txt	cad5c638012205119aeea7db0d05315f
+D	includes/js/node_field.script.js	
+M	includes/node_field.api.inc	9c5ba2db768340111aae1d2515648af2
+M	includes/node_field.field.inc	89e56b330f90effdfb1fe3a0412f5ea6
+A	includes/node_field.form.inc	d72537c496de2582f3554ae0e41ac90f
+A	includes/node_field.form.node_field.inc	0bc26eecf43f11097a81cad271bc5395
+M	includes/pages/node_field.admin.inc	513a73e3c37ad7e5f2d3de4c86508777
+M	includes/pages/node_field.node_field.inc	2ef2fdfdd2878ad404009c48814dbeea
+A	includes/pages/node_field.pages.node.inc	98bfa419b4450d63edc4c95df0ba7121
+M	model/node_field.db.inc	f6c0c4c06acd96b989ddf905bb6b2eec
+M	node_field.info	2eb3ab91f9fcd8e700b17a0ec07e175e
+M	node_field.install	200515f1147682f720cea86688d1702b
+M	node_field.module	02ad70a54f93e368b17e9eed3a55ff2d
+M	theme/node_field.template.inc	6386b6341227140033147d39c8f7b90d

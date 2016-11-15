@@ -1,0 +1,14 @@
+M	src/Cache/ApcuRawBackend.php	195cdc25af58385e66ccc9a87c57d2f0
+M	src/Cache/CacheCacheTagsChecksum.php	2f841ffa550ae0e80a0a5830ee3b617d
+M	src/Cache/CacheRawBackendInterface.php	4712b62851b958f958dc97f4d67ea3ed
+A	src/Cache/CacheTagsInvalidatorInterface.php	38912335e5210b7a3e2081e4a428cdaf
+M	src/Cache/ChainedFastRawBackend.php	7f5c6382cc275b02ac83c5f94aa18329
+M	src/Cache/DatabaseRawBackend.php	56e11ced86ace7586d7d5a5910e15ca9
+M	src/Cache/DatabaseRawBackendFactory.php	a3f7c7060f0c95e594c44791c4994d7e
+M	src/KeyValueStore/ChainedStorageExpirable.php	f52adbeecc8d269bfda0fd91177668d8
+M	src/KeyValueStore/KeyValueChainedExpirableFactory.php	3ba0a3aae65ea95cf826def1be85dfe3
+A	src/Tests/Cache/CacheCacheTagsChecksumTests.php	e7a961873b35030525a24bccdd97ace9
+M	src/Tests/Generic/Cache/BackendClearTests.php	ce6b21c9710a851bf7a69a965cfbe448
+A	src/Tests/Generic/Cache/CacheTagsChecksumTests.php	297d84aff6415ca8e6bf6c2842126194
+M	src/Tests/Generic/Cache/RawBackendGeneralTests.php	447639b582748fb7c61fec9ac0964552
+M	supercache.info.yml	69ad698d6a5fd46da087bc9bf5ac109d

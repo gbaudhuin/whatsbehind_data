@@ -1,0 +1,12 @@
+M	devel.info	257f7eac2f1f84629547cd06b223ca63
+M	devel.module	bd0294fdbc17de8c83299be4ca8a82e0
+A	devel_generate.drush.inc	ed31646cca6a67e4b5ec3d522008bb49
+M	devel_generate.info	8dfa3152d4df1534b58cd62fae02387c
+M	devel_generate.module	ae1d39e57ff817ebceab4accfbb286e1
+M	devel_generate_batch.inc	427651f037f5e10d0d4f048af400b1d0
+M	devel_node_access.info	22ed79ebd6e292a1416626e2e5cb0b47
+M	devel_node_access.module	f5622e49d2c9676d77b24d7d41431fa8
+M	devel_themer.info	ccf93805d6948bab2af43960080c6165
+M	macro.info	7d44dd6789b9e8f1489d00b647e65cdd
+M	performance/performance.info	f265588f77599a281b461fe2b8a88c67
+M	performance/performance.module	93306d143a30e49884e778db7d458bdd

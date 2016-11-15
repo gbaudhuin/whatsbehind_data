@@ -1,0 +1,14 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	13c00eaf150abf03c3bb9883ad07c469
+D	docs/tabsexample.info	
+D	docs/tabsexample.module	
+M	drupal-tabs.css	f6bd1d306cfb9b498c31069fd6b427d9
+D	tabs.admin.inc	
+M	tabs.info	0e4da1730caf7eb7a009730d753077ae
+M	tabs.install	b1df348503ef9b6d159a63df60c56dcc
+M	tabs.js	94dc2c60b9d1e2a95f8e00509eae2fa2
+M	tabs.module	937ae0ec9ce221ed34a7afb74dfb244d
+D	tabs.theme.inc	
+D	tabs_ui.js	
+D	ui.core.js	
+M	ui.tabs.js	3bb9352f9f68ab348142cb39a8080d2e

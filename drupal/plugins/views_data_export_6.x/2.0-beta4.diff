@@ -1,0 +1,13 @@
+M	migration/views_data_export_migration.info	746e223b60522d729728be2d3db8d773
+M	plugins/views_data_export_plugin_display_export.inc	cc411a85664a82a39513e3d618008511
+M	plugins/views_data_export_plugin_style_export.inc	6c8a107240ec45fcc45c361c98b588b3
+M	plugins/views_data_export_plugin_style_export_csv.inc	01e668383dcee7e9b5eb3ca5f9766d83
+M	plugins/views_data_export_plugin_style_export_xml.inc	888b44005081238e0cd1c6573612c71d
+M	theme/views-data-export-txt-body.tpl.php	91c63c8e540b58b3b1b1f5b951c3cbca
+M	theme/views-data-export-xml-body.tpl.php	f804c8e3961eb55733754a1764acb9ea
+M	theme/views-data-export-xml-header.tpl.php	93d647d69a18bf4f5ee0db8dd3406015
+M	theme/views_data_export.theme.inc	c0cb8606274ad155ab7f2fd6180297f0
+M	views_data_export.info	f36160f78b3f7066ac8907eccf975248
+M	views_data_export.install	3e5c39d38df657ec2c3ee243879887e6
+M	views_data_export.module	b0d9044571e2a8cc0b60b3b1560a23de
+M	views_data_export.views.inc	fe4af4052155091530bdda96147f48a3

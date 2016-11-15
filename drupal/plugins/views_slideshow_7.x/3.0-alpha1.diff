@@ -1,0 +1,26 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	4b2239249102c42a37dd2e0a2f328a28
+M	contrib/views_slideshow_cycle/js/views_slideshow_cycle.js	114fe9040fba7c5aff78055e6b1636ed
+M	contrib/views_slideshow_cycle/theme/views-slideshow-cycle.tpl.php	4a635cbcedd51d1e980437fd7a876a0a
+M	contrib/views_slideshow_cycle/theme/views_slideshow_cycle.theme.inc	01c1098918604bc7614c33bab827276c
+D	contrib/views_slideshow_cycle/views_slideshow_cycle.drush.inc	
+M	contrib/views_slideshow_cycle/views_slideshow_cycle.info	9295c5c99cc88f1474da87096c0268a5
+D	contrib/views_slideshow_cycle/views_slideshow_cycle.install	
+M	contrib/views_slideshow_cycle/views_slideshow_cycle.module	7d070fea6864e31f12fb83b51ea8833c
+M	contrib/views_slideshow_cycle/views_slideshow_cycle.views_slideshow.inc	a02ff9c2b6b7137e65d803ee0d3656ef
+M	js/views_slideshow.js	3240534db3e71efe525a81e91e5714cd
+M	theme/views-slideshow-controls-text-next.tpl.php	d1749f77983ab9b5e61e61a06b90f1bd
+M	theme/views-slideshow-controls-text-pause.tpl.php	5bb71fda357293fec59fabad56f432f9
+M	theme/views-slideshow-controls-text-previous.tpl.php	33fd2062b70ef66a03c7103232906cbc
+M	theme/views-slideshow-pager-field-item.tpl.php	5370fdde6bdc2389e5c287a0e5e9a012
+M	theme/views-slideshow-slide-counter.tpl.php	b7f3cc783848fa7b2b6a5614158ded92
+M	theme/views-slideshow.tpl.php	3e6a1a71d9e9f9ca69876d994e728051
+M	theme/views_slideshow.theme.inc	a9f9fbef10339b6406a4d1525cb1950e
+M	views_slideshow.api.php	6995fcf404cf80fb8d332710bd2427b8
+M	views_slideshow.css	92943121c59c0949c62c4f08f22c53a6
+M	views_slideshow.info	f4a0c9ba16eaa18546246e74756990f0
+D	views_slideshow.make	
+D	views_slideshow.make.example	
+M	views_slideshow.module	f719d6c2f07e687d309f769ac49874bb
+M	views_slideshow.views.inc	1c343b1bfb31826fe3529d31dd87374b
+M	views_slideshow_plugin_style_slideshow.inc	600f1afa3a05c45ed1786fd99852d72b

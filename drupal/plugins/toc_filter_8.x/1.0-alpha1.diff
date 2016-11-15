@@ -1,0 +1,13 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	NOTES.md	c26dbea9e0de00345048f313b221d620
+A	README.md	162eafb0601755ba9e31663439094624
+A	src/Plugin/Block/TocFilterBlock.php	0fe03c76eedda5cd3fdbdbd3e16c0355
+A	src/Plugin/Filter/TocFilter.php	9bd340821de9240df85ee07918b38b8a
+A	src/Tests/TocFilterBlockTest.php	98a486655f3f3771f32d57c7f68cfe6b
+A	src/Tests/TocFilterTest.php	bedd09361d4c4103c30037a1896c847e
+A	tests/modules/toc_filter_test/toc_filter_test.info.yml	42a025bf1464e162a21469e862588399
+A	tests/modules/toc_filter_test/toc_filter_test.module	51cec5886e6601caa78786809c8b32bf
+A	tests/src/Unit/TocFilterOptionsTest.php	7ceb3b9ce0d609b2a59209370fcf2fb6
+A	tests/toc_filter_example.html	1a08566c6163a8e15b32b6d4d7f8b239
+A	toc_filter.api.php	21c91124989406c3d372a4b383636465
+A	toc_filter.info.yml	d5248959c75936a2a37ebcc8477ac82d

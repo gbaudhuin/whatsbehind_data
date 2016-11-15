@@ -1,0 +1,5 @@
+M	config/schema/courier.schema.yml	9a84e75c935dbc9b1dd2195305fc8cf1
+M	courier.info.yml	f3fd918d43c543a827aabc181b06da44
+M	courier.module	875548f00ba7b836063adc32ce468345
+M	src/Entity/TemplateCollection.php	e4b73be9dcbbb5ca9ef919fbc4ef0dcc
+A	src/Tests/CourierTest.php	f7b73b850abf6d6be71fd539b2a80de1

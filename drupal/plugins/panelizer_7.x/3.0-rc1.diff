@@ -1,0 +1,46 @@
+D	CHANGELOG.txt	
+M	README.txt	24e2a5a929702da3eb777854f2408e81
+D	css/panelizer-ipe.css	
+M	includes/admin.inc	bc779a9adf785b0c190c62eabeb1e95b
+M	includes/common.inc	62f8c3aee7ac6d43f487867e271bc1a4
+D	js/panelizer-entity-bundle.js	
+D	js/panelizer-ipe.js	
+M	js/panelizer-vertical-tabs.js	f2edca9e9f1ac56215fb277cc4dafb6e
+D	panelizer.api.php	
+M	panelizer.info	8fff84bd11276fb9e2f050391247cd5b
+M	panelizer.install	18b4e737c8432bfe8a51dbb91b20f6f3
+M	panelizer.module	e95d59afcfd17887cbae59bfc7c3db86
+M	plugins/content_types/panelizer_form/panelizer_form_default.inc	b53a5591e9e3108d8585eedffd51a65a
+D	plugins/entity/PanelizerEntityComment.class.php	
+M	plugins/entity/PanelizerEntityDefault.class.php	447f59409415956005a3ad1a3758ce20
+M	plugins/entity/PanelizerEntityNode.class.php	710ff3b7e419358c65293e55880a377f
+M	plugins/entity/PanelizerEntityTaxonomyTerm.class.php	c710009cb6dd0e6cd29a887ad9cb66f9
+M	plugins/entity/PanelizerEntityUser.class.php	8650f37c8e0d5dece05676802788de9d
+D	plugins/entity/comment.inc	
+M	plugins/entity/taxonomy_term.inc	4281ba27a5ab4d95e68fae223c7b95d6
+M	plugins/export_ui/panelizer_defaults.inc	bd947e14a2e784841837018183c1335c
+M	plugins/export_ui/panelizer_defaults_ui.class.php	e7ef021008d3f7253859c7bcb0a06e7a
+D	plugins/panels_storage/panelizer_default.inc	
+D	plugins/panels_storage/panelizer_entity.inc	
+D	plugins/search_api/PanelizerSearchApiAlterCallback.class.php	
+M	plugins/task_handlers/panelizer_node.inc	57b6368b88e99c2c5447f6c31e0da570
+M	plugins/views/panelizer_handler_field_link.inc	2ba659e8f1460123d7fe7689c3dc0657
+M	plugins/views/panelizer_handler_filter_panelizer_status.inc	9eb940b4a6249d74fe3ba00a48afd43e
+M	plugins/views/panelizer_handler_panelizer_status.inc	7d4f78c9a2f2acb8a0d62911b454976b
+M	plugins/views/panelizer_plugin_row_panelizer_node_view.inc	0c9da0fa9950f27f431577538d7bffcd
+M	templates/panelizer-view-mode.tpl.php	594bc23052f0b5954dfcdaee28dddafb
+D	tests/panelizer.admin_settings.test	
+D	tests/panelizer.exportables.test	
+D	tests/panelizer.helper.test	
+D	tests/panelizer.node.test	
+D	tests/panelizer.node_content_translation.test	
+D	tests/panelizer.node_revisions.test	
+D	tests/panelizer.term.test	
+D	tests/panelizer.user.test	
+D	tests/panelizer.with_panels_ipe.test	
+D	tests/panelizer.with_pathauto.test	
+D	tests/panelizer.with_revisionining.test	
+D	tests/panelizer.with_views.test	
+D	tests/panelizer.with_workbench_moderation.test	
+D	tests/panelizer_test_exportables.info	
+D	tests/panelizer_test_exportables.module	

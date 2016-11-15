@@ -1,0 +1,83 @@
+M	lib/Drupal/xautoload/Tests/EnvironmentSnapshotMaker.php	f38765a8fd192abb0a773a7acc5962ca
+M	lib/Drupal/xautoload/Tests/XAutoloadUnitTestCase.php	b499e714a2cc35dcc5786b5a48d1c7e9
+M	lib/Drupal/xautoload/Tests/XAutoloadWebTestCase.php	4dfb75ba2a33e3c2d4a133e9ee00cbc0
+M	src/Adapter/LocalDirectoryAdapter.php	5e6169fbfb94c3e505d1907bc000062c
+M	src/CacheManager/CacheManager.php	9dbc70133beff4c130b5a5c5a7d85f44
+M	src/CacheMissObserver/CacheMissLoaderSetFinder.php	b287f3db028e7ac26106010384116ec5
+M	src/ClassFinder/ClassFinderInterface.php	820660a86946cafe19454338e90d97ef
+M	src/ClassFinder/GenericPrefixMap.php	2aaace6a7945eb306a46aabafb9a26e9
+M	src/ClassFinder/InjectedApi/InjectedApiInterface.php	0e3d35c5c87cd2b82b81e25c92184d95
+D	src/ClassFinder/Plugin/DrupalCoreRegistryPlugin.php	
+M	src/ClassFinder/ProxyClassFinder.php	b420bbb26c4dbe8bae7c8a759edf3b3a
+M	src/ClassLoader/AbstractCachedClassLoader.php	71eb80527f855fd39db5a81a24f04076
+D	src/ClassLoader/AbstractQueuedCachedClassLoader.php	
+M	src/ClassLoader/ApcClassLoader.php	e828ca01ebc6bea47cac07c331bf6470
+D	src/ClassLoader/ApcuClassLoader.php	
+D	src/ClassLoader/ApcuQueuedCachedClassLoader.php	
+D	src/ClassLoader/DbCacheClassLoader.php	
+M	src/ClassLoader/WinCacheClassLoader.php	3a7dc823e67de4c648839d99c5a92914
+M	src/ClassLoader/XCacheClassLoader.php	7eeaef4612b9d81e3f122d0a6a8ac18e
+M	src/DIC/ServiceContainerInterface.php	1254f1fb3f30b43708d3b2e7e7f151ff
+M	src/DIC/ServiceFactory.php	50ac8aea05a709b781a090d498a21fd7
+M	src/Discovery/CachedClassMapGenerator.php	b361bee796995f52feaaa8f5f2677324
+M	src/Discovery/ComposerJson.php	46c648d5574fa7afa0f29dedd2267c6c
+M	src/Discovery/ComposerJsonTargetDir.php	c591c9249d8706359e38d5efba02a795
+M	src/DrupalSystem/DrupalSystem.php	02ae9a30c751bea4574816b0d0a12db0
+M	src/DrupalSystem/DrupalSystemInterface.php	f529bc58c220359edc213b154fec095d
+D	src/Libraries/LibrariesFinderPlugin.php	
+D	src/Libraries/LibrariesInfoAlter.php	
+D	src/Libraries/LibrariesPreLoadCallback.php	
+D	src/Libraries/LibraryCacheMissObserver.php	
+D	src/Libraries/SerializableClosureWrapper.php	
+D	src/Phases/DrupalCoreRegistryRegistrator.php	
+M	src/Phases/HookXautoload.php	150d3af3fca5cfb98eec84244ce2a7a3
+D	tests/fixtures/.libraries/ComposerTargetDirTestLib/Foo.php	
+D	tests/fixtures/.libraries/ComposerTargetDirTestLib/composer.json	
+D	tests/fixtures/.libraries/ComposerTestLib/composer.json	
+D	tests/fixtures/.libraries/ComposerTestLib/other/Foo.php	
+D	tests/fixtures/.libraries/ComposerTestLib/psr4/Foo.php	
+D	tests/fixtures/.libraries/testlib/src/Foo.php	
+D	tests/fixtures/.modules/libraries/libraries.module	
+D	tests/fixtures/.modules/system/system.module	
+D	tests/fixtures/.modules/testmod/psr4/Foo.php	
+D	tests/fixtures/.modules/testmod/testmod.install	
+D	tests/fixtures/.modules/testmod/testmod.module	
+D	tests/fixtures/.modules/testmod_pearflat/lib/Foo.php	
+D	tests/fixtures/.modules/testmod_pearflat/testmod_pearflat.install	
+D	tests/fixtures/.modules/testmod_pearflat/testmod_pearflat.module	
+D	tests/fixtures/.modules/testmod_psr0_lib/lib/Drupal/testmod_psr0_lib/Foo.php	
+D	tests/fixtures/.modules/testmod_psr0_lib/testmod_psr0_lib.install	
+D	tests/fixtures/.modules/testmod_psr0_lib/testmod_psr0_lib.module	
+D	tests/fixtures/.modules/testmod_psr4_custom/psr4/Foo.php	
+D	tests/fixtures/.modules/testmod_psr4_custom/testmod_psr4_custom.install	
+D	tests/fixtures/.modules/testmod_psr4_custom/testmod_psr4_custom.module	
+D	tests/fixtures/.modules/testmod_psr4_src/src/Foo.php	
+D	tests/fixtures/.modules/testmod_psr4_src/testmod_psr4_src.install	
+D	tests/fixtures/.modules/testmod_psr4_src/testmod_psr4_src.module	
+D	tests/src/ComposerJsonTest.php	
+M	tests/src/DiscoveryTest.php	89817bb6b0ac7321865a8381158427a3
+M	tests/src/DrupalBootTest/DrupalBootHookTest.php	571da9bd071e21616f393719ff4dd883
+M	tests/src/DrupalBootTest/DrupalBootTest.php	cfd63821b8be631d3c5c94bceda345ba
+M	tests/src/Example/AbstractExampleModules.php	822523fdee7167ad8a1a1186abe910eb
+M	tests/src/Example/ExampleModules.php	46a8a55b5d48d352192d38fea99d15ba
+M	tests/src/Example/HookTestExampleModules.php	f19c6680d0c2cf34ac576dd40e1ab9e3
+M	tests/src/Mock/MockDrupalSystem.php	b4e5a794378718215aadb2805cb394aa
+M	tests/src/Util/CallLog.php	3eb8f540c7882c528c0ba47badda6a91
+M	tests/src/VirtualDrupal/Cache.php	1989d3eb3783ed5e07bd70d314ce748e
+D	tests/src/VirtualDrupal/DrupalComponentContainer.php	
+M	tests/src/VirtualDrupal/DrupalEnvironment.php	db85f03f8e5c7e81698f43723c9a8dd3
+M	tests/src/VirtualDrupal/LibrariesInfo.php	e2757f73e6e40644e6daf5bccbbaeabb
+D	tests/src/VirtualDrupal/LibrariesLoad.php	
+M	tests/src/VirtualDrupal/ModuleEnable.php	68ec53c6ba300f1f2439d4450b36458f
+M	tests/test_1/xautoload_test_1.info	8867f9434bdb233b9fe5821ceaefd186
+M	tests/test_2/xautoload_test_2.info	7e7f80c1c192866c6f7df4d13bf5988f
+M	tests/test_3/xautoload_test_3.info	d3500140d690640a4ff9463c356bbaab
+M	tests/test_4/xautoload_test_4.info	ea3f5c7cace19f8044f68f3c970ad1e9
+M	tests/test_5/xautoload_test_5.info	ab4ebed6181e8a237cb4c12513d3b898
+M	xautoload.early.lib.inc	ec1897b1ffb77b25134d1e8235e16a84
+M	xautoload.emulate.inc	dcfe2257354953b66bcb771a0f15969b
+M	xautoload.info	4b7bc4c2b2c3391290b67c4147361857
+M	xautoload.install	a9838cafb5badb71aa2e4254be99f975
+D	xautoload.libraries.inc	
+M	xautoload.module	b3f639557b786646a9ef6e81df22179e
+M	xautoload.ui.inc	f5157bb09475647284a1ddbcf262e366

@@ -1,0 +1,17 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README	dc75b534850abb2f4dc947c713ea83eb
+A	ckeditor/NodeEmbed/images/icon.gif	8bdfc1859881434045ae71a84c592ecb
+A	ckeditor/NodeEmbed/lang/en.js	4cae73da9647821eaafbbcf9be104efb
+A	ckeditor/NodeEmbed/plugin.js	3ce06228cc21943900f8dbe73da3cfba
+A	ckeditor/ck_nodeembed.css	b62c951c808c927e0e261750a9a82e39
+A	ckeditor/ck_nodeembed.js	1835b16418d10146e88a73ed4687cee1
+A	ckeditor/ckeditor_node_embed.view.inc	acb87600401b96416c0da6288b199cce
+A	node_embed.info	47a690d4bc2bdff1bc565f828138bbcc
+A	node_embed.module	8db6730111751a8ee82b265fc8f8a5b1
+A	plugins/images/icon.gif	8bdfc1859881434045ae71a84c592ecb
+A	plugins/js/node_embed.js	16df9a2a7399d7a654e21e8a0a96aef4
+A	plugins/node_embed.inc	96321ac1a7828b761bcf71d22910468c
+A	plugins/node_embed/node_embed.css	39b1dbee36a88378160140a704aaf26f
+A	theme/html--ckeditor-node-embed.tpl.php	832f882f8ea53a30fd711e984475197a
+A	theme/page--ckeditor-node-embed.tpl.php	43f73123c8f8e67863cd6017daf4830b
+A	views/views_handler_node_embed_add_area.inc	4d505cc3c6c6b59bd58c9a3d8be99d94

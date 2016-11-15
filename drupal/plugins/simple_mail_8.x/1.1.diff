@@ -1,0 +1,4 @@
+M	simple_mail.info.yml	7f1001e80499aaefb1a160592e82de35
+M	simple_mail.module	a9a88b8c37a56af98f2d49d26e193118
+M	simple_mail.routing.yml	dffb10b9ee2532988fb4927178887ce9
+M	src/Controller/SimpleMailSettingsController.php	58d4d73cc050ccc7cbeb8cf4f1b38771

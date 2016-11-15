@@ -1,0 +1,14 @@
+M	config/schema/crop.schema.yml	46227d433446f75beff9c21de3016b49
+M	crop.info.yml	0c2a55f369a51066fe3fcd55d738fe91
+A	crop.install	6edc050ff5d4c2f9ce5295d84fefefe0
+M	crop.module	a51a79d80d24e855cd4340ba33db5acd
+M	modules/crop_media_entity/crop_media_entity.info.yml	54a7920236d245ff80dec0131e2306ee
+M	src/CropInterface.php	b982d6e91b27ec3409dd9acc18557af9
+M	src/CropTypeInterface.php	3b2c54fbb729c6dd7bfbed479270ce1a
+M	src/CropTypeListBuilder.php	5b45fa313f91aff82938f957a763a112
+M	src/Entity/Crop.php	4ddaad7249cae769dd1105d9ae6e5490
+M	src/Entity/CropType.php	4eca3c0942367aec11938634247a8b3c
+M	src/Form/CropTypeForm.php	d03864ec80b7f7fb8a036ebbc61e12fe
+M	src/Plugin/ImageEffect/CropEffect.php	9f77c9f8aecd836140abb16f3a8024bc
+D	src/Tests/CropCRUDTest.php	
+A	tests/src/Kernel/CropCRUDTest.php	59c6e0076f2282b9aa73a6494685c99c

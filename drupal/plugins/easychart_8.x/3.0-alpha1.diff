@@ -1,0 +1,46 @@
+M	README.txt	9822c06e31a98e0dc66ac98c308826eb
+D	assets/icon-fullscreen.png	
+M	config/install/core.entity_form_display.node.easychart.default.yml	54cbc45fedc64264c70540d00bbecf37
+D	config/install/field.field.node.easychart.body.yml	
+M	config/install/node.type.easychart.yml	5274dcd133359345a3ebe77cb094f7b0
+D	config/optional/embed.button.chart.yml	
+M	config/schema/easychart.schema.yml	479b4245e9d845c43dfbef519da50830
+D	css/easychart.admin.css	
+M	css/easychart.widget.css	466c9f2e4d3884565c50ce90dc710263
+D	css/handsontable.full.min.css	
+M	drush/easychart.drush.inc	134b943b4468fdee9239aa177dc7a243
+M	easychart.info.yml	87ffc41f909a05e1efe91b509dea6858
+M	easychart.libraries.yml	5bc072328522df9884a959fafe5ff2f8
+M	easychart.links.menu.yml	cd987b2fe5b817cf707c6d4e629f4e95
+D	easychart.links.task.yml	
+M	easychart.module	70e05450a41ac5f082ecf4e76097a5d3
+M	easychart.permissions.yml	d6a405566e5044071c8cbf90f0371451
+M	easychart.routing.yml	3b77634332b7430060eaf1a9ea2f23a4
+D	js/easychart.admin.js	
+A	js/easychart.defaults.js	cb195363720ad2f7f41e6cbee3157eec
+M	js/easychart.render.js	137ac51317d48b4c844c59c9da2fdf7f
+M	js/easychart.widget.js	76688d23cff5b5b5c740884ed09814db
+D	js/handsontable.full.min.js	
+D	js/screenfull.min.js	
+A	modules/easychart_wysiwyg/config/install/views.view.easychart_charts.yml	3e35fae6b626e4ee454f90d9d2441bfa
+A	modules/easychart_wysiwyg/easychart_wysiwyg.info.yml	1780056a20525f7c9ec4b46696e62e32
+A	modules/easychart_wysiwyg/easychart_wysiwyg.libraries.yml	3806d0d999248177e6f677eee36075a7
+A	modules/easychart_wysiwyg/easychart_wysiwyg.module	0c230433c6a297cdaab12d0ed76a11a3
+A	modules/easychart_wysiwyg/easychart_wysiwyg.permissions.yml	c94917120e81bc1fd55a314c906cf729
+A	modules/easychart_wysiwyg/js/plugins/easychart/plugin.css	88eb485b9b0f7237f51894b08af40fbf
+A	modules/easychart_wysiwyg/js/plugins/easychart/plugin.js	86c3c9f15026d6a801538ae9098b3e4c
+A	modules/easychart_wysiwyg/js/plugins/easychart/popup.js	ff0a4ee85934d16d3a70bf58e362e88d
+A	modules/easychart_wysiwyg/src/Plugin/CKEditorPlugin/Easychart.php	ab8d0ce49926a37066747dcc6e607cc6
+A	modules/easychart_wysiwyg/src/Plugin/Filter/Easychart.php	dbd0cfa019e76fe3b853b94c8ff1c2f6
+A	modules/easychart_wysiwyg/theme/html--easychart-charts.tpl.php	00cc0da5dd18c11270889f4d61b03720
+A	modules/easychart_wysiwyg/theme/page--easychart-charts.tpl.php	43f73123c8f8e67863cd6017daf4830b
+D	src/EasychartHelper.php	
+D	src/Form/OptionsForm.php	
+D	src/Form/PresetsForm.php	
+D	src/Form/ResetOptionsConfirmForm.php	
+D	src/Form/ResetPresetsConfirmForm.php	
+M	src/Form/SettingsForm.php	e5799f9440d4b79f6e035792d7b163fd
+D	src/Form/TemplatesForm.php	
+D	src/Plugin/Field/FieldFormatter/Easychart.php	
+A	src/Plugin/Field/FieldFormatter/EasychartFormatter.php	66a98c281381739a4b2ab342df9c86e9
+D	src/Plugin/entity_embed/EntityEmbedDisplay/Easychart.php	

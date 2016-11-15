@@ -1,0 +1,14 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	composer.json	cb7f426afe3d12a0d622fa7575ab60cf
+A	pdf_api.info	14f10a98aa55f0d114b0453644a06394
+A	pdf_api.info.yml	ee97e07f6c6113dcf70c1e6e432ef20f
+A	pdf_api.module	0f3bb3640523616e3738e5528607f29a
+A	pdf_api.services.yml	0dcca168ece853347a12039e5a336c70
+A	src/Annotation/PdfGenerator.php	56467d9fac54fea808579de7dfb4ab80
+A	src/PdfGeneratorPluginManager.php	53b8b816cfa669a82cb7c6deb1437fe5
+A	src/Plugin/PdfGenerator/DompdfGenerator.php	a0487d785c788b306af9697a6af0c0d3
+A	src/Plugin/PdfGenerator/MpdfGenerator.php	fc615082fc40c82c82c80931a3739171
+A	src/Plugin/PdfGenerator/TcpdfGenerator.php	b1d9dfec199612973270be8874810fd4
+A	src/Plugin/PdfGenerator/WkhtmltopdfGenerator.php	1c55a9e87c3497dd423a93d031076564
+A	src/Plugin/PdfGeneratorBase.php	bb977a8b09233bf166bd1454d6236634
+A	src/Plugin/PdfGeneratorInterface.php	111d4a6509246c1ee1f45787f634fd79

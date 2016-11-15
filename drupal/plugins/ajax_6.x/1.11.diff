@@ -1,0 +1,10 @@
+M	README	15f2b078f9533fab5152800dbeb91747
+M	ajax.info	a9ce813b25247ca3f899b5507430c337
+M	ajax_ui/ajax_ui.info	ca4cc5bdb8b2961d6f71c483b702044f
+M	ajax_ui/ajax_ui.module	4235c3585eed25af3a7eb308c3b5a0a7
+M	plugins/captcha/ajax_captcha.info	58b9d850302aa369c03b3d6032232b62
+M	plugins/comment/ajax_comment.info	86c05e40ba2ab95372b183eb1d38ff9f
+M	plugins/loggintoboggan/ajax_logintoboggan.info	95489f72430698243c28fc90e743deed
+M	plugins/thickbox/ajax_thickbox.info	86ef206e69388a2b2ee1148bb8dac905
+M	plugins/tinymce/ajax_tinymce.info	554565e150413b19d6c765970a0d8ffb
+M	plugins/webform/ajax_webform.info	271d426869218511700411e240b1231f

@@ -1,0 +1,12 @@
+M	API.txt	cb2c86f63f3871fb6e4c01e06bffc149
+M	README.txt	e1fdd75896e4f47e78fc192ff76fccbc
+D	supported/.DS_Store	
+M	supported/field.inc	739cf33bcaedadb239cf8eff56ab1d7b
+M	supported/location.inc	c52b318d20c96defc52685168c2b25cb
+M	supported/user.inc	e827920e9e2e6e2f6935410554c61f46
+M	supported/user_import.inc	94eb8ed6b4e3b3b86132cdf1ca7ff3c5
+M	user_import.admin.inc	11bba654fea5bc1978ab78002c2196f1
+M	user_import.drush.inc	d7fd966ae4ca0d24bc7a78e237caaf79
+M	user_import.info	dd26eabd8628c0061c160bc4584e73b3
+M	user_import.install	f8da3ac10251010d363cf6b3ffa99a8e
+M	user_import.module	35afba2422f0766d14f23bc8bbe7d614

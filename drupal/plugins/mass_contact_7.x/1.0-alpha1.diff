@@ -1,0 +1,9 @@
+M	CHANGELOG.txt	175ab245479fa6e9608dc4753228003d
+M	README.txt	d4aba14e8930e5f05d7e5023284bb488
+M	mass_contact.admin.inc	85394aa24a04f8408e8ae747750dea4e
+M	mass_contact.info	25464233f04f2a9edf5926dfa253f056
+M	mass_contact.install	9f5d053d09174e2dc7c88aed26891e0b
+M	mass_contact.module	8d0e53ec76f6135b62bb5970a83abad6
+M	mass_contact.page.inc	9860dcc89c8649ee070bc682a99ea8a5
+D	plugins/mass_contact_role.inc	
+D	plugins/mass_contact_taxonomy.inc	

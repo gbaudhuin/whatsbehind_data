@@ -1,0 +1,34 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	3251504b147ea768d419e6dac11eae6b
+M	countries.admin.inc	8ecc79f39fcd1c3fdc9c071bc4f60449
+M	countries.csv	05ebc8b0b5e2ad8e3a899e4d16bada14
+D	countries.devel_generate.inc	
+D	countries.diff.inc	
+D	countries.elements.inc	
+D	countries.feeds.inc	
+D	countries.fields.inc	
+M	countries.info	28be732c6f0676a1ff54fc4b5a3c4f78
+D	countries.info.inc	
+M	countries.install	db69b49cd0bcdfc94540f9c17730d20e
+D	countries.migrate.inc	
+M	countries.module	decc0a208de64f014d06f5afc45459a8
+M	countries.tokens.inc	bea86131d9cd08b082f6d8a247078dcc
+A	countries_example/countries_example.install	23937d8c98e3f5da887236c4774f2c95
+A	countries_example/countries_example.module	58246253a555f190cc18f5499d4ac8f0
+D	modules/countries_configuration/countries_configuration.admin.inc	
+D	modules/countries_configuration/countries_configuration.api.php	
+D	modules/countries_configuration/countries_configuration.info	
+D	modules/countries_configuration/countries_configuration.install	
+D	modules/countries_configuration/countries_configuration.module	
+D	modules/countries_example/countries_example.install	
+D	modules/countries_example/countries_example.module	
+D	modules/countries_i18n/countries_i18n.info	
+D	modules/countries_i18n/countries_i18n.module	
+D	plugins/arguments/country_code.inc	
+D	tests/countries.test	
+D	tests/countries.test.csv	
+M	views/countries.views.inc	0be1f3c7a72dd0eb2adb57e6bb15e9f0
+D	views/views_handler_argument_countries_country.inc	
+M	views/views_handler_field_countries_continent.inc	91d92c3226bb0f215b394f09adebd58c
+A	views/views_handler_filter_countries_continents_list.inc	cfd79dba3258e59ede022cc8cb00f891
+M	views/views_handler_filter_countries_list.inc	b7fe22b75eb3ee885343ce9222dca7ec

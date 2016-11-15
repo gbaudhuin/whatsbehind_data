@@ -1,0 +1,18 @@
+M	CHANGELOG.txt	dd73f543d46d217d0b7a7adcecaa6e22
+M	README.txt	64dba7410c3499f6070adca6535b53e4
+M	fb_likebox.info	55430ba6aae966afca28d9ce277b181b
+A	fb_likebox.install	25ba6d39a9816cbcfba2a350311cf3cf
+A	fb_likebox.js	0871c6a4c4459fe179a9fcb94e11e11b
+M	fb_likebox.module	80af736cecf297b05c9ee0f81eb9ac33
+M	fb_likebox_patterns/fb_likebox_patterns.info	4856b64717a3a94df0cfb05633f547fc
+M	fb_likebox_patterns/fb_likebox_patterns.module	6ac6d7a82c2644074f8a1b7c228cff69
+A	fb_likebox_patterns/patterns/fb_likebox_default.yaml	bbd63bb1b2ca4b8ecffdabf329dba1f5
+D	fb_likebox_patterns/patterns/fb_likebox_faces_stream.yaml	
+A	fb_likebox_patterns/patterns/fb_likebox_maximal.yaml	69b1f02c335609a6821d044fc234680b
+A	fb_likebox_patterns/patterns/fb_likebox_minimal.yaml	6ee11327a9680bf0514d1de01ec12b66
+D	fb_likebox_patterns/patterns/fb_likebox_no_faces_stream.yaml	
+D	fb_likebox_patterns/patterns/fb_likebox_no_stream_or_faces.yaml	
+D	fb_likebox_patterns/patterns/fb_likebox_only_faces.yaml	
+D	templates/fb_likebox.tpl.php	
+D	translations/fb_likebox.es.po	
+D	translations/fb_likebox.pot	

@@ -1,0 +1,15 @@
+M	STARTERKIT/css/style-guide/chroma-kss-markup.twig	7709023f6c7fcb361931581b0df74a88
+M	STARTERKIT/css/styles.css	e0d1f09f84edf5eaf992a5fa21e43773
+M	STARTERKIT/gulpfile.js	c89bda3f01a4588b1b36dea9805abe5c
+M	STARTERKIT/package.json	bdcd769185a24f95ad23b55dbb42d809
+M	STARTERKIT/sass/components/tabs/_tabs.scss	d97c4b129b0a2c8550cc9ee6026879f0
+M	STARTERKIT/sass/style-guide/kss-only.scss	92e227c989b855a790d09bec6eed0913
+M	STARTERKIT/styleguide/section-sass.html	44dd30654e84a1aaa8c635b4b81bf503
+M	panels-layouts/zen_main/zen-main.tpl.php	e9ab6f9f61c7231984e9188966e71e95
+M	panels-layouts/zen_main/zen_main.inc	3829de87e0ff50c73a5e4586d0c4bae3
+M	template.php	6ab6ce45656997c3f046ce30e2e8a0fa
+M	templates/region--footer.tpl.php	2801229757085d45548f6b73856c3ba7
+M	zen-internals/css/styles.css	952cdcaacc58ad05e3e7fbeb073d712c
+M	zen-internals/gulpfile.js	93ad0dd6e5bc52bfa7d3500bc207d853
+M	zen-internals/package.json	d075b5e7263b1c46e69d0c40fc9e2297
+M	zen.info	912c0ab53de2a88cc0f07a0fe74eb59f

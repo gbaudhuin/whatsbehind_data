@@ -1,0 +1,11 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	css/pdf.css	2af9fb30723fa67d0396647934466f5a
+A	js/acrobat_detection.js	ff9a41a8a73ba4c5fb78198415aa3126
+A	js/default.js	f0f7bce3759688368b2698bf3579debf
+A	js/pdf.js	41f50e3a3f8b1448909de352131a4b87
+A	pdf.info.yml	8c374c5e24c6ef80654c19377c02a26e
+A	pdf.libraries.yml	63b07cdcfe5784f78317a22e446515c5
+A	pdf.module	e6f2a0434dbe2e94751ca31ca307b39c
+A	src/Plugin/Field/FieldFormatter/PdfDefault.php	9abe7fa3cfc98a1fc9dab4b175344f1d
+A	src/Plugin/Field/FieldFormatter/PdfPages.php	5743799a81897dacc26fb1436b514f77
+A	src/Plugin/Field/FieldFormatter/PdfThumbnail.php	e95171d66554c80b60f72a3bdacd0e4a

@@ -1,0 +1,17 @@
+M	README.txt	f8d1809c61d4ec9c1346d58264096c3e
+M	token.info	ef3952887b7fb055eb6207293ceb54a4
+M	token.module	2528cee76fff4899328aca187a19f9d9
+A	token.rules.inc	ba58d2c313d3b9b20757b3f674e8e3bf
+A	token.test	4dd623745131827389e8ff3597ac3cad
+A	tokenSTARTER.info	1d8ba8f72381d6a767396ebdce622a05
+A	tokenSTARTER.module	ba3ab678b26084681d67d60daa671a4c
+M	token_actions.info	52299f3e68e2e5bd5b66e173f0348307
+M	token_actions.module	dd609366b912d448a35d6160d946e798
+M	token_comment.inc	b06839ee98c6db5819f41d83ff521ab4
+M	token_node.inc	cef164ac0d1640d6d8a0751b73c17d16
+M	translations/de.po	42743f218b37e2fdc742450cd44e8aa3
+M	translations/hu.po	029f194736e63409eeefdffb26a1f5b9
+A	translations/pl.po	3ae8d6751eb2cc42d519ad6bf8741a97
+A	translations/sk.po	c04f0fee81407d4bc0a2ffcee6642a6c
+A	translations/uk-ua.po	b1f60956fe569015960c53061fe81b59
+A	translations/uk.po	49391d3657b99fb6ba1d473184220d4d

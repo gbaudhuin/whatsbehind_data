@@ -1,0 +1,13 @@
+M	cas.admin.inc	95ee2c16597cf8efc47db8e900719980
+M	cas.drush.inc	58f4fbfdda3a0909a114d4d222553c01
+M	cas.info	4991fe339e1d5084710a30498ab4e3cf
+M	cas.module	6536ed451641c4f271f52c3d6c872df9
+M	cas.test	698213987a409a8d326d513a74023089
+M	cas_server.api.php	8e7a064c56dd8ac99d04cfacd6bacb98
+M	cas_server.info	587f11511695a80dbc00a4d12472223b
+M	cas_server.install	628b083f5d7bfe508b0279121af92bf2
+M	cas_server.module	7062ac22c7b589fffc026ab93fe3b1c5
+M	cas_server.response.inc	d367cac12d8640e9e617517471389575
+M	includes/views/handlers/cas_handler_field_cas_name.inc	7d0a74492b452abe276117eaf6107f9d
+M	tests/cas_test.info	14602f1a2610dce7dcccca058daea625
+M	tests/cas_test.module	afe41f23172d030ebd94af7d841e2388

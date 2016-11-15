@@ -1,0 +1,10 @@
+M	record_shorten.info	99ea02c12ea6926440e7f9824dcb33c1
+M	shorten.admin.inc	ee48c457da18db6713e51d698672fc98
+M	shorten.info	44ccf333dafc7df01f5917781a8e388a
+M	shorten.module	13f70acdf73e4dfa7e09f4612cfad933
+M	shorten_cs.info	35d9b687c9fa5af2717e28a2f20c856a
+A	shortener/shortener.css	30bb90b974b048a059905d08b4f2269a
+A	shortener/shortener.info	a6d595dab61ba1979ebc94371fc69b99
+A	shortener/shortener.install	d032bce66f99cd081a7834cfac2a606c
+A	shortener/shortener.js	be1b4265e5db5048c569a626c9b5d6da
+A	shortener/shortener.module	4ad86963c8ef8678110925b8e9e9b442

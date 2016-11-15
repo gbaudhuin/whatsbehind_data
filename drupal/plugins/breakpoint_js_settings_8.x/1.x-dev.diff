@@ -1,0 +1,10 @@
+A	.gitignore	d1d0ad5a45bebd6d9eafc02a0a8d043d
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	breakpoint_js_settings.info.yml	96e1cc1ff6fc6e226cf6667450597c9d
+A	breakpoint_js_settings.links.menu.yml	7c1c1ea3de594cd5ed58e63f0ee4c57d
+A	breakpoint_js_settings.module	6389c2ea1839e2b4457a5871c20d5c05
+A	breakpoint_js_settings.routing.yml	c8070bf00cb2e3d49186c3e674fb4537
+A	composer.json	17699e9374a9b2f5cdc1b5c427efbe29
+A	config/schema/breakpoints_js_settings.schema.yml	7ad80a677a26fc3bbf3ae72702fed082
+A	js/breakpointSettingsLoader.js	e66918d536b43dc8db40c65b30659988
+A	src/Form/SettingsForm.php	a7a0137ca43601f2946486f727b95439

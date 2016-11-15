@@ -1,0 +1,16 @@
+A	README.md	6e0a07187f5c72ae8a5ef8555a57ce82
+D	README.txt	
+M	dfp.adtest.inc	9f8628c890b556ffddc031c33e7f6079
+M	dfp.info	e82ac018501c02e445d8bea2acfd3ad9
+M	dfp.module	5e603af3d76a1da404910c21ac6aad7e
+A	docs/images/available_tokens_2.png	4f42009a6ae8ed7d894a04fe3e84255f
+A	docs/images/background_ad_options.png	11677520746981550a35b1d4d1bdb677
+A	docs/images/dfp_target_individual.png	e81e2e0c1a62ae5f38fd576f26293a38
+A	docs/images/global_key_value_pairs.png	92f368bd112c017969eb3fd86328244e
+A	docs/images/global_tag_settings.png	0ba384b3cdebe25b7f10a951815597df
+A	docs/images/inject_javascript.png	6d237bd4d57748745a460c762734050a
+A	docs/images/list_tab_add_new.png	861d020f7e8a7a293e0ffde531683a08
+A	docs/images/moderation_state_dropdown.png	9b7aed18c6a45abbf0ac273799ff6682
+A	docs/images/taxonomy_options.png	36038bf4190c2dac07046c21c923a3ca
+M	plugins/contexts/dfp_context_reaction_sizes.inc	5737cee1e36e11609a6184abe28a0153
+M	plugins/export_ui/dfp_ctools_export_ui.inc	736bdc9a7bf9139892d9034b2975519b

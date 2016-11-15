@@ -1,0 +1,15 @@
+M	audit/storage_audit.info	4410cc79024bb4b8eb4d4f06e77915cc
+M	class.admin.inc	e58730815f27c40180d7d85d1d12058b
+M	class.inc	38b4fab7319ab25ebbe579adf2fa124f
+M	container.inc	fd682c81ddce97e2389ccc95f229b48d
+M	core_bridge/storage_core_bridge.info	c3cc6e7cf7afc7a827c55a477b8bb95e
+M	core_bridge/storage_core_bridge.install	aaf3707563eb0956a399379af08392d3
+M	core_bridge/storage_core_bridge.module	b8bbe764e96abe65c58f620f1ebf0fd4
+M	selector.inc	85d88255ea4b5ad8d41acb7467b2927c
+M	services/fs.inc	b962e8598e3adacc6744cadb6e913b9e
+M	statistic/storage_statistic.info	e3cc82de79ff21cebed77f8024ef4bca
+M	storage.inc	84c0df9ca4da0d78bc11cdadabd4d0ae
+M	storage.info	678cff03fac1cec514c3987d4dcf91ce
+M	storage.install	8c391b02c3a18d32aacc6fa0a4cca971
+M	storage.module	6c94e56b7a22a83a3df882060630a0ad
+M	storage.test	079393c34acba79e5cddab2e16d9aa28

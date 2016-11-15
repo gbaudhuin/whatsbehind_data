@@ -1,0 +1,55 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	b8bf7f2bbdc8dc9f719f393850d041a4
+A	css/close.png	fefca98931443d7e09b248f1ea3f2e26
+M	css/collapsed.png	dd6b70738db61d858a789463dde43587
+A	css/delete.png	4ba6115c7e95ff9d65d842833930626f
+A	css/error.png	935b608d1a96e744f78725e0a117ab5c
+M	css/expanded.png	1718e6a1186f3fdc7d885096637cbafd
+M	css/folder-open.png	f3a8ac9a73f440e83717c7d749f35f73
+A	css/folder-root.png	fd7e7aeccb2de5c1ffbbefe128bf2f96
+M	css/folder.png	1a6eeb19d4a144e9bde2e5db74f51bf1
+A	css/header.png	e6b14eca8e5b62f7f18ac6e967ee70e5
+A	css/help.png	0402950fc070fbad3e56e8d580a2b485
+M	css/imce-content.css	2d3d421a6d7b5b083f96dbcf05f4e7fd
+M	css/leaf.png	33271df68e14729f222e2c324c701f74
+M	css/loading.gif	07db3f05418d032716f01df93bd5de3f
+A	css/op.png	5da1cf43624d6c2d2e695eb3c06fc914
+A	css/ops.png	406e5da7be715bb80bb04cfdd788ee45
+A	css/resize.png	39f1b6e48f466491a741cc2ac23aee31
+A	css/sendto.png	e7bb072497b65c23f7a8e5cadc002f40
+A	css/status.png	d5876ebf538919d8e389c9c498339f21
+A	css/submit.png	1974acf6d9614d967343f2bdd70c4ebf
+A	css/thumb.png	844df8d037d69fb91c0a4d8d1f9bbff3
+A	css/tree.png	02a8a68d82df735e4342a8944d4194a8
+A	css/upload.png	b64510992256ff0ff74b4853ee9fd604
+A	css/view-box.png	d19f3ba84a71bdf342de9c4b041268fa
+A	css/view-list.png	27cc28afa4013195b4fe6bed731c4c6c
+A	css/warning.png	455602f6dfe76377321213ea710880c6
+D	css/x-grippie.png	
+A	css/x-resizer.png	cc14d767f7599e72e53fc4bee9b30858
+D	css/y-grippie.png	
+A	css/y-resizer.png	d8d69b99b6518a6a19c03184652628bb
+M	imce.info	ecc3d248e17a79a4607cdfce8af41ee1
+M	imce.install	35e1364cf38e2c394ea03eb094500efa
+M	imce.module	37a6fd06bdb939af3e529daebe0d008b
+D	inc/subdir.inc	
+M	js/imce.js	ae969ad83b6d7ff71768cbdb991944b3
+M	js/imce_extras.js	009f7ccb4009e2262b0bf60fbbdc9334
+M	js/imce_set_app.js	110fc9b35fea6f7e0083cfee7feb9a4e
+M	js/imce_set_inline.js	2b4634f43114e570d42113d00114b1a9
+A	js/jquery.form.js	9f82ca55e87622fe9eb75434dee34152
+M	tpl/imce-content.tpl.php	5c3d5c350927f0365077efb5f72e7cd3
+M	tpl/imce-file-list.tpl.php	e40c56f5eb5880205a37ab619220976f
+M	tpl/imce-page.tpl.php	1d74d96d3ef7b7edc1f84dd5352fdcc9
+D	translations/cs.po	
+D	translations/es.po	
+D	translations/fi.po	
+D	translations/fr.po	
+D	translations/hu.po	
+D	translations/imce.pot	
+D	translations/ja.po	
+D	translations/nl.po	
+D	translations/pt-br.po	
+D	translations/sv.po	
+D	translations/uk-ua.po	
+D	translations/uk.po	

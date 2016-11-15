@@ -1,0 +1,27 @@
+M	addons/nodequeue_service/nodequeue_service.inc	fc506479bad5c379db00aefadf351469
+M	addons/nodequeue_service/nodequeue_service.info	c29d3eb8aa352a532ff5e085c6d49350
+M	addons/nodequeue_service/nodequeue_service.module	939e9405e9376953ff9d5a66c5c2bcca
+M	includes/nodequeue.actions.inc	16b5b95590d04605c33bbf41cb9ebf02
+M	includes/nodequeue.admin.inc	63773108b5e92d693e8359d204a62240
+M	includes/views/nodequeue.views.inc	728479bc1978fad0209b7b30b2379854
+M	includes/views/nodequeue.views_default.inc	64706af4f8e4bae3b5d0fbfc7608e58a
+M	includes/views/nodequeue_handler_field_all_queues.inc	1a7a67bd8df6e5b8c3d1ccb687562b90
+M	includes/views/nodequeue_handler_field_all_subqueues.inc	5f7cf31ddeabbe253da28ea6d1050b31
+M	includes/views/nodequeue_handler_field_queue_tab.inc	72eba526f1ad842b1a12a1cf1cf1a33f
+M	includes/views/nodequeue_handler_relationship_nodequeue.inc	72eabfa9eab637fe506eea6bef023a6a
+D	includes/views/nodequeue_handler_sort_in_queue.inc	
+D	nodequeue.api.php	
+M	nodequeue.info	c05f7daf1f05f746a80244a89b008c39
+M	nodequeue.install	25c3da602e628a3549d01ebf5cce4487
+M	nodequeue.js	dba5b7324be614c1c25f808807877c13
+M	nodequeue.module	4cdd516183cc15ebf069104aa156f053
+D	nodequeue.rules.inc	
+M	nodequeue_dragdrop.js	d65bfefab62620b67b0bd4821537842a
+M	nodequeue_generate.drush.inc	d7f21714e35c9bf85039ac48f2384b5b
+M	nodequeue_generate.info	3035dc3be9b3ae83b0aa7edebb04abad
+M	nodequeue_generate.module	0be62eecf72348338b50c1ee0626076c
+M	smartqueue.info	2e9c4f130238b989a967e4e766082271
+M	smartqueue.install	8a6056e8ec7bdf2e8d4cffbf653c857f
+M	smartqueue.module	ba9b41ab65b775672552fd5b732986f6
+D	tests/TESTING.txt	
+D	tests/nodequeue.test	

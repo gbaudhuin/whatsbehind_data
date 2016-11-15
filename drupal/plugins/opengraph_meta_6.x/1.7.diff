@@ -1,0 +1,9 @@
+M	CHANGELOG.txt	00a39c0a33de2e0e296d55d4f2ae1e68
+M	opengraph_meta.common.inc	931b69c3ebded4d9226b7087de88f415
+M	opengraph_meta.info	0d1626e93c02cd962a20ea87b1973478
+M	opengraph_meta.module	c3cfa8cc137f879413a07f4f4adce6aa
+M	tests/Basic.test	067862d2843bfab596e1e4b6a2df53cd
+A	tests/Hooks.test	133f7fe60e84016e53672f6bf9322ed5
+A	tests/TestBase.inc	1ca6a84d14a18e33ad819a86c1f54e32
+A	tests/opengraph_meta_test_module/opengraph_meta_test_module.info	2b5ba1198b163c0b83ff78f03f19a100
+A	tests/opengraph_meta_test_module/opengraph_meta_test_module.module	5ea0458ab6a7374534c3a54b362afa84

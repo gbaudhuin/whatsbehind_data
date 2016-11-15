@@ -1,0 +1,13 @@
+A	README.txt	686e345dc4e3926ffb5ca25472565318
+A	filefield_sources.api.php	ad5e6c12f3072777ecba9d28c3ff28d9
+M	filefield_sources.css	fe56a8d15e868af51d7d73eab9ed3c5e
+M	filefield_sources.info	d736ace822f24d89fe934ef58bb06fd2
+M	filefield_sources.install	fecf5136a4ba43367d7557ee9c471511
+M	filefield_sources.js	450493dc127dfc6aa90ec8b192c73695
+M	filefield_sources.module	3e078c07d2ac244fd0fb68be405160b8
+M	sources/attach.inc	ab7962b750412e2eb79cd7c68fd9d4b6
+M	sources/imce.inc	3254f2849f626c2bf67bb990ff84ad56
+M	sources/reference.inc	5b0e37d5502d38a9f04e101b7b71fd7c
+M	sources/remote.inc	23e7ae1ccf0b48f8a97b8fbb04c0c532
+D	translations/pt-br.po	
+D	translations/sv.po	

@@ -1,0 +1,6 @@
+M	cacherouter.info	6c554fee3a4f0fee8453d36b68cb552b
+A	engines/apc.php	445e32591343655ab4c9d93295c92ce9
+A	engines/db.php	85ce6b78078acf7b1300a9c633fd4c8e
+A	engines/file.php	0c277b3dbf007eb087cf9e6b0dce7ed4
+A	engines/memcache.php	45b449bcd29ed8f47931e5fb89ff4525
+A	engines/xcache.php	25eb4714da7619add381aad61c5e92ea

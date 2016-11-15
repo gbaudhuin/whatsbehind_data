@@ -1,0 +1,54 @@
+D	README.txt	
+M	config/install/image.style.juicebox_large.yml	017252a8965a90b035ae5587e88bfafc
+M	config/install/image.style.juicebox_medium.yml	aea60f2cfab8972fb1b2699a3f5834a5
+M	config/install/image.style.juicebox_small.yml	525ac37f7d7a8eae056acd979430ad4a
+M	config/install/image.style.juicebox_square_thumb.yml	18b321948e7384ca503682f3aee83d3e
+M	config/install/juicebox.settings.yml	2060a69e3a1d1789035a6f10d44913e3
+D	config/schema/juicebox.schema.yml	
+D	css/admin_styles.css	
+A	css/juicebox_drupal.css	30847a1bd7b25115c5b9e96fb401778f
+A	images/mimetypes/application-octet-stream.png	28b3ac7b8530374a31e62fb07c05c904
+A	images/mimetypes/audio-x-generic.png	20c5cc061bb452e01c59407eacb7268b
+D	images/mimetypes/text.png	
+D	js/juicebox_load.js	
+D	juicebox.api.php	
+M	juicebox.info.yml	8117347338bbc00b94158c1a1547bb21
+M	juicebox.install	2be57787e3723939baabcf49492a6ae2
+D	juicebox.libraries.yml	
+M	juicebox.links.contextual.yml	b73af5bfe00d9ce41ff7d47ba5de8e3c
+M	juicebox.module	08a9c30df7f36345e0f2b37d8500e830
+M	juicebox.routing.yml	8984176ef39b64d1445ea0f613b11b0f
+D	juicebox.services.yml	
+M	src/Controller/JuiceboxXmlControllerBase.php	a152db625fb3acca5cf28aa6c558afa5
+M	src/Controller/JuiceboxXmlControllerField.php	d722b40f9539045cb14337da41c812f6
+D	src/Controller/JuiceboxXmlControllerViewsStyle.php	
+M	src/Form/SettingsForm.php	6ff23ffb88b0776bcace68fbbb290dbf
+D	src/JuiceboxFormatterInterface.php	
+M	src/JuiceboxGallery.php	5d3bd6f504cc0ae4fc88df2eea7d9bad
+A	src/JuiceboxGalleryDecorator.php	044f4799a8541a1cdbf76a5c3be57be5
+A	src/JuiceboxGalleryDrupalInterface.php	be0170d73190da6af3cd157246bd549a
+M	src/JuiceboxGalleryInterface.php	573da757c28c21df31365517db4c5882
+M	src/Plugin/Derivative/JuiceboxConfFieldContextualLinks.php	ac005fd2c978a410f2045f9f6c6284b7
+D	src/Plugin/views/style/JuiceboxDisplayStyle.php	
+M	src/Tests/JuiceboxBaseCase.php	72b2fdfa937d7a81b9df05cd111fda3b
+M	src/Tests/JuiceboxConfCase.php	aaa37cf352d8d784cc768631dcc53cf8
+M	src/Tests/JuiceboxConfGlobalCase.php	7412e22f56c1965bad2871d404a4566d
+M	src/Tests/JuiceboxFieldFormatterCase.php	b41eb0ba9c01b644b867dd6eac57f544
+M	src/Tests/JuiceboxFileCase.php	a08633fe3607640e193b38a7d50d5a39
+D	src/Tests/JuiceboxSubRequestCase.php	
+D	src/Tests/JuiceboxViewsCase.php	
+D	templates/field--juicebox-relative-width.html.twig	
+M	templates/juicebox.theme.inc	b03ad462068bd67ba828e1c313daf2d0
+D	tests/modules/juicebox_mimic_article/config/install/core.entity_form_display.node.article.default.yml	
+D	tests/modules/juicebox_mimic_article/config/install/core.entity_view_display.node.article.default.yml	
+D	tests/modules/juicebox_mimic_article/config/install/core.entity_view_display.node.article.teaser.yml	
+D	tests/modules/juicebox_mimic_article/config/install/field.field.node.article.body.yml	
+D	tests/modules/juicebox_mimic_article/config/install/field.field.node.article.field_image.yml	
+D	tests/modules/juicebox_mimic_article/config/install/field.storage.node.field_image.yml	
+D	tests/modules/juicebox_mimic_article/config/install/node.type.article.yml	
+D	tests/modules/juicebox_mimic_article/juicebox_mimic_article.info.yml	
+D	tests/modules/juicebox_test_views/config/install/filter.format.basic_html.yml	
+D	tests/modules/juicebox_test_views/config/install/views.view.juicebox_test_row_formatter.yml	
+D	tests/modules/juicebox_test_views/config/install/views.view.juicebox_views_file_test.yml	
+D	tests/modules/juicebox_test_views/config/install/views.view.juicebox_views_test.yml	
+D	tests/modules/juicebox_test_views/juicebox_test_views.info.yml	

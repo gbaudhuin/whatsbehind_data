@@ -1,0 +1,12 @@
+M	pm_block_user/pm_block_user.info	8734071dd21cbd798669f0fd799ece65
+M	privatemsg-recipients.tpl.php	ef2657d2a4d29c6ad4d381588ec35b2d
+M	privatemsg-view.tpl.php	cb582ee6edc0357c953c39160ea65d64
+D	privatemsg.css	
+M	privatemsg.info	ca42a9b4ceead9fd147aa3fc4c67129d
+M	privatemsg.install	4bceb908d243ef2d1e0943c3563cba1c
+M	privatemsg.module	5646f388cf92a932d7027621d2ec5a31
+M	privatemsg_filter/privatemsg_filter.info	655d17faefd348e60219f7ce872a7cf1
+D	privatemsg_hook.php	
+D	privatemsgapi/privatemsgapi.info	
+D	privatemsgapi/privatemsgapi.module	
+M	styles/privatemsg-view.css	040e808e58c9873bf0c7cafaf67c7330

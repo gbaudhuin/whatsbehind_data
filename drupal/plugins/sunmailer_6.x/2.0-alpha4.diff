@@ -1,0 +1,15 @@
+M	html-default.xsl	b4f9b5366f4149e2ca8e0f0dc311f222
+A	isunmailersubscriber.interface.php	c62b12511be6a89ad2d4fd64f34454a1
+M	sunmailer.admin.inc	614e587e6ce4b1625d79e8150e933b76
+M	sunmailer.info	4966029a69621a8565182ee24d05bb5e
+M	sunmailer.install	31d433ec95893a33a0557d5f6bd38b95
+M	sunmailer.mail.inc	3aff6c292eaa50e2e73d873dc04d7169
+M	sunmailer.module	d9b4f6ba4ce00c08ed51ecfe791671d7
+M	sunmailer.subscribe.inc	b365f27419fb03d495f798502a56d9d2
+D	sunmailer.util.inc	
+D	sunmailer.xml.inc	
+A	sunmailercontentbuilder.class.php	2bbeffe33b65ff95d9dfddffdfd3c0d9
+A	sunmailermailer.class.php	f0f40109dfcc3e9b8d6b7ad1553221d6
+M	sunmailernewsletter.class.php	03d74134b43b2f2f2696ef5765d6984a
+M	sunmailersubscriber.class.php	088d41a1a81bb7ebc16d19a5dc2c0bf2
+M	text-default.xsl	5c76d74ae213569292c70290e8397e10

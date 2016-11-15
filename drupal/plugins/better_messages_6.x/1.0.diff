@@ -1,0 +1,12 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	better_messages.inc	
+M	better_messages.info	27cfae926b98d283e5fd791abfeb9074
+M	better_messages.install	1da1085951be888643ac8c2948736da1
+M	better_messages.js	23b180d748db5473d40a4fe4eba22bac
+M	better_messages.module	f282c71611c71f7c6a8029e34e8b8a75
+M	better_messages.tpl.php	701677a2d27f879a726616d6ca20ee85
+D	better_messages_admin.css	
+D	skins/default/better_messages-rtl.css	
+D	skins/default/better_messages.css	
+A	skins/default/default.css	1ee6e7b7c6cace8382bd258125db2287
+D	skins/default/images/admin_icon.png	

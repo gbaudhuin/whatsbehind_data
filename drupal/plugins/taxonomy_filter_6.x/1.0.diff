@@ -1,0 +1,34 @@
+M	API.txt	2e33357e9d4d17e6ef2e3439e86c46bc
+M	CHANGELOG.txt	7b2f06cf883bd33114c6ac4fbe0c38dd
+M	INSTALL.txt	dedf8f09c0e059c2dbd2e5a083711167
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	2795bf24cb2659c767605d363dc60ad3
+M	taxonomy-filter-admin.css	5a588506dea67bac9ebd1f3859e1e041
+M	taxonomy-filter-item.tpl.php	c71f4c17572809d8d009ef30dbb593df
+M	taxonomy-filter-section.tpl.php	1164b4277acbe808c5b96d84f3991a13
+M	taxonomy_filter.admin.inc	306a0e53ea2f3670968c5c0174a1613e
+D	taxonomy_filter.api.php	
+M	taxonomy_filter.base.inc	5ba01a0fc1b4f124dc42a855037351af
+M	taxonomy_filter.css	2712906d529194bba365092c77df4954
+M	taxonomy_filter.info	5624b88086389e3bddbc520da2d7432a
+M	taxonomy_filter.install	12a4805bd2d43cedd2a62eba21945f05
+M	taxonomy_filter.module	c88b622a36705cf32e68e02eb67e96b7
+D	taxonomy_filter.test	
+M	taxonomy_filter.theme.inc	53e4f5e562ef67b4d8036e5810bec591
+A	tests/taxonomy_filter.test	a498a96abc2cbcc9f1d38f4cb4b4b687
+D	tests/test_data.php	
+M	tf_cloud/tf-cloud-item.tpl.php	07c899703cc6683fb403db49960f4e84
+M	tf_cloud/tf-cloud-section.tpl.php	5c56e7fdcf657120042b31fc2b949c66
+M	tf_cloud/tf_cloud.css	b8a9fb9e3caea7d8bee57219ca529e48
+M	tf_cloud/tf_cloud.info	b135a0258dd8c898f28b87af31c09bad
+M	tf_cloud/tf_cloud.module	a44f2208a4ce598ca224afe38b0d87cd
+M	tf_context/tf-context-section.tpl.php	1612c296c62090249fff95cbee7dc69b
+M	tf_context/tf_context.info	d6aa20c2b8acfaf4d6a4456b5f922325
+M	tf_context/tf_context.module	70228e5c0f56daca0c14c0501df34b11
+M	tf_count/tf_count.info	fac3ea62ef1f3b9038ac5a7675af5c00
+M	tf_count/tf_count.module	5069fbf223ee15d52bbd0945271457df
+M	tf_dynamic/tf_dynamic.info	c97fa201695979f4de9686ef55283d22
+M	tf_dynamic/tf_dynamic.module	afe7d4cb8cd0b877ec81539a175ce93d
+M	tf_multi/tf_multi.css	a28228f669637daa63d8965077519092
+M	tf_multi/tf_multi.info	d0a20550e5fd7ff4bd36caab94af887a
+M	tf_multi/tf_multi.module	bb430e29035ea02df65e7735de2719af

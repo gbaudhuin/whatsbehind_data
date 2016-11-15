@@ -1,0 +1,28 @@
+A	API.txt	b950ab1339e82c3dfe9ce7af27e1126d
+M	README.txt	6746ebc45b18a4788c7bd294f481b962
+A	content_lock.admin.js	52c65988ac8233cb1c0e6cb7b4b7abeb
+M	content_lock.info	3b8891456a5d90f8e89e309d95d3d3bd
+M	content_lock.install	b2f22433258fd0334deb6bd4a6dcb9e8
+M	content_lock.module	9edfaa3fe481446264634e72958e8f6a
+D	includes/content_lock.ajax.inc	
+D	includes/content_lock.forms.inc	
+D	includes/content_lock.func.inc	
+D	includes/content_lock.node.inc	
+D	includes/content_lock.pages.inc	
+D	js/content_lock.admin.js	
+D	js/content_lock.core.js	
+D	js/content_lock.init.js	
+D	js/content_lock.url.js	
+A	js/content_lock_init.js	1eae98dd2864a3cf684488357366ab75
+A	js/jquery.url.packed.js	5dbb9962e457f9fc9625b5163ff8bd2b
+A	js/onUserExit.js	0b07c9911ba8bab978f08d2f1ccf762d
+M	modules/content_lock_timeout/README.txt	3633d4bdf976f14cce89d46e3a6da3f2
+M	modules/content_lock_timeout/content_lock_timeout.info	23f42927e68ac2d182f437c5d1a99da9
+M	modules/content_lock_timeout/content_lock_timeout.install	056543b5aba773dc7d0df69bd7537c22
+M	modules/content_lock_timeout/content_lock_timeout.module	09e3449831197e03e5b793f125c48dcc
+D	plugins/access/node_lock.inc	
+D	views/ContentLockViewsHandlerFilterLocked.inc	
+D	views/ContentLockViewsHandlerSortLocked.inc	
+M	views/content_lock.views.inc	36b1e8a79c1893dc2a497bf191075376
+A	views/views_handler_filter_is_locked.inc	ba7b6c36f1cd751fa7c25b11e5e646d2
+A	views/views_handler_sort_is_locked.inc	d71301411890b5f3bfd68626af8c683b

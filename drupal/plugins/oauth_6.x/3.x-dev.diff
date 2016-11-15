@@ -1,0 +1,42 @@
+A	CHANGELOG	f6e090d0a1bfbb9575c8c1d039149826
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README	af400ba1c50155aae085dcc273aecd8c
+D	README.txt	
+A	css/admin.css	a1f3ca91103319d4ee2ffc269379d71a
+A	includes/DrupalOAuthClient.inc	a2792502f21cf4ec361569601c5ba033
+A	includes/DrupalOAuthConsumer.inc	f08e516b8fd3f286211fb40b5327880a
+A	includes/DrupalOAuthDataStore.inc	d8398105ac5a48c9ac47b49c97c05d21
+A	includes/DrupalOAuthRequest.inc	6630c50b596cb8766416f7efe84db8bc
+A	includes/DrupalOAuthServer.inc	c6db25b9f3e28e949f983196ab3bc96f
+A	includes/DrupalOAuthToken.inc	52c62bc5340795b2f489259bb9c0a64b
+A	includes/OAuthSignatureMethod_HMAC.inc	e8f8e7a64457e5ddd47e15f33b0cf3f1
+A	lib/LICENCE.txt	1c11373892b85d98ec6499e5e9b25dc4
+D	oauth.admin.inc	
+D	oauth.inc	
+D	oauth.info	
+D	oauth.install	
+D	oauth.lib.js	
+D	oauth.module	
+A	oauth_common.admin.inc	51da32651a09c011d3a4be3935188e57
+A	oauth_common.authorizations.inc	7df4db44b7d6ef118b94bfbb9e097346
+A	oauth_common.consumers.inc	addac549f876930b0d4a638ba480fba1
+A	oauth_common.inc	e8c4a3ed8777e87d8da2ed36e84214dc
+A	oauth_common.info	e29a48ab709254c9d4d5febf64eeb65e
+A	oauth_common.install	5627c26b355b49837103dbb0ed4caa5f
+A	oauth_common.module	ddfd267b6a5e32aa06d99afa337839d1
+A	oauth_common.pages.inc	9b342e64993e7d2c4241eaaa7bf9459f
+A	oauth_common_auth_level.tpl.php	d0bbf712f8e8116e39a8b5bb0b219012
+A	oauth_common_providerui.info	941f0b7c93290031371dd8c953bea3fc
+A	oauth_common_providerui.module	3768768facbd62e76da5cd28c7ce9c95
+D	oauth_test/README.txt	
+D	oauth_test/oauth_test.info	
+D	oauth_test/oauth_test.install	
+D	oauth_test/oauth_test.module	
+A	updates/update.6001.inc	ebc05a76abd3171b2b5d196099529b37
+A	updates/update.6002.inc	e8448b32417a867a07a37e753f394e5f
+A	updates/update.6003.inc	e81f963f4e5e61a9265c14cb153c81ed
+A	updates/update.6100.inc	bc420117a12ac46f9db36b2542d0947c
+A	updates/update.6200.inc	f75545bdcf1057c30d1e95307097d5f7
+A	updates/update.6201.inc	43594e3b7c4befe0757f1dadfa4a703a
+A	updates/update.6202.inc	7d812d24bad63fae388dfddf05baf086
+A	updates/update.6300.inc	3b36a44f46e30adfcfa8afa3c5a8cb41

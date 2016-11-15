@@ -1,0 +1,11 @@
+M	contrib/location_addanother/location_addanother.info	cb38adc884ba146338dcd59f590e3a47
+M	contrib/location_cck/location_cck.info	49fe6742eef489963b168b7212c921b9
+M	contrib/location_fax/location_fax.info	1c6f0154690c1ab5303a6cecf0c8d84c
+M	contrib/location_generate/location_generate.info	832f26ef283e09d4bf67605fb23a9d0e
+M	contrib/location_phone/location_phone.info	eecfa333ec71246597010ecc4f57f4eb
+M	contrib/location_search/location_search.info	b1203f4b076b03a9f83adce1919adafd
+M	contrib/location_taxonomy/location_taxonomy.info	c53bdb2bd7605a2586d0c6fa781f1d12
+M	geocoding/google.inc	6dc63551be982dcde4638561651a43f0
+M	location.info	f51a397f2284ca1fe832de2de13a25e8
+M	location_node.info	4f01a60285bc536f9ab5861e3982506f
+M	location_user.info	f7867657c1a0e97c2fc6a81961135664

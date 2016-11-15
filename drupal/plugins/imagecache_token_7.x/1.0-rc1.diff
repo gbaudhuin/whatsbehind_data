@@ -1,0 +1,6 @@
+M	CHANGELOG.txt	8f8efcf45009dddd27ffb1e8741017dd
+M	README.txt	b0c7d5754e1fe04185eca11d13c13d96
+M	imagecache_token.admin.inc	34a2aecf5ccfb33ca60792f92571a9f4
+M	imagecache_token.info	416ef3544b84ce05694badbdc01a7bce
+M	imagecache_token.module	f03e1a2bb63cb6306450010789d12583
+D	tests/imagecache_token.test	

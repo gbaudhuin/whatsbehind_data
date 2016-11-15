@@ -1,0 +1,19 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	README.txt	
+D	user_stats.admin.inc	
+D	user_stats.api.php	
+D	user_stats.author-pane.inc	
+M	user_stats.info	67dc19f19640fd9c2eb6480460a1ed32
+M	user_stats.install	8aec220f315109fd653d6ad00400a8c9
+M	user_stats.module	5300aa5ce6d3443c2beb1240d0ed53fe
+D	user_stats.rules.inc	
+D	views/user_stats.views.inc	
+D	views/user_stats.views_default.inc	
+D	views/views_handler_field_ip_user_count.inc	
+D	views/views_handler_field_is_online.inc	
+D	views/views_handler_field_user_ip_count.inc	
+D	views/views_handler_field_user_picture_bare.inc	
+D	views/views_handler_filter_is_online.inc	
+D	views/views_handler_sort_ip_user_count.inc	
+D	views/views_handler_sort_is_online.inc	
+D	views/views_handler_sort_user_ip_count.inc	

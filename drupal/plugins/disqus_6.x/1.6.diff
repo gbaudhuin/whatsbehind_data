@@ -1,0 +1,5 @@
+M	disqus.info	e9d0f899abcbc6427fc12d371991a097
+M	disqus.module	768337987b860fec7e6c03b1e7e5fe6a
+M	disqus.views.inc	04771e3469663930bca7e39fca484d8b
+M	disqus_migrate.info	1f5b4a85c19de6cf5c701b5714151052
+A	include/views_handler_field_node_disqus_comments.inc	aa01ae057e1213d4f06a510d49abd01e

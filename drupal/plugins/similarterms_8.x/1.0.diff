@@ -1,0 +1,6 @@
+M	similarterms.info.yml	b874edecf926c15a5f4b9539de0c76b6
+M	similarterms.module	952128ac2e47e41d73384b131b7c8c02
+M	similarterms.views.inc	4019544f63927074d7e770af63aa3de4
+M	src/Plugin/views/argument/SimilarTermsArgument.php	3f52d2d1cd39f9a0f504db3de5eb8692
+M	src/Plugin/views/field/SimilarTermsField.php	30fa996c57e3198da96d2e237b561c9a
+M	src/Plugin/views/sort/SimilarTermsSort.php	8dc6094a94155b7bc31f4d17ad6848a1

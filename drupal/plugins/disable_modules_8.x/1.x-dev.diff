@@ -1,0 +1,11 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	disable_modules.drush.inc	934be1ecaea41292c892213aed3c0624
+A	disable_modules.info.yml	c8259ed945b9ffe7ffd42c9634f151a6
+A	disable_modules.links.task.yml	32daf4dea4828aee7448fe7be5d03a37
+A	disable_modules.module	4c6f09a363d474dc0746bae1254e9003
+A	disable_modules.routing.yml	793b5b0ba9b3982a986655261b06fcfd
+A	src/DisableModulesServiceProvider.php	f3f103b804a198b20f301906d47aebc7
+A	src/Extension/ModuleInstallerDisableModules.php	835ef3211c605e44ccf732e7f4f0458b
+A	src/Form/ModulesDisableForm.php	d413816b9ff0d8af7cbe17a8308e1318
+A	src/ProxyClass/Extension/ModuleInstallerDisableModules.php	b6f3eab2d6de0dc1f8d531a92dcfcf56
+A	templates/disable-modules.html.twig	38c3a02e97e17b05947d29924cd1f190

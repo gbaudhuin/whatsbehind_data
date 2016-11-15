@@ -1,0 +1,13 @@
+A	CHANGELOG.txt	49460e3c1d1ab1dbb4ccbe86194fc714
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	80fb42bc114a157b570520386d772db4
+A	views/views_send.views.inc	80c581f9d65e51e892ebc7f1e3147462
+A	views/views_send_handler_field_selector.inc	1b028c1249f1c903eb48d08c0000ff85
+A	views_send.admin.inc	96b36b02ca0c6ae4a1304da030a33112
+A	views_send.cron.inc	2d5e0e48ba1dcd54c609be77933a31ad
+A	views_send.css	20bf7d9c312e720df5ce16bcc6c8ccce
+A	views_send.info	f071f0aa8693de43e45b644f4089ade8
+A	views_send.install	b5c0f7b178dd293a047392805ea39fc1
+A	views_send.js	8e0b82892cca15ca890317d66308388e
+A	views_send.module	6de0aef34ca5bafc535001c05b5d9fbb
+A	views_send.rules.inc	f2da4049dd187cd8af1033ee1cde353e

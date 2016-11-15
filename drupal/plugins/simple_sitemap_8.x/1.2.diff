@@ -1,0 +1,4 @@
+M	simplesitemap.info.yml	515726e2ceec3e32e6de5e57e7a43b55
+M	src/LinkGenerators/EntityTypeLinkGenerators/node.php	43849841b95eb1d71ecd12dbe4765142
+M	src/LinkGenerators/EntityTypeLinkGenerators/taxonomy_term.php	90a81abee0cdecdaf88905f6404ec1df
+M	src/SitemapGenerator.php	0aae7ddc8ee4d7d9993c9df7116e4d2a

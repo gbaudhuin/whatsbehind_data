@@ -1,0 +1,11 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	config/install/scroll_to_top.settings.yml	e24a9977f6f2141a4a789ca6ecd8ccc2
+A	css/scroll_to_top.css	2fde06a22802345f94bc32157f4526b1
+A	images/up-arrow.png	1e0b024b9ed269ca95ece6b5c07c2bb0
+A	js/scroll_to_top.js	921a0bef4731f57670ac75485cde4527
+A	scroll_to_top.info.yml	d9fd6ec82e680e50daeb2129b729d012
+A	scroll_to_top.libraries.yml	e16635708e43fe3e84f86e92eb744064
+A	scroll_to_top.links.menu.yml	0364db0439a6871a0a4d4c30e4945362
+A	scroll_to_top.module	c6b9e620d6ace60253b6951da324d99d
+A	scroll_to_top.routing.yml	57dec2f4d15cc204bb758f51dbf55e68
+A	src/Form/ScrollToTopForm.php	cdd2761e098261f4fa9a850ed5813435

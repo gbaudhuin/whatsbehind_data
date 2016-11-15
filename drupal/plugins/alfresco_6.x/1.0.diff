@@ -1,0 +1,385 @@
+M	CHANGELOG.txt	d314a1bdab0c6c9ae92fdddd00f7cbc6
+M	README.txt	5bcb765bd222104c3fd6df8a131e6f9a
+D	alfresco-php-sdk/Examples/Common/Images/AlfrescoFadedBG.png	
+D	alfresco-php-sdk/Examples/Common/Images/AlfrescoLogo200.png	
+D	alfresco-php-sdk/Examples/Common/Images/AlfrescoLogo32.png	
+D	alfresco-php-sdk/Examples/Common/Images/add_user.gif	
+D	alfresco-php-sdk/Examples/Common/Images/blue_07.gif	
+D	alfresco-php-sdk/Examples/Common/Images/blue_09.gif	
+D	alfresco-php-sdk/Examples/Common/Images/blue_white_07.gif	
+D	alfresco-php-sdk/Examples/Common/Images/blue_white_09.gif	
+D	alfresco-php-sdk/Examples/Common/Images/logout.gif	
+D	alfresco-php-sdk/Examples/Common/Images/post.gif	
+D	alfresco-php-sdk/Examples/Common/Images/titlebar_begin.gif	
+D	alfresco-php-sdk/Examples/Common/Images/titlebar_bg.gif	
+D	alfresco-php-sdk/Examples/Common/Images/titlebar_end.gif	
+D	alfresco-php-sdk/Examples/Common/Images/white_01.gif	
+D	alfresco-php-sdk/Examples/Common/Images/white_02.gif	
+D	alfresco-php-sdk/Examples/Common/Images/white_03.gif	
+D	alfresco-php-sdk/Examples/Common/Images/white_04.gif	
+D	alfresco-php-sdk/Examples/Common/Images/white_06.gif	
+D	alfresco-php-sdk/Examples/Common/Images/white_07.gif	
+D	alfresco-php-sdk/Examples/Common/Images/white_08.gif	
+D	alfresco-php-sdk/Examples/Common/Images/white_09.gif	
+D	alfresco-php-sdk/Examples/QueryExecuter/queryExecuter.php	
+D	alfresco-php-sdk/Examples/SimpleBrowse/index.php	
+D	alfresco-php-sdk/Examples/config.php	
+D	alfresco-php-sdk/Integration/MediaWiki/AlfrescoConfig.php	
+D	alfresco-php-sdk/Integration/MediaWiki/ExternalStoreAlfresco.php	
+D	alfresco-php-sdk/Integration/MediaWiki/Install.txt	
+D	alfresco-php-sdk/Tests/actions/runTests.php	
+D	alfresco-php-sdk/Tests/alfresco/BaseTest.php	
+D	alfresco-php-sdk/Tests/alfresco/ContentTest.php	
+D	alfresco-php-sdk/Tests/alfresco/NamespaceMapTest.php	
+D	alfresco-php-sdk/Tests/alfresco/NodeTest.php	
+D	alfresco-php-sdk/Tests/alfresco/RepositoryTest.php	
+D	alfresco-php-sdk/Tests/alfresco/SessionTest.php	
+D	alfresco-php-sdk/Tests/alfresco/StoreTest.php	
+D	alfresco-php-sdk/Tests/alfresco/VersionTest.php	
+D	alfresco-php-sdk/Tests/alfresco/resources/quick.doc	
+D	alfresco-php-sdk/Tests/alfresco/resources/quick.jpg	
+D	alfresco-php-sdk/Tests/alfresco/resources/quick.pdf	
+D	alfresco-php-sdk/Tests/alfresco/resources/temp.jpg	
+D	alfresco-php-sdk/Tests/assets/icons/arrow_redo.gif	
+D	alfresco-php-sdk/Tests/assets/icons/arrow_refresh.gif	
+D	alfresco-php-sdk/Tests/assets/icons/bullet_blue.gif	
+D	alfresco-php-sdk/Tests/assets/icons/bullet_green.gif	
+D	alfresco-php-sdk/Tests/assets/icons/bullet_red.gif	
+D	alfresco-php-sdk/Tests/assets/icons/error.gif	
+D	alfresco-php-sdk/Tests/assets/icons/failure.gif	
+D	alfresco-php-sdk/Tests/assets/icons/failure_type2.gif	
+D	alfresco-php-sdk/Tests/assets/icons/incomplete.gif	
+D	alfresco-php-sdk/Tests/assets/icons/success.gif	
+D	alfresco-php-sdk/Tests/assets/scripts/history.js	
+D	alfresco-php-sdk/Tests/assets/scripts/prototype.js	
+D	alfresco-php-sdk/Tests/assets/scripts/schedule.js	
+D	alfresco-php-sdk/Tests/assets/stylesheets/global.css	
+D	alfresco-php-sdk/Tests/assets/stylesheets/testResults.css	
+D	alfresco-php-sdk/Tests/assets/testHistory.txt	
+D	alfresco-php-sdk/Tests/index.php	
+D	alfresco-php-sdk/Tests/licence.txt	
+D	alfresco-php-sdk/Tests/util/Formatter.php	
+D	alfresco-php-sdk/Tests/util/History.php	
+D	alfresco-php-sdk/Tests/util/HistoryTest.php	
+D	alfresco-php-sdk/Tests/util/TestRunner.php	
+D	alfresco-php-sdk/Tests/views/testFail.php	
+D	alfresco-php-sdk/Tests/views/testForm.php	
+D	alfresco-php-sdk/Tests/views/testHistory.php	
+D	alfresco-php-sdk/Tests/views/testResults.php	
+D	alfresco-php-sdk/Tests/views/welcome.php	
+D	alfresco-php-sdk/Tests/views/wrapper.php	
+M	alfresco.admin.inc	3266648a875102cf362445a79ee844dd
+M	alfresco.content.inc	43d8659aa44145606f11f86d96ab4e25
+M	alfresco.info	a598264b624d1b4941d7b8f194b701c0
+M	alfresco.install	490a12ed082e5b6c7c326ad57afa7490
+M	alfresco.js	c5594214678261f585b85491fcec79ef
+M	alfresco.module	405c345f4d963a20fa609f6a5b0a50f4
+M	alfresco.pages.inc	5931a95815e4bf5c6173326ac64ddc94
+M	alfresco.theme.inc	e6bd3f419918aab10fdd41a2e52b5cac
+M	alfresco.views.inc	351ff21ef9e8a65827f6a797030b3fde
+M	alfresco.ws.inc	a2c57a545d668676a47646bd3c2dc0fd
+M	alfresco_attach/alfresco_attach.info	c4ae965fcff15e402173ae9647f5b3b0
+M	alfresco_attach/alfresco_attach.install	c0d4c6cdc8c4825e51f506347ae7f7d3
+M	alfresco_attach/alfresco_attach.module	75fe022b5c9a225157626fcf99b36700
+A	alfresco_browser/alfresco_browser-page.tpl.php	d965471836b0576c019f752326c66b98
+A	alfresco_browser/alfresco_browser.info	5011eaeb8518e01bf1c4abe260093277
+A	alfresco_browser/alfresco_browser.install	c34db52fc1eccb8532ecd53a7e014ebd
+A	alfresco_browser/alfresco_browser.module	56ebccaec8c4261830a08ea1eb2dcfa1
+A	alfresco_browser/alfresco_browser.pages.inc	4431119b97d476eb5a6f909efae0994c
+A	alfresco_browser/css/alfresco_browser.css	b2e43eee3628039b124a4a60dc719612
+A	alfresco_browser/ext/css/ext-all.css	da1d6121bcae3e2f8580020cde198ccf
+A	alfresco_browser/ext/css/xtheme-gray.css	6fcfc63d585e9ec2356bb3261bdec67c
+A	alfresco_browser/ext/ext-all.js	e50ae0aca7bd52d6059f0d1ca0dc8566
+A	alfresco_browser/ext/ext-base.js	28bec9f5b89273bec16ca4d6ad71deda
+A	alfresco_browser/ext/images/default/box/corners.gif	d2d1bc2085b369ce35ffd20c0121676e
+A	alfresco_browser/ext/images/default/box/tb-blue.gif	7c4b19eb682afdc1bde0640d2321fb25
+A	alfresco_browser/ext/images/default/box/tb.gif	dd3f63afe7ba90983ba73dad1c66bf2f
+A	alfresco_browser/ext/images/default/button/btn-arrow.gif	9e2365ef98c6096f6b5f411ab618bb4e
+A	alfresco_browser/ext/images/default/button/btn-sprite.gif	47cd75b517cc956b9fdca302a12ba9f2
+A	alfresco_browser/ext/images/default/dd/drop-add.gif	95eb34ac70a1a3c95ef39ab826a89491
+A	alfresco_browser/ext/images/default/dd/drop-no.gif	ae536c37391ba78143b5c8283cec8d13
+A	alfresco_browser/ext/images/default/dd/drop-yes.gif	f3216326c00890259e84f1726dd1043f
+A	alfresco_browser/ext/images/default/editor/tb-sprite.gif	a2f06caddc2fb729db5cbbd874491128
+A	alfresco_browser/ext/images/default/form/checkbox.gif	75d685cab5665a935660a3d04f71c2be
+A	alfresco_browser/ext/images/default/form/clear-trigger.gif	97b3e5e9edf27b50d63d48098c2f1eae
+A	alfresco_browser/ext/images/default/form/date-trigger.gif	30b5bace9f3dac358716c1415270f874
+A	alfresco_browser/ext/images/default/form/error-tip-corners.gif	364474276178c7b48b6270056b42b808
+A	alfresco_browser/ext/images/default/form/exclamation.gif	37dbe02e3cbde0f6780650bfd8535e38
+A	alfresco_browser/ext/images/default/form/radio.gif	0239bdaef529be68530b86266a24742c
+A	alfresco_browser/ext/images/default/form/search-trigger.gif	559ef372cf27a38678d84e8c0b7237fc
+A	alfresco_browser/ext/images/default/form/text-bg.gif	d5ba54c1f417e6a72cbce8b909078727
+A	alfresco_browser/ext/images/default/form/trigger-tpl.gif	d7be20f0dc38f4f46cd318fe32cf3ce3
+A	alfresco_browser/ext/images/default/form/trigger.gif	45019efdf75528242c5a68742821dc57
+A	alfresco_browser/ext/images/default/gradient-bg.gif	e117fca9d088e4cd5bbbcec7b99a8408
+A	alfresco_browser/ext/images/default/grid/arrow-left-white.gif	b04e859bdcbd21ad1f06b8bfa7881df8
+A	alfresco_browser/ext/images/default/grid/arrow-right-white.gif	714eb00f8134dde3a65c83f3f71ad2c4
+A	alfresco_browser/ext/images/default/grid/col-move-bottom.gif	9c38bcb5cee1dc9b4ce64ad9ab1386f8
+A	alfresco_browser/ext/images/default/grid/col-move-top.gif	c4584202d5172464050f675d396d1c6f
+A	alfresco_browser/ext/images/default/grid/columns.gif	ef35242fa6514a81d17d5f700f561b7c
+A	alfresco_browser/ext/images/default/grid/done.gif	365266930a93451414fe51ffc524a196
+A	alfresco_browser/ext/images/default/grid/drop-no.gif	b53ca86d60fbcc7a45c8917299218bfd
+A	alfresco_browser/ext/images/default/grid/drop-yes.gif	af96f4c3b32a470db2f38abb521b5c97
+A	alfresco_browser/ext/images/default/grid/footer-bg.gif	65ed63e44c6149f1127ad3b4be4e0108
+A	alfresco_browser/ext/images/default/grid/grid-blue-hd.gif	dd35d5c1202c440c2d1a945b335984d3
+A	alfresco_browser/ext/images/default/grid/grid-blue-split.gif	0494ba49974ff2bc1bf81e1d82dfee18
+A	alfresco_browser/ext/images/default/grid/grid-hrow.gif	55972a5063d80f35fb6b95a79bb0018a
+A	alfresco_browser/ext/images/default/grid/grid-loading.gif	9ac6f737eb9b15272f12b00bfeb3c3c6
+A	alfresco_browser/ext/images/default/grid/grid-split.gif	3ef419d4b9421d8e94f673a6238dc4c0
+A	alfresco_browser/ext/images/default/grid/grid-vista-hd.gif	675f403e8a9cb5ab4bed725da9fe2023
+A	alfresco_browser/ext/images/default/grid/grid3-hd-btn.gif	e3e77072c16a6b27556236961f29c552
+A	alfresco_browser/ext/images/default/grid/grid3-hrow-over.gif	a92d8f6c106943995720f2884634670e
+A	alfresco_browser/ext/images/default/grid/grid3-hrow.gif	3e4484ea8db10af1320808c8477346ea
+A	alfresco_browser/ext/images/default/grid/grid3-special-col-bg.gif	c9df03a1c107360128da89fa47066405
+A	alfresco_browser/ext/images/default/grid/grid3-special-col-sel-bg.gif	a94039f89dec164896ceff1fbdf6dbc5
+A	alfresco_browser/ext/images/default/grid/group-by.gif	3ff8c5936e358cf213227509c9bee95a
+A	alfresco_browser/ext/images/default/grid/group-expand-sprite.gif	d0f614a387292177f3acb0c95a4cd760
+A	alfresco_browser/ext/images/default/grid/hd-pop.gif	e5f27a2f68cc2d13b11cf41c46d298dc
+A	alfresco_browser/ext/images/default/grid/hmenu-asc.gif	048e0bc30f7c39d473dad5dabcbe03f2
+A	alfresco_browser/ext/images/default/grid/hmenu-desc.gif	f0a987b34b003b25a7c82624d41f018a
+A	alfresco_browser/ext/images/default/grid/hmenu-lock.gif	bcef18e25342c69c37c44dab87086065
+A	alfresco_browser/ext/images/default/grid/hmenu-lock.png	2a3b0b441834f443c1086930939efdae
+A	alfresco_browser/ext/images/default/grid/hmenu-unlock.gif	8cc8205dafa587ef02d8a86903ae8074
+A	alfresco_browser/ext/images/default/grid/hmenu-unlock.png	c1f61df70b98c5498ea81e7e7b9effbb
+A	alfresco_browser/ext/images/default/grid/invalid_line.gif	04a88e97b56e8a8ece4a66d49cc78828
+A	alfresco_browser/ext/images/default/grid/loading.gif	00ef871b291bc03a497d608a5bd8ec99
+A	alfresco_browser/ext/images/default/grid/mso-hd.gif	37fba9c02f0eefe57f655890eef1c4a1
+A	alfresco_browser/ext/images/default/grid/nowait.gif	23c91166dbb16ba8655363321bf5a400
+A	alfresco_browser/ext/images/default/grid/page-first-disabled.gif	8d3185028c541cbcce67b5909c04824e
+A	alfresco_browser/ext/images/default/grid/page-first.gif	16ec00fa770d860b768cf5034ddfca96
+A	alfresco_browser/ext/images/default/grid/page-last-disabled.gif	1d123237ceeb5109a1b9274f0cf19d73
+A	alfresco_browser/ext/images/default/grid/page-last.gif	ef524dd0b8dfe4eefecffaa1c0bb8edd
+A	alfresco_browser/ext/images/default/grid/page-next-disabled.gif	0f4b8681772c91921fa93ede9c755ea0
+A	alfresco_browser/ext/images/default/grid/page-next.gif	f6f9d2209dfc99912ffc9848d97646db
+A	alfresco_browser/ext/images/default/grid/page-prev-disabled.gif	eefcbed15c8d37a89618b08f7b224297
+A	alfresco_browser/ext/images/default/grid/page-prev.gif	80daad880483eed682b22ec70514ecc4
+A	alfresco_browser/ext/images/default/grid/pick-button.gif	b431fdf306f1e2f033d0a431996de93f
+A	alfresco_browser/ext/images/default/grid/refresh.gif	f1a2e7df30394c5a30bc76c2d09013b7
+A	alfresco_browser/ext/images/default/grid/row-check-sprite.gif	2d0aa7e501c3e6f97a97faf75e35d3c3
+A	alfresco_browser/ext/images/default/grid/row-expand-sprite.gif	be81199d9d4fa69bef47a8f036a5a7d8
+A	alfresco_browser/ext/images/default/grid/row-over.gif	f639094bd0560aefabc86e51a825f23d
+A	alfresco_browser/ext/images/default/grid/row-sel.gif	ca87d6b950386edd5e17c985769d9101
+A	alfresco_browser/ext/images/default/grid/sort_desc.gif	d104fcf119d40c51554ddb8b377142e5
+A	alfresco_browser/ext/images/default/grid/wait.gif	b0cd5a5dc070c705ebf8814a909802c3
+A	alfresco_browser/ext/images/default/layout/collapse.gif	dfcec0803d488a783916c750fd83a897
+A	alfresco_browser/ext/images/default/layout/expand.gif	c9c9b0ea5311c3dc016c69dc234912bc
+A	alfresco_browser/ext/images/default/layout/gradient-bg.gif	e117fca9d088e4cd5bbbcec7b99a8408
+A	alfresco_browser/ext/images/default/layout/mini-bottom.gif	ae8e3674fd32997dc5217d5d6199a5a5
+A	alfresco_browser/ext/images/default/layout/mini-left.gif	8654fdb45ecf4406af2fce1d3beb7596
+A	alfresco_browser/ext/images/default/layout/mini-right.gif	cbdf9fb0c45466b4217ac9f7bd6a9ed4
+A	alfresco_browser/ext/images/default/layout/mini-top.gif	fbd91e98576f66fd2702495251b15240
+A	alfresco_browser/ext/images/default/layout/ns-collapse.gif	efa9fbd7a1f3f0f1f22360391e16126f
+A	alfresco_browser/ext/images/default/layout/ns-expand.gif	da1f9d40c091d3b6dc7a8dee4fc02ac6
+A	alfresco_browser/ext/images/default/layout/panel-close.gif	b185da1837344529bfb684a96d8371b5
+A	alfresco_browser/ext/images/default/layout/panel-title-bg.gif	b66384c309a397963389a76b07e9ecd4
+A	alfresco_browser/ext/images/default/layout/panel-title-light-bg.gif	688d3a263442db125da170e5d3aebf70
+A	alfresco_browser/ext/images/default/layout/stick.gif	be9e67ae0b61b01cfd15928ca7a3da51
+A	alfresco_browser/ext/images/default/layout/stuck.gif	745e0cacb51250ea0216efc4a1cb50cb
+A	alfresco_browser/ext/images/default/layout/tab-close-on.gif	0ae2c978e85391a69f0dce8da18d8b23
+A	alfresco_browser/ext/images/default/layout/tab-close.gif	f92107cc6b4cb78af084648a628e01d2
+A	alfresco_browser/ext/images/default/menu/checked.gif	cb7b3408df56f5585aaa1242cd2f0b45
+A	alfresco_browser/ext/images/default/menu/group-checked.gif	f7973443d91e5e074013f1b07ee79479
+A	alfresco_browser/ext/images/default/menu/item-over.gif	bb4cdc0ea257834cd5ed01f883387d8f
+A	alfresco_browser/ext/images/default/menu/menu-parent.gif	d303ad7e3ced891736e80f77e1d4e51d
+A	alfresco_browser/ext/images/default/menu/menu.gif	ae128d5f3f3a39213f3d4e23aec8728f
+A	alfresco_browser/ext/images/default/menu/unchecked.gif	31846118bddc7945b595ea2090589cf1
+A	alfresco_browser/ext/images/default/panel/corners-sprite.gif	d4546c86ed835fee767212279ee98b68
+A	alfresco_browser/ext/images/default/panel/left-right.gif	6553647bad54d83e2c235f339d12f6be
+A	alfresco_browser/ext/images/default/panel/light-hd.gif	b058affcc8b3e8a03be74bc9d9697da7
+A	alfresco_browser/ext/images/default/panel/tool-sprite-tpl.gif	e0449768cd5dce80b18fac904818ab33
+A	alfresco_browser/ext/images/default/panel/tool-sprites.gif	d392b0380fce8849d44e212ae1fd333d
+A	alfresco_browser/ext/images/default/panel/tools-sprites-trans.gif	545c53f0e1439e9441a0b41df848246a
+A	alfresco_browser/ext/images/default/panel/top-bottom.gif	a4854e1b3aea60123522cb687a462c05
+A	alfresco_browser/ext/images/default/panel/top-bottom.png	2a65a27def756a0951644b511f6f2cce
+A	alfresco_browser/ext/images/default/panel/white-corners-sprite.gif	81f089d0247ca1ad12093be21884d773
+A	alfresco_browser/ext/images/default/panel/white-left-right.gif	77a6389c6737ad507ca5330ad8816524
+A	alfresco_browser/ext/images/default/panel/white-top-bottom.gif	f865d7237bff3c45fd4a8c448f97d236
+A	alfresco_browser/ext/images/default/progress/progress-bg.gif	fd75abcd9d1cb8534f24f438a71e6fd8
+A	alfresco_browser/ext/images/default/qtip/bg.gif	49c0a530cc16357bb39d51c13065a88f
+A	alfresco_browser/ext/images/default/qtip/close.gif	0379d036250096cae2e42b427b3df2e7
+A	alfresco_browser/ext/images/default/qtip/tip-sprite.gif	090b2d83952e682fab43b2ab16be2991
+A	alfresco_browser/ext/images/default/s.gif	fc94fb0c3ed8a8f909dbc7630a0987ff
+A	alfresco_browser/ext/images/default/shadow-c.png	7ab6163237099f2529452b88953a4049
+A	alfresco_browser/ext/images/default/shadow-lr.png	986270d8ab4330fa7499dc33ed135598
+A	alfresco_browser/ext/images/default/shadow.png	860bf4f690d2ea2aba7b11500925da62
+A	alfresco_browser/ext/images/default/shared/blue-loading.gif	dc2fd7c0ed853c56b4ac65710af3bd0a
+A	alfresco_browser/ext/images/default/shared/calendar.gif	81296cff1f97f5365524f2b9dcf626da
+A	alfresco_browser/ext/images/default/shared/glass-bg.gif	bc2cd5c5ac9b3874d956c892d23f2119
+A	alfresco_browser/ext/images/default/shared/hd-sprite.gif	6a54ae98bef53397d52282201852c204
+A	alfresco_browser/ext/images/default/shared/large-loading.gif	d96f6517e00399c37a9765e045eaaf22
+A	alfresco_browser/ext/images/default/shared/left-btn.gif	6bf30c6cf0b5d70436c3e463b5532b35
+A	alfresco_browser/ext/images/default/shared/loading-balls.gif	ac062b94ed674aaa50a6c18df92acdf3
+A	alfresco_browser/ext/images/default/shared/right-btn.gif	e7ad3a7f4814791cecf1b90e77e9e139
+A	alfresco_browser/ext/images/default/shared/warning.gif	448dc934a7f0dd6092b51f88a1e47b2d
+A	alfresco_browser/ext/images/default/sizer/e-handle-dark.gif	b86289f41d7ad1a7401dd2b2a9b3c3d8
+A	alfresco_browser/ext/images/default/sizer/e-handle.gif	510edc95ebaa36306916c50ca10596f7
+A	alfresco_browser/ext/images/default/sizer/ne-handle-dark.gif	115f71b851c7f0b5f354caa7b8dfff15
+A	alfresco_browser/ext/images/default/sizer/ne-handle.gif	8e268b962dc909d275997b572ff17a72
+A	alfresco_browser/ext/images/default/sizer/nw-handle-dark.gif	4a361e6920b2e34a39fd425a515c83b9
+A	alfresco_browser/ext/images/default/sizer/nw-handle.gif	1120600505249c38c3d1cc2ab120cd13
+A	alfresco_browser/ext/images/default/sizer/s-handle-dark.gif	4a6bf15d308a4ae580dd03cbd431a95c
+A	alfresco_browser/ext/images/default/sizer/s-handle.gif	5e3338cb09e9df7f52383d6b1423fc86
+A	alfresco_browser/ext/images/default/sizer/se-handle-dark.gif	f3d8d8aac23e3e9633072e2366cda847
+A	alfresco_browser/ext/images/default/sizer/se-handle.gif	71edc3f63f79f447d2c81ee09e1fbbc3
+A	alfresco_browser/ext/images/default/sizer/square.gif	4431ea1954bfd2a9cea0931f07fc7ffa
+A	alfresco_browser/ext/images/default/sizer/sw-handle-dark.gif	44b2400d873cf8a23d84424827cde44d
+A	alfresco_browser/ext/images/default/sizer/sw-handle.gif	c3e0befc4208a51180344765fd7deeda
+A	alfresco_browser/ext/images/default/slider/slider-bg.png	0903ad3af985419767a60a5b025e0a18
+A	alfresco_browser/ext/images/default/slider/slider-thumb.png	24a893c9606f3a6892eb62f29a08870c
+A	alfresco_browser/ext/images/default/slider/slider-v-bg.png	0682c28925a7296730f7f221e4a76b96
+A	alfresco_browser/ext/images/default/slider/slider-v-thumb.png	2fc3430dc351d9a118e048b9aafb7c3c
+A	alfresco_browser/ext/images/default/tabs/scroll-left.gif	f1ce5158650880e9fe256e739f60dd23
+A	alfresco_browser/ext/images/default/tabs/scroll-right.gif	905ea778cb64c74ef3cd49ae4fa64b71
+A	alfresco_browser/ext/images/default/tabs/scroller-bg.gif	43457068d919fadd0e959542cfd81ad2
+A	alfresco_browser/ext/images/default/tabs/tab-btm-inactive-left-bg.gif	ed19092d440c5bfbdc864f714f26ee03
+A	alfresco_browser/ext/images/default/tabs/tab-btm-inactive-right-bg.gif	c3f340dc9f7f9398e1395f351e706dfd
+A	alfresco_browser/ext/images/default/tabs/tab-btm-left-bg.gif	dfe63a170d5391d56645dbfed27b5d22
+A	alfresco_browser/ext/images/default/tabs/tab-btm-right-bg.gif	768ac4e5531974feda076cbca7a5cb6e
+A	alfresco_browser/ext/images/default/tabs/tab-close.gif	59304a56f5e0f506bf671aeafb8fc767
+A	alfresco_browser/ext/images/default/tabs/tab-strip-bg.gif	5b1b94e9669aaab4e76e5aba8bf8ec1d
+A	alfresco_browser/ext/images/default/tabs/tab-strip-bg.png	d99e3b7b2610f3c85aa943fe139e6afa
+A	alfresco_browser/ext/images/default/tabs/tab-strip-btm-bg.gif	f76eec7881fcc7a0f76354d184e0087e
+A	alfresco_browser/ext/images/default/tabs/tabs-sprite.gif	2562a17ad0076bdd3711d18e62f74c27
+A	alfresco_browser/ext/images/default/toolbar/bg.gif	b795052041aa76a42466b3be5575077f
+A	alfresco_browser/ext/images/default/toolbar/btn-arrow-light.gif	fa49b39a0fd88ef26264da44a2b4edea
+A	alfresco_browser/ext/images/default/toolbar/btn-arrow.gif	12bda29a4c8016cfa047e852c4353f59
+A	alfresco_browser/ext/images/default/toolbar/btn-over-bg.gif	faddf9b24cefa721326ba3f87f3ef31f
+A	alfresco_browser/ext/images/default/toolbar/gray-bg.gif	cf2d9408f320e696e607d8472afa7ff0
+A	alfresco_browser/ext/images/default/toolbar/tb-bg.gif	5309337fd7a22cab9d9467fd9eaa0a0c
+A	alfresco_browser/ext/images/default/toolbar/tb-btn-sprite.gif	ba0a5d77db72942782fc4bf23f710738
+A	alfresco_browser/ext/images/default/tree/arrows.gif	1ed43ea06dfbba89c06f6c6fc372ace0
+A	alfresco_browser/ext/images/default/tree/drop-add.gif	95eb34ac70a1a3c95ef39ab826a89491
+A	alfresco_browser/ext/images/default/tree/drop-between.gif	edb544a0de58547d4a39c526e06e3c82
+A	alfresco_browser/ext/images/default/tree/drop-no.gif	67f83ea04a2eb1c50614a96faf625f25
+A	alfresco_browser/ext/images/default/tree/drop-over.gif	d6b303cfa3de8784057d9d7e66cdaa86
+A	alfresco_browser/ext/images/default/tree/drop-under.gif	55e5dbc9451cfa91423832260b0753aa
+A	alfresco_browser/ext/images/default/tree/drop-yes.gif	f3216326c00890259e84f1726dd1043f
+A	alfresco_browser/ext/images/default/tree/elbow-end-minus-nl.gif	5e5bffba157eceee7989db95b919e4d5
+A	alfresco_browser/ext/images/default/tree/elbow-end-minus.gif	a469f6a4394d797c2efeffc70409f6db
+A	alfresco_browser/ext/images/default/tree/elbow-end-plus-nl.gif	f0f50c0dd3ee6dd4b11c1f245b36eb01
+A	alfresco_browser/ext/images/default/tree/elbow-end-plus.gif	ec1482391363612d9e5f8c7087fddaba
+A	alfresco_browser/ext/images/default/tree/elbow-end.gif	345551384aa325189ba28a1c20f3405e
+A	alfresco_browser/ext/images/default/tree/elbow-line.gif	90e478158df476dc989a60daaafc87e6
+A	alfresco_browser/ext/images/default/tree/elbow-minus-nl.gif	5e5bffba157eceee7989db95b919e4d5
+A	alfresco_browser/ext/images/default/tree/elbow-minus.gif	71bb1bd44b1274c60d30dba1de472ed7
+A	alfresco_browser/ext/images/default/tree/elbow-plus-nl.gif	f0f50c0dd3ee6dd4b11c1f245b36eb01
+A	alfresco_browser/ext/images/default/tree/elbow-plus.gif	945572d06a74b5f952251a86c595f2da
+A	alfresco_browser/ext/images/default/tree/elbow.gif	27679f3b1222ba95d9925885d7d82d02
+A	alfresco_browser/ext/images/default/tree/folder-open.gif	c569141d6ae7c61d838ed8af26aa9380
+A	alfresco_browser/ext/images/default/tree/folder.gif	b7209740bb4a825a06beb8698d92c2b1
+A	alfresco_browser/ext/images/default/tree/leaf.gif	23757d6e353f343e3c7edfe28428f198
+A	alfresco_browser/ext/images/default/tree/loading.gif	00ef871b291bc03a497d608a5bd8ec99
+A	alfresco_browser/ext/images/default/tree/s.gif	fc94fb0c3ed8a8f909dbc7630a0987ff
+A	alfresco_browser/ext/images/default/window/icon-error.gif	f477b54b6b8361362e96c2218dce7ea0
+A	alfresco_browser/ext/images/default/window/icon-info.gif	ec6b7a5d4caeea767c8674689bae47c6
+A	alfresco_browser/ext/images/default/window/icon-question.gif	2713644a8aa582728d71e35eca62fbcd
+A	alfresco_browser/ext/images/default/window/icon-warning.gif	3f20258272af0e00f6b7531b3b9aee35
+A	alfresco_browser/ext/images/default/window/left-corners.png	b31e6f0de60a5f9ddab629c7d65a0428
+A	alfresco_browser/ext/images/default/window/left-right.png	8d9c2e368794c8b6fcb586a539cd9f93
+A	alfresco_browser/ext/images/default/window/right-corners.png	3262c5858058568e11f8c48f2a966411
+A	alfresco_browser/ext/images/default/window/top-bottom.png	1f34e15ebd2c9dccea30904ed947db21
+A	alfresco_browser/ext/images/gray/button/btn-arrow.gif	9e2365ef98c6096f6b5f411ab618bb4e
+A	alfresco_browser/ext/images/gray/button/btn-sprite.gif	a92a0fc7792f1be35b6497a73e4d8289
+A	alfresco_browser/ext/images/gray/gradient-bg.gif	e117fca9d088e4cd5bbbcec7b99a8408
+A	alfresco_browser/ext/images/gray/panel/corners-sprite.gif	154047c3b38abc110a43c348ea693c77
+A	alfresco_browser/ext/images/gray/panel/left-right.gif	1050c80869b13c1bcca6319b048ea1a5
+A	alfresco_browser/ext/images/gray/panel/light-hd.gif	30be5fa3a5bc389f4de260e91ff24f5b
+A	alfresco_browser/ext/images/gray/panel/tool-sprite-tpl.gif	4b1322b5966a588abb0829b27818f738
+A	alfresco_browser/ext/images/gray/panel/tool-sprites.gif	2f408e54b7eff4f7d95a5271cb77d58b
+A	alfresco_browser/ext/images/gray/panel/tools-sprites-trans.gif	545c53f0e1439e9441a0b41df848246a
+A	alfresco_browser/ext/images/gray/panel/top-bottom.gif	2cc75c4c076232ba842d63778e20aaf6
+A	alfresco_browser/ext/images/gray/panel/top-bottom.png	2a65a27def756a0951644b511f6f2cce
+A	alfresco_browser/ext/images/gray/panel/white-corners-sprite.gif	c22ed792c859ce8dcdfd52f6d6b15e3f
+A	alfresco_browser/ext/images/gray/panel/white-left-right.gif	52d662a46dc90b5043765f2d6d0c1acd
+A	alfresco_browser/ext/images/gray/panel/white-top-bottom.gif	92b14692938ad89c687a55bd11a13d35
+A	alfresco_browser/ext/images/gray/qtip/bg.gif	63f297dd8fa77f097616d840e9ad0e70
+A	alfresco_browser/ext/images/gray/qtip/close.gif	0379d036250096cae2e42b427b3df2e7
+A	alfresco_browser/ext/images/gray/qtip/tip-sprite.gif	ad15b7424407d3045ced4616244e6500
+A	alfresco_browser/ext/images/gray/s.gif	fc94fb0c3ed8a8f909dbc7630a0987ff
+A	alfresco_browser/ext/images/gray/tabs/scroll-left.gif	2e262700bde38f1a5e0b433bff392e5d
+A	alfresco_browser/ext/images/gray/tabs/scroll-right.gif	1333d896f57dfdcc8b73b4a391af8c65
+A	alfresco_browser/ext/images/gray/tabs/scroller-bg.gif	85fc3011aa8416fc9f6cd6cdfee8ff54
+A	alfresco_browser/ext/images/gray/tabs/tab-btm-inactive-left-bg.gif	79692d0d06efdfee4352eb2313fc405f
+A	alfresco_browser/ext/images/gray/tabs/tab-btm-inactive-right-bg.gif	2f38f98c02e576e7c07abab79b635599
+A	alfresco_browser/ext/images/gray/tabs/tab-btm-left-bg.gif	904bd37fe0eac4fd2e42adc3693eeed3
+A	alfresco_browser/ext/images/gray/tabs/tab-btm-right-bg.gif	174345d57983dcf5d38ed7717b3a17b3
+A	alfresco_browser/ext/images/gray/tabs/tab-close.gif	9ed7d602bee0483b8aa34d2084c77754
+A	alfresco_browser/ext/images/gray/tabs/tab-strip-bg.gif	5b8f86def656924e8d4e49e438a205a1
+A	alfresco_browser/ext/images/gray/tabs/tab-strip-bg.png	d99e3b7b2610f3c85aa943fe139e6afa
+A	alfresco_browser/ext/images/gray/tabs/tab-strip-btm-bg.gif	8e5594b6e95ef5edd30b3a2d0bb1f3cd
+A	alfresco_browser/ext/images/gray/tabs/tabs-sprite.gif	4dc716e5213e4d9d2731d0e79953ea2f
+A	alfresco_browser/ext/images/gray/toolbar/bg.gif	5c8ff0ea2f6e1226154f660006bb5013
+A	alfresco_browser/ext/images/gray/toolbar/btn-arrow-light.gif	fa49b39a0fd88ef26264da44a2b4edea
+A	alfresco_browser/ext/images/gray/toolbar/btn-arrow.gif	12bda29a4c8016cfa047e852c4353f59
+A	alfresco_browser/ext/images/gray/toolbar/btn-over-bg.gif	faddf9b24cefa721326ba3f87f3ef31f
+A	alfresco_browser/ext/images/gray/toolbar/gray-bg.gif	cf2d9408f320e696e607d8472afa7ff0
+A	alfresco_browser/ext/images/gray/toolbar/tb-bg.gif	5309337fd7a22cab9d9467fd9eaa0a0c
+A	alfresco_browser/ext/images/gray/toolbar/tb-btn-sprite.gif	7c7d5c1029d25748b9323a67dd8dc92f
+A	alfresco_browser/ext/images/gray/window/icon-error.gif	f477b54b6b8361362e96c2218dce7ea0
+A	alfresco_browser/ext/images/gray/window/icon-info.gif	ec6b7a5d4caeea767c8674689bae47c6
+A	alfresco_browser/ext/images/gray/window/icon-question.gif	2713644a8aa582728d71e35eca62fbcd
+A	alfresco_browser/ext/images/gray/window/icon-warning.gif	3f20258272af0e00f6b7531b3b9aee35
+A	alfresco_browser/ext/images/gray/window/left-corners.png	f5cccec900e527983d402d1a8cccecb3
+A	alfresco_browser/ext/images/gray/window/left-right.png	2bc0b5bcc87f58d7825754a457f8d671
+A	alfresco_browser/ext/images/gray/window/right-corners.png	d0c47fa4e6f1ecdbe8aed7444c8724ca
+A	alfresco_browser/ext/images/gray/window/top-bottom.png	22bb60d1a515987e330b169d2d85290f
+A	alfresco_browser/images/add.gif	d582ad1829dbe303eb6cd5efe3d02587
+A	alfresco_browser/images/alfresco.gif	306d80ce2f41e6c9bdd94a80826108c8
+A	alfresco_browser/images/details.gif	f393940767425a00d13f5e11c972b2b1
+A	alfresco_browser/images/download.gif	ae65bac903e186ea7d413c52d823c4ac
+A	alfresco_browser/images/drupal.png	053db6d7734292b77f943ad5da8b34a5
+A	alfresco_browser/images/filetypes/_default.gif	538a206cd57aa8895c640d76b561784c
+A	alfresco_browser/images/filetypes/acp.gif	f5c28fbd393bcd18a5574a17f696017c
+A	alfresco_browser/images/filetypes/asf.gif	414022d21c89094d3838067957b2c0b6
+A	alfresco_browser/images/filetypes/avi.gif	414022d21c89094d3838067957b2c0b6
+A	alfresco_browser/images/filetypes/bmp.gif	a4729f604f7b090a26e766bdb5d4ccba
+A	alfresco_browser/images/filetypes/csv.gif	2962dc66f520e2816c7fe01d9c9ef9e5
+A	alfresco_browser/images/filetypes/doc.gif	9409d4ec206f99102d9603b9356418cb
+A	alfresco_browser/images/filetypes/docx.gif	32a729086d67f7692510f3a18eefc06e
+A	alfresco_browser/images/filetypes/exe.gif	6b48c823a4347cc2b81630c7e13dcc8a
+A	alfresco_browser/images/filetypes/ftl.gif	addde2839db80d6499585817d12e0cd6
+A	alfresco_browser/images/filetypes/gif.gif	b3c7f99a455eef2492ce6fbcc21dc209
+A	alfresco_browser/images/filetypes/htm.gif	f21f388aa997f5effc0b2a08f1f158c0
+A	alfresco_browser/images/filetypes/html.gif	f21f388aa997f5effc0b2a08f1f158c0
+A	alfresco_browser/images/filetypes/jpg.gif	7e731816171bffefb0496a1517f12347
+A	alfresco_browser/images/filetypes/js.gif	e17c21ecf6f3b82c15434bb58667bd91
+A	alfresco_browser/images/filetypes/lnk.gif	ce8e0e6aa636c5dfc515ea8a64c5dcef
+A	alfresco_browser/images/filetypes/mp2.gif	7aed9b2664d2a6f0b3c2bbf225bbcd65
+A	alfresco_browser/images/filetypes/mp3.gif	7aed9b2664d2a6f0b3c2bbf225bbcd65
+A	alfresco_browser/images/filetypes/mp4.gif	414022d21c89094d3838067957b2c0b6
+A	alfresco_browser/images/filetypes/mpeg.gif	414022d21c89094d3838067957b2c0b6
+A	alfresco_browser/images/filetypes/mpg.gif	414022d21c89094d3838067957b2c0b6
+A	alfresco_browser/images/filetypes/msg.gif	30bdd5cf8812eb22b860265832c53bd9
+A	alfresco_browser/images/filetypes/odf.gif	c28e1297d49b44b1783639fa851299ca
+A	alfresco_browser/images/filetypes/odg.gif	adb6d6bc3d3a89d62a871140205b8809
+A	alfresco_browser/images/filetypes/odp.gif	009d3e4b8aedf1a4629b9ea85e76dcb5
+A	alfresco_browser/images/filetypes/ods.gif	c18f486c61bd55538d643625d86a42fc
+A	alfresco_browser/images/filetypes/odt.gif	f37d9e409c83208829596283cfe77208
+A	alfresco_browser/images/filetypes/pdf.gif	ef05ee3b9dc38feaff8cc6c362b51bbd
+A	alfresco_browser/images/filetypes/png.gif	f113bc1abd7736f51638b0ed39f6c623
+A	alfresco_browser/images/filetypes/ppt.gif	58275e4c51cd142c9bbc89b74109720d
+A	alfresco_browser/images/filetypes/pptx.gif	f82d18611010b5b734680f31cfddcff3
+A	alfresco_browser/images/filetypes/psd.gif	bf12d4cbc017c2c6c054e47dd9d58616
+A	alfresco_browser/images/filetypes/rtf.gif	92557af1cd232cb8205e01652ec4205a
+A	alfresco_browser/images/filetypes/shtml.gif	c72bc2ea18e2e249d44b1654c18dbf48
+A	alfresco_browser/images/filetypes/swf.gif	d14074fc7cf0c2b6b550667a4a77884a
+A	alfresco_browser/images/filetypes/tif.gif	09cb501e91335cf2e039fa19aefd3af7
+A	alfresco_browser/images/filetypes/tiff.gif	09cb501e91335cf2e039fa19aefd3af7
+A	alfresco_browser/images/filetypes/txt.gif	444708c5a82883b6f2d13846c978a4cc
+A	alfresco_browser/images/filetypes/url.gif	ce8e0e6aa636c5dfc515ea8a64c5dcef
+A	alfresco_browser/images/filetypes/wmv.gif	414022d21c89094d3838067957b2c0b6
+A	alfresco_browser/images/filetypes/wpd.gif	a5620413c0070cbdc875dbe4fc5cbdae
+A	alfresco_browser/images/filetypes/xls.gif	f3a85fcfceb90bb1e845388a3b920ec2
+A	alfresco_browser/images/filetypes/xlsx.gif	576ad39d9f031b5f020e4fedfd09e548
+A	alfresco_browser/images/filetypes/xml.gif	5829f5da8cb8c13373863d33e581a5d7
+A	alfresco_browser/images/filetypes/xsd.gif	96464dad491c41c348ed902b83c59af3
+A	alfresco_browser/images/filetypes/xsl.gif	1de545ddbf589a5b037281688d9e937b
+A	alfresco_browser/images/filetypes/xslx.gif	576ad39d9f031b5f020e4fedfd09e548
+A	alfresco_browser/images/filetypes/zip.gif	565a9df47e9e342aab9e1bf7069060bf
+A	alfresco_browser/images/gmv.png	2390ae9c462ccc1b6910160a43a0f945
+A	alfresco_browser/images/view.gif	94b96d8786dfc351f8550ebbd1c8d5e4
+A	alfresco_browser/js/alfresco_browser.js	950c3e8ca54a906b882262a50473c04c
+M	alfresco_import/alfresco_import.info	df281cf1ec01ae9073943c008c3650dc
+M	alfresco_import/alfresco_import.module	dd7a19477640e5254a57c9fbac95effe
+M	alfresco_import/alfresco_import.pages.inc	eea674f924753291f9850c3da2ca9ec7
+M	translations/alfresco.pot	353d7aff14e266a5da7cc77c366e5ebb
+M	views/alfresco_handler_field_url_download.inc	7a64a4c2dc21cc5fec9c1843ac818a4e

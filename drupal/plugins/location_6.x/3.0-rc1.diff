@@ -1,0 +1,29 @@
+M	contrib/location_addanother/location_addanother.info	acd9b0a5a13122c2345984549e5d7197
+M	contrib/location_addanother/location_addanother.module	bb5e945cfb017f943ec088bc508b90dd
+M	contrib/location_fax/location_fax.info	f1b6608dd9c8cf1bf9a6cc2bed48d4d0
+M	contrib/location_fax/location_fax.install	dc515ad2f7fd75709268a209564ddc88
+M	contrib/location_fax/location_fax.module	1d17873c9ffba2df2692a5eefec1e719
+A	contrib/location_fax/location_fax.views.inc	87905d39a20cc110f49ea5d832d97825
+M	contrib/location_generate/location_generate.info	3d3da2adf8c81fc65df375dd45e2ea4f
+M	contrib/location_generate/location_generate.module	165a2b7f3e1fd7a760342e9e7e4e2fcf
+M	contrib/location_phone/location_phone.info	e8a3fc4d7906d469509ee9f3adb84c76
+M	contrib/location_phone/location_phone.install	311e1f13fa047ea0bb9da36e52c30f7d
+M	contrib/location_phone/location_phone.module	68d59a72efc3b2a8d8fa585f8c84fd08
+A	contrib/location_phone/location_phone.views.inc	70d21ac44beaf1dd4e2a7efdb925bb27
+M	contrib/location_search/location_search.info	456ce8ca1a328e17abd90f5083c7acf5
+D	contrib/location_views/CHANGELOG.txt	
+D	contrib/location_views/location_views.info	
+D	contrib/location_views/location_views.install	
+D	contrib/location_views/location_views.module	
+M	geocoding/google.inc	f93d9ef6b643801e540e00defd28fa07
+A	handlers/location_handler_field_location_address.inc	2467bbfe173384132979d28aedfb1185
+M	location.admin.inc	4ba7be4cc375f97c3cbc3e6c8e94ae43
+M	location.inc	709815bd3c802063d76bed264d99555f
+M	location.info	940ece83b89b85ff22f61775eeacdaa6
+M	location.install	b450e1aac5c6a7327267814ad5ec4cda
+M	location.module	ffa09427754ea3f42f3cefd7c10c3be1
+D	location.theme	
+A	location.token.inc	8f4a6fca5d6752ad9e7584a982fc6c3b
+M	location.views.inc	430c61da5901339157f367c1a0c320e0
+M	location.views_default.inc	4a9da9716d6ab07d1182692d4242fde0
+A	locations.tpl.php	702b0ec093ddbd6b46ba644b74d2526e

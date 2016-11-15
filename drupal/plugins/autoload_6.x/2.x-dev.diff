@@ -1,0 +1,10 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	5048b014c869cd6e46accb875ef51efe
+A	autoload.api.php	9fbb639efc1c108aae156088401e3e86
+M	autoload.info	ebde7c38b97ebbf077601a9b7929adf1
+M	autoload.install	5d38af32f17ebbd94fb9060a21cb14ab
+M	autoload.module	bcc4ffbb1e93c5c494ddd70b4209585d
+A	autoload.registry.inc	d4e5f9f5d7b577a9efc77ccf5f3290d6
+M	autoloadtest/autoloadtest.classes.inc	960daaf4b88e98273f595f135c6d3a5d
+M	autoloadtest/autoloadtest.module	33412d6cd98b0e17f36fdecb22a88015
+D	translations/hu.po	

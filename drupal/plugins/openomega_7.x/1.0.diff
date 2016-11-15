@@ -1,0 +1,28 @@
+D	css/features/bullet-arrow.png	
+D	css/features/openpublic_blog.css	
+D	css/features/openpublic_breaking_news.css	
+D	css/features/openpublic_document.css	
+D	css/features/openpublic_event.css	
+D	css/features/openpublic_person.css	
+D	css/features/openpublic_press_release.css	
+D	css/features/openpublic_promotion.css	
+D	css/features/openpublic_webform.css	
+D	css/features/sprite.png	
+M	css/global.css	fa70a3e2904c3f8305e0ab9112ebd248
+M	css/openomega-alpha-default.css	9250f175478731f576afde30e23b82b4
+D	img/icon-exec.png	
+M	openomega.info	5c84ca56604d7a56ac53ddebc8424460
+A	preprocess/README.txt	4ad098bc4d0282d9b866553866248e2f
+A	process/README.txt	2b21569ad5c68fa8eb22f8b9e9edb4c2
+M	template.php	21248f16e98dcc5aef86dd6ee231b8e4
+D	templates/block--follow--site.tpl.php	
+D	templates/comment-wrapper.tpl.php	
+M	templates/comment.tpl.php	fd74267deffdf65788cc75b65bcd126a
+D	templates/node--blog-entry.tpl.php	
+M	templates/node--document.tpl.php	8bf05e5471fa1796b2f8728b0d6b97ae
+M	templates/node--resource.tpl.php	dfaae2d692db9a8be13616607d81ea8b
+M	templates/node--services.tpl.php	dfaae2d692db9a8be13616607d81ea8b
+D	templates/node--site-page.tpl.php	
+M	templates/region--branding.tpl.php	fafc1aa8609927941954630d6d019706
+M	templates/region--footer-first.tpl.php	befe773bc595871e89b86f75c4193465
+M	templates/region--menu.tpl.php	59d18e399218fdbe436dfd23226622a6

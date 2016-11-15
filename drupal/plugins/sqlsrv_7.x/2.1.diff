@@ -1,0 +1,7 @@
+M	sqlsrv.info	8b5be1a0a6e72136dfbd27c0c6a14351
+M	sqlsrv/database.inc	d8ec97fafcbb7bce38b83a7d12830bb0
+M	sqlsrv/fastcache.inc	63fb5dbd124002800144479937b61add
+A	sqlsrv/lock.inc	fbb76ce812021926c0810ca2cafc1fa0
+M	sqlsrv/query.inc	a25de1e13e213550d0d8b6b920a26629
+M	sqlsrv/schema.inc	922489b2e065bd019c1de41b92b30d95
+M	sqlsrv/select.inc	bd29814622fd5585f2a2a06a4a2a1a47

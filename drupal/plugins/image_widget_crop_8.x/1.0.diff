@@ -1,0 +1,23 @@
+M	README.md	e495e2ea02beab37771397211e3f7119
+D	composer.json	
+M	config/schema/image_widget_crop.schema.yml	6209a8715c1d18e45e34490b4538d90e
+M	image_widget_crop.info.yml	2f1d81219dd37e3043b6b964ddb11e4d
+D	image_widget_crop.install	
+M	image_widget_crop.libraries.yml	019f8face26ff0c8d0637887478c339e
+M	image_widget_crop.module	22a69f2077cd3ac1d865746f056b24fe
+M	js/imageWidgetCrop.js	9a029e71e23683a1adaa7ffb2c85e4ba
+A	modules/image_widget_crop_examples/config/install/crop.type.crop_16_9.yml	e8992958417c97734d8b6dec9609d2e0
+A	modules/image_widget_crop_examples/config/install/crop.type.crop_4_3.yml	8cc3639f6f344e5f36a57f35baa65c17
+A	modules/image_widget_crop_examples/config/install/crop.type.crop_free_ratio.yml	df3455d2d0bf1a0af76ba0693dfcfee0
+D	modules/image_widget_crop_examples/config/optional/crop.type.crop_16_9.yml	
+D	modules/image_widget_crop_examples/config/optional/crop.type.crop_4_3.yml	
+D	modules/image_widget_crop_examples/config/optional/crop.type.crop_free_ratio.yml	
+M	modules/image_widget_crop_examples/image_widget_crop_examples.info.yml	5c0c5e3ce12c0d905032da82c95df7a0
+M	modules/image_widget_crop_examples/image_widget_crop_examples.install	585a601b8b3aa3387d3f6eecc9ee172a
+M	modules/image_widget_crop_examples/src/Controller/FrontPage.php	5a830a1c5a876ee765b0dbfb2561068f
+M	modules/image_widget_crop_examples/src/Tests/ImageWidgetCropExamplesTest.php	925824d691835ceff2990d107e4c3b0a
+M	src/Element/ImageCrop.php	d92149e67e1c04c6db7016d1d5308a81
+M	src/Form/CropWidgetForm.php	228f8a3753b2658ce9f69739ec62e15c
+M	src/ImageWidgetCropManager.php	fba1fdf78c70efe20f5e8eefcfa30fd8
+M	src/Plugin/Field/FieldWidget/ImageCropWidget.php	2d49d48ed85b576707d6693c49d7010c
+M	src/Tests/ImageWidgetCropTest.php	d90ff23e33f9c2ce723436df0b3f1d59

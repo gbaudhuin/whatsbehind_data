@@ -1,0 +1,17 @@
+A	CHANGELOG.txt	8999d6af652e5c4a6bb72852b87564ac
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	81320f126abac70a07cad50dfcc6c5bd
+A	filefield_paths.info	4f3688074f03acef4356a76143c35b24
+A	filefield_paths.install	1e5183677e9a90733d3cd59bbb4a1b8d
+A	filefield_paths.module	90dc2b36ed1d29f990bfb3b677391af6
+A	modules/audio.inc	acc0ec7d0569ed059351d68838332be9
+A	modules/comment_upload.inc	f84489f37caf3256793ee3aefa0e6bf6
+A	modules/features.inc	7ef5ccfb986f2d79ed4219134f14d1e4
+A	modules/filefield.inc	760e4ea450790a47f82a04c721b313c3
+A	modules/filefield_paths.inc	7d49ed02ee35c77113d059bbc165ac72
+A	modules/image.inc	83dcda4322a080db095dda6ba3f674ae
+A	modules/imagefield.inc	fa29bf1aa4eda98514aab7ec50104c95
+A	modules/imagefield_crop.inc	7dec0578ac295b2ade090a849308d83d
+A	modules/pathfilter.inc	39a04496c51e73366f9f659a0bbe42c1
+A	modules/upload.inc	5d185700abf889c85daa727d94fdbd86
+A	tests/filefield_paths.test	b028f518539e5318009eea8249af3899

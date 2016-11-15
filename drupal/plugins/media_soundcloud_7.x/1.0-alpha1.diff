@@ -1,0 +1,10 @@
+M	includes/MediaInternetSoundCloudHandler.inc	6348a8fcdc6c8347255f3595537ab09a
+M	includes/MediaSoundCloudStreamWrapper.inc	b584dfc0d3c3663babfd6770c1adedf8
+M	includes/MediaSoundCloudStyles.inc	ef679362f4b387f0ae5f1502cc4030af
+M	includes/media_soundcloud.formatters.inc	3cb9450bfdcc93166a6652709912af33
+M	includes/media_soundcloud.variables.inc	9cee2359c7c0d4da39d7a089d05dbbfd
+M	includes/themes/media-soundcloud-audio.tpl.php	2d71e2009e6b4f1e61520c4e7e807ab3
+M	includes/themes/media_soundcloud.theme.inc	87d1874ba6ceefb797d9ffe75239010e
+M	media_soundcloud.info	34deca5cb2aa706d147783f9a157c212
+M	media_soundcloud.install	4553f84af300e266527b755459b79e19
+M	media_soundcloud.module	4de86ffb14cb22b0265c663cd531bf6f

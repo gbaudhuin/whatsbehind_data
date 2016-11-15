@@ -1,0 +1,14 @@
+M	DiffEngine.php	2de4751a5d247f81216b893056774dd4
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+D	cck.inc	
+M	diff.css	4d193971aafa92ac007eebbfd6b3ddf2
+M	diff.info	e6131c7790b502ce618fa0daad6d3803
+M	diff.module	4bc8816375a0d95b5f3afbfc105308a2
+A	diff.pages.inc	484ff5b90226c9abbbc4cdff7318a22f
+A	diff.theme.inc	398ab35ea65ab4200b4d50463cf10edd
+A	includes/node.inc	6a25974242b3d4bc3c8f5e3dcd92c672
+D	node.inc	
+M	readme.txt	b0a53c518564fd64f6cd6713e096f25e
+D	translations/de.po	
+D	translations/diff.pot	
+D	translations/ru.po	

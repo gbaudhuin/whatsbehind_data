@@ -1,0 +1,17 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	8264087d94ab3524c978fe2091eba908
+A	composer.json	bec98129801cb85f1f017297d16fe512
+A	config/install/custom_search.settings.yml	b3001831fb88257df5650973f5a533c7
+A	config/schema/custom_search.settings.schema.yml	0526bf4cf36a7730bacf8ce6f1c3667e
+A	css/custom_search.css	4ed875d9233b8ae3bca511ae455fbbe8
+A	custom_search.info.yml	9b76e5b6bbd7e6548b0ce2769bf22336
+A	custom_search.install	f035b9cc9cdeb32c3916aaaf60b2e4c7
+A	custom_search.libraries.yml	c8ae26549b64f9852b10e09f5a4a0e24
+A	custom_search.module	adcd23a97b6eb9d3805abedef4703c85
+A	custom_search.pages.inc	5fff3eb6c1dc5fe00d9f1500beaf38e5
+A	js/custom_search.js	c85818726e176905a5ce6734e36b0627
+A	js/custom_search_ordering.js	64501d2e042de6a4bef8b18e137a9fdb
+A	src/Form/CustomSearchBlockForm.php	8b114ed9a3916a94fec583cd6c34836b
+A	src/Plugin/Block/CustomSearchBlock.php	15ac5a0ff3a9e841fd9620e2fbfd756a
+A	templates/custom_search-result.html.twig	03b4aba7f963e5ae326fe03416b062b5
+A	templates/custom_search-results.html.twig	15db098638136c255de0af09ab527761

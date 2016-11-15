@@ -1,0 +1,12 @@
+M	CHANGELOG.txt	eefc5550579301e9312e328b16ff44fa
+M	includes/marketo_ma.admin.inc	538bdaa14977e9c4c630a645eae7390c
+D	includes/marketo_ma.inc	
+M	includes/marketo_ma.soap.inc	b58db7167a59ba33216f3953a866ea8f
+M	marketo_ma.info	0f9fc2241b42376ecd19e0d77fcd4998
+M	marketo_ma.module	7e00f64337c61824b166d70834b09687
+M	user/marketo_ma_user.info	bc7ba4096cc6cb7d390711a153fe3eee
+A	user/marketo_ma_user.install	ad6ba3ae6efe906aa9b9253a2abd28b4
+M	user/marketo_ma_user.module	761ee0957ea150f1a95594e2a7599678
+M	webform/marketo_ma_webform.info	64b8552eda9926a64cafd36b091602de
+M	webform/marketo_ma_webform.install	344245fdf88290695eb71d79065b0f41
+M	webform/marketo_ma_webform.module	1c8e9a931e66aaa823a2179c80d2d723

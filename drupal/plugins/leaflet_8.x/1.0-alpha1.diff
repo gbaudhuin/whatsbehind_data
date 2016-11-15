@@ -1,0 +1,15 @@
+M	composer.json	87156241ae00c65a61fd2e9b015dfe82
+M	leaflet.api.php	08168918492ff043457bcc59bd429020
+M	leaflet.drupal.js	08f76724ef913c1dc64aa7e2212ead19
+M	leaflet.info.yml	9716425f389b658a05b948458ed5c59f
+M	leaflet.libraries.yml	098af84117eb01865000933e3964e058
+M	leaflet.make.example	41f7b40fc08002f965b86e086ad7b1d3
+M	leaflet.module	a1e83d0198bfdc2a38c35e959629a724
+M	leaflet_views/leaflet_views.info.yml	0aca01237f90e3555301ceb289b537ef
+M	leaflet_views/src/Plugin/views/display/LeafletAttachment.php	e25ab24ab53f383af86b033d3850d683
+M	leaflet_views/src/Plugin/views/row/LeafletMarker.php	841ba24ccaf34bea9791a56cfa05c5ef
+M	leaflet_views/src/Plugin/views/style/Leaflet.php	1abbfc883ec2dd0098fe17d47ac93b34
+M	leaflet_views/src/Plugin/views/style/LeafletMap.php	57a4b5d7af34a7d9f7f1a5c3dd6679a2
+M	leaflet_views/src/Plugin/views/style/MarkerDefault.php	47bc725623eb44f32ff25802c5569b9f
+M	leaflet_views/src/Plugin/views/style/MarkerLayerGroup.php	396b3b6ad65225fb0c233d4bd05f30da
+M	src/Plugin/Field/FieldFormatter/LeafletDefaultFormatter.php	36ef382d82cd052ed0a48ec4ce2bc464

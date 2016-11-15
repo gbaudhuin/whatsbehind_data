@@ -1,0 +1,5 @@
+M	README.txt	d591fec2c7f40b69acfdbf1b8c8bcdc3
+M	config/schema/twitter_block.schema.yml	6778ba9f1d815f02b0ad1c329a43318f
+M	src/Plugin/Block/TwitterBlock.php	212023fe93ac49edc58d2190d74bb3f3
+D	src/Tests/TwitterBlockTest.php	
+M	twitter_block.info.yml	61e40f7e52b8a1af6c49cf48861ecf98

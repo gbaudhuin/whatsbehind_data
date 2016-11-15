@@ -1,0 +1,6 @@
+M	README.txt	b99e47b8b60012c78f59e2459ef0da95
+M	imagefield_slideshow.info.yml	e3e2d4a33b550c6b29111a7da9cdf643
+M	imagefield_slideshow.module	6a8d60f7a62eb4a442e0952e8ecee728
+M	js/imagefield_slideshow.js	bd5f2d97ac9bdcb48ee37aee557473be
+M	src/Plugin/Field/FieldFormatter/ImagefieldSlideshowFieldFormatter.php	3e84a350d9aaca00767629ebf40ede70
+M	templates/imagefield-slideshow.html.twig	2ea912936ad75d6e4bf03f8130b89b1f

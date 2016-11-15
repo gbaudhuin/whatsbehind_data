@@ -1,0 +1,26 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	90d8233ca0f12a6b2c798ac055d78c2b
+D	geofield.devel_generate.inc	
+M	geofield.feeds.inc	d6e41af56f63f4ac827ba03bc3c167b4
+M	geofield.formatters.inc	39bcfe85032ca8cd0d78b7c309f1f890
+M	geofield.info	2f19ac471a1dfaa4cb1a62823f0dee2e
+M	geofield.install	a838b3b6fa6aeec0487d6e5a58673301
+A	geofield.make	13f971cbc27fc16721f11a35c5356904
+D	geofield.make.example	
+M	geofield.module	b5074f79d645ebcc023b7ebb43f53351
+D	geofield.openlayers.inc	
+D	geofield.test	
+M	geofield.widgets.inc	f314c8e8d4d230cc0ec08c0638e4a31d
+M	includes/behaviors/css/openlayers_behavior_geofield.css	9386239ee10e648e696f4867b7f2db96
+A	includes/behaviors/css/openlayers_behavior_geofield.css~	3879545d825b7679f63072ceffbf27aa
+D	includes/behaviors/images/dropdown.png	
+M	includes/behaviors/js/openlayers_behavior_geofield.js	9a295c40419d65a6218c26b580470ce7
+M	includes/behaviors/openlayers_behavior_geofield.inc	ba7ed41bc345bcb37fc670f5f91d51ad
+D	js/geolocation.js	
+D	modules/geofield_map/css/geofield_map.css	
+D	modules/geofield_map/geofield_map.info	
+D	modules/geofield_map/geofield_map.module	
+D	modules/geofield_map/includes/geofield_map.views.inc	
+D	modules/geofield_map/includes/geofield_map_plugin_style_map.inc	
+D	modules/geofield_map/js/GeoJSON.js	
+D	modules/geofield_map/js/geofield_map.js	

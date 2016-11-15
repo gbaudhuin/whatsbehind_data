@@ -1,0 +1,13 @@
+M	config/schema/entity_browser.schema.yml	67172ca0c960285589158e63861a1ae6
+M	entity_browser.info.yml	1dbfe142679a6ebd22adeca312a0b80d
+M	js/entity_browser.iframe.js	7e295f6879f36733270789ebd7cbf9cd
+M	modules/entity_form/entity_browser_entity_form.info.yml	d437acbb043a089e7b7a0c5d462ef76f
+M	modules/entity_form/tests/modules/entity_browser_entity_form_test/entity_browser_entity_form_test.info.yml	acf4c1b1fc12de4d7db561842b5439b0
+M	modules/example/entity_browser_example.info.yml	97e71188c8da332c82d0943c9217c1fb
+M	src/Plugin/EntityBrowser/Display/Modal.php	37e9df8120f58e523cb960b1bc244b7a
+M	src/Plugin/EntityBrowser/SelectionDisplay/MultiStepDisplay.php	3d0a957301987f9356bbe3a8d9e80625
+M	src/Plugin/EntityBrowser/SelectionDisplay/View.php	9034ed066fd41f9d51b653a214d70302
+M	src/Tests/ConfigUITest.php	aa0c9a176e1771a44a1023193a5724a2
+A	src/Tests/MultistepDisplayTest.php	c29d99a6a3317580338899ad92d64227
+M	src/Wizard/EntityBrowserWizard.php	d2881fc952408a1ea24c1eacb610ae1b
+M	tests/modules/entity_browser_test/entity_browser_test.info.yml	3e812e43e69a4f1384ab5a081aef511e

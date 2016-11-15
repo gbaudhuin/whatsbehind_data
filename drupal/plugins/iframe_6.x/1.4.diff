@@ -1,0 +1,10 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	iframe.info	9e8bd1baaacaf374c777c0e79986b8e2
+M	iframe.install	744905c32312f7dc1a0e608925ce5315
+M	iframe.module	14075b258db1970d3b9edd3d274b76ef
+M	translations/modules-iframe.de.pot	1089e3df6ddfb91a18df427713ef2cc0
+M	translations/modules-iframe.ja.pot	f577e341ba7ab1776a37509574aaa5cb
+M	translations/modules-iframe.pot	d7c888187d6f8dfeec320914e2ccf81c
+D	views/iframe.views.inc	
+D	views/iframe_views_handler_argument_target.inc	
+D	views/iframe_views_handler_filter_protocol.inc	

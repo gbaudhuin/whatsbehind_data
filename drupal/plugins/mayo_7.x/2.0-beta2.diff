@@ -1,0 +1,14 @@
+M	css/colors.css	92cf708184fde9a7f849261c92305867
+M	css/style.css	fab058d21aa8359994bcfea10703f43d
+M	inc/forms/mayo.submit.responsive.inc	3a4c4d2bcd7faa8287170aedf5f57968
+M	layouts/core/one_col_vert/one_col_vert.inc	20d4aeaf04c031bd41b947952b40c625
+M	layouts/core/three_col_grail/three_col_grail.inc	77f798fb2419ffa89d804b704f64cd4a
+M	layouts/core/two_sidebars_left/two_sidebars_left.inc	c283dc0388a503486fea7b293be2ca97
+M	layouts/core/two_sidebars_left_stack/two_sidebars_left_stack.inc	caeb4aae460e0b855dd79ee5ad1b3efd
+M	layouts/core/two_sidebars_right/two_sidebars_right.inc	6effca6624163d264465ef978a9284df
+M	layouts/core/two_sidebars_right_stack/two_sidebars_right_stack.inc	71c92bc12079905d2aa445e1853d65e7
+M	mayo.info	102b6d79b0c2600d41f8823398ec65a0
+A	sass/colors.scss	ff0efc2695cf97f8d8bacbe2f54e8131
+M	sass/partials/_normalize.scss	ef8938c07a037d6039f2c8f2ab54d47b
+M	templates/page.tpl.php	818ac0ebf98eb08e8b259f0f69d98ff8
+M	theme-settings.php	6dfaf996f1e73beeb318e5d0d138d464

@@ -1,0 +1,48 @@
+M	README.txt	c23dacbf45c99ce9b1dbd611b86979a7
+M	css/gallery_assist.css	2b2acc81842135aefd936d3f70686385
+A	css/gallery_assist_shadow.css	80480921e5085b662338da71706e39c6
+A	doc/hooks.php	9742de07f93fbf3a76f2bc9fa53493c3
+M	gallery_assist.admin.inc	9b97ae6547049fbf0920be4eec4ecf61
+M	gallery_assist.info	b405976f4df2c0c70d1e9c230262d3da
+M	gallery_assist.install	dc0671b84e4f0bf08c9e4ad65fbf505b
+M	gallery_assist.module	41fa4565257bf7c24b531542a66ea8c8
+M	gallery_assist_display.inc	844a4a682a4cdd6c55861ab2038c1267
+M	gallery_assist_list_display.inc	a4cea11fdb8ed1aa3ab76427ad45eaa7
+M	gallery_assist_node_settings.inc	86b749256b6e6d4eec1c468fca77047a
+M	help/about.html	528b0450146a76780e6e00cba13a4ca5
+D	help/add-and-edit-gallery-items.html	
+A	help/article-settings.html	4a689c4453eb1e3e5cb481c051279fb5
+A	help/assignments.html	7c5d76974e4c767f686e3c4615981181
+A	help/block-options.html	9f576bbab9d90d1c9e059b5ad5f8785c
+A	help/configuration.html	e067f439cea0784240bfb42850a7e39c
+A	help/create.html	9a2f8e96ef64fc10ba63c009672dea78
+D	help/edit-node.html	
+D	help/extra-layout-settings.html	
+A	help/folder-structure.html	de0966dbefe8194f8a9d2b32c8c441c8
+D	help/gallery-assist-block-options.html	
+M	help/gallery_assist.help.ini	419546ec62e610822033f1bd51892de2
+A	help/global-settings.html	d75c1dff99e38a98ed0977c319d64ddb
+D	help/img/gallery-as-list.png	
+D	help/img/gallery-assist-node-layout-settings.png	
+A	help/optional-modules.html	74213e0c058a99531eac065bf8d1f313
+A	help/pager.html	eb04c6b6d0340b517330ebf3ec3e864a
+D	help/settings-to-this-gallery.html	
+D	help/why-save-before-upload.html	
+D	images/cog_edit_16x16.png	
+D	images/css-sprites.png	
+A	images/gallery-assist-sprite.png	b142b8e6e3e784c6071f2ba536d88d46
+D	images/icon-set.png	
+D	images/icon-set2.png	
+M	js/gallery_assist.js	df51a08c1e6f427b58ad7f7052273f42
+M	templates/README.txt	6d03d941909832e9c1802adf75afe7b3
+M	templates/gallery-assist-display.css	26d76db3752b55d71f501c040dabab34
+M	templates/gallery-assist-display.tpl.php	214c52fa3eead2ce7de05719749f84e4
+M	templates/gallery-assist-item.tpl.php	9d953c842b8306ed2b58869d13f71dcf
+M	templates/gallery-assist-pager.css	d338e3c2710e3ada1fc952a59f17c8f5
+M	templates/gallery-assist-pager.tpl.php	34388c0d34ff4066d737c6d96761390e
+M	translations/gallery_assist.de.po	e141cd28c8740cfdb975c6f61980e913
+M	translations/gallery_assist.es.po	c266358a08e4b3282a32190f1aabaedd
+M	translations/gallery_assist.hu.po	9043639a59339ff3816963a97bf65bb8
+M	translations/gallery_assist.nl.po	4529e0d9d1a718a400a49534ccd12fa8
+M	translations/gallery_assist.pot	e5f581e886a49f2d71ecda75edc7c292
+M	translations/gallery_assist.ro.po	b614f945cf3e9d45bbfeb3fcf45057f4

@@ -1,0 +1,38 @@
+M	CHANGELOG.txt	4f860651381ce29eebf9ea1bff4720db
+M	README.txt	a7c6a219f8e414bde8c77492f9eb8662
+M	STARTERKIT/STARTERKIT.info	c8f63fc2207de2eeb59df9438db4a820
+M	STARTERKIT/template.php	7423f421a47a781d8b66d390c003f99c
+M	STARTERKIT/theme-settings.php	5b7106b15ed6094ff4146a15b0b8abb2
+D	STARTERKIT/zen.css	
+M	zen/block-editing.css	afd6fcd34400bf66ba96ff7fd9e3938b
+M	zen/block.tpl.php	4bed5ad890bac24d2688508e60f4cc6e
+M	zen/box.tpl.php	e2eebb9a6b168daa26e4d4347f21cdfa
+M	zen/comment-wrapper.tpl.php	e0f42324a47e4b1d34430292e600dc2e
+M	zen/comment.tpl.php	614b7c6b2c3669a8d3de88d4ea35bf28
+A	zen/images/messages-error.png	a3d46c891fa19c2de75362b370ae30e9
+A	zen/images/messages-status.png	dbf6293dfdf81ce32372ebb24c04a71e
+A	zen/images/messages-warning.png	aa1c9a1361ba7191080d7e32a61150ab
+M	zen/layout-fixed.css	f154e598707922c4a00c0faf04721ca9
+M	zen/layout-liquid.css	3375ec5248e02319c82b8b64040039e7
+A	zen/messages.css	795bc860657f84cfbd51dd438c6a1712
+D	zen/node-forum.tpl.php	
+M	zen/node.tpl.php	71b683a13bcb71412eac7388828c8402
+M	zen/page.tpl.php	b92b085eff4ca9b7c6e339a15415b8a9
+M	zen/tabs.css	e8b564ec05761ac79e0d682745bf5263
+D	zen/template-menus.php	
+A	zen/template.block-editing.inc	e34b76cddb7e7c2637ff7da64f337003
+A	zen/template.comment.inc	52a784d4b13b031dc22e2b301c4d791d
+A	zen/template.conditional-styles.inc	b7e6ca5941637f57ba36ad708088938e
+M	zen/template.php	05421fabf09aa0bd3ff153bf787bcf9a
+A	zen/template.theme-registry.inc	4bdb6c721bfb8b7bb1aa8f47fea4c404
+M	zen/theme-settings.css	3b878f2d59016483ffa5b4484489c6c6
+M	zen/theme-settings.php	cf3742424b2f415734bf0d5140752036
+M	zen/wireframes.css	8ccc9f70b464bcbed91b90e733b5eca3
+M	zen/zen.css	d79c3b3ecbf88b81e1b20bc8092de7a4
+M	zen/zen.info	ce2f08351b527900009a739b017ef8f4
+M	zen_classic/ie.css	d2ff27c957355877143fb105f25987bc
+M	zen_classic/page.tpl.php	b0e49b8ef6259122525b3d2819ad43a2
+M	zen_classic/template.php	39c44ca834c3382f33114ef0da2f9685
+M	zen_classic/theme-settings.php	2c92441a9e120f7284f01c6014b231aa
+D	zen_classic/zen.css	
+M	zen_classic/zen_classic.info	ddfe39d4680242aec305ec274f91029f

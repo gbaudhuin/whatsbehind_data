@@ -1,0 +1,18 @@
+M	README.txt	55dbfe2d42de4177389217dd5c484ebb
+M	permissions_by_term.info.yml	a76006da761cb9994a59b11f3046cad3
+M	permissions_by_term.install	137537a13b00909c7c74cfa33b4a922a
+M	permissions_by_term.module	87533232b45a618b22e972e78474ad2c
+M	permissions_by_term.routing.yml	2b4cd4edb0e1783b43ba94328b17e813
+M	permissions_by_term.services.yml	4d1b507f370d00fcafb348b66d8b5cbf
+A	phpunit.xml	0daf1d2a25fec7763bc6b0891aba5f85
+D	phpunit.xml.dist	
+M	src/AccessCheckService.php	9b87402bbcaf628819e713ca519a475d
+M	src/AccessStorageService.php	17bcbbe22ba2320b4b77a92bb00e1b63
+D	src/AccessStorageServiceInterface.php	
+M	src/Controller/PermissionsByTermController.php	9675390037bb41a89ca5bc1cd39ba7ac
+A	src/KernelEventListener.php	6baa831aa8848ae2cc2d58c7bd98a0ba
+M	src/Plugin/views/filter/PermissionsByTerm.php	b61aac139ca1b1e0aaf73e0ccf6ff901
+D	src/TermSubscriberService.php	
+M	tests/bootstrap.php	09a801adc10ea1a8ffc91aee8c33be0d
+A	tests/src/Kernel/SelectTermTest.php	558c9422ddd2ad3cde46adf9550553f1
+D	tests/src/Unit/SavePermissionsTest.php	

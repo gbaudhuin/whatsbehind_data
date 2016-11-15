@@ -1,0 +1,9 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	entity_view_mode.admin.inc	4c7ed38901d77e0096421fb3fd40f2ca
+D	entity_view_mode.api.php	
+M	entity_view_mode.info	28a5c92f705366756e0888499a6952dc
+M	entity_view_mode.module	a99e95cf4656ed9b93cc5655259e1a5c
+D	entity_view_mode.test	
+D	tests/entity_view_mode_test.entity.inc	
+D	tests/entity_view_mode_test.info	
+D	tests/entity_view_mode_test.module	

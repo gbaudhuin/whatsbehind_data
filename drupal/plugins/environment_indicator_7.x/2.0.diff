@@ -1,0 +1,19 @@
+M	README.txt	58d4e4d1c26082a9100b0cdeaaa6af25
+M	environment_indicator.admin.inc	d9bbe533ebae4d7aa3f55ab18ef10cd6
+M	environment_indicator.css	fef3c71e83a3a213927a923a1954e600
+M	environment_indicator.info	2bedeee39adc8c0ff74865f9c2370696
+M	environment_indicator.install	a4b7c2acb3f9da5412cdbeecf1e866ba
+M	environment_indicator.js	e003ad881938753707b74bc89c67b454
+M	environment_indicator.module	d913391450fdd205c2bae4eb067961b1
+M	environment_indicator.theme.inc	d0de8fc4f69523bb3922f794d0b231a1
+D	environment_indicator.variable.inc	
+D	environment_indicator_variable/class/EnvironmentVariableRealmController.php	
+D	environment_indicator_variable/environment_indicator_variable.info	
+D	environment_indicator_variable/environment_indicator_variable.install	
+D	environment_indicator_variable/environment_indicator_variable.module	
+D	images/env-bebebe.png	
+D	images/env-bebebe.svg	
+D	images/env-ffffff.png	
+D	images/env-ffffff.svg	
+D	samples/environment-indicator.sh	
+D	tinycon.min.js	

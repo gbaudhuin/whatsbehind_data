@@ -1,0 +1,15 @@
+M	README.txt	9d0e1e3bb05052f0dc1c52e17c923c1e
+M	simplenews-block.tpl.php	4694ec64aeefed46686cfa2ab8f5c5db
+A	simplenews-newsletter-body.tpl.php	c92929c483fba2152cab6907b994f35f
+A	simplenews-newsletter-footer.tpl.php	1f278c0976d1f743c5080cb42de7ea2a
+M	simplenews-status.tpl.php	074cbfdc3f20d2491fa3268466dcda73
+M	simplenews.admin.inc	8a2c152848006cf9ea4a2d760d9500c9
+M	simplenews.info	804653484c901cdd63c356c0c0637274
+M	simplenews.install	cf4a121cae1f3fb66d5f9b9add222990
+A	simplenews.js	74cd3c56a36aa08151b9c1ae37ac3772
+M	simplenews.module	f0d276744b1f49447828a2d72b99cf8d
+M	simplenews.views.inc	34a2c588da558894503738bad3305146
+M	simplenews_action/simplenews_action.info	21f3183fddb39a1c3eb03993d0ff052f
+M	simplenews_handler_field_newsletter_s_status.inc	5197f19adfc40aed0e56197f495b1cb5
+M	simplenews_handler_filter_newsletter_s_status.inc	3a290fa87931c6277cd873e7d7c92bce
+M	translations/simplenews.pot	9ac709c715eea168f7767b95b2dc9595

@@ -1,0 +1,11 @@
+D	README.md	
+M	js/layouter.js	bfe05561b4950b03ac9701ef95ca34fe
+M	layouter.api.php	7f9279601e9edd4e73d7bd507bb13997
+M	layouter.info.yml	1b3eb85523044abf59c5b85a85cbd967
+M	layouter.module	b58e59b7ffc481eefbdc8e593fd56f92
+D	modules/layouter_extension_example/README.md	
+D	modules/layouter_extension_example/composer.json	
+M	modules/layouter_extension_example/layouter_extension_example.info.yml	426e034884685b58f15901be6c20d476
+M	modules/layouter_extension_example/layouter_extension_example.module	f4717bf59c7da7200da9eac6c2aaa8bb
+M	src/Form/LayouterForm.php	997c1b94e2fe543161d895498ce5201f
+M	src/Form/SettingsForm.php	f75df7aa3c0e6756df9788eac37df5ff

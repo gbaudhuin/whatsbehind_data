@@ -1,0 +1,24 @@
+M	INSTALL.TXT	7ac6e7da1a66f39d0edcbbbbb493b11d
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	comment_notify-rtl.css	b742f9c8e140c4033c7b9b366e610308
+M	comment_notify.css	4ad60fe8efc92ac95259e8bc0a8411e8
+M	comment_notify.inc	aa90ef73c5cf6c4ae9dc2585f74e6556
+M	comment_notify.info	4f2a3b17ac9c8790064ed388a6fb366e
+M	comment_notify.install	2062d4f34da18c8c8f1f06285400f1cb
+M	comment_notify.js	227294c15ff727463d706df13a889af4
+D	comment_notify.migrate.inc	
+M	comment_notify.module	cf95391e33eda107984899965b3e86de
+M	comment_notify.test	8129e78675e24a8d8e218bd2ac8bb913
+M	comment_notify.tokens.inc	486c75acace5b624fdffe71bcc649ce8
+A	translations/comment_notify.pot	ec7408f8f7d10bce34f4c98c53f3d1e2
+A	translations/da.po	05bb09bd71811f7dd5f0419ab57131be
+A	translations/de.po	a3994bf5d355752edd93e9840aa0e3b0
+A	translations/el.po	c38be3d25d7b2c7bbf0ca2fe9ace1b5c
+A	translations/es.po	7a7da5da42ca43874b9b7cdf1a488d66
+A	translations/fi.po	924d09b1cf827a21734418b2249de51c
+A	translations/fr.po	444a804075bafa00988d6a9a6a4940b0
+A	translations/nb.po	e0d42b66199dc4750c85d640ab351345
+A	translations/ru.po	cc24fe3a0bba15e71e4c25212a5835e2
+A	translations/sv.po	209d699897ea32e7f84d3df1e8c8e122
+A	translations/tr.po	543489e4aad1a292398271ac49b4a10e
+A	translations/uk.po	7d4419fa9d0d3239775cebb6da203a08

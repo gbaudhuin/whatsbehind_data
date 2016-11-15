@@ -1,0 +1,14 @@
+A	devel.drush.inc	43560b8753b0e9f5bdfaf790ae3968a2
+M	devel.info	9717c312362ba4749515131878de6762
+M	devel.install	208fc8b3175d07947dd069fb3523981d
+M	devel.module	3ac49970005e393b2d00cd534423551c
+M	devel_generate.inc	a5708deb03ae65ac71bed35983214f79
+M	devel_generate.info	24867716a76ad9159c95c0a3b1f058bf
+M	devel_generate.module	46046506a8eace6e7e6dbd49179f0c0e
+M	devel_node_access.info	9228f7ce105dbaa154d2efc8559aae97
+M	devel_node_access.module	7c0d94d9b36814892780b81d55ff604c
+D	loader-little.gif	
+M	performance/performance.info	f331060e73feb37fc44356cd5da16626
+D	themer-bar.png	
+D	ui.draggable.js	
+D	ui.mouse.js	

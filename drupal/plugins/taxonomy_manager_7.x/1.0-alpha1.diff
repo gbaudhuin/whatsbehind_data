@@ -1,0 +1,21 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	c895cc202c3536d89d39a8cce2169018
+M	css/taxonomy_manager.css	3b2a3add2acf50d5e25b50977705c3b5
+D	images/copy-left.png	
+D	images/copy-right.png	
+D	images/deselect-all-children-bw.png	
+D	images/select-all-children-bw.png	
+A	js/csv_export.js	718d117be1775e1f29ddfb5847aed07f
+A	js/doubleTree.js	4450b57bf8f069175260943a118a2ad6
+M	js/hideForm.js	b2f597098c5473b489639318e1f6e712
+M	js/termData.js	409b6c6b096a6b711730df8a6823ad5a
+M	js/tree.js	5465cfe63ef0e62612e7314bb6893696
+M	js/updateWeight.js	b9cdeb26dd8bec3248807dd5eacf9cd4
+M	taxonomy_manager.admin.inc	4c014e926cb628e0065284ae70960134
+M	taxonomy_manager.info	3a9124ee0e2c60b5ed16a48786342236
+M	taxonomy_manager.install	0198c4ce3b39c75d8e1cab0e20dcd46c
+M	taxonomy_manager.module	b96a8e5af4bc28a3fd067cbbf83fa4bb
+A	translations/de.po	100de2993a12af292e25e6206d2cda43
+A	translations/fr.po	7285aa3f913a6ef258a55d817b43cea5
+A	translations/ja.po	c7466fa368c360b4a19ec6949c5d78db
+A	translations/taxonomy_manager.pot	dbb5617645133b18857957656fb568f1

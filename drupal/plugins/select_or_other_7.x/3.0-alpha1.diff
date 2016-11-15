@@ -1,0 +1,16 @@
+M	README.txt	f3cf65bffbcbb2c842597e8e393d9d17
+D	modules/select_or_other_taxonomy/select_or_other_taxonomy.info	
+D	modules/select_or_other_taxonomy/select_or_other_taxonomy.module	
+D	modules/select_or_other_taxonomy/tests/select_or_other_taxonomy.test	
+M	select_or_other.api.php	e17e1fe1515c202c1e5cc0d5e7cc034e
+D	select_or_other.field_formatter.inc	
+M	select_or_other.field_widget.inc	7089f3a5fc0bad9da71157d9adfe1eac
+M	select_or_other.info	c4d8b9987f9f48184a637c0717455deb
+M	select_or_other.install	83f68941190631a3ef51fab22d2b57a6
+M	select_or_other.module	5a1b1c3efd9d669e5dcb0112bda01a15
+A	select_or_other.test_form.inc	23a111955176632d93c505c98c5eb7da
+D	tests/SelectOrOtherTestBase.test	
+D	tests/select_or_other_admin.test	
+M	tests/select_or_other_number.test	45d699e47e9285f71d9c99ea8f2a3179
+A	tests/select_or_other_taxonomy.test	97117600c3d0d6714a231b39c271df75
+M	tests/select_or_other_text.test	11b38ec3eee589b07b9832049ce2e20a

@@ -1,0 +1,5 @@
+M	imagefield_slideshow.info.yml	c5f90874cc65a5fcae45f1f46cea5dd4
+M	imagefield_slideshow.module	81be63d7a5b840920ec24a1aee6d3b2c
+M	js/imagefield_slideshow.js	73654365fc86859ec9d3e92c904c5aa5
+M	src/Plugin/Field/FieldFormatter/ImagefieldSlideshowFieldFormatter.php	682d96fdeaea39d8c98f64516c5b69e7
+M	templates/imagefield-slideshow.html.twig	cca5500fc8173c4f259643ce516604a9

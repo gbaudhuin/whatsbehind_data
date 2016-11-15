@@ -1,0 +1,41 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	d3632fd008f37a03ae2782c08b5558cf
+D	colorbox-insert-image.tpl.php	
+M	colorbox.admin.inc	c595aef047d0c1930297efd430a99182
+D	colorbox.api.php	
+M	colorbox.info	73e090991047914cb46f0a2bb9361053
+M	colorbox.install	582c5551724fe63aec641df32541dd69
+D	colorbox.make.example	
+M	colorbox.module	179ada8fe3e0e878d5876e1f12dc787d
+D	colorbox.pages.inc	
+M	colorbox.theme.inc	fdf4660f66f4cce6d19690acbb753240
+M	drush/colorbox.drush.inc	9836494b9c418b0738985d52942cd072
+A	images/internet_explorer/borderBottomCenter.png	3f90207da36603df0c149c492bddbb0c
+A	images/internet_explorer/borderBottomLeft.png	3262aa0a44269611921af9ead46f0895
+A	images/internet_explorer/borderBottomRight.png	a5f6d0d9be6462600cd30a84faab6363
+A	images/internet_explorer/borderMiddleLeft.png	35219a6fdd6067b0fad471ff9e5e8d1e
+A	images/internet_explorer/borderMiddleRight.png	7409c63fea4256f7572aec59c35b063c
+A	images/internet_explorer/borderTopCenter.png	8053095fc5213ce36d41c7fe59506d35
+A	images/internet_explorer/borderTopLeft.png	8e9eb927e33dcfd202858d37c91d3027
+A	images/internet_explorer/borderTopRight.png	97c3bc0be76863db1a81cedb8ecb3b92
+M	js/colorbox.js	93c8c7207d6aaa855824ec036b09b290
+M	js/colorbox_admin_settings.js	464243fa685b67dbb9e1da729b26dae9
+A	js/colorbox_default_style.js	ba65756c1f738375704777285515b96d
+A	js/colorbox_form.js	bf638cc9bd4edc7ce6a068b42a323bee
+M	js/colorbox_image_module.js	87ec1c396fb1e9cb7693aaf1a0725370
+D	js/colorbox_img_assist_module.js	
+D	js/colorbox_inline.js	
+D	js/colorbox_load.js	
+M	js/colorbox_login.js	4a86fd91c3fb978dba3a971acf374dc5
+D	styles/default/colorbox_default_style.js	
+D	styles/default/images/controls.png	
+D	styles/default/images/loading_animation.gif	
+D	styles/default/images/loading_background.png	
+D	styles/stockholmsyndrome/colorbox_stockholmsyndrome.css	
+D	styles/stockholmsyndrome/colorbox_stockholmsyndrome.js	
+D	styles/stockholmsyndrome/colorbox_stockholmsyndrome_screen.png	
+D	styles/stockholmsyndrome/images/bg_tab.png	
+D	styles/stockholmsyndrome/images/controls.png	
+D	styles/stockholmsyndrome/images/loading_animation.gif	
+D	views/colorbox.views.inc	
+D	views/colorbox_handler_field_colorbox.inc	

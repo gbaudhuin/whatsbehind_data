@@ -1,0 +1,6 @@
+M	CHANGELOG.txt	a73cb356c6b1cfb752734a8d6349a8cb
+M	node_import.inc	71ccb35ddf014698256ac4a166bc8095
+M	node_import.info	6d26acb076c9542f02c446deb0385448
+A	supported/content_taxonomy/content_taxonomy.inc	9f15cf23be79536f71f5dfe8e213cdd3
+A	supported/locale.inc	cb459042b53bf6270a7bd0dc30e4b6cf
+M	supported/node.inc	897342fdb1ee6b8516aa238572768767

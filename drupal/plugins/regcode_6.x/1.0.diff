@@ -1,0 +1,19 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	regcode.admin.php	1bc2c8ecd371478d220ca6a3f44610ea
+M	regcode.api.php	e32518657e7262d94b3ed9520f23d9b0
+M	regcode.info	df845dfd68283f9fbb53cfa0af3a85c0
+M	regcode.install	32d1bd19a187d76754d90c8665f8764e
+M	regcode.module	74050253826fb883847e4aa43c1473aa
+D	regcode.rules.inc	
+D	regcode_mailer/regcode_mailer.info	
+D	regcode_mailer/regcode_mailer.install	
+D	regcode_mailer/regcode_mailer.module	
+D	regcode_og/README.txt	
+D	regcode_og/regcode_og.info	
+D	regcode_og/regcode_og.install	
+D	regcode_og/regcode_og.module	
+D	regcode_roles/regcode_roles.info	
+D	regcode_roles/regcode_roles.install	
+D	regcode_roles/regcode_roles.module	
+D	regcode_voucher/regcode_voucher.info	
+D	regcode_voucher/regcode_voucher.module	

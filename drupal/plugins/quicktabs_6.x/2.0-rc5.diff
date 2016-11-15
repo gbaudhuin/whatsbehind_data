@@ -1,0 +1,8 @@
+M	README.txt	369adfaf53f3f6ee44560cc4de5c33d3
+M	css/quicktabs-admin-rtl.css	a601ab05450b0fd16e8692638ab09959
+M	includes/admin.inc	dfa1f29c5c7d363469dd8182c71c707a
+A	includes/quicktabs.views.inc	f2e4d3c2eae2d8bc1a724650b9d1589a
+A	includes/quicktabs_style_plugin.inc	04cec76a6cb0c83f03f6ffe6c6f04602
+M	js/quicktabs.js	ba8bd02074f4b44c49118e1876aab690
+M	quicktabs.info	cbc801e0beec23343098887dd7097eef
+M	quicktabs.module	8263fce573e98952137bfeba5d3b6588

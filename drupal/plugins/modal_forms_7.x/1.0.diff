@@ -1,0 +1,11 @@
+D	README.txt	
+D	css/modal_forms_popup-rtl.css	
+M	css/modal_forms_popup.css	246008fe4926aa4ac6c36f9df6b44f72
+D	js/modal_forms_comment.js	
+M	js/modal_forms_contact.js	0a6873224c154c964283c9953b47acde
+M	js/modal_forms_popup.js	ddf7d4aa119e504a044698ca256ab5d1
+M	modal_forms.admin.inc	f3437bb096f7fab5da5de6db6313e3c9
+M	modal_forms.info	af9b30e6d65263f1a3f5913e5c51dee6
+M	modal_forms.module	816e0c7a0e3085310e0f036132e1d33c
+M	modal_forms.pages.inc	c7f3b6d7413b4e15f7838619fa342ade
+D	modal_forms.rules.inc	

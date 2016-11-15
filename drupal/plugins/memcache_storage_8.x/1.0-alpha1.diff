@@ -1,0 +1,19 @@
+D	css/memcache-storage.css	
+M	memcache_storage.info.yml	f99b1ffc30f24db2bdd0b3e6f4d6e193
+M	memcache_storage.install	ab4d8201b42af1530f0dd6c27428dda8
+D	memcache_storage.libraries.yml	
+D	memcache_storage.links.menu.yml	
+M	memcache_storage.module	6fa0f74d38aefddeb33bfa125454d88c
+D	memcache_storage.permissions.yml	
+D	memcache_storage.routing.yml	
+D	src/Controller/MemcachedStatistics.php	
+M	src/DrupalMemcache.php	c14fe86cebac26dcb5222607076e80e9
+M	src/DrupalMemcached.php	09fd6d13d35682f0b87d22778881d74f
+M	src/DrupalMemcachedBase.php	1225e1d502a2fa3c584257bdd3b332f3
+D	src/DrupalMemcachedDebug.php	
+M	src/DrupalMemcachedFactory.php	98d9ba2fed70de0e608f0931dc6c0064
+M	src/DrupalMemcachedInterface.php	bb289ff713ef68262f14e8b10fdbbbd3
+M	src/DrupalMemcachedUtils.php	5c4f0be3d80ca2aab1e65a73fb479ed7
+M	src/MemcachedBackend.php	eb9fb26c4ef916fd0c8882cffc770e35
+M	src/MemcachedBackendFactory.php	7f49906636d090d73e34ef9b422d26e1
+D	src/Tests/MemcacheStorageBackendUnitTest.php	

@@ -1,0 +1,26 @@
+M	CHANGELOG.txt	f11c3534e6d7d0f850309efafb9b3dce
+D	contrib/po/da.po	
+M	flags/ar.png	bf4e76a1629a1a1451896de98127f3e0
+A	flags/th.png	98789175a1dcc928f75b110ac72b1fbc
+M	i18n.info	fc941c10d2c338ef2aa8e5ea17eda23a
+M	i18n.install	88ee76515c688a7e1d0d5b0d2c0e8f72
+M	i18n.module	740d6c1889b7ed2bf5422712addbd8d9
+M	i18nblocks/i18nblocks.info	df737bfcceb20968d77fd271c2c45851
+M	i18nblocks/i18nblocks.module	7e5a0dfcbe4a6d897e1ed2856c3129cc
+M	i18ncontent/i18ncontent.info	6f42a475b31041b38dd266aa7484bbe1
+M	i18nmenu/i18nmenu.info	e84d1f6b465c064d2672608d1d965610
+M	i18nmenu/i18nmenu.module	1ff2fdab4d6bfa28557512544aeddf20
+M	i18npoll/i18npoll.info	84fc99f25e8d81253657402b419db915
+M	i18npoll/i18npoll.module	093075fa96bb0f647d80853e006cdc99
+M	i18nprofile/i18nprofile.info	0f75169a5ac2c2cc466cf5342de31667
+M	i18nprofile/i18nprofile.module	23d78b7e8abad31261c899eeff52463d
+M	i18nstrings/i18nstrings.info	7f5bef2a66cd1002fd45be67d0fb5b2b
+M	i18nstrings/i18nstrings.module	86dfdf5938e40e86334b29d89943e570
+M	i18nsync/i18nsync.info	e3e6bf45497a098f7344ac9c7a2f5f48
+M	i18nsync/i18nsync.module	9fb6446729b89d0723d4cdb3c847370f
+M	i18ntaxonomy/i18ntaxonomy.info	cd0f540a6cd177eb3fe2e5e6d6224ee5
+M	i18ntaxonomy/i18ntaxonomy.module	d925980a83e024b3f13e1a6f6484c5e6
+A	i18nviews/i18nviews.info	70f02473825484f977548c17e86ef4a1
+A	i18nviews/i18nviews.module	02377b4cef854b5e73c94771950f2d79
+M	languageicons/languageicons.info	dbbda46fc7b7ed7582e2c65d0d0aeca4
+M	languageicons/languageicons.module	7a3eeaaa8b994d88b1e7c340a9faa660

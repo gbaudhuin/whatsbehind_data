@@ -1,0 +1,50 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	7afc0f05ccecc5022c1af0cfa96a4383
+D	apachesolr_cc/apachesolr_cc.info	
+D	apachesolr_cc/apachesolr_cc.module	
+D	creativecommons.actions.inc	
+M	creativecommons.class.php	c8861fb7867a03c089dee457f76509ce
+M	creativecommons.info	417a9be88bf17a176c52e565462fa7ac
+M	creativecommons.install	fe510b51474efd4a59701e7c28f2cbd5
+M	creativecommons.module	227f85f05aef7a4ceeeb24183c0f88f9
+D	images/buttons/large/all-rights-reserved.png	
+D	images/buttons/large/by-nc-nd.eu.png	
+D	images/buttons/large/by-nc-nd.png	
+D	images/buttons/large/by-nc-sa.eu.png	
+D	images/buttons/large/by-nc-sa.png	
+D	images/buttons/large/by-nc.eu.png	
+D	images/buttons/large/by-nc.png	
+D	images/buttons/large/by-nd.png	
+D	images/buttons/large/by-sa.png	
+D	images/buttons/large/by.png	
+D	images/buttons/large/mark.png	
+D	images/buttons/large/publicdomain.png	
+D	images/buttons/large/zero.png	
+D	images/buttons/small/all-rights-reserved.png	
+D	images/buttons/small/by-nc-nd.png	
+D	images/buttons/small/by-nc-sa.png	
+D	images/buttons/small/by-nc.png	
+D	images/buttons/small/by-nd.png	
+D	images/buttons/small/by-sa.png	
+D	images/buttons/small/by.png	
+D	images/buttons/small/mark.png	
+D	images/buttons/small/publicdomain.png	
+D	images/buttons/small/zero.png	
+D	images/icons/all-rights-reserved.png	
+D	images/icons/by.png	
+D	images/icons/cc.png	
+D	images/icons/mark.png	
+D	images/icons/nc-eu.png	
+D	images/icons/nc-jp.png	
+D	images/icons/nc.png	
+D	images/icons/nd.png	
+D	images/icons/publicdomain.png	
+D	images/icons/sa.png	
+D	images/icons/zero.png	
+D	includes/creativecommons.views.inc	
+D	includes/creativecommons.views_default.inc	
+D	includes/creativecommons_views_handler_argument_nid.inc	
+D	includes/creativecommons_views_handler_field_attribution.inc	
+D	includes/creativecommons_views_handler_field_license_uri.inc	
+D	includes/creativecommons_views_handler_filter_license_uri.inc	
+D	theme/theme.inc	

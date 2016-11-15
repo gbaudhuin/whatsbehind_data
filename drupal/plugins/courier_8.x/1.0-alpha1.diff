@@ -1,0 +1,87 @@
+D	.travis.yml	
+M	README.md	f0ec4b19d6ddc8302aaafe430a489204
+D	composer.json	
+D	config/install/courier.settings.yml	
+M	config/schema/courier.schema.yml	6e1080192e1523b49f1c353de8c3c7cd
+M	courier.info.yml	e9fda8b28e6aa40259b29073ac1262eb
+D	courier.install	
+D	courier.libraries.yml	
+D	courier.links.menu.yml	
+M	courier.links.task.yml	131c01a4637acd372933188cc8e63787
+D	courier.module	
+D	courier.permissions.yml	
+M	courier.routing.yml	2cb78e8b4f38c10276a7becb05980356
+M	courier.services.yml	121f207b3f308ce4241c90f54a88c187
+M	courier.tokens.inc	b15321240e0edef91b63596c429c4bf5
+D	courier_message_composer/courier_message_composer.info.yml	
+D	courier_message_composer/courier_message_composer.links.menu.yml	
+D	courier_message_composer/courier_message_composer.permissions.yml	
+D	courier_message_composer/courier_message_composer.routing.yml	
+D	courier_message_composer/courier_message_composer.services.yml	
+D	courier_message_composer/src/Access/ComposeAccessCheck.php	
+D	courier_message_composer/src/Controller/CourierMessageController.php	
+D	courier_message_composer/src/Form/MessageForm.php	
+D	courier_message_composer/src/Permissions.php	
+D	courier_system/config/schema/courier_system.schema.yml	
+D	courier_system/courier_system.info.yml	
+D	courier_system/courier_system.install	
+D	courier_system/courier_system.links.menu.yml	
+D	courier_system/courier_system.module	
+D	courier_system/courier_system.routing.yml	
+D	courier_system/src/Form/Settings.php	
+D	courier_system/tests/src/Kernel/CourierSystemTest.php	
+D	css/semantic/components/menu.min.css	
+D	css/semantic/components/segment.min.css	
+D	css/template.collection.list.css	
+D	js/template.collection.list.js	
+D	phpunit.xml.dist	
+D	semantic.json	
+D	src/Ajax/CourierTemplate.php	
+M	src/Annotation/IdentityChannel.php	cf37161d16f4ec16406b5148ac2fc3cf
+D	src/ChannelBase.php	
+M	src/ChannelInterface.php	8437dea7d092f1f6b37c363a4e41e9e7
+D	src/Controller/ChannelFormController.php	
+M	src/CourierContextInterface.php	6df41821c17297d702004bc910eaa586
+D	src/CourierTokenElementTrait.php	
+D	src/Element/TemplateCollectionList.php	
+M	src/EmailInterface.php	abdc6e3d4097674144c7e4cbeabdbb56
+M	src/Entity/Email.php	c95918f67f5dbfd4899156d0b3b09122
+D	src/Entity/GlobalTemplateCollection.php	
+D	src/Entity/GlobalTemplateCollectionInterface.php	
+D	src/Entity/MessageQueueItem.php	
+M	src/Entity/TemplateCollection.php	a933557bb10a03ed31a15b4836621a2f
+D	src/Exception/ChannelFailure.php	
+D	src/Exception/GlobalTemplateCollectionException.php	
+D	src/Exception/IdentityException.php	
+D	src/Form/CourierMaintenanceForm.php	
+M	src/Form/EmailForm.php	3bb1dda17659f674ac1894f26f82651d
+D	src/Form/Settings.php	
+D	src/Form/TemplateEditForm.php	
+D	src/MessageQueueItemInterface.php	
+D	src/ParamConverter/CourierChannelConverter.php	
+M	src/Plugin/IdentityChannel/IdentityChannelPluginInterface.php	1cdcdeba34ebd353ab2347e4064e2c79
+D	src/Plugin/QueueWorker/MessageWorker.php	
+D	src/ProxyClass/ParamConverter/CourierChannelConverter.php	
+D	src/Service/CourierManager.php	
+D	src/Service/CourierManagerInterface.php	
+D	src/Service/GlobalTemplateCollectionManager.php	
+D	src/Service/GlobalTemplateCollectionManagerInterface.php	
+D	src/Service/MessageQueueManager.php	
+D	src/Service/MessageQueueManagerInterface.php	
+M	src/TemplateCollectionInterface.php	85d5ab5811070feb090ae52b227bb358
+D	src/Tests/CourierMaintenanceFormTest.php	
+D	src/Tests/CourierTest.php	
+D	src/TokenInterface.php	
+D	src/TokenTrait.php	
+D	tests/bootstrap.php	
+D	tests/modules/courier_test_message/config/schema/courier_test_message.schema.yml	
+D	tests/modules/courier_test_message/courier_test_message.info.yml	
+D	tests/modules/courier_test_message/src/Entity/TestMessage.php	
+D	tests/modules/courier_test_message/src/Entity/TestMessageInterface.php	
+D	tests/modules/courier_test_message/src/Plugin/IdentityChannel/TestMessage/User.php	
+D	tests/src/Kernel/CourierGlobalCollectionEntityTest.php	
+D	tests/src/Kernel/CourierGlobalCollectionInvalidTemplateTest.php	
+D	tests/src/Kernel/CourierGlobalCollectionTest.php	
+D	tests/src/Kernel/CourierKernelTestBase.php	
+D	tests/src/Kernel/CourierManagerTest.php	
+D	tests/src/Kernel/CourierMessageQueueManagerTest.php	

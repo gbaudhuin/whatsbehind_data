@@ -1,0 +1,688 @@
+M	.gitignore	ead8ae04be9e5ad53069ce17852f4f4b
+M	.travis-before-script.sh	6c3a216f6376fbdce10b51eaf2aeccd7
+M	.travis.yml	bf3730c48f67e853d2f80182683756e4
+M	README.md	c1d778ea8cea3ff86bbce7c3b26176e2
+M	commerce.info.yml	38a2c33e101411d67dfc47a2660d2076
+M	commerce.module	ce9b933637e7c41a3418da5c28cf6e3f
+M	commerce.permissions.yml	bc438db585670729a270140ddd1a7e20
+M	commerce.routing.yml	63e5189f2fdcaa1ca0edd6ee004d827e
+M	commerce.services.yml	41064082c171cfff71e896e77056aec0
+M	commerce.views.inc	0d1a8430a3837a377c535888d529e3d6
+M	composer.json	7990a095fd4915c9fa3c4c0190640125
+M	config/schema/commerce.schema.yml	14991b1acd5aef19d9e4c805d11aa99f
+A	config/schema/commerce.views.field.schema.yml	06fcf447c54c5efb7a74d63acd4dcd01
+M	css/commerce.icons.css	0255082728aa09efec484224730d7091
+D	icons/000000/cart.png	
+D	icons/000000/cart.svg	
+D	icons/5181c6/cart.png	
+D	icons/5181c6/cart.svg	
+D	icons/73b355/cart.png	
+D	icons/73b355/cart.svg	
+D	icons/787878/cart.png	
+D	icons/787878/cart.svg	
+D	icons/bebebe/cart.png	
+D	icons/bebebe/cart.svg	
+D	icons/e29700/cart.png	
+D	icons/e29700/cart.svg	
+D	icons/ea2800/cart.png	
+D	icons/ea2800/cart.svg	
+D	icons/ffffff/cart.png	
+D	icons/ffffff/cart.svg	
+M	modules/cart/commerce_cart.info.yml	0c252c8cfa1b96fa4ce320adf021fe6f
+D	modules/cart/commerce_cart.install	
+D	modules/cart/commerce_cart.libraries.yml	
+M	modules/cart/commerce_cart.module	adf61826f40ba5567fe765b3aa78bdd3
+D	modules/cart/commerce_cart.permissions.yml	
+D	modules/cart/commerce_cart.post_update.php	
+M	modules/cart/commerce_cart.routing.yml	d8f9e179dcf74afe42ea8af49e60f8f6
+M	modules/cart/commerce_cart.services.yml	bce1b0f47a565f9c538af28dcf24efe6
+D	modules/cart/commerce_cart.views_execution.inc	
+D	modules/cart/config/install/core.entity_form_mode.commerce_order_item.add_to_cart.yml	
+D	modules/cart/config/install/core.entity_view_mode.commerce_product_attribute_value.add_to_cart.yml	
+D	modules/cart/config/install/views.view.commerce_cart_block.yml	
+M	modules/cart/config/install/views.view.commerce_cart_form.yml	26440fed4e4fbf51d8a33e6cc9342c5a
+D	modules/cart/config/install/views.view.commerce_carts.yml	
+M	modules/cart/config/schema/commerce_cart.schema.yml	cb5ac0e53174df082411e5e4c5526fde
+D	modules/cart/css/commerce_cart.layout.css	
+D	modules/cart/css/commerce_cart.theme.css	
+D	modules/cart/js/commerce_cart.js	
+M	modules/cart/src/CartManager.php	c331a43e8bfe69f87f904e7f75b6e608
+M	modules/cart/src/CartManagerInterface.php	b4d1f455b9f14cbb5c30c2cd9878a45e
+M	modules/cart/src/CartProvider.php	c76601f953690a897d72fc71d901de0a
+M	modules/cart/src/CartProviderInterface.php	fec7536316860cfe1f0896e860296f3c
+M	modules/cart/src/CartSession.php	ba1c6ed6804cdd9669c36e8d3adea987
+M	modules/cart/src/CartSessionInterface.php	2dcbf54774946b8cdaa9422383bc0fb7
+M	modules/cart/src/Controller/CartController.php	65feade30ce2a936a6182472654205b6
+M	modules/cart/src/Event/CartEmptyEvent.php	4d0a22a017d5c29a390f00c96a9672c1
+M	modules/cart/src/Event/CartEntityAddEvent.php	cdd1787d57e0b4a65489d6542f51e2ce
+M	modules/cart/src/Event/CartEvents.php	0f0a4ef0145471958b15b387e6a22667
+A	modules/cart/src/Event/CartLineItemRemoveEvent.php	518a8b49adb677c4da2e5f8b3cfa31ba
+A	modules/cart/src/Event/CartLineItemUpdateEvent.php	438967f89af153e0ecc45f8a9bb6ae1a
+D	modules/cart/src/Event/CartOrderItemRemoveEvent.php	
+D	modules/cart/src/Event/CartOrderItemUpdateEvent.php	
+A	modules/cart/src/Event/LineItemComparisonFieldsEvent.php	de0d92ea90599b48b2e47daf1aecc663
+D	modules/cart/src/Event/OrderItemComparisonFieldsEvent.php	
+M	modules/cart/src/Exception/DuplicateCartException.php	60d1323958d901b2f36cee5f1976864a
+M	modules/cart/src/Exception/ExceptionInterface.php	22b98a4377102cf853f3f197349b789f
+D	modules/cart/src/Form/AddToCartForm.php	
+A	modules/cart/src/LineItemMatcher.php	174aa5ae59b39c80910e308737f60bf1
+A	modules/cart/src/LineItemMatcherInterface.php	8238af01eacf1d83cd634a91ef7ba9af
+D	modules/cart/src/OrderItemMatcher.php	
+D	modules/cart/src/OrderItemMatcherInterface.php	
+D	modules/cart/src/Plugin/Block/CartBlock.php	
+M	modules/cart/src/Plugin/views/field/EditQuantity.php	3b637f543150c837b9963c5efb15ed4d
+A	modules/cart/src/Tests/CartRefreshTest.php	bf7bba7916988277563b3c9bc47bb25a
+D	modules/cart/templates/commerce-cart-block.html.twig	
+D	modules/cart/tests/modules/commerce_cart_test/commerce_cart_test.info.yml	
+D	modules/cart/tests/modules/commerce_cart_test/commerce_cart_test.module	
+D	modules/cart/tests/modules/commerce_cart_test/config/install/views.view.test_multiple_cart_forms.yml	
+D	modules/cart/tests/src/Functional/AddToCartFormTest.php	
+D	modules/cart/tests/src/Functional/CartBlockTest.php	
+D	modules/cart/tests/src/Functional/CartBrowserTestBase.php	
+D	modules/cart/tests/src/Functional/CartTest.php	
+D	modules/cart/tests/src/Functional/MultipleCartFormsTest.php	
+D	modules/cart/tests/src/FunctionalJavascript/AddToCartMultiAttributeTest.php	
+D	modules/cart/tests/src/Kernel/CartOrderPlacedTest.php	
+D	modules/cart/tests/src/Kernel/CartProviderTest.php	
+D	modules/checkout/commerce_checkout.info.yml	
+D	modules/checkout/commerce_checkout.install	
+D	modules/checkout/commerce_checkout.libraries.yml	
+D	modules/checkout/commerce_checkout.links.action.yml	
+D	modules/checkout/commerce_checkout.links.menu.yml	
+D	modules/checkout/commerce_checkout.links.task.yml	
+D	modules/checkout/commerce_checkout.module	
+D	modules/checkout/commerce_checkout.permissions.yml	
+D	modules/checkout/commerce_checkout.post_update.php	
+D	modules/checkout/commerce_checkout.routing.yml	
+D	modules/checkout/commerce_checkout.services.yml	
+D	modules/checkout/config/install/commerce_checkout.commerce_checkout_flow.default.yml	
+D	modules/checkout/config/install/core.entity_view_display.commerce_product_variation.default.summary.yml	
+D	modules/checkout/config/install/core.entity_view_mode.commerce_product_variation.summary.yml	
+D	modules/checkout/config/install/views.view.commerce_checkout_order_summary.yml	
+D	modules/checkout/config/schema/commerce_checkout.schema.yml	
+D	modules/checkout/css/commerce_checkout.admin.css	
+D	modules/checkout/css/commerce_checkout.form.css	
+D	modules/checkout/css/commerce_checkout.layout.css	
+D	modules/checkout/css/commerce_checkout.progress.css	
+D	modules/checkout/js/commerce_checkout.admin.js	
+D	modules/checkout/src/Annotation/CommerceCheckoutFlow.php	
+D	modules/checkout/src/Annotation/CommerceCheckoutPane.php	
+D	modules/checkout/src/CheckoutFlowListBuilder.php	
+D	modules/checkout/src/CheckoutFlowManager.php	
+D	modules/checkout/src/CheckoutFlowPluginCollection.php	
+D	modules/checkout/src/CheckoutOrderManager.php	
+D	modules/checkout/src/CheckoutOrderManagerInterface.php	
+D	modules/checkout/src/CheckoutPaneManager.php	
+D	modules/checkout/src/Controller/CheckoutController.php	
+D	modules/checkout/src/Entity/CheckoutFlow.php	
+D	modules/checkout/src/Entity/CheckoutFlowInterface.php	
+D	modules/checkout/src/Form/CheckoutFlowForm.php	
+D	modules/checkout/src/Plugin/Block/CheckoutProgressBlock.php	
+D	modules/checkout/src/Plugin/Commerce/CheckoutFlow/CheckoutFlowBase.php	
+D	modules/checkout/src/Plugin/Commerce/CheckoutFlow/CheckoutFlowInterface.php	
+D	modules/checkout/src/Plugin/Commerce/CheckoutFlow/CheckoutFlowWithPanesBase.php	
+D	modules/checkout/src/Plugin/Commerce/CheckoutFlow/CheckoutFlowWithPanesInterface.php	
+D	modules/checkout/src/Plugin/Commerce/CheckoutFlow/MultistepDefault.php	
+D	modules/checkout/src/Plugin/Commerce/CheckoutPane/BillingInformation.php	
+D	modules/checkout/src/Plugin/Commerce/CheckoutPane/CheckoutPaneBase.php	
+D	modules/checkout/src/Plugin/Commerce/CheckoutPane/CheckoutPaneInterface.php	
+D	modules/checkout/src/Plugin/Commerce/CheckoutPane/CompletionMessage.php	
+D	modules/checkout/src/Plugin/Commerce/CheckoutPane/ContactInformation.php	
+D	modules/checkout/src/Plugin/Commerce/CheckoutPane/Login.php	
+D	modules/checkout/src/Plugin/Commerce/CheckoutPane/Review.php	
+D	modules/checkout/templates/commerce-checkout-form--with-summary.html.twig	
+D	modules/checkout/templates/commerce-checkout-form.html.twig	
+D	modules/checkout/templates/commerce-checkout-progress.html.twig	
+D	modules/checkout/tests/src/Functional/CheckoutFlowTest.php	
+D	modules/checkout/tests/src/Functional/CheckoutOrderTest.php	
+M	modules/order/commerce_order.info.yml	54280566173f844e3c75b2f85e1dbdc0
+D	modules/order/commerce_order.libraries.yml	
+M	modules/order/commerce_order.links.action.yml	1856230f2703d9f478bdb53e0f8aa83f
+M	modules/order/commerce_order.links.menu.yml	53eca1a75cf1f5571843faa5f7a43e59
+M	modules/order/commerce_order.links.task.yml	046da072107c9b165963540763ef5404
+M	modules/order/commerce_order.module	03fd29327bfb5508b8b3907dfc35b799
+M	modules/order/commerce_order.permissions.yml	2f0a4dd30d4d2396e3000a31043c89ab
+D	modules/order/commerce_order.post_update.php	
+M	modules/order/commerce_order.routing.yml	aad1338dace27d5f7139612f293d7557
+D	modules/order/commerce_order.services.yml	
+D	modules/order/commerce_order.views.inc	
+M	modules/order/commerce_order.workflow_groups.yml	e5d89fd289ed0a8416336e561670607c
+M	modules/order/commerce_order.workflows.yml	7a76bbab741d85a8542b4246b94891cb
+M	modules/order/config/install/commerce_order.commerce_order_type.default.yml	561a2839bf8e9bcf2a702d7ded8a13ff
+M	modules/order/config/install/core.entity_form_display.commerce_order.default.default.yml	43e1ef989e5257e5ee91a236f37a3649
+M	modules/order/config/install/core.entity_view_display.commerce_order.default.default.yml	db61d2cdf2d3739ee2281a1a1450a42b
+D	modules/order/config/install/core.entity_view_display.commerce_order.default.user.yml	
+D	modules/order/config/install/core.entity_view_mode.commerce_order.user.yml	
+M	modules/order/config/install/field.storage.profile.address.yml	06814dd5dcd9b328c39c935dc199e4f0
+A	modules/order/config/install/profile.type.billing.yml	3cf3ef95cedebd223c554a3ed21a1b47
+D	modules/order/config/install/profile.type.customer.yml	
+D	modules/order/config/install/system.action.commerce_delete_order_action.yml	
+D	modules/order/config/install/views.view.commerce_order_item_table.yml	
+M	modules/order/config/install/views.view.commerce_orders.yml	150da859717a3e760ee043b20789cfe3
+D	modules/order/config/install/views.view.commerce_user_orders.yml	
+M	modules/order/config/schema/commerce_order.schema.yml	c0a2398c804b20ef06d5f8125a2aa1f7
+D	modules/order/css/commerce_order.module.css	
+D	modules/order/src/Adjustment.php	
+D	modules/order/src/AvailabilityOrderProcessor.php	
+A	modules/order/src/Entity/LineItemType.php	9ac8e0c9f24a408a3f96d3453a53a071
+A	modules/order/src/Entity/LineItemTypeInterface.php	4b44f87c02279c16306d4f6913a5b283
+M	modules/order/src/Entity/Order.php	31e33ce56a3501dc86355b03b1d75945
+M	modules/order/src/Entity/OrderInterface.php	fe7d0da81cef4e86e35865edb3c26cd7
+D	modules/order/src/Entity/OrderItemType.php	
+D	modules/order/src/Entity/OrderItemTypeInterface.php	
+M	modules/order/src/Entity/OrderType.php	a03d4dbc4b89318c6e6f38085553db43
+M	modules/order/src/Entity/OrderTypeInterface.php	c3a5fc9128ed557b02e69eb7668f1a21
+D	modules/order/src/EntityAdjustableInterface.php	
+A	modules/order/src/Event/LineItemEvent.php	23c29c950fcbdef9612e3468bd80ade5
+D	modules/order/src/Event/OrderAssignEvent.php	
+M	modules/order/src/Event/OrderEvent.php	693806c186845e568ccca7e74e5f237f
+M	modules/order/src/Event/OrderEvents.php	e3592cd82930c38cc35da194a70dbfa0
+D	modules/order/src/Event/OrderItemEvent.php	
+D	modules/order/src/EventSubscriber/TimestampEventSubscriber.php	
+D	modules/order/src/Form/CustomerFormTrait.php	
+A	modules/order/src/Form/LineItemTypeForm.php	3f663d9f522f16b757ce64859bcfe6a6
+M	modules/order/src/Form/OrderAddForm.php	589aec430d9497c8008ad6e16849071f
+M	modules/order/src/Form/OrderForm.php	9cad89b65a887ddbe2de79918a1e9d08
+D	modules/order/src/Form/OrderItemTypeForm.php	
+D	modules/order/src/Form/OrderReassignForm.php	
+M	modules/order/src/Form/OrderTypeDeleteForm.php	a30f2908536421ec96741dd86fb66b65
+M	modules/order/src/Form/OrderTypeForm.php	aac83a4e0ef6bbd56a671aa5ee699c10
+D	modules/order/src/OrderAccessControlHandler.php	
+D	modules/order/src/OrderAssignment.php	
+D	modules/order/src/OrderAssignmentInterface.php	
+D	modules/order/src/OrderItemViewsData.php	
+M	modules/order/src/OrderListBuilder.php	7f30d42bd1c4fde99c79bdbdeb565a53
+D	modules/order/src/OrderPermissionProvider.php	
+D	modules/order/src/OrderProcessorInterface.php	
+D	modules/order/src/OrderRefresh.php	
+D	modules/order/src/OrderRefreshInterface.php	
+D	modules/order/src/OrderStorage.php	
+M	modules/order/src/OrderTypeListBuilder.php	5e68907f4bb32569e3b7a177933e8c0b
+D	modules/order/src/Plugin/Field/FieldFormatter/OrderItemTable.php	
+D	modules/order/src/Plugin/Field/FieldType/AdjustmentItem.php	
+D	modules/order/src/Plugin/Field/FieldType/AdjustmentItemList.php	
+D	modules/order/src/Plugin/Field/FieldType/AdjustmentItemListInterface.php	
+D	modules/order/src/Plugin/Field/FieldWidget/AdjustmentDefaultWidget.php	
+D	modules/order/src/Plugin/views/area/OrderTotal.php	
+D	modules/order/src/Resolver/ChainOrderTypeResolver.php	
+D	modules/order/src/Resolver/ChainOrderTypeResolverInterface.php	
+D	modules/order/src/Resolver/DefaultOrderTypeResolver.php	
+D	modules/order/src/Resolver/OrderTypeResolverInterface.php	
+A	modules/order/src/Tests/LineItemTypeTest.php	f8cfd48193e5d6d8ce876eee44ddbf50
+A	modules/order/src/Tests/OrderAdminTest.php	6707cadac2e9a3031e0d4ee3941c3f43
+A	modules/order/src/Tests/OrderTest.php	79e9eb9a4529eb673ce9b2507e2c08b0
+A	modules/order/src/Tests/OrderTestBase.php	e349e00eb4d2a09f250253e0d03e7b15
+A	modules/order/src/Tests/OrderTypeTest.php	ad3a7000c7c426ee6bfd9c1e4d2e5484
+D	modules/order/templates/commerce-order--user.html.twig	
+D	modules/order/templates/commerce-order-edit-form.html.twig	
+D	modules/order/templates/commerce-order.html.twig	
+D	modules/order/tests/src/Functional/OrderAdminTest.php	
+D	modules/order/tests/src/Functional/OrderBrowserTestBase.php	
+D	modules/order/tests/src/Functional/OrderItemTypeTest.php	
+D	modules/order/tests/src/Functional/OrderNoStoreTest.php	
+D	modules/order/tests/src/Functional/OrderTest.php	
+D	modules/order/tests/src/Functional/OrderTypeTest.php	
+D	modules/order/tests/src/Functional/OrderUserTest.php	
+D	modules/order/tests/src/FunctionalJavascript/OrderReassignTest.php	
+D	modules/order/tests/src/Kernel/AdjustmentItemTest.php	
+D	modules/order/tests/src/Kernel/ChainOrderTypeResolverTest.php	
+D	modules/order/tests/src/Kernel/Entity/OrderItemTest.php	
+M	modules/order/tests/src/Kernel/Entity/OrderTest.php	c31ca4ba6e838b1b10514b4dc8c9dcf0
+D	modules/order/tests/src/Kernel/OrderRefreshTest.php	
+D	modules/order/tests/src/Unit/AdjustmentTest.php	
+D	modules/payment/commerce_payment.info.yml	
+D	modules/payment/commerce_payment.libraries.yml	
+D	modules/payment/commerce_payment.links.action.yml	
+D	modules/payment/commerce_payment.links.menu.yml	
+D	modules/payment/commerce_payment.links.task.yml	
+D	modules/payment/commerce_payment.module	
+D	modules/payment/commerce_payment.permissions.yml	
+D	modules/payment/commerce_payment.routing.yml	
+D	modules/payment/commerce_payment.services.yml	
+D	modules/payment/commerce_payment.workflow_groups.yml	
+D	modules/payment/commerce_payment.workflows.yml	
+D	modules/payment/config/install/field.field.user.user.commerce_remote_id.yml	
+D	modules/payment/config/install/field.storage.user.commerce_remote_id.yml	
+D	modules/payment/config/schema/commerce_payment.schema.yml	
+D	modules/payment/css/commerce_payment.payment_method_form.css	
+D	modules/payment/css/commerce_payment.payment_method_icons.css	
+D	modules/payment/images/amex.svg	
+D	modules/payment/images/dinersclub.svg	
+D	modules/payment/images/discover.svg	
+D	modules/payment/images/jcb.svg	
+D	modules/payment/images/maestro.svg	
+D	modules/payment/images/mastercard.svg	
+D	modules/payment/images/unionpay.svg	
+D	modules/payment/images/visa.svg	
+D	modules/payment/src/Access/PaymentOperationAccessCheck.php	
+D	modules/payment/src/Annotation/CommercePaymentGateway.php	
+D	modules/payment/src/Annotation/CommercePaymentMethodType.php	
+D	modules/payment/src/Annotation/CommercePaymentType.php	
+D	modules/payment/src/CreditCard.php	
+D	modules/payment/src/CreditCardType.php	
+D	modules/payment/src/Element/PaymentGatewayForm.php	
+D	modules/payment/src/Entity/EntityWithPaymentGatewayInterface.php	
+D	modules/payment/src/Entity/Payment.php	
+D	modules/payment/src/Entity/PaymentGateway.php	
+D	modules/payment/src/Entity/PaymentGatewayInterface.php	
+D	modules/payment/src/Entity/PaymentInterface.php	
+D	modules/payment/src/Entity/PaymentMethod.php	
+D	modules/payment/src/Entity/PaymentMethodInterface.php	
+D	modules/payment/src/Exception/AuthenticationException.php	
+D	modules/payment/src/Exception/DeclineException.php	
+D	modules/payment/src/Exception/HardDeclineException.php	
+D	modules/payment/src/Exception/InvalidRequestException.php	
+D	modules/payment/src/Exception/InvalidResponseException.php	
+D	modules/payment/src/Exception/PaymentGatewayException.php	
+D	modules/payment/src/Exception/SoftDeclineException.php	
+D	modules/payment/src/Form/PaymentAddForm.php	
+D	modules/payment/src/Form/PaymentGatewayForm.php	
+D	modules/payment/src/Form/PaymentMethodAddForm.php	
+D	modules/payment/src/Form/PaymentMethodDeleteForm.php	
+D	modules/payment/src/Form/PaymentMethodEditForm.php	
+D	modules/payment/src/Form/PaymentOperationForm.php	
+D	modules/payment/src/PaymentAccessControlHandler.php	
+D	modules/payment/src/PaymentGatewayListBuilder.php	
+D	modules/payment/src/PaymentGatewayManager.php	
+D	modules/payment/src/PaymentGatewayPluginCollection.php	
+D	modules/payment/src/PaymentGatewayStorage.php	
+D	modules/payment/src/PaymentGatewayStorageInterface.php	
+D	modules/payment/src/PaymentListBuilder.php	
+D	modules/payment/src/PaymentMethodAccessCheck.php	
+D	modules/payment/src/PaymentMethodAccessControlHandler.php	
+D	modules/payment/src/PaymentMethodListBuilder.php	
+D	modules/payment/src/PaymentMethodStorage.php	
+D	modules/payment/src/PaymentMethodStorageInterface.php	
+D	modules/payment/src/PaymentMethodTypeManager.php	
+D	modules/payment/src/PaymentStorage.php	
+D	modules/payment/src/PaymentTypeManager.php	
+D	modules/payment/src/Plugin/Commerce/CheckoutPane/PaymentInformation.php	
+D	modules/payment/src/Plugin/Commerce/PaymentGateway/OnsitePaymentGatewayBase.php	
+D	modules/payment/src/Plugin/Commerce/PaymentGateway/OnsitePaymentGatewayInterface.php	
+D	modules/payment/src/Plugin/Commerce/PaymentGateway/PaymentGatewayBase.php	
+D	modules/payment/src/Plugin/Commerce/PaymentGateway/PaymentGatewayInterface.php	
+D	modules/payment/src/Plugin/Commerce/PaymentGateway/SupportsAuthorizationsInterface.php	
+D	modules/payment/src/Plugin/Commerce/PaymentGateway/SupportsRefundsInterface.php	
+D	modules/payment/src/Plugin/Commerce/PaymentGateway/SupportsStoredPaymentMethodsInterface.php	
+D	modules/payment/src/Plugin/Commerce/PaymentGateway/SupportsUpdatingStoredPaymentMethodsInterface.php	
+D	modules/payment/src/Plugin/Commerce/PaymentMethodType/CreditCard.php	
+D	modules/payment/src/Plugin/Commerce/PaymentMethodType/PayPal.php	
+D	modules/payment/src/Plugin/Commerce/PaymentMethodType/PaymentMethodTypeBase.php	
+D	modules/payment/src/Plugin/Commerce/PaymentMethodType/PaymentMethodTypeInterface.php	
+D	modules/payment/src/Plugin/Commerce/PaymentType/PaymentDefault.php	
+D	modules/payment/src/Plugin/Commerce/PaymentType/PaymentTypeBase.php	
+D	modules/payment/src/Plugin/Commerce/PaymentType/PaymentTypeInterface.php	
+D	modules/payment/src/PluginForm/PaymentAddForm.php	
+D	modules/payment/src/PluginForm/PaymentCaptureForm.php	
+D	modules/payment/src/PluginForm/PaymentGatewayFormBase.php	
+D	modules/payment/src/PluginForm/PaymentGatewayFormInterface.php	
+D	modules/payment/src/PluginForm/PaymentMethodAddForm.php	
+D	modules/payment/src/PluginForm/PaymentMethodEditForm.php	
+D	modules/payment/src/PluginForm/PaymentRefundForm.php	
+D	modules/payment/src/PluginForm/PaymentVoidForm.php	
+D	modules/payment/templates/commerce-payment-method--credit-card.html.twig	
+D	modules/payment/templates/commerce-payment-method.html.twig	
+D	modules/payment/tests/src/Functional/PaymentAdminTest.php	
+D	modules/payment/tests/src/Functional/PaymentGatewayTest.php	
+D	modules/payment/tests/src/Functional/PaymentMethodTest.php	
+D	modules/payment/tests/src/Kernel/Entity/PaymentMethodTest.php	
+D	modules/payment/tests/src/Unit/CreditCardTest.php	
+D	modules/payment/tests/src/Unit/CreditCardTypeTest.php	
+D	modules/payment_example/commerce_payment_example.info.yml	
+D	modules/payment_example/config/schema/commerce_payment_example.schema.yml	
+D	modules/payment_example/src/Plugin/Commerce/PaymentGateway/Onsite.php	
+D	modules/payment_example/src/Plugin/Commerce/PaymentGateway/OnsiteInterface.php	
+D	modules/payment_example/src/PluginForm/Onsite/PaymentMethodAddForm.php	
+M	modules/price/commerce_price.info.yml	d17291035dccf86abf418d9c5253fe56
+M	modules/price/commerce_price.install	9849b52a77dbf3e70d86b77be52efe84
+M	modules/price/commerce_price.links.action.yml	fed1c1a485b495a9230ee54c81200f17
+M	modules/price/commerce_price.links.task.yml	c39cd0c043bb78d305661bdf84c8d9e7
+M	modules/price/commerce_price.module	476d2ee3daf9726e122e67d8e474846c
+D	modules/price/commerce_price.permissions.yml	
+M	modules/price/commerce_price.routing.yml	53378ff5e1c1fe2a7ea7ba05f30abfaf
+M	modules/price/commerce_price.services.yml	4b021c2344402100d36a233910d4a939
+M	modules/price/commerce_price.views.inc	94edd8d17cade0e8f9fe2a884cb9c714
+M	modules/price/config/schema/commerce_price.schema.yml	a9e323f84882784027e46378c7bf40ea
+M	modules/price/css/commerce_price.admin.css	a3d98d9e0012729c80ead51b7c01fe58
+D	modules/price/src/Calculator.php	
+M	modules/price/src/CurrencyImporter.php	c41b9bf1ca7589ef81919209bc501ff8
+M	modules/price/src/CurrencyImporterInterface.php	31690fdfce32cd1d3050ff220fdd12d1
+M	modules/price/src/CurrencyListBuilder.php	29c223cd3ff398f7a5862a98c181c24a
+D	modules/price/src/Element/Price.php	
+M	modules/price/src/Entity/Currency.php	f1e3ce30095f7f19705a4704f6707714
+M	modules/price/src/Entity/CurrencyInterface.php	c7f78133ede1e9662b6ee00bb7a5a3b0
+M	modules/price/src/Event/NumberFormatEvent.php	23d748451bf7386b3166d08f71cc9627
+M	modules/price/src/Event/PriceEvents.php	c909a13ae76ec6f70bde1adc291615ce
+D	modules/price/src/Exception/CurrencyMismatchException.php	
+M	modules/price/src/Form/CurrencyForm.php	cc39a88d4c8c664a0c0b674f4c4ca0ba
+M	modules/price/src/Form/CurrencyImportForm.php	8068da9ccbd2d249d753efdf231cef97
+M	modules/price/src/NumberFormatRepository.php	618f6992683c222b1f83fad460981aa3
+M	modules/price/src/NumberFormatterFactory.php	0b6e528c08b1c038c4f99c657e6df477
+M	modules/price/src/NumberFormatterFactoryInterface.php	19c667d4c9a689f1a5b79216a2571813
+D	modules/price/src/Plugin/Field/FieldFormatter/PriceCalculatedFormatter.php	
+M	modules/price/src/Plugin/Field/FieldFormatter/PriceDefaultFormatter.php	999d2dbe69c478856bac4b02dc7df922
+M	modules/price/src/Plugin/Field/FieldFormatter/PricePlainFormatter.php	1e871b2e374f7e4965ab68428187daac
+M	modules/price/src/Plugin/Field/FieldWidget/PriceDefaultWidget.php	b63e1ae578a5b95e740bde693a6d771f
+D	modules/price/src/Price.php	
+D	modules/price/src/Resolver/ChainPriceResolver.php	
+D	modules/price/src/Resolver/ChainPriceResolverInterface.php	
+D	modules/price/src/Resolver/DefaultPriceResolver.php	
+D	modules/price/src/Resolver/PriceResolverInterface.php	
+M	modules/price/templates/commerce-price-plain.html.twig	658ff4c56dc5893b43517857be7be3c8
+D	modules/price/tests/modules/commerce_price_test/commerce_price_test.info.yml	
+D	modules/price/tests/modules/commerce_price_test/commerce_price_test.routing.yml	
+D	modules/price/tests/modules/commerce_price_test/commerce_price_test.services.yml	
+D	modules/price/tests/modules/commerce_price_test/src/Form/PriceTestForm.php	
+D	modules/price/tests/modules/commerce_price_test/src/TestPriceResolver.php	
+D	modules/price/tests/src/Functional/CurrencyTest.php	
+D	modules/price/tests/src/Functional/PriceElementTest.php	
+D	modules/price/tests/src/Kernel/PriceFormattersTest.php	
+D	modules/price/tests/src/Unit/PriceResolvingTest.php	
+M	modules/product/commerce_product.info.yml	4685ef847b8e6b3c21bddf657724858c
+M	modules/product/commerce_product.libraries.yml	db4e95eb796ed178c293a8a0acf0b692
+M	modules/product/commerce_product.links.action.yml	ce7455a4c86af1ddca783090b8d03d81
+M	modules/product/commerce_product.links.menu.yml	56358241474064a123bfd69cac436758
+M	modules/product/commerce_product.links.task.yml	1f82de4d5e1676cf3e46b22d91c3eebc
+M	modules/product/commerce_product.module	3e22e98cdd8f31f59ec5bc2b814bebf6
+M	modules/product/commerce_product.permissions.yml	f6d243141a1490a31f702543a24145f7
+D	modules/product/commerce_product.post_update.php	
+M	modules/product/commerce_product.routing.yml	2b24261074cfd1c70e157093c538b2fc
+M	modules/product/commerce_product.services.yml	d1f719472373c21ed1a17c11e78ad4b1
+D	modules/product/commerce_product.views.inc	
+M	modules/product/config/install/commerce_product.commerce_product_type.default.yml	8446c5d8ce35dd37d3e9cc4bca94a383
+M	modules/product/config/install/commerce_product.commerce_product_variation_type.default.yml	29b0880ec91d28b56a900bb05907b5ed
+M	modules/product/config/install/core.entity_form_display.commerce_product.default.default.yml	894b6ec36bb4b4d959d535df969f1812
+M	modules/product/config/install/core.entity_form_display.commerce_product_variation.default.default.yml	b44183f37e4fde9aa90c744d28375d18
+M	modules/product/config/install/core.entity_view_display.commerce_product.default.default.yml	b53f4b725360826901a0193875e17eb2
+D	modules/product/config/install/system.action.commerce_delete_product_action.yml	
+M	modules/product/config/install/views.view.commerce_products.yml	42fd40b5f631b9b032a1f24496e9705f
+D	modules/product/config/optional/core.entity_form_display.commerce_order_item.default.add_to_cart.yml	
+D	modules/product/config/optional/core.entity_view_display.commerce_product_variation.default.cart.yml	
+D	modules/product/config/optional/core.entity_view_mode.commerce_product_variation.cart.yml	
+M	modules/product/config/schema/commerce_product.schema.yml	8bf6e238625e12169210562edfe207aa
+D	modules/product/css/commerce_product.rendered-attributes.css	
+D	modules/product/src/ConfigTranslation/ProductAttributeMapper.php	
+D	modules/product/src/Element/CommerceProductRenderedAttribute.php	
+M	modules/product/src/Entity/Product.php	b5695eca9546742650a7aac3d268ea61
+D	modules/product/src/Entity/ProductAttribute.php	
+D	modules/product/src/Entity/ProductAttributeInterface.php	
+D	modules/product/src/Entity/ProductAttributeValue.php	
+D	modules/product/src/Entity/ProductAttributeValueInterface.php	
+M	modules/product/src/Entity/ProductInterface.php	a641573abaac6f6587addb9ac6fc30ba
+M	modules/product/src/Entity/ProductType.php	561eb4ba26e8058b588ced6f7665853a
+M	modules/product/src/Entity/ProductTypeInterface.php	3a78ac3ef5d78e41ab5aaf39dcb6971f
+M	modules/product/src/Entity/ProductVariation.php	7e69158416a46b3092a6e7db1c25762d
+M	modules/product/src/Entity/ProductVariationInterface.php	1d6ae35204d8ea506fc23b681de909e7
+M	modules/product/src/Entity/ProductVariationType.php	47fb611b0130908d5687b775e64421a3
+M	modules/product/src/Entity/ProductVariationTypeInterface.php	53b1dfa4e8fa554993622e4e64af418c
+M	modules/product/src/Event/FilterVariationsEvent.php	1f3942a44f4ff83422a1cb1a6c12048b
+D	modules/product/src/Event/ProductAttributeValueEvent.php	
+M	modules/product/src/Event/ProductEvent.php	ddc1ff66d36d8fd54f3bb700798c7dbb
+M	modules/product/src/Event/ProductEvents.php	402ff5aa0d351157523c7974f6a5afa7
+D	modules/product/src/Event/ProductVariationAjaxChangeEvent.php	
+M	modules/product/src/Event/ProductVariationEvent.php	0128592875b1b3d9c7d768906d3a2277
+A	modules/product/src/Form/AddToCartForm.php	d4b5cea68370e84dbb45b6d5fb84d9ea
+D	modules/product/src/Form/ProductAttributeDeleteForm.php	
+D	modules/product/src/Form/ProductAttributeForm.php	
+D	modules/product/src/Form/ProductAttributeTranslationAddForm.php	
+D	modules/product/src/Form/ProductAttributeTranslationEditForm.php	
+D	modules/product/src/Form/ProductAttributeTranslationFormTrait.php	
+M	modules/product/src/Form/ProductForm.php	948174ac3aa681906cad3e05e351f6df
+M	modules/product/src/Form/ProductTypeDeleteForm.php	f6008c5f2ca2cb165a126028ab9b87e8
+M	modules/product/src/Form/ProductTypeForm.php	3b6d567e43b6cd32a6490b561a0d912d
+M	modules/product/src/Form/ProductVariationInlineForm.php	79183b350ab0a5cabd9ff9cd7a6c439b
+M	modules/product/src/Form/ProductVariationTypeDeleteForm.php	a978fd5970a39768a9be86ef6f78808e
+M	modules/product/src/Form/ProductVariationTypeForm.php	839e6dbdf515307fcef3df7027e6d50e
+M	modules/product/src/Plugin/Action/PublishProduct.php	84ea28476db51da866fda8a2d7aeb922
+M	modules/product/src/Plugin/Action/UnpublishProduct.php	f7ec9ceb412457d14d66ceb7c0fa445e
+M	modules/product/src/Plugin/Field/FieldFormatter/AddToCartFormatter.php	fc1aeca8c502243d11760178a34a099a
+D	modules/product/src/Plugin/Field/FieldFormatter/ProductAttributesOverview.php	
+D	modules/product/src/Plugin/Field/FieldWidget/ProductVariationAttributesWidget.php	
+D	modules/product/src/Plugin/Field/FieldWidget/ProductVariationTitleWidget.php	
+D	modules/product/src/Plugin/Field/FieldWidget/ProductVariationWidgetBase.php	
+M	modules/product/src/Plugin/Validation/Constraint/ProductVariationSkuConstraint.php	55c0c780118a8cb65a6a82f3bb64a5f9
+M	modules/product/src/Plugin/Validation/Constraint/ProductVariationSkuConstraintValidator.php	faf09d51b51d5717d66ac9cd4c92aaf3
+D	modules/product/src/Plugin/views/filter/ProductAttributeValue.php	
+D	modules/product/src/ProductAttributeFieldManager.php	
+D	modules/product/src/ProductAttributeFieldManagerInterface.php	
+D	modules/product/src/ProductAttributeListBuilder.php	
+D	modules/product/src/ProductAttributeValueStorage.php	
+D	modules/product/src/ProductAttributeValueStorageInterface.php	
+D	modules/product/src/ProductLazyBuilders.php	
+M	modules/product/src/ProductListBuilder.php	b2a76dc6079d7f3d2c20e47a40821650
+D	modules/product/src/ProductTranslationHandler.php	
+M	modules/product/src/ProductTypeListBuilder.php	b72765012012df114d723bc121298eda
+D	modules/product/src/ProductVariationFieldRenderer.php	
+D	modules/product/src/ProductVariationFieldRendererInterface.php	
+A	modules/product/src/ProductVariationManager.php	6816b775cd0192f3324b808f49cfc71e
+A	modules/product/src/ProductVariationManagerInterface.php	2f2ee3e01a3fc82e462c5b7eac1558aa
+D	modules/product/src/ProductVariationStorage.php	
+D	modules/product/src/ProductVariationStorageInterface.php	
+M	modules/product/src/ProductVariationTypeListBuilder.php	37a0466c7fd5f42bcd99fe221702b6c5
+D	modules/product/src/ProductViewBuilder.php	
+A	modules/product/src/Tests/ProductAdminTest.php	a8166e8a62d259169d2c4255f2510f96
+A	modules/product/src/Tests/ProductTest.php	dd15dca6c016989cefb95628e7b2008f
+A	modules/product/src/Tests/ProductTestBase.php	bec308562480fe7b032840ae94e5fb59
+A	modules/product/src/Tests/ProductTypeTest.php	94f44e2acbc83dee46bfbf259731db87
+A	modules/product/src/Tests/ProductVariationTypeTest.php	834a1d9ee91907b182f20d7b858e10bc
+D	modules/product/templates/commerce-product-attribute-value.html.twig	
+D	modules/product/templates/commerce-product-variation.html.twig	
+D	modules/product/templates/commerce-product.html.twig	
+D	modules/product/tests/src/Functional/ProductAdminTest.php	
+D	modules/product/tests/src/Functional/ProductAttributeTest.php	
+D	modules/product/tests/src/Functional/ProductAttributeTranslationTest.php	
+D	modules/product/tests/src/Functional/ProductBrowserTestBase.php	
+D	modules/product/tests/src/Functional/ProductNoStoreTest.php	
+D	modules/product/tests/src/Functional/ProductTypeTest.php	
+D	modules/product/tests/src/Functional/ProductVariationFieldInjectionTest.php	
+D	modules/product/tests/src/Functional/ProductVariationTitleGenerationTest.php	
+D	modules/product/tests/src/Functional/ProductVariationTypeTest.php	
+D	modules/product/tests/src/FunctionalJavascript/ProductAttributeJavascriptTest.php	
+D	modules/product/tests/src/Kernel/Entity/ProductTest.php	
+D	modules/product/tests/src/Kernel/ProductAttributeFieldManagerTest.php	
+D	modules/product/tests/src/Kernel/ProductAttributeValueStorageTest.php	
+D	modules/product/tests/src/Kernel/ProductAttributesOverviewFormatterTest.php	
+D	modules/product/tests/src/Kernel/ProductVariationFieldRendererTest.php	
+D	modules/product/tests/src/Kernel/ProductVariationStorageTest.php	
+D	modules/promotion/commerce_promotion.info.yml	
+D	modules/promotion/commerce_promotion.links.action.yml	
+D	modules/promotion/commerce_promotion.links.menu.yml	
+D	modules/promotion/commerce_promotion.links.task.yml	
+D	modules/promotion/commerce_promotion.module	
+D	modules/promotion/commerce_promotion.routing.yml	
+D	modules/promotion/commerce_promotion.services.yml	
+D	modules/promotion/src/Annotation/CommercePromotionCondition.php	
+D	modules/promotion/src/Annotation/CommercePromotionOffer.php	
+D	modules/promotion/src/Entity/Coupon.php	
+D	modules/promotion/src/Entity/CouponInterface.php	
+D	modules/promotion/src/Entity/Promotion.php	
+D	modules/promotion/src/Entity/PromotionInterface.php	
+D	modules/promotion/src/Event/PromotionEvent.php	
+D	modules/promotion/src/Event/PromotionEvents.php	
+D	modules/promotion/src/Form/PromotionForm.php	
+D	modules/promotion/src/Plugin/Commerce/PromotionCondition/OrderTotalPrice.php	
+D	modules/promotion/src/Plugin/Commerce/PromotionCondition/PromotionConditionBase.php	
+D	modules/promotion/src/Plugin/Commerce/PromotionCondition/PromotionConditionInterface.php	
+D	modules/promotion/src/Plugin/Commerce/PromotionOffer/OrderPercentageOff.php	
+D	modules/promotion/src/Plugin/Commerce/PromotionOffer/PercentageOffBase.php	
+D	modules/promotion/src/Plugin/Commerce/PromotionOffer/ProductPercentageOff.php	
+D	modules/promotion/src/Plugin/Commerce/PromotionOffer/PromotionOfferBase.php	
+D	modules/promotion/src/Plugin/Commerce/PromotionOffer/PromotionOfferInterface.php	
+D	modules/promotion/src/PromotionConditionManager.php	
+D	modules/promotion/src/PromotionListBuilder.php	
+D	modules/promotion/src/PromotionOfferManager.php	
+D	modules/promotion/src/PromotionOrderProcessor.php	
+D	modules/promotion/src/PromotionStorage.php	
+D	modules/promotion/src/PromotionStorageInterface.php	
+D	modules/promotion/templates/commerce-promotion-form.html.twig	
+D	modules/promotion/templates/commerce-promotion.html.twig	
+D	modules/promotion/tests/src/FunctionalJavascript/PromotionTest.php	
+D	modules/promotion/tests/src/Kernel/PromotionConditionTest.php	
+D	modules/promotion/tests/src/Kernel/PromotionOfferTest.php	
+D	modules/promotion/tests/src/Kernel/PromotionOrderProcessorTest.php	
+D	modules/promotion/tests/src/Kernel/PromotionStorageTest.php	
+M	modules/store/commerce_store.info.yml	8f43a719cd59bbde8b1d6b22cc97822e
+M	modules/store/commerce_store.links.action.yml	171e0c8b5b18e60a896f8a043df833a8
+M	modules/store/commerce_store.links.menu.yml	59fd8c94a07341b45166f495df1244b2
+M	modules/store/commerce_store.module	fee8906e0f96ebf34e7db13b6a727741
+M	modules/store/commerce_store.permissions.yml	3700aeff82c7a52f7897dd2db8c8610a
+D	modules/store/commerce_store.post_update.php	
+M	modules/store/commerce_store.routing.yml	2fd76ab932fbf26a6f1f817258b8e120
+M	modules/store/commerce_store.services.yml	cee1a9a3ebe1812c11af458940e5b885
+D	modules/store/config/install/core.entity_view_display.commerce_store.online.default.yml	
+D	modules/store/config/install/system.action.commerce_delete_store_action.yml	
+M	modules/store/config/install/views.view.commerce_stores.yml	0188af26e9515567314c115e326de2fc
+M	modules/store/config/schema/commerce_store.schema.yml	98cbb2b0e4372f795dc09789d68da0f0
+D	modules/store/src/Cache/Context/StoreCacheContext.php	
+M	modules/store/src/Command/CreateStoreCommand.php	71d48216c2df67ce8afee0ed8e44b5b1
+A	modules/store/src/Entity/EntityStoreInterface.php	568812d2f708d04c5caffa8483e74154
+D	modules/store/src/Entity/EntityStoresInterface.php	
+M	modules/store/src/Entity/Store.php	40819d0cfa1c009206467d6fb1509b6f
+M	modules/store/src/Entity/StoreInterface.php	21d5131bb33760fb0b090fe7495a7a6c
+M	modules/store/src/Entity/StoreType.php	d5761d5475694695bb1102dadc09637e
+M	modules/store/src/Entity/StoreTypeInterface.php	a4692a7f2925c28ffeaeeea1281f0133
+M	modules/store/src/Event/StoreEvent.php	ad23333584672bc06f2769b17375e58e
+M	modules/store/src/Event/StoreEvents.php	9c7258363d61bccc61ca5857423776a5
+M	modules/store/src/Form/StoreForm.php	628a3705261f8edd21f4fddadb30c513
+M	modules/store/src/Form/StoreTypeDeleteForm.php	67f6f90c76c6df76808ca13aa10c0b08
+M	modules/store/src/Form/StoreTypeForm.php	fd273f2dc39088db19dd71e24ee8ff29
+D	modules/store/src/Plugin/views/argument_default/ActiveStore.php	
+D	modules/store/src/Plugin/views/field/Store.php	
+M	modules/store/src/Resolver/ChainStoreResolver.php	3b75b77308837e5d52c96721ae1efcb6
+M	modules/store/src/Resolver/ChainStoreResolverInterface.php	84960dba021009bb0e59f05db3f405cb
+M	modules/store/src/Resolver/DefaultStoreResolver.php	0a8d87c5c17aef16d52b8611892de3b0
+M	modules/store/src/Resolver/StoreResolverInterface.php	176f6d6801390dc36528c45bf42df3a7
+M	modules/store/src/StoreContext.php	d0deb5830b87c93239324e3a030aa1e9
+M	modules/store/src/StoreContextInterface.php	883c71952ece8ff20c5fa123ce7bffc8
+D	modules/store/src/StoreCreationTrait.php	
+M	modules/store/src/StoreListBuilder.php	34123d78836e98b08708f9c0b4fe83c8
+M	modules/store/src/StoreStorage.php	7b5eb78dae1a7be4a92491ea8f1cc8dd
+M	modules/store/src/StoreStorageInterface.php	4e074f5892d8a6a18a5277700d31cd17
+M	modules/store/src/StoreTypeListBuilder.php	6a91653a1e492ece1a1ad3b5d8ba6f81
+A	modules/store/src/Tests/StoreTest.php	3b87a3c65e9a4231977702e9b143913f
+A	modules/store/src/Tests/StoreTestBase.php	2eea7d61f725474d2d27545715549c7b
+A	modules/store/src/Tests/StoreTypeTest.php	68305daaeb61dcdc067017a1c66ccd6f
+D	modules/store/templates/commerce-store.html.twig	
+D	modules/store/tests/src/Functional/StoreTypeTest.php	
+D	modules/store/tests/src/FunctionalJavascript/StoreTest.php	
+M	modules/store/tests/src/Unit/Resolver/ChainStoreResolverTest.php	be694480dc41d274eb69a455f757276c
+M	modules/store/tests/src/Unit/Resolver/DefaultStoreResolverTest.php	5b326b5828143a94c842b199c5e25f4a
+A	modules/tax/commerce_tax.info.yml	0154e3832f5660b442a3c8be76c73780
+A	modules/tax/commerce_tax.install	116e006a50ff3a8e73452b9beacfe659
+A	modules/tax/commerce_tax.links.action.yml	363398096ead0eab791745c63bc5090f
+A	modules/tax/commerce_tax.links.menu.yml	850fdbefae70c6585fce20ef9a2482fe
+A	modules/tax/commerce_tax.links.task.yml	cacbbc699aa1f36bc7fd00b695ceb147
+A	modules/tax/commerce_tax.module	ea1f27559ce99acd9bb77b1ddfab864b
+A	modules/tax/commerce_tax.routing.yml	3f006994b675a4f8fa7ccd5b523c82c9
+A	modules/tax/commerce_tax.services.yml	fb0b4bb8151c8fdb3287d2b426de9ec5
+A	modules/tax/config/schema/commerce_tax.schema.yml	4a1d71ca49def31ed0ce26808c0405f4
+A	modules/tax/src/Controller/TaxRateAmountController.php	dc8a6a7fd6ed23f6f60bd69691a60c61
+A	modules/tax/src/Controller/TaxRateController.php	90ed447d186f8c35b83d4bc28e32461c
+A	modules/tax/src/Entity/TaxRate.php	ebea31c3b9c92c4e3f0e476e566b5041
+A	modules/tax/src/Entity/TaxRateAmount.php	ee86a4ff0fbdf7f94098d3fdb5cca16b
+A	modules/tax/src/Entity/TaxRateAmountInterface.php	0a8447c5267620a80210b9d491474ceb
+A	modules/tax/src/Entity/TaxRateInterface.php	077dc7581924ef82d92ed44e819275b0
+A	modules/tax/src/Entity/TaxType.php	d7639fcb370fabf53dac09f1382c60a3
+A	modules/tax/src/Entity/TaxTypeInterface.php	4802369c65950cf2a82d548265fffd85
+A	modules/tax/src/Form/TaxRateAmountDeleteForm.php	c57c8da758ab726cdc80d3e4f5a599e9
+A	modules/tax/src/Form/TaxRateAmountForm.php	65c0fa080b8f196a824c80a1c293693d
+A	modules/tax/src/Form/TaxRateDeleteForm.php	5151337e6fc222bbbfcb8fa014668fe0
+A	modules/tax/src/Form/TaxRateForm.php	d836d1c99eb3d4bae7b06e244a07d715
+A	modules/tax/src/Form/TaxTypeDeleteForm.php	a0bf435bb6b78bcd2e9a6c30470ff29c
+A	modules/tax/src/Form/TaxTypeForm.php	a02bd857d5cc64bfedf832d2eb7a447a
+A	modules/tax/src/Form/TaxTypeImporterForm.php	a59a3fe02f795903011aa6c37aa0b747
+A	modules/tax/src/TaxRateAmountListBuilder.php	5239eb43bf4ba8827b64a6fb18ce5e71
+A	modules/tax/src/TaxRateListBuilder.php	10b11c177c3377fb78bd72c3078a1224
+A	modules/tax/src/TaxTypeImporter.php	3709f2fe9b53da6d038db2d7352a2f39
+A	modules/tax/src/TaxTypeImporterFactory.php	edcb013513f948553e7b45e7047254df
+A	modules/tax/src/TaxTypeImporterFactoryInterface.php	cf4003e18688fa17a2aa6d29f5672c17
+A	modules/tax/src/TaxTypeImporterInterface.php	ca3dc4ae0eaae33efa365eb312dc11b6
+A	modules/tax/src/TaxTypeListBuilder.php	ff9f308fe21d51b7a3b663ac818eb870
+A	modules/tax/src/Tests/TaxTestBase.php	1f123ad69ed338508787d2527ac9e51b
+A	modules/tax/src/Tests/TaxTypeTest.php	19f6bb0125784d6117a7bdb11ed06557
+D	phpcs.xml	
+M	src/AvailabilityCheckerInterface.php	0970311dae1a515e96c2a18eac3c3dbe
+M	src/AvailabilityManager.php	b46a8aea1c4a0fffd441b70aae1c8d52
+M	src/AvailabilityManagerInterface.php	dbb2fefa4c65454e5ed1c9927558d53a
+D	src/BundleFieldDefinition.php	
+D	src/BundlePluginHandler.php	
+D	src/BundlePluginHandlerInterface.php	
+D	src/BundlePluginInstaller.php	
+D	src/BundlePluginInstallerInterface.php	
+D	src/BundlePluginInterface.php	
+M	src/Cache/Context/CountryCacheContext.php	67e4997710245992de6687a5833ae4c3
+M	src/CommerceContentEntityStorage.php	c75eb19fa773cc482219e29807135a8d
+D	src/Config/ConfigUpdateResult.php	
+D	src/Config/ConfigUpdater.php	
+D	src/Config/ConfigUpdaterInterface.php	
+M	src/Country.php	5b7596b43260aa1aa36f3dad7e4947f5
+M	src/CountryContext.php	4cb72ce6488694e33798f16504ff30f1
+M	src/CountryContextInterface.php	5eafb5ba923e59e395ff4d2aa8f82cb8
+D	src/CredentialsCheckFlood.php	
+D	src/CredentialsCheckFloodInterface.php	
+M	src/Element/EntitySelect.php	e15821a781ceaf146c3cbbdc44db8bf6
+D	src/Element/PluginSelect.php	
+D	src/EmbeddedEntityAccessControlHandler.php	
+D	src/EntityAccessControlHandler.php	
+D	src/EntityPermissionProvider.php	
+D	src/Form/CommercePluginEntityFormBase.php	
+M	src/Locale.php	809e1360bbd0b2463add7d07a7c0d099
+M	src/LocaleContext.php	4bfdb8cf35ade4132efdf91d7e6283e9
+M	src/LocaleContextInterface.php	f605594612a10eea9b26fded1a536431
+D	src/Plugin/Field/FieldType/PluginItem.php	
+D	src/Plugin/Field/FieldType/PluginItemDeriver.php	
+D	src/Plugin/Field/FieldType/PluginItemInterface.php	
+D	src/Plugin/Field/FieldType/RemoteIdFieldItemList.php	
+D	src/Plugin/Field/FieldType/RemoteIdFieldItemListInterface.php	
+D	src/Plugin/Field/FieldType/RemoteIdItem.php	
+M	src/Plugin/Field/FieldWidget/EntitySelectWidget.php	d8e7474154645e99084b35d335cfa4b6
+D	src/Plugin/Field/FieldWidget/OptionalDateWidget.php	
+D	src/Plugin/Field/FieldWidget/PluginSelectWidget.php	
+D	src/Plugin/views/argument_validator/CurrentUser.php	
+M	src/Plugin/views/field/EntityBundle.php	d3b78b81fddc2ed034053480b79cc84e
+D	src/Plugin/views/filter/EntityBundle.php	
+M	src/PurchasableEntityInterface.php	e43431763ea6bab7e0ea70d12e12131a
+M	src/Resolver/ChainCountryResolver.php	29c55564a778a1f9789abe8388e53a91
+M	src/Resolver/ChainCountryResolverInterface.php	7acb5d8e140ac575b4484459930aac85
+M	src/Resolver/ChainLocaleResolver.php	5fe9f378c0509b7fa629f6bed3376bbd
+M	src/Resolver/ChainLocaleResolverInterface.php	aa0cc2345db01cd1ab614d2a37d1dfd1
+M	src/Resolver/CountryResolverInterface.php	23f829d4dfe4d1e5fdfa98053651b4f8
+M	src/Resolver/DefaultCountryResolver.php	66abe801974888ef1938b5aa298f8586
+M	src/Resolver/DefaultLocaleResolver.php	974d16496852beb0b402891c25300d33
+M	src/Resolver/LocaleResolverInterface.php	8c045ca9765445209628da37272328cd
+D	src/Response/NeedsRedirectException.php	
+A	src/Tests/EntitySelectWidgetTest.php	477596f49983196d32ab55f2de59d27d
+D	src/Time.php	
+D	src/TimeInterface.php	
+D	tests/modules/commerce_bundle_plugin_test/commerce_bundle_plugin_test.info.yml	
+D	tests/modules/commerce_bundle_plugin_test/commerce_bundle_plugin_test.services.yml	
+D	tests/modules/commerce_bundle_plugin_test/src/Annotation/BundlePluginTest.php	
+D	tests/modules/commerce_bundle_plugin_test/src/BundlePluginTestManager.php	
+D	tests/modules/commerce_bundle_plugin_test/src/Entity/EntityTestBundlePlugin.php	
+D	tests/modules/commerce_bundle_plugin_test/src/Plugin/BundlePluginTest/BundlePluginTestInterface.php	
+D	tests/modules/commerce_bundle_plugin_test/src/Plugin/BundlePluginTest/First.php	
+D	tests/modules/commerce_bundle_plugin_test/src/Plugin/BundlePluginTest/Second.php	
+D	tests/modules/commerce_test/commerce_test.info.yml	
+D	tests/modules/commerce_test/commerce_test.routing.yml	
+D	tests/modules/commerce_test/commerce_test.services.yml	
+D	tests/modules/commerce_test/src/Form/RedirectForm.php	
+D	tests/modules/commerce_test/src/Plugin/Action/ThrowException.php	
+D	tests/modules/commerce_test/src/Plugin/Condition/UserRole.php	
+D	tests/modules/commerce_test/src/TestAvailabilityChecker.php	
+D	tests/modules/commerce_update_test/commerce_update_test.info.yml	
+D	tests/modules/commerce_update_test/config/install/commerce_store.commerce_store_type.testing.yml	
+D	tests/src/Functional/CommerceBrowserTestBase.php	
+D	tests/src/Functional/EntitySelectWidgetTest.php	
+D	tests/src/Functional/RedirectTest.php	
+D	tests/src/Functional/UninstallTest.php	
+D	tests/src/FunctionalJavascript/JavascriptTestTrait.php	
+D	tests/src/FunctionalJavascript/PluginItemTest.php	
+D	tests/src/Kernel/BundlePluginTest.php	
+D	tests/src/Kernel/ConfigUpdaterTest.php	
+D	tests/src/Kernel/PluginItemTest.php	
+D	tests/src/Kernel/RemoteIdItemTest.php	
+M	tests/src/Unit/AvailabilityManagerTest.php	bd13fda7c71a0536ae2cef6110c80937
+M	tests/src/Unit/Resolver/ChainCountryResolverTest.php	f36ef42d2ec85f7312ccd8f5d05cace5
+M	tests/src/Unit/Resolver/ChainLocaleResolverTest.php	434974381d2ee8bfef5908efe78af724
+M	tests/src/Unit/Resolver/DefaultCountryResolverTest.php	3fa86dfb46b829cf3a4ea327818586cd
+M	tests/src/Unit/Resolver/DefaultLocaleResolverTest.php	8db309212ae4285c2364c559a0cb36c9

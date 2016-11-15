@@ -1,0 +1,10 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	afe8684e7975b6acb16560327fa9ed39
+D	announcements.admin.inc	
+M	announcements.css	95a4bdef10f7c4770926bc742537f651
+M	announcements.info	4d09f1b515ab6756774ff77d05a05ee0
+M	announcements.install	92280096621f7e39ea10500df4d9e783
+M	announcements.module	eef63b4a7139e4a3e93d822a87dea884
+D	announcements.views.inc	
+D	goto.gif	
+A	translations/announcements.pot	d2f5b905751da48cf3d07405cfb68f0a

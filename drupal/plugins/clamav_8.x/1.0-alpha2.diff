@@ -1,0 +1,7 @@
+M	clamav.api.php	932d0dfead2a6e61c304a439b5f2382e
+M	clamav.info.yml	6ab9c878fe48b1db48a4b29a0acbf8ec
+M	clamav.module	1df32b225dded81e28b08c84a2553621
+M	config/install/clamav.settings.yml	189578d229c0f59b5533907e184d32af
+M	src/Form/ClamAVConfigForm.php	7bc406aab8224064f65870fedc9f7a6b
+M	src/Scanner.php	f49174bbf8923adde67e10333bae9939
+M	src/Scanner/DaemonTCPIP.php	9b25c0e83493d12c829ef468a268cdff

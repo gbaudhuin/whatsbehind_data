@@ -1,0 +1,46 @@
+D	CHANGELOG.txt	
+M	README.txt	14f9792a8fe6d2587f21149a7a30692f
+M	modules/sms_actions/sms_actions.info	59bd957694fe36d49438083743f82ef3
+M	modules/sms_actions/sms_actions.module	9ee7288fb73f54ea3881135c94c45efb
+M	modules/sms_blast/sms_blast.info	92e0a4b1f1e339b790568d70d0d90ad3
+D	modules/sms_clickatell/CHANGELOG.txt	
+D	modules/sms_clickatell/sms_clickatell.info	
+D	modules/sms_clickatell/sms_clickatell.module	
+M	modules/sms_devel/sms_devel.info	49770712e0c7479d559e8aff5c906788
+M	modules/sms_devel/sms_devel.module	81fe1972933679c36dedbd5199c477d8
+M	modules/sms_devel/sms_devel.virtualgw.inc	844259f8f7dd71b1a1809d80ccb87958
+D	modules/sms_email_gateway/sms_email_gateway.info	
+D	modules/sms_email_gateway/sms_email_gateway.module	
+A	modules/sms_international/sms_international.info	740c81ddd35294a565e2f19932e953e5
+A	modules/sms_international/sms_international.install	d2dd3aa1ff80d6b7b75767294c2a3263
+A	modules/sms_international/sms_international.module	e0f5c14337eba08bcd88358641d1e3d7
+M	modules/sms_sendtophone/sms_sendtophone.info	81820d3190bc26e4e7ae12502da7f9ba
+M	modules/sms_sendtophone/sms_sendtophone.js	77ac0db30e50c56e9eca95cf9041f616
+M	modules/sms_sendtophone/sms_sendtophone.module	73005576d86766dba4fa4eca5518dd10
+D	modules/sms_simplegateway/README.txt	
+D	modules/sms_simplegateway/sms_simplegateway.info	
+D	modules/sms_simplegateway/sms_simplegateway.module	
+M	modules/sms_track/sms_track.info	a4f780ca62d2eec5a4344732f8259815
+M	modules/sms_track/sms_track.module	34a2d442c87d6a32e6656529d09cda88
+M	modules/sms_track/views/sms_track.views.inc	6851b36aa329084bc0ce3e7039de496b
+M	modules/sms_track/views/sms_track.views_default.inc	018a064329d451aa6b7b17707f88651b
+D	modules/sms_txtlocal/sms_txtlocal.info	
+D	modules/sms_txtlocal/sms_txtlocal.module	
+A	modules/sms_user/includes/sms_user_handler_field_number.inc	4f27d173c5f7fb2e6a774916cda48991
+A	modules/sms_user/includes/sms_user_handler_field_status.inc	cc2fabad417f8e5f327bcb222b99620d
+A	modules/sms_user/includes/sms_user_handler_filter_status.inc	c468de18b5b89f399773c4ec2ad4c3c7
+A	modules/sms_user/sms_user.actions.inc	e11c72b9aaeda24389d88cfe8348da0b
+A	modules/sms_user/sms_user.admin.inc	9ea85b5116677f9b1f3245c1a8c92116
+M	modules/sms_user/sms_user.info	0e27a8ce1a38e14e1bac337c5c468a1c
+M	modules/sms_user/sms_user.install	ca099687bf39110b67d74579507df6c5
+A	modules/sms_user/sms_user.js	39d3aa84232823c366c291038a4a97f2
+M	modules/sms_user/sms_user.module	a968e6c4c6bc120c63263fc88a5e6f3d
+A	modules/sms_user/sms_user.rules.inc	656f19e303d4a2ca4b0189a2e1f6f945
+A	modules/sms_user/sms_user.views.inc	5cfb2ae0bc5cc6651e6e63784b49d928
+A	modules/sms_user/sms_user.views_default.inc	2da9ad810b431a8d72d2e7f30b6b6db5
+M	modules/sms_valid/sms_valid.info	c23624dab93e4f23f0cf61cd6448fec3
+M	sms.admin.inc	efdcdf8bf021f57507e99939abb1c0d6
+M	sms.info	cfdc9b8ae3794d0eb930785440a5c186
+A	sms.install	e2aca283e591f3e4d42b1c0d3a42920f
+M	sms.module	c9e090e03606fa44906d0267e8faa8ca
+A	sms.rules.inc	adc82d73545d63a75a1e278d35a6b7e0

@@ -1,0 +1,8 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	src/Plugin/Field/FieldFormatter/WeightFieldFormatter.php	68bb57248c2e91d2f6982ec9441bd9e6
+A	src/Plugin/Field/FieldType/WeightItem.php	bfca5fed981d134dfc4b9c6154d6ca6d
+A	src/Plugin/Field/FieldWidget/WeightSelectorWidget.php	3e3f56597b049f1920669cacae06c88a
+A	src/Plugin/views/field/WeightSelector.php	14959335a7132aeb4d192593442a7ff1
+A	weight.info.yml	d3e41069eae519fd1bb27e2a74d6dfdb
+A	weight.module	d52d9d7ce9c6fbe37ee0debdda51b520
+A	weight.views.inc	7ffa89291844336ec2d344a4f8fff5f3

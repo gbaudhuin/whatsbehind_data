@@ -1,0 +1,10 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	a43669652c5b2140508d09cb96944669
+A	ckeditor_abbreviation.info.yml	1b64c32bb3014b7abefc0f7d213ae4ea
+A	ckeditor_abbreviation.module	94148bdce897fdac3ea5a1335483795d
+A	composer.json	2b89d818639b4c4c411904b0c3bb6a94
+A	js/plugins/abbr/dialogs/abbr.js	f9a3bf97ce358c4a40d97e40c8850a4c
+A	js/plugins/abbr/icons/abbr.png	0ba89b9fbe7e88d4c6896ed0a1f495aa
+A	js/plugins/abbr/lang/en.js	09e9e1f4235cc8e11c1455e7c1af8f4f
+A	js/plugins/abbr/plugin.js	07dea26ffda2aa5b5a4eb674348b28cb
+A	src/Plugin/CKEditorPlugin/AbbreviationCKEditorButton.php	2cde249e37e4c1cbd12bdbd72ea02861

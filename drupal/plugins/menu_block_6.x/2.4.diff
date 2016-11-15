@@ -1,0 +1,18 @@
+M	CHANGELOG.txt	9150c4bbae1289a44346f5fe44d84f1b
+M	README.txt	2534a1c36d1d113266bb78d39e7335e7
+M	menu-block-admin.css	c2916c27f3bbe6ad66954c25270f29b3
+M	menu-block-wrapper.tpl.php	60ebfa1e1d6d037db8ca16068bd4b312
+M	menu-block.js	5af4ac77f29f18366c31762d44b26b0e
+M	menu_block.admin.inc	23e181b8f02aecb5f98b716cac90794c
+M	menu_block.api.php	f9630a40009212f31304b956453c1038
+M	menu_block.book.inc	c074bd5b2e87d59070077efc238042b7
+M	menu_block.follow.inc	8ca9a449d2dadc1a530a8084b0dcc671
+M	menu_block.info	d8d84d4eba3f88cbe5ac887b6bfc5156
+M	menu_block.install	70130433b13f15eb9f49105b70823805
+M	menu_block.module	12a25205037de6ecf32baa8873e598bc
+M	menu_block.pages.inc	c78de529340a308f1f2dbace5952b052
+M	menu_block.sort.inc	1c00e0e67e01bcb7dedbc38b69fbf772
+M	plugins/content_types/menu_tree/menu_tree.inc	b0c06932eb673f52eed982906d5fec6b
+D	translations/fr.po	
+D	translations/hu.po	
+D	translations/menu_block.pot	

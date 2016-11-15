@@ -1,0 +1,8 @@
+M	CHANGELOG.txt	467420377bc2408365f9e231871c224d
+M	author-pane-user-picture.tpl.php	b703080a067e264a4ebe3f08da86279d
+M	author-pane.tpl.php	ef1fa10d0c16bbca13942437ae8e6c0c
+M	author_pane.info	430f22a39fd6b3aabad5c550ea0f37d3
+M	author_pane.module	7ea3612aa1b5f74e272b29b4ff4a4429
+M	modules/contact.author-pane.inc	362810e3cc9f59d04705f35c4757cd5a
+D	modules/user_relationships_api.author-pane.inc	
+M	modules/user_titles.author-pane.inc	ad8a105dbff5acc4eeadc69031e535c1

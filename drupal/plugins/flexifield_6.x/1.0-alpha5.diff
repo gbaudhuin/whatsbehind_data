@@ -1,0 +1,10 @@
+M	flexifield-cck-overrides.inc	2f3e53992d30e442164aca1d3790b213
+M	flexifield-widget.inc	41f5510b49468f373efa8b26877c3f57
+M	flexifield.info	30dffd25efc4f94e442879a9e300ac35
+M	flexifield.install	41de4c9be106c402d219c24c448b4f18
+M	flexifield.module	dfbdab2d6cf9041e01a7846364579781
+A	modules/displaycontexts/flexifield_displaycontexts.info	0fda479b825d0dba07943441cc663e7b
+A	modules/displaycontexts/flexifield_displaycontexts.module	92b71ecacb23e96c9ac513f1bfd9cd55
+M	modules/fieldgroup/flexifield_fieldgroup.info	7ed31d69b5b0a01f12c80a0b8b4efe14
+M	modules/filefield/flexifield_filefield.info	9fb91f9f405277ea2983dd8057cf439f
+A	views/flexifield.views.inc	a4d23e4cd033d283a714bb47065cd02d

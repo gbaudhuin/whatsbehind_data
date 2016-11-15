@@ -1,0 +1,27 @@
+D	CHANGELOG.txt	
+M	README.txt	b01954a2276119660cc6cb13f0160e10
+M	tests/core.test	06eafed7b70557b0cd378c0e874033e5
+M	tests/input_filters.test	a6a5a2789574bccb1c143e43552e5f7c
+M	tests/twitter_mock.info	1733ebef980c6ff3bdef47618a4c866f
+M	tests/twitter_mock.module	0650b6018aa80a26c21216cd3124ba64
+M	twitter.api.php	bac92403e001f9b3027d1fba0a4eb3cd
+M	twitter.drush.inc	9713dda38b1fdbe27dbfdab789819505
+M	twitter.inc	945ea98d212dad04a48b38dd7a09ebfd
+M	twitter.info	97cd1fad0e7b2d78509a35e1f8fbdb5a
+M	twitter.install	9c70a2fdaf95c976fab4babaefd2c01b
+M	twitter.lib.php	3048a3de2ddacf896033e7bd3920bcf1
+M	twitter.module	e574338613cf15d9389321fa92a8d51a
+M	twitter.pages.inc	bb01851b46ae9d129a27d0021cf8e214
+M	twitter.views_default.inc	c23ce5e62b5b36dff8ab9dfa0ead0d93
+M	twitter_actions/twitter_actions.info	29a311f9ec79268c1c05190847528abd
+M	twitter_actions/twitter_actions.module	012abf05fe01584f24a5b4d0adaf132e
+M	twitter_post/twitter_post.info	b8e32437c9917ef631e07a2c6c75245f
+M	twitter_post/twitter_post.install	9096a4832b999137170fea7b98267285
+M	twitter_post/twitter_post.js	3983b6e6fcf381eca9664c898a0971f9
+M	twitter_post/twitter_post.module	9148ba989a3b645806342cea0f864e62
+M	twitter_post/twitter_post.pages.inc	07b8924545216eef5f90eeae9f5a7210
+M	twitter_signin/twitter_signin.info	7a3fd913365b07c507e31276e2ac366e
+D	twitter_signin/twitter_signin.install	
+M	twitter_signin/twitter_signin.module	739cb956c3b57974c280ef038d820495
+M	twitter_signin/twitter_signin.pages.inc	52eb83444a6922e3ead1d4729d833aff
+M	twitter_views_field_handlers.inc	bcc9635fc460cbe1fa748b662d358664

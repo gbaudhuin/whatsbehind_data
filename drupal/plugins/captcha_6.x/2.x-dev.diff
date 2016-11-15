@@ -1,0 +1,36 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	103dafbce28dff3d75dccb54c702c385
+M	captcha.admin.inc	3266ba06f3140d600f16a5ab60ffe0bb
+A	captcha.inc	fb0cf1f1abed868b3f60134968a342ac
+M	captcha.info	39d4332e84d957d69d59659e87a8f70e
+M	captcha.install	ba798536e15560a9b7327427b2c7c7ad
+A	captcha.js	56e0cccf9cdb386df95748548573953a
+M	captcha.module	d93e7dccc38b803a540d3b7663ed1215
+A	captcha.test	f24ef0fc90f78e90db469a8f651b3ff3
+M	captcha_api.txt	08f66bdc8ad19da752d4493a727c016c
+M	image_captcha/fonts/README.txt	8fc0dcff65f0befce5cf801af9d77c2c
+A	image_captcha/fonts/Tesox/tesox.ttf	da2986afbdd3b72d6ac4dc260a935964
+A	image_captcha/fonts/Tesox/tesox_readme.txt	ad7b39c2cbf217ef4a438e5e667b2028
+A	image_captcha/fonts/Tuffy/README.txt	2c1037b05c12f954cb9b1d30f1455a52
+A	image_captcha/fonts/Tuffy/Tuffy.ttf	1c28f465d9f1379f07437d9df543d422
+A	image_captcha/fonts/Tuffy/Tuffy_Bold.ttf	32c9f4f8f5079ce7718df5028bba4ee2
+A	image_captcha/image_captcha-rtl.css	e4f9b686ec06b363907ac90fc30a5efd
+M	image_captcha/image_captcha.admin.inc	8337d668039921016199913b156999aa
+A	image_captcha/image_captcha.css	49c4e3e745df20d5a0fff496bd45aa40
+M	image_captcha/image_captcha.info	9931cf88edc9da71c40a717b79b1d4b0
+M	image_captcha/image_captcha.install	ab1bfbe11a2a7abbc9c5cf5908b061e4
+A	image_captcha/image_captcha.js	003f8cc0b9b6684229ed3b83f8830447
+M	image_captcha/image_captcha.module	58b56df31a5c5c42496df72303b74000
+M	image_captcha/image_captcha.user.inc	4ae128f078c42340891bb9c905dfc838
+D	text_captcha/text_captcha.admin.inc	
+D	text_captcha/text_captcha.info	
+D	text_captcha/text_captcha.install	
+D	text_captcha/text_captcha.module	
+D	text_captcha/text_captcha.user.inc	
+D	translations/captcha-module.pot	
+D	translations/cs.po	
+D	translations/de.po	
+D	translations/el.po	
+D	translations/nb.po	
+D	translations/nl.po	
+D	translations/ru.po	

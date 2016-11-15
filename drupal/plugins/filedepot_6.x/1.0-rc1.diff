@@ -1,0 +1,67 @@
+D	.gitignore	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	e3bb95a72b0574c06e57055d2f2c902f
+M	ajaxserver.php	980dbb3cacf88425243de45caaea7950
+D	ajaxserver.php~	
+M	ccknodedef.inc	68837bfb316e91fddb8d69bfd92244e8
+M	css/filedepot.css	4e6a5d4fc16ed1de35eef77bcaf33381
+D	css/images/BrowseButton_61x22.png	
+M	filedepot.admin.inc	38e68cd39126e9cc5efdeef7743dd74b
+M	filedepot.class.php	5aba471ec859d3241dda0dc12ceca8be
+M	filedepot.info	3e838a029a03c87ed94b88ea613d3142
+M	filedepot.install	9046abdb57fb04238facf24f280752b9
+M	filedepot.module	d3808c7fc68aa2685622b728ee3f0b25
+D	filedepot_archiver.class.php	
+D	filedepot_secissue_71974.patch	
+M	js/common.js	54ad66e6fd5a7ebee9a19471622d05f4
+M	js/encoder.js	d8fd9f654e8320ea02b2dfa284929527
+M	js/filedepotlanguage.js	c2c595d85bb98356398f97015460751c
+M	js/initapplication.js	4d74b8e372bd518765f768a3aab8a13d
+D	js/lib-nextide.js	
+M	js/nexpro.js	c25af3f5cf6030c353e13d44efdc0d0e
+M	js/plugins.js	8635d7d1f68bc505310d52cb60910a9d
+M	lib-ajaxserver.php	63a07dcbbd18d731e938d2a2962cdfbb
+M	lib-common.php	ebc57a07f751dd776a96698dc92779fd
+M	lib-test.php	6df1869e3e99670fd5a15d1500da6c3c
+M	lib-theme.php	a68dd4d71f29f953fff012908e424052
+M	nexcloud.class.php	378238c7a1305203f42ed3909149ac4d
+D	permissions.class.php	
+M	theme/activefolder.tpl.php	93de93be9f31786b53fe9a9c024f28af
+M	theme/activefolder_admin.tpl.php	1823d72ebd969e6741d871893f907d2a
+M	theme/activefolder_nonadmin.tpl.php	a1b24dd3a4530a03ff6dc8cd377fd93f
+M	theme/ajaxactivity.tpl.php	70a30de16735dddeba9df708a6f91b1d
+M	theme/ajaxstatus.tpl.php	8f71e15c3af05c221812ff55d1861b41
+M	theme/filedetail.tpl.php	691213d80a4996d7e27eac459c071b56
+M	theme/filedetail_version.tpl.php	6cac321dc64338468d347ed92a1c53fa
+M	theme/filelisting_emptyfolder.tpl.php	c964c928c71e5e2303f68c81bda0b2b9
+M	theme/filelisting_load_folder.tpl.php	79187520bb5f247c0c477242fb15059f
+M	theme/filelisting_loading_moredata.tpl.php	afd4c13d4a6d63aa9b09bd9c7cc24cda
+M	theme/filelisting_record.tpl.php	ee1861966e82f1741319d61e5ab6dc1a
+M	theme/filelisting_subfolder.tpl.php	1c8e8ac57950ee939667eeaf3a93ac7b
+M	theme/filelistingheader.tpl.php	81490dad84723ff2f49012a7cd7deaf9
+M	theme/folder_breadcrumb_link.tpl.php	636d62b744fa84611577b890ad1e029f
+M	theme/folder_onhover_move.tpl.php	a3c587a43adbfdd764cd5620cbf2460c
+M	theme/folderperm_record.tpl.php	8e7a538de2de13b56903a26b6530e828
+M	theme/folderperms.tpl.php	aad03c27bf8c6ae157744146c565e9ec
+D	theme/folderperms_ogenabled.tpl.php	
+M	theme/move_batch_form.tpl.php	f86088d4290b1745a422965066e787d5
+M	theme/move_incoming_form.tpl.php	e2dd0b80ddb1ebdb9b87eab5dd168f94
+M	theme/native_filelisting_header.tpl.php	770be277b83b9a7b48d024f78043be2d
+M	theme/native_filelisting_record.tpl.php	a88781de7e2b8f2d33f0a039164950d8
+M	theme/newfile_folderoptions.tpl.php	09d7749572608eccb566e1f012a85eda
+M	theme/newfolder_form.tpl.php	9209efbdd115d0a2a8ed3a30d963c061
+M	theme/notifications_file_record.tpl.php	3c483c8bd7adee31f8a1cbeaa8e11d78
+M	theme/notifications_folder_record.tpl.php	330261ad5a77faa73932675787ffdc54
+M	theme/notifications_history_record.tpl.php	e06457ae37bfca450910f864ea6bf504
+M	theme/notifications_report.tpl.php	9a2c4053eea0e03ac502528ffdc05f93
+M	theme/tagcloud.tpl.php	ce1a96c1ea77d4a26e8a493f8e5cb6ff
+M	theme/tagcloud_record.tpl.php	bece5e4e44b0a18ab5af3815d9b8fd9d
+M	theme/tagdesc_record.tpl.php	6bbb7e48de72720b505aa36368f25d49
+M	theme/taglink_record.tpl.php	c721f07e711fc8126de12712e66f7d58
+M	theme/tagsearchlink.tpl.php	e9ae9f157d0de86d8aacd990e14edaa5
+M	theme/toolbar_form.tpl.php	a25e2ad20b250f16513dd3968f81e70f
+D	views/filedepot.views.inc	
+D	views/filedepot.views_default.inc	
+D	views/views-view-field--filedepot--pid.tpl.php	
+D	views/views-view-fields--filedepot-folderlisting.tpl.php	
+D	views/views-view-fields--filedepot.tpl.php	

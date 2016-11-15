@@ -1,0 +1,17 @@
+A	.cvsignore	4586f6c028b8c68b87dfbf66b3574e37
+A	CHANGELOG.txt	647385b43e714ad191b38fcd51b9af8e
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	be50ece02d43e453325a1796feca7801
+A	disqus.admin.inc	ead46870cbefe250b804f6d434f8fbfe
+A	disqus.info	c3088d87132325f6d44c8a8bee7da16b
+A	disqus.install	56676fb510de440a66203f9e922b6c46
+A	disqus.js	724bfeeee6bb99547f1f0c3602a18b19
+A	disqus.module	43e7c0457f3d3c318ae9902c8709deb0
+A	disqus.views.inc	d28796aba19c4d21a92ff24c34780473
+A	disqus_migrate.info	e2dcf06101fa9584b0d6df973e7d8904
+A	disqus_migrate.install	0bb3cb5e87ec3de47405c029767b823a
+A	disqus_migrate.module	7a17aad4e02a88c5149b08fd1e2b4f12
+A	include/disqus_migrate.export.inc	88cbdea10504f14b4144296b0ad6cd5c
+A	include/disqus_migrate.export.inc.orig	58615f8004b7f95f45e533ef8a138c88
+A	include/disqus_migrate.import.inc	ac747b9457950241b2f8a7d81c922fba
+A	include/views_handler_field_node_disqus_comments.inc	aa01ae057e1213d4f06a510d49abd01e

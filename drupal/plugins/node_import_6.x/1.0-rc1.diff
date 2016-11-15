@@ -1,0 +1,74 @@
+D	CHANGELOG.txt	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	082463915b695763887de03a6b0e3d9e
+D	help/bird-houses.csv	
+D	help/examples.html	
+D	help/input-format.html	
+D	help/introduction.html	
+D	help/new-import.html	
+D	help/node_import.help.css	
+D	help/node_import.help.ini	
+D	help/supported-cck.html	
+D	help/supported-contrib.html	
+D	help/supported-core.html	
+D	help/supported.html	
+M	node_import.admin.inc	65c621b633d875d0fac53ce89485c4c7
+D	node_import.api.php	
+M	node_import.inc	72b2cf1df1f8031725a5470746d36dc1
+M	node_import.info	755980e33ffd6fce6489d1069fb79e0e
+M	node_import.install	99ad1db496efd229f2b4040ee85350e2
+M	node_import.js	557e99249e4fe71a003e0948402edd7b
+M	node_import.module	dfe12271cbdc73eda1855541e02e280c
+D	supported/amazon/asin.inc	
+D	supported/auto_nodetitle/auto_nodetitle.inc	
+M	supported/blog.inc	18632bfccd9197fc15dca9ea8a12ba66
+M	supported/book.inc	c5ad704d72d87b13cb4165ff6dfc7d13
+D	supported/cck/content.inc	
+D	supported/cck/nodereference.inc	
+D	supported/cck/number.inc	
+D	supported/cck/optionwidgets.inc	
+D	supported/cck/text.inc	
+D	supported/cck/userreference.inc	
+M	supported/comment.inc	7b3f38292e9953b66542fad8cf8a38de
+D	supported/content_taxonomy/content_taxonomy.inc	
+D	supported/date/date.inc	
+D	supported/domain/domain.inc	
+D	supported/email/email.inc	
+D	supported/emfield/emaudio.inc	
+D	supported/emfield/emimage.inc	
+D	supported/emfield/emvideo.inc	
+D	supported/faq/faq.inc	
+D	supported/filefield/filefield.inc	
+M	supported/forum.inc	3bbb17d196b7e2b87cbe094bba7f84e3
+D	supported/imagefield/imagefield.inc	
+D	supported/link/link.inc	
+D	supported/locale.inc	
+D	supported/location/location.inc	
+D	supported/location/location_cck.inc	
+M	supported/menu.inc	c1e2179dbe05c8c537b9ca9e1583554b
+D	supported/modr8/modr8.inc	
+M	supported/node.inc	7d9890135f9dbb5238f1aae15d60ccb1
+M	supported/node_import.inc	3c87ab263a1c72aaef1c2925d75bb048
+D	supported/nodeformsettings/nodeformsettings.inc	
+D	supported/og/og.inc	
+M	supported/path.inc	d941e3defce59a80bc0835e6004d6845
+D	supported/phone/phone.inc	
+M	supported/poll.inc	fd089602839e291aba11f4ae8dabe987
+D	supported/primary_term/primary_term.inc	
+M	supported/profile.inc	7597c40c1fb1bc7debf63493e1a5f76e
+D	supported/scheduler/scheduler.inc	
+M	supported/taxonomy.inc	a8f1157de808cb9c910c65a1cad32eb0
+D	supported/token/token.inc	
+D	supported/ubercart/uc_product.inc	
+D	supported/uc_product_minmax/uc_product_minmax.inc	
+M	supported/upload.inc	bbab67aeb0791ba9a27c066ee511e228
+M	supported/user.inc	96ed6a08836ec15d80c8b2eaaacf7a8d
+D	tests/NodeImportTestCase.php	
+D	tests/empty-last-column.csv	
+D	tests/line-endings-dos.csv	
+D	tests/line-endings-mac.csv	
+D	tests/line-endings-unix.csv	
+D	tests/multiple-lines.csv	
+D	tests/no-escape.txt	
+D	tests/node_import.test	
+D	tests/supported/node.test	

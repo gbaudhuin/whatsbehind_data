@@ -1,0 +1,35 @@
+M	CHANGELOG.txt	634b767241940c4ed94aac5972268250
+M	INSTALL.txt	bc0a72e4f978bab1fdca827077c887a2
+M	TODO.txt	1d14da45128516622ea75c05c1f29165
+D	botcha.admin.inc	
+D	botcha.css	
+D	botcha.inc	
+M	botcha.info	f99a5c41b235e12bcd841ba38e20672e
+M	botcha.install	2c1e55eb9453f51ee3f44e71e59d3b37
+D	botcha.js	
+A	botcha.make	8a41a47183ce7ac2d1c4c1fd320d5862
+M	botcha.module	4bd57c66dce4c68e7bdb25c743464122
+M	botcha.rules.inc	38f0b68ef43ef256cc2c2083f541867f
+A	controller/application/botcha.application.controller.inc	265f05aeac06ea67701c27c9f9b50899
+A	controller/application/decorator/logger/botcha.application.controller.logger.inc	2ac6d4dc46bdc9ff044c9260e082c79b
+D	controller/botcha.controller.inc	
+D	controller/botcha_form.controller.inc	
+D	controller/botcha_recipebook.controller.inc	
+A	controller/form/botcha.form.controller.inc	03c0a0be2810db7c7ecb13e656f9aa51
+A	controller/form/decorator/logger/botcha.form.controller.logger.inc	2606d264f3f3339c4eec2d8ae534090f
+A	controller/recipe/decorator/logger/botcha.recipe.controller.logger.inc	ff7cbd9ab33aaafdf09731952cd61161
+A	controller/recipebook/botcha.recipebook.controller.inc	b8a2b7cbf5d5530af464108366da1def
+A	controller/recipebook/decorator/logger/botcha.recipebook.controller.logger.inc	2942a7d7514ad02b07ad05db49640321
+A	model/application/botcha.application.model.inc	f3f3435857b008f01698667a3ba6ead5
+A	model/application/decorator/logger/botcha.application.model.logger.inc	c42b9fc4afdd3b4a40d40d572966a04b
+D	model/botcha.model.inc	
+D	model/botcha_form.model.inc	
+D	model/botcha_recipe.model.inc	
+D	model/botcha_recipebook.model.inc	
+A	model/form/botcha.form.model.inc	e09f9bdf36910269d55e9a49db90f202
+A	model/form/decorator/logger/botcha.form.model.logger.inc	bc3eb6e0521302788c406c16132dd91e
+A	model/recipe/botcha.recipe.model.inc	96256227e3bada39e1260835a48929ea
+A	model/recipe/decorator/logger/botcha.recipe.model.logger.inc	7b67c637e9b1ac04acba8f0696b10c3b
+A	model/recipebook/botcha.recipebook.model.inc	f9d5a6fad0a37b669751cf537a8d012a
+A	model/recipebook/decorator/logger/botcha.recipebook.model.logger.inc	aa4a8ae978bf28adcc81ed0819b38794
+A	tests/botcha.selenium.test	0705aa7eac1bfd6239e071c9e007e430

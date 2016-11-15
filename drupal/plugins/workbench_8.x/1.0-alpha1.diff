@@ -1,0 +1,14 @@
+D	CHANGELOG.md	
+D	config/install/system.menu.workbench.yml	
+M	config/optional/views.view.workbench_edited.yml	5763c040f29d4dedfe03becbd7f3c93e
+M	css/workbench.toolbar.css	a8fc338273dcabd06baa170b802b060b
+D	images/icons/000000/workbench.svg	
+D	images/icons/bebebe/workbench.svg	
+D	images/icons/ffffff/workbench.svg	
+M	src/Controller/WorkbenchContentController.php	582f96a8593434fef580d32a94b5b75b
+M	src/Plugin/Block/WorkbenchBlock.php	28b44ce65c9b8ba8fbfd9f5987665536
+M	workbench.info.yml	b7140e81396669b37eff0acaad8fed75
+D	workbench.install	
+M	workbench.links.menu.yml	3a4e31c8346c4773a4998f0a62d2213e
+A	workbench.links.task.yml	f778be9f4cd75af717084dfea67cfac9
+M	workbench.module	a0f0fd31650af54d357460c83720cad1

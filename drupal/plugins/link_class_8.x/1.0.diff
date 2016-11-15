@@ -1,0 +1,4 @@
+D	config/schema/link_class.schema.yml	
+M	link_class.info.yml	471b44ef46b5c832cdeea9d0fcb0ec79
+M	src/Plugin/Field/FieldWidget/LinkClassFieldWidget.php	7e9bf8353e71edec9f748704178c37db
+D	src/Tests/LinkClassWidgetTest.php	

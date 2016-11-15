@@ -1,0 +1,9 @@
+M	ckeditor/NodeEmbed/plugin.js	3ce06228cc21943900f8dbe73da3cfba
+M	ckeditor/ckeditor_node_embed.view.inc	acb87600401b96416c0da6288b199cce
+M	node_embed.info	b7c2c170d8df41b6e311596037ccfe7e
+M	node_embed.module	8db6730111751a8ee82b265fc8f8a5b1
+M	plugins/js/node_embed.js	16df9a2a7399d7a654e21e8a0a96aef4
+M	plugins/node_embed.inc	96321ac1a7828b761bcf71d22910468c
+M	theme/html--ckeditor-node-embed.tpl.php	832f882f8ea53a30fd711e984475197a
+M	theme/page--ckeditor-node-embed.tpl.php	43f73123c8f8e67863cd6017daf4830b
+M	views/views_handler_node_embed_add_area.inc	4d505cc3c6c6b59bd58c9a3d8be99d94

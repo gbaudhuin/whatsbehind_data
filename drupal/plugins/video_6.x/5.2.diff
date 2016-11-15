@@ -1,0 +1,9 @@
+M	INSTALL.md	ce3de3678d7495cdadd29a7622d405f7
+M	plugins/video_s3/video_s3.info	49df1ba84e51842b30a174b58f27680c
+M	plugins/video_zencoder/transcoders/video_zencoder.inc	0cebdd6ce22d2b80b2ffb7270877a464
+M	plugins/video_zencoder/video_zencoder.info	d21e80329b3d384921209bfadf15759c
+M	types/uploadfield/uploadfield.info	7477e185d41c99296f3deaaa6083953d
+M	types/videoftp/videoftp.info	8861f2c632306aae99a861f0420c8f6c
+M	video.info	eeaf6281964e3511d7570fa7c59cbea3
+M	video.module	f8611e789aafcfc4961dbd1dba500f08
+M	video_widget.inc	5ec051ce9083c2399ec5f73f30dd2318

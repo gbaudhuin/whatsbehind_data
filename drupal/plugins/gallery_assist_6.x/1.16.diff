@@ -1,0 +1,33 @@
+M	README.txt	126f33f686dc0bb3c109b48848d31160
+M	css/gallery_assist.css	68ebd71219c8b6a936bb6ed69762a791
+M	css/gallery_assist_shadow.css	65ba9718537c9d1e779749cfaf76f424
+M	doc/hooks.php	efc0d3792f99b766a8c83d3f05a2c045
+M	gallery_assist.admin.inc	55f2a7728e7e403647488eca7a34a5e2
+M	gallery_assist.info	21e1ea9c75abd864271c6cc4fda1ad12
+M	gallery_assist.install	0dc5cc6465adc0d124d48026c6b94e71
+M	gallery_assist.module	7438fdaa149d6889c13957dba536e02d
+M	gallery_assist_display.inc	0abb847d9988de9eaa2b793ec284b0eb
+M	gallery_assist_list_display.inc	edf495aa0a9f68f725ce8da663b60b3f
+M	gallery_assist_node_settings.inc	61610753d17cf1f7d433505d5d2384f0
+M	help/article-settings.html	56af0c8c8e47125f3435cf5bd25e451d
+M	help/assignments.html	3467179b149587dba24119dd16c3bc3e
+M	help/block-options.html	a39aad6a4d9cf8bc9e081bab8ee0a1b4
+M	help/configuration.html	3c7245ef7473e31a90170aa0bf606c4f
+M	help/create.html	0e64dde75445c38f4fff951a4adb63dc
+M	help/folder-structure.html	c30fc35a780160a282680d3bb035e6eb
+M	help/global-settings.html	cd37fdfc7cbb005ce0ed66be97dfdd0b
+M	help/optional-modules.html	77c14f5631ce4b05e15b19e18c23ae47
+M	help/pager.html	dfbe493e473fdec12ffe327601c377b5
+M	images/gallery-assist-sprite.png	94ad9e44fc530800c1f6fe970a71dd50
+D	nbproject/test.txt	
+D	nbproject/test2.txt	
+M	templates/README.txt	6d03d941909832e9c1802adf75afe7b3
+M	templates/gallery-assist-display.tpl.php	214c52fa3eead2ce7de05719749f84e4
+M	templates/gallery-assist-item.tpl.php	9d953c842b8306ed2b58869d13f71dcf
+M	templates/gallery-assist-pager.tpl.php	34388c0d34ff4066d737c6d96761390e
+M	translations/gallery_assist.de.po	063f6c19f0ced99c0fce709dbe2e3ed4
+M	translations/gallery_assist.es.po	dca6387b14f93fa6c94c2fe07136ce13
+M	translations/gallery_assist.hu.po	c118c83a3ad32a4fde3247e838cdec89
+M	translations/gallery_assist.nl.po	4529e0d9d1a718a400a49534ccd12fa8
+M	translations/gallery_assist.pot	ac607f7c13f071fee7ac778766ea9b04
+M	translations/gallery_assist.ro.po	9ad6f216f83d75eef5d2154ae8bed8c6

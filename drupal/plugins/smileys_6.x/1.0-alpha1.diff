@@ -1,0 +1,78 @@
+M	CHANGELOG.txt	d2a53e492ec7e5d87f93e2f44f83ae15
+M	CREDITS.txt	8e14db301086d2da05a280e4e43ce702
+M	INSTALL.txt	037c3084af93fc1ff77987e728ce4501
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	d3380dce0ba064fc862b2bc6919d45e7
+D	packs/Roving/README.txt	
+D	packs/Roving/Roving.pak	
+D	packs/Roving/angry.png	
+D	packs/Roving/arrow.png	
+D	packs/Roving/aw.png	
+D	packs/Roving/beer.png	
+D	packs/Roving/bigsmile.png	
+D	packs/Roving/cash.png	
+D	packs/Roving/cool.png	
+D	packs/Roving/crazy.png	
+D	packs/Roving/crown.png	
+D	packs/Roving/davie.png	
+D	packs/Roving/drunk.png	
+D	packs/Roving/evil.png	
+D	packs/Roving/flat.png	
+D	packs/Roving/ghost.png	
+D	packs/Roving/glasses.png	
+D	packs/Roving/grade.png	
+D	packs/Roving/hat.png	
+D	packs/Roving/innocent.png	
+D	packs/Roving/lol.png	
+D	packs/Roving/love.png	
+D	packs/Roving/mail.png	
+D	packs/Roving/mark.png	
+D	packs/Roving/oups.png	
+D	packs/Roving/party.png	
+D	packs/Roving/puzzled.png	
+D	packs/Roving/quest.png	
+D	packs/Roving/sad.png	
+D	packs/Roving/santa.png	
+D	packs/Roving/sexy.png	
+D	packs/Roving/shock.png	
+D	packs/Roving/shy.png	
+D	packs/Roving/sick.png	
+D	packs/Roving/smile.png	
+D	packs/Roving/star.png	
+D	packs/Roving/steve.png	
+D	packs/Roving/sushi.png	
+D	packs/Roving/tired.png	
+D	packs/Roving/tongue.png	
+D	packs/Roving/wink.png	
+D	plist.inc	
+D	scripts/admin/images/delete.gif	
+D	scripts/admin/images/loading.gif	
+D	scripts/admin/images/nub.png	
+D	scripts/admin/images/reorder.gif	
+D	scripts/admin/images/save.png	
+D	scripts/admin/images/smileys-middle.png	
+D	scripts/admin/images/warning.png	
+D	scripts/admin/smileys-admin.css	
+D	scripts/admin/smileys-admin.js	
+D	scripts/images/222222_11x11_icon_close.gif	
+D	scripts/images/222222_11x11_icon_resize_se.gif	
+D	scripts/images/454545_11x11_icon_close.gif	
+D	scripts/images/888888_11x11_icon_close.gif	
+D	scripts/images/dadada_40x100_textures_02_glass_75.png	
+D	scripts/images/e6e6e6_40x100_textures_02_glass_75.png	
+D	scripts/images/ffffff_40x100_textures_02_glass_65.png	
+D	scripts/smileys.css	
+D	scripts/smileys.js	
+D	scripts/ui.core.dialog.js	
+D	scripts/ui.draggable.js	
+D	scripts/ui.resizable.js	
+A	smileys-admin.css	8ee7be0acc3ad6ffadfcf7538bcdb583
+A	smileys-admin.js	babdae8b1405bb3d01fadfe15d3544df
+D	smileys.admin.inc	
+A	smileys.css	f2c2967fd0e2be6187ba8653c1caad5f
+M	smileys.info	363b744cb63153e9c796d52bd4e303cb
+M	smileys.install	46b59e6b7f93d92db0ce1a656f5e794d
+A	smileys.js	cab4f82b264d5a8b13a87ca624e36e7f
+M	smileys.module	6c877242b6ba6eea8380a7e2a3cb511b
+M	smileys_import.info	bed2a527639f183ffb208fb5d298170b
+M	smileys_import.module	c510e828f39db95dd7506883b93e4a47

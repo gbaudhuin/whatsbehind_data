@@ -1,0 +1,9 @@
+M	CHANGELOG.txt	b1521f1bb527be9b57bc3f8baa7da098
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	README.txt	
+D	ie-css-optimizer.js	
+M	ie_css_optimizer.admin.inc	63ff08b1cc7cc3061dd70a5b1b87383a
+M	ie_css_optimizer.info	5e36a9334fe24ab16d91b21e8334abcb
+M	ie_css_optimizer.module	e6360f7a743fbbc8c8e1fedc69730ddf
+M	ie_css_optimizer.pages.inc	56b706e907ac15267bc091f8a83f8430
+A	translations/ie_css_optimizer.pot	0045941b6bbaa797b22c1db0f51233c2

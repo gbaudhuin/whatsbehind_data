@@ -1,0 +1,10 @@
+M	.travis.yml	8797db90a58e303a687f223ed8e2ac07
+M	README.md	812a1b3458b6cc354ede11171131f36b
+M	composer.json	fe4496badba2ee846dfd7d3df61a2a0c
+M	flysystem_s3.info.yml	1ce6150a9523aceaf56e05dc368ac388
+A	src/AwsCacheAdapter.php	d087d43ebb9b11a50dff22754e166839
+M	src/Flysystem/Adapter/S3Adapter.php	c5815dd33f386d60ee19f902842d3472
+M	src/Flysystem/S3.php	fe898c25f0a903bdd3e669d9432ed8ab
+M	src/Tests/ModuleInstallUninstallWebTest.php	3f55c6008533397281f8bbdbae0f7b76
+A	tests/src/Unit/AwsCacheAdapterTest.php	75d0978c497829bd8e0fd1a4f795c7a0
+M	tests/src/Unit/Flysystem/S3Test.php	0d1de81538f79fa9afbbb66312def533

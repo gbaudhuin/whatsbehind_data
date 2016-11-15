@@ -1,0 +1,4 @@
+D	composer.json	
+D	config/schema/veoa.schema.yml	
+M	src/Plugin/views/access/EntityOperation.php	9d49d0d5f162bbf746304448ea530466
+M	veoa.info.yml	16e8ac6397fef7d2a59373656b309b9b

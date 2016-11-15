@@ -1,0 +1,9 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	translations/fr.po	850bc16d7470de6b59f40bea51104a89
+M	uuid.admin.inc	9a8684bd9411e8c982d033a6fd913f27
+D	uuid.drush.inc	
+M	uuid.info	3c4ddd41cd4d475695b2f8ddaf75406c
+M	uuid.install	ffe9de2c35b1525fa0d9465979b0e55a
+M	uuid.module	902b65260953e0fbce23468630c15664
+D	uuid.test	
+D	uuid.views.inc	

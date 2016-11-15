@@ -1,0 +1,14 @@
+M	CHANGELOG.txt	039bcaf33b043f8abd9d65fb9660cca8
+M	metatag.admin.inc	0d80ffc2833064362346019db3d7dd7a
+M	metatag.info	36abd749848dbeb7ddda5224396db39f
+M	metatag.install	43705ddd696f90d00c4266c8591a911b
+M	metatag.metatag.inc	d1f726f925326b051b46174e1597de31
+M	metatag_context/metatag_context.info	1371cb2fb9ed78556271234df5a99e7d
+M	metatag_dc/metatag_dc.info	bef951d2cf996385c6bee36d34001bb5
+M	metatag_devel/metatag_devel.info	fc270f818d65e91ffa306e95f45343ca
+M	metatag_facebook/metatag_facebook.info	5dfc29ce465d799a52f3b8e44b0c7cc6
+M	metatag_opengraph/metatag_opengraph.info	e276bc86c8f579a6fb4af64afd62f40b
+M	metatag_panels/metatag_panels.info	fe2e20659d12a6fe62eba60797c31ac5
+M	metatag_twitter_cards/metatag_twitter_cards.info	bdf97d805010ec252802462fe34d246f
+M	metatag_views/metatag_views.info	7b2037638fb1ef637fa66558037e5662
+M	tests/metatag_test.info	bc81b4fbe57c3fc3ee4f2558d5c72e99

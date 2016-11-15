@@ -1,0 +1,11 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	4576ffa0aa8471daa53f0332d219b572
+M	changelog.txt	b1538e8622c77f87d922996eb6b743be
+M	js/views_slideshow_ddblock.admin.js	6a80fb29e5d556dea30dbea6ecf2ec94
+M	js/views_slideshow_ddblock.js	a638bd1a29f25123ce0bbdb37da480cf
+A	translations/views_slideshow_ddblock.pot	7b101ca839903f9e740a2935e3675fcc
+M	views-slideshow-ddblock-pager-content.tpl.php	1d5a27b88b607b2d47ba695c1aa7cbe5
+M	views-slideshow-ddblock.tpl.php	53e4e869e2e4f0eb9c792d8b8740f30f
+M	views_slideshow_ddblock.info	ac8dd5515e758907aa09783c47983435
+M	views_slideshow_ddblock.module	8a411114291aab85887860f82c313683
+M	views_slideshow_ddblock.views_slideshow.inc	18ff37ffdbf937dcfa7f736b9051a398

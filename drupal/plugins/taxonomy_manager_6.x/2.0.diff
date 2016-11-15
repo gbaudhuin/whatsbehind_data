@@ -1,0 +1,15 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	c895cc202c3536d89d39a8cce2169018
+M	css/taxonomy_manager.css	dc2af3b48b68de4123ed6408bd577f21
+M	js/csv_export.js	5f241d931f4a35b29e1c8b5457677737
+M	js/doubleTree.js	d8ca5e3fd6e4e98b9076d87f3d6113d4
+M	js/hideForm.js	6ee02ac7bfe7642bf833e877bc6364d4
+M	js/termData.js	3bfc07b1780cd8eab065a181046c9c4e
+M	js/tree.js	fa66565a2ba0f6a9cae51cbcbbdd10d2
+M	js/updateWeight.js	d542a4670171d97bddde29b71b7fed24
+M	taxonomy_manager.admin.inc	d0e607ac34222b406fbe62d8cf356cc5
+M	taxonomy_manager.info	30e6fd55645cbcd19ffe12045b297fe2
+M	taxonomy_manager.install	11d31a048065f1df4c1c45aca622db0e
+M	taxonomy_manager.module	fd3e31b339364d383d4ede8d98c93bf4
+A	translations/fr.po	7285aa3f913a6ef258a55d817b43cea5
+A	translations/ja.po	c7466fa368c360b4a19ec6949c5d78db

@@ -1,0 +1,8 @@
+M	purge_queuer_url.info.yml	b8e5ab7008b31f93d84894ef4142b6fb
+M	purge_queuer_url.services.yml	dd955588f58500610f0c7f58a928b094
+M	src/Form/ConfigurationForm.php	700d5474ad7471ffd0df999f74b5851e
+A	src/Plugin/Purge/DiagnosticCheck/RegistryCheck.php	068c37845c7d090a3e8967454133172d
+M	src/Plugin/Purge/Queuer/UrlAndPathQueuer.php	96d2ca76e964acc1d3997c0a03ce0072
+M	src/Plugin/Purge/Queuer/UrlAndPathQueuerPlugin.php	a577f2f9bfbc75394ad72d09028f76bd
+D	src/PurgeQueuerUrlServiceProvider.php	
+M	src/Tests/ConfigurationFormTest.php	5484e65123f923f1cff97d49a343a73f

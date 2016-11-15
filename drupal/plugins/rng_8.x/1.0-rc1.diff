@@ -1,0 +1,7 @@
+M	README.md	2c20b18d068228047866aff46739d25b
+M	rng.field.defaults.inc	f716b892ca11ec791d703703889e7aeb
+M	rng.info.yml	a8a0f290f70240afa87aa2ffbee32e79
+M	rng_debug/rng_debug.info.yml	ac58491ec47dbdbd9f88de66f9bb3747
+M	rng_views/rng_views.info.yml	2742edb601267b3f9419efe632268524
+A	src/Plugin/Field/FieldWidget/RegistrationGroupWidget.php	86e115638f5599fb05cd61d42f74fafb
+A	src/Plugin/Field/FieldWidget/RegistrationTypeWidget.php	9f9a69706b034aa57ee98262cee0b7e4

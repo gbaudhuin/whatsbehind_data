@@ -1,0 +1,17 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	47d68fc4b6faf7a5b2b8be08e649a73d
+A	twilio.actions.inc	8dca269f0ce0d84dc1dd8399ef8cacdb
+A	twilio.admin.inc	c8136241fd1f84c88d4de77257191b52
+A	twilio.codes.inc	dcaec55d1927a1d7bc912a1f2f43c2ff
+A	twilio.info	16952df7c70bfb88fc39613d787db68d
+A	twilio.install	02ef3ebe357d8b1bc99ddfd37cded74d
+A	twilio.module	10801b0b86284310605ac340a6c93114
+A	twilio.pages.inc	2729eca61c08be4093f2f3abb387cac1
+A	twilio.rules.inc	0d21881b393deb4d03cce5e89c5386de
+A	twilio.user.inc	ea10f4360d191b760346f380fe00c410
+A	twilio.views.inc	7342aa68fe9c2fc0d67e898790ac8200
+A	twilio_twiml/twilio_twiml.admin.inc	8e31acf5a6fdded0f792ab29843d2964
+A	twilio_twiml/twilio_twiml.info	4aac8d568645147b6303c577256d425f
+A	twilio_twiml/twilio_twiml.install	bbd8b15235b61116e7f1957109ee21cc
+A	twilio_twiml/twilio_twiml.module	3371c5339dc8c5152a4860af80991c1d
+A	twilio_twiml/twilio_twiml.rules.inc	6c5c16b875f6f54d2c730985077f1c32

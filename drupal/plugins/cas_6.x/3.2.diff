@@ -1,0 +1,11 @@
+A	cas.drush.inc	c04dcfb3ac85c981886cc36222162fcc
+M	cas.info	7c9712e9ec62792b7d0644b01d819896
+M	cas.module	1bf6dc6d8edbcf244f83cca16c19cfa4
+M	cas.pages.inc	34f9cb4df57882b9e9292d3b81045133
+M	cas.test	2e572dd4f22775b332f2f487828165fe
+M	cas.user.inc	227832f61f47b213b7755fe9983567a3
+A	cas_server.api.php	b00c5624a4ab614679b387e65ec8e679
+M	cas_server.info	9dd58ad7060a21d195044e36ec9d3e56
+M	cas_server.module	3e999610918c3d802ac461c6a3969951
+M	cas_server.response.inc	8b43c8627bc6403e01abeb0ee4d3b0f1
+M	tests/cas_test.info	b7c67678f4aa21c8eb1c631849261a44

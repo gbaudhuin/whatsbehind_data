@@ -1,0 +1,35 @@
+A	gmap-view-gmap.tpl.php	673f0296caae3d0d7a020ee658bbfd76
+M	gmap.info	82faa670a7abfbc131d6bc1e0fd2e3f2
+M	gmap.module	b87101d279fbf009f89310c988e82043
+A	gmap.views.inc	2187b055d33f1ccbf9e72f9198eb51d5
+M	gmap_location.info	a7b2dbcec70110e873a38899046b6bbb
+M	gmap_location.module	9b9b5eee5489340e4c83ed588f7d3df7
+M	gmap_macro_builder.info	13b61efe4b7a2efa127caf8a04618b25
+A	gmap_plugin_style_gmap.inc	4577762f558caee055a37d784e6baa59
+M	gmap_taxonomy.info	43fc9a4f5021af891ce132b872614474
+D	gmap_views.info	
+D	gmap_views.module	
+A	markers/small/altblue.png	19d666d2d836730cdbbdf8a3f2c99fc9
+A	markers/small/altred.png	453d9485cdd61de25fb177b06134e105
+A	markers/small/black.png	266c83c77b45cfce3cad29b8f57d0074
+M	markers/small/blue.png	e5b017f6673fc9a335f908f627a8ccbf
+A	markers/small/bpink.png	ae742eac9c7622bbb593ec07bc4977dc
+A	markers/small/bred.png	9472ced6a86355460412756a40526ac8
+A	markers/small/brown.png	c19c7d8a1bc5fff96191139499589fae
+A	markers/small/dblue.png	f791b125992e18196d9dcb062b6b3645
+A	markers/small/dgreen.png	b4df36b732017855671af1df04f03238
+A	markers/small/fgreen.png	b21c5dbadaaf487d9b4434d501799461
+A	markers/small/gray.png	b5a14b3f45d2341184e942646834027f
+A	markers/small/green.png	b2b8c7cad658beb78bd65cf2633b4fd0
+A	markers/small/lblue.png	417a422fc1a9d5c4e12515c2187c77f8
+A	markers/small/lgray.png	4e0c1d567b11c5e66f6b34b66f165481
+A	markers/small/orange.png	0a5cc528b5a4375cef1827e960499d8f
+A	markers/small/pblue.png	9af8d4ee1ec6da42ad7680115938dfd9
+A	markers/small/pgreen.png	3d708cbe91e119dd282889a34783ebbb
+A	markers/small/pink.png	d8a8517b7792760773ec20095f0a68f3
+A	markers/small/purple.png	04a316382ce8dd16813dfd67ca50b60f
+A	markers/small/pyellow.png	332df8ddf443308a1d39414936e8f996
+M	markers/small/red.png	5f311d4deda62dda6feeecffe949f25e
+M	markers/small/small.ini	c8a362a52ad1b1137ffd4df23efa2dc8
+A	markers/small/white.png	90ead4d12f7ee51aff48fa624a7e90cc
+A	markers/small/yellow.png	75d25d0dfcb53860894322569b6862b5

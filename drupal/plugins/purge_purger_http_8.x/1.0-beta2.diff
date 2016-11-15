@@ -1,0 +1,10 @@
+M	PROJECTPAGE.md	63339ea88f9849edfa27aa1ebc01c927
+M	README.md	63339ea88f9849edfa27aa1ebc01c927
+M	config/schema/purge_purger_http.schema.yml	9132b3b0703753f480739c17db204814
+M	purge_purger_http.info.yml	a87f4efa1e87743b9000b7fc3a9d6691
+M	src/Entity/HttpPurgerSettings.php	419e7e7ba98ed0b8dd9b2199fdd44a27
+M	src/Form/HttpBundledPurgerForm.php	8ac4cff0b56373d1acc6f24a110306e6
+M	src/Form/HttpPurgerFormBase.php	99b834c9b58e7b306cb0f779d92c6cd0
+M	src/Plugin/Purge/DiagnosticCheck/ConfigurationCheck.php	328e0fe390e75e7d69dd08ee47a6b57e
+M	src/Plugin/Purge/Purger/HttpPurgerBase.php	1ea8877918e6c9f258c4534453e91c5e
+M	src/Tests/HttpPurgerFormTestBase.php	be54e85bbbdae49aab847feb5f990af5

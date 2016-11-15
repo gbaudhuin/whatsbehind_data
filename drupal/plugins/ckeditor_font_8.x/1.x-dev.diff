@@ -1,0 +1,8 @@
+A	.gitignore	457cead59889909bc1a3c72e3c7cae8a
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	b26bd9914479dc9af95179d6754eda7c
+A	ckeditor_font.info.yml	70324414c1ba859c448aaf5efe3ce500
+A	composer.json	f42466eabf6e75323b332c82ff2807a6
+A	icons/font.png	d61a1729c8024fdbc3ecbc2baad172d8
+A	icons/fontsize.png	7802c8e60b0dcb863936966ef832ee28
+A	src/Plugin/CKEditorPlugin/FontCKEditorButton.php	4857a9ac7383997de199876a0a58c0f3

@@ -1,0 +1,8 @@
+A	.cvsignore	4586f6c028b8c68b87dfbf66b3574e37
+M	README.txt	da990e18bbf41a36e2c9d37ced7327ca
+M	contrib/password_tab/password_policy_password_tab.info	5acdfeef7ff5e9568ac3bbe772c130e0
+M	password_policy.admin.inc	2221dae30b9bd80b65346127a9e4a0c0
+M	password_policy.info	983bbe8433e543af92c02b00482e3d98
+M	password_policy.install	c58ae05bdaceb5dbb7d3a2ac4bccb682
+M	password_policy.module	15a0c2b83dc692beb8c9a400e9248b71
+M	tests/password_policy.test	0c49e69232afa04b77a52a4e1a885aa1

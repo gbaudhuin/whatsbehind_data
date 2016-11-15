@@ -1,0 +1,7 @@
+M	easy_social.info	5b6c73214b6819ea13fdccb963be50e4
+M	easy_social.module	a458a1ba125ebcea91f92f0be1530cf9
+A	easy_social.views.inc	f09d68fde3b7bae344ba99eaa85b592e
+M	includes/easy_social.admin.inc	bdd630a0de138f25f8127198c17f6027
+M	includes/easy_social.widgets.inc	ea606822a0c8cec7457f432d464a2be2
+M	templates/easy_social-links.tpl.php	0fe0ca04daee36b00f9c2fa7b42a5746
+A	views/easy_social_handler_field.inc	bbeb1c7317b82646737689327f015a4e

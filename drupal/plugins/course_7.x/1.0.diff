@@ -1,0 +1,15 @@
+M	course.api.php	beb7f297747bf83ed09a0e6097a3069d
+M	course.info	8998b2da89674fd55c470bfb8b7b1a6b
+M	course.module	65402b8903870d03fe122b916ff14fa3
+M	modules/course_book/course_book.info	31c8b935afad27c1ddc62616507add12
+M	modules/course_certificate/course_certificate.info	2fa4ed40b1f6626072f637a4f324b1ca
+M	modules/course_content/course_content.info	57d6b6bc1378906e81b05f12b0d2c507
+M	modules/course_object_manual/course_object_manual.info	ff45393d3730f978c5bca1f86e030d2d
+M	modules/course_poll/course_poll.info	66fe71f9be8838f31acc81056877f6d7
+M	modules/course_quiz/course_quiz.info	72a42134c0c2310a827bdbc35435b17f
+M	modules/course_signup/course_signup.info	f0a705a1ac158547018efbbfd50922d0
+M	modules/course_uc/course_uc.info	a14b3d6839477e41795cb3eeea865baf
+M	modules/course_webform/course_webform.info	5a5d30b7299180c79c9751a684ae4298
+M	plugins/course/access/timing.inc	877b57804ea7aa76104c74819c2871a5
+M	tests/course_test/course_test.info	e7da1510fc20b8d24f4b6a30e1eb6f5b
+M	views/default/course.transcript.view.inc	2e1daccff89399a328c695931e3d51fa

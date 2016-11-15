@@ -1,0 +1,16 @@
+A	fr.po	8cecee6ddc8c282bfa3b81d266547ea2
+M	imageapi.info	461cc49ef2ab8a6d9a831f96a3d322b2
+M	imageapi.install	e9bdb3bcbb31e8dfe186c333b78a0cb6
+M	imageapi.module	c1b99789cdb6274f8618be0437bbb1ec
+M	imageapi_gd.info	2f11092e0a9a8fc9d4955320396c6938
+M	imageapi_gd.install	f817e4f1500e9fe006c3bf99ff84a89d
+M	imageapi_gd.module	e1ad83b1e2d36722317ddc00b325e7b8
+M	imageapi_imagemagick.info	93fcbc8daeb355764ad36d7a042e996c
+M	imageapi_imagemagick.module	b15fefd33554352d41d661f0ea12c610
+M	imagefilter.inc	190539dbaa7be8f4d6437231f726ad6d
+M	imagerotate.inc	7ea2bc5a384828ddb2af9fe4cc5a6f09
+A	translations/ar.po	2315ae77f9fad8336535a6d755aa0b56
+A	translations/fr.po	893ca08d4170fadf00d153098317370e
+A	translations/hu.po	f150d46955285ccd2188819f862d7627
+A	translations/uk-ua.po	ba9a738744ec4c0241a5058cf603c83d
+A	translations/uk.po	ba9a738744ec4c0241a5058cf603c83d

@@ -1,0 +1,12 @@
+D	composer.json	
+M	config/schema/media_entity_image.schema.yml	b22d0fad712a25dd4208660bb139024d
+M	media_entity_image.info.yml	fe94b7769e248053fbba6eeb6796fb5b
+M	media_entity_image.module	ce407ff5715c837d02b1aba7975bf512
+M	src/Plugin/EntityBrowser/Widget/Upload.php	504409c221a8eefdea12402856162085
+M	src/Plugin/MediaEntity/Type/Image.php	d4dbcac6385f1d525679a8828133dee7
+D	src/Tests/MediaEntityImageTest.php	
+D	tests/modules/media_entity_image_test/config/install/entity_browser.browser.test_entity_browser_for_images.yml	
+D	tests/modules/media_entity_image_test/config/install/field.field.media.media_bundle_for_images.field_image.yml	
+D	tests/modules/media_entity_image_test/config/install/field.storage.media.field_image.yml	
+D	tests/modules/media_entity_image_test/config/install/media_entity.bundle.media_bundle_for_images.yml	
+D	tests/modules/media_entity_image_test/media_entity_image_test.info.yml	

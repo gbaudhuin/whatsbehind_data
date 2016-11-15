@@ -1,0 +1,11 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	includes/media_vimeo.admin.inc	c1f54225981200da83331f6da0bdbb96
+M	includes/media_vimeo.variables.inc	19a1acd0e03377a48513b8d6cadbf716
+M	includes/providers/emvideo/vimeo.inc	10d8498c09a7e33a1fa46cb49f9b8e66
+M	media_vimeo.info	17f9f0c8388f2b4ab9f498a03849aba0
+M	media_vimeo.install	654fdfe703122afe1140c6178b5cb5eb
+M	media_vimeo.module	41bdc77cf65ea89e57f517a3eb743f14
+M	themes/media-vimeo-flash.tpl.php	b9969e79612d5599b017e856528e0145
+M	themes/media-vimeo-universal.tpl.php	ef1a35f4387b8440b991d78c17ad4e6b
+M	themes/media-vimeo.tpl.php	ba80d92e134b5bcad408fb5d6028f15c
+M	themes/media_vimeo.theme.inc	454331339e7ce5fe3e5bc53fa14d849d

@@ -1,0 +1,19 @@
+D	CHANGELOG.txt	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	b13c878e6979bee994eb46c5dfbc9c1b
+M	notify.info	2e76c56af18be54139a24270299b6497
+M	notify.install	a0f13f7ae90a51e98868674bb47271f3
+M	notify.module	410cea2beb3fc9d94534d38a49e577a2
+D	notify_viewsintegration.info	
+D	notify_viewsintegration.module	
+A	po/ca.po	c94eae9002b123d34c3d4d425d222e48
+A	po/cs.po	5d951a22ad7d252d92a864a9eb5f267e
+A	po/da.po	ec6797aa56380bfdb5b2d4a83292fccd
+A	po/de.po	53664d857cb54b740497812d296d0aa6
+A	po/es.po	dfdf2abb648a87193622fa1e1b3a566b
+A	po/fi.po	ef829391be00eeb9792ee386b6a4e8e1
+A	po/fr.po	e1ebaa21d43b48d83702e08f1e27d85d
+A	po/it.po	db28c5f38bb1da72fe85156bcff69143
+A	po/notify.pot	306d8da3027785489a340e294d8e50c6
+A	po/pl.po	3dd9f7b3c4e04eba13b20e61756b700e
+A	po/ru.po	94c1f0687c2e17711df27fbeed7a5a9f

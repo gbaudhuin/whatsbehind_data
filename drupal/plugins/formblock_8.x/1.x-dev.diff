@@ -1,0 +1,7 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	formblock.info.yml	d7abe61a75e03648cf2c79e1a4145e19
+A	formblock.module	ce407ff5715c837d02b1aba7975bf512
+A	src/Plugin/Block/ContactFormBlock.php	c2fc8159331467958867f4800ff4dec3
+A	src/Plugin/Block/NodeFormBlock.php	60b88708094fd19cf4b0b8833532d47a
+A	src/Plugin/Block/UserPasswordBlock.php	c3947de514aa61ea3bad4eb38712c2bb
+A	src/Plugin/Block/UserRegisterBlock.php	fc99b4ecf1d821934041f0a584a02219

@@ -1,0 +1,13 @@
+A	.cvsignore	952fd44d14cee87882239b707231609d
+M	README.txt	7a7e01ef35785bfd9ab20bed1ed2e808
+A	translations/es.po	5b3887cb2474766a8178ea43e7422ff2
+M	translations/hu.po	eb38ae4c22c2075b096ebf7f5894d9db
+M	video_filter.codecs.inc	ad15e93d9918a374ac002e1ce9959ad6
+M	video_filter.info	9a84447d31f7adf850f9baf8f4423a1b
+M	video_filter.module	3048d04161da20a3c8832b97a238c91b
+A	wysiwyg/tinymce/editor_plugin.js	3380f9bef9a1a84557a692fcff6b08e8
+A	wysiwyg/tinymce/editor_plugin_src.js	948fbc33a4fecf71098386f37d6dba64
+A	wysiwyg/tinymce/images/movie_track.png	dca3c67b69c25935b02cc0b83a9fe56a
+A	wysiwyg/tinymce/jscripts/video_filter.js	2a3909b047486fa184ce30d812ff0ab7
+A	wysiwyg/tinymce/langs/en_dlg.js	e219d1b6210bf962ccfdde570ab46c6f
+A	wysiwyg/tinymce/video_filter.css	318122766cc1a665891d7ec9300689da

@@ -1,0 +1,8 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	simple_mail.info.yml	792bdfbb9d7a7c99fb6b1edef9475179
+A	simple_mail.links.menu.yml	ad3a9c84735d59e843b93b9146838ced
+A	simple_mail.module	a9a88b8c37a56af98f2d49d26e193118
+A	simple_mail.routing.yml	dffb10b9ee2532988fb4927178887ce9
+A	src/Controller/SimpleMailSettingsController.php	58d4d73cc050ccc7cbeb8cf4f1b38771
+A	src/Plugin/Mail.php	54f5119fce1b46d9118d83dc6c77d1e3
+A	src/Plugin/QueueWorker/SimpleMailSendQueuedMail.php	9c7be28b2c0ddcffc30b7f9177335a33

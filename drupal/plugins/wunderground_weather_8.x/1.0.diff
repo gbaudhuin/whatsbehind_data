@@ -1,0 +1,12 @@
+M	src/Controller/LocationAutocompleteController.php	222afa23d058554163d6872d494f9ac2
+M	src/Form/WundergroundWeatherSettingsForm.php	7b2db9361bcf58f0b29f8da7be295488
+A	src/Plugin/Block/WeatherBlockBase.php	51cbae6f6f626b3bd6e91197b258b1f3
+M	src/Plugin/Block/WeatherCurrentBlock.php	c772508d3ed82e2272b4afe2d5c3e8fc
+M	src/Plugin/Block/WeatherForecastBlock.php	5d1e11fc1eae9505d640569d621a1da6
+D	src/Plugin/Block/WeatherHourlyBlock.php	
+A	src/Plugin/Block/WeatherSatelliteBlock.php	80bacecdab28f33bac0267f89fd8cb7c
+A	src/RequestData.php	725da5214ad779d604379e9572a40807
+D	src/WundergroundWeatherManager.php	
+M	wunderground_weather.info.yml	8376c617865705ff91d8357cc5372084
+M	wunderground_weather.module	7de3f86cd9da618e3882b4aecd1e55a5
+M	wunderground_weather.services.yml	6f5a7d34601837f82ee3cf49f0b74245

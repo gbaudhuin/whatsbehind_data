@@ -1,0 +1,9 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	8c7cb91430a3da34019a14a626417233
+M	template/customer_bank_transfer.itpl.php	057e4d8b99d2a63e35426a23496a8e73
+D	template/uc_order-customer-bank_transfer.tpl.php	
+A	translations/uc_bank_transfer.pot	9dab802e740a52d9c9759b35a67d0cce
+M	uc_bank_transfer.admin.inc	842c121c04aa0e75960d78a36d23c124
+M	uc_bank_transfer.info	667ae30435d0db0485bd6b4cc4602741
+M	uc_bank_transfer.install	980f1ebc6e1a07343a65844b28279334
+M	uc_bank_transfer.module	f3a577a61cddc3bb9fb1a9409900f1d5

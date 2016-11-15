@@ -1,0 +1,177 @@
+M	.travis.yml	76f0d23d1c2fe3067c274e1f3658c56a
+M	README.md	fb0b72b93831fae8196ac754e48c0590
+D	composer.json	
+M	config/schema/entity_browser.schema.yml	fb571591c188d3a23bfbecd94137ebad
+D	css/entity_browser.entity_browser.css	
+D	css/entity_browser.entity_list.css	
+A	css/entity_browser.entity_reference.css	3162408de3bf232d423a17b04af82a34
+D	css/entity_browser.file_browser.css	
+D	css/entity_browser.iframe.css	
+M	css/entity_browser.tabs.css	da9e3b598745a148970e28e6ee8c3cad
+M	entity_browser.api.php	1d7527d0954b63a2727a4cbf7b42d0b8
+M	entity_browser.info.yml	a367eb1061e3314a38547a0c18c3b228
+D	entity_browser.install	
+M	entity_browser.libraries.yml	7ce5d52ab58c9c2d8d9884d308e24eaf
+D	entity_browser.links.action.yml	
+D	entity_browser.links.menu.yml	
+M	entity_browser.module	1b78f01ea2e9a5b38bca69e1adef4c81
+M	entity_browser.routing.yml	0dce8ef836e1b39e916495f56fe84054
+M	entity_browser.services.yml	65ee6e2d4966bdeb2e72fa7c909d3603
+M	entity_browser.views.inc	1de9a10cd1c95d336452539436c9dda8
+M	js/entity_browser.common.js	ec04e78fc4c2db548f16200a8cabea6b
+M	js/entity_browser.entity_reference.js	f2b34a134f29f59c9c0c3924d04dc7f2
+M	js/entity_browser.iframe.js	963d2a1870e71bbe5e2e0d03c559eb80
+M	js/entity_browser.iframe_selection.js	7f3cca00b50e6e61f8f17ec75f421907
+M	js/entity_browser.modal.js	7f3bc0edc80ea983cc70f3d0c13b4de7
+M	js/entity_browser.modal_selection.js	dd63a46b6fc6388e1951f171d597162c
+D	js/entity_browser.multi_step_display.js	
+M	js/entity_browser.tabs.js	1b29f64881ad0dc40a1fe4a25b2e01bf
+M	js/entity_browser.view.js	723c49236c6db53c2a74f29b143aec82
+M	modules/entity_form/config/schema/entity_browser_entity_form.schema.yml	f9829148b5f8436520868b5b1412b108
+M	modules/entity_form/entity_browser_entity_form.info.yml	df2309a9a19c1ebc1d8a8e7854acdc1d
+M	modules/entity_form/entity_browser_entity_form.libraries.yml	f1c492b1a6f65b6673d3b832768b41cb
+M	modules/entity_form/entity_browser_entity_form.module	dbad54af54d17c12f4d2abcca57cb4c2
+M	modules/entity_form/js/entity_browser_entity_form.js	2456948a95d3b68fcb167c6546d7ec84
+M	modules/entity_form/src/Plugin/EntityBrowser/Widget/EntityForm.php	65318e8a6fa03415f85a38b459982c04
+D	modules/entity_form/src/Tests/InlineEntityIntegrationTest.php	
+D	modules/entity_form/tests/modules/entity_browser_entity_form_test/config/install/entity_browser.browser.entity_browser_entity_form_test.yml	
+D	modules/entity_form/tests/modules/entity_browser_entity_form_test/config/install/field.field.node.article.field_content_reference.yml	
+D	modules/entity_form/tests/modules/entity_browser_entity_form_test/config/install/field.storage.node.field_content_reference.yml	
+D	modules/entity_form/tests/modules/entity_browser_entity_form_test/config/install/node.type.article.yml	
+D	modules/entity_form/tests/modules/entity_browser_entity_form_test/entity_browser_entity_form_test.info.yml	
+M	modules/example/config/install/core.entity_form_display.node.entity_browser_test.default.yml	0f3ce5088b04ec618c4bba51660f11dc
+M	modules/example/config/install/core.entity_view_display.node.entity_browser_test.default.yml	6bd11f65a100ff051a04dd9eab4061d4
+M	modules/example/config/install/entity_browser.browser.test_files.yml	cb9f536e285b8963103f06ea68950c4c
+M	modules/example/config/install/entity_browser.browser.test_files1.yml	51b97841f22c492b340efb40c01f2427
+M	modules/example/config/install/entity_browser.browser.test_nodes.yml	ef2d6cc31bde7c64296b2dbdc8f3024b
+M	modules/example/config/install/field.field.node.entity_browser_test.field_files.yml	4170fd756f4953ba53527f0ee71a1a67
+M	modules/example/config/install/field.field.node.entity_browser_test.field_files1.yml	65ce08ef1b168938adefc152dc7db389
+D	modules/example/config/install/field.field.node.entity_browser_test.field_image_browser.yml	
+M	modules/example/config/install/field.field.node.entity_browser_test.field_nodes.yml	df1941cec9b4205b753c631162d61497
+M	modules/example/config/install/field.storage.node.field_files.yml	23119659a31e4e5bc7f8d7bcf1ffc918
+M	modules/example/config/install/field.storage.node.field_files1.yml	43c0580c502c7844c6955ae64d7b554a
+D	modules/example/config/install/field.storage.node.field_image_browser.yml	
+M	modules/example/config/install/field.storage.node.field_nodes.yml	523d51b236dd86994b015cbcf936a62f
+M	modules/example/config/install/views.view.nodes_entity_browser.yml	01bf53e507d60d86c3403f046be1f451
+M	modules/example/entity_browser_example.info.yml	fe8a47a63b5db31218561d1ff0e14b78
+M	src/Ajax/SelectEntitiesCommand.php	f52cdb0ad144328f5bc1c0ef91ec1cdb
+D	src/Ajax/ValueUpdatedCommand.php	
+M	src/Annotation/EntityBrowserDisplay.php	6714639892829e6907f047c2d8da8652
+M	src/Annotation/EntityBrowserFieldWidgetDisplay.php	c35043042ab1b6d42b0dac5d6b596d6d
+M	src/Annotation/EntityBrowserSelectionDisplay.php	bbe9741fde96a4ea0b2d7dbe155ab06e
+M	src/Annotation/EntityBrowserWidget.php	b708e1a0b86ecfb2c19ddc3302031a95
+M	src/Annotation/EntityBrowserWidgetSelector.php	4aac47f2d4aae392119bbac8dcaad431
+D	src/Annotation/EntityBrowserWidgetValidation.php	
+D	src/Controllers/CtoolsFallback.php	
+D	src/Controllers/EntityBrowserController.php	
+D	src/Controllers/EntityBrowserListBuilder.php	
+M	src/DisplayAjaxInterface.php	92900a8f7d136855e7827924f7ddc88f
+M	src/DisplayBase.php	ff691646750e01bdb4c99247db4c0bab
+M	src/DisplayInterface.php	f5ccc22536aa8505ad97bc2a429c842e
+M	src/DisplayManager.php	4c9784412870102d1d7a981f3f9a285f
+M	src/DisplayRouterInterface.php	ae989d60590d10f8e6585fa96017dc16
+D	src/Element/EntityBrowserElement.php	
+M	src/Entity/EntityBrowser.php	f8182078a474412d5d21fe14702c0284
+D	src/EntityBrowserFormInterface.php	
+M	src/EntityBrowserInterface.php	00d14507ceb61a5614e953fc47db889c
+D	src/Events/AlterEntityBrowserDisplayData.php	
+M	src/Events/EntitySelectionEvent.php	1b9cd554121977426cc8da544dde16b3
+M	src/Events/EventBase.php	3f3effdb84cfd5b82c9b63910066bde5
+M	src/Events/Events.php	ce943bd66ba6d221dee5c45242224b2f
+M	src/Events/RegisterJSCallbacks.php	3b685c692188d5ba9ba8b10bc05803b2
+M	src/Events/SelectionDoneEvent.php	0156b0940bdbd378fd99947f71d8bf58
+D	src/FieldWidgetDisplayBase.php	
+M	src/FieldWidgetDisplayInterface.php	2197f191e40586f4e58dd1f0ef266167
+M	src/FieldWidgetDisplayManager.php	d808185ef8a6930fd94a9d7fc093a836
+D	src/Form/DisplayConfig.php	
+D	src/Form/EntityBrowserDeleteForm.php	
+M	src/Form/EntityBrowserForm.php	5a461a2964da06e08add0e753d9faf31
+D	src/Form/GeneralInfoConfig.php	
+D	src/Form/PluginConfigFormBase.php	
+D	src/Form/SelectionDisplayConfig.php	
+D	src/Form/WidgetSelectorConfig.php	
+D	src/Form/WidgetsConfig.php	
+M	src/Permissions.php	b5af560a32d39d48db26b63124d72a5f
+M	src/Plugin/EntityBrowser/Display/IFrame.php	e76343870a6fd6bbe1258ae1ba6c3b7e
+M	src/Plugin/EntityBrowser/Display/Modal.php	33e9f64386331c5560930d7f0121ce42
+M	src/Plugin/EntityBrowser/Display/Standalone.php	ea60a863d430885fa8ad4d55dfe3f406
+M	src/Plugin/EntityBrowser/FieldWidgetDisplay/EntityLabel.php	4b36f59b1fbca3886248cd7850f1a54c
+M	src/Plugin/EntityBrowser/FieldWidgetDisplay/ImageThumbnail.php	b5bfa80de0f52c642f72c4a767bf9ba3
+M	src/Plugin/EntityBrowser/FieldWidgetDisplay/RenderedEntity.php	7600b4660e6c34d8d67626a2e4240694
+D	src/Plugin/EntityBrowser/SelectionDisplay/MultiStepDisplay.php	
+M	src/Plugin/EntityBrowser/SelectionDisplay/NoDisplay.php	7d797f19afb18ea0c6ef207ce3c4b42c
+M	src/Plugin/EntityBrowser/SelectionDisplay/View.php	6af0a998889ae307ba781dd33b114554
+M	src/Plugin/EntityBrowser/Widget/Upload.php	d978d8973e9f6661f686e0d00142cdfd
+M	src/Plugin/EntityBrowser/Widget/View.php	0d42df1b7faad1e5e0382e18c8b35cce
+M	src/Plugin/EntityBrowser/WidgetSelector/DropDown.php	fb6b3b9327a0b365df41a8414d5f14d0
+M	src/Plugin/EntityBrowser/WidgetSelector/Single.php	b7642bf6229bb715ee0d1282994890f4
+M	src/Plugin/EntityBrowser/WidgetSelector/Tabs.php	a066af6ee35afce9573c0eb5ca98d9fc
+D	src/Plugin/EntityBrowser/WidgetValidation/Cardinality.php	
+D	src/Plugin/EntityBrowser/WidgetValidation/EntityType.php	
+D	src/Plugin/EntityBrowser/WidgetValidation/File.php	
+A	src/Plugin/Field/FieldWidget/EntityReference.php	49c618aed0264e743e45c1ec47acb63d
+D	src/Plugin/Field/FieldWidget/EntityReferenceBrowserWidget.php	
+D	src/Plugin/Field/FieldWidget/FileBrowserWidget.php	
+M	src/Plugin/views/display/EntityBrowser.php	bce8426ff644ccf5653cbd20b144c728
+M	src/Plugin/views/field/SelectForm.php	94fb4202329b78229a73e4bcf9376e9a
+D	src/PluginConfigurationFormTrait.php	
+M	src/RouteSubscriber.php	ff57aafc0e4a22eec5ae800763350182
+D	src/Routing/CtoolsFallbackRouteEnhancer.php	
+M	src/SelectionDisplayBase.php	f9a0b06dd419531bf29b2c4e0cae8451
+M	src/SelectionDisplayInterface.php	02591bd4823bda048f9cba3ec901090f
+M	src/SelectionDisplayManager.php	e9df93a2f5294cba2f896e6e6df193af
+D	src/Tests/ConfigUITest.php	
+D	src/Tests/EntityBrowserUITest.php	
+D	src/Tests/EntityBrowserUpdateHookTest.php	
+D	src/Tests/FormElementTest.php	
+D	src/Tests/MultistepDisplayTest.php	
+M	src/WidgetBase.php	16a69621aba86a363983143d29e34580
+M	src/WidgetInterface.php	5fc92e29f5297281379c7b1fae126030
+M	src/WidgetManager.php	109875905761676e45d92997e1c00f25
+M	src/WidgetSelectorBase.php	99f179d11102c31545c822a0dc42e859
+M	src/WidgetSelectorInterface.php	370b0a70f0f961516bc51299450b046a
+M	src/WidgetSelectorManager.php	32160ee593a26a81a7e801693049f56f
+D	src/WidgetValidationBase.php	
+D	src/WidgetValidationInterface.php	
+D	src/WidgetValidationManager.php	
+M	src/WidgetsCollection.php	4423ed4e36d1a67cc1d89a2bba53afcb
+M	src/WidgetsLazyPluginCollection.php	046ed6f327e1cd43137c776a95c3d4ef
+D	src/Wizard/EntityBrowserWizard.php	
+D	src/Wizard/EntityBrowserWizardAdd.php	
+M	templates/page--entity-browser--iframe.html.twig	782e60ce2659c892c18e08659c4f6799
+D	tests/fixtures/update/entity_browser.update-hook-test.php	
+D	tests/modules/entity_browser_ief_test/config/install/core.entity_form_display.media.ief_media_bundle.default.yml	
+D	tests/modules/entity_browser_ief_test/config/install/core.entity_form_display.node.ief_content.default.yml	
+D	tests/modules/entity_browser_ief_test/config/install/core.entity_view_display.media.ief_media_bundle.default.yml	
+D	tests/modules/entity_browser_ief_test/config/install/core.entity_view_display.node.ief_content.default.yml	
+D	tests/modules/entity_browser_ief_test/config/install/entity_browser.browser.ief_entity_browser_file.yml	
+D	tests/modules/entity_browser_ief_test/config/install/field.field.media.ief_media_bundle.ief_media_bundle_file_field.yml	
+D	tests/modules/entity_browser_ief_test/config/install/field.field.node.ief_content.ief_media_field.yml	
+D	tests/modules/entity_browser_ief_test/config/install/field.storage.media.ief_media_bundle_file_field.yml	
+D	tests/modules/entity_browser_ief_test/config/install/field.storage.node.ief_media_field.yml	
+D	tests/modules/entity_browser_ief_test/config/install/media_entity.bundle.ief_media_bundle.yml	
+D	tests/modules/entity_browser_ief_test/config/install/node.type.ief_content.yml	
+D	tests/modules/entity_browser_ief_test/config/install/views.view.ief_view_files.yml	
+D	tests/modules/entity_browser_ief_test/entity_browser_ief_test.info.yml	
+D	tests/modules/entity_browser_test/config/install/entity_browser.browser.test_entity_browser_file.yml	
+D	tests/modules/entity_browser_test/config/install/entity_browser.browser.test_entity_browser_iframe.yml	
+D	tests/modules/entity_browser_test/config/install/entity_browser.browser.test_entity_browser_iframe_view.yml	
+D	tests/modules/entity_browser_test/config/install/entity_browser.browser.test_entity_browser_standalone_upload.yml	
+D	tests/modules/entity_browser_test/config/install/entity_browser.browser.test_entity_browser_token.yml	
+D	tests/modules/entity_browser_test/config/install/views.view.files_entity_browser.yml	
+D	tests/modules/entity_browser_test/config/install/views.view.test_deprecated_field.yml	
+D	tests/modules/entity_browser_test/config/install/views.view.test_selection_display_view.yml	
+M	tests/modules/entity_browser_test/config/schema/entity_browser_test.schema.yml	08b5ffca591aca048790b4f9cf196864
+M	tests/modules/entity_browser_test/entity_browser_test.info.yml	14eb8559da3125a2e6b04ba5baa9cf3c
+A	tests/modules/entity_browser_test/entity_browser_test.module	ce407ff5715c837d02b1aba7975bf512
+D	tests/modules/entity_browser_test/entity_browser_test.routing.yml	
+D	tests/modules/entity_browser_test/src/Form/FormElementTest.php	
+M	tests/modules/entity_browser_test/src/Plugin/EntityBrowser/Widget/DummyWidget.php	7f0b9e406c54ea396a367189d48c2ccf
+D	tests/src/FunctionalJavascript/EntityBrowserJavascriptTestBase.php	
+D	tests/src/FunctionalJavascript/EntityBrowserTest.php	
+D	tests/src/FunctionalJavascript/EntityBrowserViewsWidgetTest.php	
+D	tests/src/FunctionalJavascript/ImageFieldTest.php	
+D	tests/src/FunctionalJavascript/InlineEntityFormTest.php	
+D	tests/src/FunctionalJavascript/PluginsTest.php	
+D	tests/src/FunctionalJavascript/UploadWidgetTest.php	
+M	tests/src/Kernel/Extension/EntityBrowserTest.php	6cf65e8d7603e4d278cca0542cade95e

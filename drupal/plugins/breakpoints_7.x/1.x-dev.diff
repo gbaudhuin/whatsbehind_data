@@ -1,0 +1,12 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	512dc50937bd834a79f08aff89cb9dd8
+A	breakpoints.admin.inc	c1e5202e290a947f8e80bd7305cfaca1
+A	breakpoints.info	8c27d8f69de01e30642c1a6cc4f5b939
+A	breakpoints.install	6031761e943923ba9426f33680704853
+A	breakpoints.module	89e198d48aab88758518f41dd26ee0ce
+A	breakpoints.test	d59744448db54dfff067f65db52959c6
+A	css/breakpoints.admin.css	3ff4dab9d3752252eee71fc1e834e82b
+A	plugins/export_ui/breakpoints.inc	efc0c6b16738cfa49229d353705cd015
+A	tests/breakpoints_theme_test.info	ca946a82e556b2d1f0658997f7217d3b
+A	tests/breakpoints_theme_test.module	d394971ae358546c6961ad4e818c4689
+A	tests/themes/breakpoints_test_theme/breakpoints_test_theme.info	77bd2cd09b985d1b66de4fdfe677f557

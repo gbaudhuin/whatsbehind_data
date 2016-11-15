@@ -1,0 +1,132 @@
+A	.travis.yml	97c6496fe6464adee089d86e7d640804
+D	CronRule.class.php	
+M	README.txt	982b1ede777ed65abc5f88febca33b3e
+A	config/install/ultimate_cron.settings.yml	81fffb25c6f097b68c16895a90d9c445
+A	config/schema/ultimate_cron.schema.yml	f074b8de07eca02fd76980e84afd0948
+M	css/ultimate_cron.admin.css	e6c0781119d5e03627813d783a8e103a
+A	help/about.html	2a70206460d13d260ecb341d0575536a
+D	help/catch_up.html	
+D	help/cleanup_log.html	
+D	help/easy_hooks.html	
+D	help/hook_cron.html	
+D	help/hook_cron_alter.html	
+D	help/hook_cron_post_execute.html	
+D	help/hook_cron_post_execute_function.html	
+D	help/hook_cron_pre_execute.html	
+D	help/hook_cron_pre_execute_function.html	
+D	help/hook_cron_schedule_alter.html	
+D	help/hook_cronapi.html	
+D	help/hook_daily.html	
+D	help/hook_hourly.html	
+D	help/hook_monthly.html	
+D	help/hook_weekly.html	
+D	help/hook_yearly.html	
+M	help/hooks.html	def96fabc6553d37ac678e09dd21d85a
+A	help/launchers-background-process.html	2a70206460d13d260ecb341d0575536a
+A	help/launchers-create.html	2a70206460d13d260ecb341d0575536a
+A	help/launchers-serial.html	2a70206460d13d260ecb341d0575536a
+A	help/launchers.html	2a70206460d13d260ecb341d0575536a
+A	help/loggers-cache.html	2a70206460d13d260ecb341d0575536a
+A	help/loggers-create.html	2a70206460d13d260ecb341d0575536a
+A	help/loggers-database.html	2a70206460d13d260ecb341d0575536a
+A	help/loggers.html	2a70206460d13d260ecb341d0575536a
+A	help/plugins.html	2a70206460d13d260ecb341d0575536a
+D	help/polling_latency.html	
+D	help/poorman.html	
+M	help/rules.html	03de2791089de434c174d00361a75689
+A	help/schedulers-create.html	2a70206460d13d260ecb341d0575536a
+A	help/schedulers-crontab.html	2a70206460d13d260ecb341d0575536a
+A	help/schedulers-simple.html	2a70206460d13d260ecb341d0575536a
+A	help/schedulers.html	2a70206460d13d260ecb341d0575536a
+D	help/service_group.html	
+A	help/settings-create.html	2a70206460d13d260ecb341d0575536a
+A	help/settings-general.html	2a70206460d13d260ecb341d0575536a
+A	help/settings-queue.html	2a70206460d13d260ecb341d0575536a
+M	help/settings.html	b410c116c298491f4cfb535a2f226f9b
+D	help/simultaneous_connections.html	
+M	help/ultimate_cron.help.ini	0e6453fa9a78b000f56481550657d9fd
+A	icons/hourglass_go.png	e80b3157168d734a741244319f9be636
+A	js/jquery.tablesorter.js	91fcfc31766802977831ea4c9c883871
+D	js/nodejs.ultimate_cron.js	
+A	js/ultimate_cron.job.js	5d148408dee86f332d3bc03da71b29b7
+M	js/ultimate_cron.js	f8c952f454187170824f370435934b69
+A	js/ultimate_cron.nodejs.js	957ce4248c3470f9b71778e908816344
+A	src/Annotation/LauncherPlugin.php	0dd15794804281789a293c5052355399
+A	src/Annotation/LoggerPlugin.php	de3a8ac893ba34f9229c872c545101c6
+A	src/Annotation/SchedulerPlugin.php	d81228b7977a0433bfbe8192855bb91a
+A	src/Controller/JobController.php	4332dd5bf523091135b2281b1ee58894
+A	src/CronJobAccessControlHandler.php	34663ce0a2d4ff7965a28a2931feaac2
+A	src/CronJobDiscovery.php	872be78f2adb637a93827cd37afd84d6
+A	src/CronJobInterface.php	db2c6cef80fe4f313ab45e987b0ee3b0
+A	src/CronJobListBuilder.php	f8c7546d7c3e8984347c46560f348ee7
+A	src/CronPlugin.php	e3389e4056268de82332d21bda7aff6e
+A	src/CronPluginMultiple.php	0e5743b7439e8457b4ece7fb5e95b292
+A	src/CronRule.php	6fc444305dedf8ebb8f93527fae9c3d3
+A	src/CronSignal.php	28698d4efcc8bf480aa0f177cc31477c
+A	src/Entity/CronJob.php	4efe4930fe7519b64b0f6de3a81dc3fc
+A	src/Form/CronJobDisableForm.php	c835b9000ad0af71097c2dfa61d6db56
+A	src/Form/CronJobEnableForm.php	8bac040c97a8b55466479ba2512148bb
+A	src/Form/CronJobForm.php	970899c214440ab6ff1ba2db0bd8be56
+A	src/Form/GeneralSettingsForm.php	7ba6781e19f2cb28a2232cd409a06590
+A	src/Form/LauncherSettingsForm.php	57f5c58c4de00365dd50ca30fbfe31f8
+A	src/Form/LoggerSettingsForm.php	a95c6c48e78c05c9869828207029c697
+A	src/Form/SchedulerSettingsForm.php	dcee14ad250b1f0dedc94a697293e8fc
+A	src/Launcher/LauncherBase.php	e92dcf6b1b9c52e09af819f1ad243da8
+A	src/Launcher/LauncherInterface.php	ea809b8f229953d1aca704e73e589cc2
+A	src/Launcher/LauncherManager.php	ba23e522580cd77da5cf3499dca862fa
+A	src/Lock/Lock.php	8c4293192ef101212e5dcb2a1a65e6d2
+A	src/Lock/LockInterface.php	badd013c71566d16b6ad981e0c0ba31d
+A	src/Lock/LockMemcache.php	03680184e44be8bb4b45a0e24d865297
+A	src/Logger/LogEntry.php	284161d76cb1f35e2ffbde40881f90fd
+A	src/Logger/LoggerBase.php	6933737484cffe354cdd0f101f88d2b2
+A	src/Logger/LoggerInterface.php	e8b532fa17535894dd76ccf160365acd
+A	src/Logger/LoggerManager.php	15ae74ea1f9e9f554dacca98ad783a4b
+A	src/Logger/WatchdogLogger.php	899aa52185d6735db6183a752f9a498d
+A	src/Plugin/ultimate_cron/Launcher/SerialLauncher.php	0a38897c664c3be18f6ec1bb2f16f669
+A	src/Plugin/ultimate_cron/Logger/CacheLogger.php	66fc011bc8522a903d6c022e235d31f9
+A	src/Plugin/ultimate_cron/Logger/DatabaseLogger.php	0880f150a304f849515f05e63ee7ecaf
+A	src/Plugin/ultimate_cron/Scheduler/Crontab.php	30524bac1c7cc2b65bdb13056c59cb0d
+A	src/Plugin/ultimate_cron/Scheduler/SchedulerBase.php	cdf2277ccf94df6d83a74cbb181ff253
+A	src/Plugin/ultimate_cron/Scheduler/Simple.php	f5262f1debc1fd9e110f84dc37786bdd
+A	src/PluginCleanupInterface.php	ad1820da8fd27629972fc213dc3198f3
+A	src/Progress/Progress.php	06ace99f6f69458af591ab8213717de2
+A	src/Progress/ProgressInterface.php	9c60b57bd89a77fc1f58ba9b1baf8d28
+A	src/Progress/ProgressMemcache.php	0b25c549d19e0570aed14c7a756a79dc
+A	src/ProxyClass/UltimateCron.php	dbebeeab97c5899a7d43ed2bf78fcc67
+A	src/QueueSettings.php	5f09a128c5b1870657670a03cb2c45a2
+A	src/QueueWorker.php	afa90417c512355498a2a69a8c349cbc
+A	src/Scheduler/SchedulerInterface.php	a355263c0f4ed69f8be352fb51d4d605
+A	src/Scheduler/SchedulerManager.php	87169fde1cbf664cc2e8b081e8c77f1c
+A	src/Settings.php	c3eb67c3e2795dde21659d9ba9354e99
+A	src/Signal/SignalCache.php	0d67b0182a2809fb67c9410dcba89b06
+A	src/Signal/SignalInterface.php	fec2541ad28d03c912cba22500215ce4
+A	src/TaggedSettings.php	a8f6890014724d0ca5ebedec4b1cd5d4
+A	src/Tests/CronJobFormTest.php	377c3a5e0594a59a531b7a82f48c0146
+A	src/Tests/CronJobInstallTest.php	53d98a5fb49e93f997849c5dfc8d7a18
+A	src/Tests/LoggerWebTest.php	7f5eaf8261cd8722bd447f3378fc297c
+A	src/UltimateCron.php	227e8af74ddb68744f623ea847fcc9b1
+A	src/UltimateCronServiceProvider.php	175b6a3e80335a9db7639971038ea554
+D	tests/rules.test	
+A	tests/src/Kernel/CronJobKernelTest.php	6b70895c7c892d3ad9c0315cd65a8150
+A	tests/src/Kernel/CronJobTest.php	dfb82f69b659da5589e17ca0b76b5177
+A	tests/src/Kernel/LauncherPluginTest.php	ad602c5c087250a85f5c91826a6ca694
+A	tests/src/Kernel/LoggerPluginTest.php	e68242304b0576970e0c93657051cbef
+A	tests/src/Kernel/SchedulerPluginTest.php	df5b75a75be63551cfb653c99fba7dd7
+A	tests/src/Kernel/UltimateCronQueueTest.php	4b3742baffe5c71ae4741c60f8ec2367
+A	tests/src/Unit/RulesUnitTest.php	4e65f413159f4f9de6824375796fdef1
+A	tests/ultimate_cron_logger_test/ultimate_cron_logger_test.info.yml	ad8153aa60a1beff9c8fcf842a23fcc4
+A	tests/ultimate_cron_logger_test/ultimate_cron_logger_test.module	62222ca6e92c3557ec2cafe5c4334274
+D	ultimate_cron.admin.inc	
+A	ultimate_cron.api.php	854add037f0866f5edb57f37a0535b8f
+M	ultimate_cron.drush.inc	3d872ae97ef56f2c0a69436ccfe3efd4
+D	ultimate_cron.info	
+A	ultimate_cron.info.yml	0c7ec4f5c94a10e247090296d7e3c46c
+M	ultimate_cron.install	5a82949527a79f8699c9b3362a9c32f6
+A	ultimate_cron.links.action.yml	9c5b6cebf2dcd76cbf551692886d3119
+A	ultimate_cron.links.menu.yml	f20c870922bb28fdb6d3b6986c1a25b9
+A	ultimate_cron.links.task.yml	c46a4506a1bbd3bd742a1898f160e89e
+M	ultimate_cron.module	f548294f765e594409e00e8fbfbfca5c
+M	ultimate_cron.nagios.inc	e0823ad3f5b1e17468e4b2de858580a7
+A	ultimate_cron.permissions.yml	3a37ba9365a3c3a8af823189b426deea
+A	ultimate_cron.routing.yml	eb6aee65c76e0079825bc1488c80905a
+A	ultimate_cron.services.yml	b766e3ab3c1a3224b106c7a01085d010

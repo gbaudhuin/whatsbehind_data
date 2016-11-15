@@ -1,0 +1,34 @@
+D	composer.json	
+D	config/schema/layout_plugin.schema.yml	
+D	layout_plugin.api.php	
+M	layout_plugin.drush.inc	df0a4f8fa59dd6b07968857652f4fc3e
+M	layout_plugin.info.yml	99ee3898c3d0fdeabc45fc2ba54ec0c0
+D	layout_plugin.module	
+M	layout_plugin.services.yml	1eff65b36e72d8ad4cd1ea94630be22f
+A	modules/block_page_layout/block_page_layout.info.yml	20f77e17ded41491dc6ae8963a4c9caf
+A	modules/block_page_layout/src/Plugin/DisplayVariant/BlockPageLayoutVariant.php	29a00aae1ee164203ae5d3720f5b94fd
+D	modules/layout_plugin_example/config/schema/layout_plugin_example.schema.yml	
+M	modules/layout_plugin_example/layout_plugin_example.info.yml	40ccc4333b10cc79346a659815b0e857
+M	modules/layout_plugin_example/layout_plugin_example.layouts.yml	62792b9650a5656a5437b6703553a281
+A	modules/layout_plugin_example/layout_plugin_example.module	a3942e3d9a76bbe514bf34ef2b8d0d20
+M	modules/layout_plugin_example/src/Plugin/Layout/LayoutExampleTest.php	17a652b3b2326d5b0b0782d76b667fe4
+D	modules/layout_plugin_example/templates/layout-example-test.html.twig	
+M	src/Annotation/Layout.php	835c1514160d0af0cfdc6cdde40ab784
+M	src/Layout.php	b08a6e08b893516b305871c66938e488
+M	src/Plugin/Layout/LayoutBase.php	351aabab4ae75b6c839a0109d49f7a4a
+M	src/Plugin/Layout/LayoutDefault.php	ab83682de72a530107fdcabca3ba9147
+M	src/Plugin/Layout/LayoutInterface.php	82be6f7d59388d5221fba45e4f4a35ab
+M	src/Plugin/Layout/LayoutPluginManager.php	5749f47b9b3b9562597c28e7754d22ea
+D	src/Plugin/Layout/LayoutPluginManagerInterface.php	
+D	tests/modules/layout_test/config/schema/layout_test.schema.yml	
+D	tests/modules/layout_test/css/layout-test-1col.css	
+D	tests/modules/layout_test/css/layout-test-2col.css	
+D	tests/modules/layout_test/layout_test.info.yml	
+D	tests/modules/layout_test/layout_test.layouts.yml	
+D	tests/modules/layout_test/layout_test.libraries.yml	
+D	tests/modules/layout_test/src/Plugin/Layout/LayoutTestPlugin.php	
+D	tests/modules/layout_test/templates/layout-test-1col.html.twig	
+D	tests/modules/layout_test/templates/layout-test-2col.html.twig	
+D	tests/modules/layout_test/templates/layout-test-plugin.html.twig	
+D	tests/src/Kernel/LayoutTest.php	
+D	tests/src/Unit/PluginManagerTest.php	

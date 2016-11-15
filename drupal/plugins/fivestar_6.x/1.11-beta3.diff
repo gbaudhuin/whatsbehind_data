@@ -1,0 +1,56 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	468c00e85cebb6cacc4d13e6cbd34ebc
+D	css/fivestar-admin-rtl.css	
+D	css/fivestar-admin.css	
+D	css/fivestar-rtl.css	
+M	fivestar.info	e470e7a480b8d8be3848f284869b2167
+M	fivestar.install	bfdfa8df983b9e7f53ac2461d325945d
+M	fivestar.module	fa154cf49646835c54ce06ef8d907fdf
+D	fivestar_color.inc	
+A	fivestar_comment.inc	04d96df6254566996e607ad3349107ca
+D	fivestar_comment.info	
+D	fivestar_comment.install	
+D	fivestar_comment.module	
+M	fivestar_field.inc	59c6adfaea2640c3f460c70745b0ef09
+D	images/lock.png	
+D	js/fivestar-color.js	
+A	po/de.po	b6975b84c4e8e3b6f7361a2fa45c8ad2
+A	po/sv.po	ba20408a9f04cfea7310a84d4014bc96
+A	screenshots/content_type_ratings.png	c2bfd1dcb9380df68a128e2efb1b9a52
+A	screenshots/settings_page.png	ea50b92e99707c4bfab33e832244c84c
+D	widgets/basic/basic-rtl.css	
+D	widgets/basic/cancel-template.png	
+D	widgets/basic/cancel.png	
+D	widgets/basic/star-template.png	
+D	widgets/basic/star.png	
+D	widgets/craft/craft-rtl.css	
+M	widgets/craft/craft.css	43056ed0dab5410b90baa8409a718cec
+A	widgets/drupal/drupal.txt	6e67d80d74e342459654fbf9570dcf90
+A	widgets/drupal/druplicon.gif	3000211418b3c89d55e4d13794efdab5
+D	widgets/flames/flames-rtl.css	
+A	widgets/flowers/flower.png	f9fcad5402d53c38c93dfafa7a2a94b2
+A	widgets/hearts/heart.gif	7d70fb5c4cbf140e27ce0f4fe22908c5
+D	widgets/hearts/heart.png	
+A	widgets/hearts/heart_broken.gif	3b6ebb55eb03690caba04cafba7786bf
+D	widgets/hearts/heart_broken.png	
+D	widgets/hearts/hearts-rtl.css	
+M	widgets/hearts/hearts.css	d554dd5ae14f40460cdca4650aca5ab9
+A	widgets/lullabot/lullabot.gif	a0abde5f583f17a1992ae3ab533669b1
+A	widgets/lullabot/lullabot.txt	dfaddaeb1a0739fedf4b019ada927a97
+M	widgets/minimal/min_delete.png	e845c5312c2404bef70246f9e9b2c0b1
+M	widgets/minimal/min_star.png	eced155b5009576bd8ddce5fcfba84d0
+D	widgets/minimal/minimal-rtl.css	
+M	widgets/minimal/minimal.css	29b3174d23d4755b610b61d7aeb29c11
+D	widgets/outline/cancel-template.png	
+D	widgets/outline/cancel.png	
+D	widgets/outline/outline-rtl.css	
+D	widgets/outline/outline.css	
+D	widgets/outline/star-template.png	
+D	widgets/outline/star.png	
+D	widgets/oxygen/cancel-template.png	
+D	widgets/oxygen/cancel.png	
+D	widgets/oxygen/oxygen-rtl.css	
+D	widgets/oxygen/star-template.png	
+D	widgets/oxygen/star.png	
+A	widgets/red-hearts/heart.png	c5338ee8ff3adb8d474aee41fcf9603e
+D	widgets/small/small-rtl.css	

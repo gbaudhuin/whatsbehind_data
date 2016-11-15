@@ -1,0 +1,16 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	21530fed3f18b5da129eea2789de8c1a
+D	default/css/README.txt	
+D	default/default.pattern	
+D	default/logo.png	
+D	default/preprocess/README.txt	
+D	default/process/README.txt	
+D	default/screenshot.png	
+D	default/template.php	
+D	default/templates/README.txt	
+D	includes/omega_tools.admin.inc	
+D	includes/omega_tools.drush.inc	
+D	includes/omega_tools.wizard.inc	
+A	omega_tools.drush.inc	ae15af450ef3ab370f21b25da29e2a11
+M	omega_tools.info	799d499f10d198a5441d159b553b3442
+M	omega_tools.module	6826ca4aab779f112edc5b35fe54dbfa

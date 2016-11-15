@@ -1,0 +1,13 @@
+M	README.txt	aae218fe5c041885e002e8f22ead7f04
+D	commerce_search_api.css	
+M	commerce_search_api.facetapi_defaults.inc	f7d83938031ef048bf9a8f2dd7226ffc
+M	commerce_search_api.info	b44cf4289cb5663e7d0bfa697c3f5ca9
+M	commerce_search_api.install	64b28d1eb47cf45bbbea36e34864dfc7
+M	commerce_search_api.module	b41eadaafc70f75a9dbadd998f74b158
+D	includes/callback_product_status.inc	
+D	includes/commerce_search_api.admin.inc	
+D	includes/commerce_search_api.callbacks.inc	
+M	includes/commerce_search_api_product_display_filter.inc	367fb85d56fbf868ca69631213eaadb3
+M	includes/facetapi/filter_same_search.inc	3186aad63e868f973cecb60de02c3543
+M	includes/facetapi/filter_search_start.inc	d3080431f03139f2d74d95e81f8f0783
+D	includes/facetapi/widget_fancy_attributes.inc	

@@ -1,0 +1,4 @@
+A	config/fb_likebox.settings	89ccdbe480821ce0f5af77c328bba7ca
+M	fb_likebox.info.yml	cf2571d6952115ab8f8680273c60d400
+A	lib/Drupal/fb_likebox/Plugin/Block/FBLikeboxBlock.php	06ab294c3b42f15f6e26d6c2b9898e54
+D	src/Plugin/Block/FBLikeboxBlock.php	

@@ -1,0 +1,9 @@
+D	ResourceYouTubeStreamWrapper.inc	
+D	changelog.txt	
+A	includes/media_youtube.admin.inc	1eb1059473303da9f9af6559c5935d59
+A	includes/media_youtube.media_mover.inc	f8eb481e1875e1ba3c08c0c7885e9193
+A	includes/media_youtube.variables.inc	18e53dfd66f2bec67b638aa114709d48
+M	media_youtube.info	cbae5225812ea6a29d5d4ca06c34ecbe
+M	media_youtube.install	81dd897db5e70189353417575d2544ca
+M	media_youtube.module	79be6a7be1dce67868b20a90542d354a
+M	providers/emvideo/youtube.inc	8905aff4a687e035f19391bc4c5fa2af

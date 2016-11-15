@@ -1,0 +1,14 @@
+A	CHANGELOG.txt	dba05cb0c55c4dff0bec91b862650f6d
+M	INSTALL.txt	549d70c41b93a73e58ebe27a807a569c
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	47a90eef685145c05925d0ad3812a24c
+D	class.phpmailer.php.2.0.2.patch	
+D	class.phpmailer.php.2.2.1.patch	
+D	class.phpmailer.php.2.3.patch	
+A	po/smtp.pot	6e945645fda1dddd14ee3cec795f6973
+M	smtp.info	77b3c71a6a6eccce3f20d41ceecb2d3d
+M	smtp.install	b4d0544d34128309316341bdf059f9ed
+D	smtp.make.noauto	
+M	smtp.module	0de6f158b1410d84f5da4ab247371535
+A	translations/de.po	0972b5a132c092f63a3dd49e61c2fb11
+A	translations/smtp.pot	eb96de19b0204f5685d29a42b2728526

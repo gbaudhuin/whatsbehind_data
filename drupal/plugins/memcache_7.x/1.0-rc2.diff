@@ -1,0 +1,8 @@
+M	README.txt	cd19db4a82a47ae60b4d8b08ef8c71cd
+M	dmemcache.inc	125d4565dae210f2c139a55275bc4cf8
+A	memcache-lock-code.inc	7efde714d1675ca96994de5026abe845
+M	memcache-lock.inc	ae6c85574af169743e4d05219d03ee0c
+M	memcache.inc	45189ff4c56527a21c40d78cd6edd985
+M	memcache.info	5c045d35dd8c08c6693522ffbd117f2a
+M	memcache_admin/memcache_admin.info	8e61ba8562f505e3ce027ff4d9314207
+M	tests/memcache_test.info	15f1bebe62cbeea5bb80af28737ec97b

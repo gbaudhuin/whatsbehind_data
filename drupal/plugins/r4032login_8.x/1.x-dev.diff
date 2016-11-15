@@ -1,0 +1,8 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.TXT	074455e1216ea23e99a6b6a304a85f65
+A	config/install/r4032login.settings.yml	cd6d6c3ba97221b9d5f8c74808bf9c10
+A	config/schema/r4032login.schema.yml	b97ae62d036887122b2420170732b73e
+A	r4032login.info.yml	9dda05044e25323b1747cb9d90a0889c
+A	r4032login.module	3c4f9b4a24ad4484c45aef71d4b88566
+A	r4032login.services.yml	dccd1830a82d7c004cfc3f183dd7ebd6
+A	src/EventSubscriber/R4032LoginSubscriber.php	883fb3a1e79d3444ef91b6ab89c640c3

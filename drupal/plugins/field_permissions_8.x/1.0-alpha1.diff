@@ -1,0 +1,14 @@
+D	CHANGELOG.md	
+A	CHANGELOG.txt	2857f0e8ae1cb2c073880030b29bd5b4
+A	LICENSE	84dcc94da3adb52b53ae4fa38fe49e5d
+D	composer.json	
+A	field_permissions.info	eb4a5da6bef74a055d096b454ef8cfb6
+M	field_permissions.info.yml	b39ba66deeee356bfd0a90a4e1729ab8
+M	field_permissions.module	4f6e4d97f3c40c016670e0c50928edf3
+M	src/FieldPermissionsService.php	663b20a3d4105a194b69a18f119d2a88
+M	src/FieldPermissionsServiceInterface.php	4cafba3f028fefc114480e98637b3af4
+M	src/Plugin/FieldPermissionType/CustomAccess.php	efdc2ca1935eea8c815e545b78972a3f
+M	tests/modules/field_permissions_test/field_permissions_test.info.yml	f4f61c2df7c841aba6155f4e2f6bbf2f
+M	tests/src/Functional/FieldPermissionsTestBase.php	63b204d22773a652a443cd7a6bb328f9
+D	tests/src/Unit/FieldPermissionsServiceTest.php	
+D	tests/src/Unit/Plugin/FieldPermissionType/CustomAccessTest.php	

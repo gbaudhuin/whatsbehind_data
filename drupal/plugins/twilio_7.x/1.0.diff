@@ -1,0 +1,17 @@
+A	README.md	71ee600c5ccc39edd3f4b52a83245e92
+D	README.txt	
+D	twilio.actions.inc	
+M	twilio.admin.inc	496d06868eb8f43c1bf67ce9b802b609
+D	twilio.codes.inc	
+M	twilio.info	10fc702b199612f1e08cb310c2087cf6
+M	twilio.install	bfe2f649816efcde0bd918488b68aa6d
+M	twilio.module	b0130db532d36cfcba1ee470fc7c573d
+M	twilio.pages.inc	295ebb9f4e2669574d8e34ba5ad67233
+M	twilio.rules.inc	148b5a3dd2ce202054d838c93d70c78d
+D	twilio.user.inc	
+D	twilio.views.inc	
+D	twilio_twiml/twilio_twiml.admin.inc	
+D	twilio_twiml/twilio_twiml.info	
+D	twilio_twiml/twilio_twiml.install	
+D	twilio_twiml/twilio_twiml.module	
+D	twilio_twiml/twilio_twiml.rules.inc	

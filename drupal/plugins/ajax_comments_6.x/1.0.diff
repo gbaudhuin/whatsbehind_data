@@ -1,0 +1,15 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	7ff14def5485b65e1c66bc99d14f8133
+D	ajax_comments.admin.inc	
+D	ajax_comments.css	
+M	ajax_comments.info	fa88720f4df0af2b0334e0998cadabe6
+M	ajax_comments.install	476874f082e3ceb7ee321f9b25066a91
+M	ajax_comments.js	5e17eaf336d130d47fbb57987954fe0e
+M	ajax_comments.module	3261900968adc7a7dd780cd5227237e1
+D	ajax_comments.pages.inc	
+D	images/ajax-loader.gif	
+D	images/progress.gif	
+D	images/throbber-active.gif	
+A	translations/ajax_comments.pot	4296b711517c4488a82862779e77136a
+A	translations/ru.po	16aec29197a6f8f32f2d23981baf3c47
+A	translations/uk-ua.po	18be9bc051383d75a20a0f833c780f68

@@ -1,0 +1,12 @@
+D	ChangeLog.txt	
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	f57fbcfcef2af49350a2b2ad6fc9d402
+A	publishcontent.admin.inc	a761d7058d1c3c34ba66da3247dc773b
+M	publishcontent.info	c972f2f0c5759b39221648672ae63ed8
+M	publishcontent.install	d48a9253a8849b116adce3aadf2b3721
+M	publishcontent.module	771f3739556c4c1382cc26e6f0c5ac61
+M	publishcontent_views_handler_field_node_link.inc	61c181a39f101a228694cb1332c37744
+M	tests/publishcontent.test	ef35bb652db7f63e40280fd5dfb32fee
+D	translations/de.po	
+D	translations/fr.po	
+D	translations/publishcontent.pot	

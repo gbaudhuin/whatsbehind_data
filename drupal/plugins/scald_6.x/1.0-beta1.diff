@@ -1,0 +1,24 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	atom_reference/atom_reference.css	0d893a5e5ccfbe7fe3a722a2afe3bb6c
+M	atom_reference/atom_reference.info	ac41b2060c5edeaece3b5f953a370f29
+M	atom_reference/atom_reference.js	6ff13850d517fc596d4890bcbddc59e2
+M	atom_reference/atom_reference.module	b107092fe4d04e0981bbd14a99df6de4
+M	dnd/dnd.info	e270ca50d3b8de9072c7d2e745e40ffd
+D	dnd/dnd.install	
+M	dnd/dnd.module	1e0c5a690b38eef0ba0c6dfb75c09f50
+M	dnd/js/dnd-library.js	eafb35b5942ef1819099637d1d203f95
+M	dnd/modules/dnd_test/dnd_test.info	c3099806434ca71a68a7a8901db4ab17
+M	includes/scald.views.inc	685ced24a12602f33aa8a17739c2a515
+M	mee/mee.info	031ac90314eed267ba2214e30d5fbf06
+M	mee/mee.module	ee1a8ae0485db33f9b0e4f8365ffe258
+M	scald.info	5dbe42abeb92e773b89c903a96f99507
+M	scald.install	4f7282f8682882dc44bb7ffde9750c65
+M	scald.module	892c13a35fad4636b61d31dbf66326c7
+D	scald_audio/scald_audio.info	
+M	scald_composite/scald_composite.info	068b1d4ff8f0715933ab1ab2c994605e
+M	scald_dailymotion/scald_dailymotion.info	40a131d57437f4ce00d2efb9627c4365
+M	scald_dnd_library/scald_dnd_library.info	bb6a1eb669f2185b8e5b5c0e9f39b83e
+M	scald_dnd_library/scald_dnd_library.module	9cc83d2429a246d6069fb22856716b77
+M	scald_example_content_type/scald_example_content_type.info	122be9c2212eb582a089bc163f689ec1
+M	scald_image/scald_image.info	101b59179a2f4cb17b6b99cfd45edebe
+D	scald_video/scald_video.info	

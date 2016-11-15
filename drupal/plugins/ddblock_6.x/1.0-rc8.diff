@@ -1,0 +1,16 @@
+M	CHANGELOG.txt	aa0e3b00d09359e692524d9243c61c8e
+M	INSTALL.txt	7ad8ebc16740dfc3cd9ff9ccf5b10fe5
+M	README.txt	898b6d4d4d1aedf58ac2082ea09c87ab
+M	ddblock-cycle-block-content.tpl.php	3881c058c75e9090e3bf04b8840659d2
+M	ddblock-cycle-pager-content.tpl.php	e4839269685176dba264c45f7c7211d0
+M	ddblock.admin.inc	418b3f4f5f0375f48052696901bb0e8d
+M	ddblock.css	e27357bff0e0041f70c763b5d151c041
+M	ddblock.info	51dc677bee7f6ef5b02b26d52b98d3aa
+M	ddblock.install	45f047ccf5a7f7ce9c518046c1d6480d
+M	ddblock.module	38769562299ca928aa5158a11f045a75
+M	js/ddblock.admin.js	dfa06b117b2c61719fccd53734cec167
+M	js/ddblock.js	9038ee390d5d463a914e4a65a4017063
+M	js/jquery.cycle.all.min.js	be7604314285a342b41468545f258bf9
+A	js/jquery.easing.1.1.1.js	3bd09b9eedf2f8dd7af2c79a64d2ffc7
+D	js/tools.scrollable-1.0.5.min.js	
+A	po/ddblock.pot	5ce5f145f59905895ca50fbf74005424

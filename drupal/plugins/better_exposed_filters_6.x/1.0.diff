@@ -1,0 +1,8 @@
+M	README.txt	4adf1282d9c49c477b15f71c48ea195a
+M	better_exposed_filters.info	c7f77240f4ff87c0389de3145d4f3903
+M	better_exposed_filters.js	9c77b9a7b2cce25390a47bfb9aa127cf
+M	better_exposed_filters.module	e61be9bd6aee0ce3c820aa39882e7350
+M	better_exposed_filters.views.inc	cd0c76a68370d0cd6b13e03644667e9e
+M	better_exposed_filters_exposed_form_plugin.inc	13183939479645e66371694c9189d438
+A	tests/better_exposed_filters.test	7ce09c97e1b773109c4aa0a240d6a800
+A	translations/better_exposed_filters.sv.po	7088411814c04ac0838319f235a50540

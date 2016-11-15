@@ -1,0 +1,497 @@
+M	README.txt	1bb2b10a6492d3a31a4244f3aaf328f7
+M	ca/ca.admin.inc	852be548150b99bca72484bc52e931db
+M	ca/ca.ca.inc	c554188dcab2d4e2d190e0e3e49b3959
+M	ca/ca.css	b0d21e274f73bc215813f879f4cf90a0
+M	ca/ca.info	be28db5f3c98edf5071b0f20da94524d
+M	ca/ca.install	a32cd442d707c0091591ccf7e57c7ab7
+M	ca/ca.js	6db1a4af7e12b4d8f00ee8ea23d06f2f
+M	ca/ca.module	c926b02f436d04ed3d3fe3a3e6d3c14b
+D	ca/translations/ca.de.po	
+D	ca/translations/ca.ja.po	
+D	ca/translations/uk.po	
+M	docs/hooks.php	d07f47a52debba3a90f63555a7fe6d7d
+D	docs/translations/docs.de.po	
+D	payment/uc_2checkout/translations/payment-uc_2checkout.de.po	
+M	payment/uc_2checkout/uc_2checkout.info	dc41a2b8646f7157c720224ce0eb6768
+M	payment/uc_2checkout/uc_2checkout.install	baa9bb788cd4e93a93dfd53968498117
+M	payment/uc_2checkout/uc_2checkout.module	1457fc3e3c74b3b042a76068070024bf
+M	payment/uc_2checkout/uc_2checkout.pages.inc	6627e8b86bfd9bdce537d3a008618ae2
+D	payment/uc_authorizenet/translations/payment-uc_authorizenet.de.po	
+M	payment/uc_authorizenet/uc_authorizenet.admin.inc	4539a9f1d307d237bf6a5b8e637abeed
+M	payment/uc_authorizenet/uc_authorizenet.info	b4968001b0ce55a03c04528f23ec5244
+M	payment/uc_authorizenet/uc_authorizenet.install	3d52a21657a642dcf98d2ac8edf2d9b9
+M	payment/uc_authorizenet/uc_authorizenet.module	8a9badcaa98f51f79057c883fcc60e4d
+M	payment/uc_authorizenet/uc_authorizenet.pages.inc	00687b5d65cd84dfd0c95730fef4f799
+M	payment/uc_credit/test_gateway.info	925e000d0de88cdcdfa97b76ce7ad21b
+M	payment/uc_credit/test_gateway.module	42398749615aa14c3419f0ff681e41b1
+D	payment/uc_credit/translations/payment-uc_credit.de.po	
+M	payment/uc_credit/uc_credit.admin.inc	e70472d4ea5b9a116320decf73de3140
+M	payment/uc_credit/uc_credit.info	86fe9f8201ed76a4156dc22a5c20de70
+M	payment/uc_credit/uc_credit.install	d99a6da8749d66b6737a2af5be7fe32c
+M	payment/uc_credit/uc_credit.js	c045b511f37debbc8e80630ce361b8be
+M	payment/uc_credit/uc_credit.module	ad26eba92b61d3fae0eb30aa6cddf448
+M	payment/uc_credit/uc_credit.pages.inc	da4ab284735ad19acf2b7162d1c66f0d
+D	payment/uc_cybersource/translations/payment-uc_cybersource.de.po	
+M	payment/uc_cybersource/uc_cybersource.info	e6e9c756fa7901f9d8b3f77c52b3c726
+M	payment/uc_cybersource/uc_cybersource.install	dd3e4c322407869d4e53b4d99c33ad97
+M	payment/uc_cybersource/uc_cybersource.module	0f2e4a031a63b110fb05ca9a26385db7
+M	payment/uc_cybersource/uc_cybersource.soap.inc	cd56f90c527298c4832800a3bc41f6f3
+D	payment/uc_google_checkout/translations/uc_google_checkout.de.po	
+M	payment/uc_google_checkout/uc_google_checkout.admin.inc	cda530cf5f536073b3c6b7a3ae0c23fd
+M	payment/uc_google_checkout/uc_google_checkout.info	f2d65c4386cf99a68c89baafd8c40155
+M	payment/uc_google_checkout/uc_google_checkout.install	2b3ac8a33e47ba9bd2582376ade236e2
+M	payment/uc_google_checkout/uc_google_checkout.module	60f6d6674210a6db1784cada2d98713a
+M	payment/uc_google_checkout/uc_google_checkout.pages.inc	7500db9b10eefcb2fee11296de31dbd7
+D	payment/uc_payment/translations/payment-uc_payment.de.po	
+D	payment/uc_payment/translations/payment-uc_payment.ja.po	
+M	payment/uc_payment/uc_payment.admin.inc	a189ceda515cc9bbe722c412383afdd6
+M	payment/uc_payment/uc_payment.ca.inc	aa8e728a6724201ecdffd16ce05667b8
+M	payment/uc_payment/uc_payment.info	a6b4b3b8234d0cd5bb2da9b805b74716
+M	payment/uc_payment/uc_payment.install	9f009e202257e89eae1cb30279d11839
+M	payment/uc_payment/uc_payment.js	b0b06f0356cce57aa0fe8dc714b7e45d
+M	payment/uc_payment/uc_payment.module	9643a6c3d50aa91c2979c18cf3ab0c02
+M	payment/uc_payment/uc_payment_checkout_pane.inc	086b9b625e5db9243241a68161f08824
+M	payment/uc_payment/uc_payment_order_pane.inc	b23968795db9efedbcdb61258724c08f
+D	payment/uc_payment_pack/translations/ja.po	
+D	payment/uc_payment_pack/translations/payment-uc_payment_pack.de.po	
+M	payment/uc_payment_pack/uc_payment_pack.admin.inc	d7de4e5fa594b2b5a7c4baecd81f4cb4
+M	payment/uc_payment_pack/uc_payment_pack.info	5cc34dfcb18bb9d8c915875797a37e62
+M	payment/uc_payment_pack/uc_payment_pack.install	12191b34f2c68415c2a08e839e74acc6
+M	payment/uc_payment_pack/uc_payment_pack.module	65f15a4f59232a03f91bab38aa424b35
+D	payment/uc_paypal/translations/payment-uc_paypal.de.po	
+M	payment/uc_paypal/uc_paypal.info	109806b263aa9bf13c6a2ae0b2537c15
+M	payment/uc_paypal/uc_paypal.install	dc0712befac5bff65b9a3c8f422681db
+M	payment/uc_paypal/uc_paypal.module	a2f67136ff72e934d21174e5c4aee468
+M	payment/uc_paypal/uc_paypal.pages.inc	0f533ed94a238351831dadb3eeb8d54d
+D	shipping/uc_flatrate/translations/shipping-uc_flatrate.de.po	
+M	shipping/uc_flatrate/uc_flatrate.admin.inc	84155a12d26efef4bcafd6ae1ac136ca
+M	shipping/uc_flatrate/uc_flatrate.info	41c0398356be9ed234fb43995addf7e1
+M	shipping/uc_flatrate/uc_flatrate.install	536c8b33fc9993495403685def963652
+M	shipping/uc_flatrate/uc_flatrate.module	d772d58c76704be8b2e4b97a5e1d694e
+D	shipping/uc_quote/translations/shipping-uc_quote.de.po	
+D	shipping/uc_quote/translations/shipping-uc_quote.ja.po	
+M	shipping/uc_quote/uc_quote.admin.inc	e5427c8c8d18bb4acad365c3486ec3b9
+M	shipping/uc_quote/uc_quote.css	0e7b9732b63e380dc1bafb8586bb14af
+M	shipping/uc_quote/uc_quote.info	4fa87675e5f9bde22ae10501c64cb2fe
+M	shipping/uc_quote/uc_quote.install	c61ac63ed49ce3991bad75e3bbaac733
+M	shipping/uc_quote/uc_quote.js	45caa616e7d9dca5b6908982b63e663a
+M	shipping/uc_quote/uc_quote.module	1915931467bdb4e93f530b0ebd191b32
+M	shipping/uc_quote/uc_quote.pages.inc	042369d7b269d22efd37e60862e4acc8
+D	shipping/uc_shipping/translations/shipping-uc_shipping.de.po	
+D	shipping/uc_shipping/translations/shipping-uc_shipping.ja.po	
+M	shipping/uc_shipping/uc-packing-slip.tpl.php	ce9173499c5d786140169dda25341b8a
+M	shipping/uc_shipping/uc_shipping.admin.inc	a4ca68c600b4e4eee41dd9e27b105a99
+M	shipping/uc_shipping/uc_shipping.ca.inc	3603a3bb849e14f0efc21eb5f797daab
+M	shipping/uc_shipping/uc_shipping.info	3b934a3ca4f4a1dbf9d90eb2ede2a2f1
+M	shipping/uc_shipping/uc_shipping.install	2f434640af753550a7fa1bffeb4c6e1e
+M	shipping/uc_shipping/uc_shipping.js	f11cafdea042e4ebed55881dfab945e1
+M	shipping/uc_shipping/uc_shipping.module	2a60cb97bd1bf62692bbe580a43005ee
+D	shipping/uc_ups/translations/shipping-uc_ups.de.po	
+M	shipping/uc_ups/uc_ups.admin.inc	813082663936c393eefc097f586c45e4
+M	shipping/uc_ups/uc_ups.info	343f71985e5db4f8123aa70519f62bbc
+M	shipping/uc_ups/uc_ups.install	6aec813713c39b032051269a76ad42eb
+M	shipping/uc_ups/uc_ups.module	2480abfda876abfb93d698cd934045d5
+A	shipping/uc_ups/uc_ups.ship.inc	783f88b96505393514fc2ffcd4d45203
+D	shipping/uc_usps/translations/shipping-uc_usps.de.po	
+M	shipping/uc_usps/uc_usps.admin.inc	7c042d261bf779717d167315804f2c52
+M	shipping/uc_usps/uc_usps.countries.inc	e54abc03bb453f51077313f15f89ea46
+M	shipping/uc_usps/uc_usps.info	ef53126e1c7c8e925dad04ae6b005238
+M	shipping/uc_usps/uc_usps.install	e9ce6f3d0046646e5c42a8ff9c5f6a2f
+M	shipping/uc_usps/uc_usps.module	098a114e332d8b089cab4f8c4a48e471
+D	shipping/uc_weightquote/translations/shipping-uc_weightquote.de.po	
+M	shipping/uc_weightquote/uc_weightquote.admin.inc	9a75ea7982eb80bc88aa824b5bd3c01e
+M	shipping/uc_weightquote/uc_weightquote.info	5f7f0b4e3ad0c68b83721fff7ccbb447
+M	shipping/uc_weightquote/uc_weightquote.install	0fa2224222f4596239c5e03379c355ef
+M	shipping/uc_weightquote/uc_weightquote.module	0577c0003acba746ef9caf2b8596e98f
+D	translations/general.de.po	
+D	translations/uk.po	
+D	uc_attribute/translations/uc_attribute.de.po	
+D	uc_attribute/translations/uc_attribute.ja.po	
+D	uc_attribute/translations/uk.po	
+M	uc_attribute/uc_attribute.admin.inc	54323c3db96c5304950e56edeccb8dde
+M	uc_attribute/uc_attribute.ca.inc	784d2f096b19ec26fd32f9774c9a8e2f
+M	uc_attribute/uc_attribute.css	ac7f38feffe7d157f443fd7e00c6a499
+M	uc_attribute/uc_attribute.info	ea92d04ed70e8793e4d30c667f596b8f
+M	uc_attribute/uc_attribute.install	82371a852b5cd0c87f381f7dea67db31
+M	uc_attribute/uc_attribute.module	c6c5d48de6e456db5a77ef38fc323ffd
+A	uc_attribute/uc_attribute.test	a8382d8b528dec20293334ef00a033d9
+D	uc_cart/translations/uc_cart.de.po	
+D	uc_cart/translations/uc_cart.fr.po	
+D	uc_cart/translations/uc_cart.ja.po	
+M	uc_cart/uc_cart.admin.inc	e13af1857c0831f8109d0e6e075a39ba
+M	uc_cart/uc_cart.ca.inc	93f833463164441cbb37223b1c0ddf86
+M	uc_cart/uc_cart.css	bb40f37948c249d5f3cf1c2f57c68b14
+M	uc_cart/uc_cart.info	0dbdfcd08041dee1c9006fceff4acc88
+M	uc_cart/uc_cart.install	8708d604788e99ffba57ce18b541a74a
+M	uc_cart/uc_cart.js	d6ad62845ea56a9b6a07ff2ce86b5bc9
+M	uc_cart/uc_cart.module	b30bc60df1930b5ba2b77b60a0b3be3c
+M	uc_cart/uc_cart.pages.inc	ee1c0b2df00ff8c0852b75ef8b09d9d2
+M	uc_cart/uc_cart.test	fa9f153114745d1041e5c5ee38d1c5d3
+M	uc_cart/uc_cart_block.css	ed8839d7cd4bed681676e16e077c7ea8
+M	uc_cart/uc_cart_block.js	df06590eff453914e99fa7f15d6d7eec
+M	uc_cart/uc_cart_checkout_pane.inc	1148a3dcbb80b1eb63e5fed7ea809ca8
+D	uc_cart_links/translations/uc_cart_links.de.po	
+M	uc_cart_links/uc_cart_links.admin.inc	64eddb3c9792fc6323d27e5d139f872c
+M	uc_cart_links/uc_cart_links.info	10b3426474d4212b6123ab341b04442f
+M	uc_cart_links/uc_cart_links.install	fa26b67792c30a7b222eeb8d82915051
+M	uc_cart_links/uc_cart_links.module	996ed152c735528773611d21db8782f3
+M	uc_cart_links/uc_cart_links.pages.inc	cc0072411aebcbf2005677a1a91b7481
+A	uc_cart_links/uc_cart_links.test	9b168be02b5082f9a8ab9140d66e7fcf
+D	uc_catalog/translations/uc_catalog.de.po	
+D	uc_catalog/translations/uk.po	
+M	uc_catalog/uc_catalog.admin.inc	3d72bb3943d7654422e1d167edbb54e4
+M	uc_catalog/uc_catalog.css	ce0d9f993854ae0ebee6f81aa124af5f
+M	uc_catalog/uc_catalog.info	583d57fb4680b32ca7b899b42737f126
+M	uc_catalog/uc_catalog.install	70704e3058de6dc7e4989c44140c6ae8
+M	uc_catalog/uc_catalog.module	e91fbdd007cfd547c68b77595ca7eec9
+M	uc_catalog/uc_catalog.pages.inc	47913de2f2e3ea0997573d7736787537
+D	uc_file/translations/uc_file.de.po	
+M	uc_file/uc_file.admin.inc	cbe4e0775c383595e6817f358de0f95b
+M	uc_file/uc_file.ca.inc	7117ca2004bfd0c57ac3423c2d7b1072
+M	uc_file/uc_file.css	e7a1228481ed37ee026571b51918f62e
+M	uc_file/uc_file.info	90f11d41892616fab58051a27d5eb669
+M	uc_file/uc_file.install	2e09f102fd992048279f6b57df753239
+M	uc_file/uc_file.js	ca9e33cc6152fcd245ef003c80bf27f2
+M	uc_file/uc_file.module	df9703eaaae2e1fffdfb3fdde577e1b4
+M	uc_file/uc_file.pages.inc	a3c5479bfac5bb804c2da9fecf5f1a9b
+D	uc_googleanalytics/translations/uc_googleanalytics.de.po	
+M	uc_googleanalytics/uc_googleanalytics.info	92f7063e073ca4e77032312fe9da6c13
+M	uc_googleanalytics/uc_googleanalytics.module	c4a1c4862abe82b67c05ed97371d0513
+D	uc_order/templates/translations/uc_order-templates.de.po	
+M	uc_order/templates/uc_order-admin.tpl.php	10e077fdbd8d72b8f4fb1794905ee278
+M	uc_order/templates/uc_order-customer.tpl.php	5a2a93190419a2b16ed49b9cbf6f02bd
+M	uc_order/templates/uc_order.tpl.php	aee12aa470b29519e6b31fb6342fe38c
+D	uc_order/translations/uc_order.de.po	
+D	uc_order/translations/uc_order.ja.po	
+M	uc_order/uc_order.admin.inc	7d09604d252359e50644fc8de0f7fb16
+M	uc_order/uc_order.ca.inc	6bb9382bdd9e952cc68c54d4e81766b6
+M	uc_order/uc_order.css	4f618f9ec00c3600fc779f1fdf6595ff
+M	uc_order/uc_order.info	8652bddb3566e6397b32a071836c9f04
+M	uc_order/uc_order.install	c35fb6b84cd31293591de713312cf94c
+M	uc_order/uc_order.js	a30c081ec187990e4dabdd6af24690b6
+M	uc_order/uc_order.line_item.inc	e5f828941838b08381a0e245c52577c0
+M	uc_order/uc_order.module	bb85ef99917b19fd48b14c74545accb7
+M	uc_order/uc_order.order_pane.inc	d04104432b9b7821b3e78428a49f7c98
+A	uc_order/uc_order.test	5ab5e7188ca480c2705c0bebdab5e97d
+D	uc_product/translations/es.po	
+D	uc_product/translations/uc_product.de.po	
+D	uc_product/translations/uc_product.ja.po	
+M	uc_product/uc_product.admin.inc	482b982d21084dfde0dd72f8dc1d3f55
+M	uc_product/uc_product.css	ea32053a6d114ae38a8810b009316fa0
+A	uc_product/uc_product.features.inc	e916b69ca45b929e029f9ad90a6f05ec
+M	uc_product/uc_product.info	e7dcc288ae6118d00b3ecdd66e44a221
+M	uc_product/uc_product.install	f0d5db457e6c9ca4c790d53fea9a4335
+M	uc_product/uc_product.module	f3d2848074651904b34f427fc571ee94
+M	uc_product/uc_product.pages.inc	33c3c5eef8d1a40e4157e9117eecbdbc
+A	uc_product/uc_product.test	7ffa7324e20de2889d5dc2d7817660ad
+D	uc_product/views/translations/uc_product-views.de.po	
+M	uc_product/views/uc_product.views.inc	8ea3bde0579168c61ec888371d6ee832
+M	uc_product/views/uc_product.views_default.inc	0b1a783764bb22a3d65b5a311e6dfb40
+M	uc_product/views/uc_product_handler_field_addtocart.inc	a4945e8e11bf3af57a7a1ded9bc5c955
+M	uc_product/views/uc_product_handler_field_buyitnow.inc	0e42d6ccd7e14c7378ef0a1ffd549e71
+M	uc_product/views/uc_product_handler_field_price.inc	405f39a656ce0a75b594df28a23db3c5
+M	uc_product/views/uc_product_handler_field_weight.inc	eff5bd90c7bac323628e8655be9e2f98
+M	uc_product/views/uc_product_handler_filter_product.inc	cf3c0d109775a40e636642dd684234d8
+D	uc_product_kit/translations/es.po	
+D	uc_product_kit/translations/uc_product_kit.de.po	
+D	uc_product_kit/translations/uc_product_kit.ja.po	
+M	uc_product_kit/uc_product_kit.admin.inc	bac2ad2bbcddf197b18bf07c7f0dfc5a
+M	uc_product_kit/uc_product_kit.css	bad8355e8f50fe0d2d214d4c75286dd8
+M	uc_product_kit/uc_product_kit.info	8166ab2fd71f75a7be804fd5d07ccd52
+M	uc_product_kit/uc_product_kit.install	3a1bc1b176cdfcebd8cd6049c153d01e
+M	uc_product_kit/uc_product_kit.module	fd73199cc19f52c67e00f422a2085175
+A	uc_product_kit/views/uc_product_kit.views.inc	0c03781dafa4ec2b68da25b3c0da4ab8
+A	uc_product_kit/views/uc_product_kit_handler_filter_product_kit.inc	d47f659f841fa631ec2011962adde96d
+A	uc_product_kit/views/uc_product_kit_handler_filter_product_kit_item.inc	e4c4398f4e83c399beccd2679d942375
+D	uc_reports/translations/uc_reports.de.po	
+D	uc_reports/translations/uc_reports.ja.po	
+M	uc_reports/uc_reports.admin.inc	a0813e32004f9762070dbce4fec0ada8
+M	uc_reports/uc_reports.css	f64979d64b1bd380ff2dd6d4df90b209
+M	uc_reports/uc_reports.info	caf37f8b303766ac335123ca568cb496
+M	uc_reports/uc_reports.install	940c1f760bc236cea6c35f5ee4d7a040
+M	uc_reports/uc_reports.module	8f1e8fefd58f57d0d334b33477ecfa63
+D	uc_roles/translations/uc_roles.de.po	
+M	uc_roles/uc_roles.admin.inc	bb965446cd9e3447ab7f174f49bcc28a
+M	uc_roles/uc_roles.ca.inc	ef6c1d3e1a4ec4bf07c88333a9a5140d
+M	uc_roles/uc_roles.css	42f66c2ffb756dd6e752acc3f6e0f8d4
+M	uc_roles/uc_roles.info	f4dc3b285c6bad26a36ee9887f54a2a7
+M	uc_roles/uc_roles.install	d5f9bc65be13bdcbbb576c1e14fefd92
+M	uc_roles/uc_roles.js	29e51dac8aa16e8e750d920e203af436
+M	uc_roles/uc_roles.module	a1d720d041fc42faba63012eadf29618
+D	uc_stock/translations/uc_stock.de.po	
+D	uc_stock/translations/uc_stock.ja.po	
+M	uc_stock/uc_stock.admin.inc	f15bdbaee92d1a052bd7804fd5b26509
+M	uc_stock/uc_stock.ca.inc	695738c9f79dbf49fa4a8c13d5d9749f
+M	uc_stock/uc_stock.css	e5c15382700aa74bc81fc4d130baab22
+M	uc_stock/uc_stock.info	0df7580ae7c34afb565dbb3a4447d220
+M	uc_stock/uc_stock.install	189d6d71f697ffbf4f18e5e84c8839ba
+M	uc_stock/uc_stock.module	80528149156cb108836ce84ccfb61e4a
+M	uc_stock/views/uc_stock.views.inc	8a5ae63340ed62602207e222b913d62e
+M	uc_stock/views/uc_stock_views_handler_filter_below_threshold.inc	252d353cdb7363c61e1e3fe4c3d97af8
+M	uc_store/countries/afghanistan_4_1.cif	ba94dcdb9fc96c7b62ecef93362879ce
+A	uc_store/countries/aland_islands_248_1.cif	bfb08c1504d2e5fe71dd5147a1c50941
+A	uc_store/countries/albania_8_1.cif	d6101e3abda1d8a62df2e61da0898e92
+M	uc_store/countries/algeria_12_1.cif	a1cfa5bde4b743450f41a89b630dc291
+A	uc_store/countries/american_samoa_16_1.cif	fa81b38e2f836a3e111cdf487518faf9
+M	uc_store/countries/andorra_20_1.cif	919f921096695b88b3d0d127fabd779a
+A	uc_store/countries/angola_24_1.cif	a8cf6555ac42c72a49d1847cccb9ab6b
+A	uc_store/countries/anguilla_660_1.cif	00f15dcd515988fb7aae3147e5fc57d5
+A	uc_store/countries/antarctica_10_1.cif	1a54289c8e2c328090dd6f9ea917a77b
+M	uc_store/countries/antigua_barbuda_28_1.cif	458576595022744e654e61acdfbc817e
+M	uc_store/countries/argentina_32_1.cif	71aff3101c7276692580cba9e9f04d46
+M	uc_store/countries/armenia_51_1.cif	1fe370b797e10bba35fde84cdc08c1b1
+M	uc_store/countries/aruba_533_1.cif	146e4dfaacc92b9aca802782fb3424ff
+M	uc_store/countries/australia_36_2.cif	50586ee4ca08a47f3a6ec3aeef9595db
+M	uc_store/countries/austria_40_1.cif	5ef799f1a17de38f99fac4eb8ca44638
+A	uc_store/countries/azerbaijan_31_1.cif	967bfa78d015fdcc51a9a6b5db887593
+M	uc_store/countries/bahamas_44_1.cif	8115dea4698339ce1674862176265134
+D	uc_store/countries/bahrain_48_2.cif	
+A	uc_store/countries/bahrain_48_3.cif	9bd25ca5bfce9b69bb30ded4c5b5eb59
+A	uc_store/countries/bangladesh_50_1.cif	a73da8b73db202876f50927fc878b8f3
+M	uc_store/countries/barbados_52_1.cif	2e044e9ac4bbf7d47bc840f2baa1de84
+A	uc_store/countries/belarus_112_1.cif	02100729f6d7ac9b3e3c204e11db80c8
+M	uc_store/countries/belgium_56_3.cif	2a58f10a3cb45f230dc60ca5d442686e
+M	uc_store/countries/belize_84_1.cif	f13d8bc895145ce547ffe64fa2c13989
+A	uc_store/countries/benin_204_1.cif	ac18a233155908dc30a44a5d7d2ec221
+M	uc_store/countries/bermuda_60_1.cif	6135f82b1bcbd8cc9b995fa47774e39a
+A	uc_store/countries/bhutan_64_1.cif	4125c9a8e5397def26227bd73004aa21
+A	uc_store/countries/bolivia_68_1.cif	1789c4fd701d0b39c9048daec4e719ea
+A	uc_store/countries/bonaire_535_1.cif	183d3e742072293d78ddd1f2eb5ddf11
+M	uc_store/countries/botswana_72_1.cif	81bdefe17aa15a28714cf729f353530a
+A	uc_store/countries/bouvet_island_74_1.cif	b6f3f14388da3311cf969743de33dd00
+M	uc_store/countries/brazil_76_1.cif	d0a0ab2185ce51842ceaff29c5d62231
+A	uc_store/countries/british_indian_ocean_territory_86_1.cif	4b9324aa57ddf42606bbb1e74e0cb87b
+A	uc_store/countries/brunei_darussalam_96_2.cif	6f11e5785e41b6484faf856f55bc0614
+M	uc_store/countries/bulgaria_100_1.cif	ef91813742140eebe888b324f0fae98e
+A	uc_store/countries/burkina_faso_854_1.cif	8f66937012e6800b6fa22c4edbc3b971
+A	uc_store/countries/burundi_108_1.cif	89fb7d0ddc85461bce40ebb1802dc0f7
+M	uc_store/countries/cambodia_116_1.cif	1defa50cfae596f2727a757baec49c18
+A	uc_store/countries/cameroon_120_1.cif	3c184dc8084b0dddbc564c3eab8e4d94
+A	uc_store/countries/cape_verde_132_1.cif	f41152fac9cd15736edb68085b51270a
+A	uc_store/countries/cayman_islands_136_1.cif	c7413d59e5a83e3ae9a1429c53447309
+A	uc_store/countries/central_african_republic_140_1.cif	5c255eec4a94e24177fd2ca38002a8b8
+A	uc_store/countries/chad_148_1.cif	da3a217fffbdff28cf57dd1439becbd7
+M	uc_store/countries/chile_152_1.cif	38ad204f4c7f4d14770db7d4ff52e80b
+M	uc_store/countries/china_156_1.cif	0e6385727670fd9986beeb1de84a9122
+A	uc_store/countries/christmas_island_162_1.cif	fd9d07d9b2ba94dfda4d63a5d529a78a
+A	uc_store/countries/cocos_islands_166_1.cif	a43d6ca400b83a2bf0033148afdd8984
+M	uc_store/countries/colombia_170_1.cif	c4868b9e73ba1d68117014063273780f
+A	uc_store/countries/comoros_174_1.cif	f9a8df852d3a95dfd1e3fc3f18c9070a
+A	uc_store/countries/congo_178_1.cif	ec1bb2cefd0a8e9e44e385a53ce01054
+A	uc_store/countries/congo_democratic_republic_of_180_1.cif	0b6974c70d3de14ba468bbead824ceb6
+A	uc_store/countries/cook_islands_184_1.cif	3a8f5019fccda65928413bc97c03f1c8
+A	uc_store/countries/cote_d_ivoire_384_1.cif	856924dc08ad68921f64b3fa42174e44
+M	uc_store/countries/croatia_191_1.cif	ac91356a1f473989f8760ed00b6de0e7
+A	uc_store/countries/cuba_192_1.cif	e912489a9f0e1dc2816aee8d10425909
+A	uc_store/countries/curacao_531_1.cif	c3691de97dab62a5a05441ff846d46b6
+A	uc_store/countries/cyprus_196_1.cif	ebe6e43b37363ff421d2d8b82b97595b
+M	uc_store/countries/czech_203_1.cif	296a032695ea98b61263419b8e5f5867
+A	uc_store/countries/djibouti_262_1.cif	0812fbb8a64c1bc912fa2ff4df977dac
+A	uc_store/countries/dominica_212_1.cif	afc4e528dcd9f68541c8e155c52b2add
+M	uc_store/countries/dominican_republic_214_1.cif	b9a40dd4e5cd6eef75fb812a16ad36b1
+M	uc_store/countries/ecuador_218_1.cif	15abdc9552358d1dceb23c98e5a10413
+M	uc_store/countries/egypt_818_1.cif	2a603c8a5a1ff08174737b4869fc294f
+M	uc_store/countries/el_salvador_222_1.cif	b29c505de68422ebc8760e5030ceebed
+A	uc_store/countries/equatorial_guinea_226_1.cif	e881208c978674b8b32bf2134a3fb625
+A	uc_store/countries/eritrea_232_1.cif	2e38b7b9fdc06538cd36301d960f36b8
+M	uc_store/countries/estonia_233_1.cif	d5925195646ce0aefda79757b27d9477
+A	uc_store/countries/ethiopia_231_1.cif	c80507791baf1a434762b16b4822c421
+A	uc_store/countries/falkland_islands_238_1.cif	c3fbabebe472afe632efe0b05196d849
+A	uc_store/countries/faroe_islands_234_1.cif	e058b6db29b0fa5ad0419df2acc2c0e1
+A	uc_store/countries/fiji_242_1.cif	f2afb2331c8aab3284536b90d1651aa0
+M	uc_store/countries/finland_246_1.cif	7b15f94854b4e08ad1854fcd5724d6b7
+M	uc_store/countries/france_250_1.cif	b219cd054a3129d99fed0b6d804dc82c
+A	uc_store/countries/french_guiana_254_1.cif	2b843cd58b76ecd9585536e353b5fe0f
+A	uc_store/countries/french_polynesia_258_1.cif	e284a6da26758a83514fae4839d027d7
+A	uc_store/countries/french_southern_territories_260_1.cif	4b0c656e95c4af3b73fe67776ef93948
+A	uc_store/countries/gabon_266_1.cif	23b35cd9cd142d45ff3208ffae75ef6b
+A	uc_store/countries/gambia_270_1.cif	0c2de6a2bc0a54202f4313aa9a1a6214
+M	uc_store/countries/georgia_268_1.cif	42f2fe9c8c7f87aa683e7cdd62809886
+M	uc_store/countries/germany_276_1.cif	e1f6ee8294271d29f461c85c1b212b2d
+A	uc_store/countries/ghana_288_1.cif	5f2bb39f8457e7f78b6dfc8d95cf4515
+M	uc_store/countries/gibraltar_292_1.cif	f859f54b2a9f15bd5d663bb183c02097
+M	uc_store/countries/greece_300_1.cif	6a29a4ed653aec1bca5556abfca129e9
+M	uc_store/countries/greenland_304_1.cif	f2c1cae03b68db560e83da57accdb41d
+A	uc_store/countries/grenada_308_1.cif	ee00719ea21c85007d997587f572b02f
+A	uc_store/countries/guadeloupe_312_1.cif	6835440d6922318e40bf35c86a72226b
+M	uc_store/countries/guam_316_1.cif	cb6cca497a4dbf54d37e47ea1efc5c42
+A	uc_store/countries/guatemala_320_1.cif	5a1261b31a43084cac158ae459b69c1d
+A	uc_store/countries/guernsey_831_1.cif	51fbf7556b6b288b6ebebbd9d676adba
+A	uc_store/countries/guinea_324_1.cif	9648a1eb4722b770b5a24a7526c01fd8
+A	uc_store/countries/guinea_bissau_624_1.cif	fe4bb02e07c985947ab497c937641bd4
+A	uc_store/countries/guyana_328_1.cif	d7dfa733d0fb2bea0427ab90519cad99
+A	uc_store/countries/haiti_332_1.cif	af66cb7ae15bf6679088b8f754495890
+A	uc_store/countries/heard_island_334_1.cif	882235807857d6e4c5934a6e0a6de1f2
+A	uc_store/countries/holy_see_336_1.cif	c4aa3555e96c02061a4cc5a8bbeb7549
+A	uc_store/countries/honduras_340_1.cif	695e7a28156f2bb2ef8e91da03ba458d
+M	uc_store/countries/hong_kong_344_1.cif	262de9077078f7111113a5110a44457a
+M	uc_store/countries/hungary_348_1.cif	bd00dd4d2504abf950402635e4db2131
+A	uc_store/countries/iceland_352_1.cif	0a10381704fd345563a63043bdacf905
+M	uc_store/countries/indonesia_360_1.cif	e214b24be61977c6636f391acc4158ca
+A	uc_store/countries/iraq_368_1.cif	6a14cf1df8ae3da78fdf6a5ade018c33
+M	uc_store/countries/ireland_372_2.cif	a08e5b5b80efb337cb5acf99249e7599
+M	uc_store/countries/isle_of_man_833_1.cif	cb908bc8293efe9d22480a1253ae74aa
+M	uc_store/countries/israel_376_1.cif	82b23497173ef592091f22e32ab9c5a5
+M	uc_store/countries/jamaica_388_1.cif	cadd3e79e926fc50aca1a51570d5e8b9
+M	uc_store/countries/japan_392_1.cif	5ab49ad8a48da815d50aefe9c3142e75
+A	uc_store/countries/jersey_832_1.cif	7e2af54bce248352d675f86e1467f64a
+A	uc_store/countries/jordan_400_1.cif	8851617b10171bf24eaeb65226230598
+M	uc_store/countries/kazakhstan_398_1.cif	5bab92f66beefe01caf5bd9522cc6ed5
+M	uc_store/countries/kenya_404_1.cif	b64c519661614396954697b74dbec953
+A	uc_store/countries/kiribati_296_1.cif	e121ca3d62b99b632954a82826b032fc
+A	uc_store/countries/korea_democratic_peoples_republic_of_408_1.cif	19c058137665961890259e7ed488889d
+M	uc_store/countries/korea_republic_of_410_1.cif	586d62865dfe203d55690e28b484cfb1
+A	uc_store/countries/kuwait_414_1.cif	9b6361e1ab677b59dfbfe07d05519fd6
+A	uc_store/countries/kyrgyzstan_417_1.cif	9038b89072851be1026fa4df5acea7cf
+A	uc_store/countries/laos_418_1.cif	3702d4849d669180578d5bfda5dfcd30
+M	uc_store/countries/latvia_428_1.cif	9780297872c26f1d813e373d15cee394
+A	uc_store/countries/lebanon_422_1.cif	12c3acd2095f71ec1346e8fed3f3c526
+A	uc_store/countries/lesotho_426_1.cif	0237a258d5c692ed65b0795e058f4292
+A	uc_store/countries/liberia_430_1.cif	e94e337cf08cea40cf8fa84e6e12f2c5
+A	uc_store/countries/libya_434_1.cif	7ac30ab79b2f613c45d3537169ceda35
+A	uc_store/countries/liechtenstein_438_1.cif	8ef01ab22360b839a8b85e87c6ca3772
+M	uc_store/countries/lithuania_440_1.cif	7206371f0b97b96aeae5a91b334c937a
+M	uc_store/countries/luxembourg_442_1.cif	8bacfcd9786648ee8a443e9fa3073e2a
+M	uc_store/countries/macao_446_1.cif	21429d05d58bb643583a1ec1e25352b4
+M	uc_store/countries/macedonia_807_1.cif	43d78ad4add5f4c555f7848aa66c22bb
+A	uc_store/countries/madagascar_450_1.cif	96b96303bdab7ac91ae621ac111de4f4
+A	uc_store/countries/malawi_454_1.cif	5b2dd94cfa674274021583bc57f37423
+M	uc_store/countries/malaysia_458_1.cif	b741cbcee275823b8a379a826a12a314
+A	uc_store/countries/maldives_462_1.cif	53f3aa7b73e3b22753d9cbd1e54b6996
+A	uc_store/countries/mali_466_1.cif	283b7cdcaaf5bced9e790be0b58fa060
+M	uc_store/countries/malta_470_1.cif	e758b79c6025ebf34bd134ffd51c1ef3
+A	uc_store/countries/marshall_islands_584_1.cif	b82c83c6a6f8e96a05c8578dd94cf0e0
+A	uc_store/countries/martinique_474_1.cif	b67de115a153479df0a28a67ffa45ac3
+A	uc_store/countries/mauritania_478_1.cif	4a02afdf616e6e7c97b5723bb2f6b403
+M	uc_store/countries/mauritius_480_1.cif	af64548ecf9b01401ab22c65d8f07602
+A	uc_store/countries/mayotte_175_1.cif	c612f17d84c14741c767c0177c822a99
+M	uc_store/countries/mexico_484_1.cif	1203c3678770c8d198456d036965c6cd
+A	uc_store/countries/micronesia_583_1.cif	373fcbc8e33556a4ae683b061f0e649b
+A	uc_store/countries/moldova_498_1.cif	235ea011dc03aa532d1f2bc02cae4fa2
+M	uc_store/countries/monaco_492_1.cif	a84b1fe14a7eddfc6fb3232118f88d2d
+A	uc_store/countries/mongolia_496_1.cif	e5171edf6faf9d86cc01899112c103ec
+M	uc_store/countries/montenegro_499_1.cif	8826c9f9161d86300b5e662e15e3e1d5
+A	uc_store/countries/montserrat_500_1.cif	4ba3a7cc643e4e1130f6b40b31e159e8
+M	uc_store/countries/morocco_504_1.cif	ca2a3b0813a6794cd81078abca924658
+M	uc_store/countries/mozambique_508_1.cif	a2942ec6c98ad40df96907e4b7134a56
+M	uc_store/countries/myanmar_104_1.cif	65ba59fa3e837f9338d179536f6ff1a5
+A	uc_store/countries/namibia_516_1.cif	8d16618cae0478910be0f6fc9809365a
+A	uc_store/countries/nauru_520_1.cif	a8ccf91c9a4a89843d05adfe2f0080cb
+M	uc_store/countries/nepal_524_1.cif	745f7e5325fc20985870d5f71bbc469a
+M	uc_store/countries/netherlands_528_1.cif	338c8c74c91fa6e6086ff3ca7ac3a172
+M	uc_store/countries/new_caledonia_540_1.cif	380e2a850924095b84a88fe44fbc474c
+M	uc_store/countries/new_zealand_554_3.cif	5e716fcbceb7f698d50a4a26aad6799d
+M	uc_store/countries/nicaragua_558_1.cif	15d8c18b13744da87a41e0f783e223b5
+A	uc_store/countries/niger_562_1.cif	b63ee012961f29d2614e085d6a4a0c9e
+M	uc_store/countries/nigeria_566_1.cif	47e2e84e4636127df59e98932926ff81
+A	uc_store/countries/niue_570_1.cif	d60f64772f5b0400698df6cca50251ff
+A	uc_store/countries/norfolk_island_574_1.cif	bdce8233427c0dde1116d4f3cd347033
+A	uc_store/countries/northern_mariana_islands_580_1.cif	d8ce9529521e48e76de1d83b85d645c9
+M	uc_store/countries/norway_578_1.cif	4e28c36b6ecdaaeb665e0032545f8d78
+M	uc_store/countries/oman_512_1.cif	dfd11815694769a973dc8bfd9fe139e5
+M	uc_store/countries/pakistan_586_1.cif	b68d92606bccdb2b1c01fbe9f4c7ed7c
+A	uc_store/countries/palau_585_1.cif	cca7f290405bd6a88bf718a8a48a2912
+A	uc_store/countries/palestine_275_1.cif	934e2b9a9e12396057047d3107733470
+M	uc_store/countries/panama_591_1.cif	d11c7ac4d71817eb6aabfb02230a75da
+A	uc_store/countries/papua_new_guinea_598_1.cif	7b4d0db63a83e403005650ff5e976439
+A	uc_store/countries/paraguay_600_1.cif	b56ee30bcc1124e965c49cb8c170218b
+M	uc_store/countries/peru_604_1.cif	90c3a4743cb49d5edfa138f81fc15428
+M	uc_store/countries/philippines_608_2.cif	209fa71c0d4cc5c240cc187fc38f7be4
+A	uc_store/countries/pitcairn_612_1.cif	3433b688c51dad6e9eaf58fc6427f762
+M	uc_store/countries/poland_616_1.cif	60f15aedfad145b073348f8a547a62d3
+M	uc_store/countries/portugal_620_1.cif	ae3bb5ddf0fe5d64c03208a62b3042f1
+M	uc_store/countries/puerto_rico_630_1.cif	e956edc58f6a35bb60f35fabde4e8941
+A	uc_store/countries/qatar_634_1.cif	9630973b1c92a2055ea15f5c87ec8ce1
+D	uc_store/countries/reunion_638_1.cif	
+A	uc_store/countries/reunion_638_2.cif	f2870572de797ef12ed89f1ace185e42
+A	uc_store/countries/rwanda_646_1.cif	3e4ca688bf57961203751a0201f4b543
+A	uc_store/countries/saint_barthelemy_652_1.cif	ee9c2aba37b0a9f85116c39ec9eb71fd
+A	uc_store/countries/saint_helena_654_1.cif	23ad8ec0b5e3a2cb9ee7885423655836
+A	uc_store/countries/saint_kitts_nevis_659_1.cif	d281a0a82b1cfb8987050f1f6e02ee44
+M	uc_store/countries/saint_lucia_662_1.cif	a78e840a2b2f5928c27fc0ebf1569c16
+A	uc_store/countries/saint_martin_663_1.cif	f14ebda9509fa5da9c6fbe6514bfda72
+A	uc_store/countries/saint_pierre_miquelon_666_1.cif	fa23036cc79ee3f316c142c5e5ab63d6
+A	uc_store/countries/saint_vincent_grenadines_670_1.cif	8668c6d993a8fa5097419b0038eb3deb
+A	uc_store/countries/samoa_882_1.cif	18c5ce2124f3aa3e92eb96e5c67e111f
+A	uc_store/countries/san_marino_674_1.cif	57a368144e15d377d7ddf9e55a964abd
+A	uc_store/countries/sao_tome_principe_678_1.cif	2dadb542c46fda63a74bd11ef0fbfab2
+M	uc_store/countries/saudi_arabia_682_2.cif	fd90e4ade51bf59d66bc96c7613a93ec
+M	uc_store/countries/senegal_686_1.cif	3ee95287f8943dde79ba13ebae00ff3c
+M	uc_store/countries/serbia_688_1.cif	79bd2470df91ac02bf2a81676ffaf95f
+M	uc_store/countries/seychelles_690_1.cif	e2d3622988448130391f63416fe9c063
+A	uc_store/countries/sierra_leone_694_1.cif	f812854708ad5a8a91a4e0ddb0c83e9b
+M	uc_store/countries/singapore_702_1.cif	40b7455f171528a561e57907d1d02b21
+A	uc_store/countries/sint_maarten_534_1.cif	47746adc00be7444ef76c15b5026aa1f
+M	uc_store/countries/slovakia_703_1.cif	b708c7ace5c917f1147d997909805cd4
+M	uc_store/countries/slovenia_705_1.cif	eac146618ff0f0df4f5d80e5f7766d9e
+A	uc_store/countries/solomon_islands_90_1.cif	a2ee2d1942a2dbae5b21955bd2fffb7d
+A	uc_store/countries/somalia_706_1.cif	e2f26e013165c800832ae0cb61795a61
+M	uc_store/countries/south_africa_710_1.cif	cc8c0ad86132f1c739f0e10773a8bc44
+A	uc_store/countries/south_georgia_south_sandwich_islands_239_1.cif	35ac2b0356554c72b4e9adee924cdbee
+M	uc_store/countries/spain_724_1.cif	91dcb0de658a35834bd0168faa93f064
+M	uc_store/countries/sri_lanka_144_1.cif	e0d0c212536da772ea3b2aac49efa2f0
+A	uc_store/countries/sudan_736_1.cif	15a8b5570a6a30c53209091a5754ba1c
+M	uc_store/countries/suriname_740_1.cif	4d4aaaa3af0682d4f8b3268e0b5b09bb
+A	uc_store/countries/svalbard_jan_mayen_744_1.cif	d2c4c19c523c9c9a734cbeb756ce475a
+A	uc_store/countries/swaziland_748_1.cif	a1893b255e77382b7faf6f7ee1cb708b
+M	uc_store/countries/sweden_752_1.cif	3ff9be68e6b7eb83fc8c8e3d75abb387
+M	uc_store/countries/switzerland_756_1.cif	977c60db9355d986d13a52496d1acf0f
+A	uc_store/countries/syria_760_1.cif	65bc2afbb10c796b62721d762461d4f2
+M	uc_store/countries/taiwan_158_1.cif	d67ba275a80c229b2f5954de87635946
+A	uc_store/countries/tajikistan_762_1.cif	3a1f610e0803f64a9608c7c040e6bb06
+M	uc_store/countries/tanzania_834_1.cif	38e913695b4b47fcdb332b07dc3d0c15
+M	uc_store/countries/thailand_764_2.cif	09659b0cdbb48a87bc89fcf11476bcf4
+A	uc_store/countries/timor_leste_626_1.cif	aebb23e6ab8ecd393d780943f8eac7cb
+A	uc_store/countries/togo_768_1.cif	89b31e8d67bdc413aea1f885c38bf8a4
+A	uc_store/countries/tokelau_772_1.cif	2063c9266c432490cedd95618f82ec47
+A	uc_store/countries/tonga_776_1.cif	d34ed83bcbe9b2f3a28535d443fc88ca
+A	uc_store/countries/trinidad_tobago_780_1.cif	5d1729503fe2ac7dd19b1540a5c10490
+M	uc_store/countries/tunisia_788_1.cif	11f6ae7deaa05123eb93734ddf503e62
+M	uc_store/countries/turkey_792_2.cif	2019e09e7eed74b00d8b6a94bcae51fc
+A	uc_store/countries/turkmenistan_795_1.cif	1060754cde05d97cc44a2ea5bab1d562
+A	uc_store/countries/turks_caicos_islands_796_1.cif	9c6e8c4dc539fdc1b817d492d5964d42
+A	uc_store/countries/tuvalu_798_1.cif	009f0e415b7ccc68c287b5b90170b7e1
+A	uc_store/countries/uganda_800_1.cif	222ba51c75430b8455693bde71aa11b1
+M	uc_store/countries/ukraine_804_1.cif	4ff617454a5339ea040a8dfa96f5e3f6
+M	uc_store/countries/united_arab_emirates_784_1.cif	2789445ea05844aeccf6b37405b9b7c7
+M	uc_store/countries/united_kingdom_826_2.cif	026ffabac0e237aadd0f8b6dc283e66d
+M	uc_store/countries/united_states_840_1.cif	cf8dde9c14ee5e40708e4ddfe36decf3
+A	uc_store/countries/united_states_minor_outlying_islands_581_1.cif	607141cc3275dfe5261d52096710e749
+M	uc_store/countries/uruguay_858_1.cif	240d65df8d871574c9c4f49d9d3fa970
+A	uc_store/countries/uzbekistan_860_1.cif	710ad1ac5e5986e6ea9f746d5add6eb4
+A	uc_store/countries/vanuatu_548_1.cif	5789b493b492aa5605341b739d6e9806
+M	uc_store/countries/vietnam_704_1.cif	641e53f0ac1551f813c29c85408f7512
+M	uc_store/countries/virgin_islands_british_92_1.cif	625591510be5206d08339a08f16920a9
+M	uc_store/countries/virgin_islands_us_850_1.cif	b07be090b384d8ce289e3f92684181b2
+A	uc_store/countries/wallis_futuna_876_1.cif	9fe350b57087e6d8c3864e889d8e2480
+A	uc_store/countries/western_sahara_732_1.cif	ad9e1ba95d3f464dfba7b7d45f11416a
+A	uc_store/countries/yemen_887_1.cif	5c0b195e28052313333338a65f106ab9
+A	uc_store/countries/zambia_894_1.cif	91b9e41e9c8594ac2f9b2dc8c22c8d89
+M	uc_store/countries/zimbabwe_716_1.cif	435931f271fc375d5249765f26065e0c
+M	uc_store/includes/summaries.inc	62c468da4a2f4835368031fd177f7486
+M	uc_store/includes/summaries.js	787433b85bcb56a4e9ca8a9494bcac4d
+M	uc_store/includes/tapir.inc	b764e20caea70ffbd7c01186ed5c3d0e
+D	uc_store/includes/translations/uc_store-includes.de.po	
+M	uc_store/includes/uc_price.inc	909bbae70f806c89bf0e887821450cc2
+D	uc_store/translations/es.po	
+D	uc_store/translations/uc_store.de.po	
+D	uc_store/translations/uc_store.ja.po	
+M	uc_store/uc_country_select.js	83884ef9c797b558c12aa56ccc2fba60
+M	uc_store/uc_store.admin.inc	4c62e5d75f179fad93c1204d20a7e0e4
+A	uc_store/uc_store.countries.inc	7fc20737392b39014739f29063da6c74
+M	uc_store/uc_store.css	96e62c7c6a1b55882e551e93a67f1615
+M	uc_store/uc_store.info	cd0f9696eaa26fe7e884ead5cdb81e36
+M	uc_store/uc_store.install	08b1bd651947437c00a0a84b513e217e
+M	uc_store/uc_store.js	f3448f868fa7d0d25ab7ae9813865326
+M	uc_store/uc_store.module	ff6ec434730395f0b92b2739e575be28
+M	uc_store/uc_store.test	5f48fed6f74b60f216358dcd91427892
+M	uc_tax_report/uc_tax_report.info	871f2f458af2168db133389625ff852c
+M	uc_tax_report/uc_tax_report.module	e1a4960fa60aef0cace89700c65dc9bf
+D	uc_taxes/translations/es.po	
+D	uc_taxes/translations/uc_taxes.de.po	
+M	uc_taxes/uc_taxes.admin.inc	387d79fb362bea83a4c866753c3286e4
+M	uc_taxes/uc_taxes.ca.inc	6419011d7716c32d7298ae863c86308e
+M	uc_taxes/uc_taxes.info	71f4d1546d7f6b8e2cb1e6a0046252f6
+M	uc_taxes/uc_taxes.install	1b6c10e8d4fb7776486ea2920fe285b1
+M	uc_taxes/uc_taxes.js	a2f4e99a669fec17f6d01168a7aa0aeb
+M	uc_taxes/uc_taxes.module	ee7a57acb8ddafa135ab181fd34f97bc

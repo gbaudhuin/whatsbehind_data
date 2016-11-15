@@ -1,0 +1,8 @@
+M	social_stats.admin.inc	7988a78c38fe22db31786ffa0a463582
+M	social_stats.info	d54a6500f817a0071a4d9f4e9b20400b
+M	social_stats.install	b891164b590e418fcf6a38b4873031e7
+M	social_stats.module	7be7e55d5e238cda605ba8e39b964861
+M	social_stats_panels/plugins/content_types/social_stats_total_shares.inc	bb9119a7602fbafc53aa4710fb4a4ac3
+M	social_stats_panels/social_stats_panels.info	bd91575372bb9c4353dff8b6f7972406
+M	social_stats_views/social_stats_views.info	818e88778932899321be0ff599735d11
+M	social_stats_views/social_stats_views.views.inc	ea22b044c8578e4c9b1ac3ace28152e0

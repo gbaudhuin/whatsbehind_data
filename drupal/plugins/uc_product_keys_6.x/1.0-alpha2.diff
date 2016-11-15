@@ -1,0 +1,14 @@
+M	README.txt	d75bbdca6ea768154bc19bbcdb57eb62
+A	test/Test notes.txt	222fd4b13735434abb67f38db8094071
+A	test/large-mode1.tsv	dfa6d77de4fc05adb6b86bef03f4481c
+A	test/large-mode2.txt	967faf65b9e4dc1458178b9cee542b46
+A	test/regression-mode1.tsv	fbaef8838cd851ccf2747ae710fa9b06
+A	test/regression-mode2.txt	b1b9859dbb40534086f422d3d6510f35
+A	test/small-mode1.tsv	fd21acedb16610c8079a254de6e914b7
+A	test/small-mode2.txt	49cc713a4d105e7afc951670392ae738
+M	uc_product_keys.admin.inc	7a15bd308f601536419b56f52dcd3a59
+M	uc_product_keys.info	1b211a60b304d4f4e272413c11c8c6e8
+M	uc_product_keys.module	a2b9acfa5135afdcb5a86eb15c03706d
+A	uc_product_keys_sample/uc_product_keys_sample.info	24fd4246e45e2a4f5dd2d31876438c87
+A	uc_product_keys_sample/uc_product_keys_sample.install	e7e6c15bc5857805c736398439b10629
+A	uc_product_keys_sample/uc_product_keys_sample.module	a11f973bed102c79307c1762d38b6062

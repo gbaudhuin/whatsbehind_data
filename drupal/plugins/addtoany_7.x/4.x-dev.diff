@@ -1,0 +1,14 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	addtoany.admin.css	d11e61d30b848f4e7fb86374a8783cdd
+M	addtoany.admin.inc	0f15a7204152054eaf49db7f5c328d11
+A	addtoany.admin.js	4a02cf93be8b0051bf55627b99edca82
+M	addtoany.css	a1fe70ed27b72d0b4956ddb4f5f60308
+M	addtoany.info	679782b6b183d62b7fc9c9b62c0bfc0e
+M	addtoany.module	b6914a7413d36f7049d23d0f43a158cc
+A	addtoany.variable.inc	ca895005fe2ed952956c833b5c2ee6f6
+A	images/a2a_32_32.png	3d68fa041428d720dd31e9cbccc73a64
+M	images/share_save_120_16.png	c332117ea2470b1d87c955ce40aa74ee
+M	images/share_save_171_16.png	6d2d5ad6a6ad4a1eac14c0179a8561aa
+M	images/share_save_256_24.png	2f5032b1289191ae6ab39fe4cd59adb3
+M	views/addtoany.views.inc	9d2dc0d76a564363e014042af52ea4ab
+M	views/addtoany_handler_field_addtoany_link.inc	b2c4ab5f6accaddd3b4a37ddca61d4b8

@@ -1,0 +1,8 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	4abde63887965a8e70eb40a08c8007e1
+M	autoassignrole-admin.inc	31d9c9199e76d4f9fe44e5267c4be669
+D	autoassignrole-path.inc	
+M	autoassignrole.info	02ca34f38e6a6c86f7d82541d74fdbe8
+M	autoassignrole.install	ceff62b632f9635fe38eb80989733247
+M	autoassignrole.module	b2c8a289bbb3f8d984903c4c7dbd217d
+D	tests/autoassignrole.test	

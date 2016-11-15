@@ -1,0 +1,13 @@
+A	CHANGELOG.txt	f97f5ae3159d1a6eee96f8a8d691c816
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	8d28349499aa31188932276f4d0871aa
+A	includes/views/manualcrop.views.inc	7b2341bb35bea2bfed53e61574154730
+A	manualcrop.admin.inc	f32376946081913821369fb9739d3e23
+A	manualcrop.api.php	a7dd933499ba21bf8a776692196fa8be
+A	manualcrop.css	404bb89209f4bb31a286029ec563b4e9
+A	manualcrop.helpers.inc	151fe69d17b018c49e1b91915d3cf163
+A	manualcrop.info	9f032504b8e878d270f068ee10a1804f
+A	manualcrop.install	8a4ae1a929ad9ddcfdfb932685091f78
+A	manualcrop.js	9b2f7d72901048d311640940106645d7
+A	manualcrop.make.example	5d590e487dddb0a67de24b7bab869231
+A	manualcrop.module	4d5876d1208196b6d9cc08f3953a6914

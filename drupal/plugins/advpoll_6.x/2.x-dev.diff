@@ -1,0 +1,7 @@
+A	SI_changelog.txt	136b8e618735073a1d9d224ec47e5257
+M	advpoll.info	e23763e16e41975364b81be87a63e7be
+M	advpoll.install	dbc9e7a8d3786c5e432ed44260200496
+M	advpoll.module	ffc020cfb46a0707475231ae2fffc386
+M	advpoll_convert.info	90c0f4fca686dc1136fba3922bbeb911
+A	node-advpoll_binary.tpl.php	c43d52bb5cded82451c03f22e317ae67
+M	views/advpoll.views.inc	65ace5f781acd05c199423ddd0283884

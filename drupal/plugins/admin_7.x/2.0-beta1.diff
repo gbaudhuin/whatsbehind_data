@@ -1,0 +1,17 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	726f6a9ed31df956c0fa7753917a1165
+M	admin.admin.inc	792ee54d5038587979659b88946ee0af
+M	admin.info	c8f67bbfa9f26f0da9513fa3d492e232
+M	admin.install	8f8712d198d0964e6fb79f7d5444381e
+M	admin.module	6767e273d464e7124a9d6afa7e0743ac
+M	includes/admin.devel.js	3a2e998f2f5ad05a86e053499dfcba4d
+M	includes/admin.menu.js	2341dabe29cc3755cbb7cf8fec841a29
+M	includes/admin.theme.inc	1f4da34923eef2e819760ff65a850693
+M	includes/admin.toolbar.base.css	2bf9bd51c4ba66a168f670a0bb30673b
+M	includes/admin.toolbar.css	680aa1deadd128a8633da3c58e94f9b9
+M	includes/admin.toolbar.js	5bd740dc983f5068428cd90dafcebf70
+M	includes/jquery.drilldown.js	296dc62312ae3185d51d315f274a6d30
+A	translations/ar.po	864d126eca400d277a77a017a6a15429
+A	translations/hu.po	518ee30cf71221252b2bcf845e1c8eaa
+A	translations/pt-br.po	906708852cd63ee378822aaed70e7731
+A	translations/uk.po	85e4356f0a089ca43bee6ab173169f8a

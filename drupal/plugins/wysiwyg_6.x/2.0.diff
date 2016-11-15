@@ -1,0 +1,26 @@
+M	CHANGELOG.txt	6a83792038472a425f91826ca64a157f
+D	editors/css/markitup-1.css	
+A	editors/css/openwysiwyg.css	349e086b036c0a6eabd19ead619005b6
+M	editors/fckeditor.inc	5b785452f33470695e15d23328d96d00
+M	editors/js/fckeditor-2.6.js	ed5b96049c7e2967e155530d794be19c
+M	editors/js/fckeditor.config.js	de0c1cb22aefb98dfbf7ac708a424770
+M	editors/js/markitup.js	c7c400d25af046c6203351381eb05260
+A	editors/js/openwysiwyg.js	a61a654eab3dc254a0cec26f4746086b
+A	editors/js/wymeditor.js	077629031b594429d4a492c14789373b
+M	editors/jwysiwyg.inc	f885d84f3ca0c35ab12c426532e76069
+M	editors/markitup.inc	0f47c5c07f805bcb750e3a9aee3746a5
+M	editors/nicedit.inc	d87b4fd060cd3137419d30d6c321d6e8
+A	editors/openwysiwyg.inc	a7704b6f795cf0401a034dde1b8e0609
+M	editors/tinymce.inc	4d6a5fcfae07d3f71e9ef15791cc9113
+M	editors/whizzywig.inc	823c6fedea8c33c7c19110d8fa169332
+A	editors/wymeditor.inc	a4645f92a31f5596b64f0805b2748aaf
+M	editors/yui.inc	75cd22e4d1cfa1678d4a9a36ea671f39
+M	plugins/break.inc	7723da1f9c271663b778b00b2f1bc81d
+M	plugins/break/break.js	8bb04534fe46b5dffd5fed890618878b
+M	translations/hu.po	c3515f80138b174aafdad6e6e844644f
+M	wysiwyg.admin.inc	8c2e58c442525bd4ebe53cae96226ddb
+M	wysiwyg.api.php	73b83c535f0d0044dd184054901ee2cc
+M	wysiwyg.info	d001744647e6883cf561f2bc2cfadd99
+M	wysiwyg.install	275a4d3bfa30e3a39e9541d378654580
+M	wysiwyg.js	9e98d0612bfae9788f444e25b8be3293
+M	wysiwyg.module	446f1642275c2592fe61a9ce3d2e145a

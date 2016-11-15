@@ -1,0 +1,13 @@
+M	mm_content.inc	d0b545058decf854938bd2d903380a10
+M	modules/mm_fields/mm_fields.info	f765779589339160bb8be1698b475cc5
+M	modules/mm_fields/mm_fields_perms/mm_fields_perms.info	9682c377fc4ac663d45c27449a213d4e
+M	modules/mm_media/mm_media.info	e8882a69028f2a7d0769b53daf761ef2
+M	modules/mm_pagecache/mm_pagecache.info	5b3c76a8c69e1718cc48af678f2e98b6
+M	modules/mm_schedule/jcalendar/jcalendar.info	5a47a6d049d9513aa645917683097d89
+M	modules/mm_schedule/mm_schedule.info	4edda83c90d336fcb5309f575794af8e
+M	modules/mm_views/mm_views.info	1ac8da78844c070098783930f2ddd497
+M	modules/mm_webform/mm_webform.info	05210818f9509c843c58dc47a5ac6b45
+M	modules/mm_workflow_access/mm_workflow_access.info	e53cd22f99e707c0686ab25444192823
+M	modules/rss_page/rss_page.info	5006df1f21f939547fc7c82ca6d47e8a
+M	monster_menus.info	d83492cb1aaf16994155e77034802336
+M	test/permissions_baseline.inc	fec06d4a627cd808dfa1612c5062d450

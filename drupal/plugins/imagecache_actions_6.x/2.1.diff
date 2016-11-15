@@ -1,0 +1,46 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	canvasactions/imagecache_canvasactions.install	82dea2111d5dcbe34e649eac7380f968
+A	canvasactions/imagecache_canvasactions.module	08188f5994e356139281c4a5308d2524
+A	canvasactions/rounded_corners.inc	23a17b1f1432fec02478617a7bda4284
+A	coloractions/imagecache_coloractions.module	7a3b3dbe0d71015dbaaabac9912bd59b
+A	coloractions/tests/bright.imagecache_preset.inc	0d90a4cf2daa86d86d5715868679857c
+A	coloractions/tests/bright.jpg	441612cb6ffe635df4f30d1827b33a02
+A	coloractions/tests/inverse.imagecache_preset.inc	711b960355f819c85ff85c32b9d7ec5c
+A	coloractions/tests/inverse.jpg	964f18922dffb45e1fc9c8a64a1f5aa9
+A	coloractions/tests/overlay.imagecache_preset.inc	05377165023c4792141d168a6e9615b3
+A	coloractions/tests/overlay.jpg	d83e5da49b90bba66b2159596bab1112
+D	help/textrender_syntax.html	
+A	imageapi_image_overlay.inc	0a3372b904ddf5b470812a7769f2b35d
+A	imagecache_actions.info	44c59e64bf766b408fa83a3761261cb5
+M	imagecache_actions.jquery.js	8c0b23e16f9ecf035b6ef94a02359427
+A	imagecache_actions.module	af8c080a390d8c106a1b05d1e2a8145a
+D	imagecache_canvasactions.install	
+D	imagecache_canvasactions.module	
+D	imagecache_coloractions.module	
+D	imagecache_textrender.info	
+D	imagecache_textrender.module	
+D	imagefilter.inc	
+D	old/imagecache_textactions.info	
+D	old/imagecache_textactions.install	
+D	old/imagecache_textactions.module	
+D	old/textactions.inc	
+A	tests/README.txt	32a352b955ebc11e8ed186b4766943a2
+A	tests/imagecache_testsuite.features.inc	4b276af51d800989d25d633a48a0a035
+M	tests/imagecache_testsuite.info	5c63425541e74f75d6a3dc17b4020a53
+M	tests/imagecache_testsuite.module	12056ac54bcab17f50df864b67d15627
+D	tests/keyword_positioning.jpg	
+D	tests/positioned underlay.png	
+D	tests/text_positioning.imagecache_preset.inc	
+D	tests/textactions_fancy.imagecache_preset.inc	
+D	tests/textactions_fancy.jpg	
+D	tests/textactions_positioning.imagecache_preset.inc	
+D	tests/textactions_positioning.jpg	
+D	tests/textactions_shadow_alpha.imagecache_preset.inc	
+D	tests/textactions_shadow_alpha.jpg	
+D	tests/textactions_simple.imagecache_preset.inc	
+D	tests/textactions_simple.jpg	
+D	textrender.inc	
+A	utility-color.inc	c7eae46e430252b9d2f4a2f503b2d3f7
+A	utility-form.inc	b36c26b814a33a1f290809325ba89f46
+M	utility.inc	89332e88f744cb1dff1879deef881c1f
+M	watermark.inc	7e71e09ae03abf91dfe122902ac06cb5

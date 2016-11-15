@@ -1,0 +1,27 @@
+D	.eslintrc	
+M	CHANGELOG.txt	378044d3254b5caca16a071076c6e20d
+M	css/theme/slick.theme--d3-back.css	ffcfaee8b48ffb9d34105b6962f39598
+M	css/theme/slick.theme--vtabs.css	48c17d3fca1d242d579a298674ca53ce
+M	slick_devel/js/slick.load.devel.js	410267a3212d10c8b2d739cbbd8d9428
+M	slick_devel/slick_devel.info.yml	fd093f59e8b3a24097f5f829f1c59823
+M	slick_devel/src/SlickDevelSettingsForm.php	f8d5887a48447a1d0a6a913e4e27cb37
+M	slick_example/README.txt	56826b0c9861a0a0d0e48bb2ceaf0b03
+M	slick_example/config/install/image.style.slick_thumbnail.yml	b4863e42cbdaf92901e8cae03fcb1a42
+A	slick_example/config/install/slick.optionset.x_3d_back.yml	83bc14db48caaa38e2c0d141d858cd47
+A	slick_example/config/install/slick.optionset.x_3d_front.yml	817677508315ceef5a5acc5a15271eb9
+M	slick_example/config/install/slick.optionset.x_carousel.yml	9e46eb7211e81686853eefca5490beb2
+M	slick_example/config/install/slick.optionset.x_fullscreen.yml	a65edb0581f5d01888777f13adbd957a
+M	slick_example/config/install/slick.optionset.x_grid.yml	7cbb14d42c6fbb572921e7d3acd7fa1b
+M	slick_example/config/install/slick.optionset.x_main.yml	1ae97275f190dd8e234108291299fdff
+M	slick_example/config/install/slick.optionset.x_overlay.yml	dce12ddc718bd3b3223adc9139a53cb0
+M	slick_example/config/install/slick.optionset.x_slick_for.yml	ff67f542e738b60445c11029a6db90ac
+M	slick_example/config/install/slick.optionset.x_slick_nav.yml	39a8fc5d54a7c0275b348c0144fbce2a
+M	slick_example/config/install/slick.optionset.x_split.yml	471a78b05c1cb239330e6e0b6feabded
+M	slick_example/config/install/slick.optionset.x_vtabs.yml	e6d4d4ef27b27c70de5766f61dd7e2f0
+M	slick_example/config/install/views.view.slick_x.yml	59f784715ee66a8c4ea5872f726e26b6
+M	slick_example/js/slick_example.asnavfor.js	e59907cce28a570a373ea26bac4ae5ab
+M	slick_example/slick_example.info.yml	263dfc4c5f871b3775a43ffcd4f58b37
+M	slick_example/slick_example.module	67f569a7d5b75e92971b88c5ee976022
+M	slick_example/src/SlickExampleSkin.php	fcf8ad31954b221be766adf0c9f17c70
+M	slick_extras.info.yml	13ed7162fddbf3b64b2dda22f6a8d24f
+M	src/SlickExtrasSkin.php	0589f894b9d0b2128df52d26320c72d8

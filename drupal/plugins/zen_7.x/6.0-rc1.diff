@@ -1,0 +1,79 @@
+M	STARTERKIT/README.txt	580f6f7a52e848f7874f7c15cf9bff18
+M	STARTERKIT/STARTERKIT.info.txt	0e58194efd0882390563cf87fb7dca18
+M	STARTERKIT/css/style-guide/kss-only.css	419789d5b277e085da5f362996787aa3
+M	STARTERKIT/css/styles.css	c4790fc6ddd880c763c62fd23b457c0f
+M	STARTERKIT/gulpfile.js	d783f77b1887859788649181b8e773f7
+M	STARTERKIT/package.json	11463772a56546ffd7776107fa261114
+M	STARTERKIT/sass/base/embedded/_embedded.scss	721dd2e9612c477d4967fbfa9c9506a8
+D	STARTERKIT/sass/base/embedded/embedded-img.hbs	
+A	STARTERKIT/sass/base/embedded/embedded-img.twig	dbe271e115d6decfb105f27a40cd8920
+M	STARTERKIT/sass/base/forms/_forms.scss	29c7d0c640d4ba2b55f1ef7c076551bb
+M	STARTERKIT/sass/base/grouping/_grouping.scss	b9d1e3aae6e609e25d87dbe31f4c8843
+M	STARTERKIT/sass/base/headings/_headings.scss	74a0637127815cb6d863743fa2d1d220
+M	STARTERKIT/sass/base/links/_links.scss	183b867d876938034b5bc6258ccac05f
+M	STARTERKIT/sass/base/tables/_tables.scss	0beda8003ffa724fbe7d82e36d8bccb5
+M	STARTERKIT/sass/base/text/_text.scss	415ee506802aa42bee7a6b507fa9f879
+M	STARTERKIT/sass/components/autocomplete/_autocomplete.scss	afb23f961901e527cda53ae1981abe6c
+M	STARTERKIT/sass/components/box/_box.scss	9f998e9ad4a400760fd2160dfe4d635f
+M	STARTERKIT/sass/components/breadcrumb/_breadcrumb.scss	2ab6ff47270630625b1434f2df291977
+M	STARTERKIT/sass/components/button/_button.scss	62bc7cbc642078b9076b23f3e5ce72cd
+M	STARTERKIT/sass/components/clearfix/_clearfix.scss	40bcd20d7207a3f79c0aee609a34370e
+M	STARTERKIT/sass/components/collapsible-fieldset/_collapsible-fieldset.scss	3cc13e626579ac5f0c65996caa50e2d6
+D	STARTERKIT/sass/components/collapsible-fieldset/collapsed-rtl.png	
+D	STARTERKIT/sass/components/collapsible-fieldset/collapsed.png	
+D	STARTERKIT/sass/components/collapsible-fieldset/expanded.png	
+M	STARTERKIT/sass/components/comment/_comment.scss	778d23d25d4fb0ae2c537c3b7971a122
+M	STARTERKIT/sass/components/divider/_divider.scss	a255fa829af60433a5c6288f12dfcf5c
+M	STARTERKIT/sass/components/form-item/_form-item.scss	e7d72056dd228ac078c4cdddb0fbf654
+M	STARTERKIT/sass/components/form-table/_form-table.scss	d918adb9d40ceacb2075b0ea04059581
+M	STARTERKIT/sass/components/header/_header.scss	1d55576b78edebfccf2bc9d91e8f60d9
+M	STARTERKIT/sass/components/hidden/_hidden.scss	67202d23e070fd1bb0ea906a995976fe
+M	STARTERKIT/sass/components/highlight-mark/_highlight-mark.scss	f38a69c96e91796de3f11c1fc2653986
+M	STARTERKIT/sass/components/inline-links/_inline-links.scss	756410f141578b1ad968811f515effcc
+M	STARTERKIT/sass/components/inline-sibling/_inline-sibling.scss	800c95dd3f96655251580d083f3db7a0
+M	STARTERKIT/sass/components/messages/_messages.scss	6af8d08bb2b1aa94f50d50ee58db5053
+M	STARTERKIT/sass/components/more-link/_more-link.scss	556b90a831ebc479307168590f65008a
+D	STARTERKIT/sass/components/more-link/more-link__help-icon.png	
+M	STARTERKIT/sass/components/nav-menu/_nav-menu.scss	52c7de3c47fc25906420e12cfb9d82f4
+D	STARTERKIT/sass/components/nav-menu/collapsed-rtl.png	
+D	STARTERKIT/sass/components/nav-menu/collapsed.png	
+D	STARTERKIT/sass/components/nav-menu/expanded.png	
+D	STARTERKIT/sass/components/nav-menu/leaf.png	
+M	STARTERKIT/sass/components/navbar/_navbar.scss	0963df207648168f834c067a21cf15e1
+M	STARTERKIT/sass/components/pager/_pager.scss	9072c1315915405447d8b92248f4f3d2
+M	STARTERKIT/sass/components/print-none/_print-none.scss	48baf20cb32d7f68b0634d62844b4654
+M	STARTERKIT/sass/components/progress-bar/_progress-bar.scss	10509071c3a77f63d21b7d8d8609dfcc
+M	STARTERKIT/sass/components/progress-throbber/_progress-throbber.scss	c31c4dbfe60e5fb1f02e92e37369d3c6
+M	STARTERKIT/sass/components/resizable-textarea/_resizable-textarea.scss	7429e7126265ef591309ceed378fe6ee
+M	STARTERKIT/sass/components/responsive-video/_responsive-video.scss	745dfd248ac8f80c3cdf818d2bc16cc9
+M	STARTERKIT/sass/components/skip-link/_skip-link.scss	d22b56b6deeb1d6bdb4e06c6c7b33378
+M	STARTERKIT/sass/components/table-drag/_table-drag.scss	905b15aa34223d9abe452d3bd1207a48
+M	STARTERKIT/sass/components/tabs/_tabs.scss	1f55471fa9ba46b7aa8042d2f9bec644
+D	STARTERKIT/sass/components/tabs/tabs--secondary.hbs	
+A	STARTERKIT/sass/components/tabs/tabs--stacked.twig	4953cca66c4641cb10b90ea2b6ebbd50
+M	STARTERKIT/sass/components/visually-hidden/_visually-hidden.scss	a59e9dbe0425d3293da216f28ec63cd1
+M	STARTERKIT/sass/components/watermark/_watermark.scss	917932d2537675ac266bb9ae8a7ef81d
+M	STARTERKIT/sass/components/wireframe/_wireframe.scss	5796cf8b768b18cf5e2d9419bc41a43d
+M	STARTERKIT/sass/init/_colors.scss	912b1c120a51db59c585291cc75c492b
+M	STARTERKIT/sass/init/_variables.scss	022b8f44641e45312dc28047ce74f45f
+M	STARTERKIT/sass/layouts/layout-3col/_layout-3col.scss	d46ff39e241b8d9b4e0349bac96753cc
+M	STARTERKIT/sass/layouts/layout-center/_layout-center.scss	2049a8bf202d5b4fb189cb7ba476692e
+M	STARTERKIT/sass/layouts/layout-swap/_layout-swap.scss	1505dd63e8ccfb2ec5a319f153a07622
+M	STARTERKIT/sass/style-guide/kss-only.scss	c3ba9524062151fe976d3493c197cdbe
+M	STARTERKIT/styleguide/index.html	e41e454ffa76014caab549a87945566a
+A	STARTERKIT/styleguide/kss-assets/kss.css	e1da3b07a407ad08322212b76ff8ff27
+A	STARTERKIT/styleguide/kss-assets/scrollspy.js	2f8fb1f606cf86405a9b597412a86ae1
+D	STARTERKIT/styleguide/public/kss.css	
+D	STARTERKIT/styleguide/public/less.js	
+M	STARTERKIT/styleguide/section-base.html	8c606767db9a71c10e18b941c40a0d2e
+M	STARTERKIT/styleguide/section-components.html	fb6b5983d1a9b238425937b01c7d05bb
+M	STARTERKIT/styleguide/section-forms.html	37530f1d30d8594c03c949779b18886a
+M	STARTERKIT/styleguide/section-layouts.html	a16973a48c9c102c2f85aa981c2136fb
+M	STARTERKIT/styleguide/section-sass.html	03fb19b7f193cd29349d36c4dfffd82d
+M	template.php	ac1dd7583b674d6d2e9d1808ad7c823f
+M	templates/html.tpl.php	457d215a9e20f2f772f67368eddc50b0
+M	templates/maintenance-page.tpl.php	726a046ce538be4e023add78265a8a4f
+M	zen-internals/css/styles.css	4803bee5e248953c77b81b29c4695420
+M	zen-internals/gulpfile.js	21de0f40e85d85abbbf6a34fc26482ed
+M	zen-internals/package.json	164d302fcd49d42215490c85a325f0b7
+M	zen.info	0a5defbaee7dfb78179fe4604f0e032a

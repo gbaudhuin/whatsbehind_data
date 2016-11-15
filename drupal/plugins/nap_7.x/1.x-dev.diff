@@ -1,0 +1,11 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	2b07b95c2ba6ced0b7b37e78bf990da3
+A	modules/ec_nap/ec_nap.info	3b6b8f1e8af80283123b766269e08ae0
+A	modules/ec_nap/ec_nap.module	7b61121ad04115033f0da527ad18bbcd
+A	modules/uc_nap/uc_nap.info	451712cca1804d75da49a19cddb3d0c7
+A	modules/uc_nap/uc_nap.module	0994ee6d6fe01d46bffe890dc23d9b93
+A	nap.api.php	b92c172382ccac3485738c15673b584b
+A	nap.css	e9b353d165f1bef4a2d949f768bbf2cd
+A	nap.info	c280fa99f145c55eba380540273fde7f
+A	nap.install	0221ec38199a10320a4e6a0e5b820e53
+A	nap.module	fe3a08fe0ebaa0baecd2fa921e746668

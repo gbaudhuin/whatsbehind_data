@@ -1,0 +1,24 @@
+M	pm_block_user/pm_block_user.info	5c37d4f0221fd0cb08c956840f5322ca
+M	pm_block_user/pm_block_user.install	19f0b4094f11dc0447b20fad4a5aae58
+M	pm_block_user/pm_block_user.module	9d1c0c4c091797848dc23c6c44350d8a
+A	pm_email_notify/pm_email_notify.info	667b7c65b396c19f12cb69af01d442a1
+A	pm_email_notify/pm_email_notify.install	90d0569cee62b559e7b17e1a7870ad67
+A	pm_email_notify/pm_email_notify.module	d57850d9b95a29a5d159b0a0d0e18325
+A	privatemsg-list.js	e4bc663e25746433f8fc211a70816717
+M	privatemsg-view.tpl.php	cf7ac11482449cc90f6b7aa18d2a1c98
+A	privatemsg.api.php	6717b85e4c4d2d31080acd09015845f5
+A	privatemsg.author-pane.inc	f8259477e57009cb870bfb98402f907f
+M	privatemsg.info	7e53bbaf7851f9b427bcc604285e7742
+M	privatemsg.install	2b3a3ac3b35ac8c3a01f31185dfdb55f
+M	privatemsg.module	2c67b284960dc9e74c6491b1f941e4e9
+M	privatemsg.test	53c9eac2ecd51ca5f71cf4a298c98a12
+A	privatemsg.theme.inc	c41afe5808181503c9966af867869bfa
+M	privatemsg_filter/privatemsg_filter.info	54518ea570e315d226678295dc9c420b
+M	privatemsg_filter/privatemsg_filter.install	8b0df1cfa49c55477df1fbe7f1b83a42
+M	privatemsg_filter/privatemsg_filter.module	8e0f8f530e163af478ffc92599eaf3a8
+D	privatemsgapi/privatemsgapi.inc	
+M	styles/privatemsg-list.css	73a7fa98c3a849b24fbf3ed4300c15da
+A	tests/privatemsgapi.test	db2f45dbdb6487c6d49dbf42a5f3daac
+A	translations/de.po	1b24c1333850d4d366c0950b30b41419
+A	translations/hu.po	36b008e76ade1af7f529fd5d7b38c9ee
+A	translations/privatemsg.pot	5606781df86f53d172358c647a276c44

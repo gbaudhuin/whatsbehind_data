@@ -1,0 +1,12 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	20a9719f723c621a3e9ba2df70ab28ca
+M	boxes.admin.inc	ed8212c03a6b8ee1bd6158e061af27c5
+M	boxes.info	76682044cecfda41e50592a5006aae99
+M	boxes.install	26087efc2787e690a9862cdd77d04f4f
+M	boxes.js	c159162e45a1b12b6a044e0c343640be
+M	boxes.module	63751d0625cbbc4e92de0ecbc59a3eaa
+M	plugins/boxes_box.inc	2261a14e3d1a28d6e098961221245abe
+M	plugins/boxes_simple.inc	4f10ad8de1bac4ebd9918604f0bf6069
+M	plugins/spaces_controller_boxes.inc	e142c4458989cb484fcb70f663020538
+M	tests/boxes.test	07337987d0402a7dcd9c7c37a59519b1
+D	translations/hu.po	

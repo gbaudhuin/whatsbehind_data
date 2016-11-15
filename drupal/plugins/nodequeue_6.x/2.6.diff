@@ -1,0 +1,13 @@
+M	README.txt	c432775034ad912001997fa509910f81
+M	addons/nodequeue_service/nodequeue_service.info	9f3ec29aab70fed64beae770461874df
+M	includes/views/nodequeue.views_default.inc	3aa4bb1c6e09b061020f2469178972da
+M	includes/views/nodequeue_handler_field_all_subqueues.inc	a925224d011d6f107e8fdd42e883b653
+M	includes/views/nodequeue_handler_field_links.inc	d61368e09a9a6bf2ed72403e6301ca38
+M	includes/views/nodequeue_handler_relationship_nodequeue.inc	9f18da7d3b68a856624b428ecaf3b68f
+M	nodequeue.info	2a232ff0860a9af3547be318b2a9a5e6
+M	nodequeue.install	9161809459ef050e24ee953e0ebecdf9
+M	nodequeue.module	44d5a535e03fee1a6ca6e3c6ad144df7
+M	nodequeue_generate.info	1d08d3eec5f43b7183709f426dcf7171
+M	smartqueue.info	d0fd0ca1020ddd4b27bccbd4e4b5b702
+M	smartqueue.module	53d39714ecab6b8ff1313ee3bc2eff29
+A	translations/fr.po	c483788aa79b3c105cd9f9126abed2b2

@@ -1,0 +1,24 @@
+M	API.txt	135c3c801fb8c357b7555d373e16bad8
+M	CHANGELOG.txt	306ada3dcc715d3481a9451928b4cfd3
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	b85ef472a899426909fdc11d5db53d16
+M	TODO.txt	f1e724eff405278ae52935fd0da589b9
+M	homebox-admin-display-form.tpl.php	45116b4acfa224990e9a6c7c2f4dd9ea
+M	homebox-block.tpl.php	80f6ab3940214d24191af1d394456d81
+M	homebox.admin.inc	9957b7ce24c631da688b207327613c40
+A	homebox.api.php	24a7dfccc761657e935e1e674c920bfc
+M	homebox.css	91f0f72f8610d2e4fb332757f6219695
+M	homebox.features.inc	fdc09251c5a05794704f81f3a7d32f5a
+M	homebox.info	3527ab16503a10fe2cd889b11e24da6a
+M	homebox.install	b5ad907548de540a5bf289bc5fcf8aec
+M	homebox.js	b1c066106a35d3810202609eb1c45518
+M	homebox.module	2528e5b2260e2cec92360cee16ec381d
+M	homebox.tpl.php	47575ebb1cd454758f5a58badfbae913
+M	homebox_example/homebox_example.info	ddf8d2561adf947381f6052166ad0102
+M	homebox_example/homebox_example.module	30323c5df6ffa2fb479317912f1bba46
+M	homebox_og/README.txt	58ad898dc4f57831cd0f6647a0472390
+M	homebox_og/homebox_og.info	c2745a58d534e556f555925db9f71cee
+M	homebox_og/homebox_og.install	b6181f73d30d2112aa01ec5e0203879f
+M	homebox_og/homebox_og.module	262c5eda7b5152d8bd493eb0849909f7
+D	includes/json2.js	
+M	includes/tipsy/jquery.tipsy.js	7f7bd4a05c6407a3b6a502f2728829c5

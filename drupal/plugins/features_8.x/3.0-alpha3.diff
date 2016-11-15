@@ -1,0 +1,11 @@
+M	features.info.yml	902fa1e7d09c599da75d49413fbd4880
+M	modules/features_ui/features_ui.admin.inc	7b6ef932d73b81f204cbe78f3737caf1
+M	modules/features_ui/features_ui.info.yml	d0dc9b071aa04d8a5b9ed82e50d7c852
+M	modules/features_ui/src/Form/AssignmentConfigureForm.php	88e54d2dbb0a68bab33c1187db1c0075
+M	modules/features_ui/src/Form/FeaturesDiffForm.php	cdc34a8016f812edfbea98c12f3ea07f
+M	modules/features_ui/src/Form/FeaturesEditForm.php	144fbb324ab8d08fd5d07981527b0752
+M	modules/features_ui/src/Form/FeaturesExportForm.php	c8da992a3f54df350d631a5e88f0b378
+M	src/Controller/FeaturesController.php	5e75dca3e7d37c6a40d3730b5754d80a
+M	src/FeaturesBundle.php	3fe08e6272c7f9dbc0d92eda2b265e41
+M	src/FeaturesManager.php	cee1fe6d01f77288bfea1996a362c51d
+A	src/ProxyClass/FeaturesConfigInstaller.php	2e263e94b67482b251d34c57c6c05924

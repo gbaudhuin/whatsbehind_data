@@ -1,0 +1,7 @@
+M	cms_updater.admin.inc	8f257e67b49c0980bebafeaabac409c1
+M	cms_updater.functions.inc	45ec578cec279d8e410743870c576ea8
+M	cms_updater.info	30df2d616be9ffd03bd0a6b2d3d2dc30
+M	cms_updater.install	0fe3721644c09c8bafdc22d1ac87e1fb
+M	cms_updater.module	01c3322cd8c3a3067d0b87a5ac05bdd4
+M	cmsupdaterclasses/Drupal7CMSUpdater.php	bcbe22f62a4788585e2ee7eb49e8199d
+M	core_update.php	ad84f63b07917489cca8f6f19a5764dd

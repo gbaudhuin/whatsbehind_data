@@ -1,0 +1,48 @@
+M	config/install/pagerer.style.adaptive.yml	de43128298295745bbcf5233e6f61945
+M	config/install/pagerer.style.basic.yml	3df141eba023ab9d73f1c6d136a93bdc
+M	config/install/pagerer.style.mini.yml	272b9a0eb1331d3ffb44135249cb3775
+M	config/install/pagerer.style.progressive.yml	dc9308e01c4b85e090a13d7d2780477b
+M	config/install/pagerer.style.scrollpane.yml	0de7d5bfaaf7ea1e07c03e9a35f265a3
+M	config/install/pagerer.style.slider.yml	d059012d6bdee501e3fa8632ae9f81fc
+M	config/install/pagerer.style.standard.yml	dfaa39caa1944031ce4fa7f07f9cb9d4
+M	css/pagerer.multipane.css	fccefbe9344b9dc81e1c4c2d19cbde4f
+M	js/base.js	173c925812ff6402a91b61ccd02e7210
+M	js/mini.js	e917f861b417c6c52f8ada2a3973235c
+M	js/scrollpane.js	641439231097e431af716d3b6c275efa
+M	js/slider.js	3b663f749e0ddcec94336bb5e2b77da7
+M	pagerer.info.yml	2b2cb3322cf43341ecaf2ceb83ff61db
+M	pagerer.module	d82e69a8d0aeee59baca78c869c71c67
+M	pagerer_example/pagerer_example.info.yml	c6b1fb7655bd6112ea89b07e047c7130
+M	pagerer_example/src/Controller/PagererExampleController.php	d9610dab22e7b34da52b0fb1211be6bb
+M	src/Entity/PagererPreset.php	8ff5dbd8b959ca4143a636fdc32fbfce
+M	src/Form/PagererConfigForm.php	800a6632e2072000ea65ef5a93b66a1b
+M	src/Form/PagererPresetAddForm.php	a2799d56902506cd86cf2a14c3f49fca
+M	src/Form/PagererPresetDeleteForm.php	bf7a9fe1e3458287fe03a048729e6ac8
+M	src/Form/PagererPresetEditForm.php	643efb8743a28efc8b6ce131a24abdef
+M	src/Form/PagererPresetFormBase.php	a6d85aec6877f9bc6df1a0550a4602d6
+M	src/Form/PagererPresetPaneEditForm.php	2e751e0d3b8e6530f7409c11a987dbcd
+M	src/Form/PagererPresetPaneResetForm.php	bbfdddad222a15ba45c559a410e88c18
+M	src/Pagerer.php	ec61ad824d2ceaf4aba4604a7d87c5dd
+M	src/PagererCache.php	697df6ff4786e10d73b01083d189afc6
+M	src/PagererFactory.php	df5c62744e880e34438826ece3446883
+D	src/PagererFactoryInterface.php	
+D	src/PagererInterface.php	
+M	src/PagererPresetListBuilder.php	652ace9db78b855d9934bcaf68e014e5
+M	src/Plugin/Annotation/PagererStyle.php	c4cabf7104c714584b48c9448fa32486
+M	src/Plugin/PagererStyleInterface.php	75c37799546e79e8398bf6ca9506efcc
+M	src/Plugin/PagererStyleManager.php	5f1d70314d57b54e74495d74eccf77cb
+D	src/Plugin/PagererStyleManagerInterface.php	
+M	src/Plugin/pagerer/Adaptive.php	78abd2ddad1e6caa014796301b255aaf
+M	src/Plugin/pagerer/Basic.php	ba9a2f8aa7981521ddb1b1f9eddd0cd7
+M	src/Plugin/pagerer/Mini.php	ea5652d966805feb75bb93a1d5a63195
+M	src/Plugin/pagerer/Multipane.php	c85a333f116b539a9d26f210e9995572
+M	src/Plugin/pagerer/PagererStyleBase.php	687e47953755652eb0a83fa77c0befe9
+M	src/Plugin/pagerer/Progressive.php	dc5ef6b587ca4181198175eef86bb0ff
+M	src/Plugin/pagerer/Scrollpane.php	3623b97367bae42ee54af914b44e4c85
+M	src/Plugin/pagerer/Slider.php	e8aa5d20617f0e63a93cf2a9ed00716e
+M	src/Plugin/pagerer/Standard.php	baa64a81d6157f623e55df74c4400ad7
+M	src/Plugin/views/pager/Pagerer.php	3cf2ec170bc50ed44dd4cb77d5452210
+D	src/Tests/CorePagerReplaceCommentInterfaceTest.php	
+M	src/Tests/CorePagerReplaceTest.php	0297201660311e647d959cdf1cde78a2
+M	src/Tests/PagererTest.php	0840410d7ee4cc9d7cf7a22c95209b7f
+D	tests/src/FunctionalJavascript/CorePagerReplacePaginationAJAXTest.php	

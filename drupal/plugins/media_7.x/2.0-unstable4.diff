@@ -1,0 +1,60 @@
+D	MediaReadOnlyStreamWrapper.inc	
+M	css/media.css	481dbdaa31ff6a84f4e061391f416451
+D	file_entity/file_entity.admin.inc	
+D	file_entity/file_entity.admin.js	
+D	file_entity/file_entity.api.php	
+D	file_entity/file_entity.field.inc	
+D	file_entity/file_entity.file_api.inc	
+D	file_entity/file_entity.info	
+D	file_entity/file_entity.install	
+D	file_entity/file_entity.module	
+D	file_entity/tests/file_entity_test.info	
+D	file_entity/tests/file_entity_test.module	
+D	file_entity/tests/file_entity_test.pages.inc	
+M	images/wysiwyg-media.gif	f121a617141e8cb9fe9b0d8719c09682
+A	includes/MediaBrowserLibrary.inc	1a8b2355e037c41aaaa81c67c5ed31d3
+A	includes/MediaBrowserPlugin.inc	0955eed0935a75deec8a1fb6d960d0a8
+A	includes/MediaBrowserPluginInterface.inc	791cf2a2f8427e535187b4a13185af7c
+A	includes/MediaBrowserUpload.inc	a6355face5480471035af7190a83abed
+A	includes/MediaBrowserView.inc	593117a3275f83b50edba4b64f6b86aa
+M	includes/media.admin.inc	d9f713f72bba4dcd18133cacf2914ea3
+M	includes/media.browser.inc	7c093758c587bba607d7d49f0e019aec
+M	includes/media.fields.inc	b417e7dde5cc179add4f3a605dd7a55c
+M	includes/media.filter.inc	900367c0ff75e36e2966fa43ef6f8b22
+M	includes/media.pages.inc	9284c7acf814d875905fc2fa2f5197cb
+M	includes/media.theme.inc	7bb69fefaeacabdb4ced50b03fe4c446
+M	includes/media.types.inc	7aeab764535816c06288d513f5ec3cd5
+M	includes/media.variables.inc	2ed102a23cd99103c7af3c509c6f4aa7
+M	includes/media.xml.inc	f253d6a008554e25971a4bbff76630b1
+A	includes/media_views_plugin_display_media_browser.inc	61d88d4dc2d4a3a17e7174794c73f725
+A	includes/media_views_plugin_style_media_browser.inc	1e5f8bd040bc9b3d89231eed2e5c0508
+M	js/media.admin.js	b0ea5924fd99df9fb9c31b6a073ce6b1
+M	js/media.browser.js	73198da24700beb65da220c5c399507e
+M	js/media.format_form.js	0a81c9d9e3001bb09b65772e32c67a5c
+M	js/media.js	e92ae355bb63a7dc760e55cca70fa052
+M	js/media.popups.js	b16a17f5d8bc743f9ada11e0d2a4f4bc
+M	js/plugins/media.library.js	341da83b269fbda4a41d49f345e5e3e3
+A	js/plugins/media.views.js	76aab22efbbac0db87001d6dcb0ff989
+M	js/wysiwyg-media.js	cadbdfcd5f7f1c19c1509ca8ffc02905
+A	media-views-view-media-browser.tpl.php	08822896c705a73ec1ee51635d7d0196
+M	media.api.php	b183998b491ae5d9849071bcf29cae19
+M	media.info	e9e81ae3ce83dc9a410bfc9423ea88c5
+M	media.install	6faa5d49fad98008b2821237079bff93
+M	media.media.inc	39ded607f553a7b8f562a02d0693c069
+M	media.module	c8c414d97daa0dba72dfe5ece6879f6a
+A	media.views.inc	54ebddd842f75013b35eb5182f3c6cb0
+A	modules/media_internet/includes/MediaBrowserInternet.inc	1b102d90abcd0022b7372268c6a33a5d
+D	modules/media_internet/includes/MediaInternetBaseHandler.inc	
+D	modules/media_internet/includes/MediaInternetFileHandler.inc	
+D	modules/media_internet/includes/MediaInternetNoHandlerException.inc	
+D	modules/media_internet/includes/MediaInternetValidationException.inc	
+M	modules/media_internet/media_internet.info	6356c536be6f057e3ed65fc204314443
+M	modules/media_internet/media_internet.media.inc	8ef7f7652ac32f7d2749001221cfae4f
+M	modules/media_internet/media_internet.module	a0ed68b5e31d6e31c9a630845f3af91f
+A	modules/mediafield/mediafield.info	8e4251fb7520ba709fb432d900acd78a
+A	modules/mediafield/mediafield.install	74a5d022906ad9ccb86f88c46d185f85
+A	modules/mediafield/mediafield.module	f27aa463fcc341d5272b417c5598ccd1
+D	test/media.file.usage.test	
+A	tests/media.test	962a0ceb8e7df3d18beb46bea307c0f2
+A	views/media_default.view.inc	e6f64a9a413e17b25cc970b6da8f9a8b
+M	wysiwyg_plugins/media.inc	4c622a9b4c7660bf7d73f26ae1a04ad8

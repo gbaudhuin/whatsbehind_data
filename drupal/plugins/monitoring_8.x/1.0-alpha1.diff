@@ -1,0 +1,99 @@
+D	config/install/monitoring.sensor_config.temporary_files_usages.yml	
+M	config/install/monitoring.sensor_config.user_active.yml	a6c50a2721a8e30569bd260a4356a01a
+M	config/install/monitoring.sensor_config.user_failed_logins.yml	1dc270695e01cce414e05945c0c97b67
+M	config/install/monitoring.sensor_config.user_integrity.yml	6a0015eb739869effb0f06c0008d50ec
+M	config/install/monitoring.sensor_config.user_new.yml	0a5637e268b249fd3afb259c59ad4e83
+D	config/install/monitoring.sensor_config.user_nonexisting_failed_logins.yml	
+M	config/install/monitoring.sensor_config.user_sessions_all.yml	138eca66f941782e95090bba4d9f893b
+M	config/install/monitoring.sensor_config.user_sessions_authenticated.yml	7d271aa730b495b7ccb73dbfbc02520d
+M	config/install/monitoring.sensor_config.user_sessions_logouts.yml	b53a5a77384e979e65331619bbbc3b34
+M	config/install/monitoring.sensor_config.user_successful_logins.yml	bd0d08344d398520d8a71bebcfc794ef
+M	config/install/monitoring.settings.yml	07d434a9e4ff2497ca8c30fd7ba5ccb9
+M	config/optional/monitoring.sensor_config.captcha_failed_count.yml	e3a6c2d4130ed256b7662e1f9a47c249
+M	config/optional/monitoring.sensor_config.comment_new.yml	cb6158e956253eb7799b9e686926c645
+M	config/optional/monitoring.sensor_config.dblog_404.yml	5f7b59a3b7601bfffaaefbb753d67de1
+M	config/optional/monitoring.sensor_config.dblog_event_severity_alert.yml	5286ae4f2a6bca7f8a5618873d0b470e
+M	config/optional/monitoring.sensor_config.dblog_event_severity_critical.yml	27c634214064be95b9b1919a4f7275ab
+M	config/optional/monitoring.sensor_config.dblog_event_severity_debug.yml	6817d3842c17f19eb34f120021712e4c
+M	config/optional/monitoring.sensor_config.dblog_event_severity_emergency.yml	9894a1bf0a475934daaf526a9d4bec0f
+M	config/optional/monitoring.sensor_config.dblog_event_severity_error.yml	1a0a411dfc4125602ef6de26c58a6468
+M	config/optional/monitoring.sensor_config.dblog_event_severity_info.yml	7075c38402b132667e9a80dede4cb8a2
+M	config/optional/monitoring.sensor_config.dblog_event_severity_notice.yml	5324dcb2d988f19f12ad705493f56a03
+M	config/optional/monitoring.sensor_config.dblog_event_severity_warning.yml	3fe02d0a6ef68995908f02787917ca1d
+M	config/optional/monitoring.sensor_config.dblog_image_missing_style.yml	af319ac142e621f62ee74415546dea0d
+M	config/optional/monitoring.sensor_config.dblog_php_notices.yml	900a093288385d6a3bfb0011afe5ddda
+M	config/optional/monitoring.sensor_config.maillog_records_count.yml	81ce7a078ec114be12e61971a4cbf953
+M	config/optional/monitoring.sensor_config.node_new_all.yml	be19d2fe4ab53410c0ac9409b0b332e9
+M	config/optional/monitoring.sensor_config.past_db_critical.yml	091a2913eadb223f4471f48243fc8b43
+M	config/optional/monitoring.sensor_config.past_db_debug.yml	1ac94ca5a1a593c3af415a1f72c224c0
+M	config/optional/monitoring.sensor_config.past_db_emergency.yml	76381ef3bc6137a01794959135f17ccc
+M	config/optional/monitoring.sensor_config.past_db_error.yml	80997d05153f0adf92c78219ac2d22f4
+M	config/optional/monitoring.sensor_config.past_db_info.yml	3ea1bab57f910467bbd58b0d8bc36743
+M	config/optional/monitoring.sensor_config.past_db_notice.yml	da23c461ec357e0f9f75a91b6854f640
+M	config/optional/monitoring.sensor_config.past_db_warning.yml	2b61e6047fd8e19f03c44cba58797734
+M	config/optional/monitoring.sensor_config.past_form.yml	66e72f2c37bbeb4cbe5e7417bbc482ef
+D	config/optional/monitoring.sensor_config.ultimate_cron_errors.yml	
+D	config/optional/rest.resource.monitoring_sensor.yml	
+D	config/optional/rest.resource.monitoring_sensor_result.yml	
+M	config/schema/monitoring.schema.yml	67a0d59ea702a5f3bcc4eee44b5d109a
+M	modules/demo/config/install/search_api.index.demo.yml	a97a7ac0894fea1730cc7d02f07cd890
+M	modules/demo/monitoring_demo.info.yml	9ce7aae49761dce45b73bf1d849e3807
+M	modules/demo/monitoring_demo.install	b542f9f6fa3a78f726703d499ee04b9a
+D	modules/monitoring_mail/config/install/monitoring_mail.settings.yml	
+D	modules/monitoring_mail/config/schema/monitoring_mail.schema.yml	
+D	modules/monitoring_mail/monitoring_mail.info.yml	
+D	modules/monitoring_mail/monitoring_mail.module	
+D	modules/monitoring_mail/tests/src/Kernel/MonitoringMailKernelTest.php	
+D	modules/multigraph/config/optional/monitoring_multigraph.multigraph.failed_logins_sensor.yml	
+D	modules/multigraph/config/optional/rest.resource.monitoring_multigraph.yml	
+M	modules/multigraph/monitoring_multigraph.info.yml	7b510cbdb2f4f8d5c60a2a77943c34ab
+M	modules/multigraph/src/Tests/MultigraphServicesTest.php	110b203e14f1419d12221a5a7434dbe5
+M	modules/test/config/optional/monitoring.sensor_config.entity_aggregate_test.yml	df674959ea86baad1b0db0ed4eee02e0
+M	modules/test/monitoring_test.info.yml	2097e9c284aeead5d427841aee9ad1fd
+M	monitoring.api.php	125bd6a445a498d248a7715483cb7256
+M	monitoring.css	017b74dac1b3503fa70048260bddc82c
+M	monitoring.drush.inc	b80bd5a8f65bda0742622d5fa174d6c5
+M	monitoring.info.yml	41d6be79b0ef7f4132f384d32d459d85
+M	monitoring.install	85423fbf9563f725493d44ad79cb9769
+M	monitoring.js	c88ec8d169ac9246180dafb53d267620
+M	monitoring.links.action.yml	acc1ef8453689e7588c16515e15450d0
+M	monitoring.module	a37551e412d22e347b82612d1564b8f8
+M	monitoring.routing.yml	0e55a268e27c1ba60054a394cd6da10b
+M	src/Controller/ForceRunController.php	b906002960c7546da76f10c27d332179
+D	src/Controller/RebuildSensorList.php	
+D	src/Controller/RequirementsIgnore.php	
+M	src/Controller/SensorList.php	72af339b4c4c2b47d695a5996925062d
+D	src/Controller/TemporaryFilesController.php	
+D	src/Element/VerboseTableResult.php	
+D	src/Entity/SensorResultDataInterface.php	
+M	src/Entity/SensorResultEntity.php	a057f7941c65ce36d76efdd02f0c6256
+M	src/Form/MonitoringSettingsForm.php	511b796bf19b20ac1af49f17fbca64d0
+M	src/Form/SensorDetailForm.php	e2d200f7dc2ec29459e954134adf8f39
+M	src/Form/SensorForm.php	ca2c898cb4cdce12839f29f36359e3e8
+M	src/Plugin/monitoring/SensorPlugin/CommerceTurnoverSensorPlugin.php	e1a16289a917f066fc2803afbcb89385
+M	src/Plugin/monitoring/SensorPlugin/ConfigValueSensorPlugin.php	db0fa81abe41be32a185b2413f56de72
+M	src/Plugin/monitoring/SensorPlugin/ContentEntityAggregatorSensorPlugin.php	5a111a8fd5eb803449652ac7046669c1
+M	src/Plugin/monitoring/SensorPlugin/CoreRequirementsSensorPlugin.php	1929577d258627d370021d3028d3e3ea
+M	src/Plugin/monitoring/SensorPlugin/DatabaseAggregatorSensorPlugin.php	b9b94f010d90c2065d993e18323a6ef8
+M	src/Plugin/monitoring/SensorPlugin/Dblog404SensorPlugin.php	5f3c40e4b404e40343054819bfaeb883
+M	src/Plugin/monitoring/SensorPlugin/ImageMissingStyleSensorPlugin.php	684b6138d86f45ae3e72b3231ef1ce76
+D	src/Plugin/monitoring/SensorPlugin/NonExistingUserFailedLoginsSensorPlugin.php	
+M	src/Plugin/monitoring/SensorPlugin/PhpNoticesSensorPlugin.php	bdea57f12b663f5cc33a8512ce47eb11
+M	src/Plugin/monitoring/SensorPlugin/SearchApiUnindexedSensorPlugin.php	3808a0ba8e40e15bdcab9f2418db73c2
+D	src/Plugin/monitoring/SensorPlugin/TemporaryFilesUsagesSensorPlugin.php	
+D	src/Plugin/monitoring/SensorPlugin/UltimateCronErrorsSensorPlugin.php	
+M	src/Plugin/monitoring/SensorPlugin/UserFailedLoginsSensorPlugin.php	e6ef9718cbf73ed7ef2f8ce0d9221235
+M	src/Plugin/monitoring/SensorPlugin/UserIntegritySensorPlugin.php	be5d9824a170e21b4a678d5cccb7cc94
+M	src/Plugin/monitoring/SensorPlugin/WatchdogAggregatorSensorPlugin.php	149ffe3d8dcafc34044bba1ad375b19c
+M	src/Result/SensorResult.php	8156448a5ebfff8771823ddb32e3550a
+M	src/Result/SensorResultInterface.php	16d48b56497395e14e53df4f8bee53bf
+M	src/Sensor/Thresholds.php	f168d9fb906267cd74bb4e53da6a25c9
+M	src/SensorListBuilder.php	d585c06c2393e989f150fd5a2ac167a7
+M	src/SensorPlugin/ExtendedInfoSensorPluginInterface.php	985da3dd65bd0c9b22bf1aa96d009f12
+M	src/SensorRunner.php	26be073a85c7e5c9a6d987eb5a424ce2
+M	src/Tests/MonitoringCoreWebTest.php	2340fac58af8ef42440fb4c1f4854cf3
+D	src/Tests/MonitoringRebuildTest.php	
+M	src/Tests/MonitoringServicesTest.php	1364cc35274c43c98c911e926280e2f0
+M	src/Tests/MonitoringTestBase.php	acb7aa54290bffa1091e02dcf0ececf5
+M	src/Tests/MonitoringUITest.php	ff2a4f6be24b6c858a3b80082d6987eb
+D	tests/src/Kernel/MonitoringCronErrorPluginTest.php	

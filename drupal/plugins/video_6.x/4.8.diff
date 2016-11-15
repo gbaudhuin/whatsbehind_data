@@ -1,0 +1,24 @@
+M	INSTALL.md	1b8890510be6c9beb107fcd7d314324a
+M	filesystem/drupal.inc	965dda4a27942c3f70b0a9db45a515b5
+M	includes/filesystem.inc	40e9aeef32e2d7adc2bc31d20feae3a4
+M	plugins/video_s3/filesystem/video_s3.inc	4c102ac94e605a54136cca7ee6317833
+D	plugins/video_s3/includes/S3.php	
+M	plugins/video_s3/video_s3.info	415df988caf75092f74fc225ffae1890
+M	plugins/video_s3/video_s3.install	741cea2575e77a3ff061b4478a74b91a
+M	plugins/video_s3/video_s3.module	1dc92cc63ad91b45810225152c40f0c7
+D	plugins/video_zencoder/includes/LICENSE	
+D	plugins/video_zencoder/includes/README.markdown	
+D	plugins/video_zencoder/includes/Zencoder.php	
+D	plugins/video_zencoder/includes/lib/JSON.php	
+M	plugins/video_zencoder/transcoders/video_zencoder.inc	aaa439400fa61e8165ea8261eda63b3a
+M	plugins/video_zencoder/video_zencoder.info	b21d6814970c5d5c99958585c2d5982b
+M	plugins/video_zencoder/video_zencoder.install	f49a2578d069ffceb63d9271c8264f7f
+M	plugins/video_zencoder/video_zencoder.module	aa4c6e1794fd9bd3f9baebf41d7d28a4
+M	transcoders/video_ffmpeg.inc	72f785ce746c8ce17d27f323eb679c59
+M	types/uploadfield/uploadfield.info	245a1dc74af0509d88f7962ef46eadee
+M	types/videoftp/videoftp.info	41da1572159eaec523fa0fcd99c032bc
+M	video.admin.inc	ed811c09bb1411d73af341ba27091129
+M	video.drush.inc	e3538baa313b042b69233b07460e595b
+M	video.info	c9978ff9af3e4d4610d04e22c8417dd4
+M	video.install	230b088d103507a3aa34ff9d7fabd114
+M	video.module	2021edd4b55d40ba68e3f0a442051a43

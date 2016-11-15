@@ -1,0 +1,5 @@
+M	README.txt	a83336a0224c512f5390fddf5a84fa24
+M	config/install/field.storage.node.easychart.yml	09233cf2e84e5fc162b1df3ae3a1bc74
+M	easychart.info.yml	489573d4e324397ae9f3ad9aa991563d
+M	src/Plugin/Field/FieldType/Easychart.php	080ea932e1a1151b8e39699605e22161
+M	src/Plugin/entity_embed/EntityEmbedDisplay/Easychart.php	aacb4f8b7a229d549a58dafb49ddf87b

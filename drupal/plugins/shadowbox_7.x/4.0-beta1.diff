@@ -1,0 +1,23 @@
+M	CHANGELOG.txt	35c84d4196486401c164ed6ccf8e3caf
+M	file_shadowbox/file_shadowbox.info	ff523cf418c4e4198bafc1d9d4e99dd2
+M	file_shadowbox/file_shadowbox.module	3331b6910ef958e81721d99a93bb12de
+M	image_shadowbox/image_shadowbox.info	864fd2ee7a44cf38307bae88f88f8774
+M	image_shadowbox/image_shadowbox.module	74bdc9fca3e8c1f12ba115244db935fc
+D	insert_shadowbox/insert_shadowbox.info	
+D	insert_shadowbox/insert_shadowbox.module	
+D	login_shadowbox/css/login_shadowbox.css	
+D	login_shadowbox/css/login_shadowbox_bg.gif	
+D	login_shadowbox/login_shadowbox.admin.inc	
+D	login_shadowbox/login_shadowbox.info	
+D	login_shadowbox/login_shadowbox.install	
+D	login_shadowbox/login_shadowbox.module	
+D	login_shadowbox/login_shadowbox.pages.inc	
+D	login_shadowbox/login_shadowbox_page.tpl.php	
+D	login_shadowbox/scripts/login_shadowbox.js	
+D	login_shadowbox/scripts/login_shadowbox_check.js	
+D	login_shadowbox/scripts/login_shadowbox_messages.js	
+M	shadowbox.admin.inc	4ffcd3607e17832d92b70f906aa1f91d
+M	shadowbox.info	4f7ffba9b8632da3e5b67eaf9966c71b
+M	shadowbox.install	6a5eee11eaf9eaddc63b2b3a8026d737
+M	shadowbox.module	c976b16045a1f1f387a684d739b5264a
+M	shadowbox_auto.js	bae0976861868f47a77f978a1cb3f3b7

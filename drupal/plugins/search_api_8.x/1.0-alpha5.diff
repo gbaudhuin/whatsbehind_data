@@ -1,0 +1,17 @@
+M	search_api.info.yml	a8bac35df4b97606d16b151249c83683
+M	search_api_db/search_api_db.info.yml	aa994f64d982194ba547f2aba304ce31
+M	search_api_db/search_api_db_defaults/search_api_db_defaults.info.yml	570e5c2e465bee6b0ea10d580b6b2536
+M	search_api_db/src/Tests/BackendTest.php	f9f3e9a693ce0f865a7e81a385e86da2
+M	src/Form/IndexProcessorsForm.php	e6b4725484bb3f9b290805f3423b095c
+M	src/Query/Query.php	9d849a607cab4bf8a676b7775a0d85c5
+M	src/Query/QueryInterface.php	4289a0157db290bfc935a313156a1776
+M	src/Tests/ExampleContentTrait.php	fe539d71b33d486c3e5fc7c16a1c5b71
+M	tests/search_api_test_backend/search_api_test_backend.info.yml	20b9b0c1547682b558d90d4091b56747
+A	tests/search_api_test_db/config/install/field.field.entity_test.article.category.yml	3a3933f6c685e1aad4547a4711036757
+A	tests/search_api_test_db/config/install/field.field.entity_test.item.category.yml	677efcc676db777f955cd1db94b8f563
+A	tests/search_api_test_db/config/install/field.storage.entity_test.category.yml	0d727c3e6b228d96e4153dd91b7e5227
+M	tests/search_api_test_db/config/install/search_api.index.database_search_index.yml	23c9cc2fc6b29d497459019907c67148
+M	tests/search_api_test_db/search_api_test_db.info.yml	a3a5672e205a34b606765b8a2b089b90
+M	tests/search_api_test_views/search_api_test_views.info.yml	c1bf2bc339edf9f073ede79d610f2efd
+M	tests/src/Unit/Plugin/Processor/AddURLTest.php	e135ba0223f46169bb06e2fb71f45ad1
+M	tests/src/Unit/Plugin/Processor/LanguageTest.php	0428b893483050fc29bdaa646e223114

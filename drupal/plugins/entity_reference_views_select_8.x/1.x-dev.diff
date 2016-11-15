@@ -1,0 +1,6 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	7de6c46040f3e7c0bcf1f04257daa2b3
+A	config/schema/entity_reference_views_select.schema.yml	78e7fd79d559bf09df44bbe0bd9e53e3
+A	entity_reference_views_select.info.yml	8676502cda15d59bb462fadec98e0d01
+A	src/Plugin/Field/FieldWidget/EntityReferenceViewsOptionsButtonsWidget.php	a726f3fd4deb0d5213ef22970d915ca8
+A	src/Plugin/Field/FieldWidget/EntityReferenceViewsOptionsSelectWidget.php	04a025548e8a1ee7e65224f6dc874a67

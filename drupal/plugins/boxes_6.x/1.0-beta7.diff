@@ -1,0 +1,8 @@
+M	boxes.admin.inc	384c779941a909287952263e3cb3284f
+M	boxes.info	368022f194cbd5af2ee85b83d20de5e8
+M	boxes.install	d053eec08fbf6b54a96ccd7d32df898e
+M	boxes.module	c3da91ce5b4205c1c5b70abc014a6a2c
+M	plugins/boxes_box.inc	b99ef3ce090b7215e2377c6d0b071812
+M	plugins/boxes_simple.inc	aef5c0954b6a8b17f36cbca584653165
+M	plugins/spaces_controller_boxes.inc	c6c65fff32d2bcf5f80b3328d6a7949d
+A	tests/boxes.test	356552bc84210844ae17faf7af5a488d

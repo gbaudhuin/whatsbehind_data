@@ -1,0 +1,11 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	cas_attributes.info.yml	d08a95f89bf9eb2932ef3036fc2ebaf4
+A	cas_attributes.links.task.yml	c3d1a5826ec2c7e43d43b57c8377c989
+A	cas_attributes.module	e9b363415b8bf9597990bd66474ffbf7
+A	cas_attributes.routing.yml	ddfb5204234a82e34fc2c180cd2a576c
+A	cas_attributes.services.yml	68bdbc72288364a4c235c6b9f45ce667
+A	config/install/cas_attributes.settings.yml	193ff0a0b47fecea594170870fb8ea88
+A	src/Form/CasAttributesSettings.php	8697d7e234b1936838fdd4a8b406fc67
+A	src/Subscriber/CasAttributeSubscriber.php	864f5aa1497346e325d3af9e01f055ec
+A	tests/src/Unit/Subscriber/CasAttributeSubscriberTest.php	62f188688620ef2ab2017fefe3e99cd2
+A	tests/src/Unit/Subscriber/TestCasAttributeSubscriber.php	be508aab006b6139d20c30adde05a6be

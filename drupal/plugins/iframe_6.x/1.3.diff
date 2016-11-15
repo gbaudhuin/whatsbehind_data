@@ -1,0 +1,14 @@
+M	iframe.info	627a0b5c139d558be1aa3997e6120db5
+M	iframe.install	9cb031661a80bb595daa88e62682ef30
+M	iframe.module	661bb9f5e295b0b9fc9d6c0e2571fb29
+D	iframe.views.inc	
+M	translations/modules-iframe.da.pot	32a8c4310fa56111d6380a7c5d31a45c
+M	translations/modules-iframe.de.pot	957441637535903c5842e75ee1a13a91
+A	translations/modules-iframe.fr.pot	e3ee94eb910f0d5edd75dd85f9a1afc5
+M	translations/modules-iframe.ja.pot	407a4cc0fca69d6c942ce5e9daca1e19
+A	translations/modules-iframe.nl.pot	8ee19cb63f2532b95def81271d918039
+M	translations/modules-iframe.pot	61317bd981738fa07fdbbc4987c0424d
+M	translations/modules-iframe.ru.pot	7cf90e18f417b2d9708f600bae0c2782
+A	views/iframe.views.inc	ade31d62908b9cc35190db80c652a49b
+A	views/iframe_views_handler_argument_target.inc	84a4967ac555054c3c25393cf8477849
+A	views/iframe_views_handler_filter_protocol.inc	c26757956dfbf061c31a0e0231da2cb5

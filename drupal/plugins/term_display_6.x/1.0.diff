@@ -1,0 +1,6 @@
+D	CHANGELOG.txt	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	plugins/content_types/node_terms.inc	
+M	term_display.info	ef8409e316c59e6e96930a31379e4bd7
+M	term_display.install	3d1f0553819433c00a0eb2e93b2eb356
+M	term_display.module	212eb5bda1b0aca7160627e3d382b99d

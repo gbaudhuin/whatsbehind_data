@@ -1,0 +1,10 @@
+M	css/webform_civicrm_admin.css	ae6c90ff99ba7caa4a0b3206b0f00cd3
+M	includes/contact_component.inc	b7ae4fac93cef849f786972c9bfcb966
+M	includes/utils.inc	54dfc6cd300bd7b6842cd53c3a60b9c4
+M	includes/wf_crm_admin_form.inc	529c269e42124508b267818d8b3f13a6
+M	includes/wf_crm_admin_help.inc	b9e8c1a75a39035af44108e04c900b1c
+M	includes/wf_crm_webform_base.inc	b8563d14bd7529a7d55210ce605c2519
+M	includes/wf_crm_webform_postprocess.inc	e8f30e2ab17b758a81e5648445e058cc
+M	includes/wf_crm_webform_preprocess.inc	b83110052581f55b207b7fc2873a344c
+M	js/webform_civicrm_admin.js	46eba003f03be874f9be994dabdf4c9f
+M	webform_civicrm.info	bb398fad41313d7f04c2f7930f5b830f

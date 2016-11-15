@@ -1,0 +1,23 @@
+M	CHANGELOG.txt	4bf48379ccdd8c9bb578dc9ba4131845
+M	README.txt	bb9463b8711993b4cf922cebeb7f90a1
+A	UPGRADE.txt	5a84c8101e69636149422d83c86f50dd
+A	ckeditor-rtl.css	70ee4698902e8e5c1ecb405f96ee93bd
+M	ckeditor.css	8405a1264a57e41554ea314dd2df285d
+M	ckeditor.info	9640c4e98afff308ce8a0b1549f11c20
+M	ckeditor.install	030600bcd70f3a750b036ae4bda58b5f
+M	ckeditor.module	fcad5ab2886aaed712c5f4c988e1151e
+M	includes/ckeditor.admin.inc	737cd4342cd46c7fb5286f1a16203b9a
+M	includes/ckeditor.lib.inc	7e81547485e4d7909770fd8227890d20
+M	includes/ckeditor.utils.js	f3e1a4e4b5bff136369fe10e1df7a382
+M	includes/filemanager.config.php	416873dfdef6aa978b3fec9b74a4ad18
+D	plugins/drupalbreaks/images/drupalbreak.gif	
+A	plugins/drupalbreaks/images/drupalbreak.png	403aff8a2dda0c99c6c0ae667cf904f3
+D	plugins/drupalbreaks/images/drupalpagebreak.gif	
+A	plugins/drupalbreaks/images/drupalpagebreak.png	cc8e64223725c39b23dbab780f69f04c
+M	plugins/drupalbreaks/plugin.js	5ffe70cb9e02314a1fa51a864a8cf4bf
+D	plugins/imce/images/icon.gif	
+A	plugins/imce/images/icon.png	06c405a1ac60f9962af9d97cb963c9c5
+M	plugins/imce/plugin.js	e121915cad7e9a13c5359436e41f0a14
+D	plugins/mediaembed/images/icon.gif	
+A	plugins/mediaembed/images/icon.png	478a2dcd1a8071eb2eb4347c6fd673c4
+M	plugins/mediaembed/plugin.js	cb12fe020e86228513fdc35223939e06

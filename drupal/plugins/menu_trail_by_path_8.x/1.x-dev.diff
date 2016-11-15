@@ -1,0 +1,14 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	92380d175b2b032da77140e757155890
+A	composer.json	6add08d5857d4ad22dfacc815d5a8941
+A	menu_trail_by_path.info.yml	2d7fc6a6997b44f3a8821db0e827a900
+A	menu_trail_by_path.module	68583093fe1b5d7bba88e443722a67b1
+A	menu_trail_by_path.services.yml	b743b2f1ebefbf10e15f2b95c7a76ce1
+A	src/Menu/MenuHelperInterface.php	b560f31f66c2c2de0408f00dc9970d88
+A	src/Menu/MenuTreeStorage.php	912aac45ccb85619383250eb0615b7b0
+A	src/Menu/MenuTreeStorageMenuHelper.php	7d2dfb8ec548fa0bc550574e200bf21f
+A	src/MenuTrailByPathActiveTrail.php	d189161eaf7b2b1699bc38495801f5aa
+A	src/MenuTrailByPathServiceProvider.php	6cb4c294312cf49c65a3f13bb88f1496
+A	src/Path/CurrentPathHelper.php	c6762a4199fb5186e480c63c72b436f7
+A	src/Path/PathHelperInterface.php	3917661447d0dcb671f5d7f5ad23e025
+A	src/Tests/MenuTrailByPathActiveTrailHtmlClassTest.php	7bb18d7bd1db8d91e2be80601e949448

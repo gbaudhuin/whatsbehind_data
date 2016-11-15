@@ -1,0 +1,23 @@
+M	README.txt	d143300c5fd8f00e31d2529a06cabf14
+M	modules/piwik_reports/piwik_reports.info	113c7808630c225275a94f99034768b0
+M	modules/piwik_reports/piwik_reports.js	f47c0c59473393ef07962607780ad577
+M	modules/piwik_reports/piwik_reports.module	30d194a8546ef1390eeb581ae84beade
+M	modules/piwik_reports/piwik_reports.pages.inc	600ff98ef3d10a300ec100bc8b1cb01a
+M	modules/piwik_reports/referers-evolution.tpl.php	142a1e42d3f708f6e79b4427883aa27b
+M	modules/piwik_reports/referers-search.tpl.php	c30421d36c137ff205e00567baaad0d1
+D	modules/piwik_reports/translations/de.po	
+A	modules/piwik_reports/translations/modules-piwik_reports.de.po	3b160a7937bb5ae8202f027645821dd9
+A	modules/piwik_reports/translations/modules-piwik_reports.pot	a71abd11d6317577d6361b2dd66844ca
+D	modules/piwik_reports/translations/piwik_reports.pot	
+M	modules/piwik_reports/visitors-locations.tpl.php	1409bcb0fd77dade77d2bc5cbf0d43bf
+M	modules/piwik_reports/visitors-overview.tpl.php	a79fcbe981cf9d655c5814471257ad1e
+M	modules/piwik_reports/visitors-settings.tpl.php	c43d473dbff6c4f587d96f1830100e8b
+M	modules/piwik_reports/visitors-times.tpl.php	bcce2a60d949aa01d0c7cd2af87a0201
+M	piwik.admin.inc	ddd3f61a4c44b541ee7d69598d89df5a
+M	piwik.info	4ab18a427795b35678c8222d7494aae1
+M	piwik.install	6e3b2dc6d42966403b84369dab0d9a7d
+M	piwik.module	0cac3e2523c667da47cd4ddaada5a41c
+M	tests/piwik_basic.test	88daae3e0f3a907fe4016d60e328d32d
+A	translations/general.de.po	0b797b1d762360a963a6eb2994200767
+A	translations/general.pot	8c88fb81b822c918c92e19ecc8643668
+M	translations/piwik.pot	3901dcc926bb6b309d727a8bb3a840eb

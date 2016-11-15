@@ -1,0 +1,12 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	email.diff.inc	
+D	email.feeds.inc	
+M	email.info	b835b1794155dc089123ea2cb0e1a5e2
+M	email.install	3beefb00777a6bd04265b7d33c23efa9
+D	email.migrate.inc	
+M	email.module	06f991ddb5751de865769fd2f1cd3601
+A	translations/da.po	539a34c9897751acf1e0d64fb8764e86
+A	translations/de.po	13eb15b286a7d99823952a842ab57831
+A	translations/email.pot	45d01933839b9de4e0b6692876c1700a
+A	translations/fr.po	664beee5d00e859b121da5e039f0b9da
+A	translations/hu.po	2a1ac0fd45e1f93226430ecccf0cca0e

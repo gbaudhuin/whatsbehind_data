@@ -1,0 +1,19 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	e9ac5548fd71908387d0d2d17fd3f1aa
+M	imagebrowser.info	5a0eb3ab0ac25efa1f829ec162e52b70
+M	imagebrowser.install	725968f28ae0c73bf5e2cf5164f0d1b3
+M	imagebrowser.module	cc00212a285f22d656a7a17cb4d69374
+M	includes/imagebrowser.views.inc	e70ccd7aba51a4bee5b5bbc068bd0e3a
+M	includes/imagebrowser.views_default.inc	0380b1d2854cc54b17296bb8b9450f41
+D	js/ckeditor.js	
+D	js/fckeditor.js	
+M	js/ib_ajax_view.js	f54d7731e915914d9de3e9592a2f2c81
+M	js/imagebrowser.js	9e984c20101497becbdf7e6ed4f628df
+A	js/refresh.js	03daecf09e1be923427f4b587575fa8c
+M	theme/edit.css	9fcb53a18dd294652a9f50ccd914b4f0
+M	theme/imagebrowser-thumbnail.tpl.php	be1c34b5186dea4c16cdbb498b1e79ea
+M	theme/imagebrowser.css	bc9215d8d7efeecac2bdcf60e4c64f22
+M	theme/theme.inc	852e6106d294b7c518937e3b336f100a
+M	theme/window.tpl.php	f183f9d98152b0afa6eb7fa4bb2da7c4
+M	theme/window_edit.tpl.php	bff719f9c416f3fcf1057816ae08f21c
+M	theme/window_insert.tpl.php	f3cfb183d3be408862dfd5af03e5eb6b

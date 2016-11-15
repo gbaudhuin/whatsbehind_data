@@ -1,0 +1,12 @@
+M	CHANGELOG.txt	7c7d768a1afd2645ea0be0d601c14352
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	b02da691ef8b9170bb406b5f94b713ce
+M	acl.admin.inc	5f16ddec459347d1fa9d4bb76ef88578
+M	acl.api.php	774597f176f94d206d9bae14aa5ddd73
+M	acl.info	b0e101bb5c5ab741c0b7e4b88b565f39
+M	acl.install	f865184ffa606ada94394d80078f807e
+M	acl.module	b4226984db7a59bd619a8e6d7b68e569
+A	acl.test	e91727e9d1adc8bda6847e2aacb20c3d
+D	tests/acl.test	
+D	tests/acl_node_test.info	
+D	tests/acl_node_test.module	

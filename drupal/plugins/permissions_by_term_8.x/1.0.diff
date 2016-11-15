@@ -1,0 +1,16 @@
+D	permissions_by_term.info	
+M	permissions_by_term.info.yml	323f76e28f2676ec58e2ff9260da474d
+M	permissions_by_term.install	df5ac6bf2cf14b71a105a5c0825fc1e1
+M	permissions_by_term.module	ecdbeb7bc6b910429b805bdd2bc11eb1
+M	permissions_by_term.routing.yml	76fc7c95b5129c1cc5eba7c733c082c6
+A	permissions_by_term.services.yml	6405a48dbfbd8fa48dc55565574f9b33
+A	phpunit.xml.dist	8a1547849ca674e7c46b54c1195a1d02
+A	src/AccessCheckService.php	47b2a3fd914f82d05a8840ac5616fd13
+A	src/AccessStorageService.php	fbdc411429ea4d205290d65bcd973a37
+A	src/AccessStorageServiceInterface.php	47517e4cd3116483ca52bae68b741bda
+D	src/Controller/DefaultController.php	
+A	src/Controller/PermissionsByTermController.php	c32e4e58300c2715f90e8df7947b9d8a
+A	src/Plugin/views/filter/PermissionsByTerm.php	0b20797286896af7be5b838137f99e14
+A	src/TermSubscriberService.php	c07ee322ae8fb5c3b69da55ccd485b28
+A	tests/bootstrap.php	e90aa4f922698da41c74b3c82de7b1ca
+A	tests/src/Unit/SavePermissionsTest.php	409ce4d3584e991e5b3bc26fb5bd293c

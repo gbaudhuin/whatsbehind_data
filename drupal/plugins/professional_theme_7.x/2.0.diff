@@ -1,0 +1,9 @@
+D	.gitignore	
+M	professional_theme.info	79a5546a66bb15e7f188cbe04d60b451
+M	style.css	12c26b1aac3802d056b4639b4cdb79f8
+M	template.php	5cff4e91037dfd9482cfb3f4434b95d3
+M	templates/html.tpl.php	54e8f6bc2f7071e6dcfc33cdff64258b
+M	templates/node--forum.tpl.php	7c8adae407e39be2780437e535eb8a44
+M	templates/node.tpl.php	65ee9bccc6e31d97e5649fcf7be7d5c4
+M	templates/page.tpl.php	d435b44e523f48023b1a14e0dce82966
+M	theme-settings.php	91f408c8730cc1f4aec38bef6d1a52c8

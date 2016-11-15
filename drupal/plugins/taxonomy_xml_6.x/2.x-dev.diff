@@ -1,0 +1,41 @@
+A	CHANGELOG.txt	e75d1619169ae566d7b3d981338cb23c
+M	INSTALL.txt	e6d8aedb741ccdf45e96932b998d1f59
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	d6015651528d70ceaf613b921645e37d
+D	about_services.txt	
+M	arc/ARC_rdfxml_parser.php	518616093178df16419f772bd783437a
+M	csv_format.inc	358414536bfcdff1eca9c4876c25b228
+A	csvancestry_format.inc	b68f869ff18b2354baaaaa4c6b9a6116
+D	formats.html	
+D	help.txt	
+A	help/docs.css	0b463333e5afc2ba257523a1a6144087
+A	help/formats.html	cb42136287711f8e8f39334ef1dbbe2a
+A	help/help.html	3d1e0f9b3647f7e094d33f42da3b11f6
+A	help/rdf.html	c7ca2edccf339c8123fdc76de714e03e
+A	help/samples.html	e8df3388199b65d390dcfe52b145b02e
+A	help/services.html	a687b17351d6423c7e3cd608f7e4bb18
+A	help/theory.html	1d123aef4b16763032f0fb5c3372f720
+A	includes/taxonomy_xml.geotaxonomy.inc	b7fb48a08f626294df68002817f12ed1
+A	includes/taxonomy_xml.menu.inc	a853d3fee5c7b5bb9073bd4661da385a
+A	includes/taxonomy_xml.path.inc	d3ec8d4ebc60932d484ad83cfd4aaa3a
+M	lookup_services.inc	714e147e561b7075a4e43d99ec1a080c
+A	mesh_format.inc	7ae04f7b7b55a1788ddd78c7d0eacb85
+M	rdf_format.inc	4735175f14bfec733afd0430d0b13424
+A	samples/US_states_and_counties.rdf.xml	9d178f4881ba5f278e4066a5517694a3
+A	samples/google_merchant-product_taxonomy-csvancestry.csv	8b38dce64944800a2b12fc124baf7216
+A	samples/google_merchant-product_taxonomy_csvancestry-2deep.csv	58c7621a4e81c143e2e2a46e87c2197c
+M	samples/taxonomy-slicer.sh	92cbe15c305b9f0717775d95bf866c75
+A	samples/world_geography-MeSH.rdf.xml	15c6ae6fcbf5f1f677dc5ed496ee0888
+A	taxonomy_guid/README.txt	ffd399fa61ae51e4f0885a80c3b99eb6
+A	taxonomy_guid/taxonomy_guid.info	70d6cec8aa1033f5d7636b907a72a847
+A	taxonomy_guid/taxonomy_guid.install	430e53202e8e3c1f32bb2daea5ef51e5
+A	taxonomy_guid/taxonomy_guid.module	a1f2f9e1f21ea1a9c8d4011c829052f9
+M	taxonomy_xml.css	c2416a3b71a9c7979f9698f869925844
+A	taxonomy_xml.features.inc	1600088112c8ec92adabd6c510cd7062
+M	taxonomy_xml.info	f596d599c2ec116216ba9eb7cdf69495
+A	taxonomy_xml.install	28a87f821326eac76716575af7ee75f5
+M	taxonomy_xml.js	2b41a593ed5f8c2bde3c715984f95c21
+M	taxonomy_xml.module	ffbbe1ebb10697239e58dffbb9404976
+M	tcs_format.inc	c808cf2dfe88e6310d5d414b4d40749c
+D	theory.html	
+M	xml_format.inc	1ee77c5c54495e89ce94d91086980ad8

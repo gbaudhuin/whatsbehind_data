@@ -1,0 +1,15 @@
+D	README.txt	
+D	css/960.css	
+M	css/layout.css	313696603093d680331943ecc51bb4e7
+M	css/style.css	052a58c067b41c6aca6a0b48fa85791d
+M	hatch.info	c7919573c9245d5acce0e47ab35de104
+A	images/main.jpg	59430ced372b48611396015fa118a90e
+A	images/screenshot.png	938fee98871c16cfe61ccc3df4a8d05c
+A	readme	9f3b8807edb4fc64a4284325086c0908
+M	template.php	bac406cf758e61a507bc5ec3bf7749a1
+D	templates/node--article.tpl.php	
+M	templates/node.tpl.php	a5ba40d29298baef73fc741bd30b312a
+M	templates/page--article.tpl.php	a7394effc7ca5bd2b5d33f7eec4de718
+M	templates/page--front.tpl.php	07eae15d10b1fefce139acd8ff893386
+M	templates/page--reply.tpl.php	18ed825ce81c704816ca939135e7b1af
+M	templates/page.tpl.php	a5d27d4e6e6bd474c079cf0ed21457a0

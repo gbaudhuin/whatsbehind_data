@@ -1,0 +1,23 @@
+M	README.txt	819df91894d0289aa7a161e2f226e32e
+M	ajaxserver.php	3c849fe351c41af01ea2134fdb2bcad3
+A	css/images/BrowseButton_61x22.png	37f786da478b7926e225ccd280793e4e
+M	filedepot.class.php	6d074e8e155e4db9df7b7c7b4a84ee89
+M	filedepot.info	bdc52e111cbac6e4e336b2e9ea1a5533
+M	filedepot.module	16b0a8272fe8060e413858e089acc078
+M	js/common.js	6384eb78e0c04feb4bb3ee2f47e99f9f
+D	js/encoder.js	
+M	js/initapplication.js	e96fa81dc8dadc38853355eecf564512
+D	js/plugins.js	
+D	js/yui/uploader/assets/uploader.swf	
+M	lib-common.php	f6bb0fa90525880bc85382028a50f100
+M	lib-theme.php	cd9413b212bda49d5c3d38e6af780ef6
+M	theme/activefolder.tpl.php	235215ea8d7714a107ebeaab57c8faad
+M	theme/activefolder_admin.tpl.php	dde456c7e768d81dc545f682542e7979
+M	theme/filedepot-mainpage.tpl.php	870f7aec0cf7a1906dfa4276ee8f1f4b
+M	theme/filelistingheader.tpl.php	7848cb5fd2a091bc85dfd9380b952a58
+M	theme/toolbar_form.tpl.php	9e2c8543dd4279c0b749562c52319d9d
+A	views/filedepot.views.inc	fd6fe5724da359bb289e0a1a5623063a
+A	views/filedepot.views_default.inc	c93db955f95e88c3c181e259d466e8b0
+A	views/views-view-field--filedepot--pid.tpl.php	51a04db9ea740c838531f97ca52a6ed9
+A	views/views-view-fields--filedepot-folderlisting.tpl.php	b68a8f97ce70ef4c71bd06d96389bd94
+A	views/views-view-fields--filedepot.tpl.php	ee7ce5ee2dabf42d45b8c140786f3f0c

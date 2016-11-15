@@ -1,0 +1,8 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	noderecommendation.admin.defaults.inc	3c8a6f80c26ee92e23405976b1d98826
+M	noderecommendation.admin.nodes.inc	57224ba03e9ccf1cacac696392a4ed92
+M	noderecommendation.info	8f02deb3cccdf4b4298d841efecdac9d
+M	noderecommendation.install	77773fe26b7b1fba7c9d3280f035031c
+M	noderecommendation.module	52fb384d18d7891eca713fcd103eade7
+A	views/noderecommendation.views.inc	dee65df33fd692aaa9aa63a11216600b
+A	views/noderecommendation_handler_field_data.inc	8a8d8e05a1d4a82c5e1301b57dc81e90

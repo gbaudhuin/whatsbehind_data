@@ -1,0 +1,13 @@
+A	about_services.txt	ae44eaae7c22aac2c67985f9dc6843a0
+M	csv_format.inc	4a00a4dface4232626f61e6888ced2d1
+M	help.txt	de4e8f59398419449dab776784e61495
+A	lookup_services.inc	296250fe63ed5702916a24314ed0620a
+M	rdf_format.inc	f98218ad214479b6c4e71fb4e4ea00f3
+A	samples/international_press_topic_catalog-topicset-20001006.rdf	685faa149c0352b6d3de66b6b6a848ac
+A	samples/phocoena_phocoena.tcs.xml	941ab3c9843ef23ebdc0c5294791e878
+M	taxonomy_xml.css	ba41e513cb93dc7491083da9787b7a29
+M	taxonomy_xml.info	8f62363e28600c744edcf794e6282975
+M	taxonomy_xml.js	170d9986914df84ddb6fb6f18a47465c
+M	taxonomy_xml.module	593e66c6e5aa050ca38101c3000d88b2
+M	tcs_format.inc	d88d0c4b522ec0d31d8c98da8f13021e
+M	xml_format.inc	f6b9e39e32437a58ed9f651951e08c99

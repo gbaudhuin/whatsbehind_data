@@ -1,0 +1,9 @@
+M	.travis.yml	8249eac437d936f934ba8df5e991ed83
+M	README.md	031f7a00505494be462e4ed55b90cbd5
+D	circle.yml	
+M	field_tokens.info.yml	6746249efe541b4d0bed936cb66b46a5
+M	field_tokens.tokens.inc	2357013c85a8b0d76a1cb38c5394037e
+M	src/Tests/FieldTokensFormattedTest.php	a4b38c9b993197e513dcf415b29776a3
+M	src/Tests/FieldTokensGeneralTest.php	82dc52508e2206c29f78cdfddc5efaba
+M	src/Tests/FieldTokensPropertyTest.php	bc120d1d71162eec37c8ace2c789900b
+M	src/Tests/FieldTokensTestBase.php	ff9261748942fe1f54d330dfa09e1b26

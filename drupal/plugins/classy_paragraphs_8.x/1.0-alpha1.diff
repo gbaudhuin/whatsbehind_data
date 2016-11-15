@@ -1,0 +1,10 @@
+M	classy_paragraphs.info.yml	428daf9a3d018c3b29abd38c4e5bdc11
+M	classy_paragraphs.module	471492eabb4b50a7146abfdc32d6a163
+D	composer.json	
+M	src/ClassyParagraphsStyleInterface.php	5f0586f232306665ff7673ef4b856572
+M	src/ClassyParagraphsStyleListBuilder.php	3cb13ac3e1a956df6d3cd1575af7e660
+M	src/Entity/ClassyParagraphsStyle.php	c6919bb9f1e9a3aa05a65de4c136b494
+M	src/Form/ClassyParagraphsStyleDeleteForm.php	bfe28fc15372d34620d7bbab3e2948cc
+M	src/Form/ClassyParagraphsStyleForm.php	6d37bb38e199f612344a225cdb40fefe
+M	src/Tests/ClassyParagraphsTest.php	c0b7d1d273a2b5b8f63923f24536b732
+M	tests/modules/classy_paragraphs_test/classy_paragraphs_test.info.yml	92065acff114b5e3141e540c2397cce8

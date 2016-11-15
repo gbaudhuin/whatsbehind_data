@@ -1,0 +1,7 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	56e8a5ddb0f71b26dd0db71444c0a516
+D	contrib/image_caption_filter.info	
+D	contrib/image_caption_filter.module	
+M	image_caption.info	3b5e068bc7d663deba67c7141689f8f9
+M	image_caption.js	29491d696df031c8856df0cdba4365e0
+M	image_caption.module	b130944f7cdec2b53d51a8a6dd5a7d7b

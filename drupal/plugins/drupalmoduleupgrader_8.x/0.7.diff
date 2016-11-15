@@ -1,0 +1,203 @@
+M	config/install/drupalmoduleupgrader.entity_operations.yml	e7b2ed333d3f44883e5b3f03230b928f
+M	config/install/drupalmoduleupgrader.functions.yml	0143d95f3244be9a432a033026917fd7
+M	config/install/drupalmoduleupgrader.grep.yml	af70d78936ffdf8cf9d1911b6cf87899
+M	config/install/drupalmoduleupgrader.hooks.yml	c41b04ca0af06c0415ee71a64860beec
+M	config/install/drupalmoduleupgrader.rewriters.yml	cce98101bc551a78d61d3ceacd2bf1bf
+M	drupalmoduleupgrader.drush.inc	84ef24a63bf3f6b8683083916bf00d9e
+M	drupalmoduleupgrader.info.yml	f6c9b2fb0eba34cd74206371effb0ea9
+M	drupalmoduleupgrader.module	97f2093580209ea199c0e1508201956f
+M	drupalmoduleupgrader.services.yml	547f5fe559935ab168e0b9987fe4b479
+M	src/AnalyzerBase.php	691e35311197ca0183a52bbc55337880
+M	src/Annotation/Analyzer.php	e11cd605deb94e11b4a71fc335720ade
+M	src/Annotation/Cleaner.php	6a8d6a6bc73bd831eae491a460cc430b
+M	src/Annotation/Converter.php	7a10bcfc4cfa9b4392283fb39ba1cc4f
+A	src/Annotation/Rewriter.php	06cadd6e9f72559a281c22551eade505
+M	src/CodeManager.php	84c7e5ae6805a32fb9cda97b6c175cf3
+M	src/CodeManagerIOException.php	2ed9099cbaf5244869945ad0de30d661
+M	src/CodeManagerInterface.php	17998ddbb4ff94a38e4213673120f37d
+M	src/Converter/Routing/Drupal7/RouteWrapper.php	bd1bb6acc8738df3a1f59d672cd90a58
+M	src/Converter/Routing/HookMenu.php	ef33cfa4ddf75cf1597aec6549cf62f7
+M	src/ConverterBase.php	c3f12a2ce2dacaed7cbd7a0469b3a870
+M	src/ConverterInterface.php	0735c1aeb7173ecc298e8778248c7152
+M	src/DeriverBase.php	676698138d7f9c95a17613cbfc66739c
+M	src/IndexerInterface.php	ffc717eb7becb5e0b6840c05c9a10a18
+M	src/Issue.php	8030dfef3a0965b87386aab66179a33b
+M	src/IssueInterface.php	4c5f0d0577c406fd832557c77c18f2c6
+M	src/Plugin/DMU/Analyzer/DB.php	054ef39bfc0c1b6af39b76e9ad73f459
+M	src/Plugin/DMU/Analyzer/DBDeriver.php	5883552b9e2f8e9773c4886ec4b71d1b
+M	src/Plugin/DMU/Analyzer/FlagHookDeriver.php	ebfc74e2f75ba64a2e56c66402532702
+M	src/Plugin/DMU/Analyzer/FunctionCallDeriver.php	3151e092f073ac173b6e1dac842f3c54
+M	src/Plugin/DMU/Analyzer/Grep.php	d158de2e19ff4320c8dc35541a05d88e
+M	src/Plugin/DMU/Analyzer/InfoFile.php	20e96aeac4bf58f8a3583a39b6e293fb
+M	src/Plugin/DMU/Cleaner/DeleteHookDeriver.php	c8488dcefbe013d500681b55a4afb4d3
+A	src/Plugin/DMU/Converter/Blocks.php	b9836d41ff32392be1c31639e1cc137a
+A	src/Plugin/DMU/Converter/EntityHooks.php	12ded3e0c6d8dfd82b7fad9bd23406a9
+M	src/Plugin/DMU/Converter/Functions/CToolsGetPlugins.php	62d2cca49e77470f636b88d3e8fd2629
+M	src/Plugin/DMU/Converter/Functions/CToolsObjectCacheGet.php	beaedccb0043d23a7e4dd647461d1337
+M	src/Plugin/DMU/Converter/Functions/CToolsObjectCacheSet.php	6a19829cc6527685cbd5ca9c87c1738a
+M	src/Plugin/DMU/Converter/Functions/CacheGet.php	0d3e238b0da3574d39d8ab1a6f476db0
+M	src/Plugin/DMU/Converter/Functions/CacheSet.php	0b256bd3e4e96cdb7f4a72f1d4c92b9f
+A	src/Plugin/DMU/Converter/Functions/CommentLoad.php	8177f210c5402b57f3a7981cada1702d
+M	src/Plugin/DMU/Converter/Functions/DB.php	1ebfcb5848bb8f6c9cb0dd7d1d7c71c9
+M	src/Plugin/DMU/Converter/Functions/DBDeriver.php	4ae5c52dc21cd258c63411e7cd8cf39a
+M	src/Plugin/DMU/Converter/Functions/DisableDeriver.php	53f74aa2ac8d8996b3eff377121adb5a
+A	src/Plugin/DMU/Converter/Functions/DrupalGetTitle.php	b5b5c782da487417ec2a03afd95b46ea
+M	src/Plugin/DMU/Converter/Functions/DrupalWriteRecord.php	26619d8ca086d30d8695399e882cc36a
+M	src/Plugin/DMU/Converter/Functions/EntityCreate.php	bde856c4a3efed8ce8f99bc38b062d22
+M	src/Plugin/DMU/Converter/Functions/EntityGetInfo.php	123fef60d718ba551351d7dad1648d36
+M	src/Plugin/DMU/Converter/Functions/EntityLoad.php	34954acf1a60063cbea47232859ccf47
+D	src/Plugin/DMU/Converter/Functions/EntityLoadDeriver.php	
+M	src/Plugin/DMU/Converter/Functions/EntityOperation.php	63311e5fbc83d69ae3f02f5957272f9e
+M	src/Plugin/DMU/Converter/Functions/EntityOperationDeriver.php	ddefcf5ca6fa6a704a0c055e0b076772
+M	src/Plugin/DMU/Converter/Functions/FieldInfoFieldTypes.php	d82d149679fba832a3d49888e38762d6
+M	src/Plugin/DMU/Converter/Functions/FieldInfoFormatterTypes.php	5c771aa4450112b962e0bba06b5ee924
+M	src/Plugin/DMU/Converter/Functions/FieldInfoWidgetTypes.php	a4ce91fed6cade12e60c98e133a8b8bb
+M	src/Plugin/DMU/Converter/Functions/FieldUpdateField.php	1dd11899e9d8003fd2d9435720862fd4
+M	src/Plugin/DMU/Converter/Functions/FieldUpdateInstance.php	c0e0c92ca50eae64ff85b3fa8956c331
+M	src/Plugin/DMU/Converter/Functions/FieldViewField.php	06a10c54ecd2e09ca0a4d9bbb5b38b21
+M	src/Plugin/DMU/Converter/Functions/FieldViewValue.php	83e9717268146c6978bb11fd6fb1cb21
+M	src/Plugin/DMU/Converter/Functions/FormExecuteHandlers.php	e75c84c874d0881af1e839519a4f83bf
+M	src/Plugin/DMU/Converter/Functions/FormLoadInclude.php	254881e794466edc8725df1eac89472c
+M	src/Plugin/DMU/Converter/Functions/FormSetValue.php	c4ddf3a85f8fb3668000c7d80290ffed
+M	src/Plugin/DMU/Converter/Functions/FormStateValuesClean.php	76527cc0e06d0e5f15fa10bb3f1c2653
+M	src/Plugin/DMU/Converter/Functions/FunctionCallModifier.php	b29cf645f753cb05824098c9c39b30fd
+M	src/Plugin/DMU/Converter/Functions/L.php	930a516c785735a8f8537b95bc9bb593
+D	src/Plugin/DMU/Converter/Functions/LanguageDefault.php	
+D	src/Plugin/DMU/Converter/Functions/LanguageURLFallback.php	
+D	src/Plugin/DMU/Converter/Functions/LanguageURLSplitPrefix.php	
+A	src/Plugin/DMU/Converter/Functions/LoadMultiple.php	008594561d01b6ccd3fb4f867be72a69
+A	src/Plugin/DMU/Converter/Functions/LoadMultipleDeriver.php	fa8767fee764e95b174ea08d3469bfad
+D	src/Plugin/DMU/Converter/Functions/LocaleLanguageSwitcherSession.php	
+D	src/Plugin/DMU/Converter/Functions/LocaleLanguageSwitcherURL.php	
+M	src/Plugin/DMU/Converter/Functions/ModuleInvoke.php	90cdad7085dad37fe05f5124bfd6ad3f
+M	src/Plugin/DMU/Converter/Functions/ModuleInvokeAll.php	77dcafed15e25558f1a8a81f70279bac
+A	src/Plugin/DMU/Converter/Functions/NodeLoad.php	11445a802e963c2ea093aae0992ce6a4
+M	src/Plugin/DMU/Converter/Functions/ThemeGetRegistry.php	ab5985e41869e95fe75c3b40f9d0832d
+M	src/Plugin/DMU/Converter/Functions/URL.php	172f5ece22863a144305004c14a0fd14
+M	src/Plugin/DMU/Converter/Functions/UserAccess.php	a00b7c5313a2b66a07ae403073fbdcec
+A	src/Plugin/DMU/Converter/Functions/UserLoad.php	3ba5c8b02f1d6f466ee8eb215a1c9783
+A	src/Plugin/DMU/Converter/Functions/UserSave.php	8081d25b61aac32100a5e32f482c5188
+A	src/Plugin/DMU/Converter/Functions/VariableAPI.php	879822260733b031b8469be54ed52424
+M	src/Plugin/DMU/Converter/Functions/VariableDel.php	38fbe39c7d4b1d5d072bdd7e83a6052c
+M	src/Plugin/DMU/Converter/Functions/VariableGet.php	2697614ad966dbedb59afd1053097491
+M	src/Plugin/DMU/Converter/Functions/VariableSet.php	0a2c8da875d1465fcc379ace1e90f625
+M	src/Plugin/DMU/Converter/Functions/Watchdog.php	e5207c104f905027e1adc4a5126de1e9
+D	src/Plugin/DMU/Converter/HookBlockInfo.php	
+A	src/Plugin/DMU/Converter/HookBoot.php	186e33ef864fcfa0d1cc33fb9d6e3eee
+A	src/Plugin/DMU/Converter/HookEntityTypeView.php	b040aed9f2628d8bc4b87083c11319a0
+M	src/Plugin/DMU/Converter/HookExit.php	5b9db06ca9c4bd73241f5ceb3919ba50
+M	src/Plugin/DMU/Converter/HookFieldAttachCreateBundle.php	887639482e98458d2720c6525be42886
+M	src/Plugin/DMU/Converter/HookFieldAttachDeleteBundle.php	596143a2991ba71e20a7fde18f7739b7
+M	src/Plugin/DMU/Converter/HookFieldAttachRenameBundle.php	e9c1c776c8f86aae2826f3cf6ee5d486
+M	src/Plugin/DMU/Converter/HookFormAlter.php	ff6fe847ef34c9ce166c6a49b900ff08
+M	src/Plugin/DMU/Converter/HookInit.php	5640c4dbfa787964e3af128eb8bbf679
+A	src/Plugin/DMU/Converter/HookLibrary.php	f68cd4e01d5703c5fa9e1392f74f7ca0
+M	src/Plugin/DMU/Converter/HookMenuAlter.php	6edf1d317c7935298441c4453e14f8e0
+A	src/Plugin/DMU/Converter/HookNodePrepare.php	c9fef0e940c6bcb179d55d55013c7924
+M	src/Plugin/DMU/Converter/HookURLOutboundAlter.php	a7e96a442406e84cd0e13eedac1f74db
+D	src/Plugin/DMU/Converter/HookUninstall.php	
+A	src/Plugin/DMU/Converter/HookUserLogin.php	3777cee38b43a44e46f2a36eac947200
+M	src/Plugin/DMU/Converter/HookWatchdog.php	8b7f12a74b1a33cba484ac26f6a0b5f1
+M	src/Plugin/DMU/Converter/Links.php	c62da592184ce9722b14c4f7c9874704
+M	src/Plugin/DMU/Converter/PSR4.php	f33d2625165bb275b1a5653a37a03844
+M	src/Plugin/DMU/Converter/Routing.php	fef85432eab46954cbb74a22d070e554
+M	src/Plugin/DMU/Converter/Tests.php	fef22b17a2cca52c5befa7d974f4e848
+A	src/Plugin/DMU/Converter/UnitTests.php	6d711b34a8c490388e78b66b47fd5c8a
+A	src/Plugin/DMU/Converter/UserHooks.php	6538d742b3e9a51f5e8f3431ed2f0a2a
+M	src/Plugin/DMU/Indexer/Classes.php	8f81dd28f806229df9ca50e5358bda16
+M	src/Plugin/DMU/Indexer/Hooks.php	179ad154b257510eba3b42718eb8599e
+M	src/Plugin/DMU/Indexer/Tests.php	e570f2fdc6a701bf1bae99240b8093ea
+M	src/Plugin/DMU/Indexer/UnitTests.php	6310aa6ef39fd17f0a2331981b8aeb2d
+M	src/Plugin/DMU/Indexer/WebTests.php	7fb37abaeeeaac9d9b55cf95aa4b1c02
+A	src/Plugin/DMU/Rewriter/FormState.php	b5968ffbf3de0b3356088455a4627a4a
+A	src/Plugin/DMU/Rewriter/Generic.php	6a2b26b17375364b7f1ee3891cf4b05c
+A	src/Plugin/DMU/Rewriter/GenericDeriver.php	42efaf39bc86312d4cf67af2173d57f0
+M	src/Plugin/DMU/Routing/ContentRoute.php	158a28dbc3c8050e4c11a0053dd041ab
+M	src/Plugin/DMU/Routing/FormRoute.php	fcec1d75dcff21e6224f1dee0495dff4
+M	src/Report.php	f60b34198dac6e12c2e586588fa18f59
+M	src/ReportInterface.php	403de76b9a8c8f188197dff30d4d4e1e
+A	src/RewriterInterface.php	042f5a483421d82fa3ca5dd8a4d0801f
+M	src/Target.php	9277f5518181ad133232f85dc9897bcd
+M	src/TargetInterface.php	81b65d09cf04e4f4898607f3e82673e7
+D	src/TranslationAwareDeriver.php	
+M	src/Utility/Filter/ContainsLogicFilter.php	e064c78329e92c6685982025d317d70c
+A	src/Utility/Filter/FieldValueFilter.php	fb452543f688dd4f0c7d2e89cac460c1
+A	src/Utility/Filter/FunctionCallArgumentFilter.php	48ffd059b2ff3108f3c187f05dcd2c94
+M	src/Utility/Filter/NodeAssignmentFilter.php	56db79c1ce337d26fdeb29c3db90f4da
+M	src/Utility/FormConverter.php	aa657c41bfe418f5abb44618f9b9fb5b
+M	src/Utility/FormConverterFactory.php	b6bd59fe31b7fcc12dc7ca6f50a232f5
+D	src/Utility/ParametricRewriter/FormStateRewriter.php	
+D	src/Utility/ParametricRewriter/ParametricRewriterBase.php	
+D	src/Utility/ParametricRewriter/PropertyAccessRewriter.php	
+D	src/Utility/RewriterFactory.php	
+M	templates/Block.html.twig	8e20ee3fa0591d924ca1daa2ce467be3
+A	templates/Issue.html.twig	7aca2fc62499a42165ae34b91ba64028
+M	templates/Report.html.twig	b7f529ba221a5a334b695ce6c1d076ff
+M	tests/foobar/foobar.info	7989e64b4c9e5276fd10cd48f16e9199
+M	tests/pants/menu_example/menu_example.info	f0072da82da7d6c84e3c035931de683f
+M	tests/pants/pants.info	db756aea6427e582d313e194eca4e9d4
+D	tests/src/Unit/Converter/Routing/Drupal7/ParameterBindingTest.php	
+D	tests/src/Unit/Converter/Routing/Drupal8/ParameterBindingTest.php	
+D	tests/src/Unit/Converter/Routing/Drupal8/ParameterMapTest.php	
+D	tests/src/Unit/Converter/Routing/ParameterBindingBaseTest.php	
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/CToolsGetPluginsTest.php	7ed8f659a687c49baf0d89a52a51b261
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/CToolsObjectCacheGetTest.php	5848295085f31bfb2b619e831a159f2e
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/CToolsObjectCacheSetTest.php	3d9e3ec8dd6d6895fa57bce70c6b772f
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/CacheGetTest.php	016cf27f01fdc8126d2040cb90c1266b
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/CacheSetTest.php	8ebf154e6805e09c8138ac1f555d31a6
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/CommentLoadTest.php	b80d549d3a291c08088fc3e078b20bcb
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/DBTest.php	7ab4f01b1e467a225a83b5fbe953627c
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/DisableTest.php	00354e7e45f5e7c96d4c2123b3317ef4
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/DrupalGetTitleTest.php	7d6050365083d349709bd6c7f94138e1
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/DrupalIsCLITest.php	54abf25404bd25e755d5cf564354b7de
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/DrupalMapAssocTest.php	d837768948127a1381c490061ed9100c
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/DrupalWriteRecordTest.php	cd46773088f050d95902a586c1ca26fb
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/EntityCreateTest.php	d0a8bae9bbcf38c2701b121e1101d5d9
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/EntityGetInfoTest.php	ffb96d3707c1afb42ae282cf38960710
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/FieldInfoFieldTypesTest.php	0776078a5a7a6cf87875a1c26b4dbb37
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/FieldInfoFormatterTypesTest.php	5ccfe2d7f09561af01d7b03be3e3fd28
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/FieldInfoWidgetTypesTest.php	e2784971971166fe88fe1f603d47c04a
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/FieldUpdateFieldTest.php	88daac79fc856f6104309c9f95d11df1
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/FieldUpdateInstanceTest.php	b576b7abadb3bf93a7117e744bbab5ba
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/FieldViewFieldTest.php	5dc73d7b859ee6299b3bb7f3fcd4f641
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/FieldViewValueTest.php	ee7d15f1452492a9d4e4a83d619f2caf
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/FormExecuteHandlersTest.php	8ccef17986efaf2114358510da697266
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/FormLoadIncludeTest.php	eb005729a9d6cd61673e91545596eebb
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/FormSetValueTest.php	320d1282d419525d7284a045d2b74b04
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/FormStateValuesCleanTest.php	f258971e59fbe3e63ceedcdaccbe865e
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/FunctionCallModifierTest.php	ef8f8242d67b01718b660ff4a13a4d8c
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/ModuleInvokeAllTest.php	827db3998042b267cc016f7bff1f6793
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/ModuleInvokeTest.php	afc1df623250c104c08f30b1c65ab608
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/NodeLoadTest.php	2163ade87ce45ed40ecf02e20efa2bec
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/ThemeGetRegistryTest.php	e34c36af46e89e08a04e4f9696a3ad20
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/ThemeTest.php	a15ccdb4af3206f8085342f7be58528c
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/UserAccessTest.php	6403657effc69cd8d6af0257d3acec67
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/UserLoadTest.php	c469644f2b980186fd02862cc63b642c
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/UserSaveTest.php	220bb55f7d2574cb289122ddf3490843
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/VariableDelTest.php	0e2059f534b34535fd406d4de946b578
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/VariableGetTest.php	fcd638499b6a1c27fb37439bf45dd276
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/VariableSetTest.php	61287a5f85ff41004544b97b44fa39ed
+A	tests/src/Unit/Plugin/DMU/Converter/Functions/WatchdogTest.php	b4db30af14869f7d921dd225fea7a48b
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/DrupalMapAssocTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/DrupalWriteRecordTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/EntityGetInfoTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/FieldInfoFieldTypesTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/FieldInfoFormatterTypesTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/FieldInfoWidgetTypesTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/FieldUpdateFieldTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/FieldUpdateInstanceTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/FieldViewFieldTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/FieldViewValueTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/ModuleInvokeAllTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/ModuleInvokeTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/ThemeGetRegistryTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/ThemeTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/UserAccessTest.php	
+D	tests/src/Unit/Plugin/DMU/FunctionReplacement/WatchdogTest.php	
+A	tests/src/Unit/Plugin/DMU/Rewriter/FormStateTest.php	278df4dd72d21bf05cc8fc4b6273f26f
+A	tests/src/Unit/Plugin/DMU/Rewriter/GenericTest.php	3fccaeba6ada420f1e81d17461539d1f
+A	tests/src/Unit/Utility/Filter/ContainsLogicFilterTest.php	78475d98ee4152d2d82060f8a303e676
+A	tests/src/Unit/Utility/Filter/FieldValueFilterTest.php	82a38d3cbcffa322b13caa32d0d4f58c
+A	tests/src/Unit/Utility/Filter/FunctionCallArgumentFilterTest.php	c521c7394b8cee9a26cc1bd2211b11b7
+A	tests/src/Unit/Utility/Filter/NodeAssignmentFilterTest.php	8812cf2fd22f112fd3f284dba428fa12
+D	tests/src/Unit/Utility/PropertyAccessRewriterTest.php	

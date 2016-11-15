@@ -1,0 +1,10 @@
+M	CHANGELOG	5e10b6dcd38a019e62443343285c5f98
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	http_client.info	6867c8d05cc92279dc29853136b5c09c
+M	includes/HttpClient.inc	735eae1fcd9dd5178559619fd0e90147
+M	includes/HttpClientCurlDelegate.inc	d7183a7597ebc19d12a16754564d3efc
+D	includes/auth/basic/HttpClientBasicAuth.inc	
+D	includes/auth/oauth2/HttpClientOAuth2.inc	
+D	includes/auth/oauth2/README.org	
+D	includes/auth/oauth2/http_client_oauth2.info	
+D	includes/auth/oauth2/http_client_oauth2.module	

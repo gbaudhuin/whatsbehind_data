@@ -1,0 +1,15 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	config_inspector.info.yml	eb7976f46b5caa924efc4ee1f28a764e
+A	config_inspector.libraries.yml	0bdae6abaeaeecdadc206488e7c9b524
+A	config_inspector.links.task.yml	92a9703006aaa9431ad0445b546fe018
+A	config_inspector.module	32ef393c5215888a003bf8bda44a7569
+A	config_inspector.permissions.yml	f47f91d4fbb5b590cf2b132e17c93c33
+A	config_inspector.routing.yml	b43f28cba5cd93903b2660e0d78a7c1a
+A	config_inspector.services.yml	231f4268ba414f727eb1950b1d4db7ec
+A	css/config_inspector.css	889f313607602804d89679d6dd435582
+A	icons/error.png	023420d5c4239930d355fe1e613c9f92
+A	icons/error.svg	b90fe2f6dea3a14995c3a4af823e25b7
+A	src/ConfigInspectorManager.php	0fdcfd523ba34bd6906271970e610a9a
+A	src/Controller/ConfigInspectorController.php	615b6423370aedc468451e651b6f842d
+A	src/Form/ConfigInspectorItemForm.php	ae5cbbd8b201c9c05adb9fa626f86226
+A	src/Tests/ConfigInspectorUITest.php	fcb3ceb44d7ffb48cae6b7977fbfbc53

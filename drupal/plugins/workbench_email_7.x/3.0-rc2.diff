@@ -1,0 +1,10 @@
+M	CHANGELOG.txt	358f9e20eb8b1521eaed5991001702be
+M	README.txt	2804498e1e3dac0673421d8f0ebdb1dc
+D	css/workbench_email.css	
+M	js/workbench_email.js	9a288c1744262273f675e3ca27b0fbd5
+M	workbench_email.admin.inc	53685b9339fbd330c14979ae50d85f42
+A	workbench_email.api.php	0199a88c696d3eeab51f6b189a796ea3
+M	workbench_email.features.inc	231648dd9c649f280a737c0434bf724e
+M	workbench_email.info	78ff502a21cc5aaf612edfde4eff4e9d
+M	workbench_email.install	f8b0f0852ae7b68b6a6e848a364e8cb9
+M	workbench_email.module	0ae0f5a9b3e0fefd79395221f9088b94

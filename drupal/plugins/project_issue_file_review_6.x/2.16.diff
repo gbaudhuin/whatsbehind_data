@@ -1,0 +1,10 @@
+M	client/pifr_client.info	cde2fe0aeae106abbfb0adad9ede9d09
+M	pifr.info	10ca8b0379ea6c6d3ed21171ae63791a
+M	review/assertion/pifr_assertion.info	b0beecc7498c646cc010b7c6c2374895
+M	review/coder/pifr_coder.info	47cccfc2503f39201ef2fb2b85662bc9
+M	review/drupal/confirmation/install.patch	9b9256b0332e93565410b62ad5315867
+M	review/drupal/confirmation/syntax.patch	5fcbccfbc016f08644ed861f4a46fab1
+M	review/drupal/pifr_drupal.info	62c04a6280a36295f3d109558cc58707
+M	review/simpletest/pifr_simpletest.info	ebf0abd87fbc61649ff54e5812516c89
+M	server/pifr_server.info	3d1dab72dd7971777a81a6a041b8a7ed
+M	util/shell/pifr_shell.info	fe821e9870a5538fa22f74fe77e0191b

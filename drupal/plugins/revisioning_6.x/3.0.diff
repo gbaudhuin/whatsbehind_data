@@ -1,0 +1,31 @@
+M	CHANGELOG.txt	31c6694cc46d0899e4b12c0ba29dcc94
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	a61a75d87298471fa770b8b51ccaf915
+D	revisioning.admin.inc	
+M	revisioning.css	abdccf623960e97deb57111a090e86c7
+M	revisioning.info	a47fa4d535d0e26a42221012999599a6
+M	revisioning.install	84480f0154720a7faa1d9cdf07b48ae3
+M	revisioning.module	af4753cd09e3a4fc47ddc8f6d3b9b6e0
+D	revisioning.pages.inc	
+M	revisioning.rules.inc	80fb7859788cc8344e9f1b00a42364a8
+M	revisioning_api.inc	3e3a54ad72bb973a9556a5ebf3b8eebb
+D	revisioning_scheduler/revisioning_scheduler.info	
+D	revisioning_scheduler/revisioning_scheduler.install	
+D	revisioning_scheduler/revisioning_scheduler.module	
+D	revisioning_scheduler/revisioning_scheduler.views.inc	
+M	revisioning_theme.inc	1c2c0295e396c71bf87b25ffd73d5a09
+M	revisioning_tokens.inc	252689d5a10aa0aab47b13919b904662
+M	revisioning_triggers_actions.inc	2325d53b8c79c74143e17af5f025a7e3
+M	revisions-summary.tpl.php	99cb9b72c9d5311f3c955fa0bb4f3a4e
+D	views/revisioning.views.inc	
+D	views/revisioning.views_default.inc	
+D	views/revisioning_handler_field_node_last_editor.inc	
+D	views/revisioning_handler_field_node_number_of_revisions.inc	
+D	views/revisioning_handler_field_node_revision_moderation.inc	
+D	views/revisioning_handler_field_node_state.inc	
+D	views/revisioning_handler_field_revision_state.inc	
+D	views/revisioning_handler_filter_node_number_of_revisions.inc	
+D	views/revisioning_handler_filter_node_revision_moderation.inc	
+D	views/revisioning_handler_filter_node_state.inc	
+D	views/revisioning_handler_filter_revision_latest.inc	
+D	views/revisioning_handler_filter_revision_state.inc	

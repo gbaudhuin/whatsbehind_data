@@ -1,0 +1,36 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	fa99b2d8b99fa549d579fd56729d07e5
+A	dependencies/Mocks.inc	7c39b632fbaf4a276aa4b4496ca20d42
+A	dependencies/PMDependencies.inc	b55ccf774a9e6152953507e3703fc4eb
+A	dependencies/Production.inc	54538def9e825d038134e378843d793a
+D	drupalproject.inc	
+D	ftp.backend.inc	
+A	grabber/doproject.inc	7ddfd5a93046ae1510ab622e4840b916
+A	grabber/plugin_manager_do.info	6b0cca3553d8e9e0642b05e05f2c1011
+A	grabber/plugin_manager_do.install	06881414cfbb8b092894008ec55814ac
+A	grabber/plugin_manager_do.module	f139e1864473d05c1261e7acd0dc7d60
+A	images/action_dequeue.png	9e63f4dbc10f9d22fbee55063d5d0951
+A	images/action_dequeue_remove.png	7584f4b5e8e079177b91317d517c4cbb
+A	images/action_install.png	14030f3f65371549c08a118eece83f34
+A	images/action_unavailable.png	4091e2dcd0ed36d23543328800d7ac2f
+A	images/action_uninstall.png	1356222c9a5a1b73a71405e96aefdef8
+A	images/background3.png	3d4e546e648adefbbbebc53acf0eaf22
+A	images/details.png	b253c74f9734859cf350e0f4a99d5e4b
+A	images/summary.png	57fa4875c832f5815aab01fec4e5576a
+D	plugin_manager.admin.inc	
+D	plugin_manager.ajax.inc	
+A	plugin_manager.batch.inc	d0a2470792b7bbc704377aa40e82ec9f
+D	plugin_manager.fileutil.inc	
+M	plugin_manager.info	edbce8de6829cbb33bc0a1acb76a6c78
+M	plugin_manager.install	a0ba5d2b858f1fcde70a485fba8e2b21
+M	plugin_manager.module	7c1083176447ba00261b263822175a38
+A	plugin_manager.pages.inc	1b66eda17a98d863c03586d8fbda8f7d
+A	plugin_manager.tar.inc	7be3ad70f54d407cd75db43b91a5a27c
+A	plugin_manager_result_verbose.tpl.php	e23816dd77fcb20299937e9b977e65f5
+M	plugin_manager_search.css	80fdff57e00a717b841c3ff8b9444f4c
+M	plugin_manager_search.js	98cdfb21b498967a4b4a58775c11e519
+M	project.inc	4c379dd5aec68dd6eb62eb865415ce60
+D	ssh.backend.inc	
+A	tests/mockproject.inc	0723f9c58253c3218db8b03596d4859e
+A	tests/plugin_manager.test	8c1f9f1d45dd50cad3efd51918c1d6e6
+A	tests/plugin_manager_mocks.test	c5b3900027c2322c648b2779be4abcb9

@@ -1,0 +1,8 @@
+D	README.txt	
+D	juicebox.api.php	
+M	juicebox.info	0aee08cf337ae7797de6a5d7c77f1df4
+M	juicebox.install	faf3b2d5c87259b4a743481fcc026860
+M	juicebox.module	f167e50fff35b9f33b5045f8b2925de9
+M	juicebox.views.inc	f401ef387ab19066b74ad3b6c21b89a2
+M	plugins/juicebox_style_plugin.inc	05ceafcbc921010dba1ea7e536597a3b
+M	themes/juicebox.theme.inc	c9541639624f7dfb7fefd258a2866cd3

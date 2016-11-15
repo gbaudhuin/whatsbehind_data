@@ -1,0 +1,12 @@
+D	CHANGELOG.txt	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	bc540aa7df7020a77c38feee35479312
+M	images/up_arrow.png	5b77823c97eecd09c295cd85171ccc0b
+M	images/up_arrow_disabled.png	36aa14790445fe86689d723488c38531
+D	js/i18n.js	
+M	plupload.css	e43433b625efa0faef8629920a275f86
+M	plupload.info	b500f1e05484a4073541a3243685838d
+D	plupload.install	
+M	plupload.js	129c41327c75dabdb4ec3d159a7cefce
+D	plupload.make.example	
+M	plupload.module	3a1591701c25726d8bde219892174bfe

@@ -1,0 +1,19 @@
+M	INSTALL.txt	d41d8cd98f00b204e9800998ecf8427e
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	419c036a44edd3aeeb6d1a088644ebf7
+M	TODO.txt	caaa92d54ca2279bb2a4953e39efc25f
+M	USERS.txt	a592338a9719817395eebcbbfaa56308
+M	boost.admin.inc	9d3f8cb335086bf34bc635ded9245365
+A	boost.drush.inc	15dd6600ae9656c8055410ac79d40a66
+M	boost.info	86aa55c80d7fa8808e3d71fec0e5877e
+M	boost.install	49c68845255196a12c736192e95b62c6
+M	boost.module	e118122eb95a280076bdaea8893d2f12
+M	boost.rules.inc	22c3f434d00dff03261a4cb4b9fac283
+M	boost.test	6ee92ec28f39d4d692905ac4ce374cd5
+M	htaccess/boosted1.txt	73a99a65503b98b5b593b6dc5ab442c6
+M	htaccess/boosted2.txt	6c4c3fe17a4be747d169fdd89cb6c5a3
+M	htaccess/default.txt	11a8d60f6871a5a62202fa37cb7de954
+M	stats/boost_stats.ajax.inc	3562e1fcb2679d283846f1404a32e90b
+M	stats/boost_stats.php	029a58fff78c346305a3bee89f230377
+D	translations/boost.pot	
+D	translations/da.po	

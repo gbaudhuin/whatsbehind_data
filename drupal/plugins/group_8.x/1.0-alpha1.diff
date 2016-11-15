@@ -1,0 +1,165 @@
+M	composer.json	6a6666c8d96b5eb63975ca520603bce0
+M	config/install/group.settings.yml	b6bd3388f936429e54ca7cbcfa4ad189
+D	config/optional/views.view.group_members.yml	
+M	config/schema/group.schema.yml	005b9754e4677ed73c0d8cfadd88e445
+D	config/schema/group.views.schema.yml	
+D	group.api.php	
+M	group.group.permissions.yml	de43c24130c2c3a0e0be8af1e6e9e046
+M	group.info.yml	0860dd2e6af91e7e97cd457beb36820c
+D	group.install	
+M	group.links.action.yml	a2cdbbd7ccbbb6c05e9cca1c5ccbe67e
+M	group.links.task.yml	b7446bea16bcbf7eae88643f95abd4c8
+M	group.module	eff62dba686069ed52988ddf02e0e220
+D	group.post_update.php	
+M	group.routing.yml	e6cabd1965449f904509d3133b81bd31
+M	group.services.yml	a12c9af4b842d39b2c3557dd4d369f18
+D	group.tokens.inc	
+D	group.views.inc	
+D	modules/gnode/config/optional/views.view.group_nodes.yml	
+M	modules/gnode/gnode.info.yml	adda84341c6aa3f79d30862a989e4832
+D	modules/gnode/gnode.install	
+D	modules/gnode/gnode.links.action.yml	
+M	modules/gnode/gnode.module	7a917f48a58e05e8d1f342d323f9bbb6
+M	modules/gnode/gnode.routing.yml	b887f3457b4d8781989aa9a805f04e7a
+D	modules/gnode/gnode.services.yml	
+D	modules/gnode/src/Access/GroupNodeAddAccessCheck.php	
+M	modules/gnode/src/Controller/GroupNodeController.php	af54696eabf6ec7be863c006dc9c193a
+D	modules/gnode/src/Controller/GroupNodeWizardController.php	
+M	modules/gnode/src/Form/GroupNodeFormStep1.php	b8f3fae195eae9b11bd40e35de84dc68
+M	modules/gnode/src/Form/GroupNodeFormStep2.php	e15bd0cd7fbd230eb6303a887da1bc50
+M	modules/gnode/src/Plugin/GroupContentEnabler/GroupNode.php	7e210cc4e04c2bc55009fed70c248f57
+M	modules/gnode/src/Plugin/GroupContentEnabler/GroupNodeDeriver.php	27db7319d2d50b18c423338c2ef02e79
+M	modules/gnode/src/Routing/GroupNodeRouteProvider.php	d851f13b08a512082f66bdfe6f791516
+A	modules/gnode/templates/gnode-add-list.html.twig	249cda6a027db72df4813f627a043c78
+A	modules/gnode/templates/gnode-create-list.html.twig	42420b301bcbf1edc8c1a325e11b3715
+D	modules/grolesync/grolesync.info.yml	
+D	modules/grolesync/grolesync.links.task.yml	
+D	modules/grolesync/grolesync.module	
+D	modules/grolesync/grolesync.routing.yml	
+D	modules/grolesync/grolesync.services.yml	
+D	modules/grolesync/src/Form/GroupRoleSyncForm.php	
+D	modules/grolesync/src/GroupRoleSynchronizer.php	
+D	modules/grolesync/src/GroupRoleSynchronizerInterface.php	
+M	src/Access/GroupAccessResult.php	324ae60f014c00a2b6e8592c39bc2b93
+A	src/Access/GroupAddAccessCheck.php	3f0ac8f6b9b37f80800a5c8502dcadde
+D	src/Access/GroupContentCreateAnyAccessCheck.php	
+M	src/Access/GroupInstalledContentAccessCheck.php	dc92b0919511258f6c55f6553e4fb720
+M	src/Access/GroupMemberAccessCheck.php	8f11efd9323647e87d120c7fec54135c
+M	src/Access/GroupOwnsContentAccessCheck.php	206be29b3ca3cdbd4eea37c6140a67c4
+M	src/Access/GroupPermissionAccessCheck.php	5d22717007329c6dcb718b88fdb93c69
+M	src/Access/GroupPermissionHandler.php	d9a86d06e2d8b73100f0c34ff57c4fb9
+M	src/Access/GroupPermissionHandlerInterface.php	2fa0e3e2a9e4114ccf6ba2adb2a3b5a1
+M	src/Access/GroupPermissions.php	ad326107c2e8e8dfa86015f1e4c1d7a8
+M	src/Access/GroupPermissionsHashGenerator.php	3ef9500e750d439ef05e27ee36fd0f72
+M	src/Access/GroupPermissionsHashGeneratorInterface.php	d243b804bf050fc6f22abc9ec03a5754
+M	src/Annotation/GroupContentEnabler.php	598a45a790faa82bcf4b4595f4ce0aa3
+M	src/Breadcrumb/GroupContentTypeBreadcrumbBuilder.php	e6d559a2e4c753ee85c73b72b1750c1f
+M	src/Cache/Context/GroupCacheContext.php	91391f9c59830d96c15c5aca41da2b64
+M	src/Cache/Context/GroupCacheContextBase.php	2bd3f665caa247df9e2ba683436e767a
+D	src/Cache/Context/GroupMembershipAudienceCacheContext.php	
+M	src/Cache/Context/GroupMembershipCacheContext.php	e8aec5377a5ddf4a0009b9f0e1440b15
+M	src/Cache/Context/GroupMembershipCacheContextBase.php	f9b7c646e91a3d07eb5b306974b1a50f
+M	src/Cache/Context/GroupMembershipPermissionsCacheContext.php	bff85ebfdb983ea7ff6b6804d59d12f2
+D	src/Cache/Context/GroupMembershipRolesCacheContext.php	
+M	src/Cache/Context/GroupTypeCacheContext.php	67599c00e711155306c73081165553d0
+M	src/Context/GroupRouteContext.php	75771a6320e4aa58b734e7715eec0199
+D	src/Context/GroupRouteContextTrait.php	
+M	src/Controller/GroupMembershipController.php	48150301cd9290ad7497e01309185a1e
+M	src/Entity/Access/GroupAccessControlHandler.php	99a0f062a4407e5b1aa207b97e78f98a
+M	src/Entity/Access/GroupContentAccessControlHandler.php	4b091e028b84850c14854aa5a58c9596
+M	src/Entity/Access/GroupContentTypeAccessControlHandler.php	c3b112574eec02db59dd473d2c16cf43
+M	src/Entity/Access/GroupRoleAccessControlHandler.php	4a1d246971ca303d8442a76d9a804c0d
+M	src/Entity/Access/GroupTypeAccessControlHandler.php	66c9b0089229823f62ad3751419aa32a
+M	src/Entity/Controller/GroupContentController.php	e76cdcb1984bcab31d7ac1df8fa764fc
+M	src/Entity/Controller/GroupContentListBuilder.php	7c2e425b6ef49768c4102e6c6e65e55e
+A	src/Entity/Controller/GroupController.php	7b313cc66b0858fd8cbe17ced031d638
+M	src/Entity/Controller/GroupListBuilder.php	d4c0dd5c44d5c66e764de3f05b833bde
+M	src/Entity/Controller/GroupRoleController.php	af908cb02a8d37c15e82337461ebac7a
+M	src/Entity/Controller/GroupRoleListBuilder.php	b3e6521478f796d147cfac48d5a6a9d5
+M	src/Entity/Controller/GroupTypeController.php	fbc435cedd38a10bc73fabf0e15798e5
+M	src/Entity/Controller/GroupTypeListBuilder.php	4ce24b6eb37573c3121598c349970337
+M	src/Entity/Form/GroupContentDeleteForm.php	ae39ecab2c4752fc154aecf6ff8a9135
+M	src/Entity/Form/GroupContentForm.php	5f308de3db8c83787a867ef353710e3b
+D	src/Entity/Form/GroupContentTypeDeleteForm.php	
+D	src/Entity/Form/GroupContentTypeForm.php	
+M	src/Entity/Form/GroupDeleteForm.php	a98706aad02513f9c91011ce09fc4abb
+M	src/Entity/Form/GroupForm.php	5b81120a7c97f4a3a4cb28f2755e6c02
+M	src/Entity/Form/GroupRoleDeleteForm.php	6b016dec6d8d0f73010ceb303175892c
+M	src/Entity/Form/GroupRoleForm.php	d662ecea8ff4713a26052a9ca8d952f7
+M	src/Entity/Form/GroupTypeDeleteForm.php	4bf3541ccbaf86bf3303b61bd8911d0d
+M	src/Entity/Form/GroupTypeForm.php	17ba9c3049d180003b7e52622b32879c
+M	src/Entity/Group.php	ff16a083ca5323ab8c05a37687adf57c
+M	src/Entity/GroupContent.php	e45a1dba5ddfd48ca97e40e3ce5a8d16
+M	src/Entity/GroupContentInterface.php	cba598b4c71f391b7910918e5e9f6a3f
+M	src/Entity/GroupContentType.php	41f113025ca461c9a2f54bd2e351d927
+M	src/Entity/GroupContentTypeInterface.php	d28e40d9316c1edba2f2a1f626574d52
+M	src/Entity/GroupInterface.php	edcca1962b40ec518fba0ef058260109
+M	src/Entity/GroupRole.php	acec448e0dc5ad485ae32b3e26331fc6
+M	src/Entity/GroupRoleInterface.php	bd3d66e1076e13bb04e13a3d5c62c5da
+M	src/Entity/GroupType.php	d0a11b3b54ecefcf97d6ba3e829576f9
+M	src/Entity/GroupTypeInterface.php	90aa76f021aaa3ac7e4eff51a50ad641
+M	src/Entity/Routing/GroupContentRouteProvider.php	194ae11253306c4904e10110b84cc27b
+M	src/Entity/Routing/GroupRouteProvider.php	259ca5773777fbc378909a75e7518cc5
+D	src/Entity/Storage/GroupContentStorage.php	
+D	src/Entity/Storage/GroupContentStorageInterface.php	
+D	src/Entity/Storage/GroupContentTypeStorage.php	
+D	src/Entity/Storage/GroupContentTypeStorageInterface.php	
+D	src/Entity/Storage/GroupRoleStorage.php	
+D	src/Entity/Storage/GroupRoleStorageInterface.php	
+D	src/Entity/ViewBuilder/GroupViewBuilder.php	
+M	src/Entity/Views/GroupContentViewsData.php	a474ed99f91d0be8e7a54132ff3185cf
+M	src/Entity/Views/GroupViewsData.php	bccf8a948d13517b5e7bf49cd4475e7f
+M	src/Form/GroupJoinForm.php	9ddd057edfe057b055efd8981f206e58
+M	src/Form/GroupLeaveForm.php	c1810d7166ea89e6af2a8a4c2c9f7e13
+M	src/Form/GroupPermissionsForm.php	4cdec190802a4c773d12d754df188797
+M	src/Form/GroupPermissionsRoleSpecificForm.php	d4bbfb8ea0cbfecdc25eeb29e725c12c
+M	src/Form/GroupPermissionsTypeSpecificForm.php	0505ff8b6a4d92fecad4115329f2397d
+M	src/Form/GroupSettingsForm.php	db5ffac39fcd594698f48d9df760239e
+M	src/GroupMembership.php	7477bbabbc7f78eb137d31398efff0da
+D	src/GroupMembershipLoader.php	
+D	src/GroupMembershipLoaderInterface.php	
+M	src/Plugin/Block/GroupOperationsBlock.php	8757791a9dd88341a2f52bb8557d3997
+M	src/Plugin/Condition/GroupType.php	b70e049782d8e02dd3f69710b672316a
+M	src/Plugin/EntityReferenceSelection/GroupTypeRoleSelection.php	d19bd87494a9cec70b0a14445e133c89
+M	src/Plugin/GroupContentEnabler/GroupMembership.php	d8606fc63bfe25fcec0ac6ad11d27238
+M	src/Plugin/GroupContentEnablerBase.php	4b722ec85a590c2272ac15a26d81878c
+M	src/Plugin/GroupContentEnablerCollection.php	9f921730808f17946796a1319fc76559
+A	src/Plugin/GroupContentEnablerHelper.php	3852c1c9ad0708c852a12e02c4e4b34b
+M	src/Plugin/GroupContentEnablerInterface.php	d57105abc539e4c9830c217bdabf1449
+M	src/Plugin/GroupContentEnablerManager.php	aa7e8834b1d398443ef2f444fbd5d4b1
+D	src/Plugin/GroupContentEnablerManagerInterface.php	
+A	src/Plugin/Menu/LocalAction/GroupContentDynamic.php	4c439d7a8ace64ccdc12efe1425e86e1
+A	src/Plugin/Menu/LocalAction/GroupContentDynamicDeriver.php	4eb09bca4c844bc491d819393631e31f
+D	src/Plugin/Menu/LocalAction/WithDestination.php	
+M	src/Plugin/Validation/Constraint/GroupContentCardinality.php	93dc5d4d2231634221bae4066e1756d6
+M	src/Plugin/Validation/Constraint/GroupContentCardinalityValidator.php	8b7e655130cf1f5c02b9eee1488da538
+D	src/Plugin/views/access/GroupPermission.php	
+D	src/Plugin/views/argument/GroupId.php	
+D	src/Plugin/views/argument_default/GroupIdFromUrl.php	
+D	src/Plugin/views/relationship/GroupContentToEntity.php	
+D	src/Plugin/views/relationship/GroupContentToEntityBase.php	
+D	src/Plugin/views/relationship/GroupContentToEntityReverse.php	
+D	src/ProxyClass/UninstallValidator/GroupContentUninstallValidator.php	
+M	src/Routing/GroupAdminRouteSubscriber.php	f232dedeca25590efbeb3984a88d1c13
+A	src/Tests/GroupTest.php	2f361d548093ffbc6e414df518d9450c
+A	src/Tests/GroupTestBase.php	9e74b5febda5604aaee45ceb21c27265
+D	src/UninstallValidator/GroupContentUninstallValidator.php	
+A	templates/group-add-list.html.twig	006a202734cec5fcf12311cf721bc211
+D	templates/group-content.html.twig	
+D	templates/group.html.twig	
+D	tests/modules/group_test_config/config/install/group.content_type.default-group_membership.yml	
+D	tests/modules/group_test_config/config/install/group.role.default-custom.yml	
+D	tests/modules/group_test_config/config/install/group.role.default-member.yml	
+D	tests/modules/group_test_config/config/install/group.role.default-outsider.yml	
+D	tests/modules/group_test_config/config/install/group.type.default.yml	
+D	tests/modules/group_test_config/group_test_config.info.yml	
+D	tests/modules/group_test_config/sync/group.type.import.yml	
+D	tests/modules/group_test_views/group_test_views.info.yml	
+D	tests/modules/group_test_views/test_views/views.view.test_group_id_argument.yml	
+D	tests/src/Kernel/GroupCreatorTest.php	
+D	tests/src/Kernel/GroupTokenReplaceTest.php	
+D	tests/src/Kernel/GroupTypeCreateTest.php	
+D	tests/src/Kernel/GroupTypeImportTest.php	
+D	tests/src/Kernel/GroupTypeInstallTest.php	
+D	tests/src/Kernel/GroupTypeTest.php	
+D	tests/src/Kernel/Views/GroupIdArgumentTest.php	

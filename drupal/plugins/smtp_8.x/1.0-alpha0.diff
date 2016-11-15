@@ -1,0 +1,9 @@
+D	composer.json	
+M	config/install/smtp.settings.yml	5164f3f354e401b0bf7eec4d32f13674
+M	smtp.info.yml	20a31792b6cec71ae8edb1752bdfe7f8
+M	smtp.install	52b4904e8da70fdbb627a6662856fca5
+M	smtp.module	669acce169213831e5bfc2c13b2966cc
+M	src/Form/SMTPConfigForm.php	d82bda6e609378d2fedc9d8945b7610c
+M	src/PHPMailer/PHPMailer.php	b8121c3c58180349e301fdca71397d07
+M	src/PHPMailer/SMTP.php	38316e0a11329f6de386a9e792c4dec2
+M	src/Plugin/Mail/SMTPMailSystem.php	7717dc84d01e1c947adc7af66df0c146

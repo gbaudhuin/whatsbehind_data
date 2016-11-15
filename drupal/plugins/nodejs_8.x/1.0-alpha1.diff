@@ -1,0 +1,10 @@
+M	nodejs.info.yml	027a8058fdff2da183b721e262b332ec
+M	nodejs.install	8518c1621a37d28974d471ad50d7e54d
+M	nodejs.js	109c6b1ab14e2109aa59ca0a942e65f1
+M	nodejs.module	d1ed5d76a386250804b88c541099732b
+M	nodejs_ajax/nodejs_ajax.info.yml	85f8271a67fba575ef6f56627d5b40ad
+M	nodejs_config/nodejs_config.info.yml	657870029102bf5852c176579c228648
+M	nodejs_notify/nodejs_notify.info.yml	97a6cf83a20f0136bc0a2055152bbb12
+M	nodejs_watchdog/nodejs_watchdog.info.yml	f8749bca25214b47fee0503384a8bdda
+M	src/Controller/NodejsPages.php	72970fce91e21915660901fa277e6b1b
+M	src/Nodejs.php	7e10358a17ccbff24c4c7f9063319a5d

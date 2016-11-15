@@ -1,0 +1,10 @@
+M	.gitignore	0f9b47aba3d87007ffb6074a6e15f81b
+M	README.txt	5c720893e29bd500ae65e5ff75ccad2e
+M	js/lightbox.js	65e356595fa339525e4f9d6bdc341e8f
+M	js/lightbox_video.js	678455b2f59f170e4eac0eb6faa4517a
+M	lightbox2.formatter.inc	e77c569ec855c1f6a1b12ae0912061c4
+M	lightbox2.info	27e8d3eb202f0ca7505c3751bd40fdec
+M	lightbox2.insert.inc	8d0377f9ba9858e8780fac45a1af0ae3
+M	lightbox2.module	0183eef25778f39b592f10593feebaae
+M	lightbox2.views.inc	54b1d7d51b6250b6308c35a88ac06bd4
+M	lightbox2_handler_field_lightbox2.inc	31a63625aae46a22936ff461965ebd3b

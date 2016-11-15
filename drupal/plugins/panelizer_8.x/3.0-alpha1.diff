@@ -1,0 +1,17 @@
+M	CHANGELOG.txt	025bb40b939794fde4b2ae5fbc6f4e19
+M	panelizer.info.yml	bd3363521ee8068fa010ce31843aadc0
+M	panelizer.module	073a36c9ad98fff985d00a4fba5b19c2
+D	src/Exception/PanelizerException.php	
+M	src/Panelizer.php	d11dcfb2dfa5b7caed11f4f992b27c48
+M	src/PanelizerEntityViewBuilder.php	6faa14c11f57f52986033cb372722a3b
+M	src/PanelizerInterface.php	536f5602431e79a8f43babab9464400f
+M	src/Plugin/Field/FieldType/PanelizerFieldType.php	b77e3b5ec967e3686092211d3923385c
+M	src/Plugin/PanelizerEntity/PanelizerNode.php	5029b68854a8d373e61098fc0a3a3378
+M	src/Plugin/PanelsStorage/PanelizerDefaultPanelsStorage.php	e0177a710925b62e1f5147af2178a072
+M	src/Plugin/PanelsStorage/PanelizerFieldPanelsStorage.php	1973b18ebf5ffeb27e66dbe67de19dcc
+D	src/Tests/PanelizerNodeFunctionalTest.php	
+D	tests/modules/panelizer_test/panelizer_test.info.yml	
+D	tests/modules/panelizer_test/src/Plugin/Block/PanelizerTestBlock.php	
+D	tests/src/Unit/PanelizerDefaultPanelsStorageTest.php	
+M	tests/src/Unit/PanelizerEntityViewBuilderTest.php	668e7926bdac28e8f87605c7273699b3
+D	tests/src/Unit/PanelizerFieldPanelsStorageTest.php	

@@ -1,0 +1,68 @@
+D	README.txt	
+M	field_validation.default_field_validation_rules.inc	343f51825b290a2f3b8a3073834764f3
+D	field_validation.feeds.inc	
+M	field_validation.info	2f209a69a1f9566f6f3f581c0a11338c
+M	field_validation.install	5c4bbe4e9ab95c417470e7456cefee79
+M	field_validation.module	b6f1af3a5c50cfed1cdab5c9f075eaed
+D	field_validation_extras/field_validation_extras.info	
+D	field_validation_extras/field_validation_extras.module	
+D	field_validation_extras/plugins/validator/field_validation_color_validator.inc	
+D	field_validation_extras/plugins/validator/field_validation_date_validator.inc	
+D	field_validation_extras/plugins/validator/field_validation_ean_validator.inc	
+D	field_validation_extras/plugins/validator/field_validation_field_collection_unique_validator.inc	
+D	field_validation_extras/plugins/validator/field_validation_int_validator.inc	
+D	field_validation_extras/plugins/validator/field_validation_ip_validator.inc	
+D	field_validation_extras/plugins/validator/field_validation_numeric_validator.inc	
+D	field_validation_extras/plugins/validator/field_validation_pcre_validator.inc	
+D	field_validation_extras/plugins/validator/field_validation_phone_validator.inc	
+D	field_validation_extras/plugins/validator/field_validation_postal_code_validator.inc	
+D	field_validation_extras/plugins/validator/field_validation_required_validator.inc	
+D	field_validation_extras/plugins/validator/field_validation_someofseveral_validator.inc	
+D	field_validation_ui.admin.inc	
+M	field_validation_ui.info	c2431385c97d34c9271ef3e7ab896ba0
+M	field_validation_ui.module	0eadb33db2b88d833c87fc7411396e60
+M	field_validation_validator.inc	6192224a0eb20ae252f6ae0e228a2091
+M	plugins/export_ui/field_validation_export_ui.inc	a6917f269f10d1d20dfb87aa82584b6d
+D	plugins/validator/field_validation_blacklist_validator.inc	
+D	plugins/validator/field_validation_date_range2_validator.inc	
+D	plugins/validator/field_validation_email_validator.inc	
+D	plugins/validator/field_validation_equal_values_validator.inc	
+D	plugins/validator/field_validation_length_validator.inc	
+D	plugins/validator/field_validation_match_field_validator.inc	
+D	plugins/validator/field_validation_match_property_validator.inc	
+A	plugins/validator/field_validation_min_length_validator.inc	fc616b9a7a6765430abbb8f2c1f55f13
+D	plugins/validator/field_validation_must_be_empty_validator.inc	
+D	plugins/validator/field_validation_number_of_selections_validator.inc	
+D	plugins/validator/field_validation_numeric2_validator.inc	
+D	plugins/validator/field_validation_oneofseveral_validator.inc	
+D	plugins/validator/field_validation_pattern_validator.inc	
+D	plugins/validator/field_validation_php_validator.inc	
+D	plugins/validator/field_validation_plain_text_validator.inc	
+D	plugins/validator/field_validation_regex_validator.inc	
+D	plugins/validator/field_validation_specific_value_validator.inc	
+D	plugins/validator/field_validation_unique_validator.inc	
+D	plugins/validator/field_validation_unique_values_validator.inc	
+D	plugins/validator/field_validation_url_validator.inc	
+D	plugins/validator/field_validation_words_validator.inc	
+D	property_validation/plugins/export_ui/property_validation_export_ui.inc	
+D	property_validation/plugins/validator/property_validation_blacklist_validator.inc	
+D	property_validation/plugins/validator/property_validation_date_range_validator.inc	
+D	property_validation/plugins/validator/property_validation_email_validator.inc	
+D	property_validation/plugins/validator/property_validation_length_validator.inc	
+D	property_validation/plugins/validator/property_validation_match_field_validator.inc	
+D	property_validation/plugins/validator/property_validation_match_property_validator.inc	
+D	property_validation/plugins/validator/property_validation_must_be_empty_validator.inc	
+D	property_validation/plugins/validator/property_validation_numeric_validator.inc	
+D	property_validation/plugins/validator/property_validation_pattern_validator.inc	
+D	property_validation/plugins/validator/property_validation_php_validator.inc	
+D	property_validation/plugins/validator/property_validation_plain_text_validator.inc	
+D	property_validation/plugins/validator/property_validation_regex_validator.inc	
+D	property_validation/plugins/validator/property_validation_specific_value_validator.inc	
+D	property_validation/plugins/validator/property_validation_unique_validator.inc	
+D	property_validation/plugins/validator/property_validation_url_validator.inc	
+D	property_validation/plugins/validator/property_validation_words_validator.inc	
+D	property_validation/property_validation.default_property_validation_rules.inc	
+D	property_validation/property_validation.info	
+D	property_validation/property_validation.install	
+D	property_validation/property_validation.module	
+D	property_validation/property_validation_validator.inc	

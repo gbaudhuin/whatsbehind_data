@@ -1,0 +1,35 @@
+D	2811273-10.patch	
+A	includes/JuiceboxConnector.inc	a254865fdbf89c739e798aa21fccfb84
+M	includes/JuiceboxGallery.inc	beba3716b24219e1a00f7eb4b5eec450
+D	includes/JuiceboxGalleryDecorator.inc	
+D	includes/JuiceboxGalleryDrupal.inc	
+D	includes/JuiceboxGalleryDrupalInterface.inc	
+M	includes/JuiceboxGalleryInterface.inc	eb36d8d3f8b9d9f79b11f3398e5ef0f6
+D	includes/juicebox.admin.inc	
+D	includes/juicebox.field.inc	
+D	js/juicebox_load.js	
+M	juicebox.api.php	db4cde825139e64ce0f8e2d1adb6dc0d
+M	juicebox.info	59087f482f244dab7b87ad783d62817a
+M	juicebox.install	c00defa231089e031f133df0338f70c8
+M	juicebox.module	6602af578637a38eebedae5214ec30ab
+A	plugins/JuiceboxConnectorField.inc	73d9c1b1647af9e5c54203806d87fc8e
+A	plugins/JuiceboxConnectorViewsStyle.inc	008b264c6788e00e5e46b5087b0565b9
+D	plugins/JuiceboxFormatterViewsStyle.inc	
+A	plugins/JuiceboxViewsStylePlugin.inc	5b82287012d533a81150063146c7c626
+D	plugins/JuiceboxXmlField.inc	
+D	plugins/JuiceboxXmlInterface.inc	
+D	plugins/JuiceboxXmlViewsStyle.inc	
+D	tests/JuiceboxBaseCase.test	
+D	tests/JuiceboxConfCase.test	
+D	tests/JuiceboxConfGlobalCase.test	
+D	tests/JuiceboxFieldFormatterCase.test	
+D	tests/JuiceboxFileCase.test	
+D	tests/JuiceboxFileEntityCase.test	
+D	tests/JuiceboxSubRequestCase.test	
+D	tests/JuiceboxViewsCase.test	
+D	tests/views/default_views/test_file_base.view	
+D	tests/views/default_views/test_node_base.view	
+D	tests/views/default_views/test_row_formatter.view	
+D	tests/views/juicebox_views_test.info	
+D	tests/views/juicebox_views_test.module	
+M	themes/juicebox.theme.inc	b3f0c9f23e705d518f4abdbf77a65eab

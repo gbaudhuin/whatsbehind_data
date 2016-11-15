@@ -1,0 +1,35 @@
+D	.cvsignore	
+D	ChangeLog	
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README-PUID.txt	2f37cab554f0beafae9727a8b7c03a8c
+A	changelog.txt	f4dcf88b797b64938717964faddf83f5
+M	includes/LDAPInterface.inc	0b299e1f1b7da18a0452607703742f15
+A	includes/ldap.core.inc	17c7976547913a4c17fc898d6029b6d2
+M	ldapauth.admin.inc	cf4142c4580b502dcc1b661ef033d16c
+M	ldapauth.admin.js	3ae1f07c98dd19b60e764c553386b7d0
+A	ldapauth.api.php	1eb1ff8e0fbc295f5d606df9627401cc
+A	ldapauth.features.inc	c91dd3f208573bba07eb09fe4aac2caf
+M	ldapauth.info	49905d978573f34d5bfbdf0438f36899
+M	ldapauth.install	49a2b024c91f2eac175aa08929450c2a
+M	ldapauth.module	3808edd3f25110eafcde2a1bb67a68de
+M	ldapauth.theme.inc	586a3f9c896ceacb288e7961ac738c7d
+M	ldapdata.admin.inc	7a69a8e8b5bd7541e6f4e7b3efe9e20f
+M	ldapdata.info	289c9a8add6c43e4f18546cfc44e2add
+M	ldapdata.install	07493c16e1831fa3f8798de9fcb60edb
+M	ldapdata.module	1ea6aaefbf578f6e143d7bd5de15b69c
+M	ldapdata.theme.inc	2889173c5e4b3c49f96bb1e44fe972b2
+M	ldapgroups.admin.inc	d3d2714c0905a4c5d5ff35f20f943fe4
+A	ldapgroups.api.php	0c3150e1754bced6ec21c747bfbc81ae
+M	ldapgroups.inc	4af453e8e5bbd995ced9a1846ecbfc34
+M	ldapgroups.info	38a5ac0f1ea104767a26c0b9fa873ffd
+M	ldapgroups.install	da83e180e3346979a6a38da5e93e56cb
+M	ldapgroups.module	782ea79f566c4bc71f74dc83661c9cbc
+A	ldaphelp/ldaphelp.css	46ed435e1affe620f35434adac9f11a3
+A	ldaphelp/ldaphelp.info	6f5b4a558b60623f0d04808f6ebcd841
+A	ldaphelp/ldaphelp.module	f9e12456f9d0458af82ef9bb824cec26
+A	ldaphelp/ldaphelp_status.inc	9e9762edaa6924ee382615f1a4b65ac9
+A	ldaphelp/ldaphelp_wizard.inc	f1aa37d5f82530ea90a24dca8b92476d
+A	ldapsync.admin.inc	43901d4cde66c8a585498942f966f311
+A	ldapsync.info	39e2e14fdfda3e79e3452941c98338bf
+A	ldapsync.install	88a5ee239b4a6372562728d065866641
+A	ldapsync.module	81626eb49a9ed5bf19febed302731f10

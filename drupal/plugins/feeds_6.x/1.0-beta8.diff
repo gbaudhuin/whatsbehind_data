@@ -1,0 +1,13 @@
+M	CHANGELOG.txt	1ced3d1f547a8b6b614eb73eae99747e
+M	feeds.info	bd15656310093f186acf3aba126118df
+M	feeds.install	bb7ece7858ba1bed5004ec3fb0f220c3
+M	feeds.module	4e128599b081c08df7387ad1c68bd5fc
+M	feeds_fast_news/feeds_fast_news.info	f33223cdcda1e77fe513a1234a67ce14
+M	feeds_import/feeds_import.info	7b15a319eeb7d63548db2afa01ff728a
+M	feeds_news/feeds_news.info	2dc6e6c6146ddcdb2171a84ab4e745df
+M	feeds_ui/feeds_ui.info	2a7acbf2ade44957e0a4d11a324f516d
+M	includes/FeedsConfigurable.inc	2bdc18800bed1ec69d63dea15f8489c9
+M	mappers/emfield.inc	890d920421604895c853fa55e6aa00d3
+M	plugins/FeedsDataProcessor.inc	bfb1a0b1e4dc8f27492f676d920e3518
+M	plugins/FeedsParser.inc	a41a72221524bc1f130a370e1fb2483c
+A	tests/feeds_date_time.test	c147f87a7099bb293c627b11b49ac764

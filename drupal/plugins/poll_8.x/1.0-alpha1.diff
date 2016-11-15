@@ -1,0 +1,56 @@
+D	config/install/core.entity_view_mode.poll.teaser.yml	
+M	config/install/views.view.poll_admin.yml	7025952110c59926b4adfd607f3e82eb
+D	js/poll.admin.js	
+M	poll.info.yml	c16606193dd9855038c5bd28387036a0
+M	poll.install	4338c96c77934f2e48c1abf8bbb6d55a
+M	poll.libraries.yml	0d181277ca0f05051e444aee6d9046d3
+M	poll.links.task.yml	ddc39dce5258713e3dbd15967bca24a3
+M	poll.module	e3f805d6440dc7932ed2cc2ff6b63305
+M	poll.routing.yml	cf2e07960b76b604f5c1354deaaa1952
+M	poll.services.yml	e00cbf2461e56a2d67e498ba88100593
+M	poll.tokens.inc	d4d710d7138f36541b206b7776617186
+M	src/Controller/PollController.php	559ad651016b7e12c4072ac374d742d8
+M	src/Entity/Poll.php	d8da6e1e2b64590d51093038ff94b158
+D	src/Entity/PollChoice.php	
+M	src/Form/PollDeleteForm.php	e9ca6347c0a04d92523ee461b3ccdfb9
+M	src/Form/PollForm.php	48344fc613aabf17484d3177bf36ed59
+M	src/Form/PollItemsDeleteForm.php	7b03e40befbc54aadbcdafa0d705cadd
+D	src/Form/PollSettingsForm.php	
+M	src/Form/PollViewForm.php	b4853d25363dc4425515ce54f1159df6
+M	src/Form/PollVoteDeleteForm.php	7adb310516058df65578541c1bb8bc74
+M	src/Plugin/Block/PollRecentBlock.php	a7b7646a5cf351d04927ff657c34faee
+A	src/Plugin/Field/FieldFormatter/PollChoiceDefaultFormatter.php	f2cc24b381da6f77076795ac9fea38cb
+A	src/Plugin/Field/FieldType/PollChoiceItem.php	93b466ae8bf430ef6201f6eca0ea8beb
+M	src/Plugin/Field/FieldWidget/PollChoiceDefaultWidget.php	22b8fc5559ba6b4476482e6a23eb7014
+M	src/Plugin/views/field/PollStatus.php	a77f9b2563d9fc0e82555ac78085ec13
+M	src/Plugin/views/field/PollTotalVotes.php	f4586a48346c25ea9841309c264b07a9
+M	src/PollAccessControlHandler.php	98f25b4b2f24a3a71e688f10c0a23246
+D	src/PollChoiceInterface.php	
+D	src/PollChoiceTranslationHandler.php	
+D	src/PollChoiceTranslationMetadataWrapper.php	
+M	src/PollInterface.php	0af637438b6c4da1ef4f2ff6dece8d52
+M	src/PollListBuilder.php	e1777d1d0eacb4df9828b6c523da6895
+M	src/PollPostRenderCache.php	585d5ca7e344360c2ac673f1b8ac1c98
+M	src/PollStorage.php	42748dfdcd37b119f1bf76d5a035f269
+M	src/PollStorageInterface.php	0c7abffa99dbeba88084ab133bb1d9bc
+M	src/PollViewBuilder.php	67ca64893c312a9cc816987419608c5c
+M	src/PollViewData.php	a9dca04f16e1b647acf87ae20f344cf2
+D	src/PollVoteStorage.php	
+D	src/PollVoteStorageInterface.php	
+M	src/Tests/PollBlockTest.php	18a099d570e7f9063441d0c3d7ad7c1e
+M	src/Tests/PollCreateTest.php	b71a669568082337a6af1755255cdf43
+M	src/Tests/PollDeleteChoiceTest.php	c89bb23ac77658c5d2c182ff7f65bd06
+M	src/Tests/PollExpirationTest.php	a5a86714d1189d9872ac7530e1fa0655
+D	src/Tests/PollFieldUITest.php	
+D	src/Tests/PollHtmlSpecialCharactersTest.php	
+M	src/Tests/PollListTest.php	a814e73d8a3a937322f181041545e2e4
+M	src/Tests/PollTestBase.php	ef570795031686d4785bc2fa7ccda178
+M	src/Tests/PollTokenReplaceTest.php	b8804113660eb266f2fd76cca043ba6c
+M	src/Tests/PollViewTest.php	2b6f3f48ab743b0930beaf4ad23e3c87
+M	src/Tests/PollVoteCheckHostnameTest.php	76f9d20884debc397053c68e07c5bfa8
+D	src/Tests/PollVoteMultilingualTest.php	
+M	src/Tests/PollVoteTest.php	cc81855ca55a4ae2c85148e64ffd5393
+M	templates/poll-meter.html.twig	dd56b79ba7ebd29b845a36761f8bdf9f
+M	templates/poll-results.html.twig	d523b591045654796b87ac994cf6f057
+M	templates/poll-vote.html.twig	1f60623ce305c7868fff97975fbc5471
+D	tests/src/FunctionalJavascript/PollVoteJavascriptTest.php	

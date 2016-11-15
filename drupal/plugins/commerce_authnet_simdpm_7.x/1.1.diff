@@ -1,0 +1,7 @@
+M	CHANGELOG.txt	244ef0dee397c9c4e462ee4cef1b45b6
+M	README.txt	d9ac2af05d1ecf93f8a1d6a18f504d31
+M	commerce_authnet_simdpm.info	dbb14055787728813b59add3c69daa06
+M	commerce_authnet_simdpm.module	86921cf2c8f2036591d717cbcb0b8678
+A	modules/capture/commerce_authnet_simdpm_capture.info	b8738a93409ce4c457a8bb2395980aa3
+A	modules/capture/commerce_authnet_simdpm_capture.module	426c3e1ef531a466a2f1ef338154cb20
+A	modules/capture/includes/commerce_authnet_simdpm_capture.admin.inc	4b1fbc9256bd3d5a127c00f25dc4a3d8

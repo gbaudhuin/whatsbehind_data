@@ -1,0 +1,45 @@
+A	ISunMailerContentEventHandler.interface.php	31624fe318ac2e08a9439a310ec1fc0e
+A	ISunMailerSubscriptionAggregator.interface.php	2ec76cc6f7ab5fd8729682a90d9ab117
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	f434eea73fcea9a5d748c82a746ff57f
+A	SunMailerContentBuilder.class.php	04b16b6148722abfc682775071f6ff41
+A	SunMailerContentEventHandler.class.php	f6326b43b024a12d7754f3036a20095b
+A	SunMailerDesign.class.php	9dc0c51fb1b867a2c555e429a2370cbd
+A	SunMailerMailer.class.php	0120f48a85922f12a4f44e07aa90f951
+A	SunMailerNewsletter.class.php	fc35a30b049ef1548e6add38a9216fbd
+A	SunMailerSchedule.class.php	4d4bb531a00b7b0447a20038bf356d94
+A	SunMailerSection.class.php	bd3d26eea5e41d54293851e6dc879344
+A	SunMailerStatistics.class.php	e68bfe3a4db1a6ff3b9f10c9ee4089a6
+A	SunMailerSubscriber.class.php	d048540181a8c6fbac956061349f2701
+A	SunMailerSubscriptionAggregator.class.php	b55e82df5cb0ebdfa9ec8aaf67a2a292
+D	help/administer-dependencies.html	
+D	help/administer-permissions.html	
+D	help/administer-phpmailer.html	
+D	help/administer.html	
+A	help/alter-xml.html	985f2f077eb28ea0dd7e96ac0f01bfec
+D	help/configure-content.html	
+D	help/configure-formats.html	
+D	help/configure.html	
+A	help/overview.html	4adddf2d26011b7c40b5cbcedaa586fa
+A	help/phpmailer.html	41390600e2786b684c80c98c88bed4f8
+D	help/send-custom.html	
+D	help/send-newsletter.html	
+D	help/send.html	
+D	help/statistics.html	
+D	help/subscribe.html	
+M	help/sunmailer.help.ini	ad64dacaee9d3f1c36f5a264da9aa462
+A	help/xsl-design.html	18e59c35f938f1ccbb04aa04a8ae1454
+M	html-default.xsl	b4f9b5366f4149e2ca8e0f0dc311f222
+M	sunmailer.admin.inc	8afe27e14e048b16a0717f2bbd03c33f
+A	sunmailer.content.inc	e8cd44ae1b6ca6fde9815b33ab18d575
+M	sunmailer.info	76c626bd9877514e4d5d74d8e1ced872
+M	sunmailer.install	d14149977a58258ff79c0aaaa2afefc4
+A	sunmailer.jquery.js	3ef0d9b51d6671a98dc69c5c65691488
+A	sunmailer.mail-schedule.css	f3dc2a9b86909900a2410efd5cbfb09f
+M	sunmailer.mail.inc	3ba83fee3fecd8c19dde1c43efa0ccf7
+M	sunmailer.module	4abce064ab5f4e538d87ff502d146fd2
+A	sunmailer.stats.inc	138523646312b72fc816fa6caa28b192
+A	sunmailer.subscribe.inc	6698ef45283a129a1debf3e798d8f096
+M	sunmailer.test	778844c6a3599ffe7abf9f0be6a3d046
+D	sunmailer.xml.inc	
+M	text-default.xsl	5c76d74ae213569292c70290e8397e10

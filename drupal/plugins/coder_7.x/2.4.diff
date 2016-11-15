@@ -1,0 +1,16 @@
+M	coder.info	17f4c21955bb4741ff02f862ae806c4d
+M	coder_review/coder_review.common.inc	57f70b28c424716a4ed1ca5771caa720
+M	coder_review/coder_review.drush.inc	a07a1b9e93f4a6faae406e85de8f461d
+M	coder_review/coder_review.info	5b8bde7708022863d757924ef7afe8b5
+M	coder_review/tests/coder_review_test/coder_review_test.info	873f05cd01c275d060f1dd9be63a27e6
+D	coder_sniffer/Drupal/Sniffs/Semantics/BrSniff.php	
+M	coder_sniffer/Drupal/Sniffs/Semantics/LStringTranslatableSniff.php	c8a7fe7a415542f89f3ced03ba8fcfa1
+M	coder_sniffer/Drupal/drupalcs.info	6be811ab6b9567ed1b44816469ede343
+M	coder_sniffer/Test/bad/BadUnitTest.php	09586d505b2ff82b1d5551f6b77cc21b
+M	coder_sniffer/Test/bad/bad.info	f0bf43f5fee43c0774a51aa40005e2bf
+M	coder_sniffer/Test/bad/bad.php	1c1633b6634fd4c7c8d4687faf4ad9c4
+M	coder_sniffer/Test/bad2.info	3d5991a23aa906a3a27b20ccfdf79c8b
+M	coder_sniffer/Test/good/good.php	5aece07d5506a63c38822953cca69ad9
+M	coder_upgrade/coder_upgrade.info	76e04f695473ce339c29bac5874fd0c7
+M	composer.json	6ae35a3fae6a57b76c14449ec8c6e3d4
+M	composer.lock	da16ce0648889a09df06aab9ba99a830

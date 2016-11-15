@@ -1,0 +1,29 @@
+A	.spam.module.swp	0df6c8ecf13dc861c06f84ace3281179
+M	CHANGELOG.txt	ebdbd9ea0ca6dd8bdf344aacd6e97c34
+A	DEVELOPER.txt	0e3f60478b3354874b07e008080d1830
+M	INSTALL.txt	c458f043d2fe0908c9173c1cb90357ed
+D	filters/bayesian/bayesian.info	
+D	filters/bayesian/bayesian.module	
+D	filters/custom/custom-upgrade.inc	
+D	filters/custom/custom.info	
+D	filters/duplicate/duplicate.info	
+D	filters/node_age/node_age.info	
+A	filters/spam_filter_bayesian/spam_filter_bayesian.info	bd39e965a97e9173bcb0db30e5a52277
+A	filters/spam_filter_bayesian/spam_filter_bayesian.module	3cebc534164a9301aad1d7db4823f4b6
+A	filters/spam_filter_custom/spam_filter_custom-upgrade.inc	9c3026e2fe14f7e53a5ad063fd28dc79
+A	filters/spam_filter_custom/spam_filter_custom.info	c8340a9189c770cb431e38e64929ac5b
+A	filters/spam_filter_custom/tests/spam_filter_custom.test	0fbc31d7c16e69356b42ace666e14c08
+A	filters/spam_filter_duplicate/spam_filter_duplicate.info	5bb417cd1cb5f14c27b883d039c9cdd4
+A	filters/spam_filter_node_age/spam_filter_node_age.info	edd2967c29bd71de77b92e9981cbfd93
+A	filters/spam_filter_node_age/spam_filter_node_age.install	1b719bd3057b730fd563a78686cb39d4
+A	filters/spam_filter_surbl/spam_filter_surbl.info	7916484e0edd7d62bc2158f9bbd4cc45
+A	filters/spam_filter_url/spam_filter_url.info	f00d8aae85ff80921ad5a23b099d810c
+A	filters/spam_filter_url/spam_filter_url.install	62c1a1a2b2aac4a45aa9936d4b946193
+A	filters/spam_filter_url/spam_filter_url.module	5f0403e8355646ec70e3e3d6b118a235
+D	filters/surbl/surbl.info	
+D	filters/url/url.info	
+D	filters/url/url.module	
+M	spam.info	4ba22efd0a9cb6e419a4dee8b7055b51
+M	spam.install	6b7d27b4d7b7e7d8ca13868d0953281f
+M	spam.module	ee82d46913dbf75a18e589f45f8998f9
+A	tests/spam.test	bedef6390d6e755147bd514c3f9bb07b

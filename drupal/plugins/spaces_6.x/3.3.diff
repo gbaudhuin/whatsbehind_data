@@ -1,0 +1,11 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	plugins/space_type.inc	b4c311c3b18f1722795d41b3af74e940
+M	spaces.info	06ee83d005f0cacf64c70ea0eef9866e
+M	spaces.module	2bb4799d44e3375ef7c11c833c5b9ebd
+M	spaces_customtext/spaces_customtext.info	41620bbc34f0a55be6c1bb192fc2696f
+M	spaces_dashboard/spaces_dashboard.info	c490ed991348784f25b1e47c8b8991d1
+M	spaces_og/spaces_og.info	ada1f98879d9a1e498460f6b4dd63c65
+M	spaces_taxonomy/spaces_taxonomy.info	3db1563be6e0d1a25596bdbd81d45137
+M	spaces_ui/spaces_ui.info	fbffbb9403ec20dfaffb660e8c901575
+M	spaces_user/spaces_user.info	67f08a1f1f059daaae17213c5e6bd442
+M	tests/spaces_test.info	ba15c17964f842c0f01aa3115f119c20

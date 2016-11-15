@@ -1,0 +1,50 @@
+M	README.txt	a8d14ed2941e17fbd42d74f4adf63a5f
+A	includes/og.admin.inc	7612908fa6e757296b519518b184114a
+A	modules/og_access/translations/modules-og_access.de.po	b110facd9e9d606990e80f6c23163890
+A	modules/og_access/translations/modules-og_access.pot	dca59b109e2926cdd1f54e88e32e0939
+A	modules/og_actions/translations/modules-og_actions.de.po	468358ede9b0e933ecc8884333696d80
+A	modules/og_actions/translations/modules-og_actions.pot	3e2e3906a77da799d2139db82f30e419
+A	modules/og_notifications/README.txt	cb4e10dc141567eaf197645df4349513
+A	modules/og_notifications/og_notifications.info	1689e6894118aca494e2e51e1ac07612
+A	modules/og_notifications/og_notifications.install	4b7d6c7197782e55c904434ff7a5572f
+A	modules/og_notifications/translations/modules-og_notifications.de.po	e603d92f6c8e783d60c78eccf51b0fb2
+A	modules/og_notifications/translations/modules-og_notifications.pot	1727dff6a280ddcbd160f9db82f5e163
+A	modules/og_panels/og_panels.info	8da2697b9e78379a77a3e5ddb93018c3
+A	modules/og_panels/translations/modules-og_panels.de.po	bb31ed0203fd9351e17a614b5a912623
+A	modules/og_panels/translations/modules-og_panels.pot	dbf4b0ceacbdb56f978b9b4a3ff6512b
+A	modules/og_views/includes/og_views_handler_filter_og_type.inc	9302e2fdb299ea312549a63e45aeb1ac
+A	modules/og_views/og_views.info	bdf8d3d3dc91b5cb0e9f33a247a74055
+A	modules/og_views/translations/modules-og_views-includes.de.po	924267fbca058703bbcab0cebb686d1b
+A	modules/og_views/translations/modules-og_views-includes.pot	af15ed3f3cc72e0003e29d66b9c2060f
+A	modules/og_views/translations/modules-og_views.de.po	5cc435d03b2c301ed55a64782aae9a6d
+A	modules/og_views/translations/modules-og_views.pot	2ee61b6a2498004e5f2d8d95db257ee9
+A	modules/og_views/views/og.og_search.view	ec65dec8f9387cbc745cd641b887663d
+A	modules/og_views/views/og.posts_by_term.view	ddccaadff535f073967c259ca49f2639
+D	og.admin.inc	
+M	og.info	0136369bd6938ed07d6d4dd8ebebc39d
+M	og.install	190f4cb6a0e5f35f30a798fe87c78db7
+M	og.module	acd65a600fb33064819ef2cb652b81ee
+D	og_notifications/README.txt	
+D	og_notifications/og_notifications.info	
+D	og_notifications/og_notifications.install	
+D	og_notifications/po/og_notifications-module.po	
+D	og_notifications/po/og_notifications-module.pot	
+D	og_panels.info	
+D	og_views/includes/og_views_handler_filter_og_type.inc	
+D	og_views/og_views.info	
+D	og_views/views/og.og_search.view	
+A	tests/og.post.test	63a0326f98b603b66a414cc0f18e776b
+A	tests/og.subscribe.test	b98670e0ac427a465da758b5b4ed3fb7
+D	tests/og_post.test	
+D	tests/og_subscribe.test	
+M	tests/og_testcase.php	773ee9c422426932228e4f14e45f2f78
+M	tests/og_wiki.test	5c803712f0b819d73ab031b01a29a9f4
+D	translations/de.po	
+A	translations/general.de.po	045afcb1669d02adc517054cda279d10
+A	translations/general.pot	ee1da6854575d890a912a9492a9babaa
+A	translations/includes.de.po	519db7a58b9d1feb46c3fe9101fa97a7
+A	translations/includes.pot	9aecddf05fdcc1387079381dd3c4bdc3
+A	translations/og.de.po	9d25ad7fe50aa90edc2391e5fcd3e79d
+M	translations/og.pot	6d005bf49f6dc1669c9d5c01ac34566b
+A	translations/tests.de.po	663cde7da08167f517efd48be90fada3
+A	translations/tests.pot	c5c7b307b5942097661b40d1c94ed084

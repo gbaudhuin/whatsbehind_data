@@ -1,0 +1,7 @@
+D	.cvsignore	
+M	INSTALL.txt	f6f5f3e68c0ee1430a91103f3230480a
+A	getid3.admin.inc	7062d186cc3dad5c0729839bdce0e494
+A	getid3.drush.inc	9ddd7fc97ab178f46b2a2167fe1b7db1
+M	getid3.info	0ecb65d5e5a823e4c5c699da092a6c83
+M	getid3.module	2b839f191cf0ec39358ec4d9d26d2298
+A	translations/hu.po	cd368dabc3d02c989e7db962b39d8b46

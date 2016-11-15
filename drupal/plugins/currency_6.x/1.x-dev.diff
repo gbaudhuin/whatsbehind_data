@@ -1,0 +1,13 @@
+A	INSTALL.txt	8ebbd4545ab0504154eba7974bc036c5
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	215fc82bb249b367fea7592804688a7d
+A	currency.info	c3ec24df6914b93f7ea2078c3a043dbf
+A	currency.module	6e7f58649c677417c98a432cff2f34bd
+A	currency_api/API.txt	67faad9f04266ba54c3ffce1a3f9d987
+A	currency_api/currency_api.info	92b7482cd15279e7f1921bdec4b09208
+A	currency_api/currency_api.install	e6dd6eb6b757efe8f6ea6f8a68b77482
+A	currency_api/currency_api.module	d574ce9f7aa1415c75756d03efc10e93
+A	views/currency.views.inc	970724f82e0a1eb18ba898a7037d588f
+A	views/handlers/currency_handler_argument_currency.inc	13cb09417f8ae41aa909558d91e44bc5
+A	views/handlers/currency_handler_field_currency.inc	82288b1c63c9f946b2906a2991bec913
+A	views/handlers/currency_handler_filter_currency.inc	32d420c87a1015722d3fc64a8c4b7f82

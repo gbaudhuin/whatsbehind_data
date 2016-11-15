@@ -1,0 +1,13 @@
+M	modules/restful_example/restful_example.info	9176a3e3457a6afbfe78ec25576cba2f
+M	modules/restful_token_auth/restful_token_auth.info	29ee6a70634d8675788f4e6338e7d32b
+M	restful.admin.inc	47ee48f115e0c6e725c1878bbf7569cd
+A	restful.cache.inc	f8e48a6f01321526f0c6e2bf9a4cf6f8
+M	restful.info	b958a126e7c4b51d288f877b206352a6
+M	restful.install	f2452f43cc330dac44af356a93791100
+M	restful.module	2bc7869fac9e97f055ad516ffdc1fc34
+M	src/Plugin/resource/DataProvider/DataProvider.php	35b35fc8a44c7f8016fcef99be54a226
+M	src/Plugin/resource/Decorators/CacheDecoratedResource.php	ced65b9008561488696c22781a6fde82
+M	src/RenderCache/RenderCache.php	329e92e1ddfdc4880281368f776df585
+M	src/RestfulManager.php	3314b839a7b5a7d994536df25e172801
+M	tests/modules/restful_node_access_test/restful_node_access_test.info	7b85668639b1fc71f80dd5ad7fe304b0
+M	tests/modules/restful_test/restful_test.info	e6e46cb6bba5400498f0c5e4e7003501

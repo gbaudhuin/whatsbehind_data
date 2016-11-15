@@ -1,0 +1,86 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	b2bc5799b88724e686a10fdc2b1a566f
+A	changelog.txt	084adfb703f16c34354be4ce7ceb59ed
+M	contrib/views_slideshow_singleframe/README.txt	1c07f5b33b02877339120fc196fa90f2
+A	contrib/views_slideshow_singleframe/changelog.txt	16c95889b315f6008b49bfe5e228e1ba
+D	contrib/views_slideshow_singleframe/help/image-slideshow.html	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/add-link.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/add/view-description.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/add/view-name.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/basic-settings-style-slideshow-mode-singleframe.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/basic-settings-style-slideshow.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/basic-settings-style.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/display-type.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/fields-add.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/fields-content-image-format.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/fields-content-slideshow-image.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/fields-groups-content.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/fields-groups-node.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/fields-label-none.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/fields-node-body-trim-maximum-length.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/fields-node-body.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/fields-node-title.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/fields-sort-node-title-node-body.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/fields-sort.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/filters-add.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/filters-groups-node.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/filters-node-type-page.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/filters-node-type-slideshow-item.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/filters-published-type.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/filters-published-yes.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/filters-sort.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/page-settings-path-page.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/page-settings-path.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/build/views/edit/x/view-page-link.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/content/node-type/x/body-field.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/content/node-type/x/comment-settings-fieldset.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/content/node-type/x/default-comment.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/content/node-type/x/fields/field_slideshow_image/move-new-field-slideshow-image.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/content/node-type/x/fields/field_slideshow_image/new-field-slideshow-image.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/content/node-type/x/fields/x/check-required.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/content/node-type/x/name.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/content/node-type/x/promoted-front-page.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/content/node-type/x/submission-form-settings-fieldset.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/content/node-type/x/type.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/content/node-type/x/workflow-settings-fieldset.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/content/types/add-content-type-link.png	
+D	contrib/views_slideshow_singleframe/help/images/admin/content/types/manage-fields-link-slideshow-item.png	
+D	contrib/views_slideshow_singleframe/help/images/buttons/add-display.png	
+D	contrib/views_slideshow_singleframe/help/images/buttons/add.png	
+D	contrib/views_slideshow_singleframe/help/images/buttons/next.png	
+D	contrib/views_slideshow_singleframe/help/images/buttons/save-content-type.png	
+D	contrib/views_slideshow_singleframe/help/images/buttons/save-field-settings.png	
+D	contrib/views_slideshow_singleframe/help/images/buttons/save.png	
+D	contrib/views_slideshow_singleframe/help/images/buttons/update-default-display.png	
+D	contrib/views_slideshow_singleframe/help/images/buttons/update.png	
+D	contrib/views_slideshow_singleframe/help/page-slideshow.html	
+D	contrib/views_slideshow_singleframe/help/views_slideshow_singleframe.help.ini	
+M	contrib/views_slideshow_singleframe/views-slideshow-singleframe.tpl.php	58716df55a592bc1cb47fd333b6c0ff4
+M	contrib/views_slideshow_singleframe/views_slideshow.css	01a2863651140b81dcdb97682a952ad9
+M	contrib/views_slideshow_singleframe/views_slideshow.js	4375d003ed8d437aea31e65cbb331545
+M	contrib/views_slideshow_singleframe/views_slideshow_singleframe.info	581dc0a45150a08bd6c501b33941bb34
+M	contrib/views_slideshow_singleframe/views_slideshow_singleframe.module	5f24ad7ee24bf65eca450cd17bc4d4c8
+M	contrib/views_slideshow_singleframe/views_slideshow_singleframe.theme.inc	7c56aedbe4eefe7ffec31032586e6ab7
+M	contrib/views_slideshow_singleframe/views_slideshow_singleframe.views_slideshow.inc	1061625fec7702f49d7a5e9cd12b0eb1
+M	contrib/views_slideshow_thumbnailhover/README.txt	51e92f5a5d99d7d8ce44bfc6edfa0bb6
+A	contrib/views_slideshow_thumbnailhover/changelog.txt	f5c1ffa05589fe28af7943b5f7e0f869
+M	contrib/views_slideshow_thumbnailhover/views-slideshow-thumbnailhover.tpl.php	cc26833a677041262be635e7815be504
+M	contrib/views_slideshow_thumbnailhover/views_slideshow.css	87d925e922ad9e9af624e8eb18534c6e
+M	contrib/views_slideshow_thumbnailhover/views_slideshow.js	8d980e58664df9a619a3e4fe197ee822
+M	contrib/views_slideshow_thumbnailhover/views_slideshow_thumbnailhover.info	7cc94802fe546288a6e8996a231677ae
+M	contrib/views_slideshow_thumbnailhover/views_slideshow_thumbnailhover.module	ca53606614fdd86adef160810376e033
+M	contrib/views_slideshow_thumbnailhover/views_slideshow_thumbnailhover.theme.inc	b25ca724c30accbf62a6227225c497a7
+M	contrib/views_slideshow_thumbnailhover/views_slideshow_thumbnailhover.views_slideshow.inc	d57f0309d78d25ab1c6d721871254862
+A	css/views_slideshow.css	b8f022d562ba321960ed2fabddfe46cb
+M	js/jquery.cycle.all.min.js	e4f400528a742adb8c0243449e37a3b0
+A	js/views_slideshow.js	036c80c536fd7e5f5c1d264358ba5cee
+A	views-slideshow-single-frame.tpl.php	a7d437c3cbd6314860a129c288dba9be
+A	views-slideshow-thumbnail-hover.tpl.php	2d779566530b51dae8f974caf0ab6430
+M	views-slideshow.tpl.php	8a18363f1af1e6cebc9a838339c1603d
+M	views_slideshow.info	e44971f9140254bfc27440a5ef224f5f
+M	views_slideshow.install	d3297993bbd50ce8ae7f6cecf4212942
+M	views_slideshow.module	124506739ab443e70a14e700cdecf655
+M	views_slideshow.theme.inc	f960a93c3a3f692731b723434d95ee17
+M	views_slideshow.views.inc	4844e65e22ed83282c06d77018647e93
+A	views_slideshow.views_slideshow.inc	a04210591210a803b73c866d27787d83
+M	views_slideshow_plugin_style_slideshow.inc	f60b825ad6c44c452b5568bf09335cc3

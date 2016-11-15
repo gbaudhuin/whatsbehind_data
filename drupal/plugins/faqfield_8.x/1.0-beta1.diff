@@ -1,0 +1,12 @@
+D	composer.json	
+M	config/schema/faqfield.schema.yml	1a60cb1381c2d6f5ec92953382c202e5
+M	faqfield.info.yml	624c5105297d2b93cc256ee10f2f3de7
+D	faqfield.libraries.yml	
+M	faqfield.module	4789f579f4c15913f5de9087e5e831ca
+D	js/faqfield.accordion.js	
+M	src/Plugin/Field/FieldFormatter/FaqFieldAccordionFormatter.php	9551ec01f65165427f8c1f06cacd45b1
+M	src/Plugin/Field/FieldFormatter/FaqFieldAnchorListFormatter.php	e3352873909a9fa755bb7acb69a3877f
+M	src/Plugin/Field/FieldFormatter/FaqFieldDefinitionListFormatter.php	c4a9a0cb0aba486e102ad9b1e679a984
+M	src/Plugin/Field/FieldFormatter/FaqFieldSimpleTextFormatter.php	3be2b714d21beff074b8c041a329cdf2
+M	src/Plugin/Field/FieldType/FaqFieldItem.php	724ac7873526ada96e858b92b6902711
+M	src/Plugin/Field/FieldWidget/FaqFieldDefaultWidget.php	cbfa5bf7173b2ff31c0c0f1f4e934d7b

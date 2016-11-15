@@ -1,0 +1,5 @@
+D	templates/views-fieldsets-fieldset.tpl.php	
+A	views-fieldsets-fieldset.tpl.php	4cce70f2a4180fa57254031131fca481
+M	views_fieldsets.info	1fdd98ca6d24c1577b6cd28aac42cd87
+M	views_fieldsets.module	1ace5da01842aa1411fe23eb9aa5c0af
+A	views_fieldsets_display_extender.inc	d3b26c64dbae2175c2b10aaf30c119d0

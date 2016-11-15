@@ -1,0 +1,9 @@
+M	CHANGELOG.txt	7397a56c9db588cc752dbc86b6fceccf
+M	print.info	8bc7103ab79f7584a901aba53f5141e7
+M	print.module	0528e688918b896821734442d8a53458
+M	print_mail/print_mail.info	eed507d0ecba80d2add1457552c1e7eb
+M	print_mail/print_mail.module	b2e753dceeac88e6ecfe6fa430c56d5f
+M	print_pdf/print_pdf.info	89811b0e5dbd12ca180125ab70158ff9
+M	print_pdf/print_pdf.module	b941f4ecd41e305dc98266ad08e57761
+M	print_pdf/print_pdf.pages.inc	89e29e54088132a2cfbb563053bff075
+M	translations/print.pot	50dceffa4f485f7a20bc232890611d79

@@ -1,0 +1,8 @@
+M	admin/crumbs.admin.inc	23d86d903ae7cd02a7fbc2bddcbd683c
+M	crumbs.info	37eea52816194bb26994b1dba19c6c3b
+M	example/crumbs_example.info	d1a1c18cfa925bd2fa7b5c966eb81940
+M	labs/crumbs_labs.info	6bcbb0237909d3a3caba40f8c693925c
+M	lib/Container/CachedLazyPluginInfo.php	5a7c2761f740e50a09b33687e815dce1
+M	lib/Drupal/crumbs/Tests/MenuLinkPluginTest.php	1166205f24e2bda4d80d42be2ce2a884
+M	lib/EntityPlugin/Field/EntityReference.php	36e3fe829151544a51f26796d80b64c3
+M	lib/PluginInfo.php	33c9b6d07d9dda068642891186514838

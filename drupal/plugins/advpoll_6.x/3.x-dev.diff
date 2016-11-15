@@ -1,0 +1,17 @@
+M	INSTALL.txt	b10ec144ae8a4accc84e8cad0ef850ae
+M	SI_changelog.txt	4ac9eb8814b7d36d72ec7f62b1e3c1ce
+M	advpoll-display-binary-form.tpl.php	79ab4b567725916d01a20b2367c7363e
+M	advpoll-display-ranking-form.tpl.php	71d78dcca018c06da8338582f809d72b
+M	advpoll.admin.inc	959eb4a56e42e5283b93cf43c123082e
+M	advpoll.css	f230c1d538fa6b6fcfbe8c75d97298b6
+M	advpoll.info	89a9c883273c11c1504e4f3daa3968cb
+M	advpoll.install	04d5b248c40e757cc5eef8a7c0ee5f3f
+M	advpoll.module	d39b0177766932a8d097623ca2160b10
+M	advpoll.pages.inc	c4be9b472ab8307d66f815643c6552b4
+M	advpoll_convert.info	5d7acca5ea5824dec74582e2499ab096
+D	datetimepicker/datetimepicker.css	
+D	datetimepicker/datetimepicker.js	
+M	modes/binary.inc	d257deb485919f16bb39b42477acbc22
+M	modes/ranking.inc	22b4a494a9c7e8eb1d95d9ad41a2c257
+D	node-advpoll_binary.tpl.php	
+M	views/advpoll.views.inc	8b297ffa974b33d5f8ebd957ac275f70

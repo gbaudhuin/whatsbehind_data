@@ -1,0 +1,28 @@
+D	README.txt	
+M	includes/views_handler_field_term_regcode_tid.inc	d46381b243e8590fd66594f82ce2ba43
+M	regcode.admin.php	52319767109ccf23796b4dba9f29dc3c
+M	regcode.api.php	4515eb1977eb4c2d40e75c132eb956d5
+M	regcode.info	95dc00e681a455b7c317970167b6e2cf
+M	regcode.info.inc	4b33575aa04c67600f8e9d14dbc27cfa
+M	regcode.install	e02d5eee5bb8d1aabc0aa7320c400b1b
+M	regcode.module	77ad450e2db49b862cffd7442fbf7faf
+M	regcode.rules.inc	045e8d8fd06856cd29585372fa55e8d0
+M	regcode.views.inc	47c99e9c515ee8b14af895d160427902
+M	regcode.views_default.inc	9ee34eb75aad1201bdd740946714882e
+M	regcode_ie/regcode_ie.info	2a883deb53b2156a981507e55e4f1d8f
+D	regcode_ie/regcode_ie.install	
+M	regcode_ie/regcode_ie.module	c5470660904ed5be87645cd3d44024b8
+M	regcode_ie/regcode_ie.views.inc	249b546c763c3f5e17a774be2f86b108
+A	regcode_ie/regcode_ie.views_default.inc	3beefb00777a6bd04265b7d33c23efa9
+M	regcode_mailer/regcode_mailer.info	1dceb5034e8764fd5addcd6df2bd5f88
+M	regcode_mailer/regcode_mailer.module	d059512c74dfaa21bca731178e0349aa
+M	regcode_og/README.txt	905dcc5bce20043eb487e7e96ec7f383
+M	regcode_og/regcode_og.info	052044698906cc946ac027c74c2513f2
+M	regcode_og/regcode_og.install	c0f427e5ae3a80bab2858f84bbc05492
+M	regcode_og/regcode_og.module	d1d0095f1831a9f24b078b082c736742
+M	regcode_roles/regcode_roles.info	6eb1e5118a519e03edd93193fc1ed466
+M	regcode_roles/regcode_roles.install	52e7146460ddcc909bbf38fd60b424c8
+M	regcode_roles/regcode_roles.module	01d23b5bf6d9438590e19f1eeb0955f9
+M	regcode_voucher/regcode_voucher.info	0d84127f0d1da3929cc2beba8e90a614
+D	regcode_voucher/regcode_voucher.install	
+M	regcode_voucher/regcode_voucher.module	7d6a1850c2cbb622d251cbf2835c16bf

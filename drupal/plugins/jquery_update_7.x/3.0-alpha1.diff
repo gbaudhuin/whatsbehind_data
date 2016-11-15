@@ -1,0 +1,18 @@
+M	jquery_update.admin.inc	fbd15768db95da8394b58bfe4c7e8e26
+M	jquery_update.info	3b02674ea00af4a1ba64485be9f86784
+M	jquery_update.module	cce2ba2c8e3589521762cb9fbc91eadd
+D	replace/jquery.form/3/jquery.form.js	
+D	replace/jquery.form/3/jquery.form.min.js	
+A	replace/misc/1.9/jquery.ba-bbq.js	c67c8ad3ce0acf9b0e31d039a0685061
+A	replace/misc/1.9/jquery.ba-bbq.min.js	d88a910504f3603c67342181f948370e
+A	replace/misc/1.9/overlay-parent.diff.js	3e0e210db4ad18f67fcfbe9622820cd0
+A	replace/misc/1.9/overlay-parent.js	d685dac0b4fe39bb0c76c528aa7ea275
+A	replace/ui/external/globalize.culture.de-DE.js	5ffe064ceaee952fedf35332cc4cc9cd
+A	replace/ui/external/globalize.culture.ja-JP.js	1231d493814ba869d710a1feda2c9195
+A	replace/ui/external/globalize.js	8aa0b2b9858380f3f8f1d5c648fc02c2
+A	replace/ui/external/jquery.bgiframe-2.1.2.js	e048a77b314095a4cb774cdac380eb8c
+A	replace/ui/external/jquery.metadata.js	1910e4f6f1a0c7ce784a2e7d13c3765c
+A	replace/ui/external/jquery.mousewheel.js	99457f3dc7082452b9fdc702b3dfcbaf
+A	replace/ui/external/jshint.js	e25340f0196f65135f50877c0fe6efe2
+A	replace/ui/external/qunit.css	37687050b4af752017145c24bfd9c2f4
+A	replace/ui/external/qunit.js	cc5d9424079d8ef1812ec8a4419c7bfe

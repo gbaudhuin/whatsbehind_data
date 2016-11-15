@@ -1,0 +1,6 @@
+M	CHANGELOG.txt	8a52a4433e2d3ec6b26a1b0d50106078
+A	modules/values_webform/values_webform.info	cc7585e7ddac572ad3ff7cc1e09b2fa9
+A	modules/values_webform/values_webform.module	a6587b43d408de97c5359701049a8d85
+M	values.info	fc5ebe78a21b269b5137560920030045
+M	values.install	36aa28d0b51dfa5bfed856c8f89673b8
+M	values.module	2285fdcdd358d44f8083910c99b1a1d8

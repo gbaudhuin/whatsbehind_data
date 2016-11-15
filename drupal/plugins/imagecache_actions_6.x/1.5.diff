@@ -1,0 +1,13 @@
+M	canvasactions.inc	9cbd75d5a45ebeae7a89e125d0a0a9d6
+A	docs/corner-bl.png	aaa6c9e9d694ac55406b0084600c132b
+A	docs/corner-br.png	3ff0c4d00341f5ba8b3dde4ccb4fb5a3
+A	docs/corner-tl.png	a2782acedd762070e1b3b045369608c1
+A	docs/corner-tr.png	f13cdb1fc29272d96fdbd67470cca60e
+A	docs/text.png	fe7ce624c4be13a89568df8f75307e1d
+A	imagecache_actions.jquery.js	d0fed13219a16743e2b0e7f791601f5f
+M	imagecache_canvasactions.info	4d7b5953472a5e19c2dfe5e85a69a309
+M	imagecache_canvasactions.module	1b5f436a1c907d56f787e695751c847f
+M	imagecache_coloractions.info	101199b7982076358af5aaa040ed3535
+M	imagecache_customactions.info	136ee00dfbd7f662a5543af126164b00
+M	imagecache_textactions.info	42f0250b7dce72b7a7b2c77aa4e8f080
+M	textactions.inc	82c48b822dd7de7ce8426571b6cb06c1

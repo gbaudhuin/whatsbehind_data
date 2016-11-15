@@ -1,0 +1,15 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	c60c20686d1ac001b441ddf4afa1d5d1
+A	config/install/views_field_view.settings.yml	1127d24591d3871195fb68960301bee7
+A	config/schema/views_field_view.schema.yml	19198b47d8158b6c7bad32a143e9a8aa
+A	config/schema/views_field_view.views.schema.yml	3f22b25f0b24d087113788da8f8a324d
+A	css/views_field_view.css	bac02d7cb12c485273fa80a0b06388ca
+A	src/Plugin/views/field/View.php	1f20d5c694bc55aeec0206146991e842
+A	src/Tests/ViewFieldUITest.php	61643b5fa98c9841431d9125db510c2b
+A	src/Tests/ViewFieldUnitTest.php	6f497ea9d4eed40f84144fcbc564966d
+A	tests/views_field_view_test_config/test_views/views.view.views_field_view_test_child_normal.yml	bbc236f117d8a07e128f5f46e401f287
+A	tests/views_field_view_test_config/test_views/views.view.views_field_view_test_parent_normal.yml	b8f3e9a5e6aaa2feb97709159c38d32a
+A	tests/views_field_view_test_config/views_field_view_test_config.info.yml	8a6b68dea469b0c87a85c52389641a1d
+A	views_field_view.info.yml	f8efcded2cd594db9826d554d6459f65
+A	views_field_view.libraries.yml	20bf23941015189bfa68176c0c1e3612
+A	views_field_view.views.inc	198ed6c0c54684f80ff4789a136b7027

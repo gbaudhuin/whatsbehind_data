@@ -1,0 +1,8 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	sqlsrv.info	80bf56bd009abbda3cf462c756dcb315
+M	sqlsrv/database.inc	0a1c11f7cc86a36b5d15c5681652e918
+M	sqlsrv/install.inc	7ddda509b3ec50aa022ac0b1aadbaf8a
+M	sqlsrv/schema.inc	437a173a59ff441a5a86cadc887fe2c0
+M	sqlsrv/select.inc	abcde2c7b0b530bd8049ee460a6ab27d
+M	tests/sqlsrv.schema.test	de7b82dc97bc72071826f315e8e2fd04
+A	tests/sqlsrv.select.test	e437d34d0a42017bc3eaafecae261614

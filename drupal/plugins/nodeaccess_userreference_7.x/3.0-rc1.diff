@@ -1,0 +1,8 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	ccab54c09feb1ca999f4da2d3db08861
+D	includes/nodeaccess_userreference.views.inc	
+D	includes/nodeaccess_userreference_views_plugin_display.inc	
+D	includes/nodeaccess_userreference_views_plugin_style.inc	
+M	nodeaccess_userreference.info	01b82053d79595dd84f7d88ad1782ec4
+M	nodeaccess_userreference.install	1cb715c0070bea86e8cdc9bc6c63cc60
+M	nodeaccess_userreference.module	b0071ce65ab22f5ddf62e1d2b7bd0c68

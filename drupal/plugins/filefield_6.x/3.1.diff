@@ -1,0 +1,13 @@
+M	field_file.inc	00abefc76f6c3c46865b04d95cbf96d7
+M	filefield.info	a8d87c9465a1b0d9eece51e5ee06daf7
+M	filefield.install	a83f16d2f11c85fb06a98a7685939c4f
+M	filefield.js	1e564408fb291054c64c3b22c3a4f74a
+M	filefield.module	954443dd38e22f81a7d69cfebd63a07b
+M	filefield_field.inc	cf6c3d8b9bb32abf59b436c870253a70
+M	filefield_formatter.inc	8440d3c701d7a1a2186ccb41f60eae5a
+M	filefield_meta/filefield_meta.info	1368aa6172ffebe299148bc554285cf9
+M	filefield_meta/filefield_meta.install	e25202e976da05c88af0cd87a2834ce1
+M	filefield_widget.inc	94a110d4e6696162a52ee8010796f1a4
+A	translations/da.po	9fa63e032c955a878d5165ff52fbf9a8
+A	translations/nl.po	c98352cc14a258423e09a9379aa79910
+A	views/filefield.views_convert.inc	b6ad114201576f0154035d9742b6f2db

@@ -1,0 +1,12 @@
+D	migrate_source_json.info	
+M	migrate_source_json.info.yml	9f13d1e6d318f58c7a70e8f452266a82
+M	phpunit.xml.dist	b31ededb44858a2639b0d8e9326db1b2
+M	src/Plugin/migrate/source/JSONListSource.php	11aac08b363417a08d733857ef53d819
+M	src/Plugin/migrate/source/JSONMultiSource.php	a107d684b46b06b6876b173d0ed03e7f
+M	src/Plugin/migrate/source/JSONSource.php	bd8cfbb9624df0017beb4de8ffd824f2
+M	tests/src/Unit/JSONTestCaseClient.php	9ee9015e70fef0f2e2cd75cb97d16101
+M	tests/src/Unit/JSONUnitTestCase.php	50409024ce4f3d840f43260625f7a970
+M	tests/src/Unit/Plugin/migrate/JSONReaderTest.php	c59d5e9228a9c9f0ca2c8b16baca1590
+M	tests/src/Unit/Plugin/migrate/source/JSONClientTest.php	1f2ce8ca9aee7e417f95ee5c63c5e54b
+M	tests/src/Unit/Plugin/migrate/source/JSONMultiSourceTest.php	9c2a4e0c61f3b560c9acdbc5d4b1db9e
+M	tests/src/Unit/Plugin/migrate/source/JSONSourceTest.php	4d6245aaf7b00e393270f225b822fd95

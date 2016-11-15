@@ -1,0 +1,10 @@
+M	CHANGELOG.txt	c4ae2bf7a95e95ed37446e9807bd6ea6
+M	flag_lists.admin.inc	f9d9892323e96e3c310fd04c19cb5693
+M	flag_lists.info	846ff313fadfd8904b6871be499c5b07
+M	flag_lists.install	b8fe1c0f2021ecfe097440994ba72980
+M	flag_lists.module	deeb05a05e23f8980bfbfbac422c7549
+M	includes/flag_lists.views.inc	5b92ddcbac8540bf6b7f15e1a564255b
+M	includes/flag_lists_handler_field_ops.inc	e34fdccef116b231818e63f64e109b94
+D	includes/flag_lists_handler_filter_list.inc	
+M	includes/flag_lists_handler_filter_template.inc	a83b497976e9015aa80128b1f9d2ac46
+M	js/flag_lists_ops.js	7b5672c74d2fd8f8f2d9135c535b146a

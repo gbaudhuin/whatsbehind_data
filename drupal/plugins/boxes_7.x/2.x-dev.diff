@@ -1,0 +1,33 @@
+A	CHANGELOG.TXT	d2e4fb1dd95d87801d55a28771de5900
+M	README.txt	1733886b5e61a31dbc4037852280afa1
+A	box.tpl.php	1228054408916c38fe4a42635a538907
+D	boxes.admin.inc	
+A	boxes.api.php	e2b09b95fb01120e9bfa1ccbd2274a3f
+D	boxes.css	
+M	boxes.info	0b40b76e7339166dcac2b2b24e2bf79b
+M	boxes.install	8f6dd8eddf1474dd40564be83c8d8d43
+D	boxes.js	
+M	boxes.module	21d4cf49961f194d449789dea4842f49
+A	boxes.test	f88d31e37601d58d8530349062272b36
+A	boxes_admin_ui/boxes_admin_ui.admin.inc	387b9559873656183c1941d22d5a8ab1
+A	boxes_admin_ui/boxes_admin_ui.info	f4464075a22c6eb219c7e64a250324da
+A	boxes_admin_ui/boxes_admin_ui.install	7185fa0a0e267c7cd78548e01388108f
+A	boxes_admin_ui/boxes_admin_ui.module	1860e2ab13c5021eac998bfe78fcc2b9
+A	boxes_admin_ui/includes/features.inc	88f5889492fd09275c4d34b2e883363c
+A	boxes_admin_ui/plugins/custom.inc	fe9ce58568052da974d617abb40fe52e
+A	boxes_uuid/boxes_uuid.info	9fef1981d8384cb1e14053304cc335e0
+A	boxes_uuid/boxes_uuid.install	214d4f44497fba378c7c0b62630443e9
+A	boxes_uuid/boxes_uuid.module	d25c4e6aed5123d645303afd20f6dae0
+A	includes/boxes.core.inc	b03f25be1df95705d3dd63adc2b3a059
+A	includes/boxes.info.inc	5512d2b0a32077be4298c7189f8e679c
+A	includes/boxes.pages.inc	d1c04808f0976e902c2925e8062ece6b
+A	includes/translation.handler.boxes.inc	fe807429bed8caa85ae5e621fa16b297
+A	plugins/base.inc	ee10a2e785cd0bb237c716d065caca3c
+D	plugins/boxes_box.inc	
+D	plugins/boxes_simple.inc	
+D	plugins/spaces_controller_boxes.inc	
+D	swirly.gif	
+D	tests/boxes.test	
+D	tests/boxes_spaces.test	
+A	tests/boxes_test.info	1f041c64d9ad4183bb38bda053195e88
+A	tests/boxes_test.module	0eeeaa6c25a64bcf4a71fc02444a7cc1

@@ -1,0 +1,54 @@
+A	.gitignore	45a82a892f65cd743371e2d3af907eda
+M	README.txt	6c6194eae07da7044dc872a3d1953675
+M	color/color.inc	8aebd340155477d171265871e9971249
+M	color/preview.js	f248a180a8af5cd079448cc08809d5a3
+A	config.rb	a0b2edddb93db7c9ce1aabd4e1532f89
+M	css/black-menu.css	0e21dbacfe0054a33159280752a2488c
+M	css/colors.css	96ad71f4f1f6f87bd66f2ed7a4a1fbc5
+D	css/dark.css	
+A	css/mayo-superfish.css	c5f2f5ae3dcd9f553e9f84c01961b973
+D	css/round-node.css	
+D	css/round-sidebar.css	
+M	css/style.css	f1a0ad9992b2e22719e860b678c1088f
+A	images/add.png	c03d02ff3b43dd808500b6dd167b73ce
+A	images/page-layouts-sprite.png	fcd701adc89b3cc5a5eef9d59e6b69ec
+D	images/sidebar-layout.png	
+A	images/tabs-border.png	d58204356311e65281d681fab901b7a6
+A	inc/README.txt	62d59426cf97556781975c54e20c9b4d
+A	inc/forms/mayo.submit.builders.inc	4865bf24e43e1d83aa13e6340f4ea3f7
+A	inc/forms/mayo.submit.inc	22c4c1c7ed5ea48334650193b910cc30
+A	inc/forms/mayo.submit.responsive.inc	4370d29b83c06ef8b626ed9f487f9c38
+A	inc/forms/mayo.validate.inc	bd489f21816bd8fd61bfc6d065881777
+A	inc/get.inc	d4348abf4bd1f96d2b0e5f9fbcaaf66d
+A	inc/load.inc	75f6ab274b289d0088710f808f63aa29
+A	inc/plugins.inc	aaeae51bfb18d6da815cd7191d075373
+M	js/mayo-columns.js	2359b7a2b2aaca3a7f4f88cad66d6b7c
+M	js/mayo-fontsize.js	ced7844a760620e65d9b31c9b6840342
+M	js/mayo.js	5f6a91b65b604949c90776b51f8dd7f0
+A	layouts/core/_README.txt	117f3004fedce9ad2b7d02cccbd5ebdd
+A	layouts/core/one_col_stack/one_col_stack.inc	3685fd343bb4cfbe12dc2917e5da8528
+A	layouts/core/one_col_vert/one_col_vert.inc	4917f54bb0481a71098668277dba3ad5
+A	layouts/core/three_col_grail/three_col_grail.inc	27a2a6b82ad27c5262d47ed5e2bfe0e4
+A	layouts/core/two_sidebars_left/two_sidebars_left.inc	44d90193d4990a8b3c5e89d4d0d6bcc0
+A	layouts/core/two_sidebars_left_stack/two_sidebars_left_stack.inc	e42afabc3cbcfd7e411e5fec0caa57f1
+A	layouts/core/two_sidebars_right/two_sidebars_right.inc	540c14c5185326335a9991b6c3e0f41c
+A	layouts/core/two_sidebars_right_stack/two_sidebars_right_stack.inc	2716595426ee9be60ccf2ef46b3bce44
+M	mayo.info	4fe4cddbdaf5c120143a6c0ccad5ba96
+A	sass/black-menu.scss	40168d8ee3fa611dcfc9ac710dc2ec34
+A	sass/colors.scss	e605d039d11cc92d6542eaa6121e8ddd
+A	sass/mayo-superfish.scss	4e66ab4703bf7c23edf8b56b8aa8d5ff
+A	sass/partials/_admin-layout-settings.scss	29c549e4aaceb397af620bf0a0218a85
+A	sass/partials/_base.scss	1c7c1dc1ec5f483f9069c1be7e72849b
+A	sass/partials/_mixins.scss	1dfbc6a7cb6518e2bd2248146e7e96dc
+A	sass/partials/_mobile-first.scss	038a6a4379b69da32ddf3ae65e0cde2f
+A	sass/partials/_normalize.scss	ef8938c07a037d6039f2c8f2ab54d47b
+A	sass/partials/_responsive-media.scss	ecf8005a8adedda309adeca5788c94b6
+A	sass/partials/_style-settings.scss	8f4d3ee6c460c470207c8f124bb8cfa7
+A	sass/partials/_variables.scss	66c5b7c80c54c458291aa8914bc25c67
+A	sass/style.scss	7ccc51201cfb6826ce3ef8505ba9e0b5
+M	template.php	4b6d80536e80a342f1680c0083801855
+A	templates/html.tpl.php	3c08f100a8d240bea7110d11ae91fc19
+M	templates/maintenance-page.tpl.php	506bbb4ab177359be14b96905459e18b
+M	templates/node.tpl.php	0a74fe58ca6c91a368b494e5411199e2
+M	templates/page.tpl.php	6bab60fe54a67fb5fdc9761d1aaa2b63
+M	theme-settings.php	bd336056e64f0637335c1dd7f661104b

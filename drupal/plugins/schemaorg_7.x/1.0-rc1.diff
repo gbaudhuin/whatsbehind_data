@@ -1,0 +1,9 @@
+M	example/schemaorg_event/schemaorg_event.info	cf0fc59d23f048cb986f81d1968ab3c3
+M	example/schemaorg_person/schemaorg_person.info	cadfa9fd8f3115c3db6645c274cfb5a1
+M	example/schemaorg_recipe/schemaorg_recipe.info	24bffd48103b0ee4418b04164fec5890
+M	modules/schemaorg_contrib/schemaorg_contrib.fivestar.inc	cdccd9162ecf51c078cf6b9a6409a092
+M	modules/schemaorg_contrib/schemaorg_contrib.info	09e18a4dbda708075bd3318ba2399122
+A	modules/schemaorg_ui/js/schemaorg_ui.terms.json	036e1cae0f9be72ad2f1cac32523064e
+M	schemaorg.info	444c8efa6432a033b0dd8037e7ef02c8
+M	schemaorg.module	9974f27f493ec6def2d5543a763d17f2
+D	schemaorg_ui/js/schemaorg_ui.terms.json	

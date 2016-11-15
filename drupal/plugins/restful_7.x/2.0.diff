@@ -1,0 +1,8 @@
+M	modules/restful_example/restful_example.info	c3fb88ceb8b2a025748f5aff6da2b1e7
+M	modules/restful_token_auth/restful_token_auth.info	ba2567b32f99e1c5f99c9cc69313e592
+M	modules/restful_token_auth/src/Plugin/authentication/TokenAuthentication.php	ca46594ed5d99376f34c15cc687962db
+A	modules/restful_token_auth/src/Plugin/resource/Articles__1_3.php	df446e577bbc5d229e5425fb3c951df3
+M	modules/restful_token_auth/tests/RestfulTokenAuthenticationTestCase.test	21d7e502b73fe838bd9b114e23cf496e
+M	restful.info	0cb5ac307727c81f2e0633b1bced6495
+M	tests/modules/restful_node_access_test/restful_node_access_test.info	e82eb8f4e2d5c252a7a483b8c33ad125
+M	tests/modules/restful_test/restful_test.info	bf57aad37cafdb55c0faefad17bc0822

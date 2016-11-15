@@ -1,0 +1,13 @@
+M	README.txt	ac68f88257dcf80d2327659ccc5829d2
+M	contrib/og_menu_default_links/og_menu_default_links.batch.inc	29cccd9c2a4cd0501d3aee5d30e4ac43
+M	contrib/og_menu_default_links/og_menu_default_links.info	a9ff42a8f752e4e6a07d1d109eb334d6
+M	contrib/og_menu_default_links/og_menu_default_links.install	4981d21448991a2fa7bf4211a8725d1e
+M	contrib/og_menu_default_links/og_menu_default_links.module	8d03f5ce34c237ce0bd2297da7e5bc27
+M	contrib/og_menu_default_links/og_menu_default_links.pages.inc	8b28227c67c1cab3c71f5bb91e609027
+D	og_menu.admin.inc	
+M	og_menu.api.php	ef1bc67cb1f2ad087a1f6b71aec93836
+M	og_menu.info	44ace4d065d1fa7da0fe409f2434fbd6
+M	og_menu.install	9b9fee82f35e4fe6aed4ac5f85e8cd08
+M	og_menu.js	5efe1bf4e6bf6bf792553661907fefe8
+M	og_menu.module	4b2ac616faf09f04b9eb55c3ae638b1f
+M	og_menu.pages.inc	688c19c1017120e8b0dc5de048486355

@@ -1,0 +1,9 @@
+M	README.txt	d65dae34db1d6cbf65f068e385df9f3e
+A	includes/rc4.inc	a537af133da3204c78ed1fd8e7233059
+A	includes/views/simplenews_statistics.views.inc	ad46da767079ffd2fb7ed7b0f67a67c4
+A	includes/views/simplenews_statistics.views_default.inc	3112cb04702848e8cf6fd7647b6038ee
+D	rc4.inc	
+A	simplenews_statistics.admin.inc	164eaa2e4248851a3ac9539a959019e0
+M	simplenews_statistics.info	707ebd2271af3069379350f0baf6e8b7
+M	simplenews_statistics.install	dc61bc03c0645e5ccd42e4e518680f67
+M	simplenews_statistics.module	07e021900461502c8b25a5d6a15a0f21

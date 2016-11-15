@@ -1,0 +1,9 @@
+M	README.txt	24d29683421a19dfa43d9c25a18178d8
+A	css/stickynote.css	640030e172a4c636e4cce009b26d815a
+M	includes/stickynote.admin.inc	dd05f97daf45391ffd6e2832cc4d4c57
+M	includes/stickynote.block.inc	c572244bc352b752c61288fe7499fd28
+M	stickynote.controller.inc	3cbc2bf84900d64716a6f14d61db1ac5
+M	stickynote.info	23a2fbe987563274bb0f212fae84c8cd
+M	stickynote.install	e25c547d7e1917adf90961a6812d59b6
+M	stickynote.module	c80b67e75f14c1f49c57e5a8f2c8bfdd
+A	theme/stickynote.theme.inc	2afebd18fe2f8bff671bbf9f0690b0f3

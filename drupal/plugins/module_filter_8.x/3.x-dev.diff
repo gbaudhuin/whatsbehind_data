@@ -1,0 +1,43 @@
+D	CHANGELOG.txt	
+D	README.txt	
+D	composer.json	
+M	config/install/module_filter.settings.yml	59affeb57bd62cfa741184ee7e0fda53
+D	config/schema/module_filter.schema.yml	
+D	css/dynamic_position.css	
+M	css/module_filter.css	df105bb28061ab3edb4c81473ab6f0e1
+A	css/module_filter.modules.css	f56c572ba1cbcb1a029114e11832658b
+A	css/module_filter.modules_tabs.css	29914a2b42b4833e71ff3c25248c6c48
+A	css/module_filter.update_status.css	fb275791bb8a795ddd2cb7a9c7abfa99
+D	css/module_filter_tab-rtl.css	
+D	css/module_filter_tab.css	
+D	css/modules.css	
+D	css/update_status.css	
+D	js/dynamic_position.js	
+A	js/jquery.winnow.js	3bae72f01c0615231694675e8224b638
+M	js/module_filter.js	573fca64b9bff30491ac6dba9fc1fa72
+A	js/module_filter.modules.js	305e08bff183d95d0c229ecc791a5746
+A	js/module_filter.modules_bare.js	1ea44e55ce67f6a3bfc8dc8c7082fa67
+A	js/module_filter.modules_tabs.js	56c3d3cd3b77355edbb06803c688848d
+A	js/module_filter.modules_uninstall.js	734534137084edcc3403c8b828e1c4e2
+A	js/module_filter.permissions.js	ce0b1d3c345b904512c73dd59b6410d3
+A	js/module_filter.update_status.js	90bea025fd542fa8c438368128c143f3
+D	js/module_filter_tab.js	
+D	js/modules.js	
+D	js/permissions.js	
+D	js/update_status.js	
+M	module_filter.info.yml	15eafe6917b3f3eddf694b890ace32d7
+A	module_filter.install	efc05ff1608b173ce4032988a373312a
+M	module_filter.libraries.yml	f46b75a67010fbcba3d7e47db2d1b5ca
+D	module_filter.links.menu.yml	
+M	module_filter.module	f6be9b98c320a0f4c43ce2edf058ad76
+M	module_filter.permissions.yml	e7cb4508684a84e9f3af6024543df4db
+M	module_filter.routing.yml	74cd46791bac7a18bfeb2dc07914b4f3
+D	module_filter.theme.inc	
+M	src/Controller/ModuleFilterUpdateController.php	5e7b837925f4fd9917f79bece35e8a7d
+D	src/Element/ModuleFilter.php	
+M	src/Form/ModuleFilterSettingsForm.php	33572860deaf09bb5456017479c9c0e1
+M	src/Form/ModuleFilterUpdateStatusForm.php	12a7616a0c8423698dc55b69060c2126
+M	src/Routing/RouteSubscriber.php	6aaf2f2d5e3752caf0851404d904beb3
+D	templates/module-filter-system-modules-tabs.html.twig	
+D	templates/module-filter.html.twig	
+A	templates/system-modules-details.html.twig	f0a0b8dbde81c463faf1406301f619c7

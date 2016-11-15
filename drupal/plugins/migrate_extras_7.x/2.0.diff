@@ -1,0 +1,8 @@
+D	content.migrate.inc	
+D	content_profile.migrate.inc	
+A	date.inc	937af300230f3815168cc58eb74f4ca8
+D	email_registration.migrate.inc	
+D	filefield.migrate.inc	
+D	location.migrate.inc	
+M	migrate_extras.info	111b9a36e295607821212495d0a0a482
+D	privatemsg.migrate.inc	

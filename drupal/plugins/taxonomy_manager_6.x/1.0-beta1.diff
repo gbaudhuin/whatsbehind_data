@@ -1,0 +1,13 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	c895cc202c3536d89d39a8cce2169018
+M	css/taxonomy_manager.css	3e44444b2db5ebad6cc3dc3119973eca
+D	images/grippie.png	
+M	js/csv_export.js	b8b5522197940310ed670b9f303ffb89
+M	js/hideForm.js	62a2d17ba4e9e7b533300bc3f1d1dace
+M	js/termData.js	66adc2ea826ce79294f19fd7775bbf37
+M	js/tree.js	e55dfb53a34b676b65819bf2c51ab87a
+M	js/updateWeight.js	c54d9eb97286f2058ee6796a9aadcc7d
+M	taxonomy_manager.admin.inc	d380baf2278c455fe90b68f18e867418
+M	taxonomy_manager.info	a5feeb82b15bd5e59e68065dd4084a0c
+M	taxonomy_manager.install	923a336a185e407f7ce4940398507c82
+M	taxonomy_manager.module	1004045028f48ba430c0b982a319db76

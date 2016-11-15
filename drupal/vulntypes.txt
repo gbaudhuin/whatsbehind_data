@@ -1,0 +1,23 @@
+General logic error : https://www.drupal.org/node/2271839
+Denial of Service (DOS) : https://www.drupal.org/node/2194655
+Multiple access bypass vulnerabilities : https://www.drupal.org/node/2184843
+Session Fixation : https://www.drupal.org/node/2158651
+Missing Encryption of Sensitive Data : https://www.drupal.org/node/2129381
+OS Injection : https://www.drupal.org/node/1782580
+Privilege escalation : https://www.drupal.org/node/1762492
+Local File Inclusion and Cross Site Scripting : https://www.drupal.org/node/1719548
+Failure to follow guideline/specification -  integrity check value : https://www.drupal.org/node/1679820
+Cross Site Request Forgery (results in Privilege Escalation) : https://www.drupal.org/node/1597414
+Input Validation : https://www.drupal.org/node/1528614
+Sensitive Data Protection Vulnerability : https://www.drupal.org/node/1515282
+Access bypass, Arbitrary code execution : https://www.drupal.org/node/1394428
+Cross Site Scripting (XSS) : https://www.drupal.org/node/1307504
+Validation bypass : https://www.drupal.org/node/1140124
+Denial of Service (DOS) : https://www.drupal.org/node/2194655
+Denial of Service (DOS) : https://www.drupal.org/node/2194655
+Local File Inclusion and Cross Site Scripting : https://www.drupal.org/node/1719548
+Failure to follow guideline/specification -  integrity check value : https://www.drupal.org/node/1679820
+Sensitive Data Protection Vulnerability : https://www.drupal.org/node/1515282
+Access bypass, Arbitrary code execution : https://www.drupal.org/node/1394428
+Cross Site Scripting (XSS) : https://www.drupal.org/node/1307504
+Validation bypass : https://www.drupal.org/node/1140124

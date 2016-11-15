@@ -1,0 +1,12 @@
+D	.project	
+M	README.txt	6586729cd37769c80a9ceba028808ec0
+D	images/comment-arrow.gif	
+D	images/search-button.png	
+M	professional_theme.info	425f4943fdc5f792f6395a92be97f01d
+M	style.css	9b6f8d4b2ebd081eee107fb3b1681427
+M	templates/comment-wrapper.tpl.php	a62099d2a31a91c6c52c6b2fa6b34e37
+M	templates/comment.tpl.php	1284da0e305fca9a287f445f7bbce158
+M	templates/html.tpl.php	6a7039bcc1ef526cb3e06857bc24d09f
+M	templates/node.tpl.php	60a368fea351ea66947528d0920c4dc7
+M	templates/page.tpl.php	16b6a2fe4d274cfeaf52b9dddd701352
+M	theme-settings.php	cc48a4674b294d23557f197ac32d6323

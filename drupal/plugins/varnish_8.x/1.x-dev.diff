@@ -1,0 +1,11 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	config/install/varnish.settings.yml	de707d52a6b0d118c559bfa960d7806e
+A	src/Cache/VarnishBackend.php	021204d815f2a9b6efa1089345f948d8
+A	src/Cache/VarnishBackendFactory.php	eae272ccd4dd526a78885334d84ab53e
+A	src/Form/VarnishAdminForm.php	fe87f7fc53188782cfe13356b19b7e27
+A	varnish.info.yml	06ef7d1e582236c3363d8788bc997f1e
+A	varnish.install	5d175f5c9a370610bee2502932862b33
+A	varnish.links.menu.yml	1ba02d74b89f66a45250167573b944cc
+A	varnish.module	7f6efb0bec0d9a31f5eabebe889492bc
+A	varnish.routing.yml	ad14f93120b16a98b9fa3fe88f003321
+A	varnish.services.yml	3b5dab2280acd492dc3b472017157b2f

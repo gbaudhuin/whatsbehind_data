@@ -1,0 +1,7 @@
+M	.travis.yml	2bf4385a5633fb232203fae974ce7811
+M	multiversion.info.yml	6e0b7b76368ece6242106035052c97c0
+D	src/MigratePassword.php	
+M	src/MultiversionServiceProvider.php	e6790f9f6bcfcfc174ddbe89518b8e43
+M	src/Plugin/migrate/destination/ContentEntityBase.php	c13f7bd5db5ddb6f546e597a22389b61
+D	src/Tests/MigratePasswordTest.php	
+M	tests/modules/multiversion_test_views/multiversion_test_views.info.yml	9e165ce573063eda051df2b66c7f27b6

@@ -1,0 +1,12 @@
+M	TODO.txt	bde2962f46060a5aecafa4f31dec0ae7
+A	css/memcache-storage.css	763b1ca0b8d8f8e1752bf4f4bf0d071d
+M	memcache_storage.info.yml	51b5cc0ee18e4fe6cda14a46572d1c82
+A	memcache_storage.libraries.yml	1800e9c5fe41bd5a554257dc58c0ae8d
+M	memcache_storage.module	ae1e7ca234d9388c79bc2e3aa5c36ca8
+A	memcache_storage.permissions.yml	796eee6c556171e69c9e2798098505f2
+M	src/DrupalMemcache.php	96bea4c5f4fa06b13fce72c46d2cc328
+M	src/DrupalMemcached.php	cc1a5fd22b833a3f0e4bccc44c8a1bac
+M	src/DrupalMemcachedBase.php	f28dd33373783217731be22483456637
+A	src/DrupalMemcachedDebug.php	cc8737377958535b8be4a39eeef6c3a0
+M	src/MemcachedBackend.php	c097f42b9470a58f11f856eb29f4eab6
+A	src/Tests/MemcacheStorageBackendUnitTest.php	3ea9d75f4bec3aca6fa03dba6da36eff

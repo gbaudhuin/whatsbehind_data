@@ -1,0 +1,10 @@
+M	README.txt	d0c580de7593a5cbc59092a3f4be16a1
+M	memcache.inc	384cdfaafd0fbccdef0cbc00fb7fcfc4
+M	memcache.info	c9dd02173fb103fc72d2797943f7ffa0
+M	memcache_admin/memcache_admin.info	452e848609b2ee6b62991e5b3ffa81aa
+M	memcache_admin/memcache_admin.module	ea0cb082fe709ee40da54cfdf5345fbf
+M	tests/memcache-lock.test	e06304f2dc84e7411ef983233de1f46a
+M	tests/memcache-session.test	47126b64c22d9260412db7c9070a1374
+M	tests/memcache.test	93b5a7477a9a0a4a2fd3764d892d4984
+M	tests/memcache_test.info	cd9eb1520bf036eb676550f95d2e0161
+M	tests/memcache_test.module	563b10ee346ac81167ab713bcd20bc31

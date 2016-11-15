@@ -1,0 +1,16 @@
+D	css/ajax.cart.css	
+M	css/uc_ajax_cart.css	ae8e08a784db962a1c41877e649f81dc
+D	js/jquery.form.js	
+M	js/uc_ajax_cart.js	461648254d0d38051e0fedb278f2fab9
+M	templates/uc_ajax_cart_block_content.tpl.php	b129d872b4d1931411d9fffb9dabdd67
+M	templates/uc_ajax_cart_block_content_empty.tpl.php	3f292d4247c442f3aa9f763ed257a7de
+M	templates/uc_ajax_cart_block_header.tpl.php	992c66c7e644e0486da31509119b545a
+M	templates/uc_ajax_cart_messages.tpl.php	ddf9c44632f873abeb302c87391b9267
+M	uc_ajax_cart.admin.inc	cb24c45f67de615a162758d400d4a39f
+M	uc_ajax_cart.info	c86245b0231e3d0eb886bdbec275d2ec
+M	uc_ajax_cart.install	215e8cd0482440b0c4cbf4d34607a883
+M	uc_ajax_cart.module	9441bed3d8d863469777e46d61869b96
+M	uc_ajax_cart.php	8cb39194c2e144b3718b479cee945fc3
+M	uc_ajax_cart.theme.inc	cd0591e9a9a4d06614e296a2bcf587b4
+M	uc_cart_links.pages.inc	0a6bf568ba462df33b7ceee87f0404d3
+M	uc_modules_add_to_cart.php	59321a43ee0f9a0a473103f2db199d92

@@ -1,0 +1,9 @@
+M	CHANGELOG.txt	e58d1ba20f792e57a6138e1d8d8d5496
+M	tests/twitter_mock.info	e8d63d1c3cd012c6cf529a00aca9ab32
+M	twitter.info	4ca137993d94c2ff64477a77edba387b
+M	twitter.module	9281d40fcd509e1e9c370e26338a64d4
+M	twitter_actions/twitter_actions.info	978de4c6f81fac29ba57f40ab821d880
+M	twitter_post/twitter_post.info	68723dfaed423595eddb123423488ff8
+M	twitter_post/twitter_post.module	104ede24e8f5e085258bc5ef6907704b
+M	twitter_signin/twitter_signin.info	ea246b766a6fdc0ddaf6336ac7c1ec1b
+M	twitter_signin/twitter_signin.module	e918b95b964fa031457496866893a8a2

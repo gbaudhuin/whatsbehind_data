@@ -1,0 +1,10 @@
+D	CHANGELOG.txt	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	71a0efe9369505e36fa90e487d74e12d
+D	autocomplete_widgets.admin.inc	
+D	autocomplete_widgets.common.inc	
+M	autocomplete_widgets.info	fc84c31fcaf2a91369d718923cbfff5a
+M	autocomplete_widgets.install	3446b716b3bf1a6dddd2e5fc9f9e82d5
+M	autocomplete_widgets.module	f8c2b2259da8611b81936f9388fbf659
+D	views/autocomplete_widgets.views.inc	
+D	views/autocomplete_widgets_basic_exposed_form_plugin.inc	

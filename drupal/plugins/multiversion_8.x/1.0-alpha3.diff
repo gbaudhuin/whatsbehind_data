@@ -1,0 +1,5 @@
+M	.travis.yml	b4576101091099a6a8be91b15cb1535f
+M	multiversion.info.yml	5d226e40072d7e99dd76390015ab8a77
+M	multiversion_ui/multiversion_ui.info.yml	144f42dcd9862296cef03bee48662fed
+M	src/Tests/EntityStorageTest.php	01ad3c6df1797b5929a845f7ab830d1d
+M	tests/modules/multiversion_test_views/multiversion_test_views.info.yml	f1d0bd29e02c3c7753aac7f068807973

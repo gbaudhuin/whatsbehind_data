@@ -1,0 +1,12 @@
+M	composer_manager.admin.inc	ffdc7171b135432179db2a2f5bf30692
+M	composer_manager.drush.inc	9dd124341e497e18b1a937c463374be5
+M	composer_manager.info	c4f8ad44a8d7b49dcf635aed21d943f4
+M	composer_manager.install	bbcf14b5e036e880e735d8d26f03540c
+M	composer_manager.module	66b2b97ead5144daf2764cf581e96109
+M	composer_manager.writer.inc	607f069b3ce0e95a1dad0accfceec577
+D	composer_manager_sa/.gitignore	
+D	composer_manager_sa/composer.json	
+D	composer_manager_sa/composer_manager_sa.drush.inc	
+D	composer_manager_sa/composer_manager_sa.info	
+D	composer_manager_sa/composer_manager_sa.install	
+D	composer_manager_sa/composer_manager_sa.module	

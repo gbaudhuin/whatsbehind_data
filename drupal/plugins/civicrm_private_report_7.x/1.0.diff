@@ -1,0 +1,13 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	6982d9975b10bb0824610a51fd9e82d4
+A	civi_hooks.php	446a2753c838e7127b16ef9c3536db71
+A	civicrm_private_report.info	8cc672aaadb863e74606bf0848b41459
+A	civicrm_private_report.install	11772b1658090290faab246daeee19ce
+A	civicrm_private_report.module	b7f71d20e10302aa8e4ebcc6130fbf22
+A	civicrm_private_report.test	4f636ea3a0fa8277ab7b9ced256ec791
+A	functions.php	b127c3415547223486dd7dd44669e7b1
+A	resource/js/CRM_Report_Form.js	f3784f8e0797a39d5da784c80955da23
+A	templates/privateCopy.tpl	3537a1824e64e025957e9ce41e96444d
+A	tests/README.txt	4bdc459f3359ca15cd7777197c411149
+A	tests/civicrm_private_report_web_test_case.php	12ed9d8d4fbb09d2b4d4a47e96f0d14d
+A	tests/drupal7.patch	e7a3dd2ed2557c42f4e738bf319c8adb

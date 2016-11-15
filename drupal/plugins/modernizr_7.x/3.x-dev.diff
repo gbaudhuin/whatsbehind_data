@@ -1,0 +1,13 @@
+M	README.txt	59887c59406a9a5c5d21421035ec0c04
+A	css/modernizr.admin.css	d7298a02fd74a9251ffe411a5b6c5126
+A	drush/modernizr.drush.inc	047642d274822f1064f89687477b2323
+A	js/yepnope.js	1d2c892be615636809feaebe723d7e1b
+M	modernizr.admin.inc	feda92a3d55ba9b4a3f8db8c3d5a5c87
+A	modernizr.api.php	c3596d0bdde0dd4d508d6b541ea9c829
+A	modernizr.args.inc	575e16013f1b981fd7673ef2c0cee18c
+D	modernizr.inc	
+M	modernizr.info	c0ca054de2eef6042fff874916e46b96
+M	modernizr.install	fb39638847e7c759e917bc56978c81a0
+M	modernizr.module	a34697219818a88927a45bf1945c42b9
+D	modernizr_loader.js	
+A	tests/modernizr.test	3456062cb2e3c8308be93686566fbbd9

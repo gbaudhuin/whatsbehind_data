@@ -1,0 +1,36 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	22ecfa88832017d01f59fc9cf5d75b97
+M	UPGRADE.txt	8c6804e1947c012f5e1c0147fc9242cf
+D	cdn.admin.css	
+M	cdn.admin.inc	63ec9f4b6b872a953d230e98a8646202
+D	cdn.advanced.inc	
+D	cdn.basic.css.inc	
+D	cdn.basic.farfuture.inc	
+D	cdn.basic.inc	
+D	cdn.constants.inc	
+D	cdn.css	
+D	cdn.fallback.inc	
+M	cdn.info	66f7393f35bf56515b1cdb9cebd0428f
+D	cdn.install	
+D	cdn.mimetypes.inc	
+M	cdn.module	261b7378b5cb8be2016ed3dbe502e6fc
+M	cdn.requirements.inc	451f5b7c886785e6e7a1b41ccd1e4faa
+M	cdn.stats.inc	d6dcff9ec932f2af5101be4c6dce30d8
+D	help/admin-details-mode-fc-db.html	
+D	help/admin-details-mode-fc-pid.html	
+D	help/admin-details-mode-fc.html	
+D	help/admin-details-mode-pull-cdn-mapping.html	
+D	help/admin-details-mode-pull-far-future.html	
+D	help/admin-details-mode-pull-ufi.html	
+D	help/admin-details-mode-pull.html	
+D	help/admin-details-mode.html	
+D	help/admin-details.html	
+D	help/admin-other-cdn-pick-server.html	
+D	help/admin-other-exceptions.html	
+D	help/admin-other-https.html	
+D	help/admin-other.html	
+D	help/cdn.help.ini	
+M	patches/drupal6.patch	5c464a999d6debae80282d68c28bbd22
+M	patches/hook_file_url_alter.php	15b025909aaf6b87884475be0f8e1f44
+A	patches/imagecache.patch	ea9946e41b523a4cf3cedce7ed541a15
+M	theme.inc	fd469d117a197cee7fac13c405174c8e

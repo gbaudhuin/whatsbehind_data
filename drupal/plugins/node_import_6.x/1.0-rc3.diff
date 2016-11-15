@@ -1,0 +1,14 @@
+A	CHANGELOG.txt	c4032eb01c3242ec1ba5c5466273ae1e
+M	README.txt	4d9a25ab07550f9e9987a35a60c09b2a
+A	doxygen.txt	b5e38e0705e0b267282e5055d4bb524e
+A	hook_node_import_docs.php	4bc603dacdc9677b07d3564623d127f4
+M	node_import.admin.inc	a81f62fc4c9163ac79ac1963d4daffc4
+M	node_import.inc	339738ce3a97b93ca4502757bfe8d1d3
+M	node_import.info	4b40957986826e0f511543dcfaaa40c0
+M	node_import.module	a0fbfe4c6807885ce813394924215aa0
+M	supported/book.inc	586eabd183ec121eddb1596d44c2759c
+M	supported/comment.inc	cf360b9165719803c6d324f06312971b
+M	supported/menu.inc	8f1fba181ed5f0663200a08b35ade419
+M	supported/node.inc	0ce7343f8f02ce976c8ed9100a3103d8
+M	supported/path.inc	78a08b10bf920c238e4e3c3049e8ea24
+M	supported/taxonomy.inc	0aa8888e2420f8baa66011e6b4ef3b5e

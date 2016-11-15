@@ -1,0 +1,11 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	42eee78801b840ab53eb0017daa2b64c
+A	jdrupal.api.php	ac967f7b4d1e5ba641b1c9a40f7df3d8
+A	jdrupal.info.yml	b4f051371b50263575511d8ba17879a4
+A	jdrupal.libraries.yml	cd4d55a63173b5ebf08455167cd8c6d9
+A	jdrupal.module	8141316a06c587fb5f7d3b17cd971cca
+A	js/jdrupal.min.js	12d13179e564296e57f16dac0df8724b
+A	src/Controller/jDrupalController.php	bf1eef5901e77d0bed5623e2c70da67d
+A	src/Plugin/rest/resource/jDrupalConnect.php	157853cd1cb0080e57f915115ca550d9
+A	src/Tests/jDrupalConnectTest.php	646b61dcc193199a5636f17474929b20
+A	tests/src/Unit/JDrupalConnectTest.php	646b61dcc193199a5636f17474929b20

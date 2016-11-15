@@ -1,0 +1,19 @@
+M	CHANGELOG.txt	124f38dadedb1dd745ab19d27675bf3b
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	86ef6ef0fbb9952b14a243d8e03a470d
+M	images/noderef-sprites.png	46225acae13478d3012b3261be5093d4
+M	js/admin.drag.js	602cda681da1b80d08046e6c49bc6111
+M	js/admin.erd.js	9b85d0ba0050dcdc719504ef0ef7821d
+M	js/admin.view_settings.js	4db33bebb4767a80012b471387d64684
+M	js/jquery.corner.js	483c8cda44f314c9f4c567a46c7727e0
+M	js/node_form.js	03ee6dabc7aab3a7b09a5dc013d9ca15
+M	js/noderef_dialog.js	2c7a48c2b6dd3f85c7ae80ea01f5a8e7
+M	noderelationships.admin.inc	f865b7f89f3ed17f74b3eaaa7635400f
+M	noderelationships.inc	a07c92758fefa43cb94001680420fefa
+M	noderelationships.info	917c9c2fe5996bce9b45d64611aeb076
+M	noderelationships.install	9660d122ccce5e92f0589a1019cf8345
+M	noderelationships.module	60fcf2645ecfe41e8a266fa98b187e9d
+M	noderelationships.pages.inc	208d2c48a7fd559e442e8db492c7ab0f
+D	noderelationships.system.inc	
+D	noderelationships.translation.inc	
+M	views/noderelationships.views_default.inc	f728062f4c98b5d7786cda42316849cd

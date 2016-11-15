@@ -1,0 +1,15 @@
+D	INSTALL.txt	
+M	README.txt	d0223eb668f7739bdd2b096936105d6e
+M	classified.admin.inc	c83408ff196ec2709461aa00de7fecf5
+M	classified.info	7bd1c0e8926ff69b21d3be57c508b758
+M	classified.module	90f24c2c7cebfc6302bd4a57ab7e4d1f
+M	classified.scheduled.inc	90ccba5ac956b3963dc410dc81cbbb51
+M	help/api.html	7ba07030201db61fb97e56773dee6779
+M	modules/classified_notifications/classified_notifications.admin.inc	9c479980b2ecd37ff39a3ba387fedb21
+M	modules/classified_notifications/classified_notifications.info	0907961e58f8302a8d6720a7cbc80213
+M	modules/classified_notifications/classified_notifications.module	fba596ada9c0652de50079563719c9f2
+M	tests/classified_basic.test	2d106db246a52a13306aeade4320b547
+M	tests/classified_notifications.test	c4a895c92812c8fd3d2c199ec1e79425
+M	tests/classified_test.info	ecfe35033a28c1d25a37709d278d8921
+M	views/classified.views.inc	6c4a08fefb8b878c8557e970af478999
+M	views/classified_handler_field_date_purge.inc	54b1b9fb29f7bf348bfea396792cf761

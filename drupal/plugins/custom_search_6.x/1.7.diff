@@ -1,0 +1,12 @@
+M	custom_search.info	07d50fc4289635b17844328a08960313
+M	custom_search.js	1bc465ae1ef0facd192863c4ea62bf8d
+M	custom_search.module	7bafef584a87ca28f4a9af6631fd5bf9
+M	custom_search.pages.inc	79424ba13955c336b8c456b759297471
+M	modules/custom_search_blocks/custom_search_blocks.info	87812cf2f88ff30d8285882ec111ddf9
+M	modules/custom_search_i18n/custom_search_i18n.info	56b288c01ad6b790feef4da6cc3ce3ec
+M	modules/custom_search_i18n/custom_search_i18n.module	60a7bb6e5fd78bf170b1f758a75e5e6a
+M	modules/custom_search_taxonomy/custom_search_taxonomy.info	24be035f5be66551fe4f0bb950ce7f23
+M	modules/custom_search_taxonomy/custom_search_taxonomy.module	80ad11a1e968f7d3fa6ab283dce6ecea
+D	translations/custom_search.pot	
+D	translations/fr.po	
+D	translations/it.po	

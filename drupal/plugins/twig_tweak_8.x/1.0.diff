@@ -1,0 +1,9 @@
+M	src/TwigExtension.php	333a464def332af47490df41ce434d0c
+D	tests/src/Functional/TwigTweakTest.php	
+D	tests/twig_tweak_test/config/install/block.block.powered_by_drupal.yml	
+D	tests/twig_tweak_test/config/install/views.view.twig_tweak_test.yml	
+D	tests/twig_tweak_test/templates/twig-tweak-test.html.twig	
+D	tests/twig_tweak_test/twig_tweak_test.info.yml	
+D	tests/twig_tweak_test/twig_tweak_test.module	
+M	twig_tweak.info.yml	7fbdb1b41c1fc054ac581a12e62723ea
+M	twig_tweak.services.yml	15738e8e279067826b6a364132cec9bd

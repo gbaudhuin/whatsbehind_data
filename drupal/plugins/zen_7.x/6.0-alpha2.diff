@@ -1,0 +1,313 @@
+A	STARTERKIT/.eslintignore	33699d90f08b2b384fb1314121e63fd9
+A	STARTERKIT/.eslintrc	624812f323c4ffe84b1bde49f175cc2f
+A	STARTERKIT/.scss-lint.yml	c67f526ae825018a3c3410b8071ae881
+M	STARTERKIT/Gemfile	67e311c9633dea665230a4c16590da02
+M	STARTERKIT/STARTERKIT.info.txt	b9ff20f48bf982b50cfbce8b46180980
+M	STARTERKIT/config.rb	321252896baa9eb41e0bb6530e785c32
+A	STARTERKIT/css/base/base-rtl.css	dc06d3c2473fb531a996cce865ff278e
+M	STARTERKIT/css/components/misc-rtl.css	08b1e16f13aa1dc79bbd4c9bfc5dd210
+M	STARTERKIT/css/components/misc.css	fe2b915377ce47cde4fe136b2b4a9eec
+M	STARTERKIT/css/layouts/fixed-rtl.css	265e24841adaaaddcab5f90fbe01c9a1
+M	STARTERKIT/css/layouts/fixed.css	eafa844f17208c216da0f87e6f9dbc07
+M	STARTERKIT/css/layouts/responsive-rtl.css	855a31c5f8b2390c04807b69bcea5f19
+M	STARTERKIT/css/layouts/responsive.css	6711e6fe00e4fdd1b0217669a5dcf8cf
+D	STARTERKIT/css/normalize-rtl.css	
+M	STARTERKIT/css/styles-rtl.css	d97204cbc81762d881ee7fde434bcb42
+M	STARTERKIT/css/styles.css	0cfc2b3403b77f3fc84af3dfd4af92ed
+A	STARTERKIT/gulpfile.js	e498563dfb0d84429d66ddd307dfb5b3
+A	STARTERKIT/images/draggable.png	36d7db7d0339f620d27a1ba7a0534587
+A	STARTERKIT/images/grippie.png	2a1b86da8c7f3b398b14e506ac400b09
+A	STARTERKIT/images/throbber.gif	ae6ffc909fc0deb781b3775e4cf517e7
+A	STARTERKIT/images/tree-bottom.png	ff98382c5d0f382582d8fcab15edf3b2
+A	STARTERKIT/images/tree.png	af5b480929f58b586b759a2e0b7f822a
+M	STARTERKIT/js/script.js	cd1370e70504688dc5276e6f6f4f2dce
+A	STARTERKIT/package.json	7cfa86c847f5fbce979b106adda0606b
+D	STARTERKIT/sass-extensions/zen-grids/DO_NOT_MODIFY	
+D	STARTERKIT/sass-extensions/zen-grids/LICENSE.txt	
+D	STARTERKIT/sass-extensions/zen-grids/README.txt	
+D	STARTERKIT/sass-extensions/zen-grids/lib/zen-grids.rb	
+D	STARTERKIT/sass-extensions/zen-grids/stylesheets/_zen.scss	
+D	STARTERKIT/sass-extensions/zen-grids/stylesheets/zen/_background.scss	
+D	STARTERKIT/sass-extensions/zen-grids/stylesheets/zen/_grids.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/project/_init.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/project/_layout.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/project/_modules.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/project/_visually-hidden.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/project/example.html	
+D	STARTERKIT/sass-extensions/zen-grids/templates/project/manifest.rb	
+D	STARTERKIT/sass-extensions/zen-grids/templates/project/styles.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/README.txt	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/manifest.rb	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/sass/function-zen-direction-flip.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/sass/function-zen-grid-item-width.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/sass/function-zen-half-gutter.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/sass/function-zen-unit-width.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/sass/zen-clear.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/sass/zen-float.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/sass/zen-grid-background.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/sass/zen-grid-container.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/sass/zen-grid-flow-item.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/sass/zen-grid-item-base.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/sass/zen-grid-item.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/sass/zen-nested-container.scss	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/test-results/function-zen-direction-flip.css	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/test-results/function-zen-grid-item-width.css	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/test-results/function-zen-half-gutter.css	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/test-results/function-zen-unit-width.css	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/test-results/zen-clear.css	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/test-results/zen-float.css	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/test-results/zen-grid-background.css	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/test-results/zen-grid-container.css	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/test-results/zen-grid-flow-item.css	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/test-results/zen-grid-item-base.css	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/test-results/zen-grid-item.css	
+D	STARTERKIT/sass-extensions/zen-grids/templates/unit-tests/test-results/zen-nested-container.css	
+D	STARTERKIT/sass-extensions/zen-grids/zen-grids.gemspec	
+M	STARTERKIT/sass/README.txt	e93ca0ace9d5f4fae402455ffd1707df
+M	STARTERKIT/sass/_init.scss	8778e801ffa31ab86d4e5698ca144795
+D	STARTERKIT/sass/_mixins.scss	
+D	STARTERKIT/sass/_normalize-rtl.scss	
+D	STARTERKIT/sass/_normalize.scss	
+D	STARTERKIT/sass/_print.scss	
+A	STARTERKIT/sass/_variables.scss	6f09a30945c017d636df2a973e25c1e6
+A	STARTERKIT/sass/base/_fonts.scss	7f95e952bbebdcd183f4062875046d17
+A	STARTERKIT/sass/base/_normalize-embedded.scss	e7df07b24947b6fee7da6e63b86dd9a5
+A	STARTERKIT/sass/base/_normalize-forms.scss	71d7c0373f5fe1a9fdc89188b0f4a6c5
+A	STARTERKIT/sass/base/_normalize-grouping.scss	214bf746d710da5862f8b07890fc6ae8
+A	STARTERKIT/sass/base/_normalize-headings.scss	2a9e1932a91aa3ee0b42eed0470b9743
+A	STARTERKIT/sass/base/_normalize-links.scss	54f05f49fa0f0b7f440acca1566580a0
+A	STARTERKIT/sass/base/_normalize-tables.scss	516aa10d8a229d32b33ad54b8fbbeb9f
+A	STARTERKIT/sass/base/_normalize-text.scss	cd56c27f426bed3c32c1bc6a03d8560d
+A	STARTERKIT/sass/base/_normalize.scss	35d9c018dd7f9950b743efe6158a199a
+A	STARTERKIT/sass/base/markup/embedded-img.hbs	622b5a6c2cea44edb7c170b22607f9ac
+A	STARTERKIT/sass/base/markup/embedded-svg.hbs	e91deac1d76fdff16e9907b54ce35584
+A	STARTERKIT/sass/base/markup/forms-button.hbs	bc3d4a271928c8e60b36bdc887b296b2
+A	STARTERKIT/sass/base/markup/forms-fieldset.hbs	01ad67fe8cf187b3ce687e8ab095f1bf
+A	STARTERKIT/sass/base/markup/forms-input-checkbox.hbs	8a13bb349d3ed5b9e4c47c3025e2e820
+A	STARTERKIT/sass/base/markup/forms-input-radio.hbs	97d53b454f6137795488590e0e3bc707
+A	STARTERKIT/sass/base/markup/forms-input.hbs	1d1573921d47947db21f3c098ad7e884
+A	STARTERKIT/sass/base/markup/forms-label.hbs	6f4694eb45f4ff87a13585eba30d8bfa
+A	STARTERKIT/sass/base/markup/forms-select.hbs	6cbd262f0b44ca215c7511a1c3445da0
+A	STARTERKIT/sass/base/markup/forms-textarea.hbs	82e2af14902c19ac169dbe5337104fc9
+A	STARTERKIT/sass/base/markup/grouping-blockquote.hbs	f053c82deb43b4607f611bccf2d31e97
+A	STARTERKIT/sass/base/markup/grouping-figure.hbs	fd2af4bec0aa4b3b83316334527aabd1
+A	STARTERKIT/sass/base/markup/grouping-hr.hbs	bcee22f1978a65d072d5cbddc1f6ffbb
+A	STARTERKIT/sass/base/markup/grouping-lists-dl.hbs	0056cf1ec97c64d52681aaf4696d79f2
+A	STARTERKIT/sass/base/markup/grouping-lists-ol.hbs	28fc62e1485427d3414373aafe6b2cc8
+A	STARTERKIT/sass/base/markup/grouping-lists-ul.hbs	f1f2ada936538832cd2e90ff0feda279
+A	STARTERKIT/sass/base/markup/grouping-p.hbs	16348c66030ea911c0163e3a81781530
+A	STARTERKIT/sass/base/markup/grouping-pre.hbs	44e3523835a634bcb12f6cac79e8ffd8
+A	STARTERKIT/sass/base/markup/headings-h.hbs	0854da6363ca37b9cf974afafc2cd6e3
+A	STARTERKIT/sass/base/markup/links-a.hbs	2a7e59fcecb692f86ab31d0025b1566a
+A	STARTERKIT/sass/base/markup/tables-table.hbs	ac5da60e8e45df989d669afd2ba747aa
+A	STARTERKIT/sass/base/markup/text-abbr.hbs	47cb83c0b4bff3b948d12188bef7c897
+A	STARTERKIT/sass/base/markup/text-b.hbs	8109665ad97655defb979a423dd33b44
+A	STARTERKIT/sass/base/markup/text-cite.hbs	6c69ca7fee061c58e1adbefb61b51fdf
+A	STARTERKIT/sass/base/markup/text-code.hbs	b309c30d7c1d80e9e2e742e3137b08ec
+A	STARTERKIT/sass/base/markup/text-del.hbs	56a70c91689e158440fdaa4203dab2ae
+A	STARTERKIT/sass/base/markup/text-dfn.hbs	06d7a643416ffe79ca5e7164c510e210
+A	STARTERKIT/sass/base/markup/text-i.hbs	24e66494694cf441c55e310bf1981227
+A	STARTERKIT/sass/base/markup/text-ins.hbs	b9eb382566d26ce6194316d1b1ad1726
+A	STARTERKIT/sass/base/markup/text-mark.hbs	3440b0d0ea2ad9fae4f37af80a8fb3df
+A	STARTERKIT/sass/base/markup/text-q.hbs	806d7839d3465c941a567089592343e6
+A	STARTERKIT/sass/base/markup/text-s.hbs	c921e1b38a4d5d899a756523cce4537d
+A	STARTERKIT/sass/base/markup/text-small.hbs	88a7ee58e947f45c18c4f75e12eec9eb
+A	STARTERKIT/sass/base/markup/text-sub.hbs	0fc4ee429a6ef45f93cc5074da1c786a
+A	STARTERKIT/sass/base/markup/text-u.hbs	a358cafa0cd5ef49b4bc7bdb362edd60
+A	STARTERKIT/sass/base/markup/text.hbs	bcf007a6dadde239c115a85de604b765
+A	STARTERKIT/sass/components/__kss-categories.scss	14b89b183e50c743f5cc2c6de55fbb66
+A	STARTERKIT/sass/components/_autocomplete.scss	e9f3445599a64b0c3aec432b25cbab31
+A	STARTERKIT/sass/components/_box.scss	12c71629bf5f8941aa186fb06ce27411
+A	STARTERKIT/sass/components/_breadcrumb.scss	cb8d3c95393ac6e75c7255ad20fdb3dc
+A	STARTERKIT/sass/components/_button.scss	8ad4e3753901cafb2ace8cb8cb73a646
+A	STARTERKIT/sass/components/_clearfix.scss	2448e160ffea59a7ed9b74db2f3f3001
+A	STARTERKIT/sass/components/_collapsible-fieldsets.scss	1ed1416ae7789ffb6dd960d37a1140b5
+A	STARTERKIT/sass/components/_comments.scss	779e5b0d0e82e434ea8c531b65c04119
+A	STARTERKIT/sass/components/_form-item.scss	2a67f43e8eea1c0076606dd0c4955615
+A	STARTERKIT/sass/components/_form-tables.scss	246b927dc217cc89d1631f91fbc244ed
+A	STARTERKIT/sass/components/_grippie.scss	d540c95c3b25801c6be2d323f7d89f4b
+A	STARTERKIT/sass/components/_header.scss	3f3125a412f64b3c55c9fe1493550d09
+A	STARTERKIT/sass/components/_hidden.scss	4bf89116d14c5bdf91f4b9a7541b1a5e
+A	STARTERKIT/sass/components/_highlight-mark.scss	b15de631e79b77b92230b17110978833
+A	STARTERKIT/sass/components/_inline.scss	4c6bbe807ad4bc72ddf90228bac2e238
+A	STARTERKIT/sass/components/_messages.scss	881c50d86ade38a8ec1c95519fa58edd
+D	STARTERKIT/sass/components/_misc-rtl.scss	
+D	STARTERKIT/sass/components/_misc.scss	
+A	STARTERKIT/sass/components/_more-link.scss	43b8e4d38afde1faf1947be036be0ed7
+A	STARTERKIT/sass/components/_navbar.scss	25ea4f091760438661c74264d1652038
+A	STARTERKIT/sass/components/_no-wrap.scss	c30619da653d25514adc94d00ed19ae2
+A	STARTERKIT/sass/components/_page.scss	cf958cc63c01837fb0d53aa5c565ae6e
+A	STARTERKIT/sass/components/_pager.scss	0a52b26adbe879b7860e289ef024bf02
+A	STARTERKIT/sass/components/_print-none.scss	63cf65a2f8431321d685cd7fd2a92023
+A	STARTERKIT/sass/components/_progress-bar.scss	9cb558a2c459317c6343e7ad5e0839e1
+A	STARTERKIT/sass/components/_responsive-video.scss	9ea7bb5cf4a3b3ecdcc2f57cce99f456
+A	STARTERKIT/sass/components/_side-menu.scss	595f0cae15686d95cab4f99eaa693ba5
+A	STARTERKIT/sass/components/_skip-link.scss	01a2364e38f8473314a2f9c1468ccf32
+A	STARTERKIT/sass/components/_status.scss	4d0c55d93b30d9d82c20bea30ce43f59
+A	STARTERKIT/sass/components/_tabledrag.scss	fb54dec8c82a54659f90864a9823f665
+A	STARTERKIT/sass/components/_tabs.scss	b6f11f22852dd76290a116ebefe1acb1
+A	STARTERKIT/sass/components/_visually-hidden.scss	fa324387fa98822bbc9be174d911cf17
+A	STARTERKIT/sass/components/_watermark.scss	c4ffa284a9a9e8090bd5aa5549bd1910
+A	STARTERKIT/sass/components/_wireframes.scss	1fcc37cdfa32c93cdb3d65ef11debf0e
+A	STARTERKIT/sass/components/markup/autocomplete.hbs	47dde959e52e41ee716997cd194fca9c
+A	STARTERKIT/sass/components/markup/box.hbs	eb67f631a51b0d4fc4eb743cfbe944cd
+A	STARTERKIT/sass/components/markup/breadcrumb.hbs	04654df9b10f1d4e035e8a1997469ff8
+A	STARTERKIT/sass/components/markup/button.hbs	656f73a8153f35d83391c748c3237ee0
+A	STARTERKIT/sass/components/markup/clearfix.hbs	ec35bcbf9890cf933915108f9f88af82
+A	STARTERKIT/sass/components/markup/form-item.hbs	a55aee53c1bea33c2c17e486454388d7
+A	STARTERKIT/sass/components/markup/header.hbs	47c37e727b49a30a257efa162e67622d
+A	STARTERKIT/sass/components/markup/highlight-mark.hbs	e0b55b517541a82c2080cb7cd9809e74
+A	STARTERKIT/sass/components/markup/messages-multiple.hbs	46bc37051ee5119bbc4e3892231b35b0
+A	STARTERKIT/sass/components/markup/messages-single.hbs	6e7111023dff2f5cdab672704d8030de
+A	STARTERKIT/sass/components/markup/print-none.hbs	ebccd087d66c0ba38c3ae4cadb122d6b
+A	STARTERKIT/sass/components/markup/responsive-video.hbs	9c4aeafcf1b2b075941efb88a8a17422
+A	STARTERKIT/sass/components/markup/skip-link.hbs	865ffdbf1c223fdb59ea44a2e362a83d
+A	STARTERKIT/sass/components/markup/status.hbs	ee7804e8f90a9ca1e6338c19fb6ea61b
+A	STARTERKIT/sass/components/markup/tabledrag.hbs	54752c41d95ed79cb10763af21d8fba9
+A	STARTERKIT/sass/components/markup/tabs--secondary.hbs	a1b3ff6885efbcbf4e736cb8eb7148dc
+A	STARTERKIT/sass/components/markup/tabs.hbs	b9767341420a0b6a269b0212214cb916
+A	STARTERKIT/sass/components/markup/visually-hidden.hbs	65f6c89f72651898a1dab99049f3a419
+A	STARTERKIT/sass/components/markup/watermark.hbs	76caf3128ba5da28b660bfb16e5a672c
+D	STARTERKIT/sass/layouts/_fixed.scss	
+D	STARTERKIT/sass/layouts/_responsive-rtl.scss	
+D	STARTERKIT/sass/layouts/_responsive.scss	
+A	STARTERKIT/sass/layouts/_sidebars.scss	8240d8ba6afccb24aad790c0832c0540
+A	STARTERKIT/sass/library/_clearfix.scss	7a4dcb66c1304e834e877861e89d4e41
+A	STARTERKIT/sass/library/_color.scss	9618df565fcf04f87ba704a0a9a6f61c
+A	STARTERKIT/sass/library/_rtl.scss	062e1c4584b497b2faa481ce1e032271
+A	STARTERKIT/sass/library/_visually-hidden.scss	32760e3b24af4c010de6c3981537f4e4
+A	STARTERKIT/sass/style-guide/sass-colors.hbs	b0a26caf03cb97124f9b9fa98a0d1616
+A	STARTERKIT/sass/style-guide/sass-colors.scss.txt	e2ca1b636d3f83910e671637f4828205
+A	STARTERKIT/sass/style-guide/styleguide.md	72d0b12ba1a45be0435fd8937b5d0756
+M	STARTERKIT/sass/styles-rtl.scss	f4e2b7ee20bc958ea47c2df11c8c0ded
+M	STARTERKIT/sass/styles.scss	bd7c6a2a036f207ca49a11be1628f37f
+A	STARTERKIT/styleguide/config.json	27c7378d046f73abf62bf477b49ac5bb
+A	STARTERKIT/styleguide/index.html	68fada969e90434d733f8d661832bc76
+A	STARTERKIT/styleguide/public/WARNING.txt	487b2f22cef9c22695d7ea6437c0e476
+A	STARTERKIT/styleguide/public/github-fork--black.png	5b6b3233153feca50a94aa6c60873a5f
+A	STARTERKIT/styleguide/public/kss.css	6e33d3e1b376aeaaf6f376555b35ece5
+A	STARTERKIT/styleguide/public/kss.js	9606225c5350f02511d81b94009394a1
+A	STARTERKIT/styleguide/public/kss.less	9f71a064d67de852066aed8ba35f576a
+A	STARTERKIT/styleguide/public/less.js	3fbe33eb89f2f32a473f2e01fa1856f1
+A	STARTERKIT/styleguide/public/prettify.js	e323de46c4065d11c92e8132fad3393b
+A	STARTERKIT/styleguide/public/sample-inline.png	0e33e269a76f4f04865eec27cdbfc124
+A	STARTERKIT/styleguide/public/sample-inline.svg	849590aabbb2050c62ca6fd012288120
+A	STARTERKIT/styleguide/public/sample.png	70cee5390b26fc667b528584ad6c8867
+A	STARTERKIT/styleguide/public/sample.svg	a3a4c3dbb8ad8bd4eec160241ba9d397
+A	STARTERKIT/styleguide/section-base.html	1be3fb5c6a2cea37e934e28a06b68561
+A	STARTERKIT/styleguide/section-components.html	e87c1585b473064c95c4bd8a240281c1
+A	STARTERKIT/styleguide/section-layouts.html	de223d245293c2f6b202431afc6ab411
+A	STARTERKIT/styleguide/section-sass.html	7eeed8ba0c06e26f7af78810c855b2b6
+M	STARTERKIT/template.php	4ebe3bf8d70bf3628c0dc3ca48fd415a
+M	STARTERKIT/theme-settings.php	757b1a38702353e22ec245d92089a880
+D	js/html5-respond.js	
+D	js/html5.js	
+A	js/html5shiv.min.js	3044234175ac91f49b03ff999c592b85
+D	js/respond.js	
+A	panels-layouts/zen_main/icon.png	5619db5ee3795ae7e5b190372fd01c5e
+A	panels-layouts/zen_main/zen-main.tpl.php	efbed99cb16cbd135cc8ff056e84f758
+A	panels-layouts/zen_main/zen_main.inc	88fa0daa42c736991872d01e0a2fb4c2
+M	template.php	94c1187232583a6ca015c32970528eed
+M	templates/block.tpl.php	6638f97a2b8f65347627b25d715999fa
+M	templates/comment-wrapper.tpl.php	dc0ac40dc0c6786b96ea57eae748a699
+M	templates/comment.tpl.php	836f138e79d4a951dd38ea7f7fca216c
+M	templates/html.tpl.php	24654ed44c10444c737624239eceae5b
+M	templates/maintenance-page.tpl.php	5871afbb3986cf5e7339c033d3199ba1
+M	templates/node.tpl.php	d1158114488929b2125b3af0561e168f
+M	templates/page.tpl.php	ac7826d5f5d5f02d158f0c51e6479657
+M	templates/pane-header.tpl.php	eea4c680ff70955b7db0a77cb8d4821a
+M	templates/pane-navigation.tpl.php	1d7f7a7f667127214409961eefc75b13
+A	templates/panels-pane--no-wrapper.tpl.php	b36547f4ed18aac7bb18f5ad590bc454
+M	templates/panels-pane.tpl.php	496048b1ab197a429fcc82418c05b686
+M	templates/region--footer.tpl.php	eecf66b88972a794e309531c49d9a412
+M	theme-settings.php	9c868ddcd1697f28d30c8206e5027663
+M	zen-internals/css/styles-fixed-rtl.css	9db664c7f302677fe0c375135e3c5326
+M	zen-internals/css/styles-fixed.css	5f5ea2e8e2a83af769a47658517701b4
+M	zen-internals/css/styles-rtl.css	b15087e5497a361cf27c3fd467433072
+M	zen-internals/css/styles.css	e7593162dda00f52cb55b0ec04301799
+M	zen-internals/extras/sass/_init_extras.scss	641d31dbad60ab032848184d18de3001
+M	zen-internals/extras/sass/components/css-misc-rtl.scss	faef30082d908aed6352ffa5317e905d
+M	zen-internals/extras/sass/components/css-misc.scss	3f0aabbf1c6b77e1dcc9bc26cef47808
+M	zen-internals/extras/sass/layouts/css-fixed-rtl.scss	8f5a9af5fc0d8ede530ecd70395fd293
+M	zen-internals/extras/sass/layouts/css-fixed.scss	5de7f21bec9e222f56069f6b40459816
+M	zen-internals/extras/sass/layouts/css-responsive-rtl.scss	74c9521a346c845b1ecd10b37470e5a2
+M	zen-internals/extras/sass/layouts/css-responsive.scss	1241897c3b55381786bf0c6639e2d4b3
+D	zen-internals/extras/sass/styles-fixed-rtl.scss	
+D	zen-internals/extras/sass/styles-fixed.scss	
+A	zen-internals/extras/text-replacements/base/base--fieldset--replace.txt	2db463c111c82d0040913dc0c15cbfad
+A	zen-internals/extras/text-replacements/base/base--fieldset--search.txt	0d444307056487e18a991a7a026cbbf0
+A	zen-internals/extras/text-replacements/base/base--font-family--search.txt	1bb07e32dc34c9eaf1bf90c605640681
+A	zen-internals/extras/text-replacements/base/base--html--search.txt	1c734d7c65307a5a13817bd3a101f903
+M	zen-internals/extras/text-replacements/components/misc--navigation-links--replace.txt	bfbd84c4870a4428500072d0e92da260
+M	zen-internals/extras/text-replacements/components/misc--navigation-links--search.txt	c03061631bd2388f98eff6cf48d2f26d
+M	zen-internals/extras/text-replacements/components/misc--titles--replace.txt	3a7a262f84d20034c7814449f4908ac3
+M	zen-internals/extras/text-replacements/components/misc--titles--search.txt	5879194feb15cedd038f405d82d7dc49
+A	zen-internals/extras/text-replacements/components/misc--watermark--replace.txt	f891acd878ec60c7f799b62ccf553475
+A	zen-internals/extras/text-replacements/components/misc--watermark--search.txt	753d5e696754ecdb4648d4e357594e04
+A	zen-internals/extras/text-replacements/components/misc--watermark-2--replace.txt	6164c8ecbfb83a833588d67f8a6e292e
+A	zen-internals/extras/text-replacements/components/misc--watermark-2--search.txt	cf53daa4ca9b85107d1d6fa41cc3f6fc
+A	zen-internals/extras/text-replacements/components/print--abbr--search.txt	d46eba33eac3f5f586f485e29d28ec10
+A	zen-internals/extras/text-replacements/components/print--useful-url--replace.txt	f48fbc2c25a6592423c6cc592627fffe
+A	zen-internals/extras/text-replacements/components/print--useful-url--search.txt	44c5dca54ab4b9aa49fed38583da8c91
+M	zen-internals/extras/text-replacements/layouts/fixed--sidebar-first--replace.txt	5de50dc6bc66e3df666c5fb71e250a8e
+M	zen-internals/extras/text-replacements/layouts/fixed--sidebar-first--search.txt	3375e4df134b4c647497f385fd5ecf28
+M	zen-internals/extras/text-replacements/layouts/fixed--sidebar-second--replace.txt	4538dec7f7a8214d0dd5348320c1e814
+M	zen-internals/extras/text-replacements/layouts/fixed--sidebar-second--search.txt	d054ddf1de6963041cb9f89505d78b39
+M	zen-internals/extras/text-replacements/layouts/fixed--two-sidebars--replace.txt	d79100457166ec42d39817acc913e29a
+M	zen-internals/extras/text-replacements/layouts/fixed--two-sidebars--search.txt	0bfaa98212c420dfe092ac0a1d029e11
+M	zen-internals/extras/text-replacements/layouts/fixed-rtl--sidebar-first--replace.txt	81dc3fb8670b4257874b7d3b8e36c023
+M	zen-internals/extras/text-replacements/layouts/fixed-rtl--sidebar-first--search.txt	e39adc9c62846ba9dd32145768ae8908
+M	zen-internals/extras/text-replacements/layouts/fixed-rtl--sidebar-second--replace.txt	c4c1b6b9a6ecd94d9e9d265b0a237f70
+M	zen-internals/extras/text-replacements/layouts/fixed-rtl--sidebar-second--search.txt	a177fcbfde88ba528423d86946351e03
+M	zen-internals/extras/text-replacements/layouts/fixed-rtl--two-sidebars--replace.txt	ee292cfc375f93ed01acbca4ac6dd7f5
+M	zen-internals/extras/text-replacements/layouts/fixed-rtl--two-sidebars--search.txt	191d1cd5a5d9b46a628072f5d1475437
+M	zen-internals/extras/text-replacements/layouts/responsive--large-sidebar-first--replace.txt	f0208b7631a36a37dcdbec821e9f4f24
+M	zen-internals/extras/text-replacements/layouts/responsive--large-sidebar-first--search.txt	cfcd0bfee7b52300bbe19ef91e1038dc
+M	zen-internals/extras/text-replacements/layouts/responsive--large-sidebar-second--replace.txt	00e8bcf62621882a5bc24cf036e4f461
+M	zen-internals/extras/text-replacements/layouts/responsive--large-sidebar-second--search.txt	f3ef34085ac34749e2835010a241da24
+M	zen-internals/extras/text-replacements/layouts/responsive--large-two-sidebars--replace.txt	165c03c000dd525021a657f6a0c82be7
+M	zen-internals/extras/text-replacements/layouts/responsive--large-two-sidebars--search.txt	be07443c0bb1abd12d188b9f053b539d
+M	zen-internals/extras/text-replacements/layouts/responsive--small-screen--replace.txt	c0f762a225021973e0dae17d3339b3d7
+M	zen-internals/extras/text-replacements/layouts/responsive--small-screen--search.txt	17bb9e4cdb8e0177b02c543a823ff507
+M	zen-internals/extras/text-replacements/layouts/responsive--small-sidebar-first--replace.txt	cc547a9f787e86f67b3492b9941e0ab4
+M	zen-internals/extras/text-replacements/layouts/responsive--small-sidebar-first--search.txt	6e55f98f2cf631fef96d5444ea384b5f
+M	zen-internals/extras/text-replacements/layouts/responsive--small-sidebar-second--replace.txt	d514ce8b41e9c16520a0327379f46687
+M	zen-internals/extras/text-replacements/layouts/responsive--small-sidebar-second--search.txt	c6f49d1ac4e4001ac7540ca4bb514ee3
+M	zen-internals/extras/text-replacements/layouts/responsive--small-two-sidebars--replace.txt	97a7ab335c5d14ca511395a246833e93
+M	zen-internals/extras/text-replacements/layouts/responsive--small-two-sidebars--search.txt	7c0219b30128d94794e43229e6e1da17
+M	zen-internals/extras/text-replacements/layouts/responsive--small-two-sidebars-4--replace.txt	0983130bfba180866e974f16738a7cc9
+M	zen-internals/extras/text-replacements/layouts/responsive--small-two-sidebars-4--search.txt	ad195f1b106f9badd95a033c00aa4251
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--large-sidebar-first--replace.txt	befe805c4b64f39b11e9d0211e7fc185
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--large-sidebar-first--search.txt	70b27840aa8b03622144e2352059d0b0
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--large-sidebar-second--replace.txt	1386bd654a792e1ce5ae0baa972f94b9
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--large-sidebar-second--search.txt	9b09a3d12fec8dd6c4fba9bcbcf606ad
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--large-two-sidebars--replace.txt	9fd2a5d6d6f554f4b1eef10ab0032bb8
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--large-two-sidebars--search.txt	47154170b272b78e02d8dda052cb88f9
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--small-screen--replace.txt	ce6391e441140fe41b2b3bb778287504
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--small-screen--search.txt	a324687ef01b86667652c73afd68cb6b
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--small-sidebar-first--replace.txt	c900f244e550b9e5507a88629c8ed40c
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--small-sidebar-first--search.txt	d1d7ac8ca3d9dd971062ebed77db8744
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--small-sidebar-second--replace.txt	1d704b5a7725973f446aabe1e80ea162
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--small-sidebar-second--search.txt	ec7f8c8c959933f32e07c53d5a65c652
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--small-two-sidebars--replace.txt	4026f8a0e1a09b7736eef0dd7df2f8ca
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--small-two-sidebars--search.txt	cd652a43316895089302915985fa4340
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--small-two-sidebars-4--replace.txt	126789f5680caf6a6d62e88fb1f4b64d
+M	zen-internals/extras/text-replacements/layouts/responsive-rtl--small-two-sidebars-4--search.txt	869b23c2c95dbc76fa5dfafc2e95d2c6
+D	zen-internals/extras/text-replacements/normalize--fieldset--replace.txt	
+D	zen-internals/extras/text-replacements/normalize--fieldset--search.txt	
+D	zen-internals/extras/text-replacements/normalize--font-family--search.txt	
+D	zen-internals/extras/text-replacements/normalize--headings--replace.txt	
+D	zen-internals/extras/text-replacements/normalize--headings--search.txt	
+D	zen-internals/extras/text-replacements/normalize--html--search.txt	
+D	zen-internals/extras/text-replacements/print--abbr--search.txt	
+D	zen-internals/extras/text-replacements/print--useful-url--replace.txt	
+D	zen-internals/extras/text-replacements/print--useful-url--search.txt	
+M	zen-internals/generate.sh	b27c5a6944e2f192104b816578ab1668
+A	zen-internals/images/draggable.png	36d7db7d0339f620d27a1ba7a0534587
+A	zen-internals/images/grippie.png	2a1b86da8c7f3b398b14e506ac400b09
+A	zen-internals/images/throbber.gif	ae6ffc909fc0deb781b3775e4cf517e7
+A	zen-internals/images/tree-bottom.png	ff98382c5d0f382582d8fcab15edf3b2
+A	zen-internals/images/tree.png	af5b480929f58b586b759a2e0b7f822a
+M	zen-internals/template.zen.inc	5870a804e931e11637cfd1ae5facc030
+M	zen-internals/zen.drush.inc	d6758053cbe978952b21f886e325ff56
+M	zen.info	470676c62a1ac72d0db93e3544d33f88

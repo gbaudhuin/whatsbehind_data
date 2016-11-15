@@ -1,0 +1,273 @@
+D	.gitignore	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	README.txt	
+D	includes/mediafront.features.inc	
+D	includes/mediafront.filefield.inc	
+D	includes/mediafront.preset.inc	
+A	includes/mediafront.views.inc	ec584296ac7971efdc90f8495b74b68b
+A	includes/mediafront_handler_field_preset.inc	08a09a460ff986e6e6561f1a84c89f69
+A	includes/mediafront_plugin_display_block.inc	4c0fe1ca78fec026f8030f1faacb4cdc
+A	includes/mediafront_plugin_display_page.inc	7413daa8b85136b34bf6e08038af2231
+D	js/mediafront.js	
+A	mediafront.admin.inc	f90857ce42177006a4a81f089b6313e7
+M	mediafront.info	79a55f702e3a640ee12c19343ee87513
+M	mediafront.install	12558b24e737e28f5d2a2401d2a47dcf
+M	mediafront.module	63f7a86b9edb6d3f4d1242ef6de2bb8c
+M	mediafront_field.inc	50cef3e7f3151f07a39aa2a4a9b8b2ee
+M	players/osmplayer/osmplayer.info	86655056321490207053a196a3004dd7
+M	players/osmplayer/osmplayer.module	2c8006a86a1cb217ff01c2092d9a9fba
+D	players/osmplayer/player/.gitignore	
+D	players/osmplayer/player/OSMPlayer.php	
+D	players/osmplayer/player/OSMTemplate.php	
+M	players/osmplayer/player/README.txt	826ada0d9a71c9df0a99370b26b6572c
+A	players/osmplayer/player/flash/config/config.xml	7dc8085eb096b0d2c88f35c9f7805453
+A	players/osmplayer/player/flash/config/nocontrols.xml	87ef26c8b02f80b7f6af5a44fbf1124f
+A	players/osmplayer/player/flash/mediafront.swf	71597970aeb00b5f2e9bc71e104a56a8
+A	players/osmplayer/player/flash/plugins/controlBar/controlBar.swf	eaf84b95dba7e759e5f9ac369891291e
+A	players/osmplayer/player/flash/plugins/mediaPlayer/mediaPlayer.swf	ad529d2d3023adac0ec7196301ed0a2c
+A	players/osmplayer/player/flash/plugins/playLoader/playLoader.swf	e57ae15155cab58bbe4c1e9446898356
+A	players/osmplayer/player/flash/skins/default/controlBar.swf	e8053d3297a5ba94f2d7ca078a7c260c
+A	players/osmplayer/player/flash/skins/default/mediaPlayer.fla	687b3d87e64e25cf810fc51f05c62771
+A	players/osmplayer/player/flash/skins/default/mediaPlayer.swf	ce0db8277a1ca4e2ebeb1c1240699ada
+A	players/osmplayer/player/flash/skins/default/playLoader.swf	b5c3da0bf3ed5510548a3194f49d8221
+D	players/osmplayer/player/getplaylist.php	
+M	players/osmplayer/player/index.html	dad36ea461c2ee3783edce9e3cbc4422
+D	players/osmplayer/player/index.php	
+D	players/osmplayer/player/jquery-ui/css/swanky-purse/images/ui-bg_highlight-hard_65_fee4bd_1x100.png0000664	
+M	players/osmplayer/player/js/compressed/jquery.media.control.js	493b06bef15a67d484fea0baa44a51bc
+M	players/osmplayer/player/js/compressed/jquery.media.dailymotion.js	d2c3016f973ddb296a1fbc17495fa456
+M	players/osmplayer/player/js/compressed/jquery.media.display.js	6b45e6a95773353edd65a2f0e51263b5
+M	players/osmplayer/player/js/compressed/jquery.media.drupal.js	84c526b6cb7f1e7a567a0c4f4364aa75
+D	players/osmplayer/player/js/compressed/jquery.media.file.js	
+M	players/osmplayer/player/js/compressed/jquery.media.flash.js	c6b54fc30feb1aeb7add979be9e7e32e
+M	players/osmplayer/player/js/compressed/jquery.media.html5.js	6467f063c79211851d73634e61413532
+M	players/osmplayer/player/js/compressed/jquery.media.image.js	3925b2c4da5bfeefc3f33cbf05cfcd5f
+M	players/osmplayer/player/js/compressed/jquery.media.json.js	b3bdba7302c82b8cae1c7b07661e6ff5
+M	players/osmplayer/player/js/compressed/jquery.media.link.js	ba32d64f33902ee8674ebacccc2d13fb
+M	players/osmplayer/player/js/compressed/jquery.media.links.js	2f9b609b1485a09cbb9581026e51a59a
+M	players/osmplayer/player/js/compressed/jquery.media.menu.js	df9214f2078253bb4b17b52aa5235551
+M	players/osmplayer/player/js/compressed/jquery.media.minplayer.js	78d4f6314afc28c9222953b96af587d9
+D	players/osmplayer/player/js/compressed/jquery.media.mousewheel.js	
+M	players/osmplayer/player/js/compressed/jquery.media.node.js	e9665149e87eb6127b158011542e7524
+M	players/osmplayer/player/js/compressed/jquery.media.pager.js	deca8e747dae5fb7f3f834278ba02751
+M	players/osmplayer/player/js/compressed/jquery.media.parser.js	5b9d5a13a89cd82d725b9818f1ec3203
+M	players/osmplayer/player/js/compressed/jquery.media.player.js	b7928859a47de6ea1fc64e35383a6907
+M	players/osmplayer/player/js/compressed/jquery.media.playlist.js	a5229cdcc8b556219dd6502325870991
+M	players/osmplayer/player/js/compressed/jquery.media.playlistlink.js	4fb166383b6e04cf073dcd3249fb294b
+D	players/osmplayer/player/js/compressed/jquery.media.rotator.js	
+M	players/osmplayer/player/js/compressed/jquery.media.rpc.js	c014bf9b408c1e8fee26a751a486b475
+M	players/osmplayer/player/js/compressed/jquery.media.scroll.js	112e9217cb72a2580e7867e0aa7ef759
+M	players/osmplayer/player/js/compressed/jquery.media.slider.js	03d38989f0786273e63fa3cfecb3955a
+M	players/osmplayer/player/js/compressed/jquery.media.teaser.js	18862a1e1b56b566f8d782c962095551
+M	players/osmplayer/player/js/compressed/jquery.media.titlebar.js	481785f5d88e6ec9fa427f442a3bcc4a
+M	players/osmplayer/player/js/compressed/jquery.media.utils.js	7de38ed839c0cda3d9ab3043b7e1e5a1
+M	players/osmplayer/player/js/compressed/jquery.media.vimeo.js	bf15af2c84f610ab44980d040f82c0ee
+M	players/osmplayer/player/js/compressed/jquery.media.voter.js	d12eba6afbaafa4b8d45d58c31caf1db
+M	players/osmplayer/player/js/compressed/jquery.media.youtube.js	1af904084aaf4ca7c2a6d72606bb5d45
+M	players/osmplayer/player/js/jquery.minplayer.compressed.js	688e10b85ec31255cf70335ef619049c
+M	players/osmplayer/player/js/jquery.minplayer.js	28c33f2eb26c39c33bcabcdb41e832b4
+M	players/osmplayer/player/js/jquery.osmplayer.compressed.js	186aa81ea0f08c6729c972fc84c23865
+M	players/osmplayer/player/js/jquery.osmplayer.js	603b34ad61bdac59ca403bbb836250ea
+M	players/osmplayer/player/js/source/jquery.media.auto.js	2b0fc0e1ef51e2a2de3701186593b6e2
+M	players/osmplayer/player/js/source/jquery.media.control.js	a85a6649ed44e13d54e61bc875245383
+M	players/osmplayer/player/js/source/jquery.media.dailymotion.js	195b3508cca1ca0701306e976246acf1
+M	players/osmplayer/player/js/source/jquery.media.display.js	1dd5f1771013297bcb6613268c379dc4
+M	players/osmplayer/player/js/source/jquery.media.drupal.js	e3e9042ba15ffce69c3e8956f0177f93
+D	players/osmplayer/player/js/source/jquery.media.file.js	
+M	players/osmplayer/player/js/source/jquery.media.flash.js	7c0e790b343e217bb9249b735814bd44
+M	players/osmplayer/player/js/source/jquery.media.html5.js	9f1fd8e7c5613e1cd96f4b5d3ae292af
+M	players/osmplayer/player/js/source/jquery.media.image.js	3a0e19f667f055316dee222baae9e1ee
+M	players/osmplayer/player/js/source/jquery.media.json.js	bc21a01c77eda96c9c4756ec857d6668
+M	players/osmplayer/player/js/source/jquery.media.link.js	b68367722fc8c90b30910ac018c5fcf3
+M	players/osmplayer/player/js/source/jquery.media.links.js	b8664619dba3bbde36b7347a2404758f
+M	players/osmplayer/player/js/source/jquery.media.menu.js	6d9a93208f55a0d7dac2e1fff6e1e075
+M	players/osmplayer/player/js/source/jquery.media.minplayer.js	4c095f9b092830a1d416c6ecfddf863e
+D	players/osmplayer/player/js/source/jquery.media.mousewheel.js	
+M	players/osmplayer/player/js/source/jquery.media.node.js	28989cb52dfbfc68d1f0c997467bd4e3
+M	players/osmplayer/player/js/source/jquery.media.pager.js	0965099923841b08e3a92a5d9cfd63c9
+M	players/osmplayer/player/js/source/jquery.media.parser.js	2efe1813db44ff07b8ce5773abaf4b95
+M	players/osmplayer/player/js/source/jquery.media.player.js	d65bb3a3e3291528e80ad5cb3479d53a
+M	players/osmplayer/player/js/source/jquery.media.playlist.js	0548f554c23d18a45ac4c229b2d5fe6c
+M	players/osmplayer/player/js/source/jquery.media.playlistlink.js	fa8fc7fd2dadeb1cbb700d441e4e8edf
+D	players/osmplayer/player/js/source/jquery.media.rotator.js	
+M	players/osmplayer/player/js/source/jquery.media.rpc.js	cd18db21c6606cbad1451c14e59d9fc8
+M	players/osmplayer/player/js/source/jquery.media.scroll.js	48eac6fbea09e1f13e6b864411bff0a4
+M	players/osmplayer/player/js/source/jquery.media.sha256.js	e1481680f25bb8bc922600228db82eeb
+M	players/osmplayer/player/js/source/jquery.media.slider.js	dc25d6e1e00d4fef6495c6f85f68f48a
+M	players/osmplayer/player/js/source/jquery.media.teaser.js	12a73e6458c2bc9167213504f4ef7995
+M	players/osmplayer/player/js/source/jquery.media.titlebar.js	589fa3f59ff38bbaa2a403a2c1fc7527
+M	players/osmplayer/player/js/source/jquery.media.utils.js	71080e0b5326e5a7133f7d77e6b79216
+M	players/osmplayer/player/js/source/jquery.media.vimeo.js	2f48d2f3e0b617d8b786e0bde6ecbe5d
+M	players/osmplayer/player/js/source/jquery.media.voter.js	9247f5e0fa5fc4452b3122c8d80e5180
+M	players/osmplayer/player/js/source/jquery.media.youtube.js	d91a7c385afc507671cd1a67d4862d7c
+D	players/osmplayer/player/minplayer/LICENSE.txt	
+D	players/osmplayer/player/minplayer/README.txt	
+D	players/osmplayer/player/minplayer/com/mediafront/display/Image.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/Menu.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/Resizable.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/Skinable.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/Slider.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/media/AudioPlayer.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/media/IMedia.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/media/MediaEvent.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/media/MediaFile.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/media/MediaPlayer.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/media/SWFPlayer.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/media/VideoPlayer.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/media/controls/ControlBar.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/media/controls/ControlEvent.as	
+D	players/osmplayer/player/minplayer/com/mediafront/display/media/controls/PlayLoader.as	
+D	players/osmplayer/player/minplayer/com/mediafront/plugin/Plugin.as	
+D	players/osmplayer/player/minplayer/com/mediafront/plugin/PluginEvent.as	
+D	players/osmplayer/player/minplayer/com/mediafront/plugin/PluginLoader.as	
+D	players/osmplayer/player/minplayer/com/mediafront/plugin/PluginManager.as	
+D	players/osmplayer/player/minplayer/com/mediafront/plugin/SkinablePlugin.as	
+D	players/osmplayer/player/minplayer/com/mediafront/utils/ControlSettings.as	
+D	players/osmplayer/player/minplayer/com/mediafront/utils/MediaSettings.as	
+D	players/osmplayer/player/minplayer/com/mediafront/utils/MenuSettings.as	
+D	players/osmplayer/player/minplayer/com/mediafront/utils/PlayLoaderSettings.as	
+D	players/osmplayer/player/minplayer/com/mediafront/utils/Settings.as	
+D	players/osmplayer/player/minplayer/com/mediafront/utils/Utils.as	
+D	players/osmplayer/player/minplayer/config/config.xml	
+D	players/osmplayer/player/minplayer/config/nocontrols.xml	
+D	players/osmplayer/player/minplayer/minplayer.fla	
+D	players/osmplayer/player/minplayer/minplayer.swf	
+D	players/osmplayer/player/minplayer/skins/default/controlBar.as	
+D	players/osmplayer/player/minplayer/skins/default/controlBar.fla	
+D	players/osmplayer/player/minplayer/skins/default/controlBar.swf	
+D	players/osmplayer/player/minplayer/skins/default/mediaPlayer.as	
+D	players/osmplayer/player/minplayer/skins/default/mediaPlayer.fla	
+D	players/osmplayer/player/minplayer/skins/default/mediaPlayer.swf	
+D	players/osmplayer/player/minplayer/skins/default/playLoader.as	
+D	players/osmplayer/player/minplayer/skins/default/playLoader.swf	
+D	players/osmplayer/player/minplayer/skins/goldstandard/controlBar.swf	
+D	players/osmplayer/player/minplayer/skins/goldstandard/mediaPlayer.fla	
+D	players/osmplayer/player/minplayer/skins/goldstandard/mediaPlayer.swf	
+D	players/osmplayer/player/minplayer/skins/goldstandard/playLoader.fla	
+D	players/osmplayer/player/minplayer/skins/goldstandard/playLoader.swf	
+D	players/osmplayer/player/minplayer/skins/shockblack/controlBar.as	
+D	players/osmplayer/player/minplayer/skins/shockblack/controlBar.fla	
+D	players/osmplayer/player/minplayer/skins/shockblack/controlBar.swf	
+D	players/osmplayer/player/minplayer/skins/shockblack/mediaPlayer.as	
+D	players/osmplayer/player/minplayer/skins/shockblack/mediaPlayer.fla	
+D	players/osmplayer/player/minplayer/skins/shockblack/mediaPlayer.swf	
+D	players/osmplayer/player/minplayer/skins/shockblack/playLoader.as	
+D	players/osmplayer/player/minplayer/skins/shockblack/playLoader.fla	
+D	players/osmplayer/player/minplayer/skins/shockblack/playLoader.swf	
+M	players/osmplayer/player/playlist.xml	5b2e8f40226b64ca8a117b4d5d78c3ae
+D	players/osmplayer/player/playlist/Playlist.php	
+D	players/osmplayer/player/playlist/cache/README.txt	
+D	players/osmplayer/player/playlist/playlists/default/track1/README.txt	
+D	players/osmplayer/player/playlist/playlists/default/track2/README.txt	
+D	players/osmplayer/player/playlist/playlists/default/track3/README.txt	
+D	players/osmplayer/player/templates/default/createIndex.bat	
+D	players/osmplayer/player/templates/default/createIndex.sh	
+D	players/osmplayer/player/templates/default/index.php	
+D	players/osmplayer/player/templates/default/jquery.media.template.api.js.js	
+M	players/osmplayer/player/templates/default/jquery.media.template.default.compressed.js	99919dac17290d17075d764a0dbf737d
+M	players/osmplayer/player/templates/default/jquery.media.template.default.js	3116f21655b753012e99f7014185a7af
+M	players/osmplayer/player/templates/default/osmplayer_default.css	d093489443885692aae0d735a38748e2
+M	players/osmplayer/player/templates/default/osmplayer_default.tpl.php	857de68f3925745d76df429b2184d671
+M	players/osmplayer/player/templates/default/osmplayer_default_controlbar.tpl.php	244e3f9f112d21646f95f9b09ccccd91
+M	players/osmplayer/player/templates/default/osmplayer_default_hscrollbar.tpl.php	1b0c73feb1254a69a8ba21dc079783d1
+M	players/osmplayer/player/templates/default/osmplayer_default_ie.css	6f649f3f955282cb6ff9b80d1aeaa77d
+M	players/osmplayer/player/templates/default/osmplayer_default_links.tpl.php	e50cafe856e94c6e1144a1e1ca07fbeb
+M	players/osmplayer/player/templates/default/osmplayer_default_menu.tpl.php	3318a72b3450bdf368ddae0f6a354ccf
+M	players/osmplayer/player/templates/default/osmplayer_default_node.tpl.php	eeca59cf2b629e84182fe5bae2f5d7d8
+M	players/osmplayer/player/templates/default/osmplayer_default_nodevoter.tpl.php	e0328c50f0cd04954e82681e9aa77326
+M	players/osmplayer/player/templates/default/osmplayer_default_pager.tpl.php	d1f64ba683a184800ce7bccb59c983fe
+M	players/osmplayer/player/templates/default/osmplayer_default_playlist.tpl.php	a09a1e442ec26bbd64aea67457771d3d
+M	players/osmplayer/player/templates/default/osmplayer_default_scrollbar.tpl.php	1700679cd70eb149eac210305c76660d
+M	players/osmplayer/player/templates/default/osmplayer_default_teaser.tpl.php	8b77cfb1ee07aecff0ad5087d4550cb8
+M	players/osmplayer/player/templates/default/osmplayer_default_teaservoter.tpl.php	f886c550644f660115d537fd9c2307b4
+M	players/osmplayer/player/templates/default/osmplayer_default_titlebar.tpl.php	040626ea7cf21ec3b26e932b6e28720f
+D	players/osmplayer/player/templates/default/playlist.xml	
+D	players/osmplayer/player/templates/default/template.php	
+D	players/osmplayer/player/templates/shockplayer/css/shockplayer.css	
+D	players/osmplayer/player/templates/shockplayer/images/arrow_back.png	
+D	players/osmplayer/player/templates/shockplayer/images/arrow_back_hover.png	
+D	players/osmplayer/player/templates/shockplayer/images/arrow_forward.png	
+D	players/osmplayer/player/templates/shockplayer/images/arrow_forward_hover.png	
+D	players/osmplayer/player/templates/shockplayer/images/busy.gif	
+D	players/osmplayer/player/templates/shockplayer/images/mask.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_audioslidebarbg.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_back.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_bigplay.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_black40.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_blue20.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_buttonaudioslidebar.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_buttoncontroler.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_buttoninfo.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_buttonpause.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_buttonplay.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_buttonresizescreen.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_buttonsound.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_close.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_controlerbarBg.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_forward.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_infobox.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_logo.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_movie640x360.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_moviethumb.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_playlistbg.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_playlistshadow.png	
+D	players/osmplayer/player/templates/shockplayer/images/mediafront_playlisttitlebg.png	
+D	players/osmplayer/player/templates/shockplayer/jquery.media.template.shockplayer.js	
+D	players/osmplayer/player/templates/shockplayer/osmplayer_shockplayer.tpl.php	
+D	players/osmplayer/player/templates/shockplayer/template.php	
+D	players/osmplayer/player/templates/simpleblack/css/simpleblack.css	
+D	players/osmplayer/player/templates/simpleblack/images/busy.gif	
+D	players/osmplayer/player/templates/simpleblack/images/mask.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_audioslidebarbg.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_back.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_bigplay.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_black40.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_blue20.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_buttonaudioslidebar.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_buttoncontroler.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_buttoninfo.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_buttonpause.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_buttonplay.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_buttonresizescreen.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_buttonsound.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_close.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_controlerbarBg.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_forward.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_infobox.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_logo.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_movie640x360.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_moviethumb.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_playlistbg.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_playlistshadow.png	
+D	players/osmplayer/player/templates/simpleblack/images/mediafront_playlisttitlebg.png	
+D	players/osmplayer/player/templates/simpleblack/jquery.media.template.simpleblack.js	
+D	players/osmplayer/player/templates/simpleblack/osmplayer_simpleblack.tpl.php	
+D	players/osmplayer/player/templates/simpleblack/simple_black_preview.png	
+D	players/osmplayer/player/templates/simpleblack/template.php	
+A	players/osmplayer/player/version	305cf1fb13b9539dcd317a0354c9ed61
+D	players/osmplayer/player/version.txt	
+M	plugins/mediafront_audio/mediafront_audio.info	e2ae16c06435dd24619b7a8301cfeab7
+M	plugins/mediafront_audio/mediafront_audio.module	f8374d4ffc755f1501eb561fa757a202
+A	plugins/mediafront_cdn2/mediafront_cdn2.info	8616e555345c88ec0d590c8bf5e163ed
+A	plugins/mediafront_cdn2/mediafront_cdn2.module	505c1d6cc7bcdf2008638a883490fbab
+M	plugins/mediafront_emfield/mediafront_emfield.info	7d62ad09ab759c324017d45bfd4f9516
+M	plugins/mediafront_emfield/mediafront_emfield.module	eaeb21c3daab955c99b7b531be2de840
+A	plugins/mediafront_imagecache/mediafront_imagecache.info	73d0f5047bb88c36b24523b613e5bce7
+A	plugins/mediafront_imagecache/mediafront_imagecache.install	ffaa4ed1f83b0aa32b52bed44e7da544
+A	plugins/mediafront_imagecache/mediafront_imagecache.module	b8cb1fca67b4bcef073fbff291f53371
+M	plugins/mediafront_s3/mediafront_s3.info	22d165fc55ed3431ab214eb47e206f54
+M	plugins/mediafront_s3/mediafront_s3.module	1393e51b42428078fbdec89857850982
+M	plugins/mediafront_statistics/mediafront_statistics.info	831f25b5d0f8c41d1445f35b2f41a16b
+M	plugins/mediafront_tagging/mediafront_tagging.info	9a9b9aed776e3485fb87bd6c61817a99
+M	plugins/mediafront_user/mediafront_user.info	14122110159c04304c3856f4fd1678bd
+M	plugins/mediafront_user/mediafront_user.module	ad2ea6abcece6ee5303225708d723b2a
+M	services/favorites_service/favorites_service.info	515eca3cccd7620e51ae10848a986f9a
+M	services/favorites_service/favorites_service.module	a998624ff7b661f74eb7c3f1e7825935
+M	services/tagging_service/tagging_service.info	234970a8d8702a762124e9360ead3d08
+M	services/tagging_service/tagging_service.module	27ca8a20a8ae07f627811d9fdbe87c94
+M	services/voting_service/voting_service.info	0c4bacc9112fcf284a0ac83889f30186
+M	services/voting_service/voting_service.module	9855a05482e2c7224ff2e2eb34c08d34
+A	version	305cf1fb13b9539dcd317a0354c9ed61
+D	views/mediafront.views.inc	
+D	views/mediafront_handler_field_player.inc	
+D	views/mediafront_plugin_style_player.inc	

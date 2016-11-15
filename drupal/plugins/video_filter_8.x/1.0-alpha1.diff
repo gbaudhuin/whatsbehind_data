@@ -1,0 +1,57 @@
+M	assets/video_filter.js	1f3cc28ab48be267868d6bb9e773f5b1
+D	config/schema/video_filter.schema.yml	
+D	modules/video_filter_example/src/Plugin/VideoFilter/ExampleCodec.php	
+D	modules/video_filter_example/video_filter_example.info.yml	
+D	modules/video_filter_example/video_filter_example.module	
+M	src/Annotation/VideoFilter.php	b89406b1f77af9f09de5e6b61eeb66b1
+D	src/Controller/VideoFilter.php	
+M	src/Form/VideoFilterDialog.php	c2f8f88334b82d79e7fd695dc31ec86a
+M	src/Plugin/Filter/VideoFilter.php	a6cb384da8cc16d0bd172fe786bcfefe
+M	src/Plugin/VideoFilter/ArchiveOrg.php	e4f7091d9bf09fe7359c013d2bf7b563
+A	src/Plugin/VideoFilter/BlipTV.php	3e43a5fee101176fd595e103b8ba7b87
+M	src/Plugin/VideoFilter/Capped.php	0915c8ff340aa4e04b4c2bef037c2b14
+M	src/Plugin/VideoFilter/CollegeHumor.php	f3e1e15e6f6cc94047984da6bdae1f56
+D	src/Plugin/VideoFilter/Coub.php	
+M	src/Plugin/VideoFilter/DailyMotion.php	944e7ac040e84a79656a3a4b2a7bde36
+D	src/Plugin/VideoFilter/DemocracyNow.php	
+D	src/Plugin/VideoFilter/Facebook.php	
+M	src/Plugin/VideoFilter/FlickrSlideshows.php	f5007a4f41dd390ec40d1bedb44e47e4
+M	src/Plugin/VideoFilter/FlickrVideo.php	990358c4d6f0350e8a70c2c789ac5e2b
+D	src/Plugin/VideoFilter/FoxNews.php	
+M	src/Plugin/VideoFilter/GameTrailers.php	f73dd554cf9c66abd82a56e92e69c39e
+D	src/Plugin/VideoFilter/GameVideos.php	
+D	src/Plugin/VideoFilter/Giphy.php	
+D	src/Plugin/VideoFilter/GodTube.php	
+D	src/Plugin/VideoFilter/GoogleVideo.php	
+D	src/Plugin/VideoFilter/Instagram.php	
+D	src/Plugin/VideoFilter/MailRu.php	
+D	src/Plugin/VideoFilter/MakerTV.php	
+D	src/Plugin/VideoFilter/MetaCafe.php	
+D	src/Plugin/VideoFilter/MySpace.php	
+D	src/Plugin/VideoFilter/MyVideo.php	
+D	src/Plugin/VideoFilter/PicasaSlideshows.php	
+D	src/Plugin/VideoFilter/Rutube.php	
+D	src/Plugin/VideoFilter/Slideshare.php	
+D	src/Plugin/VideoFilter/TED.php	
+D	src/Plugin/VideoFilter/Teachertube.php	
+D	src/Plugin/VideoFilter/Twitch.php	
+D	src/Plugin/VideoFilter/Twitter.php	
+D	src/Plugin/VideoFilter/Ustream.php	
+D	src/Plugin/VideoFilter/Vbox.php	
+D	src/Plugin/VideoFilter/Vevo.php	
+M	src/Plugin/VideoFilter/Vimeo.php	bbfeb47c553bc8f8aa619b1b0b2f4d80
+D	src/Plugin/VideoFilter/Vine.php	
+D	src/Plugin/VideoFilter/Whatchado.php	
+D	src/Plugin/VideoFilter/Wistia.php	
+M	src/Plugin/VideoFilter/YouKu.php	2f4e698c3b89f4bd24685cd3a7b8d253
+M	src/Plugin/VideoFilter/Youtube.php	4447d2b59f6e95aeb0bece0f3a592f4d
+D	src/Tests/VideoFilterBasicTest.php	
+M	src/VideoFilterBase.php	9a1242e0a06b75106fbb11a5fca94a21
+D	src/VideoFilterCore.php	
+M	src/VideoFilterInterface.php	5087d4b0e3e0387d87f7dff277381942
+M	templates/video-filter-flash.html.twig	2a1bf3b5218546f351517a6d4d40047c
+M	templates/video-filter-html.html.twig	135557362756159a74daaf8d51c94042
+M	templates/video-filter-iframe.html.twig	102e7bc159012fd94f6a4c674df895b9
+M	video_filter.info.yml	bc0f761ce06aaa3571591f8abd78d42f
+M	video_filter.module	f5def456a4c46cdcb9e92ddd0c156260
+M	video_filter.routing.yml	5293501895ac05a6a20bbb01f2ad01ff

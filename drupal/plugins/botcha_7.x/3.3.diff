@@ -1,0 +1,11 @@
+M	CHANGELOG.txt	aca5cea0f3cc8618a3efd4e5945493bc
+M	README.txt	9407ce64557bb46a84e6dd5c3b6dbf1c
+M	botcha.info	bd2780a688b43f0c39f7c38d2bc620e0
+A	botcha.make	7757e80a70e4fda1eb4cd1210c849aa6
+M	botcha.module	f72e2608f401f5869d595b5a3466756d
+M	controller/application/botcha.application.controller.inc	f10a70db2a09acbecbbe058f9bc8fcc2
+M	controller/form/botcha.form.controller.inc	4026690b8649c1a738ccaffef5aa3662
+M	controller/recipe/botcha.recipe.controller.inc	5e83aa32e096f2d78b7dcc887f93004b
+M	controller/recipebook/botcha.recipebook.controller.inc	dae18dc528111c5a4de61f9c54efbc89
+A	tests/SELENIUM.txt	588dc41e5e780d3abef02102f8ac4675
+M	tests/botcha.simpletest.test	d5ea75b98d5b516e39e2c9c3c99b3011

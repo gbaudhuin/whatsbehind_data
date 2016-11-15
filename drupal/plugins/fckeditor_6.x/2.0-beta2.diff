@@ -1,0 +1,15 @@
+M	.cvsignore	2698c93821261da3dc56d4eb145ef043
+M	CHANGELOG.txt	25ac6c5a64600095f857210a437edddd
+M	README.txt	f43076129c05484ce1ceacded6d05a06
+M	fckeditor.admin.inc	71b1474bf067c33b8864ca544d8b2d3d
+M	fckeditor.config.js	c85c00012117a17bcfd356a90ca80d5f
+M	fckeditor.help.inc	69969741eba2ff62ed229045fc9b83d3
+M	fckeditor.info	87f1715aa439a36c431a43482f4c3ab4
+M	fckeditor.install	1c21011b050eec3f76fa36387e1bf948
+M	fckeditor.module	6b404bb04b2ada7e4a51915daa35444c
+M	fckeditor.user.inc	4436b30f050578ed4ddea6f6c73047a2
+M	fckeditor.utils.js	5556136314d377252f0c35b517d3224a
+M	img_assist_fckeditor.js	2b3086a84082d48c9a77285688af5460
+M	plugins/linktomenu/jscripts/utils.js	b92aca71d90cd9e7252ec4c7ed81b2a0
+M	plugins/linktonode/jscripts/utils.js	507db27e3867c35d7fad697d1ed88584
+M	translations/fckeditor.pot	e7a433e8bdacd6ea6ec500eacfdeccab

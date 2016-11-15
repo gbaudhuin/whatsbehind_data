@@ -1,0 +1,10 @@
+M	README.txt	d95306fbec5259f3585052046b0148ce
+M	browscap.admin.inc	f539405dcc9eb3563fcaa8136b1a3a6c
+A	browscap.drush.inc	5e1b34d55ac3db32f55e2a68dc7c1e5d
+M	browscap.info	edb538828c710dcb76f1f2fb2bdd035b
+M	browscap.install	b141d483c73b9c45bd455408749ce762
+M	browscap.module	c18db97705188c7bc931d3265f5438e6
+D	browscap.reports.inc	
+D	browscap.user_agent.inc	
+M	import.inc	f6c954159627966a160d028ac3ad9768
+D	record.inc	

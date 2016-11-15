@@ -1,0 +1,8 @@
+D	CHANGELOG.txt	
+M	README.txt	7cbb1c5e51a64771675de78173f96caf
+A	search_api_xapian/search_api_xapian.info	104e666afc6484f4f16bc79383416a8c
+A	search_api_xapian/search_api_xapian.install	55f1844bf9517ce13184a07e9a19a2ad
+A	search_api_xapian/search_api_xapian.module	3b31b0c5b35d2e6aee39d2c6b02d97cc
+A	search_api_xapian/service.inc	5f9a0ca39ec809963ddc274e62401f67
+D	xapian.info	
+A	xapian/xapian.info	767b73292b26f734c4ac825482818c99

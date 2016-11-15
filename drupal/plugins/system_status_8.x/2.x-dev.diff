@@ -1,0 +1,11 @@
+M	README.txt	c3c5f597c457ed4351c554d7b0a7a460
+M	config/system_status.settings.yml	a04b29178007b698e54ad4a735672f52
+D	src/Access/SystemStatusAccessCheck.php	
+M	src/Controller/SystemStatusController.php	35d477da9db858c21ac899fdede45934
+M	src/Form/SystemStatusSettingsForm.php	66f9cf0b02873e8c90b9c73728631d5e
+M	system_status.info.yml	4b76a3168351831ef289dbbac443fb11
+M	system_status.install	e44598801d3544a916912eb0a30252ea
+A	system_status.links.menu.yml	2756c5bed67e2e6c4d3c650980f6b91e
+M	system_status.module	a0e2da1cd22c1738fd445f4676cd7a62
+M	system_status.routing.yml	d5d3a9b1e440f1d0244308c7a3556323
+M	system_status.services.yml	04841d92c37a1a952498ab2194321b90

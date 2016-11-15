@@ -1,0 +1,32 @@
+M	README.txt	140e53f335bbb628ffaf01c8d48a1a5f
+A	ctools/plugins/export_ui/picture_mapping.inc	bafb31f190407c9b2258f12d5fcbe5bd
+M	flexslider_picture/flexslider_picture.info	90de43318b00b7ab809aaec4b10ae9fa
+M	flexslider_picture/flexslider_picture.install	df7049df1ea3eaa76a13a9bd7be17630
+M	flexslider_picture/flexslider_picture.module	62bc94b44878c3db36545543c3c50ea3
+M	flexslider_picture/theme/flexslider_picture.theme.inc	523a036fedcfdfc8ef348ff5411b83f6
+A	includes/PictureMapping.php	c1b9cbd26c8dfd31607c4f69e09f189c
+A	lazysizes/lazysizes.js	ceaad28cb52ebcbb535ff5e5fd970030
+A	lazysizes/lazysizes.min.js	618e8f7a7e92512c59bc0e261f2fde64
+A	lazysizes/plugins/aspectratio/ls.aspectratio.css	07c1f09e76454589f6ae056aa09f59df
+A	lazysizes/plugins/aspectratio/ls.aspectratio.js	d52f3dbd35bb80bcd1b46137dd9c588d
+A	lazysizes/plugins/aspectratio/ls.aspectratio.min.js	e434d752d36e87115acc09daf41d71c8
+M	picture.admin.inc	0df4def4ad5bf9f27d7683b15de269ec
+A	picture.drush.inc	71ef8046f3eaa33ca918d1c2589a093c
+M	picture.file_entity_1.inc	5256d534a4ed99cd4626abe9641e10dd
+M	picture.info	9f1def2c016e183551b5dab2deea5826
+M	picture.install	c897a7318c3a1f3b006771b309a21ef9
+M	picture.js	48eaaeba8b87c7d0c06785aaee8234a1
+A	picture.min.js	2e27e6d567413fe885415f631fb3268d
+M	picture.module	50cf55965ff0c6f2d5705a211797366d
+D	picture.weblinc.css	
+D	picture.weblinc.js	
+M	picture_colorbox.js	ec56a6970f75b2249b756b7232b493f9
+M	picture_wysiwyg.css	20224df4aa9d90c768e58fa8ea523310
+D	picturefill/matchmedia.js	
+M	picturefill/picturefill.js	efb57ad8704c797b7bcf73c5168a3629
+A	picturefill/picturefill.min.js	c5fa432ea06766601cac4c886d7b1672
+D	picturefill2/picturefill.js	
+D	weblinc/media.css	
+D	weblinc/media.extension.js	
+D	weblinc/media.js	
+D	weblinc/picture.js	

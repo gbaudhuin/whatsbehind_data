@@ -1,0 +1,17 @@
+M	CHANGELOG.txt	ac6bb68cd4b22000ab771fc8f197b924
+M	editors/ckeditor/README.txt	627bb1ea08e329288c4582994ef51757
+M	editors/ckeditor/linkitDialog.js	25cd8ec296f2f305fe80fa6434c27df7
+M	editors/fckeditor/README.txt	788c4954e0e71b7d2c900c097a82167a
+M	editors/fckeditor/linkit/fckplugin.js	0eacad4bae12e1a48553c344a9e3ed0a
+M	linkit.info	2b3ff374425248e0c2452607b3d54816
+M	linkit.js	be575bd0a54443ba211015cac9ea2714
+M	linkit.module	d904c77f0a2a91875462ac9d4188acc2
+M	plugins/linkit_file/linkit_file.info	4da6c9d9bcf58f1505c17caf635e57bd
+M	plugins/linkit_node/linkit_node.info	0d8eb6940862d0abb9c8add613031846
+M	plugins/linkit_node/linkit_node.module	f843db5a91af9c3ed6f6546cb265a4c7
+M	plugins/linkit_permissions/linkit_permissions.info	18d44f34dfa26be443f5c9c59e2a490e
+M	plugins/linkit_taxonomy/linkit_taxonomy.info	7f1cba79e46beb3accf7cd537f2ee15c
+M	plugins/linkit_taxonomy/linkit_taxonomy.module	59a234d484a8cc133379244d43a463d2
+M	plugins/linkit_user/linkit_user.info	f5cbae2e504d334dc8de12b1677d2105
+M	plugins/linkit_views/linkit_views.info	49f7889f760f577726d76adbfa81e3ea
+D	translations/sv.po	

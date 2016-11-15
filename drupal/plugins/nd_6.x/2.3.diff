@@ -1,0 +1,11 @@
+M	CHANGELOG.txt	183bb1dcd80e06b1f81e5710211304eb
+M	css/nd_regions.css	a4e8d33893815eaf8b1717651ce5b84a
+M	nd.info	ea477fe0c3987e7a0defae51709289aa
+M	nd.install	fac314bee2dff8931b71762333791b8d
+M	nd.module	42db4b3cdd6fd80d96945d6b0241ca1b
+M	tests/nd.buildmodes.test	2974e1562ce107027364810389b927d7
+M	tests/nd.fields.test	188148ef0a10d905fee04a1cc141d7da
+M	tests/nd.plugins.test	b4ac3fdae62a58e9a8cb2b92d15a8f41
+M	tests/nd.regions.test	6bf6abd6bacf409908768b7c1a415ce3
+M	tests/nd.tools.test	896fe48e76e615d9ef2930a5250875c1
+M	tests/ndtest.info	159161910dba38e9e5ecde8a4dc0eefc

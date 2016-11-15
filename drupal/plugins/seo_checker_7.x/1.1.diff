@@ -1,0 +1,8 @@
+D	.cvsignore	
+A	.gitignore	d6226d4acd41f6e2ede1cb5152f413f3
+M	basic_seo_rules/basic_seo_rules.info	970dc774da9576b81ce97a73620ff293
+M	inc/seo_checker.admin.inc	90e72c548b8429e39175301e6520ce35
+M	keyword_rules/keyword_rules.info	d2342eaf57578d7c7645701b671f04fe
+M	keyword_rules/keyword_rules.module	decf53ff9a2d915ff6882ddc699f0865
+M	seo_checker.info	4040012bd04bcf475582174209179b8e
+M	seo_checker.module	f4ddd17f3af241b0696a0c9ea586d487

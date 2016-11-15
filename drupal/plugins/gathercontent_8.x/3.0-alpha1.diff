@@ -1,0 +1,51 @@
+M	README.md	23cb24c5dd484de6d58ec45dbc18bc56
+D	config/install/gathercontent.import.yml	
+M	config/schema/gathercontent.schema.yml	d61bb8b4876aae32d04710ea96369ae6
+M	css/gathercontent.admin.css	aa8a5bad2d01cc7149710c46af5ee582
+D	gathercontent.drush.inc	
+M	gathercontent.info.yml	51c6fb175d4d759472c0ed94ed368fcc
+M	gathercontent.install	6cd80a9f3c54682870119ce6ae56a802
+M	gathercontent.libraries.yml	9b769bdb4b82376bb2357d3901e790d8
+M	gathercontent.links.menu.yml	4bb02fe3773790c2d6de8d1e8712562f
+D	gathercontent.links.task.yml	
+M	gathercontent.module	084d93bf0bc8129a1c2544ec109f5939
+M	gathercontent.routing.yml	0f9fde5fd54a39b14ccbe43ecaaff32c
+M	gathercontent.views.inc	6a63f6f8505a6be73ba3ac650984480f
+M	js/gathercontent.counter.js	5ca483b92b013b9f9f8681fb0d04bee5
+D	js/gathercontent.entity_references.js	
+M	js/gathercontent.filter.js	e7e4f5ce3c5e7cbe1edd93bd2c3dfe38
+A	js/gathercontent.tableselect.js	a64f5072cb8bce3a8bbc059024012a90
+D	src/Controller/MappingController.php	
+M	src/DAO/Content.php	f5b2cfdd3414a03d292e9d846292fd31
+M	src/DAO/Project.php	ee3b6743877298638a99d0b0f17e48ba
+M	src/Entity/Mapping.php	bcda253a6e925c658491c9eacc4c902a
+M	src/Entity/MappingInterface.php	2142763691917f205119f01c1df29d7d
+M	src/Entity/Operation.php	e76c676c0bf35f1e0600aaf76e43eeb1
+M	src/Entity/OperationInterface.php	435eaba4d860715051c2a2ac2e106842
+M	src/Entity/OperationItem.php	9d2b4851c6d1504778229e15b86e3cb9
+M	src/Entity/OperationItemInterface.php	6acb84880d57b3a645f47b6cdee0d2a9
+D	src/Event/GatherContentEvents.php	
+D	src/Event/PostImportEvent.php	
+D	src/Event/PostNodeSaveEvent.php	
+D	src/Event/PostNodeUploadEvent.php	
+D	src/Event/PostUploadEvent.php	
+D	src/Event/PreNodeSaveEvent.php	
+D	src/Event/PreNodeUploadEvent.php	
+M	src/Form/ContentConfirmForm.php	e12dbd38e33873c3cc3748bc25158082
+A	src/Form/ContentImportConfirmForm.php	4b66f3b9da003ab01d6fcc9123498da9
+M	src/Form/ContentImportSelectForm.php	698b9e70094959113aac9865ccc6a9f8
+M	src/Form/ContentSelectForm.php	4d6942673fd55586f4def5e1e5599fc3
+M	src/Form/ContentUpdateConfirmForm.php	72844b677699e022c357fc7d3426bfb2
+M	src/Form/ContentUpdateSelectForm.php	b797ad255428bebf4d9c479d9d29cf37
+M	src/Form/ContentUploadConfirmForm.php	aaba93726a2e92c89b57da8ed4e2fda2
+M	src/Form/ContentUploadSelectForm.php	6a656562e52c66d79099c2b2d07e3f88
+D	src/Form/ImportConfigForm.php	
+M	src/Form/MappingEditForm.php	22dd8acca16fb25a802c2b56d2224297
+M	src/Form/MappingImportForm.php	7df6a45d35e1d4a61a48da63b4aee51f
+M	src/Form/MultistepFormBase.php	bd7392ec2306312c3600509ded3bd838
+D	src/Form/RemoveGatherContentLocalData.php	
+M	src/MappingListBuilder.php	989f23b7d45cdb5597aa8fb968d68e55
+M	src/Plugin/Field/FieldWidget/SelectOtherWidget.php	e5e4c86f18f7b53c783586fcd8f3557e
+M	src/Plugin/views/field/ContentLink.php	79c051f89d87952cf6d083253c448d51
+M	src/Plugin/views/field/GathercontentContentLink.php	fea22bea166db436dd21b8ed83344fb0
+M	src/Plugin/views/field/GathercontentStatusColorField.php	a1d7b3fee0780b52b3966346548250b8

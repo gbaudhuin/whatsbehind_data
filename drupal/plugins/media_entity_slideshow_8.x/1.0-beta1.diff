@@ -1,0 +1,17 @@
+M	media_entity_slideshow.info.yml	9efad0fa2e9c1c1cd2578c440e401583
+M	src/Plugin/MediaEntity/Type/Slideshow.php	5a6c4c7ceadc16a9605ca87a6eba1d52
+D	src/Plugin/Validation/Constraint/ItemsCountConstraint.php	
+D	src/Plugin/Validation/Constraint/ItemsCountConstraintValidator.php	
+D	src/Tests/MediaEntitySlideshowTest.php	
+D	tests/modules/media_entity_slideshow_test/config/install/core.entity_form_display.media.image_bundle.default.yml	
+D	tests/modules/media_entity_slideshow_test/config/install/core.entity_form_display.media.slideshow_bundle.default.yml	
+D	tests/modules/media_entity_slideshow_test/config/install/core.entity_view_display.media.image_bundle.default.yml	
+D	tests/modules/media_entity_slideshow_test/config/install/core.entity_view_display.media.slideshow_bundle.default.yml	
+D	tests/modules/media_entity_slideshow_test/config/install/field.field.media.image_bundle.field_imagefield.yml	
+D	tests/modules/media_entity_slideshow_test/config/install/field.field.media.slideshow_bundle.field_slides.yml	
+D	tests/modules/media_entity_slideshow_test/config/install/field.storage.media.field_imagefield.yml	
+D	tests/modules/media_entity_slideshow_test/config/install/field.storage.media.field_slides.yml	
+D	tests/modules/media_entity_slideshow_test/config/install/media_entity.bundle.image_bundle.yml	
+D	tests/modules/media_entity_slideshow_test/config/install/media_entity.bundle.slideshow_bundle.yml	
+D	tests/modules/media_entity_slideshow_test/media_entity_slideshow_test.info.yml	
+D	tests/src/Unit/ConstraintsTest.php	

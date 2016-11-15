@@ -1,0 +1,53 @@
+M	README.txt	6501ef4bb48ffa3e598e8236867a858c
+M	adsense.info.yml	feffb4af13db046ba031bdffc514c96e
+M	adsense.module	3051e7c87a9dabe049fa957cc9e35728
+D	composer.json	
+M	config/install/adsense.settings.yml	a0bd3d18c63872a0105230072d714bb2
+M	help/adsense.help.inc	7dcc73e1f1723bb0d550e3b303b92447
+M	js/adsense_cse.js	aa95d0ca57c3b8f953845083f7b3870e
+D	js/adsense_cse.results.js	
+A	old/oldcode/adsense_oldcode.info.yml	e45048192a232656601387920053db92
+A	old/oldcode/adsense_oldcode.libraries.yml	54770c20669d8012195e6125f2f9d8c6
+A	old/oldcode/adsense_oldcode.links.task.yml	5005050dbdb735ffb7c030ba65bc6e96
+A	old/oldcode/adsense_oldcode.routing.yml	85d2b4a123436e7779e2331e842c11a7
+A	old/oldcode/src/Plugin/AdsenseAd/OldCodeAd.php	4feb00796a5c80569f87a64b401dd221
+A	old/search/adsense_search.info.yml	9a377ef47dfb682c7186faa56c0b97c8
+A	old/search/adsense_search.libraries.yml	7d10aab05b5dd379015d99770e0b63eb
+A	old/search/adsense_search.links.task.yml	7841e26c676b3454f9df393eef0cb7b8
+A	old/search/adsense_search.routing.yml	eb327bf7e9452591e159f8db32ae8d4c
+A	old/search/config/install/adsense_search.settings.yml	448e04eaf47071f830dc5451898d2c21
+A	old/search/src/Controller/SearchResultsController.php	6476b52dde0740346defd7026191188a
+A	old/search/src/Plugin/AdsenseAd/SearchAd.php	6b70cc45432f8c260aee3fa03decdcdf
+D	oldcode/adsense_oldcode.info.yml	
+D	oldcode/adsense_oldcode.libraries.yml	
+D	oldcode/adsense_oldcode.links.task.yml	
+D	oldcode/adsense_oldcode.module	
+D	oldcode/adsense_oldcode.routing.yml	
+D	oldcode/src/Plugin/AdsenseAd/OldCodeAd.php	
+D	oldcode/src/Plugin/AdsenseAd/OldSearchAd.php	
+D	oldcode/templates/adsense-oldcode.html.twig	
+D	oldcode/templates/adsense-oldsearch-form.html.twig	
+M	src/AdBlockInterface.php	f077b0d68b1824cf8a30ac5c544e8b69
+M	src/AdsenseAdBase.php	9b18773a7804c132800e540dfe0c7901
+M	src/AdsenseAdInterface.php	9d13e46130b04d74df62a31fdf0f0938
+M	src/AdsenseAdManager.php	f14f0c803590bbac28a55efde2e62a37
+M	src/Annotation/AdsenseAd.php	798c5db9e69b463e592ee830b6d86a63
+M	src/ContentAdBase.php	24722d44d0c90089b476e17906ec67d5
+M	src/Controller/CseResultsController.php	13292fec293c77421fff3051046002d5
+M	src/Form/AdsenseCseSettings.php	8fe9e5995ca72ec7c78c4d562d1022eb
+M	src/Form/AdsenseMainSettings.php	42ee954ca38695b124d48eb5b11de3fa
+M	src/Form/AdsenseManagedSettings.php	7f1d87e7da8c18b2c08037266a412f91
+M	src/Plugin/AdsenseAd/CustomSearchAd.php	827f823280f7e610c264430242863b71
+M	src/Plugin/AdsenseAd/ManagedAd.php	cc38cfca9fe3ac1f3a1f77a4aac6c07f
+M	src/Plugin/Block/CustomSearchAdBlock.php	0df09951e8ee6ec64021afc723795dc6
+M	src/Plugin/Block/ManagedAdBlock.php	7828166f0acda0f8bc21a1d97b9c2c6e
+M	src/Plugin/Filter/AdsenseFilter.php	6e07ffe3d6e572d985d92b8ca5089c32
+M	src/PublisherId.php	6bfe1e68d6a2eca52ec9317f2dce0b3a
+M	src/SearchAdBase.php	a5259ac2570b47130d9a4ef5e2ceb607
+M	templates/adsense-cse-branding.html.twig	572c5ec3ba1a81b17f4c540e19d53ef4
+M	templates/adsense-cse-results.html.twig	ff5a2dbb8ef81b4845f8d35a100f9bda
+M	templates/adsense-cse-watermark.html.twig	9661e0c98b3508d6d123d46b7ae7e2e4
+M	templates/adsense-managed-async.html.twig	1375d0513859386a5cee980d170ae8c7
+D	templates/adsense-managed-page-level.html.twig	
+M	templates/adsense-managed-responsive.html.twig	a48f016e4a553a97d58007474742936b
+M	templates/adsense-managed-sync.html.twig	6a98e293e91a050dac97401f263d3630

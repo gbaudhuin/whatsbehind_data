@@ -1,0 +1,13 @@
+D	CHANGELOG.txt	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	content_taxonomy.api.php	
+M	content_taxonomy.info	5eba378480ea1620c31a1430c5e3fadf
+D	content_taxonomy.install	
+M	content_taxonomy.module	a989be14ed1cd23dc78ab502f3bf66cf
+M	content_taxonomy_autocomplete.info	3abe9564f8d34ba2971f67c25ec8c5d5
+M	content_taxonomy_autocomplete.module	6db4716a72f6c42d29feaf11e6beecdc
+D	content_taxonomy_et.info	
+D	content_taxonomy_et.module	
+M	content_taxonomy_migrate.info	9add9360d164d3449d6259da816d364e
+M	content_taxonomy_migrate.module	bee6adb5d6635b517a383f5a512b5c37
+D	includes/content_taxonomy_autocomplete_moderated_terms.inc	

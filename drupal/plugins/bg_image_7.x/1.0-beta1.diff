@@ -1,0 +1,9 @@
+M	README.txt	bbe49cd01c7d7863bbc10b8ad1326419
+M	bg_image.info	663fa38973c468f05e14d8bd2664288b
+D	bg_image.install	
+M	bg_image.module	16eaa0308e9dbc47ff8a30798f18ef64
+M	bg_image_context/bg_image_context.info	82dfcf9a217dae94cd3d31311114cf02
+M	bg_image_context/plugins/bg_image_context_reaction_bg_image.inc	1e87ece0153a3fa74a4840aa29a2f0eb
+M	bg_image_ui/bg_image_ui.info	fbaa7c030e74498a27ae0adc538f843c
+M	bg_image_ui/bg_image_ui.module	be47ade2f8cda8c1a0ca82a49a7678c6
+M	bg_image_ui/css/bg_image_ui.css	252c5d18818fa5d62aac667432f13a1c

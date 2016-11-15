@@ -1,0 +1,15 @@
+A	CHANGELOG.txt	d5e110c75e19559298a04b83b201b430
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	a08ea8db948274986db55e83afc6f4b7
+A	docs/docs.php	d2672453f804d2f538765d4702ed98d3
+A	includes/handlers.inc	97a9d3d5df2aeb4d784a884cbd6076b6
+A	modules/block.skinr.inc	72946c904529277dfca336c488f86a00
+A	modules/comment.skinr.inc	c7420393ee80b58ef58ebddea89fb79b
+A	modules/node.skinr.inc	b24b7929036566a1a8dbc52138ca1be0
+A	modules/panels.skinr.inc	081585a0834c47dd4e4809d0238cf650
+A	modules/panels/skinr.inc	192a621a518e0e57c4102521598596e3
+A	modules/views.skinr.inc	86bc0627a0e380242246f9b97b4f99b4
+A	skinr.admin.inc	28217b1c3962f9a352b09c50732fb115
+A	skinr.info	60fa945bdd1a29db734e65de9064553a
+A	skinr.install	fb3c692d5ec2b4df6a49b7a3f5b51dd0
+A	skinr.module	41123df7fe59777521c2df882cab8f81

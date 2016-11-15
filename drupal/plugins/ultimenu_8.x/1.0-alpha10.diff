@@ -1,0 +1,9 @@
+M	css/ultimenu.css	73c2a4bfc948da7c6e3e35963e19bb35
+M	includes/ultimenu.utilities.inc	bccd66cf619ec76d83d010d8f703f623
+M	js/ultimenu.js	15582126640b931ebafb2bd56dfd72fe
+M	lib/Drupal/ultimenu/Plugin/Block/UltimenuBlock.php	9b70cfd0b275fa639dca0ed438abf02d
+M	lib/Drupal/ultimenu/UltimenuSettingsForm.php	f0cd2d34d7056f0a30ae73933055cfaf
+M	templates/ultimenu.html.twig	d33b65ca20aa61c1013a98fbac755256
+D	templates/ultimenu.tpl.php	
+M	ultimenu.info.yml	0fbf7a1473eff945121780373f63b09d
+M	ultimenu.module	7b4c0b9075f4ed0300b0ad593f4925ea

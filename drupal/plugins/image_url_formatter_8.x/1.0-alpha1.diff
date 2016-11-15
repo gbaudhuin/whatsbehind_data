@@ -1,0 +1,4 @@
+M	image_url_formatter.info.yml	901dc5de0ce1da3065fe2bbac38f3898
+M	image_url_formatter.module	ec15fa412e897edd036f37c6e2cd54a9
+M	src/Plugin/Field/FieldFormatter/ImageUrlFormatter.php	a68d6fde403e6a088771975de6712444
+M	templates/image-url-formatter.html.twig	a33fbd6fa9841cdb0660ca587caf0678

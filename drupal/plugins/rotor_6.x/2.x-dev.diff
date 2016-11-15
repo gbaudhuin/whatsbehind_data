@@ -1,0 +1,16 @@
+A	INSTALL.txt	5a89608dd85b71f37df62702a5c93e55
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	77c9761220b24ca0d0489f9484151c05
+M	rotor.css	63f434645491d69d91d0ebaa4bd86ca4
+M	rotor.info	652f977ebbdb78abd856cab7b4176a0f
+M	rotor.install	4a635ecbbffee3e4343be50d6a1a9338
+M	rotor.js	e67fcf7a77b28fe7b33a57f25cdfdbe0
+M	rotor.module	a6c1c12beadca8f7131279ff2fa41ab6
+A	theme/rotor-row-rotor.tpl.php	cf40dbae89d5bc2e8d4f3c9c69c615ba
+A	theme/rotor-view-rotor.tpl.php	ac8e1fd456406fe9e6bb94c7430d5f9a
+A	theme/theme.inc	1b2aa03a3677b46f6aca5791c1e86f97
+A	views/rotor.views.inc	39663a216d20316be6e260d4f73ec4f9
+A	views/rotor.views_default.inc	3f16c9be7edf3c162dff895744bd4cb3
+A	views/rotor_plugin_row_rotor.inc	86c5787cbe593c785634236e81e65b9e
+A	views/rotor_plugin_style_rotor.inc	7facf63eb15eda053b00b97ba8df40a5
+A	views/views_field_handler_rotor_image.inc	a490e9b07a835bc6ee5184780f4cfbcb

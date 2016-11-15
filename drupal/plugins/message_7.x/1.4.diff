@@ -1,0 +1,10 @@
+A	includes/message.exception.inc	2e4d8d4d3ac2356943437d6a6532ddd4
+A	includes/message.message.inc	a95b45e70354b66e1c85dac24fc92f9f
+A	includes/message.message_type.inc	4c99c8e98c9c3fdba43913ed9557ea51
+A	includes/message.message_type_category.inc	c53af9c200d3e61308acb8560e957e06
+M	message.info	cf13e630cc9c8638cfb3283ba0a0af69
+M	message.install	18fc277480d810797fd2f672ae378879
+M	message.module	6f1b2a65512e8c547767cca3b3edbe30
+M	message.test	fa2337ad1969eef335e1d63429c15e29
+M	message_example/message_example.info	5f1e4456cf3039f36a63af3d1e4fe7e5
+M	message_og_example/message_og_example.info	ae9996552abc6d414c6176258e117426

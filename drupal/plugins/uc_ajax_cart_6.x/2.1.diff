@@ -1,0 +1,8 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	js/uc_ajax_cart.js	c2103de33498ead4643812db1dff38ac
+M	templates/uc_ajax_cart_block_content.tpl.php	64a8f01924931836f494d09ced8a9203
+M	uc_ajax_cart.admin.inc	324c90b6ea30c982d52a1b4eeef830b6
+M	uc_ajax_cart.info	8b4a6771cce5970785cc0409d3122301
+M	uc_ajax_cart.module	d78b370312d08a8ce3e8e6edb797df69
+M	uc_ajax_cart.theme.inc	3fae542cd75a5c07395b46872160dfd4
+D	uc_modules_add_to_cart.php	

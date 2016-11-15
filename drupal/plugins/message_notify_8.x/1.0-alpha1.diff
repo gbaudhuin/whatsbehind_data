@@ -1,0 +1,9 @@
+M	message_notify.info.yml	bdda336c837e1b9fe8cc393bc4adb255
+M	src/Plugin/Notifier/Email.php	dd1086af9b5593bf30ea3102761b7068
+M	src/Plugin/Notifier/MessageNotifierBase.php	40ae436d1df3a8d70f060c35ff445720
+M	src/Plugin/Notifier/MessageNotifierInterface.php	8d57599345d95beb20116ee8588b0d1a
+M	tests/modules/message_notify_test/config/install/message.template.message_notify_test.yml	326f416c638f24e64ecf1e128121193f
+M	tests/modules/message_notify_test/message_notify_test.info.yml	63eb10997fe740acdc61c6eaf2c72dde
+M	tests/src/Functional/EmailNotifierTest.php	e5bb2d681168fa8d34473be0450a59ce
+M	tests/src/Kernel/MessageNotifyTest.php	b278a914c62c4555d45ded6b4ba162c9
+D	tests/src/Unit/Plugin/Notifier/EmailTest.php	

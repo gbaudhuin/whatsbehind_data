@@ -1,0 +1,11 @@
+D	.gitignore	
+D	CHANGELOG.txt	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	support_rates/INSTALL.txt	
+D	support_rates/support_rates.info	
+D	support_rates/support_rates.install	
+D	support_rates/support_rates.module	
+M	support_timer.info	51e3a003baf4c8c8bec8e060b7b2134e
+M	support_timer.install	34ce996bce38d540fedda0c4268085e5
+M	support_timer.js	58c635f51e4a39524dc98e05c5b1e432
+M	support_timer.module	176e4955b7a9f53f8fea3e40db426452

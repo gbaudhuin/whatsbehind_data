@@ -1,0 +1,17 @@
+M	README.txt	4fd80aa8374b52febbbefbdf0cb08f79
+D	assets/asmselect/jquery.asmselect.css	
+D	assets/asmselect/jquery.asmselect.js	
+M	includes/mollom.class.inc	6a9cd50fc2973459d8adf790b70bf174
+M	mollom.admin.inc	fd87d09fa1ca3c8ce5aa26be155ab479
+M	mollom.captcha.audio.tpl.php	189ba44fd0b6e9332be87f3c369a0cb5
+M	mollom.captcha.image.tpl.php	6c489e6e2f0bc48b47112b4c23e070f7
+M	mollom.css	1db9155980ab950c2ef9d866aabbb872
+M	mollom.drupal.inc	011f97a7e170fb2eda455b6c772b5fb3
+M	mollom.info	ec5c0c2c98ee8c6f9cb35e9a94399e47
+M	mollom.js	43cd8d2d13e4b5d73fd0c33591a43b04
+M	mollom.module	2b1ce065c12020308e4298add2ee287a
+M	tests/mollom.test	29b3905dad4cd653fdf1f8111f0fac7d
+M	tests/mollom_test.info	fc0fac12372b6d81960df260b649e56d
+M	tests/mollom_test.module	5045135116e5408024379bcbfc041de0
+M	tests/mollom_test_server.info	efb456da6c9765bba605b62c9e7f10a0
+M	tests/mollom_test_server.module	37d56da84581ea43a88bbdf1a12c671e

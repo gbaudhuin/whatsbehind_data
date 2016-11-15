@@ -1,0 +1,10 @@
+A	lib/mandrill.mail.inc	199b0cf193bcac44e94989c064c3256e
+A	lib/mandrill_template_map.entity.inc	d6c137ba4682d778b052e180ae4bff95
+A	lib/mandrill_template_map.ui_controller.inc	d14d9bc8e42ff45272d85b481eeb305a
+M	mandrill.admin.inc	c29258bc2d1fbc4ebefadcd7f6152e27
+M	mandrill.info	e6023d1c44a166f56a494f092f3d83b7
+M	mandrill.install	1d881d64cd22092409cee3d1008dbd1c
+D	mandrill.mail.inc	
+M	mandrill.module	fc6af5cafaaa0073b3f0e440ebff4e8d
+M	mandrill_reports/mandrill_reports.info	3dd976e839ba6852710b80e40452d964
+M	mandrill_reports/mandrill_reports.module	e35c8c3a1b8dce6dfcfa92f4a98be12b

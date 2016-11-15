@@ -1,0 +1,13 @@
+M	rng.info.yml	802609f131a296d74959d2d0e36de37b
+M	rng_debug/rng_debug.info.yml	dc4154942077efc953466811262441d9
+M	rng_views/rng_views.info.yml	3fbc7684abb1d51282ba63790530adae
+M	src/ContextProvider/RngEventRouteContext.php	83d1a2f0c950b69f11f65ce1bf11cf7f
+M	src/Entity/Registration.php	fd7012acdc3f4eabfb7d5064ca40dc0c
+M	src/EventMeta.php	a20161bc04e49cacca5c5c17ded02c91
+M	src/EventTypeInterface.php	176a27f3a925284f7f09e37749973af8
+M	src/Form/RegistrantSettingsForm.php	9cda2ead5e879d72f99a2a80ee5fcc40
+M	src/Form/RegistrationForm.php	8c2733e07fbf1bc2f7e924402285ec18
+M	src/Plugin/Condition/CurrentTime.php	b578cd435c34261411cd4b3a41158c4f
+M	src/Plugin/Derivative/LocalTasks.php	f96c0eae8bf44695fc69acb13cf04db4
+M	src/Tests/RNGTestTrait.php	70388608b9398967569c39c4ede523ef
+A	tests/src/Kernel/RngEventAccessTest.php	e8784777ab51e514a95a61feb17f7918

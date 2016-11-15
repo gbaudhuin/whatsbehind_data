@@ -1,0 +1,16 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	964e0137320db6cf6764300d486bf242
+A	includes/admin.inc	6d820e09a5b8ad3d810e56bea999ac71
+A	includes/export.inc	3cf762e2c8b22c66bae8eaadd93fdc15
+A	includes/import.inc	c598c7aa9228a8f03fdd62a42f05d54f
+A	menu_import.drush.inc	e1f692cd671cebcb15a1bc62e07e09d0
+A	menu_import.info	34807e70c964f2cc154f6c74697159c7
+A	menu_import.module	84aa1e1334dae54b2946bf3d5cb4bacc
+A	menu_import.test	5b37d0409e1c7c3b22bae1e4586c0438
+A	tests/aliases.txt	807a183a58ac9d3cc840d043eba55ff4
+A	tests/complex.txt	6a477632f1005dd447103f99aac0378e
+A	tests/links_3levels.txt	64bf6ec2e98f0e381284d4d77c497cce
+A	tests/nolinks_3levels.txt	111b8209854439b1950e1a90cb823d7d
+A	tests/nolinks_3levels_reordered.txt	3608423ce9d6893cb8c5266807f298e6
+A	tests/simple.txt	1e45bfbc7696fe261862da298c687bc2
+A	tests/urls.txt	51771d5af34d7d15da42957f8d4fe3a7

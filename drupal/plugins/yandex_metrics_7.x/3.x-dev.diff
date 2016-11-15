@@ -1,0 +1,26 @@
+A	API.txt	7e3fd8ccee47ea87633e01535d4f54bd
+M	CHANGELOG.txt	1fc3919093d83088b4ef6af684329554
+D	README.RU.txt	
+M	README.txt	41737aa36f9f29a7640b75adb611e3a3
+D	translations/yandex_metrics.pot	
+D	translations/yandex_metrics.ru.po	
+D	translations/yandex_metrics.uk.po	
+D	translations/yandex_metrics_reports.pot	
+D	translations/yandex_metrics_reports.ru.po	
+D	translations/yandex_metrics_reports.uk.po	
+M	yandex_metrics.info	56fa0c3c13f1c7fee91d3da67ba05939
+M	yandex_metrics.install	e6a96ce5fba7901e30149709c4a75e0a
+M	yandex_metrics.module	72e5b08c6429f084bf3228fd7f64e19a
+M	yandex_metrics.test	c92d9acfea5353bb6cfbca4f42708b49
+A	yandex_metrics.variable.inc	b6e70cf236a51ba3163125b8000aad78
+D	yandex_metrics_reports/API.txt	
+D	yandex_metrics_reports/images/progress-indicator.gif	
+D	yandex_metrics_reports/js/yandex_metrics_reports.js	
+D	yandex_metrics_reports/views/handlers/views_handler_field_ym_title.inc	
+D	yandex_metrics_reports/views/yandex_metrics_reports.views.inc	
+D	yandex_metrics_reports/yandex_metrics_reports.api.txt	
+M	yandex_metrics_reports/yandex_metrics_reports.info	25440f98db513292b74b723aeb404584
+M	yandex_metrics_reports/yandex_metrics_reports.install	c6b4f10381cf42d958aab108a709be9b
+M	yandex_metrics_reports/yandex_metrics_reports.module	d1c45af3acaf07be4d5a8296b5914e87
+M	yandex_metrics_reports/yandex_metrics_reports.reports.inc	695f87ed0556bb3b42ec6c6862f0c9f2
+D	yandex_metrics_reports/yandex_metrics_reports.test	

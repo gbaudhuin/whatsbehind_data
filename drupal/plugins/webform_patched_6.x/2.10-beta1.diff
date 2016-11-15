@@ -1,0 +1,49 @@
+M	CHANGELOG.txt	2673c593e86f0e53c56c6d18253492f4
+M	INSTALL.txt	ece6ca21b9eab19a398061863257e9b9
+M	README.txt	f671edbd5c3a0b9fbef2297bea59a7bc
+M	THEMING.txt	4b6fe6638de11789565b21892a064793
+M	components/date.inc	f4aef586239b06e76baf0bd1b1170d3e
+M	components/email.inc	04941e0b8abf8e35ff0c8a9885430bb9
+M	components/fieldset.inc	0b31530680672548901d0bd122c05f08
+M	components/file.inc	8703178094930b2c7772ca999bb5ee9c
+M	components/grid.inc	f96d4edbb6f3f2c2a22277ae1f5a5007
+M	components/hidden.inc	bd6048ee294f7fd78417aeeb15f3c919
+M	components/markup.inc	d19e316dfa0cacb5f24636523194af3c
+M	components/pagebreak.inc	a125ae025684430c3409f7f342898de2
+M	components/select.inc	a2143575f4560734839593d47b72fccf
+M	components/textarea.inc	ab9a758a72d465e7c7b5382869e3e316
+M	components/textfield.inc	f95e1f97c6fc59df10645ccb49ee3a1c
+M	components/time.inc	53f95e01637ae9e0324c3d3224299d37
+M	tests/components.test	7ad6a56230af790652f7cfc88f6fb1e9
+M	tests/permissions.test	ee9e73c4b9c52d36c72e5acad56e07d2
+M	tests/submission.test	eeea14cd79abe71edbe686bdd6daccc2
+M	tests/webform.test	fede5a809bf9055a96d7fd9eb63997a2
+D	translations/cs.po	
+D	translations/da.po	
+D	translations/de.po	
+D	translations/el.po	
+D	translations/es.po	
+D	translations/fi.po	
+D	translations/fr.po	
+D	translations/he.po	
+D	translations/hu.po	
+D	translations/it.po	
+D	translations/ja.po	
+D	translations/nl.po	
+D	translations/ru.po	
+D	translations/sk.po	
+D	translations/sv.po	
+D	translations/uk.po	
+D	translations/webform.pot	
+M	webform-confirmation.tpl.php	7c275e26fb42e8777929dcc89bbae5e4
+M	webform-form.tpl.php	2de7b7563b118ff855c7fec7bdc29348
+M	webform-mail.tpl.php	665596bb2a0c85fd4b860645bc3741ed
+M	webform.css	a71fda6817909fb43d33896f0a78367c
+M	webform.info	44ddf921a72339d30f162f185de52259
+M	webform.install	2a00a98d78595e406fbdd36c4b29e59f
+M	webform.js	30086c3fd6b37b99596ef8ab140aed64
+M	webform.module	5103e0f90474153c96f22e63a01d057d
+M	webform_components.inc	d27119607fc52109c5649de3b9148773
+M	webform_export.inc	677b3d6a450745337eb497db204230d7
+M	webform_report.inc	5dc6c1ba9d0824570a882cdc13e2b503
+M	webform_submissions.inc	127bad9b4bc7f1362106a924e5647bcd

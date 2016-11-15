@@ -1,0 +1,9 @@
+M	modules/paymentform/paymentform.info	3aa006af30b86a38518143e23f4b6963
+M	modules/paymentform/tests/paymentform_test/paymentform_test.info	38cb1a3f58102b67d7d79042a4306b5c
+M	modules/paymentmethodbasic/paymentmethodbasic.info	6e019d38c0c86cebaad3bf1b9239a70c
+M	modules/paymentmethodbasic/tests/paymentmethodbasic_test/paymentmethodbasic_test.info	6dc4ccdeae2dca520432de11f1921e5d
+M	modules/paymentreference/paymentreference.info	5790851dad3130d391574456471bc50e
+M	modules/paymentreference/tests/paymentreference_test/paymentreference_test.info	4a043a15047dca5f2cfee70cd87237af
+M	payment.info	1a5e146b3f5fdccdb07ef8b8c44cc581
+M	payment.ui.inc	7b0e9f79447999b9b213c418920f67d8
+M	tests/payment_test/payment_test.info	6b8f78486bcaa5048dd13cae6193bc36

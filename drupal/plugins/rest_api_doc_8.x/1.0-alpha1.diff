@@ -1,0 +1,9 @@
+M	config/schema/rest_api_doc.schema.yml	d053cc3f9d737ed876de19857de32953
+M	rest_api_doc.info.yml	d59496c4e74e50bfd6061d7a7e876b1e
+M	rest_api_doc.module	bf2a986f6b1fe81d7a69ac777f7c1ee8
+D	rest_api_doc.permissions.yml	
+M	rest_api_doc.routing.yml	67f67a20493af8696280ece4111bde51
+M	src/Controller/RestApiDocController.php	bd447dce8fb3f0a8460030d3873e3d3b
+M	src/Form/RestApiDocSettingsForm.php	40397d3771c3844c91e9f900e7455b9e
+M	src/Tests/RestApiDocTest.php	f573237649a78ff6a62ea48831d1aef8
+M	templates/rest_api_doc_detail.html.twig	81c6e0634ab5dc21a2177bc9192dd779

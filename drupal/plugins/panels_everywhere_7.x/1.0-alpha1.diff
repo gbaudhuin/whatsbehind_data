@@ -1,0 +1,23 @@
+M	CHANGELOG.txt	72318f8bc8e0716f05fdf3ce980a38a0
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	5d8b85232d82cf7655bc099c1010b278
+M	panels_everywhere.admin.inc	8f1336279be8740e5a584746e85a05f1
+M	panels_everywhere.info	fb5d99cff59207dbe994e1109c638248
+D	panels_everywhere.install	
+M	panels_everywhere.module	9ff4a09c1c16604df003526dd10686ae
+M	panels_everywhere.pages_default.inc	ee482b6abb7524da6bf6ba04bc6c0d04
+A	plugins/access/managed_page.inc	d41d8cd98f00b204e9800998ecf8427e
+M	plugins/tasks/site_template.inc	5b32416565a1258c3680bb3ac212be36
+D	tests/PanelsEverywhereBasicsTestCase.test	
+D	tests/PanelsEverywhereNodeEditTestCase.test	
+D	tests/PanelsEverywhereNodeViewTestCase.test	
+D	tests/PanelsEverywhereSettingsTestCase.test	
+D	tests/PanelsEverywhereTermEditTestCase.test	
+D	tests/PanelsEverywhereTermViewTestCase.test	
+D	tests/PanelsEverywhereTestHelper.test	
+D	tests/PanelsEverywhereUserEditTestCase.test	
+D	tests/PanelsEverywhereUserViewTestCase.test	
+M	theme/pane-header.tpl.php	9f14f0cf8558c554b9e44b3f89177f15
+M	theme/pane-messages.tpl.php	2755e094bcf94930a56f71d2e3619e84
+M	theme/pane-navigation.tpl.php	bb69161fc0b82be3e11b88822e1f5414
+M	theme/theme.inc	085468de025a94797aaa3ea9f4ba8fd6

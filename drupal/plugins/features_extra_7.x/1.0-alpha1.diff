@@ -1,0 +1,18 @@
+M	fe_block.info	bfbf7e815d470ef583343c5e0159775c
+M	fe_block.install	8444ab5001714121f7bead7e435fef72
+M	fe_block.module	fbfb62a33d85879ce56378f337983066
+D	fe_date.info	
+D	fe_date.module	
+M	fe_nodequeue.info	287178e0217a514489d2d9f0d755ff52
+M	fe_nodequeue.module	ddada360d8efaeadd3f4d3289f081b64
+M	fe_profile.info	6ece3f229ba545d5fe678321ff93dee5
+M	fe_profile.module	9e864ba5f02642b72aacc805c0f55b70
+D	tests/fe_block.test	
+D	tests/fe_nodequeue.test	
+D	tests/features_extra_test.features.fe_block_boxes.inc	
+D	tests/features_extra_test.features.fe_block_settings.inc	
+D	tests/features_extra_test.features.inc	
+D	tests/features_extra_test.info	
+D	tests/features_extra_test.module	
+D	tests/features_extra_test_case.test	
+A	views/fe_taxonomy.views.inc	06e64fdce4035e4ce361086c7aea9e44

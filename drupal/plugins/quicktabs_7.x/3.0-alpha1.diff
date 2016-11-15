@@ -1,0 +1,28 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	7354a59c30b04a0e184b75207b38b30d
+M	css/quicktabs-admin.css	2370526d0b6f7e74c1a60aea41867e97
+M	css/quicktabs.css	71c9040357e052e1b701d81dba9cf6f4
+M	includes/quicktabs_style_plugin.inc	24667fb4958f5b02b8c293d87bd1d296
+D	js/qt_accordion.js	
+D	js/qt_ui_tabs.js	
+M	js/quicktabs.js	cc2325c616031d59ee8ec9a5eb64ad60
+D	js/quicktabs_bbq.js	
+A	plugins/.DS_Store	194577a7e20bdcc7afbb718f502c134c
+M	plugins/QuickAccordion.inc	a2929dad8021c09e51618abe8e3b487a
+M	plugins/QuickBlockContent.inc	9077949687d3218f96d19ac3eb2883db
+D	plugins/QuickCallbackContent.inc	
+M	plugins/QuickNodeContent.inc	c25ad90a43a4c3d1d197793ffd8ae378
+M	plugins/QuickQtabsContent.inc	8f07631e03131fd302d5294a7bd404a0
+M	plugins/QuickQuicktabs.inc	b8c4fa50e26959b2fcccd3a53efbf106
+M	plugins/QuickUiTabs.inc	0d31f8d5255a1d511375731fe2defee2
+M	plugins/QuickViewContent.inc	8be81db1c37b56c12221f634efd4fb31
+M	quicktabs.admin.inc	b5240a67f5d27a18ea334411c0dfa5a4
+D	quicktabs.api.php	
+M	quicktabs.classes.inc	930c438038ed8b31ac4956eb3ff5345a
+M	quicktabs.info	44330ec0e0b3da509080e7510008d505
+M	quicktabs.install	e3d974951d0563b2f88db911816f1b26
+M	quicktabs.module	113460f1f15457caec37a87415260d04
+M	quicktabs_tabstyles/quicktabs_tabstyles.info	0da70ba4bf5931154888905065cc8f76
+M	quicktabs_tabstyles/quicktabs_tabstyles.module	677cdf3840170a77133acaf756783f97
+M	quicktabs_tabstyles/tabstyles/basic/basic.css	b5a88a51730c82fd4945dcf342ffef40
+M	tests/quicktabs.test	f367bc37da82a5bd4c84710f1beb1771

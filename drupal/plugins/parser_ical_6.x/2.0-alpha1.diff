@@ -1,0 +1,7 @@
+A	includes/ParserIcalFeedsParser.inc	c21dcc1cc01924c775d5b0905b6a4bd3
+A	parser_ical.dateapi.inc	dd5a863c072658ead92dc9819ae1f765
+M	parser_ical.info	fb1176e85e2d920557a4c2eff8070415
+M	parser_ical.module	2f826d32e8a483d3bb9b1e8ed134a375
+A	tests/feeds/Basic.ics	70169f23e963c850849756e3268d667e
+A	tests/feeds/School.ics	afb05e5e2ca569b422cbf5650a041538
+A	tests/parser_ical_feeds.test	163cd763c8fcc710b48d0bcfb6d2862b

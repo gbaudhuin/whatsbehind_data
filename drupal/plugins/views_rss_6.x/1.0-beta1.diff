@@ -1,0 +1,9 @@
+D	CHANGELOG.txt	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	views/views-rss-fields-item.tpl.php	55df6d7b38084eb798f31a726846972e
+M	views/views-view-views-rss-fields.tpl.php	9ce6e63466fcf4b2c924f48a00ee7f87
+M	views/views_plugin_style_rss_fields.inc	b9ffd195c9ae9476ede59b125323e7b2
+M	views/views_rss.views.inc	a2af843e1c7278a640d9dcfedaa754e6
+M	views/views_rss_views_fields.theme.inc	e91b9697b6e332fbc5ed900d45ff2d8a
+M	views_rss.info	70a5ee1ce183a7d15d931e3d5101e86e
+M	views_rss.module	5709de2a9e0b5ceeda98e5bb5969ffea

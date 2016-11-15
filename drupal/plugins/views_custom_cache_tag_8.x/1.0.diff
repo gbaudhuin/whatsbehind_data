@@ -1,0 +1,4 @@
+M	modules/demo/config/install/views.view.view_node_type_ab.yml	05eb4e3ab1a46f762a58d37a2927f646
+M	modules/demo/views_custom_cache_tag_demo.info.yml	a81dfa1b146a7c906a5ba47e6af99342
+M	src/Plugin/views/cache/CustomTag.php	59eec4673fa1f37dab363407bcf007de
+M	views_custom_cache_tag.info.yml	bbe9af628dc9922a24623215b0fb5e66

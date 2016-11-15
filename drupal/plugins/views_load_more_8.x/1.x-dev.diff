@@ -1,0 +1,10 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	js/views_load_more.js	85d897f8b61613c1cdcad9100e589fb4
+A	src/Ajax/VLMAppendCommand.php	2415549723becab4e0121f0d62dddd6e
+A	src/EventSubscriber/VLMEventSubscriber.php	67bff1d23531b883d5480049c4288489
+A	src/Plugin/views/pager/LoadMore.php	76534f4578db579eb81d1674e13f91df
+A	templates/views-load-more-pager.html.twig	6c20db962f10d6ad93ae2ab709729c0b
+A	views_load_more.info.yml	c38dc76f5b03a87ce52fe4eddf799866
+A	views_load_more.libraries.yml	40f785e967331ef0ad4d2238c83d4998
+A	views_load_more.module	3eef4f197215768cfe97316b6294dcec
+A	views_load_more.services.yml	4016c5cdf148746064d36d2b603914ef

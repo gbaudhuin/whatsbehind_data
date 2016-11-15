@@ -1,0 +1,11 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	c00419d3a1fb15034114f7f0006427bb
+A	composer.json	55ddd9fff8cce0ec9cede220d5e38b21
+A	migrate_manifest.drush.inc	33563edfee3021cf985699eb0fcc0dfc
+A	migrate_manifest.info.yml	c3b841e5bb30d2dfc1e1516f3995936d
+A	migrate_manifest.module	263b07b13d327bc0fac2e0a3e08da23b
+A	migrate_manifest.services.yml	c6bbd1a6b38c68c7bbae8b4f8862210a
+A	src/MigrateManifest.php	52045ea96511538b66a659eca3130565
+A	src/MigrateManifest80.php	81d896fb1e2f3e9fd7c283c8c4a1eb08
+A	src/MigrateTemplateStorage.php	d294dbadf53a8472822418b1402abda6
+A	src/MigrateTemplateStorageInterface.php	f2312e5a40b75516764c5adee99ecda5

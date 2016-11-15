@@ -1,0 +1,8 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	globalredirect.admin.inc	
+M	globalredirect.info	32e86446c32be61b408927f20369007e
+D	globalredirect.install	
+M	globalredirect.module	d62f123cdb98c7f5eedbe8b6a0388133
+D	globalredirect.test	
+A	translations/de.po	99f27146c15a47505ea3d3d24bc02e61
+A	translations/globalredirect.pot	4a526e1f55f34ead3de357aa58c0b87d

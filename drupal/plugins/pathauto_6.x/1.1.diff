@@ -1,0 +1,30 @@
+M	INSTALL.txt	b9053640a91551f18decf49e4566a5da
+M	README.txt	7f8d99582f1c608869fbc6a575d5e529
+D	contrib/pathauto_node_event.inc	
+D	contrib/pathauto_node_i18n.inc	
+A	pathauto.admin.inc	27ff8bbd4bc3aee626a7b6ad611aaf0c
+M	pathauto.inc	2c768e158676ae41acebe1a29c591d8c
+M	pathauto.info	1551ea1bc7932d865323ad9fd18941cd
+M	pathauto.install	d17f0edf05ed16fcc83e568b0bec395d
+M	pathauto.module	3a7bf31293a18495004da735b76874da
+M	pathauto_node.inc	06f1b9594491b10c8e562e86648b0de3
+M	pathauto_taxonomy.inc	8ea95bf7cc98b13097f77c385ccf51ee
+M	pathauto_user.inc	737af7d10e3b2d8010f9674d8f08f0ac
+D	po/de.po	
+D	po/es.po	
+D	po/fr.po	
+D	po/pathauto.pot	
+D	po/pathauto.ru.po	
+D	po/ru.po	
+A	tests/pathauto.test	be02f0f3ed24add9a8d4d82c15b6b36d
+A	translations/cs.po	87ab657bac7ddd7c9f5aafb5aaad12f1
+A	translations/da.po	a6bbee5f3080e8281dcf18c004915728
+A	translations/de.po	14f29441321683cf77ca6f489c777a66
+A	translations/el.po	9def2feb3495bccc7184643aca0827b4
+A	translations/es.po	0d0f91c09b29b7b9f0abcadce2ba77aa
+A	translations/fr.po	a3f8d06903e1ea373644b0515b55377e
+M	translations/ja.po	b22670d9825b7c73f746e290b42a955b
+A	translations/nl.po	49d27c3463a279c1f7f419daa940de3a
+A	translations/pathauto.pot	0be27c4064b0dc329bc5204b0307a5ff
+A	translations/ru.po	4b23c04cfe412264993c2f299a61eea6
+A	translations/tr.po	df300978959fa2ffc5a13b4fad9a002f

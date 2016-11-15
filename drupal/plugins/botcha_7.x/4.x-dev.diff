@@ -1,0 +1,30 @@
+D	CHANGELOG.txt	
+D	INSTALL.txt	
+M	README.txt	468bdbed9ece468b4861a10239c6f96d
+D	TODO.txt	
+M	botcha.info	12501772b07c19e87ceb467ce854282a
+M	botcha.install	c7c6cf07d45cd9ddaf4f84f69a6adebb
+M	botcha.make	66ef3f94ea691059cd4b8c4c71a78e6f
+M	botcha.module	5b5c4b6a355a3cb89b7ce56a68d229ba
+D	botcha.rules.inc	
+D	controller/application/botcha.application.controller.inc	
+A	controller/application/decorator/d7adapter/botcha.application.controller.d7adapter.not_needed_yet.inc	c0a241fb4fec0b129f07aecda89b9097
+D	controller/application/decorator/logger/botcha.application.controller.logger.inc	
+D	controller/form/botcha.form.controller.inc	
+D	controller/form/decorator/logger/botcha.form.controller.logger.inc	
+D	controller/recipe/botcha.recipe.controller.inc	
+D	controller/recipe/decorator/logger/botcha.recipe.controller.logger.inc	
+D	controller/recipebook/botcha.recipebook.controller.inc	
+D	controller/recipebook/decorator/logger/botcha.recipebook.controller.logger.inc	
+D	model/application/botcha.application.model.inc	
+D	model/application/decorator/logger/botcha.application.model.logger.inc	
+D	model/form/botcha.form.model.inc	
+D	model/form/decorator/logger/botcha.form.model.logger.inc	
+D	model/recipe/botcha.recipe.model.inc	
+D	model/recipe/decorator/logger/botcha.recipe.model.logger.inc	
+D	model/recipebook/botcha.recipebook.model.inc	
+D	model/recipebook/decorator/logger/botcha.recipebook.model.logger.inc	
+D	tests/SELENIUM.txt	
+D	tests/botcha.selenium.test	
+D	tests/botcha.simpletest.test	
+D	tests/upgrade/update.botcha.test	

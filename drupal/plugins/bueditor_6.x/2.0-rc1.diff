@@ -1,0 +1,21 @@
+M	README.txt	4054b431e64058ec30dec8ef10f7aef3
+M	admin/bueditor.admin.inc	84ec7343a9b75f8111d3923d47dfb085
+M	admin/bueditor.edit.css	95941e61d7d3baba89d524c1e8366efc
+M	admin/bueditor.edit.js	9abab6ce11a800c6ce2e3da8622e3658
+M	bueditor.css	e51928dd454627d947c089772c4b2135
+M	bueditor.info	3a0b2d5c8dced4a4245aa1953edbd607
+M	bueditor.install	5abcef483ba36c2b583162b47a747414
+M	bueditor.js	1e5e1bef8465a0310952c570a35b567e
+M	bueditor.module	d2b8d04676579c3bf4d5ca496149c6a8
+M	icons/dot.png	56bbc9d0a89521d197469db3b0fe4822
+M	import/lab.bueditor.txt	02ca62cbae9f2b9fca041368a396b1b6
+M	library/bue.find.js	e7b95065e5af5315a0038becd817e7a8
+M	library/bue.history.js	6a60bdc90945b3a0778cc600b305cc88
+M	library/bue.imce.js	c832f480956309858a972ce8d8215e1b
+M	library/bue.min.all.js	b7c7e71ad7ce7a6ad9f1cb6d5238fbae
+M	library/bue.min.default.js	e22c7953ed6d4f8ba23600620df1e777
+M	library/bue.misc.js	a2b8eca77111cc3add187dd5561de9f9
+M	library/bue.popup.css	63761f6c3482f311624c849c04ada1c5
+M	library/bue.popup.js	f847f3ce9a0c4b54960ea422f24bc050
+M	library/bue.preview.js	89265b420bdeffd36f2c868bd1a8e9eb
+D	translations/bueditor.pot	

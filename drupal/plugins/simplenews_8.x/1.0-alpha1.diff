@@ -1,0 +1,68 @@
+M	README.txt	931812e12e6f61a9a7fc2ff716ff4358
+M	config/install/core.entity_view_mode.node.email_html.yml	ef99d569b6b1fc48c22302791a92b81c
+M	config/install/core.entity_view_mode.node.email_plain.yml	af953cef718f41eb85abfff86aec8d28
+M	config/install/core.entity_view_mode.node.email_textalt.yml	2da35c031fefc2839a7aca8b5b6bb862
+M	config/install/simplenews.settings.yml	9e2327385c64d98a91b33245a9c252b4
+M	config/install/views.view.simplenews_subscribers.yml	45c3908f15667ae7445054e1314db296
+D	config/optional/core.entity_view_display.node.simplenews_issue.default.yml	
+M	config/schema/simplenews.schema.yml	b86324530b382b83ac484a51610bd7b0
+D	migration_templates/d7_simplenews_newsletter.yml	
+D	migration_templates/d7_simplenews_subscriber.yml	
+M	modules/simplenews_demo/simplenews_demo.info.yml	2a2d2dc5beed71fa9730dfe11416545d
+M	simplenews.api.php	80fd63059dba1775d4687fb943bfd500
+M	simplenews.info.yml	d6329a39107d870ad539f17a52366f03
+M	simplenews.install	44de958c81331c72751cf61745271e3c
+M	simplenews.links.task.yml	62485f4b738fbd7228073321bcb92997
+M	simplenews.module	88fb8b3d2a7ebb0549968661ac28e258
+M	simplenews.routing.yml	ab91d3aafcdd3c2860cc1bb308f393fe
+M	simplenews.services.yml	6c3fc7b806ea13e0b1105bef390a7834
+M	simplenews_rules/simplenews_rules.info	0bb2c0c53fa08a7cda5cfec725122e24
+M	simplenews_rules/simplenews_rules.rules.inc	d8aa6e7c10f97148bb025e23e8e30b60
+M	src/Entity/Newsletter.php	3ee7a4b0e2c0b02ba8cab57e3e16519e
+M	src/Entity/Subscriber.php	93e7f6c7a4cc8e3547b3de3b44bd6bfe
+M	src/Form/MailSettingsForm.php	c48d3fb7136c6a26d2c75d811b7abcd9
+M	src/Form/NewsletterForm.php	d09d9818103fbfa68481a916eaf3134b
+D	src/Form/PrepareUninstallForm.php	
+M	src/Form/SubscriberExportForm.php	1cf1d5872f1f2ad4cff85d7ee554ff4d
+M	src/Form/SubscriptionSettingsForm.php	d32b608547a0f9e970a9642d39e124c8
+M	src/Mail/MailBuilder.php	1c442992ee51f12a417c82c26176b18c
+M	src/Mail/MailBuilderInterface.php	d5404b339f041ac0df2bd3d2b978aa9c
+D	src/Mail/MailCacheNone.php	
+D	src/Mail/MailCacheStatic.php	
+M	src/Mail/MailFormatHelper.php	247d22c14d24724957d7e1cd19d036a4
+M	src/Mail/Mailer.php	4be3daad89d5d23d1c8a833413e4998b
+M	src/Mail/MailerInterface.php	1ff1fc7225dcab3f446e60eb2c8a3584
+M	src/Plugin/Block/SimplenewsSubscriptionBlock.php	1d9fa0c013da8e7e5811cd4943461c39
+M	src/Plugin/Field/FieldType/IssueItem.php	33009d3f96135976247b4829f49a94e9
+M	src/Plugin/Field/FieldType/SubscriptionItem.php	1fda998d43d475c6956f3436bbbde7d0
+D	src/Plugin/migrate/source/d7/Newsletter.php	
+D	src/Plugin/migrate/source/d7/Subscriber.php	
+M	src/Plugin/simplenews/RecipientHandler/RecipientHandlerBase.php	0c04fe2add17f0c613fb4c347f215257
+D	src/SkipMailException.php	
+A	src/Source/SourceCacheNone.php	66ac76ac9281626531eac100de984f3d
+A	src/Source/SourceCacheStatic.php	a14f15669351519e4ec34a38eb7e7ab9
+A	src/Source/SourceEntityInterface.php	c8297d4f1e28699fb554e73c30cb2808
+M	src/Spool/SpoolList.php	17d43fd079144b0371103f80563f5afa
+M	src/Spool/SpoolListInterface.php	1245c4df4ef583086ed362aa32332ce5
+M	src/Spool/SpoolStorage.php	6edf3c4ce54ec3e279e772eea06cc30a
+M	src/Spool/SpoolStorageInterface.php	cf05a7a8396a81adcff62c94b1af456f
+M	src/SubscriberInterface.php	12cdf5c1b86c132b1ab962fa40a043f1
+M	src/Subscription/SubscriptionManager.php	a786b009c13004741751657a1a766b25
+M	src/Subscription/SubscriptionManagerInterface.php	48963ada7ffd516b4c01315dce400f9b
+D	src/Subscription/SubscriptionStorage.php	
+D	src/Subscription/SubscriptionStorageInterface.php	
+M	src/Tests/SimplenewsAdministrationTest.php	6725dbfe4554ddf7ab546fa5e15bf9b5
+D	src/Tests/SimplenewsFieldUiTest.php	
+M	src/Tests/SimplenewsI18nTest.php	35395ac0170024dfe7f18fb50521ec83
+M	src/Tests/SimplenewsSendTest.php	dd402ee6b3dde81404af57e9916b9cf1
+M	src/Tests/SimplenewsSourceTest.php	2c298617b2fa107a23e4467510866577
+M	src/Tests/SimplenewsSubscribeTest.php	37c0447c5e3f50900d612cbb6d3a213a
+M	src/Tests/SimplenewsTestBase.php	62e39c9da9183ed907e076a49d71af0c
+D	src/Tests/SimplenewsUninstallTest.php	
+D	templates/simplenews-newsletter-body.html.twig	
+D	tests/modules/simplenews_test/simplenews_test.info.yml	
+D	tests/modules/simplenews_test/simplenews_test.module	
+M	tests/themes/simplenews_newsletter_test_theme/simplenews-newsletter-body--default.html.twig	8bbdae54d20aa8a949261123ce0f291a
+M	tests/themes/simplenews_newsletter_test_theme/simplenews_newsletter_test_theme.info.yml	a2ac835375f1b5e064d6b6f07569228f
+A	theme/simplenews-newsletter-body.html.twig	cdd2d820b791310f21009a62b1bc4b59
+A	theme/simplenews-newsletter-footer.html.twig	83d437470d0cead5143071297a5812e0

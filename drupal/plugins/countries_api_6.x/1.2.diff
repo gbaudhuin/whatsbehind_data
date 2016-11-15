@@ -1,0 +1,16 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	2fe856d3c6f41ca70630eb131fe96d7d
+M	contrib/continents_api/continents_api.info	cbf99d65a626c2d2e518421e51aed56a
+M	contrib/countries_api_service/countries_api_service.info	9ba7204065a2811b7c8a4c1aa10fc1b0
+M	contrib/countries_api_service/countries_api_service.module	9c4937d398b8a5a7800f7774f0c2c6f1
+M	contrib/regions_api/regions_api.info	2fff647569f3351bb7a42d6fef535943
+M	contrib/regions_api/regions_api.module	f531ca4166df4c7736604732c93a3e99
+M	contrib/regions_api/tests/regions_api.test	ee06a86f0214a80d59a87593c45d7201
+M	contrib/regions_api_service/regions_api_service.info	c60fb7a9aaf038fc39a48d359cee904c
+M	contrib/regions_api_service/regions_api_service.module	4c8aefee0f6c3b251d8ffbe7d9a09666
+D	countries-api-help.tpl.php	
+M	countries_api.info	4c5a0f49084465b540cfbd1ff929db97
+M	countries_api.install	173833dd21978da350b2cc3dbca5cb46
+M	countries_api.module	41a259489e8db00c51e4c5c3809e6cac
+M	data/countries.csv	72c75acc0424a46a38eb233492339d84
+M	tests/countries_api.test	0bbff17b79c7a06a42bfaa4f0b5021bd

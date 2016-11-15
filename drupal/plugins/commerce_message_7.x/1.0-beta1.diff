@@ -1,0 +1,7 @@
+M	commerce_message.info	2e72a0c9c1c32d0d54dacee3b012822f
+M	commerce_message.module	7e869412cd36b95f75ff85a538307695
+M	commerce_message.rules_defaults.inc	364121a96e0e0e7b528b2cb1243c2331
+D	commerce_message.test	
+M	commerce_message.tokens.inc	44b6bfa46b54af580318632c64781f37
+M	includes/commerce_message.message.inc	c62f93c45335cd7ae4268dfb041b4880
+M	includes/views/commerce_message.views_default.inc	0f7370d7278694c290614c9969fcaf05

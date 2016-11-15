@@ -1,0 +1,224 @@
+M	CHANGELOG.txt	e3329a162c228c97d89b0e31852aed5f
+D	CODE_OF_CONDUCT.txt	
+M	README.txt	eae4621c2e1cf4ae859b48ddf4ebf6cf
+M	composer.json	56e9a7244da728887d0a5cbab28bb914
+D	config/install/metatag.metatag_defaults.403.yml	
+D	config/install/metatag.metatag_defaults.404.yml	
+D	config/install/metatag.metatag_defaults.front.yml	
+D	config/install/metatag.metatag_defaults.global.yml	
+D	config/install/metatag.metatag_defaults.node.yml	
+D	config/install/metatag.metatag_defaults.taxonomy_term.yml	
+D	config/install/metatag.metatag_defaults.user.yml	
+D	config/schema/metatag.metatag_defaults.schema.yml	
+D	config/schema/metatag.metatag_tag.schema.yml	
+A	config/translations/console.en.yml	60786290d423b8026b16170276b7b3e4
+D	console/translations/en/generate.metatag.group.yml	
+D	console/translations/en/generate.metatag.tag.yml	
+M	metatag.info.yml	13d5b20508c8770fa902772fb93d093e
+M	metatag.install	617aebc07a48703e879c3be230071c82
+D	metatag.links.action.yml	
+M	metatag.links.menu.yml	c2aa758224f7fd849964289de012decc
+M	metatag.module	eb6bb56cf5c55c3dea4a891619211629
+M	metatag.permissions.yml	232515e1622f3bf698b98576077e8155
+M	metatag.routing.yml	b9ddc991f8085e43311f81910e7fc0aa
+M	metatag.services.yml	83c7f2d68bb6399ed7ee6d2593efb6a7
+D	metatag_dc/config/schema/metatag_dc.metatag_tag.schema.yml	
+D	metatag_dc/metatag_dc.info.yml	
+D	metatag_dc/src/Plugin/metatag/Group/DublinCore.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Contributor.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Coverage.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Creator.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Date.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Description.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Format.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Identifier.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Language.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Publisher.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Relation.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Rights.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Source.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Subject.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Title.php	
+D	metatag_dc/src/Plugin/metatag/Tag/Type.php	
+D	metatag_dc/src/Tests/MetatagDublinCoreTagsTest.php	
+D	metatag_facebook/config/schema/metatag_facebook.metatag_tag.schema.yml	
+D	metatag_facebook/metatag_facebook.info.yml	
+D	metatag_facebook/src/Plugin/metatag/Group/Facebook.php	
+D	metatag_facebook/src/Plugin/metatag/Tag/FbPages.php	
+D	metatag_facebook/src/Tests/MetatagFacebookTagsTest.php	
+D	metatag_google_plus/config/schema/metatag_google_plus.metatag_tag.schema.yml	
+D	metatag_google_plus/metatag_google_plus.info.yml	
+D	metatag_google_plus/src/Plugin/metatag/Group/GooglePlus.php	
+D	metatag_google_plus/src/Plugin/metatag/Tag/Author.php	
+D	metatag_google_plus/src/Plugin/metatag/Tag/Description.php	
+D	metatag_google_plus/src/Plugin/metatag/Tag/Image.php	
+D	metatag_google_plus/src/Plugin/metatag/Tag/Name.php	
+D	metatag_google_plus/src/Plugin/metatag/Tag/Publisher.php	
+D	metatag_google_plus/src/Tests/MetatagGooglePlusTagsTest.php	
+D	metatag_open_graph/config/schema/metatag_open_graph.metatag_tag.schema.yml	
+D	metatag_open_graph/metatag_open_graph.info.yml	
+D	metatag_open_graph/metatag_open_graph.install	
+D	metatag_open_graph/metatag_open_graph.module	
+D	metatag_open_graph/src/Plugin/metatag/Tag/ArticleAuthor.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/ArticleExpirationTime.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/ArticleModifiedTime.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/ArticlePublishedTime.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/ArticlePublisher.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/ArticleSection.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/ArticleTag.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgCountryName.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgDeterminer.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgEmail.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgFaxNumber.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgImageHeight.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgImageType.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgImageWidth.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgLatitude.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgLocale.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgLocaleAlternative.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgLocality.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgLongitude.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgPhoneNumber.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgPostalCode.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgRegion.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgSeeAlso.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgStreetAddress.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgUpdatedTime.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgVideo.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgVideoHeight.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgVideoSecureUrl.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgVideoType.php	
+D	metatag_open_graph/src/Plugin/metatag/Tag/OgVideoWidth.php	
+D	metatag_open_graph/src/Tests/MetatagOpenGraphTagsTest.php	
+D	metatag_twitter_cards/config/schema/metatag_twitter_cards.metatag_tag.schema.yml	
+D	metatag_twitter_cards/metatag_twitter_cards.info.yml	
+D	metatag_twitter_cards/src/Plugin/metatag/Group/TwitterCards.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppIdGooglePlay.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppIdIpad.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppIdIphone.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppNameGooglePlay.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppNameIpad.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppNameIphone.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppStoreCountry.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppUrlGooglePlay.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppUrlIpad.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppUrlIphone.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsCreator.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsCreatorId.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsData1.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsData2.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsDescription.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsGalleryImage0.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsGalleryImage1.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsGalleryImage2.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsGalleryImage3.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsImage.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsImageAlt.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsImageHeight.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsImageWidth.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsLabel1.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsLabel2.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsPageUrl.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsPlayer.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsPlayerHeight.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsPlayerStream.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsPlayerStreamContentType.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsPlayerWidth.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsSite.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsSiteId.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsTitle.php	
+D	metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsType.php	
+D	metatag_twitter_cards/src/Tests/MetatagTwitterCardsTagsTest.php	
+D	metatag_verification/config/schema/metatag_verification.metatag_tag.schema.yml	
+D	metatag_verification/metatag_verification.info.yml	
+D	metatag_verification/src/Plugin/metatag/Group/SiteVerification.php	
+D	metatag_verification/src/Plugin/metatag/Tag/Baidu.php	
+D	metatag_verification/src/Plugin/metatag/Tag/Bing.php	
+D	metatag_verification/src/Plugin/metatag/Tag/Google.php	
+D	metatag_verification/src/Plugin/metatag/Tag/NortonSafeWeb.php	
+D	metatag_verification/src/Plugin/metatag/Tag/Pinterest.php	
+D	metatag_verification/src/Plugin/metatag/Tag/Yandex.php	
+D	metatag_verification/src/Tests/MetatagVerificationTagsTest.php	
+M	src/Annotation/MetatagGroup.php	2bd15276c67a8c6e5f48b735dd50c4c2
+M	src/Annotation/MetatagTag.php	925031aeb6943a0e41e9e3fa1bf25bc8
+D	src/Command/GenerateGroupCommand.php	
+M	src/Command/GenerateTagCommand.php	f83f5e27d93d153ab3c5a62eb2c600d2
+D	src/Entity/MetatagDefaults.php	
+D	src/Form/MetatagDefaultsDeleteForm.php	
+D	src/Form/MetatagDefaultsForm.php	
+D	src/Form/MetatagDefaultsRevertForm.php	
+A	src/Form/MetatagSettingsForm.php	fe1c6af28d8c887476816695cbb39275
+D	src/Generator/MetatagGroupGenerator.php	
+M	src/Generator/MetatagTagGenerator.php	861911fdd0b81e5c4b0ad0d17bc7e8f7
+D	src/MetatagDefaultsInterface.php	
+D	src/MetatagDefaultsListBuilder.php	
+M	src/MetatagGroupPluginManager.php	afbb1130f23fe539f5367b49e004907e
+M	src/MetatagManager.php	707e3b0ec51a5402aa079d0d88170a08
+M	src/MetatagManagerInterface.php	11ea65ffb7832570a90c664ae08403c4
+M	src/MetatagTagPluginManager.php	5fa7a6b7a78f9e57a9c7695ab2360f5d
+M	src/MetatagToken.php	56af7c8b0fa8dd62630bcb0de492228e
+M	src/Plugin/Field/FieldFormatter/MetatagEmptyFormatter.php	6d9ae894c5afecc48ca63fd7228a3701
+M	src/Plugin/Field/FieldType/MetatagFieldItem.php	0a0ed29def1369d190376823fcb93eca
+M	src/Plugin/Field/FieldWidget/MetatagFirehose.php	ecfc5fff06a8bc7c8ffbc46c83add5bc
+M	src/Plugin/metatag/Group/Advanced.php	96b26f1d7708e482c6e27c191e0a4b22
+M	src/Plugin/metatag/Group/AppLinks.php	5313cd84b85d39cb87f67f8044277168
+M	src/Plugin/metatag/Group/Basic.php	b01fa132f3cc5175375548ec2b63dcf0
+M	src/Plugin/metatag/Group/DublinCoreAdvanced.php	6ce631aea69a01e021cb6ada52538ced
+M	src/Plugin/metatag/Group/DublinCoreBasic.php	6e78de5449621d815dee41b8854dc43f
+M	src/Plugin/metatag/Group/Facebook.php	ceb045c0eafd7a9f0f8712be5d92ff9a
+M	src/Plugin/metatag/Group/GooglePlus.php	1ced2075390f3db93748a5197cc4abc2
+M	src/Plugin/metatag/Group/GroupBase.php	5626a20dcdcbf1afe59f54eb4b282a7f
+M	src/Plugin/metatag/Group/SiteValidation.php	c01edf0a85cc56de3e27898b1a96a868
+M	src/Plugin/metatag/Group/TwitterCards.php	3b965ade2e552b7c441931e33e818683
+M	src/Plugin/metatag/Tag/AbstractTag.php	25608da6fd364960f513c530bb36dd4a
+M	src/Plugin/metatag/Tag/CanonicalUrl.php	a56ac3b479f432b2b84821215881044a
+M	src/Plugin/metatag/Tag/ContentLanguage.php	629589bf72301b2b20f0916cfd0a770c
+M	src/Plugin/metatag/Tag/Description.php	6b7374afab7b6256119905c8c96726f5
+M	src/Plugin/metatag/Tag/Generator.php	17dc87b148c5c50340edc3908f49c24f
+D	src/Plugin/metatag/Tag/GeoPlacename.php	
+D	src/Plugin/metatag/Tag/GeoPosition.php	
+D	src/Plugin/metatag/Tag/GeoRegion.php	
+D	src/Plugin/metatag/Tag/Icbm.php	
+M	src/Plugin/metatag/Tag/ImageSrc.php	50a5c0bb0c82d5b7e90ececea0452074
+M	src/Plugin/metatag/Tag/Keywords.php	28297ba0f0b65f6cac4a151325a09eb9
+M	src/Plugin/metatag/Tag/LinkRelBase.php	8e7f9b18f164dc91c651c4ca823d7ca3
+M	src/Plugin/metatag/Tag/MetaHttpEquivBase.php	58140ed407337784d243f2a3b7dac2a6
+D	src/Plugin/metatag/Tag/MetaItempropBase.php	
+M	src/Plugin/metatag/Tag/MetaNameBase.php	d09d33babb1af05ba8571100f7cc2aa6
+M	src/Plugin/metatag/Tag/MetaPropertyBase.php	6e9f08fb96488459eee0967ca90b4377
+M	src/Plugin/metatag/Tag/NewsKeywords.php	d1d5aa650beeaf5da45577a3047c4086
+M	src/Plugin/metatag/Tag/OriginalSource.php	ff31175108d84e10c1ab047406f0e3ff
+D	src/Plugin/metatag/Tag/Referrer.php	
+M	src/Plugin/metatag/Tag/Rights.php	7196cf6e033c4e824c77f9bb043172ed
+M	src/Plugin/metatag/Tag/Robots.php	22dd76f04483c9f94fd7622a3630f343
+D	src/Plugin/metatag/Tag/ShortLink.php	
+M	src/Plugin/metatag/Tag/Standout.php	88d1a0678e1ed9b1b7b83fd1ac7215d8
+M	src/Plugin/metatag/Tag/Title.php	c97633c2f62f84f9a9e6c6af783b41e9
+D	src/Tests/MetatagAdminTest.php	
+D	src/Tests/MetatagConfigTranslationTest.php	
+D	src/Tests/MetatagFieldNodeTest.php	
+D	src/Tests/MetatagFieldTermTest.php	
+A	src/Tests/MetatagFieldTest.php	373ddfa4bcde8a9b2c2ddacb6f23c179
+D	src/Tests/MetatagFieldTestBase.php	
+D	src/Tests/MetatagFieldTestTest.php	
+D	src/Tests/MetatagFieldUserTest.php	
+D	src/Tests/MetatagForumTest.php	
+D	src/Tests/MetatagFrontpageTest.php	
+D	src/Tests/MetatagNodeTranslationTest.php	
+D	src/Tests/MetatagTagTypesTest.php	
+D	src/Tests/MetatagTagsTest.php	
+D	src/Tests/MetatagTagsTestBase.php	
+D	src/Tests/MetatagXssTest.php	
+M	templates/generator.php.twig	f6e304ba00ef46be7345ed1f42a95308
+D	templates/group.php.twig	
+D	templates/metatag_tag.schema.yml.twig	
+M	templates/tag.php.twig	ff180b9ccff3aeaeab5320c56b572329
+D	tests/modules/metatag_test_custom_route/metatag_test_custom_route.info.yml	
+D	tests/modules/metatag_test_custom_route/metatag_test_custom_route.module	
+D	tests/modules/metatag_test_custom_route/metatag_test_custom_route.routing.yml	
+D	tests/modules/metatag_test_custom_route/src/Controller/MetatagTestCustomRouteController.php	
+D	tests/modules/metatag_test_tag/config/schema/metatag_test_tag.metatag_tag.schema.yml	
+D	tests/modules/metatag_test_tag/metatag_test_tag.info.yml	
+D	tests/modules/metatag_test_tag/metatag_test_tag.metatag_tag.schema.yml	
+D	tests/modules/metatag_test_tag/metatag_test_tag.module	
+D	tests/modules/metatag_test_tag/src/Plugin/metatag/Tag/MetatagTestTag.php	

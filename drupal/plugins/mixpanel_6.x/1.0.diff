@@ -1,0 +1,10 @@
+D	.mixpanel.module.swp	
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	includes/mixpanel.comment.inc	8e8ca658d7d4d405d998565b2b486109
+A	includes/mixpanel.node.inc	78219c209172616727b8fcf6a0446f8c
+A	includes/mixpanel.og.inc	96e5d2657bd3e11d271b088e29678bd0
+A	includes/mixpanel.user.inc	f707d6d95ba63a4de4ac88ea0c079f45
+A	mixpanel.api.inc	b7f9514066fc2a70cecfe7215a4aecc0
+M	mixpanel.info	566baa043e51eea05ba65fdee8183b1f
+M	mixpanel.module	c7791a9c19408f687310bed6a5c8e59c
+M	modules/mixpanel_spaces/mixpanel_spaces.info	77dcf7c3771945d0a839ee646a6a3212

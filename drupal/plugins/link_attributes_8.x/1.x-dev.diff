@@ -1,0 +1,7 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	5d17b7bd59edc2f61bcd495c3d4ab239
+A	config/schema/link_attributes.schema.yml	135420a091278bd5e48c57029b5cf6da
+A	link_attributes.info.yml	2d3da3a3f5fa31425d9a13cde45b263b
+A	link_attributes.module	b07eabbd3cb0140394372396625d657b
+A	src/Plugin/Field/FieldWidget/LinkWithAttributesWidget.php	1a159fd445a06c7e85fd18ce9bdc3e24
+A	tests/src/Functional/LinkAttributesTest.php	af0b8a67021073fcbbed81051b143ff3

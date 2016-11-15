@@ -1,0 +1,9 @@
+D	composer.json	
+M	migrate_manifest.drush.inc	5b7a8b19408fe11729fbc0c401f52328
+M	migrate_manifest.info.yml	76e177819bd9cd639c9896108ca811b8
+D	migrate_manifest.module	
+D	migrate_manifest.services.yml	
+M	src/MigrateManifest.php	cdc8620852ff1ac788a66b40e0760181
+D	src/MigrateManifest80.php	
+D	src/MigrateTemplateStorage.php	
+D	src/MigrateTemplateStorageInterface.php	

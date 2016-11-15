@@ -1,0 +1,14 @@
+M	README.md	7195fdbc4b14024e05edf84867418d03
+M	config/schema/field_formatter.schema.yml	e173c2e46f50895d08c8132c522859f7
+M	field_formatter.info.yml	ffef4da1431b58ac19a1c6e3d240668d
+M	src/Plugin/Field/FieldFormatter/FieldFormatterBase.php	cd26c2bdaf7522b7b74c0b8bd524f6b9
+M	src/Plugin/Field/FieldFormatter/FieldFormatterWithInlineSettings.php	046dd1d898d5cf2ea15e89490c1f4426
+M	src/Tests/FieldFormatterWithInlineSettingsUITest.php	8a8ef9c66a3b000f357d09dc53cf4508
+D	tests/modules/field_formatter_test/config/install/core.entity_form_display.taxonomy_term.test_vocabulary2.default.yml	
+M	tests/modules/field_formatter_test/config/install/core.entity_view_display.node.test_content_type.default.yml	7dd03b4348f997e9cb81300bb0d5c376
+D	tests/modules/field_formatter_test/config/install/core.entity_view_display.taxonomy_term.test_vocabulary2.test_view_mode.yml	
+M	tests/modules/field_formatter_test/config/install/field.field.node.test_content_type.field_field_test_ref_inline.yml	3819c87431b39a46ef2cd2b4a2849f6a
+D	tests/modules/field_formatter_test/config/install/field.field.taxonomy_term.test_vocabulary2.field_test_field2.yml	
+D	tests/modules/field_formatter_test/config/install/field.storage.taxonomy_term.field_test_field2.yml	
+D	tests/modules/field_formatter_test/config/install/taxonomy.vocabulary.test_vocabulary2.yml	
+M	tests/modules/field_formatter_test/field_formatter_test.info.yml	77ed47dd47248158491073f2679d488b

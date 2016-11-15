@@ -1,0 +1,42 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	231894ed5f54f63e808e339f8063d41f
+D	expiration/rate_expiration.info	
+D	expiration/rate_expiration.install	
+D	expiration/rate_expiration.module	
+D	poll/rate_poll.info	
+D	poll/rate_poll.install	
+D	poll/rate_poll.module	
+D	poll/templates/poll/poll.css	
+D	poll/templates/poll/poll.tpl.php	
+M	rate-widget.tpl.php	3137e9885b397084f9e6be75c1dc29ae
+M	rate.admin.inc	5e3dced1d435038c7046b68cf42a99f5
+M	rate.admin.js	0625d922376698144d36676a8673f884
+D	rate.css	
+D	rate.hooks.inc	
+M	rate.info	299c39bd851e597bce40f2922866b250
+D	rate.install	
+D	rate.js	
+M	rate.module	e6535968eb635cf521754cedc0cdb592
+D	rate.results.inc	
+D	slider/rate_slider.info	
+D	slider/rate_slider.module	
+D	slider/templates/slider/slider.css	
+D	slider/templates/slider/slider.js	
+D	slider/templates/slider/slider.tpl.php	
+D	templates/emotion/emotion.css	
+D	templates/emotion/emotion.tpl.php	
+D	templates/fivestar/fivestar.css	
+D	templates/fivestar/fivestar.js	
+D	templates/fivestar/fivestar.png	
+D	templates/fivestar/fivestar.tpl.php	
+D	templates/number-up-down/add.png	
+D	templates/number-up-down/minus.png	
+D	templates/number-up-down/number-up-down.css	
+D	templates/number-up-down/number-up-down.tpl.php	
+D	templates/thumbs-up-down/thumbs-up-down.css	
+D	templates/thumbs-up-down/thumbs-up-down.tpl.php	
+D	templates/thumbs-up-down/thumbs.png	
+D	templates/thumbs-up/thumbs-up.css	
+D	templates/thumbs-up/thumbs-up.tpl.php	
+D	templates/yesno/yesno.css	
+D	templates/yesno/yesno.tpl.php	

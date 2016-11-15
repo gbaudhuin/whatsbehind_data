@@ -1,0 +1,10 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	15f922b465093c3e514923a3adf425d3
+A	config/install/yaml_editor.config.yml	20165db2c00d8613167bac836407682f
+A	js/yaml-editor.js	5ed4f263f443a866d07fa9849200ab03
+A	src/Form/ConfigForm.php	b982d4ec3a1c2843bd422859027dd895
+A	yaml_editor.info.yml	4db28ade4c540fd26ae1a6195adf47a6
+A	yaml_editor.libraries.yml	6519ff1c5e65dbdba3b8d2da6f3c400c
+A	yaml_editor.links.menu.yml	091ab9a9c716a8ba342e7dfc5dc9adfb
+A	yaml_editor.module	cd279114076ec3e2d484958573a54fba
+A	yaml_editor.routing.yml	b89acf14ff13991d85c3a2bb198f301d

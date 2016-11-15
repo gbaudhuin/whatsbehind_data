@@ -1,0 +1,161 @@
+A	images/csv_complete.png	db30ff39834e971efc77ad5389444ce7
+M	includes/ajax_quiz/ajax_quiz.info	38dd5bd0f154dc7ed868a93e067068ab
+D	includes/moodle/lang/en_utf8/quiz.php	
+D	includes/moodle/lib/pclzip/gnu-lgpl.txt	
+D	includes/moodle/lib/pclzip/index.html	
+D	includes/moodle/lib/pclzip/pclzip.lib.php	
+D	includes/moodle/lib/pclzip/readme.txt	
+D	includes/moodle/lib/pclzip/readme_moodle.txt	
+D	includes/moodle/lib/questionlib.php	
+D	includes/moodle/lib/smarty/COPYING.lib	
+D	includes/moodle/lib/smarty/Config_File.class.php	
+D	includes/moodle/lib/smarty/Smarty.class.php	
+D	includes/moodle/lib/smarty/Smarty_Compiler.class.php	
+D	includes/moodle/lib/smarty/core/core.assemble_plugin_filepath.php	
+D	includes/moodle/lib/smarty/core/core.assign_smarty_interface.php	
+D	includes/moodle/lib/smarty/core/core.create_dir_structure.php	
+D	includes/moodle/lib/smarty/core/core.display_debug_console.php	
+D	includes/moodle/lib/smarty/core/core.get_include_path.php	
+D	includes/moodle/lib/smarty/core/core.get_microtime.php	
+D	includes/moodle/lib/smarty/core/core.get_php_resource.php	
+D	includes/moodle/lib/smarty/core/core.is_secure.php	
+D	includes/moodle/lib/smarty/core/core.is_trusted.php	
+D	includes/moodle/lib/smarty/core/core.load_plugins.php	
+D	includes/moodle/lib/smarty/core/core.load_resource_plugin.php	
+D	includes/moodle/lib/smarty/core/core.process_cached_inserts.php	
+D	includes/moodle/lib/smarty/core/core.process_compiled_include.php	
+D	includes/moodle/lib/smarty/core/core.read_cache_file.php	
+D	includes/moodle/lib/smarty/core/core.rm_auto.php	
+D	includes/moodle/lib/smarty/core/core.rmdir.php	
+D	includes/moodle/lib/smarty/core/core.run_insert_handler.php	
+D	includes/moodle/lib/smarty/core/core.smarty_include_php.php	
+D	includes/moodle/lib/smarty/core/core.write_cache_file.php	
+D	includes/moodle/lib/smarty/core/core.write_compiled_include.php	
+D	includes/moodle/lib/smarty/core/core.write_compiled_resource.php	
+D	includes/moodle/lib/smarty/core/core.write_file.php	
+D	includes/moodle/lib/smarty/debug.tpl	
+D	includes/moodle/lib/smarty/plugins/block.textformat.php	
+D	includes/moodle/lib/smarty/plugins/compiler.assign.php	
+D	includes/moodle/lib/smarty/plugins/function.assign_debug_info.php	
+D	includes/moodle/lib/smarty/plugins/function.config_load.php	
+D	includes/moodle/lib/smarty/plugins/function.counter.php	
+D	includes/moodle/lib/smarty/plugins/function.cycle.php	
+D	includes/moodle/lib/smarty/plugins/function.debug.php	
+D	includes/moodle/lib/smarty/plugins/function.eval.php	
+D	includes/moodle/lib/smarty/plugins/function.fetch.php	
+D	includes/moodle/lib/smarty/plugins/function.html_checkboxes.php	
+D	includes/moodle/lib/smarty/plugins/function.html_image.php	
+D	includes/moodle/lib/smarty/plugins/function.html_options.php	
+D	includes/moodle/lib/smarty/plugins/function.html_radios.php	
+D	includes/moodle/lib/smarty/plugins/function.html_select_date.php	
+D	includes/moodle/lib/smarty/plugins/function.html_select_time.php	
+D	includes/moodle/lib/smarty/plugins/function.html_table.php	
+D	includes/moodle/lib/smarty/plugins/function.mailto.php	
+D	includes/moodle/lib/smarty/plugins/function.math.php	
+D	includes/moodle/lib/smarty/plugins/function.popup.php	
+D	includes/moodle/lib/smarty/plugins/function.popup_init.php	
+D	includes/moodle/lib/smarty/plugins/modifier.capitalize.php	
+D	includes/moodle/lib/smarty/plugins/modifier.cat.php	
+D	includes/moodle/lib/smarty/plugins/modifier.count_characters.php	
+D	includes/moodle/lib/smarty/plugins/modifier.count_paragraphs.php	
+D	includes/moodle/lib/smarty/plugins/modifier.count_sentences.php	
+D	includes/moodle/lib/smarty/plugins/modifier.count_words.php	
+D	includes/moodle/lib/smarty/plugins/modifier.date_format.php	
+D	includes/moodle/lib/smarty/plugins/modifier.debug_print_var.php	
+D	includes/moodle/lib/smarty/plugins/modifier.default.php	
+D	includes/moodle/lib/smarty/plugins/modifier.escape.php	
+D	includes/moodle/lib/smarty/plugins/modifier.indent.php	
+D	includes/moodle/lib/smarty/plugins/modifier.lower.php	
+D	includes/moodle/lib/smarty/plugins/modifier.nl2br.php	
+D	includes/moodle/lib/smarty/plugins/modifier.regex_replace.php	
+D	includes/moodle/lib/smarty/plugins/modifier.replace.php	
+D	includes/moodle/lib/smarty/plugins/modifier.spacify.php	
+D	includes/moodle/lib/smarty/plugins/modifier.string_format.php	
+D	includes/moodle/lib/smarty/plugins/modifier.strip.php	
+D	includes/moodle/lib/smarty/plugins/modifier.strip_tags.php	
+D	includes/moodle/lib/smarty/plugins/modifier.truncate.php	
+D	includes/moodle/lib/smarty/plugins/modifier.upper.php	
+D	includes/moodle/lib/smarty/plugins/modifier.wordwrap.php	
+D	includes/moodle/lib/smarty/plugins/outputfilter.trimwhitespace.php	
+D	includes/moodle/lib/smarty/plugins/shared.escape_special_chars.php	
+D	includes/moodle/lib/smarty/plugins/shared.make_timestamp.php	
+D	includes/moodle/lib/xmlize.php	
+D	includes/moodle/question/README.txt	
+D	includes/moodle/question/format.php	
+D	includes/moodle/question/format/README.txt	
+D	includes/moodle/question/format/aiken/format.php	
+D	includes/moodle/question/format/blackboard/format.php	
+D	includes/moodle/question/format/blackboard_6/format.php	
+D	includes/moodle/question/format/coursetestmanager/format.php	
+D	includes/moodle/question/format/examview/format.php	
+D	includes/moodle/question/format/gift/examples.txt	
+D	includes/moodle/question/format/gift/format.php	
+D	includes/moodle/question/format/hotpot/format.php	
+D	includes/moodle/question/format/learnwise/format.php	
+D	includes/moodle/question/format/missingword/format.php	
+D	includes/moodle/question/format/multianswer/format.php	
+D	includes/moodle/question/format/qti2/custommediafilter.php	
+D	includes/moodle/question/format/qti2/format.php	
+D	includes/moodle/question/format/qti2/qt_common.php	
+D	includes/moodle/question/format/qti2/templates/choice.tpl	
+D	includes/moodle/question/format/qti2/templates/choiceMultiple.tpl	
+D	includes/moodle/question/format/qti2/templates/composite.tpl	
+D	includes/moodle/question/format/qti2/templates/extendedText.tpl	
+D	includes/moodle/question/format/qti2/templates/extendedText_simpleEssay.tpl	
+D	includes/moodle/question/format/qti2/templates/graphicGapMatch.tpl	
+D	includes/moodle/question/format/qti2/templates/imsmanifest.tpl	
+D	includes/moodle/question/format/qti2/templates/match.tpl	
+D	includes/moodle/question/format/qti2/templates/mmchoiceMultiple.tpl	
+D	includes/moodle/question/format/qti2/templates/notimplemented.tpl	
+D	includes/moodle/question/format/qti2/templates/numerical.tpl	
+D	includes/moodle/question/format/qti2/templates/textEntry.tpl	
+D	includes/moodle/question/format/webct/TODO.txt	
+D	includes/moodle/question/format/webct/format.php	
+D	includes/moodle/question/format/xhtml/format.php	
+D	includes/moodle/question/format/xhtml/xhtml.css	
+D	includes/moodle/question/format/xml/format.php	
+D	includes/moodle_support.php	
+D	includes/questions_export/questions_export.admin.inc	
+D	includes/questions_export/questions_export.info	
+D	includes/questions_export/questions_export.module	
+D	includes/questions_export/questions_export.test	
+D	includes/questions_import/README.TXT	
+D	includes/questions_import/examples/aiken_example.txt	
+D	includes/questions_import/examples/csv_example.csv	
+D	includes/questions_import/examples/gift_example.txt	
+D	includes/questions_import/examples/hotpot_example.jqz	
+D	includes/questions_import/examples/learnwise_example.xml	
+D	includes/questions_import/examples/qti_v1p2_sample.xml	
+D	includes/questions_import/examples/webct_example.txt	
+D	includes/questions_import/questions_import.admin.inc	
+D	includes/questions_import/questions_import.css	
+D	includes/questions_import/questions_import.info	
+D	includes/questions_import/questions_import.install	
+D	includes/questions_import/questions_import.js	
+D	includes/questions_import/questions_import.module	
+D	includes/questions_import/questions_import.test	
+D	includes/questions_import/questions_reimport.admin.inc	
+D	includes/questions_import/tests/aiken.txt	
+D	includes/questions_import/tests/questions_import.test	
+M	includes/quiz_stats/quiz_stats.info	6902a6753b344821759f6a6a5faad1f4
+D	includes/results_export/results_export.admin.inc	
+D	includes/results_export/results_export.info	
+D	includes/results_export/results_export.module	
+M	question_types/long_answer/long_answer.info	c4bbc867fa1543b37581289bd5e39ca2
+M	question_types/matching/matching.info	50024e657b4c891622e85e671459a2c7
+M	question_types/multichoice/multichoice.classes.inc	4ea91d5d7137342cf7dcdf5d200d25ec
+M	question_types/multichoice/multichoice.info	cd60e7316962f8155e8e561603c7e4d6
+M	question_types/multichoice/multichoice.install	51707a02d6858158dae84de0dee50953
+M	question_types/multichoice/multichoice_update_6400.inc	5d737d0a7b9939fb1934170308f0fc36
+M	question_types/multichoice/theme/multichoice.theme.inc	e71e4094b7f27864e2fdc7da3abea26a
+M	question_types/quiz_directions/quiz_directions.info	ee92adf2d511535b06b2f968e03b23ff
+M	question_types/quiz_question/quiz_question.info	a72624e404dbe0e9ef9332b31b318ba3
+M	question_types/quiz_question/quiz_question.module	f8af69f418ec64780834a8b8ed6f44f8
+M	question_types/scale/scale.info	b1a9cddd609d90652edef751889fcea1
+M	question_types/short_answer/short_answer.info	65fad167af17c070e76ee6ff4686e878
+M	question_types/truefalse/truefalse.info	0ce6168053dd449b63f3b14d3df7171e
+M	quiz.admin.inc	49a2e58b43e761629181892484f4fdf2
+M	quiz.info	5bac18257573637eb667a1cf74c1bf2b
+M	quiz.install	e03dcb9a57312121e1544b5005ea2967
+M	quiz.module	f079661341dd649f812abb91f8267d0d
+M	quiz.pages.inc	5a8074974d56ba41cde4deae0e6eddee

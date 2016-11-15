@@ -1,0 +1,17 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	a041e6c09e46354ba53b5576a18562fa
+A	flags/hi.png	768574dc980d93e166f6c325f9bbb5ac
+A	flags/mn.png	ac3e2a2121eb823acbf5017d25440c23
+A	flags/se.png	ce637326111d4e14cd90880e6f0c6120
+A	flags/sq.png	6653961bf4704b0c37699a74b6a6793d
+A	flags/sr.png	a4fee293c60af79119fdb7373cbc6a51
+M	languageicons.admin.inc	865269bfd6f5ed4f639ba58bf0455d1f
+M	languageicons.info	e620f9061a8ab999642f8f959a0f9c68
+M	languageicons.install	76b23d69d160f4c76d8e52adacde5a32
+M	languageicons.module	2cb12b0e84fadf7fb5d866bf9c60fd40
+D	translations/cs.po	
+D	translations/da.po	
+D	translations/de.po	
+D	translations/el.po	
+D	translations/hu.po	
+D	translations/languageicons.pot	

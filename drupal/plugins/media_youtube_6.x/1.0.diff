@@ -1,0 +1,16 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	37c8ff066baa14d09110aac2e391c2e1
+A	ResourceYouTubeStreamWrapper.inc	9d2e0e0bbe15c9260292b8668a032504
+A	changelog.txt	75d72957e1145885c0b1be5dc59fa714
+D	includes/media_youtube.admin.inc	
+D	includes/media_youtube.api.inc	
+D	includes/media_youtube.media_mover.inc	
+D	includes/media_youtube.variables.inc	
+M	media_youtube.info	e16ce341fc9cedd4f8493b418e955427
+M	media_youtube.install	67d56bfa30622c98337685ba5926f8c5
+M	media_youtube.module	7f224991e24d4b80a5c5cc00cd126ad1
+M	providers/emvideo/youtube.inc	527e9d0951f7c5d5395c39822b58dcc0
+D	themes/media-youtube-default-external.tpl.php	
+D	themes/media-youtube-flash.tpl.php	
+D	themes/media-youtube-html5.tpl.php	
+D	themes/media_youtube.theme.inc	

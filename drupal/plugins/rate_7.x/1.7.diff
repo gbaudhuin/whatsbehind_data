@@ -1,0 +1,7 @@
+M	expiration/rate_expiration.info	c478dfcab6866988155027bfffefcb21
+M	expiration/rate_expiration.module	504a45b5fc7b092c334d0f9992bab358
+A	plugins/content_types/rate_widget.inc	c8083894cb66058057d5f3daf26491a2
+M	rate.info	d351574dd9c5f164e122a2bc980f2e20
+M	rate.js	51207d71e839368bd9adf673eeaa1193
+M	rate.module	6d3858ca5adfb34911b5f295555fa6f0
+M	slider/rate_slider.info	873e5bf4b940c67fc5134e8ad9e377da

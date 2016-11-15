@@ -1,0 +1,24 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	f3a355d6fb87130c142762263c6ac0ad
+M	colorbox-display.js	6ee6c88319722f64cc451a88197ec9b0
+D	css/media_gallery.edit.css	
+M	fields_rsi_prevention.inc	a52892050577a8f21dd9b154e23471e7
+D	images/hover-bubble-middle.png	
+D	images/hover-bubble.png	
+D	js/media_gallery.edit.js	
+M	media-gallery-media-item-thumbnail.tpl.php	48b53d25f5df1be383a2057ac7aa269f
+M	media.pages.inc	46f56bee55eea9a46219068da6df1423
+M	media_gallery.addimage.js	9efc096374a62ecbf30e068e7d9e40dd
+M	media_gallery.admin.inc	b0dddcf85455b113e1db50b4008c561d
+M	media_gallery.css	ad7611b4a58e1c647b0d4049b4ef5c6d
+M	media_gallery.dragdrop.css	5c71a35c3a9aaf0985b8f21a1106f8c0
+M	media_gallery.dragdrop.js	2b7f25f17dcc300ddbb09907ec7b00a4
+M	media_gallery.fields.inc	85f2817fe2964bed60c42093a15aced7
+M	media_gallery.form.js	a73bc4e0aa76da92ac5408e1e67bd058
+M	media_gallery.ie7.css	7b3d030f7306a0aa42e503d2378cac0c
+M	media_gallery.info	75cd798da228576a77531f279bf084f7
+M	media_gallery.install	16c40f5da6a670925b21e8f601a02566
+D	media_gallery.js	
+M	media_gallery.module	a377cbfc6ad30c83fdaf4d047cf7a36d
+M	media_gallery.pages.inc	f22fbb2e693f4576097f2563026b8d56
+M	media_gallery.theme.inc	dd27b486fb1350a2fe177153b7d8cf0f

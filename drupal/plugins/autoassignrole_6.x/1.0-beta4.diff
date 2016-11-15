@@ -1,0 +1,6 @@
+M	autoassignrole-admin.inc	21b21cb78cc5300029d850e6cf73a59d
+A	autoassignrole-path.inc	5741349decfa370d314953133f1acaac
+M	autoassignrole.info	b6f58a9f2111784c8e2bb5f2d1b65552
+M	autoassignrole.install	bf4a48cd1943a1a91b9ac7f9d2aa5e9e
+M	autoassignrole.module	be0036379ea7126057a6a9fe84211d4f
+A	tests/autoassignrole.test	1ca30ca6c14152e5eaffde1fce6c67e0

@@ -1,0 +1,72 @@
+A	DEVELOPER.md	7054114b1624e4ab1cb6cdb4c9983d4e
+D	DEVELOPER.txt	
+A	README.md	d97aba91d5e206dcfe25c29203aae285
+D	README.txt	
+M	includes/QuizMetadataController.class.inc	77301acf75fa020a4d1555ac2048c552
+M	includes/QuizResultController.class.inc	7c524d89b644e8a6906b5be208e1ffd6
+M	includes/views/defaults/quiz_results.view.inc	375d1d077d44d7953ad3d1ce8b533214
+D	includes/views/handlers/quiz_views_handler_argument_quiz_nid.inc	
+D	includes/views/handlers/quiz_views_handler_argument_user_uid_nullable.inc	
+D	includes/views/handlers/quiz_views_handler_field_node_link_take.inc	
+D	includes/views/handlers/quiz_views_handler_field_number_questions.inc	
+D	includes/views/handlers/quiz_views_handler_field_question_status.inc	
+A	includes/views/handlers/quiz_views_handler_field_quiz_question_result_answer.inc	719fd35c529fae4c93975e48bb3cdac3
+D	includes/views/handlers/quiz_views_handler_field_score_aggregate.inc	
+D	includes/views/handlers/quiz_views_handler_field_takes.inc	
+D	includes/views/handlers/quiz_views_handler_field_time.inc	
+D	includes/views/handlers/quiz_views_handler_field_user_quiz_state.inc	
+D	includes/views/handlers/quiz_views_handler_filter_question_status.inc	
+D	includes/views/handlers/quiz_views_handler_filter_quiz_nid.inc	
+D	includes/views/handlers/quiz_views_handler_filter_user_nullable.inc	
+D	includes/views/handlers/quiz_views_handler_filter_user_quiz_state.inc	
+D	includes/views/handlers/quiz_views_handler_relationship_quiz_nid.inc	
+M	includes/views/quiz.views.inc	62a9bbb3fd6eeca7b8b872d861ba71d3
+M	modules/ajax_quiz/ajax_quiz.info	209d4e92079cffe95e6365843d044bc8
+D	modules/ajax_quiz/ajax_quiz.js	
+M	modules/ajax_quiz/ajax_quiz.module	6ec2caab68a3258b44d51b7126ab47b5
+M	modules/quiz_stats/quiz_stats.info	d75de833a0612be7a59fec8da1cb8d8e
+M	plugins/content_types/quiztake_pane.inc	a07a5cf1795b81eea1f7c2d29f775ebe
+M	plugins/page_manager/tasks/quiztake.inc	151ddadb625e12ccef36ed6c36b9f31c
+M	question_types/long_answer/long_answer.admin.inc	ff387e48eed6c4abbfda80815f7b9f8d
+M	question_types/long_answer/long_answer.classes.inc	bdfd45f95ddef88a5868f342e9a602e0
+M	question_types/long_answer/long_answer.info	27c0b4d13bf0eddc666f153f56cdd6b2
+M	question_types/matching/matching.classes.inc	77e209124b43938db40d2b0236c2a36a
+M	question_types/matching/matching.info	4bb17aba28fb6644c5e76817ef8ff7f7
+M	question_types/matching/matching.install	ab6c1f77e49d2da729ed4bec68bee062
+M	question_types/multichoice/multichoice.classes.inc	6143bfda79aa78b76a7b73a8c52a6c21
+M	question_types/multichoice/multichoice.info	945fa2d1a366523d54cd7f8213707048
+M	question_types/multichoice/multichoice.js	c56ecd1314244acc1873c43df064180e
+M	question_types/multichoice/multichoice.test	4c380f2064d1f85d65fb502ab64effba
+M	question_types/quiz_directions/quiz_directions.classes.inc	5ae25c65fa9ce894b7c606cf63fb12b2
+M	question_types/quiz_directions/quiz_directions.info	cb1dbfffc1b9f91821941ccd6a83831d
+M	question_types/quiz_page/QuizPageTestCase.test	05dd57cfa5064388be2e53d440f3a7bb
+M	question_types/quiz_page/quiz_page.classes.inc	94a388a8e2c0821ae5ef71cb2c0dedfb
+M	question_types/quiz_page/quiz_page.info	e433a6522b3a58955338e14cec375dab
+M	question_types/quiz_question/quiz_question.core.inc	76394d80f652f356b939376a908152c8
+M	question_types/quiz_question/quiz_question.info	7e54e80bf714276d5dc452b0db3f5b5a
+M	question_types/quiz_question/quiz_question.module	ee5b4848f063ae14238e2cf9911a1729
+M	question_types/quiz_question/quiz_question.pages.inc	0c3075215aebeea6c7d99cc9f71697dc
+M	question_types/scale/scale.info	f957659fc29f70848333c9f587805515
+M	question_types/short_answer/short_answer.admin.inc	c49844ff2805fb29d4b6f79ca2003091
+M	question_types/short_answer/short_answer.classes.inc	043237f4f37027885442ae68893ceff5
+M	question_types/short_answer/short_answer.info	4315fb0e5c9b456a0284eedd898ae043
+M	question_types/truefalse/truefalse.classes.inc	bf20f295a408a0016516dca3c31bd63b
+M	question_types/truefalse/truefalse.info	bacc49e1e0cb88fb2d4438969080cc4c
+M	quiz.admin.inc	296f9144ec0070be06f1e86d2b01c244
+M	quiz.api.php	0ac3289afead909fe393a01a5ab5c0e9
+M	quiz.info	59c050c4929155af7124658d6babe63b
+M	quiz.install	71a397f3a0d7a2915a1de77a03c7a020
+M	quiz.module	7cf7f268411358f76dc3955f9f2e9fe4
+M	quiz.pages.inc	c4be1ea95cf1ceb1b518aede56a83a4c
+A	quiz.rules_defaults.inc	c5ca19e00fe1be2ee46b6fdb50aad7f5
+M	tests/QuizCreationTestCase.test	f41cbb62b07a4f9a5f76e1488d1a2199
+M	tests/QuizFeedbackTestCase.test	f813da5fa623180192daf398b9e080d3
+M	tests/QuizNavigationTestCase.test	7aa0f4c4fcc218440546c0e41f97a4cb
+A	tests/QuizQuestionNumberingTestCase.test	e0086b8b8e660d9428afebe1ff6edaa9
+M	tests/QuizRandomTestCase.test	e7f2ae2f6afdc9615a42f709a2fae591
+M	tests/QuizResultTestCase.test	ab9740d1cb56670faf002db7bbd744ea
+M	tests/QuizTakingTestCase.test	7d9b8fa9119fe170aa6933b447477c28
+A	tests/quiz_test/quiz_test.info	7138defbb93ac77fdae39e32bb551091
+A	tests/quiz_test/quiz_test.module	c31632bd348c32ee3faa8067f116d390
+A	tests/quiz_test/quiz_test.rules_defaults.inc	30277b671ae0d2064d678710c7817d68
+M	theme/quiz-report-form.tpl.php	e2104b29edca14ead1e58031b0c1e449

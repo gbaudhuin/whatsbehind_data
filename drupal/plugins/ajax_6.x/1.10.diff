@@ -1,0 +1,16 @@
+M	README	62313ca916324a7abab3ee3e50623ab4
+M	ajax.info	dcd67692447c5462e88c5a06affc8184
+M	ajax.js	568fbd0c2940191c19544637c2ec8bbc
+M	ajax.module	faae186ba4a30b3711b68cbeb4a64af2
+M	ajax_ui/ajax_ui.info	83976c537ed03be6876962f0d8f2f700
+M	ajax_ui/ajax_ui.module	5f4547e58e336a7135adfc6f809e6fee
+A	jquery/README	e6bea7972e6bd9b6244d994d037972fb
+A	jquery/jquery.form.js	d8cadbedfe1d7a278989f9a5248766ec
+M	plugins/captcha/ajax_captcha.info	74323d9c049d08305656e19d619580e3
+M	plugins/comment/ajax_comment.info	ec19e88d34a7bea69c4d3f7af4dc5138
+M	plugins/comment/ajax_comment.module	64cb09879d1767a236af70178b21193b
+M	plugins/loggintoboggan/ajax_logintoboggan.info	c6fc1a30fc71223d21d8610ea4289033
+M	plugins/loggintoboggan/ajax_logintoboggan.module	724f4abce1db7d52165af27615ee0d39
+M	plugins/thickbox/ajax_thickbox.info	cf308d553f8c31b3c67d2d2a130eabe5
+M	plugins/tinymce/ajax_tinymce.info	0f549999d30d37dc05ce0d3a81e968f0
+M	plugins/webform/ajax_webform.info	348f5d07cf89e659041a77a25e51e4d2

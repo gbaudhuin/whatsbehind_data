@@ -1,0 +1,14 @@
+M	colorbox.admin.inc	9fd7e555a27aa32dc6e835263ff6fce6
+M	colorbox.info	4793739dc2ef9c29bdc82b4f4c96b6dc
+M	colorbox.install	5d61f0963346e1f377fe767f11b05b5f
+M	colorbox.module	a77f3045762c57c21caf5f611ca20d23
+M	colorbox.theme.inc	b28840c157474e260af6316f0964d43c
+D	images/internet_explorer/borderBottomCenter.png	
+D	images/internet_explorer/borderBottomLeft.png	
+D	images/internet_explorer/borderBottomRight.png	
+D	images/internet_explorer/borderMiddleLeft.png	
+D	images/internet_explorer/borderMiddleRight.png	
+D	images/internet_explorer/borderTopCenter.png	
+D	images/internet_explorer/borderTopLeft.png	
+D	images/internet_explorer/borderTopRight.png	
+M	js/colorbox.js	796fcc409fb72347a522955b66a6b68a

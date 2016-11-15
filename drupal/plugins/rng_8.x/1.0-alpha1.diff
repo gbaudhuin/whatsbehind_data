@@ -1,0 +1,133 @@
+D	.travis.yml	
+M	README.md	6a6879366a01b0ed1a928d3ba81350d8
+D	composer.json	
+D	config/schema/rng.data_types.schema.yml	
+M	config/schema/rng.schema.yml	acbee8570f567f21ad978b61400697a8
+D	config/schema/rng.views.schema.yml	
+M	css/rng.admin.css	441d5042021b632c68e3c2cc51aa7025
+D	phpunit.xml.dist	
+M	rng.field.defaults.inc	533888ec63aad49b7c21b521cadbccf2
+M	rng.info.yml	012418efd49c1ad235c5fe174984a3a0
+D	rng.install	
+M	rng.links.action.yml	65accd15e3be5a63e9c32d4a7cddc3f8
+M	rng.links.menu.yml	ee11d12bfd8c24a4ea9d84435dabaa1e
+M	rng.links.task.yml	a85f6b4b8634f5c9d48bfd2d0b7339b2
+M	rng.module	0bd607efa295f09f0aff8e68e089598f
+M	rng.permissions.yml	52abcd932323456e7ea803c2d921084f
+M	rng.routing.yml	b6f963074447b9a694876da48b02eed8
+M	rng.services.yml	e8be80ccdd63010e2f14d1ec5e7ddb55
+M	rng.tokens.inc	6e3e43b32ce4f151edae3208e435b319
+D	rng.views.inc	
+M	rng_debug/rng_debug.info.yml	b6d5bae657a766d62396c4bf577d7d79
+M	rng_debug/rng_debug.links.task.yml	9ab59d0c744a6d2cbc2283c63e86044d
+M	rng_debug/rng_debug.services.yml	d91f53a98789aaf316326efe24863dc5
+M	rng_debug/src/Controller/DebugController.php	66e9340c6b7325896e8d99e983c40fab
+M	rng_debug/src/Plugin/Derivative/LocalTasks.php	2d4b9f6e1b2a7db17b5550fda8323261
+D	rng_views/extra/event.registrations.yml	
+D	rng_views/rng_views.info.yml	
+D	rng_views/rng_views.module	
+D	simplytest.make	
+M	src/Access/EntityIsEventCheck.php	abcb6677ec728cd01f3df9acfccd95fe
+D	src/Access/EventRuleResetCheck.php	
+M	src/Access/RegistrationAddAccessCheck.php	112fa299f0a2611c5ad46e0bb837c24c
+M	src/AccessControl/EventAccessControlHandler.php	b8e08cc310691afe10036abdebc8ccfc
+M	src/AccessControl/GroupAccessControlHandler.php	c51889df57822df1e5ca5c795c3be48b
+M	src/AccessControl/RegistrationAccessControlHandler.php	7a6eb90bc35d35af85a823420d4d8b9a
+D	src/Breadcrumb/GroupBreadcrumbBuilder.php	
+D	src/Breadcrumb/RegistrantBreadcrumbBuilder.php	
+D	src/Breadcrumb/RegistrationBreadcrumbBuilder.php	
+D	src/Breadcrumb/RuleComponentBreadcrumbBuilder.php	
+D	src/Cache/Context/RngEventCacheContext.php	
+D	src/ContextProvider/RngEventRouteContext.php	
+A	src/Controller/EventController.php	51a49786e6174e994d9ecedd200f96c4
+M	src/Controller/GroupController.php	a432fc19d083db3a8fd2a06e0d9e3441
+M	src/Controller/RegistrationController.php	c76280b4e3e6df037a62ff279d7a4e0d
+M	src/Entity/EventType.php	cadc6fbd5181f70f8e9352bec0440d27
+D	src/Entity/EventTypeRule.php	
+M	src/Entity/Group.php	c08a50ee8ae23b817e04359c62099c77
+M	src/Entity/Registrant.php	36796436babdf8f2712a882af2e4fde5
+M	src/Entity/Registration.php	da44214e87da87c981c46e833b361205
+M	src/Entity/RegistrationType.php	9f80f877e30ca6d4e22ac279c3338afc
+M	src/Entity/Rule.php	6c3d9ece54baacf429e59bf3e8e3eac0
+M	src/Entity/RuleComponent.php	9105c35e78407453ae4e6b9c6faccc13
+M	src/Entity/RuleSchedule.php	2ebf5d60bc1d780c406640105c98eeec
+M	src/EventManager.php	0a714eb9fc98924306c23b57e3f8987b
+M	src/EventManagerInterface.php	3269ab050acbab727b1a0759fe19f14c
+M	src/EventMeta.php	6069539724e69df92ad18c5c617dd48f
+M	src/EventMetaInterface.php	f34f96229c6435d610ace94926e6b4f2
+M	src/EventTypeInterface.php	9ed856dec71adaab11bc51bbad2145d1
+D	src/EventTypeRuleInterface.php	
+M	src/Exception/InvalidEventException.php	d32f4206b6f89ce5f5780c4fa76650f6
+D	src/Form/Entity/RegistrantDeleteForm.php	
+D	src/Form/Entity/RegistrantForm.php	
+D	src/Form/EventAccessForm.php	
+M	src/Form/EventAccessResetForm.php	ad61c3f32b2013b9058a1f914024b1bf
+M	src/Form/EventSettingsForm.php	83dfcde654174cb8c68106693d1a09cb
+D	src/Form/EventTypeAccessDefaultsForm.php	
+M	src/Form/EventTypeDeleteForm.php	553c676f924f11ae28dfd914a559a85b
+M	src/Form/EventTypeForm.php	ea406ed602e8e53541d1227fd4df1163
+D	src/Form/EventTypeRuleComponentEdit.php	
+D	src/Form/EventTypeRuleDeleteAll.php	
+M	src/Form/GroupForm.php	d75164653cb792c5beb419b50d1d7581
+M	src/Form/MessageActionForm.php	16f54ba73be87092941f232f1984bcea
+D	src/Form/MessageListForm.php	
+D	src/Form/PluginConditionSettingsForm.php	
+M	src/Form/RegistrantSettingsForm.php	378ba48522559065d5270e42f31f690d
+M	src/Form/RegistrationForm.php	b22deafaf6f13430a4b3e59c78528c65
+M	src/Form/RegistrationTypeDeleteForm.php	2da2adc7e86f3909708ff188ad1c1538
+M	src/Form/RuleComponentForm.php	adb0d7ca8fb5ad65b49a7ee3ab90f9ef
+M	src/GroupInterface.php	6ace48761f219c1c82ea7c1512f342e9
+M	src/Lists/EventTypeListBuilder.php	aeb201ca87288b3bb7338660e85b75ea
+M	src/Lists/GroupListBuilder.php	514d52378942562a0dc31b44a9546944
+M	src/Lists/RegistrationListBuilder.php	38f2bced788b706739f2a6bda6962294
+M	src/Lists/RuleListBuilder.php	8a36ba25a5ac888db260ec44385df007
+D	src/ParamConverter/ComponentTypeConverter.php	
+M	src/Plugin/Action/CourierTemplateCollection.php	25edd52f351da7406298cb9e0cc3786e
+M	src/Plugin/Condition/CurrentTime.php	fd0b788abbfc8c308ae0af064cd27d54
+M	src/Plugin/Condition/EventOperation.php	ca91ce4779ffbb63b6071aba730e6a77
+M	src/Plugin/Condition/RuleScheduler.php	e9be19a93677fca622f9c7bf71d0605d
+M	src/Plugin/Condition/UserRole.php	02f4004ee605b4339f8cb41c8902eb39
+D	src/Plugin/EntityReferenceSelection/GroupSiblings.php	
+M	src/Plugin/EntityReferenceSelection/RNGSelectionBase.php	00780de104e8b6e53b2a168c69fa5d01
+M	src/Plugin/EntityReferenceSelection/RegistrationGroupSelection.php	27800c20f97bf0a00159aa08871353fb
+M	src/Plugin/EntityReferenceSelection/UserRNGSelection.php	67113eec80ed1ad98327a58d59a22ea6
+D	src/Plugin/Field/FieldWidget/RegistrationGroupWidget.php	
+D	src/Plugin/Field/FieldWidget/RegistrationTypeWidget.php	
+M	src/Plugin/Menu/LocalAction/ResetAccessRules.php	ba75ee8d0362456a49c388cc767ff69b
+M	src/Plugin/QueueWorker/ScheduledRuleProcessor.php	87a1646d4e5a3114d6022fc1b04f6ba0
+D	src/Plugin/Validation/Constraint/RegistrationGroupSibling.php	
+D	src/Plugin/Validation/Constraint/RegistrationGroupSiblingValidator.php	
+D	src/Plugin/views/field/LinkRegister.php	
+M	src/RegistrantInterface.php	70f7bb90fdf1a477cfb5de9067eaffdb
+A	src/RegistrationBreadcrumbBuilder.php	2b6b2fa2064c9b94968a37c46d788cd6
+M	src/RegistrationInterface.php	7093657895daf70d2a162ab27254cf82
+D	src/Routing/Enhancer/RngRouteEnhancer.php	
+D	src/Routing/RegistrantRouteProvider.php	
+M	src/RuleComponentInterface.php	4a3a58a04f76dc787593c9b57214f4e2
+M	src/RuleInterface.php	610145fad4c4a8e57036878cc8fe2a82
+M	src/RuleScheduleInterface.php	4d66fb556661ac7ab14b7be035232b3e
+D	src/Tests/EventAccessTest.php	
+M	src/Tests/EventSettingsTest.php	9ea403096a7030fb63e920989992a947
+D	src/Tests/EventTypeAccessDefaultsTest.php	
+M	src/Tests/EventTypeTest.php	bf1c2435745549b62431a827f3d9815c
+M	src/Tests/RNGSiteTestBase.php	89a7e1fdbbc81f72f82f9ad20af38830
+M	src/Tests/RNGTestBase.php	38a4aec401c01079ec8ff4f9a99426ce
+D	src/Tests/RNGTestTrait.php	
+D	src/Tests/RegistrantRouteTest.php	
+M	src/Tests/RegistrantSettingTest.php	4bd0fd60afedcc505896204bf0b3e17d
+M	src/Tests/RegistrationTest.php	1c215c6ed4fe664bcc2c931c63c3a12d
+M	src/Tests/RegistrationTypeTest.php	aafcd719db857ee6ce110e001e27df39
+D	src/Views/RegistrantViewsData.php	
+D	src/Views/RegistrationGroupViewsData.php	
+M	src/Views/RegistrationViewsData.php	7117c4fa12540c945828248d5732383a
+D	templates/registration.html.twig	
+D	tests/bootstrap.php	
+D	tests/modules/rng_test_views/rng_test_views.info.yml	
+D	tests/modules/rng_test_views/test_views/views.view.test_rng.yml	
+D	tests/src/Functional/RngBrowserTestBase.php	
+D	tests/src/Functional/RngEventAccessWebTest.php	
+D	tests/src/Kernel/RNGKernelTestBase.php	
+D	tests/src/Kernel/RegistrationAccessTest.php	
+D	tests/src/Kernel/RngEventAccessTest.php	
+D	tests/src/Kernel/RngScheduledRuleTest.php	
+D	tests/src/Kernel/Views/RngViewsTest.php	

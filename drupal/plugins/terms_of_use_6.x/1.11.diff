@@ -1,0 +1,10 @@
+A	CHANGELOG.txt	2e2691ed1d9c579a8a805cbe08240ca0
+M	README.txt	6c4eb4720785a66b3d91911af4c01cfc
+M	terms_of_use.info	d7c5596825fcc34d96f8bb1fc67808bf
+M	terms_of_use.install	3831634a86d3988cd656ec8522b6c1f5
+M	terms_of_use.module	3e5d5d22d211478f146d930bb7eb69aa
+M	terms_of_use.pages.inc	341eed768e7115355a78db959c214e4c
+A	tests/terms_of_use.test	cb59886336301254b3b62701ae6b9778
+A	translations/es.po	acf3ac9edd8adc08de09cb937295a0f3
+A	translations/fr.po	7ac4aba4b5c702c24c4247cbee5cea97
+A	translations/hu.po	db78da155cd9efdb41dbaae7a8f31e74

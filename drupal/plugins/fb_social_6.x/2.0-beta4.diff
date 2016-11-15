@@ -1,0 +1,10 @@
+A	CHANGELOG.txt	6f35d699e82ce32958b4c94784e98beb
+M	fb_social.admin.inc	8e269fd5447d17b9d589f79c1717a0d4
+M	fb_social.info	90360c855ba71e5f9ab6987a8422d2e2
+M	fb_social.module	155e18ca4b88158536fda902441c982d
+A	fb_social.views.inc	2799662865a43908b3ecd340430d644d
+A	plugins/boxes/fb_social_subscribe.inc	0640cacb0f43b6d5faadcd16f9185297
+M	plugins/fb_plugin/comments.inc	0206cd5dcce0dad48d9d047322cd3f95
+M	plugins/fb_plugin/likebox.inc	7beff035ef7e56562ee2f273a1874668
+A	plugins/fb_plugin/subscribe.inc	f511b52b44e35ad824551cd5e9d70832
+A	plugins/views/fb_social_handler_field.inc	99def433f285a2423a1f0bd8030a4abb

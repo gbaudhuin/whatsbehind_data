@@ -1,0 +1,22 @@
+D	README.txt	
+M	contrib/easy_social_example/easy_social_example.info.yml	e9fd5b11c4bc8294d566603a92b8deac
+M	contrib/easy_social_example/easy_social_example.module	46ca39f2506882603e43053e0c9208e0
+M	contrib/easy_social_example/easy_social_example.routing.yml	e14e0e8b24063a279a29a0beedbfc0bb
+D	contrib/easy_social_example/templates/easy-social-example.html.twig	
+D	css/easy_social.css	
+M	easy_social.info.yml	b40cb1e0adaa10554895ff2622b2e3d4
+D	easy_social.libraries.yml	
+D	easy_social.links.menu.yml	
+D	easy_social.links.task.yml	
+M	easy_social.module	6f4b64d7108b5a39dd690d20880ccb18
+D	easy_social.permissions.yml	
+M	easy_social.routing.yml	7d30450ee16072eb13e1fd17da3edafb
+M	easy_social.theme.inc	1fc74370f7452f077e1742b51541278c
+D	js/facebook.js	
+D	js/twitter.js	
+D	templates/easy-social-facebook.html.twig	
+D	templates/easy-social-googleplus.html.twig	
+D	templates/easy-social-linkedin.html.twig	
+D	templates/easy-social-pinterest.html.twig	
+D	templates/easy-social-twitter.html.twig	
+D	templates/easy-social.html.twig	

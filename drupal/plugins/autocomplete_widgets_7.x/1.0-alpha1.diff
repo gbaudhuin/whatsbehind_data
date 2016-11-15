@@ -1,0 +1,9 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	b4c7cd07d88d2c82bc3ce0a9eac19789
+M	autocomplete_widgets.admin.inc	d31fe6a324d849f1bc3ae9ac924a9f6c
+M	autocomplete_widgets.common.inc	b423d5ec725ef3acc68e460917b059f5
+M	autocomplete_widgets.info	e9426032bc86b2fe53dbe02e1be58127
+M	autocomplete_widgets.module	c52a33ddfe34876fc624e42c42843846
+D	tests/autocomplete_widgets.test	
+A	views/autocomplete_widgets.views.inc	73bc92198562622881780847489a202a
+A	views/autocomplete_widgets_basic_exposed_form_plugin.inc	ff68fdd9f24c8828862c26e6cd3ac33e

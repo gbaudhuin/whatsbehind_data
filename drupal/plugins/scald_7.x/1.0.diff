@@ -1,0 +1,13 @@
+M	modules/fields/atom_reference/atom_reference.info	8b00dc13b07deb2114fdd6a935034384
+M	modules/fields/mee/mee.info	070c9e61bc3259f1afdd0f77ed21e8d3
+M	modules/library/dnd/dnd.info	02a73569a295ec55982cdf741de72ae3
+M	modules/library/scald_dnd_library/scald_dnd_library.info	0b5fb0d1149fba1519f6fc25adfe6437
+M	modules/providers/scald_audio/scald_audio.info	575ac2d4a96a0fe26faeeca88afc2a2b
+M	modules/providers/scald_dailymotion/scald_dailymotion.info	d1577765dc4fdc4a2828d5026444bf3a
+M	modules/providers/scald_flash/scald_flash.info	059c04be887e9efb290044405a8c405f
+M	modules/providers/scald_image/scald_image.info	fd12655e46522367ef7ecb7a0f0586bf
+M	modules/providers/scald_vimeo/scald_vimeo.info	ce37a41c4b289834740defc7359176c8
+M	modules/providers/scald_youtube/scald_youtube.info	02a2ad533b6123be3013dd71f80f719d
+M	modules/scald_quickstart/scald_quickstart.info	9a6a1d9149419d1ac2bb913d3b0334be
+M	scald.info	9e9ce1f9e4bb0b75af7636f6076dc14b
+M	scald.module	4d65e955d5fec94fb114e0e72daa8ba3

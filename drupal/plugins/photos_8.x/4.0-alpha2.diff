@@ -1,0 +1,13 @@
+M	README.txt	d22b2302f79636345db2538958182ca3
+M	photos.info.yml	b8f8bb1e49cc99bb92b43ffef52c39bb
+M	photos.module	8087058573f0c7099279fe684a11acb9
+M	photos_access/photos_access.info.yml	8b4bda728cab75c10d1d889a4a798fdd
+M	photos_access/photos_access.module	59a55f2732a8715a277c274e20cd39f2
+M	src/Controller/PhotosAlbumController.php	81e48a91cc212ad3ece2d0e4e5a79e61
+M	src/Controller/PhotosEditController.php	934ad5cb62d7b92b5d4e0a88ac768cbf
+M	src/Controller/PhotosImageController.php	31e86fcd52ff7752a423fd417475dd3f
+M	src/Controller/PhotosRearrangeController.php	146776e764fc502eebf11b38267230d0
+M	src/Form/PhotosAdminSettingsForm.php	67a9c6f866f81e4e169a3ad2d21a67b4
+M	src/Form/PhotosImageDeleteForm.php	a80a0249d618394fa37f279b9593f5f5
+M	src/Form/PhotosImageEditForm.php	9973af001346f4488d0c1a01219d3ae6
+M	src/Form/PhotosUploadForm.php	ee2b6f72617b11b6a214d3bd2fd2ed6d

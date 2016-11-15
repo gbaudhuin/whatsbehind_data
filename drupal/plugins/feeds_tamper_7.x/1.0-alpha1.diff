@@ -1,0 +1,48 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+D	feeds_tamper.inc	
+M	feeds_tamper.info	193e09d5bb3bfd4309142f85d044f671
+M	feeds_tamper.install	5836b49a3526c048586e758ceaec1898
+M	feeds_tamper.module	303dcdea90b79ec8c80cac95d496110e
+M	feeds_tamper_ui/feeds_tamper_ui.admin.inc	bebc2ac268d82bb31da77a0f5d32d66f
+D	feeds_tamper_ui/feeds_tamper_ui.css	
+M	feeds_tamper_ui/feeds_tamper_ui.info	af061aa0755905388c014dcf8245314a
+M	feeds_tamper_ui/feeds_tamper_ui.module	dd852e3cb86296e9db8bf7f111a57308
+D	feeds_tamper_ui/tests/feeds_tamper_ui.test	
+M	plugins/absolute_url.inc	380f42e39a6603bdabc5864d922bb4e5
+D	plugins/array_filter.inc	
+D	plugins/cast_to_int.inc	
+D	plugins/convert_boolean.inc	
+M	plugins/convert_case.inc	f1f7241638aa256e97640742b85cd3ef
+D	plugins/copy.inc	
+D	plugins/country_to_code.inc	
+D	plugins/default_value.inc	
+D	plugins/efq_finder.inc	
+M	plugins/explode.inc	44bfcfd4183924190c77446c413d9534
+M	plugins/find_replace.inc	610efc464b95170bee21d9179f6d518f
+M	plugins/find_replace_regex.inc	2534ec25c7ec460a4cc2e5724ba24812
+D	plugins/hash.inc	
+M	plugins/html_entity_decode.inc	a677fa120819aed5443fdb2349f2551e
+M	plugins/html_entity_encode.inc	7173d31a9925474707ac73283305d40d
+M	plugins/implode.inc	e598cfc35b09f9aba27d297c49e89391
+M	plugins/keyword_filter.inc	103e29a2e013e7f206b15b4667b98b82
+D	plugins/math.inc	
+D	plugins/number_format.inc	
+M	plugins/required.inc	779da2129e3e0c227e96d657b4f7bc79
+M	plugins/rewrite.inc	fce39877010d706a783f84aca931383c
+D	plugins/sprintf.inc	
+D	plugins/state_to_abbrev.inc	
+D	plugins/str_pad.inc	
+M	plugins/strip_tags.inc	8dc6400eef0f1bae47f45693887d57b0
+D	plugins/strtotime.inc	
+A	plugins/taxonomy_keyword_filter.inc	d5ee18eb4df7256898e7a280bde062c4
+D	plugins/timetodate.inc	
+M	plugins/trim.inc	745f36b0c4523565575860b15bea6164
+M	plugins/truncate_text.inc	61a1b18f30b4dc7eee901e405f72efea
+M	plugins/unique.inc	a57fb9397881308ccb7943add0f6c2db
+D	plugins/urldecode.inc	
+D	plugins/urlencode.inc	
+D	tests/feeds_tamper.test	
+D	tests/feeds_tamper/csv_test.csv	
+D	tests/feeds_tamper/efq_finder_nodes.csv	
+D	tests/feeds_tamper_efq_finder.test	
+D	tests/feeds_tamper_plugins.test	

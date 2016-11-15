@@ -1,0 +1,114 @@
+M	includes/redhen.admin.inc	f9aa22c0c1e95bab4f670bc17c623e9f
+M	includes/redhen.forms.inc	bc7856e54fdc0f8f391d1e57e66e249a
+D	modules/redhen_activity/redhen_activity.info	
+D	modules/redhen_activity/redhen_activity.install	
+D	modules/redhen_activity/redhen_activity.module	
+A	modules/redhen_contact/includes/redhen_contact.entity.inc	1ee6bdc7b3f82836f8ecec6a35dc9c43
+M	modules/redhen_contact/includes/redhen_contact.forms.inc	12eb914579be0a059aa92d91cf7c2f84
+M	modules/redhen_contact/includes/redhen_contact.pages.inc	9fb04cbb9bc7ef31964d3f58ae817ef3
+D	modules/redhen_contact/includes/redhen_contact.rules.inc	
+M	modules/redhen_contact/includes/redhen_contact_type.admin.inc	5788492e056e7cde8c54e25b56e8a76c
+A	modules/redhen_contact/includes/redhen_contact_type.entity.inc	5750f836645dc3a49ac41e379663e60b
+A	modules/redhen_contact/includes/views/default_views/redhen_contacts.view.php	cd4ecc49e01bd6ec277cb3c05d7ecd3e
+A	modules/redhen_contact/includes/views/handlers/redhen_contact_handler_field_contact_link.inc	1a24fd1f0e424d84cffc8aabf0b57cd6
+A	modules/redhen_contact/includes/views/handlers/redhen_contact_handler_field_contact_link_delete.inc	7d02acdc6f294598f784cc6a1e9ab64f
+A	modules/redhen_contact/includes/views/handlers/redhen_contact_handler_field_contact_link_edit.inc	d0040df0097e1958c6ff8d68a9516139
+A	modules/redhen_contact/includes/views/handlers/redhen_contact_handler_field_contact_state.inc	dce96968ab5c200acffabef5dd0da0de
+A	modules/redhen_contact/includes/views/redhen_contact.views.inc	63d25efa6909cd89b8de5f96fa8d1828
+A	modules/redhen_contact/includes/views/redhen_contact.views_default.inc	52db53f76083d945f9fbd1413ceaca9a
+D	modules/redhen_contact/includes/views/redhen_contact_views_handler_field_redhen_contact_link.inc	
+D	modules/redhen_contact/includes/views/redhen_contact_views_handler_field_redhen_contact_link_delete.inc	
+D	modules/redhen_contact/includes/views/redhen_contact_views_handler_field_redhen_contact_link_edit.inc	
+D	modules/redhen_contact/lib/redhen_contact.entity.inc	
+D	modules/redhen_contact/lib/redhen_contact.inline_entity_form.inc	
+D	modules/redhen_contact/lib/redhen_contact.metadata.inc	
+D	modules/redhen_contact/lib/redhen_contact.views.inc	
+D	modules/redhen_contact/lib/redhen_contact_type.controller.inc	
+D	modules/redhen_contact/lib/redhen_contact_type.entity.inc	
+D	modules/redhen_contact/lib/redhen_contact_type.ui_controller.inc	
+D	modules/redhen_contact/plugins/selection/RedhenContactSelectionHandler.class.php	
+M	modules/redhen_contact/redhen_contact.info	ba275a9ac621e8e0dfcf14b2a6d1353c
+M	modules/redhen_contact/redhen_contact.install	8313c4789ac470a919e4cf897c845e47
+M	modules/redhen_contact/redhen_contact.module	bb9ee2c4f66d656390717b12e806224f
+D	modules/redhen_dedupe/includes/redhen_dedupe.form.inc	
+D	modules/redhen_dedupe/redhen_dedupe.info	
+D	modules/redhen_dedupe/redhen_dedupe.module	
+A	modules/redhen_engagement/includes/redhen_engagement.entity.inc	060b9e7c03ad8565334ec55c2b6cd7a5
+D	modules/redhen_engagement/lib/redhen_engagement.entity.inc	
+D	modules/redhen_engagement/lib/redhen_engagement.metadata.inc	
+D	modules/redhen_engagement/lib/redhen_engagement.views.inc	
+D	modules/redhen_engagement/lib/redhen_engagement_score.entity.inc	
+D	modules/redhen_engagement/lib/redhen_engagement_score.ui_controller.inc	
+M	modules/redhen_engagement/redhen_engagement.info	5c06f261c2c0700a1bdced6f98905de4
+M	modules/redhen_engagement/redhen_engagement.install	14c23225365f31291e609aafb525805c
+M	modules/redhen_engagement/redhen_engagement.module	9e9c0684f780eec8a43adc7fd144c949
+M	modules/redhen_engagement/redhen_engagement.rules.inc	364e0f58ee0a61d0d6b537e06096a40e
+M	modules/redhen_fields/redhen-fields-email-formatter-row.tpl.php	2198a8fd82b33b3bebf6f8b25c760a5f
+M	modules/redhen_fields/redhen_fields.css	23b731741d3d78adcf209ab2f91d4f2f
+M	modules/redhen_fields/redhen_fields.info	bd3a530568357b775ac537a1d269584c
+M	modules/redhen_fields/redhen_fields.install	a2c5d76cdcb9270005149831a568a486
+M	modules/redhen_fields/redhen_fields.module	be1421da3a6cc046d3af8e9531e19c24
+A	modules/redhen_membership/README.txt	9c3cab8eb479b7eb46f9adef24ae0e94
+A	modules/redhen_membership/includes/redhen_membership.controller.inc	dd5b20b94b037825c2efefc26b23020b
+A	modules/redhen_membership/includes/redhen_membership.entity.inc	152d4a2cb68bbb90b35ba10f968d6581
+A	modules/redhen_membership/includes/redhen_membership.forms.inc	84cb637435f097b0b89c5ef355206f0b
+A	modules/redhen_membership/includes/redhen_membership.pages.inc	03556f8ade44d650d56d73c6005a75c3
+A	modules/redhen_membership/includes/redhen_membership_type.admin.inc	9d86cbb159e3830c78bee38dbb49de7e
+A	modules/redhen_membership/includes/redhen_membership_type.entity.inc	9f90ea4217f0cbf718f8bf830d9b185d
+A	modules/redhen_membership/includes/views/redhen_membership.views.inc	67e78d2f9dcb3f42ba378d7defe1c6b1
+A	modules/redhen_membership/includes/views/redhen_membership_handler_field_active_member_type.inc	2e717e365fd65c5d8eb2f34fb8722e6d
+A	modules/redhen_membership/includes/views/redhen_membership_handler_relationship.inc	83c1fe23acc0593e24567ec4e315ef27
+A	modules/redhen_membership/redhen_membership.info	2c5177eb51200f95a3bee72054af9a3e
+A	modules/redhen_membership/redhen_membership.install	4e7b96576de93f669699c2068ecaf9b2
+A	modules/redhen_membership/redhen_membership.module	497b4d23a7ad1b877d2b1d8bcf93a18a
+A	modules/redhen_note/includes/redhen_note.entity.inc	3a383198fb61871ce5c6e4ef09f74484
+M	modules/redhen_note/includes/redhen_note.forms.inc	b4e88de7564eaf7da7960764a5d4f23c
+M	modules/redhen_note/includes/redhen_note.pages.inc	efea0f2b8377ca8bfcc166d7f9bf0539
+D	modules/redhen_note/lib/redhen_note.entity.inc	
+D	modules/redhen_note/lib/redhen_note.metadata.inc	
+D	modules/redhen_note/lib/redhen_note.views.inc	
+M	modules/redhen_note/redhen_note.info	b621817c15db9a62bc24b1ed792b9d5e
+M	modules/redhen_note/redhen_note.install	42287947f83b94bb78e18fa1bcef9a18
+M	modules/redhen_note/redhen_note.module	b552fe4d314fe48b90bf8213e5ec1a5b
+A	modules/redhen_org/includes/redhen_org.entity.inc	0055981d1acf008c5558bc59a7ef9e50
+M	modules/redhen_org/includes/redhen_org.forms.inc	d22b8d859474009f1de093bb845758a2
+M	modules/redhen_org/includes/redhen_org.pages.inc	4cb7e668ba0628afc4df7c09b4bf9b0b
+M	modules/redhen_org/includes/redhen_org_type.admin.inc	785516f4547c4a52c5a9c50ec074a1f6
+A	modules/redhen_org/includes/redhen_org_type.entity.inc	45ce017c79204c372e1c07b307ff228c
+D	modules/redhen_org/includes/views/redhen_org_views_handler_field_redhen_org_link.inc	
+D	modules/redhen_org/includes/views/redhen_org_views_handler_field_redhen_org_link_delete.inc	
+D	modules/redhen_org/includes/views/redhen_org_views_handler_field_redhen_org_link_edit.inc	
+D	modules/redhen_org/lib/redhen_org.entity.inc	
+D	modules/redhen_org/lib/redhen_org.inline_entity_form.inc	
+D	modules/redhen_org/lib/redhen_org.metadata.inc	
+D	modules/redhen_org/lib/redhen_org.views.inc	
+D	modules/redhen_org/lib/redhen_org_type.controller.inc	
+D	modules/redhen_org/lib/redhen_org_type.entity.inc	
+D	modules/redhen_org/lib/redhen_org_type.ui_controller.inc	
+M	modules/redhen_org/redhen_org.info	94315b049591497690e8593b2fb66251
+M	modules/redhen_org/redhen_org.install	d84681822d3bb43b108b8692bce77323
+M	modules/redhen_org/redhen_org.module	dc484214691ff951cdaf94d052670a5d
+M	modules/redhen_org_group/plugins/selection/RedhenGroupSelectionHandler.class.php	e4048235161c517286f594c620b77881
+M	modules/redhen_org_group/redhen_org_group.info	9b21e9405cdd76495199a55127f596ee
+M	modules/redhen_org_group/redhen_org_group.install	ddaa61e013451ca0ac395ef60a297647
+M	modules/redhen_org_group/redhen_org_group.module	31d17c5faff722adddcca3bee993dc22
+M	modules/redhen_registration/README.txt	ec75e77b0a08870ac5ca4e664969d8ab
+M	modules/redhen_registration/redhen_registration.info	8499cf3ee4ad9a402b298a2f994aeb13
+M	modules/redhen_registration/redhen_registration.module	a81785095a9649337041c0880deebd48
+M	modules/redhen_relation/README.txt	7359b1995025ade63b4c62ff3a53e218
+M	modules/redhen_relation/includes/redhen_relation.forms.inc	529cf22e7de5db189400a37c1fe3b1fe
+D	modules/redhen_relation/includes/redhen_relation_role.forms.inc	
+M	modules/redhen_relation/includes/views/redhen_relation.views.inc	8afec7c87ed4a2ec51b505cd1027339a
+M	modules/redhen_relation/includes/views/redhen_relation_handler_field_primary_contact.inc	024feecfd0b8d6ec6cdfd5a128f8ae86
+D	modules/redhen_relation/includes/views/redhen_relation_handler_field_redhen_relation_status_edit.inc	
+D	modules/redhen_relation/includes/views/redhen_relation_handler_field_relation_link_combined_edit.inc	
+M	modules/redhen_relation/includes/views/redhen_relation_handler_sort_primary_contact.inc	3c039cd141dc10e377f89b4a013caeed
+D	modules/redhen_relation/lib/redhen_relation_role.controller.inc	
+D	modules/redhen_relation/lib/redhen_relation_role.entity.inc	
+D	modules/redhen_relation/lib/redhen_relation_role.ui_controller.inc	
+M	modules/redhen_relation/redhen_relation.info	98196a8824fe430e75fc297a0889170d
+M	modules/redhen_relation/redhen_relation.install	7803136de7529becd8740c70031163c9
+M	modules/redhen_relation/redhen_relation.module	0065ac87f567ae55d38f7189ad2e644f
+M	redhen.api.php	eea899fbef156b781665ed9c57208286
+M	redhen.info	3c9400ed7755535241c6d187a2240e29
+M	redhen.module	65faea2f7a41e3fcbe13af2116b4b7ff

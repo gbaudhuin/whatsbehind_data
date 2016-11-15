@@ -1,0 +1,11 @@
+M	CHANGELOG.txt	80d23a60e4ea662259c2c041f76dd193
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	6827026050b36af9cd8965477af0b46a
+M	css/yandex_metrics.css	87c3ca3770c5ef340ddbbd2e970da4ab
+A	images/progress-indicator.gif	01329cbc95b66d54f9a0d6581d8df119
+A	js/yandex_metrics.js	49e31df11cdc13aed6687e3dba83a75e
+M	translations/ru.po	3925a3f280e0f7ea101390916e93c0ab
+M	translations/yandex_metrics.pot	e1e5c76a19d3b753f58f84cdd167f2b1
+M	yandex_metrics.info	f96f405fdab1757ab1dbe1239a2e03a2
+M	yandex_metrics.install	3dceffaed91c5ac7632b22bfd8c98215
+M	yandex_metrics.module	6b16ed06fc42605e8520ac1898b49d81

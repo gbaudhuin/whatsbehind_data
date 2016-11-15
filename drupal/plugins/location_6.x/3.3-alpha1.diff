@@ -1,0 +1,14 @@
+A	.gitignore	74d56014dcd07d59f550acd056ba85f9
+M	contrib/location_addanother/location_addanother.info	213f6087122c5b8d0d9695f3c68d6957
+M	contrib/location_cck/location_cck.info	6f29ed522a7d48ebe93084a454b900ab
+M	contrib/location_fax/location_fax.info	40753ebc1f1feb892ff8df770c000cfa
+M	contrib/location_generate/location_generate.info	fa34227a78c5fd1cb9295e52e25f9d49
+M	contrib/location_phone/location_phone.info	0a15c7b6d3c7b9dca0f87cdc063088f3
+M	contrib/location_search/location_search.info	f3ec51910c39f2b4658fa1baf47155e6
+M	contrib/location_taxonomy/location_taxonomy.info	f8477f5d29e669b379466b69748e1544
+M	location.info	11a4b01c0b916ee5afebeb09056d6ce5
+M	location_node.info	97ec9f2c82e2c331902bf7ddd4a39bef
+M	location_user.info	3162d9ff81160b55a09d3d09a0ccbfd9
+M	supported/location.cn.inc	7032825c6bbc886eee885829609b1c83
+M	tests/google_geocoder.test	0534406f26c7dd3c0f9682cb5944efa8
+M	tests/location_testcase.php	4ce0cae3f7cb7e7df07812ba3edee790

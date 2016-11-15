@@ -1,0 +1,15 @@
+M	includes/contentanalysis.inc	c533fe71f47324e1558a2ac82f424323
+M	includes/page_report.inc	4ed69484088de48784c46ed03589e512
+M	includes/site_report.inc	afa8080a950c6c56c0b1b35d06b30cb9
+M	includes/stats.inc	5e316ba3a3157b4a3caf1eb3d5d15acf
+M	includes/stats_report.inc	c3f9071a64d3ad5c77ccabee10af057b
+M	includes/tax_report.inc	561ffe9d9c6aa0468f7f0d5ac3c42856
+M	kwresearch.admin.inc	15d9a3bdb1375b2012bbe34d20409c21
+M	kwresearch.css	a3fff0a2cc5dd43fb8b1130d3b5f72a1
+M	kwresearch.info	6df5c90d9059b3dca9dce508cc0fcac6
+M	kwresearch.install	2bd4fd7d3339458a5be190a1f524e09f
+M	kwresearch.js	32992535994cb860eecb50eba77511bc
+M	kwresearch.module	69aec6c8a9526b008de7733a5e1e67ab
+M	modules/kwresearch_google/kwresearch_google.info	122979ec051529b7ba7aa7dc346cf4ec
+M	modules/kwresearch_google/kwresearch_google.install	2c9c4b786a2152c4647954f034a6974a
+M	modules/kwresearch_google/kwresearch_google.module	89464c60b90867a602e0dce6a00f3234

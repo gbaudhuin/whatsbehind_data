@@ -1,0 +1,7 @@
+A	js/workbench_scheduler.js	eb64a6a0fe0f4990da19207e7456b89f
+M	tests/workbench_scheduler.test	85011dae9a0557583065a46b33c6fb0d
+M	workbench_scheduler.admin.inc	1c73e55f0f1470eb7f5f68ca799523c2
+M	workbench_scheduler.api.inc	e78567eac758c540a156c051f70c102a
+M	workbench_scheduler.features.inc	8f5717b5f7859c20c9a7468e9e0e6354
+M	workbench_scheduler.info	30e03784256bf921a714facbe0501121
+M	workbench_scheduler.module	7e70c3b67594cccfa0dbd44fa1b27b47

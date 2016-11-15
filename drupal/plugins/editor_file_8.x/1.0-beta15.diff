@@ -1,0 +1,5 @@
+M	editor_file.info.yml	7e593e994ce07fd807f229b977b1db41
+M	editor_file.routing.yml	c432b65b49d1951cd03e97014bdbd513
+M	js/plugins/drupalfile/plugin.js	cbe3fbaa4516f7cd694b66cf02d0edd8
+M	src/Form/EditorFileDialog.php	d4db7e3e62f3e7a0bea67a325977c71f
+M	src/Plugin/CKEditorPlugin/DrupalFile.php	62f9ad5be5312872f4ca4e9b9af349d2

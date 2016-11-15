@@ -1,0 +1,10 @@
+M	CHANGELOG.txt	ea06bf08681da12d2e70a11a3d989e54
+M	README.txt	bf0ac54d44d182e92da85f4a4643dcb4
+A	includes/SearchApiSpellcheckSolr.inc	7c945bcc0c3c9c44e578485ceb021baa
+M	schema.xml	4372a63f51ddb3b20a1a9d37fe25217b
+M	search_api_solr.api.php	4c26ce97326a05273dd77717f733bbea
+M	search_api_solr.info	8d43f2368e17dd3cb63c86a0f262a8ae
+M	service.inc	5fde3ca35c555f90a10f817fd3336711
+M	solr_connection.inc	693f10c8b0c60c8591d52a92432c42bd
+A	solr_field.inc	e619b61b034c3bb745680d456acf3a73
+M	solrconfig.xml	182f8620d816b2a2024361c2e8b90cfd

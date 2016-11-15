@@ -1,0 +1,20 @@
+M	jcalendar-source.js	a63046c4404510ee77d87923a0efac92
+M	makemeeting-calendarselector.tpl.php	e62dc0b3b9802e466c333c64430691c2
+M	makemeeting-logpage.tpl.php	ddd844d9649fd4cf7b25d1de7623f9a1
+M	makemeeting-mypage.tpl.php	d4758dd4c81233eb551df0c6ec19ca2b
+M	makemeeting-poll-admin.tpl.php	74a12d488a6741ea03aa1a6f0419b9ba
+M	makemeeting-pollpanel.tpl.php	19cf1f8fbee8badd92951326ad59cb6e
+M	makemeeting-showpoll.tpl.php	557985e9593c7f77273332ac0891686c
+M	makemeeting-simplepoll-form.tpl.php	f70ed3e94f3ed1231b590563307978b9
+M	makemeeting-simplepoll-pollpanel.tpl.php	965359ab0182e10a3888b554b55d1ca4
+M	makemeeting-simplepoll-showpoll.tpl.php	64f01606a347d7f396649d8141db9b22
+M	makemeeting.admin.inc	63686a09bb6249bff401283982e0c186
+M	makemeeting.info	cdc5b8fc5eba418aad5c4895bd80601d
+M	makemeeting.install	a65c5d1b3be24d7ec53e6133aa2e3813
+M	makemeeting.module	c84acd4e28f84689ffb56c9c69eacdac
+M	makemeeting.pages.inc	9518098fb35cc4acd91f9f30fab18f63
+M	makemeeting_simplepoll.info	f17e9fdfa498ec64ccfd8f07c28ef71f
+M	makemeeting_simplepoll.module	5be9ab26fa139890a7d61f650cbffce3
+M	pollpanel.css	dca7b3af8474eaf1df8db6f70f3d7613
+D	translations/hu.po	
+D	translations/makemeeting.pot	

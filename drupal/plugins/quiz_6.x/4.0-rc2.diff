@@ -1,0 +1,14 @@
+M	includes/ajax_quiz/ajax_quiz.info	6178155d31223ebb0cd978fd96622568
+M	includes/quiz_stats/quiz_stats.info	cf62f815dfaae653d45f681b8946bbcc
+M	question_types/long_answer/long_answer.info	12ed65ab7f066fbcde1e2139bd9b5f78
+M	question_types/long_answer/long_answer.install	9216f229ae997c4367a608ca721c76e2
+M	question_types/matching/matching.info	3a6e1ec3b612f298cd46a2a7b2a0d44d
+M	question_types/multichoice/multichoice.info	ca1cea48958f3ef2240d93b7b1340a3b
+M	question_types/quiz_directions/quiz_directions.info	a57f9986fa959807826da558a5171835
+M	question_types/quiz_question/quiz_question.info	2e18ac29d133d64675e4624e5988b978
+M	question_types/scale/scale.info	bcab6c9be6f68b2c04a09e0fe9bff6dc
+M	question_types/short_answer/short_answer.info	4e7574670ec57f8b2e20f45cd1b0c30a
+M	question_types/truefalse/truefalse.info	ae48fa1c3c7cec62bf1010f1e121ec2c
+M	question_types/truefalse/truefalse.install	dc6b137c798e0d8627fd4164869b6046
+M	quiz.info	800c0833ed43ca8fef14f234d3fd37b3
+M	quiz.install	88211dfa09a119c6b0a5f96cdaadc247

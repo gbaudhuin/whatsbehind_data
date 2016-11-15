@@ -1,0 +1,13 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	6982d9975b10bb0824610a51fd9e82d4
+A	civi_hooks.php	54664d0d64b85638de3910779b54dcd5
+A	civicrm_private_report.info	ee2a3fd0093759c3204e13872f83844f
+A	civicrm_private_report.install	5f7e4f4777f5253335d0c5a7b23fbaa4
+A	civicrm_private_report.module	da61b141db181a7a8b68aaaaadfd5b57
+A	civicrm_private_report.test	f132558cf3441dc16269aad06151b2f5
+A	functions.php	99f015147f542d97e4355407cbeffaf0
+A	resource/js/CRM_Report_Form.js	cc6b6bf184c469a84537bd66535d5e56
+A	resource/js/CRM_Report_Page_InstanceList-private.js	0c3774445b5373a55a44f8c0204c327d
+A	templates/privateCopy.tpl	3537a1824e64e025957e9ce41e96444d
+A	tests/README.txt	84906d2d5640fae3dd1a8dcd4c420d25
+A	tests/civicrm_private_report_web_test_case.php	2f795e4d2000c90882e6b53e0e8f44fb

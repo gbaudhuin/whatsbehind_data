@@ -1,0 +1,17 @@
+M	CHANGELOG.txt	dc5fd469238a4722d9f76c7864078e54
+M	README.txt	84adc24b3b722957d923a5a0e142fcbc
+M	js/admin.drag.js	9570950d0f55afb6076a671033ac9339
+M	js/admin.erd.js	814e9ffc4d0bda81003b6b5fea8ed634
+M	js/admin.view_settings.js	2ba9ecc672b3718203f59a770d8acc24
+M	js/node_form.js	6f7200ab8c1a6bd88b21429aa9538ed9
+M	js/noderef_dialog.js	e5c96aab1644146b595f1ef742f8a70f
+M	noderelationships.admin.inc	652eb2bd0a5b0fe86873ebbd86cb993d
+M	noderelationships.inc	9ef06b150433dcc7bae864ca66e63045
+M	noderelationships.info	2c6f6bcbf7488b95fd05ae7950363d6d
+M	noderelationships.install	64d100aab32406f2f3bc6ceee1f3895f
+M	noderelationships.module	c21dfc66f6a9140d28b189c8e72f944a
+M	noderelationships.pages.inc	d0d28becd5d81353b76be621de0351f2
+A	noderelationships.system.inc	c000cc721f0305e0d9582996106ae9ae
+A	noderelationships.translation.inc	6930b48f6539097f60c8343cf21637f8
+A	translations/es.po	97b3cbf702fb1f8c28ad5cd8c84124d8
+A	translations/noderelationships.pot	5de11b2e4550935fb173695c9449e795

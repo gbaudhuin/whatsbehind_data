@@ -1,0 +1,10 @@
+M	field_file.inc	b57de74d18c7349c8ca303ad5182977a
+M	filefield.info	8c587c63f4b3e4740967015d52278982
+M	filefield.install	6a789130d24daeef13db6bfc4db29140
+M	filefield.module	4e9185ce91400395bad28b4088c7010d
+M	filefield_field.inc	0cb02db96b64969472234def7371b800
+M	filefield_meta/filefield_meta.info	680682a05cd1aff84725d772798c8d2a
+M	filefield_meta/filefield_meta.module	7b7dfa951c8c1106c85aa196f5104fcb
+M	filefield_meta/includes/filefield_meta_handler_field_duration.inc	e7e204f0478d1ece887e268cb69fd1b3
+M	filefield_token/filefield_token.info	fa79d9e1aa1e12e8f99a29f90f504549
+M	filefield_widget.inc	810adea3373acfc2d454772fec88671c

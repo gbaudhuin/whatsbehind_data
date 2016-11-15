@@ -1,0 +1,23 @@
+A	handlers/views_handler_filter_heartbeat_access.inc	c139e5dc1107d967fe770753fa740226
+A	handlers/views_handler_filter_heartbeat_message.inc	e4e01ffdfeac936f82f073c52d91ec5a
+A	handlers/views_handler_filter_heartbeat_user_requested.inc	6993818e0ccd329ed568d66631a77faa
+A	handlers/views_plugin_row_heartbeat_view.inc	54d60bf7e007be3452f4e105b1cb0711
+A	hb_activity/hb_activity.admin.inc	27131167d3cf7207dc160df4e72a7a7b
+A	hb_activity/hb_activity.rules_defaults.inc	43b761f5688afe5c62058dd97eaccf3d
+A	hb_activity/modules/friendlist_activity/friendlist_activity.rules_defaults.inc	0b97d48c077326cb66478cf9f12ef1e2
+M	heartbeat.admin.inc	0756cbe7f6f9d0a98587c5eb63e572bc
+M	heartbeat.info	545ec7409c2abd6e9a7b5786d04b56cd
+M	heartbeat.install	b746ee61242731569b6d7fe06c8755da
+M	heartbeat.module	6c9277b75993b760ae76df85bde1121f
+A	heartbeat.views.inc	c5d04ff3011feee1c657596cd4f28517
+M	includes/heartbeat.inc	403ef5b86decd0324c1dc6e209a54d0d
+A	includes/heartbeatmessagebuilder.inc	9efb2399c59fe72e6edf173a938df8d6
+A	includes/heartbeatparser.inc	b61122f0914eb18f2448dfbe2f7160ff
+A	theme/views-view-row-heartbeat.tpl.php	c13d010c6800bcaaa5321a3b6e3177c3
+M	translations/heartbeat.pot	b6e5cb29714ae0bfd4b1a04c0d1fb76a
+M	translations/nl.po	972bb734c5b347ad9c2050e8b723ef4d
+D	user_activity/modules/friendlist_activity/friendlist_activity.rules_defaults.inc	
+D	user_activity/user_activity.admin.inc	
+D	user_activity/user_activity.rules_defaults.inc	
+A	views/simple.my_activity.view	a0f6c76c4480a5e9610ad2f1c3e29147
+D	views/user_activity.my_activity.view	

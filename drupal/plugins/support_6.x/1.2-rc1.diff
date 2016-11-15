@@ -1,0 +1,11 @@
+M	CHANGELOG.txt	a5bc00f380eec6acf26cf7cc8360c02f
+M	INSTALL.txt	48efbd1a06f84013eee59dbfe4cfa901
+M	MAIL.txt	ddbd91ed411ac0b5780b4bf9dbe403f4
+M	support.admin.inc	a05bcf7fb41abcf3693809f604aafd37
+M	support.info	ac752a64f81a2817a622d4ec191c30a1
+M	support.install	f8892969b733deb73b432ff31af37c99
+M	support.module	5c931989eab97d8c4cef7ed061061113
+M	support.user.inc	ebbc713c658bddcac3b66094931b6a4a
+A	support_charts/support_charts.css	e3475b394c23e30ae11b786cb70d00e3
+A	support_charts/support_charts.info	8f1b16cee1216aa41439a9df092a7923
+A	support_charts/support_charts.module	15955801ee4ab52881a618fbf651fe25

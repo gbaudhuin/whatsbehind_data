@@ -1,0 +1,14 @@
+M	.gitignore	710fd04331c9b7012248509aa14f79b6
+M	basic_seo_rules/basic_seo_rules.info	7cf19a187ba71ae6a8c83a33d3dda9b5
+M	basic_seo_rules/basic_seo_rules.module	c52bff2b1ca7e3439cfafbd19fa75c25
+M	inc/seo_checker.admin.inc	5f6627faa4b94e3a33acf8e398c94345
+M	inc/seo_checker.theme.inc	dc8a8ce74ff2f6b3fa9f0a4d04a9e264
+M	js/slider.js	def36248e3493c82386c34da4839a6be
+M	keyword_rules/keyword_rules.info	c39ba112674e40adffb405db14e56943
+M	keyword_rules/keyword_rules.module	e5f7e0a1a3a138be423359f6bac3f9bc
+M	seo_checker.info	28f1f5fb323348c51cdebf793e3caf61
+M	seo_checker.install	d39b2be6cd5ecfdf23c0400b29c53d1a
+M	seo_checker.module	4a128b309335f3f7f8ca8340593ab33e
+M	theme/slider-atleast.tpl.php	8bf13ba7b237bcb20aa5f0478636cc13
+M	theme/slider-nojquery.tpl.php	ca8253a6cbf9f9c96ed49b17630f5931
+M	theme/slider-range.tpl.php	6a70617cf3d3a6d1631f3a4028807372

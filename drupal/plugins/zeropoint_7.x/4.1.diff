@@ -1,0 +1,62 @@
+M	CHANGELOG.txt	0b50006e0539e4d87ac5b193dc2da6be
+M	README.txt	02dbb119574e4d59e27dbed784c19bbd
+M	_custom/custom-style.css	43e16251a449e6cc1e72df7ba792cbc5
+A	_custom/headerimg-rtl/credits.txt	b89ed5582206402d045d2289604edb9f
+M	_custom/headerimg-rtl/rotate.php	a0629e60102eeeaa31b594f05736904a
+A	_custom/headerimg/credits.txt	b89ed5582206402d045d2289604edb9f
+M	_custom/headerimg/rotate.php	a0629e60102eeeaa31b594f05736904a
+D	_custom/sliderimg/abstract-1.jpg	
+D	_custom/sliderimg/abstract-2.jpg	
+D	_custom/sliderimg/abstract-3.jpg	
+D	_custom/sliderimg/bw-1.jpg	
+D	_custom/sliderimg/bw-2.jpg	
+D	_custom/sliderimg/bw-3.jpg	
+D	_custom/sliderimg/slide-1.jpg	
+D	_custom/sliderimg/slide-2.jpg	
+D	_custom/sliderimg/slide-3.jpg	
+D	css/drupal/drupal-default-min-rtl.css	
+D	css/drupal/drupal-default-min.css	
+D	css/drupal/drupal-default-rtl.css	
+D	css/drupal/drupal-default.css	
+D	css/drupal/drupal-system-min-rtl.css	
+D	css/drupal/drupal-system-min.css	
+D	css/drupal/drupal-system-rtl.css	
+D	css/drupal/drupal-system.css	
+M	css/grey.css	d3d2dde62d6b90bf830a3a6bf53a403f
+M	css/ink.css	8ea0c5f26b1e12a7de8915eb278979cf
+M	css/ivy.css	026c507c1c6233c9d242e6a93aeef6ed
+M	css/lime.css	766bbd73dd8785e2da26207ae4e638c7
+M	css/nature.css	60ca9c653557456dbadbb51845460ab9
+M	css/orange.css	2f222a90ee3630a77eef20fdb2642ee8
+M	css/print.css	592576599f15ef2076696c4f6463d8ab
+M	css/sangue.css	fc78451d4507bb60dc757308203ed35d
+M	css/sky.css	d782d2d2c470628cede0aeb2a6ae4277
+D	css/slider.css	
+M	css/style-zero-rtl.css	99a7fbb1a70ad6d0b06b3e78af72eacb
+M	css/style-zero.css	a13103d43d91dcb2cc966f6c84bd0143
+M	css/themer.css	e68f0cdcd9d85e720d1f6aa796a4c92f
+A	images/all/icons/attach.png	bfb620427e266c262c76ee893d4b249f
+D	images/all/icons/email.png	
+D	images/all/icons/key_add.png	
+D	images/all/icons/key_delete.png	
+A	images/all/icons/mail.png	3af7b5e9e1704feb1eb5080155b6288a
+A	images/all/icons/mail2.png	79d66c1369678b600751a4b131bf26d5
+A	images/all/icons/print.png	ba5cd40e7bd126168c2a63948c0e194a
+M	images/all/icons/printer.png	a9d56c8d733e108a66609ca6d833dcab
+D	images/all/mobi-dot.png	
+D	images/all/mobi-sq.png	
+D	js/jquery.flexslider-min.js	
+D	js/slide.js	
+M	js/toggles.js	7cf5e1d695d1dd5fb3f0b75765ec0e18
+D	js/toggles.min.js	
+M	template.php	8fb1071e583475774c5ca4417333a0f6
+M	templates/block.tpl.php	79301ecc13386e0ad0782d186ba4d14b
+M	templates/comment.tpl.php	b3601d6bf99ac5cfcdd66656c84f5e8d
+M	templates/html.tpl.php	f4d1833318467e7e7acfdc4ad88b4ea0
+M	templates/maintenance-page.tpl.php	fdc32a96ff072fda9f35b5ef26a9e839
+D	templates/node--blog.tpl.php	
+M	templates/node.tpl.php	82563411ba11ac5fc8148e2c575ec33c
+M	templates/page.tpl.php	109fb98a0546917ccc680f8a6297e0b8
+D	templates/slider.php	
+M	theme-settings.php	90904530e7e391fbdac1a9d15ab880e8
+M	zeropoint.info	06c7e8fdd911479937e157f41e4ca392

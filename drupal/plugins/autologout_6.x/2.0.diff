@@ -1,0 +1,12 @@
+A	.cache/.dataModel	1966771e6f8d733fe5db4f96d286fed1
+A	.settings/org.eclipse.php.core.projectOptions.prefs	e33388bec5e4862005ab5ef5767565c8
+M	INSTALL.txt	2b9cb5311409e37c388285f3e44059dd
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	1b8a4d85df2b3dea40753678ad4f235e
+D	autologout.admin.inc	
+M	autologout.info	e703f6a2d0381d81d59793cdd86653c8
+M	autologout.install	ce555842c093bef42820e6feed854697
+M	autologout.module	82122d9dbde59972c1de83a9b5064b86
+A	translations/autologout.pot	40958c4f58b4a07512be29702c90a6d1
+A	translations/pl.po	f2dbb4e4518b801bb1c788fedad58dff
+A	translations/sv.po	c37c43da41646b2fbbf720e6bad2fd67

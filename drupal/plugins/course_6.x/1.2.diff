@@ -1,0 +1,13 @@
+M	course.info	77cccb918bdc17f42d53e7b712b6c134
+M	includes/course.outline.inc	86fce41937f4b62de60cdf84d1d70895
+M	modules/course_book/course_book.info	97f5f77ebc6c4da792ef015f06cd8860
+M	modules/course_certificate/course_certificate.info	418e673855fcb7bbf5cc233db7d3b6a8
+M	modules/course_content/course_content.info	23973e326173e13b32d5504a676a9ebe
+M	modules/course_object_manual/course_object_manual.info	88985e8646598a8ba4d0edb4f10e5581
+M	modules/course_poll/course_poll.info	5d73e9d77dbfe375823a2c857ce5d61b
+M	modules/course_quiz/course_quiz.info	2c324965bd414cd154ebd4680f1a6557
+M	modules/course_scorm/course_scorm.info	1d7fcf91e5d83c839e7de9fa580281a1
+M	modules/course_signup/course_signup.info	9f96362464b0062c70b28c4320e1cf53
+M	modules/course_uc/course_uc.info	67b5a2bfa84af508423533f10dc29dc9
+M	modules/course_webform/course_webform.info	25ddd789e7148ba5fbfc1f77c4a5928d
+M	tests/course_test/course_test.info	6d8094d1b179055d9333311b7006785d

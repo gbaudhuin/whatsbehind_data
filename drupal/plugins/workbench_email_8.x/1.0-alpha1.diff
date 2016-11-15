@@ -1,0 +1,9 @@
+M	src/EventSubscriber/WorkbenchTransitionEventSubscriber.php	df4c9b5405c99b56eadde03cc17afd8c
+D	src/Plugin/Derivative/WorkbenchEmailDeriver.php	
+D	src/Plugin/QueueWorker/WorkbenchEmailProcessor.php	
+D	src/QueuedEmail.php	
+D	src/WorkbenchEmailProcessor.php	
+M	tests/src/Functional/WorkbenchTransitionEmailTest.php	809065b52ca48701267b6b9035faf54e
+M	workbench_email.info.yml	15ac649dc0c6cf46919c23ae40319f4f
+M	workbench_email.module	fe753aab7f5543419bce23e6de54e977
+M	workbench_email.services.yml	df9f30984e11c40b6083ff01306d9353

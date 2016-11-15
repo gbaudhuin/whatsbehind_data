@@ -1,0 +1,18 @@
+D	CHANGELOG.txt	
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	3ff41ed730dfa06f2b1faff58e6adff6
+M	search_api_autocomplete.admin.inc	5c1b5d0c124a692dbfbaa1ce1170ffda
+M	search_api_autocomplete.api.php	7b7c0354d93cc1683b3b5daf67f8a31e
+D	search_api_autocomplete.css	
+M	search_api_autocomplete.entity.php	b58681259cb723f41355ea4bbe85e2f7
+M	search_api_autocomplete.info	c3a17724e861172d33edfe095d604eb3
+M	search_api_autocomplete.install	6a39bb2aa5096fae77920a63f15d9da5
+M	search_api_autocomplete.interface.php	16e207b88bc893b021b5c9167185c084
+D	search_api_autocomplete.js	
+M	search_api_autocomplete.module	91256593c77577119f5d79b4ebf7df79
+M	search_api_autocomplete.pages.inc	bae3a279c21c48ac386c2fa7e7849e63
+M	search_api_autocomplete.search_api_page.inc	e080295b280435cc85abb7a8ceb189c4
+M	search_api_autocomplete.search_api_views.inc	73f022a4349e2cba9ec74bdf69e15c6b
+D	src/SearchApiAutocompleteServerSuggester.php	
+D	src/SearchApiAutocompleteSuggesterInterface.php	
+D	src/SearchApiAutocompleteSuggesterPluginBase.php	

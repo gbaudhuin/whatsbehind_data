@@ -1,0 +1,77 @@
+D	CHANGELOG.txt	
+M	README.md	c090ce11835c80dbcc5c722fb25ef529
+A	css/edit-ui.block.css	d071322ddeadce2a6972a6ff9847e6c0
+A	css/edit-ui.region.css	a6ce9df7f60ebdf9e84e6d4a693f1e2b
+A	css/edit-ui.toolbar.css	5a85dbc3641049d09cf45e4ad753490a
+M	edit_ui.info.yml	8209744d60e40801706841d262d6e49a
+M	edit_ui.libraries.yml	99897dc8a88e6e00d17b204f0b3c6f7b
+A	edit_ui.links.contextual.yml	3a924e111113725d987fec15fd89356b
+M	edit_ui.module	c32bc55bf3be1e74227ab7f1d1ed96c4
+A	edit_ui.permissions.yml	0535f0b2071fe05bdaedab784dbcf136
+M	edit_ui.routing.yml	a347c62fcedf58b0ef7a6796966295c3
+A	edit_ui.services.yml	6890670e0b9e4633a8a7e39aca6f2074
+A	icons/bebebe/push-right.svg	98cf25076fae66910f28f8b9996875a6
+A	icons/ffffff/push-right.svg	dab59cb3a22e12c2ea216b885de1d236
+M	js/block/collections/BlockCollection.js	619466c8793d244f1f0ae6e4d9315204
+M	js/block/models/BlockModel.js	8b7f3556a076721c6e40dc01f49f6339
+D	js/block/views/BlockTooltipVisualView.js	
+M	js/block/views/BlockVisualView.js	4a9f99286397d5ec32c5f1099e01a2e0
+A	js/block/views/BodyVisualView.js	9e29d3d12812baf1bb6a4587d49d8ad6
+A	js/block/views/PageVisualView.js	5c0205a8e92697948385187781de0edb
+D	js/edit-ui.ajax.js	
+M	js/edit-ui.block.js	8d4cddf75dd50e14d9000294c346b72f
+D	js/edit-ui.filter.js	
+M	js/edit-ui.region.js	12f8275255113b7d6bc97568100ee983
+D	js/edit-ui.theme.js	
+A	js/edit-ui.toolbar.js	b8b394f2f3e380086513bab79691666d
+D	js/edit-ui.utils.js	
+M	js/region/collections/RegionCollection.js	0f3c836dda6cbbc6c0d40efc893f6a95
+M	js/region/models/RegionModel.js	f3c114d0f3e783d1db1c5384d64f354b
+M	js/region/views/RegionVisualView.js	fb5108572c7c9c231202fedf77a65f2d
+A	js/toolbar/views/ToolbarVisualView.js	58f274866d7ce45edc43caf735af5326
+D	modules/edit_ui_block/css/edit-ui-block.block.module.css	
+D	modules/edit_ui_block/css/edit-ui-block.icons.theme.css	
+D	modules/edit_ui_block/css/edit-ui-block.region.module.css	
+D	modules/edit_ui_block/css/edit-ui-block.theme.css	
+D	modules/edit_ui_block/css/edit-ui-block.toolbar.module.css	
+D	modules/edit_ui_block/edit_ui_block.info.yml	
+D	modules/edit_ui_block/edit_ui_block.install	
+D	modules/edit_ui_block/edit_ui_block.libraries.yml	
+D	modules/edit_ui_block/edit_ui_block.links.menu.yml	
+D	modules/edit_ui_block/edit_ui_block.module	
+D	modules/edit_ui_block/edit_ui_block.permissions.yml	
+D	modules/edit_ui_block/edit_ui_block.routing.yml	
+D	modules/edit_ui_block/edit_ui_block.services.yml	
+D	modules/edit_ui_block/icons/bebebe/edit_ui.svg	
+D	modules/edit_ui_block/icons/ffffff/edit_ui.svg	
+D	modules/edit_ui_block/icons/ffffff/trash.svg	
+D	modules/edit_ui_block/js/block/models/BlockModel.js	
+D	modules/edit_ui_block/js/block/models/DraggingBlockModel.js	
+D	modules/edit_ui_block/js/block/views/BlockTooltipVisualView.js	
+D	modules/edit_ui_block/js/block/views/BlockVisualView.js	
+D	modules/edit_ui_block/js/block/views/BodyVisualView.js	
+D	modules/edit_ui_block/js/block/views/DraggingBlockVisualView.js	
+D	modules/edit_ui_block/js/block/views/GhostBlockVisualView.js	
+D	modules/edit_ui_block/js/edit-ui-block.block.js	
+D	modules/edit_ui_block/js/edit-ui-block.region.js	
+D	modules/edit_ui_block/js/edit-ui-block.theme.js	
+D	modules/edit_ui_block/js/edit-ui-block.toolbar.js	
+D	modules/edit_ui_block/js/region/views/RegionVisualView.js	
+D	modules/edit_ui_block/js/region/views/TrashVisualView.js	
+D	modules/edit_ui_block/js/toolbar/views/ToolbarVisualView.js	
+D	modules/edit_ui_block/src/Element/EditUiBlockToolbar.php	
+D	modules/edit_ui_block/src/Form/SettingsForm.php	
+D	modules/edit_ui_block/src/Plugin/DisplayVariant/EditUiBlockPageVariant.php	
+D	modules/edit_ui_contextual/css/edit-ui-contextual.module.css	
+D	modules/edit_ui_contextual/edit_ui_contextual.info.yml	
+D	modules/edit_ui_contextual/edit_ui_contextual.libraries.yml	
+D	modules/edit_ui_contextual/edit_ui_contextual.links.contextual.yml	
+D	modules/edit_ui_contextual/edit_ui_contextual.module	
+D	modules/edit_ui_contextual/js/block/views/ContextualVisualView.js	
+D	modules/edit_ui_contextual/js/edit-ui-contextual.block.js	
+D	src/Ajax/AddBlockCommand.php	
+D	src/Ajax/MessageCommand.php	
+M	src/Controller/EditUiBlockController.php	284f0c55e8f3cd7f4d15e6e1d4900693
+A	src/Element/EditUiToolbar.php	a506e872dc9ff167a128e146b54e89a7
+A	src/Plugin/DisplayVariant/EditUiPageVariant.php	61a3fdfbe1d7453a56654fe71935481b
+D	templates/block--system-messages-block--edit-ui.html.twig	
