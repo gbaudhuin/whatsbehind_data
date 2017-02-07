@@ -1,3 +1,4 @@
+M	license.txt	4304ad8674297784b5ef35a965201e33
 M	readme.html	7abbf8d3edc718acefcbe963ecb4eb61
 M	wp-activate.php	568549f557eb9ed866edcadc5c5b1226
 M	wp-admin/about.php	6845074e5d892d41f0c4a417754f01ec
@@ -262,10 +263,12 @@ A	wp-content/themes/twentysixteen/.travis.yml	f23fd358253c263bf8679287e7529810
 A	wp-content/themes/twentysixteen/CONTRIBUTING.md	5f5c958d3dffe61e8ea03bd3da9ed19f
 A	wp-content/themes/twentysixteen/CONTRIBUTORS.md	868d43ff23c2cc96177f65a6f0ef4a48
 A	wp-content/themes/twentysixteen/codesniffer.ruleset.xml	bbeaf8c470904e29803a382b60a6dcd7
+M	wp-content/themes/twentysixteen/css/editor-style.css	fa8d078c71d5110cf46df79d48ba5ec4
 M	wp-content/themes/twentysixteen/functions.php	6637595203df7f39cd7321e56c34486f
 M	wp-content/themes/twentysixteen/header.php	f9f5deae4bfdbaee398897578f44896e
 M	wp-content/themes/twentysixteen/inc/customizer.php	61743192eb637e77ce17ccc42c02d670
 M	wp-content/themes/twentysixteen/inc/template-tags.php	233d517da0799be9deb8efd3406f20e2
+A	wp-content/themes/twentysixteen/languages/twentysixteen.pot	c6867f8fc7db1e47d32cee3f9cf7aed4
 M	wp-content/themes/twentysixteen/readme.txt	02f44e7ccbb4210c0ef748cdffd26d85
 M	wp-content/themes/twentysixteen/style.css	9a1d57b46f55bd6124cdab9235d3d2db
 M	wp-includes/admin-bar.php	fa8801c9fad7dcf4d91aa5814161a89f
@@ -281,6 +284,8 @@ M	wp-includes/class-feed.php	44337c5b59f132a5f372ab500cfeac54
 M	wp-includes/class-http.php	99b92087180ff121a271645a87ef2c51
 M	wp-includes/class-json.php	808a427ba07643d4deaf4dfdcf418e6d
 M	wp-includes/class-oembed.php	5dc5c9f7659882ca112a206e7e7577f6
+M	wp-includes/class-phpmailer.php	c80ce17c237664c8da426847e070a788
+M	wp-includes/class-smtp.php	c92e2bddaa37962f3e225af8df2a90db
 M	wp-includes/class-snoopy.php	aeb6acbb46dd247ab509d52ad95d62bd
 M	wp-includes/class-walker-category-dropdown.php	d14b13c5a93dd0f5dd008d8ea3cdadbd
 M	wp-includes/class-walker-category.php	a540a457ed22e74177c01585e5994f65
@@ -505,5 +510,6 @@ M	wp-includes/widgets/class-wp-widget-tag-cloud.php	9a12f81ee9782d11df5f61b9d829
 M	wp-includes/widgets/class-wp-widget-text.php	b31d899d0c7346a39570decdf76e2411
 M	wp-includes/wp-db.php	e4f8b734ce88d1948aad342ce9c180d3
 M	wp-login.php	4c3c76948ff9b5ffe2ec15c92ca98768
+M	wp-mail.php	193fc44ad49d84c4b3ccbf618ea4dde2
 M	wp-settings.php	cd593d91ac815b4a7f9a1db712f46d52
 M	wp-signup.php	c8f9b4a84cdcd4eb848fd8f4088d4733

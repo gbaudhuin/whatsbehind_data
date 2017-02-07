@@ -1,3 +1,4 @@
+M	license.txt	adf518d684efcaab7f4ea5591819560e
 M	readme.html	0d302db33ba0e49aaac1698423ef4b54
 M	wp-admin/about.php	9ba8f60085bc69327d92a222af1f9905
 M	wp-admin/admin-ajax.php	0871992fe9af0dbf10459c82911ec2d7
@@ -329,7 +330,9 @@ M	wp-includes/class-http.php	cb69dae259f4de4bb9243d00a8df64ba
 M	wp-includes/class-json.php	1efa820611eebaeaf096d9ccfb8f2e43
 M	wp-includes/class-oembed.php	5f44b68b7a2716de5edfb9bd7a0f401d
 M	wp-includes/class-phpass.php	f733676d9ae68943316d4d3921afa8bd
+M	wp-includes/class-phpmailer.php	4271124f375797d87661ee9f98693463
 M	wp-includes/class-pop3.php	0f16fbc95d57b7e73f51f08f399966fe
+M	wp-includes/class-smtp.php	8ed550bdfaadf21e1806b0ca8462bb2e
 M	wp-includes/class-snoopy.php	dccbd26d4d7ae80f4d1472923b769e96
 M	wp-includes/class-wp-admin-bar.php	f4aa0be194f34e6c441db0780ecaa005
 M	wp-includes/class-wp-customize-control.php	3fc148fc1b772fb750d7907cec04c3ee
@@ -525,5 +528,6 @@ M	wp-includes/version.php	0fed255b21e929229baa078694571c60
 M	wp-includes/widgets.php	5188fa68b786a4c56af3bff7f1bd8904
 M	wp-includes/wp-db.php	e70aea1c428863024a1a227b39d0dc70
 M	wp-login.php	18d23432e4beb1258905bd65db7a5fc2
+M	wp-mail.php	7f890eff523aefdfb1350cd22436899c
 M	wp-settings.php	b71937336a917678a25a66f0ff750131
 M	wp-signup.php	b26da1f49704f1ef842d445692cf6496

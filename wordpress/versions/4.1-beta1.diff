@@ -190,6 +190,7 @@ M	wp-admin/user-new.php	5a62cc843eae5a97f73bfdcda21af635
 M	wp-admin/user/index.php	c8fd98f7fdd52d78bdadf74e620789fa
 M	wp-admin/user/profile.php	b9fa17a9811195800079dda4b1262d03
 M	wp-admin/user/user-edit.php	2a7a75a363b0f88f0b6d094a91ef65ea
+M	wp-admin/widgets.php	f79c04d43223d8e6853392298fd43c78
 M	wp-config-sample.php	7000dd6c944cb31c9e3b6172e5236266
 M	wp-content/plugins/akismet/.htaccess	4f916586a55415ff9574f9291e2e302a
 D	wp-content/plugins/akismet/LICENSE.txt	
@@ -300,6 +301,7 @@ M	wp-includes/class-IXR.php	402c572eecf1b6ddbb42dbf0a157dc70
 M	wp-includes/class-http.php	8ce936606b1eeafdbb430e4e4b0214c5
 M	wp-includes/class-oembed.php	603acc1a0cc103723835c35f6b41a1a7
 M	wp-includes/class-phpass.php	5940907fb9dd2f312915c10b76632cdb
+M	wp-includes/class-phpmailer.php	4271124f375797d87661ee9f98693463
 M	wp-includes/class-smtp.php	8ed550bdfaadf21e1806b0ca8462bb2e
 M	wp-includes/class-snoopy.php	dccbd26d4d7ae80f4d1472923b769e96
 M	wp-includes/class-wp-customize-control.php	9555675b79037db09f35dc1bb7bca5e6
@@ -561,4 +563,5 @@ M	wp-includes/widgets.php	338735e5ce812f71d23e1d238f135ee8
 M	wp-includes/wp-db.php	ad9501ea19af9ff79bcddee629772b5a
 M	wp-includes/wp-diff.php	2445c1b85052bf076d6029b29a4911e6
 M	wp-login.php	3ef422c18f19759f718bd9323547e8d5
+M	wp-mail.php	7f890eff523aefdfb1350cd22436899c
 M	wp-signup.php	005211e7c234c33398c671c4e46292f8

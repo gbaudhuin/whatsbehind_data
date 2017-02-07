@@ -1,3 +1,4 @@
+M	license.txt	fb1f053b3b15c9e5d826d58fff5da4ba
 M	readme.html	f1206be94ea833a5ff95860e4b17fae2
 M	wp-activate.php	82d30eedf71a18789fce81176fd3e80a
 M	wp-admin/about.php	85771dea4cddbb529def4a8875ef29ea
@@ -267,7 +268,10 @@ A	wp-content/themes/twentysixteen/.travis.yml	f23fd358253c263bf8679287e7529810
 A	wp-content/themes/twentysixteen/CONTRIBUTING.md	5f5c958d3dffe61e8ea03bd3da9ed19f
 A	wp-content/themes/twentysixteen/CONTRIBUTORS.md	7d8190e3d9339075f68bfd6e9ef3b51d
 A	wp-content/themes/twentysixteen/codesniffer.ruleset.xml	523bdbe5c8c8927270e8d78dcbac99df
-M	wp-content/themes/twentysixteen/inc/template-tags.php	7e6c97ec036c63c633bd5529c5d90b56
+M	wp-content/themes/twentysixteen/css/editor-style.css	fa8d078c71d5110cf46df79d48ba5ec4
+M	wp-content/themes/twentysixteen/functions.php	0d2c52c1f43cee6ec6686bbeb6d9f5ad
+M	wp-content/themes/twentysixteen/inc/customizer.php	1fc29d258f3ab097d1885fc86e5e965c
+A	wp-content/themes/twentysixteen/languages/twentysixteen.pot	c6867f8fc7db1e47d32cee3f9cf7aed4
 M	wp-content/themes/twentysixteen/readme.txt	94c15e0144fbcf7b0d48fb10191238e6
 M	wp-content/themes/twentysixteen/style.css	35479d866f87a58c245af2f7e388607f
 A	wp-includes/Requests/Auth.php	3197d2529dd957b2acc3944f5bfcd64a
@@ -342,8 +346,10 @@ M	wp-includes/class-IXR.php	f6e49b5326b3b44eb7bf181539f11e00
 M	wp-includes/class-feed.php	a590602cfe9c5c9a42c5c15194cd7819
 M	wp-includes/class-http.php	73fc17db07d195f4840aa135080593d3
 M	wp-includes/class-oembed.php	ef2d3911057da44c6a9ead5c11b68959
+M	wp-includes/class-phpmailer.php	c80ce17c237664c8da426847e070a788
 A	wp-includes/class-requests.php	0b394a9cc3583469c70d28b0a8a0f6b6
 M	wp-includes/class-simplepie.php	0dbef394a91127f068ac8fdd587d4895
+M	wp-includes/class-smtp.php	c92e2bddaa37962f3e225af8df2a90db
 M	wp-includes/class-walker-category.php	395c33fe65447b3a1872a087f60e3d4a
 M	wp-includes/class-walker-comment.php	6a658053f04e0a0906c4d77d3a47b73c
 A	wp-includes/class-walker-nav-menu.php	f2a504d86461cbef62ccadc28b24413b

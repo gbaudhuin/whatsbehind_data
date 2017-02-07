@@ -809,5 +809,6 @@ M	wp-includes/version.php	49414d0401cbe56504b5106b09d19917
 M	wp-includes/widgets.php	df4aaa147a6784986c4b0e6dc843adac
 M	wp-includes/wp-db.php	2c3b006309ee4dccd1ec4ff9482ec510
 M	wp-login.php	f51c4644000c4bf1de3ce7c05f76110a
+M	wp-mail.php	f7a72d3f3c1480b09c137791eae3b500
 M	wp-settings.php	10b891d3d2581211f21eb229f05c36f7
 M	xmlrpc.php	9ba4b71a75f877bef76ec6bb31f71df2

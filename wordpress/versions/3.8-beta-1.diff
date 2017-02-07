@@ -84,6 +84,7 @@ M	wp-admin/includes/nav-menu.php	571525fa36e4bc2b2bf7d6ea0d100b0d
 M	wp-admin/includes/plugin.php	effa350b3d35dd3f250d1324f2f576dc
 M	wp-admin/includes/post.php	b25ec30e2527a3030d98e49616eea306
 M	wp-admin/includes/schema.php	eacc925c2202e3d7f52e141ebf8fca61
+M	wp-admin/includes/screen.php	e5263d66f58257df9cc5dffaf3bf071a
 M	wp-admin/includes/template.php	715fb827ea67cd79c5fbe7ecccb44112
 M	wp-admin/includes/theme.php	cab925daecfd4fe3e5c49a0284bef899
 M	wp-admin/includes/update-core.php	5857f3dadf6a30518eabe27ef5472e59
@@ -253,6 +254,8 @@ M	wp-includes/bookmark.php	9c95612202c6e5be86301285074204de
 M	wp-includes/capabilities.php	99605ed4ce8baf601b1a1c7ff8d77186
 M	wp-includes/class-IXR.php	995e6554bf0e0c16b516bae9fe452e86
 M	wp-includes/class-phpass.php	051d7e57352967394ceb248ca13ef9a2
+M	wp-includes/class-phpmailer.php	ac33f373ea3e55d5f4a6bbc43cf4bb52
+M	wp-includes/class-smtp.php	817712d3132067a4105222e1938e4534
 M	wp-includes/class-snoopy.php	dccbd26d4d7ae80f4d1472923b769e96
 M	wp-includes/class-wp-admin-bar.php	49446a9cba416ee3f6d6f2a4f0d32062
 M	wp-includes/class-wp-editor.php	a57e0f64fa7b73adabd22481bffc254f

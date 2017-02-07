@@ -1,3 +1,4 @@
+M	license.txt	adf518d684efcaab7f4ea5591819560e
 M	readme.html	c1d47fbe5b84a07cb758618910435349
 M	wp-activate.php	51d814be9b7b91b7e32c9bdbc710775c
 M	wp-admin/about.php	835a27d16c3d7dad672d15e5b50cd2bf
@@ -403,8 +404,10 @@ M	wp-includes/class-http.php	6931c1bb6abe561bcac38a0596524be8
 M	wp-includes/class-json.php	16312a9542e3f4fc39dcbde1ac5dcb33
 M	wp-includes/class-oembed.php	7010143edb92a981654b0e52eea6476e
 M	wp-includes/class-phpass.php	03191a210ccbea54cb07dedfedb7cc42
+M	wp-includes/class-phpmailer.php	27c283e9738829458b381f0c631f1f24
 M	wp-includes/class-pop3.php	a5b5fe1a539c1439bf61d461a9878da8
 M	wp-includes/class-simplepie.php	f93557d5dc2c6c07ab8d7efdc13407e8
+M	wp-includes/class-smtp.php	f0ab44d18d1be855d4e593fa5e2f089b
 M	wp-includes/class-snoopy.php	aeb6acbb46dd247ab509d52ad95d62bd
 A	wp-includes/class-walker-category-dropdown.php	bb7cbb63cdbd73fa50e8ec58383a0e7e
 A	wp-includes/class-walker-category.php	356661899d99dd16a7989545a12e5f22
