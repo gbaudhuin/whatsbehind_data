@@ -46,5 +46,7 @@ M	tests/search_api_test_hooks/search_api_test_hooks.info.yml	3356fd2a205074c9f82
 M	tests/search_api_test_tasks/search_api_test_tasks.info.yml	16a17bdb6ebf7e4edf43abefebab70dd
 M	tests/search_api_test_views/config/install/views.view.search_api_test_view.yml	ebd5b4145f2f31a78f88557194beebba
 M	tests/search_api_test_views/search_api_test_views.info.yml	1d17017543e5c04f1387d1465905ae0d
+A	tests/src/Kernel/EntitySerializationTest.php	58ad47e63d539d99627b9a70c3250d99
 M	tests/src/Kernel/LanguageKernelTest.php	027cfcb04ca246d4854128bc4f9305da
 A	tests/src/Kernel/ViewsDisplayTest.php	75ec2031d7bd48292ee4b6e62efaac49
+D	tests/src/Unit/EntitySerializationTest.php	

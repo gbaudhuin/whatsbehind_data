@@ -1,20 +1,3 @@
-D	CHANGELOG.txt	
-A	modules/views_rss_core/views_rss_core.field.inc	82c14124a35ff06af28a0b26ee516a77
-A	modules/views_rss_core/views_rss_core.inc	2bb8eaddae37840b0be185158c126248
-A	modules/views_rss_core/views_rss_core.info	91c068a081d8cd17b41209f3ea91d72a
-A	modules/views_rss_core/views_rss_core.install	16be1c7d9bb39226753af7006bb160a4
-A	modules/views_rss_core/views_rss_core.module	65813e9695f2b7fb15cadf95f5c78a9d
-A	modules/views_rss_dc/views_rss_dc.info	5451100a0153e56a8b9c7103dd11cc51
-A	modules/views_rss_dc/views_rss_dc.install	98786da14a0721f002cb846c0722a5fa
-A	modules/views_rss_dc/views_rss_dc.module	f8c43482f14fad4027915d58e22ffe88
-A	theme/theme.inc	b0168a8c29b7bb5203df0b503ded9b4d
-A	theme/views-view-views-rss.tpl.php	07614c7b61759255975f1984e4ef953b
-D	views/views-view-views-rss-fields.tpl.php	
-D	views/views_plugin_style_rss_fields.inc	
-M	views/views_rss.views.inc	212770f9b38cf97c790b6da374e45aa6
-A	views/views_rss_handler_field_term_node_tid.inc	b45fe0e35b68c6d157f9accbc176ff28
-A	views/views_rss_handler_field_user_mail.inc	02678706a37ed3d193a1e7428d520585
-A	views/views_rss_plugin_style_fields.inc	1cd6655e7a71db181b62cb077bf1ccef
-D	views/views_rss_views_fields.theme.inc	
+M	modules/views_rss_core/views_rss_core.info	91c068a081d8cd17b41209f3ea91d72a
+M	modules/views_rss_dc/views_rss_dc.info	5451100a0153e56a8b9c7103dd11cc51
 M	views_rss.info	da1c0a94021aee336909154d37ab06bb
-M	views_rss.module	56acebf92f451f6dde5d4fddd3da2aca

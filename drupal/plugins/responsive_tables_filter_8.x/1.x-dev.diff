@@ -1,9 +1,3 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.md	545e000043ce4e2c6e1eff70af0339ef
-A	css/tablesaw.stackonly.css	9ef6e131156a7aa59c5b2ec3cb9a028e
-A	js/tablesaw-init.js	e33d56db979ecb0264453c30cc3f6ff1
-A	js/tablesaw.stackonly.js	4b2697e9ada1b0f2ff19a11ff23a5e4b
-A	responsive_tables_filter.info.yml	5b809d1ea41680ec7ee2edeba823ec20
-A	responsive_tables_filter.libraries.yml	fb225060f5475d0b181c7eb7f6c70803
-A	responsive_tables_filter.module	0a852f89be2862718412c17e6f1bbdd9
-A	src/Plugin/Filter/FilterResponsiveTablesFilter.php	e9a6352f0614697d86fdb8680f538176
+M	README.md	797fcdea0bcacaee295e1ce30636b905
+M	responsive_tables_filter.info.yml	9e18f5d51066c535902d31d991204569
+M	responsive_tables_filter.module	90141c51749a0caf0492d2bfe075115f

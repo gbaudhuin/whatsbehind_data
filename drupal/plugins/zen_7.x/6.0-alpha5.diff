@@ -17,16 +17,30 @@ M	STARTERKIT/sass/components/hidden/_hidden.scss	f91c87de5e5ee4f54420ac5571a0a85
 A	STARTERKIT/sass/components/hidden/hidden.hbs	efd0c135a54d42c5570e5f69ac73bcf2
 M	STARTERKIT/sass/components/messages/_messages.scss	a99cc77cc8809ebcdb6c6ab848571de8
 M	STARTERKIT/sass/components/more-link/_more-link.scss	c128840e62c874c28f9604bf07919110
+D	STARTERKIT/sass/components/more-link/help.png	
 A	STARTERKIT/sass/components/more-link/more-link.hbs	e4d6e97257d2ffd25b84ecf70dce1f5e
+A	STARTERKIT/sass/components/more-link/more-link__help-icon.png	a5d06ce48f2f644a4d1088e7c4d3df54
 M	STARTERKIT/sass/components/navbar/_navbar.scss	0e2ac23e6c1fe27ce308fa5d036d14a7
 A	STARTERKIT/sass/components/navbar/navbar.hbs	fdc9c407a45d57a5045a810c9b157806
 M	STARTERKIT/sass/components/progress-bar/_progress-bar.scss	0a24b7d55a84bd36a03202d798b66130
+A	STARTERKIT/sass/components/progress-bar/progress-bar.gif	7efad79b2465b7f11b1934e1607b1fed
 A	STARTERKIT/sass/components/progress-bar/progress-bar.hbs	f2d9fa975439fb3ee49df29390bf7a72
+D	STARTERKIT/sass/components/progress-bar/progress.gif	
 A	STARTERKIT/sass/components/progress-throbber/_progress-throbber.scss	32bddfe1917223625a02059d62e5ce1e
 A	STARTERKIT/sass/components/progress-throbber/progress-throbber.gif	ae6ffc909fc0deb781b3775e4cf517e7
 A	STARTERKIT/sass/components/progress-throbber/progress-throbber.hbs	1987c7ce257be8812d94d044e0f60718
 M	STARTERKIT/sass/components/responsive-video/_responsive-video.scss	cc8121de2f1d50bd713b6e1cd896734b
 M	STARTERKIT/sass/components/skip-link/_skip-link.scss	377de7ae0c4629f22281ef635872ae42
+A	STARTERKIT/sass/components/table-drag/_table-drag.scss	a99508c1458475feb3d87c8f848eefdc
+A	STARTERKIT/sass/components/table-drag/table-drag.hbs	abe5456d73895ed8c263d13dd97c39d8
+A	STARTERKIT/sass/components/table-drag/table-drag__handle-icon.png	36d7db7d0339f620d27a1ba7a0534587
+A	STARTERKIT/sass/components/table-drag/table-drag__tree-child-last.png	ff98382c5d0f382582d8fcab15edf3b2
+A	STARTERKIT/sass/components/table-drag/table-drag__tree-child.png	af5b480929f58b586b759a2e0b7f822a
+D	STARTERKIT/sass/components/tabledrag/_tabledrag.scss	
+D	STARTERKIT/sass/components/tabledrag/draggable.png	
+D	STARTERKIT/sass/components/tabledrag/tabledrag.hbs	
+D	STARTERKIT/sass/components/tabledrag/tree-bottom.png	
+D	STARTERKIT/sass/components/tabledrag/tree.png	
 M	STARTERKIT/sass/components/visually-hidden/_visually-hidden.scss	0acddf8b10ed708241b2f9df92182a18
 M	STARTERKIT/styleguide/index.html	96a98a4044ee76eeab11e4751624268e
 M	STARTERKIT/styleguide/public/kss.css	9704875ff0eec2de5b66e70f02198ceb

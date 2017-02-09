@@ -1,5 +1,7 @@
 A	README.txt	7b80708ac2c8801f314581cd771ddd6c
+A	translations/sv.po	633e7ad8abda4532462c32fa7c98bb47
 M	translations/user_stats.pot	790c4a2d1933dee69440451b69298657
+D	translations/user_stats.sv.po	
 A	user_stats.admin.inc	a426d3480666582e8ac0ce71378b00f9
 A	user_stats.author-pane.inc	50d9d3dbd100ecd4a226bd5c0f013c6b
 M	user_stats.info	9728436df4eba29fbced3df3714877ca

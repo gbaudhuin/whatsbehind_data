@@ -32,6 +32,7 @@ A	contrib/image_import/translations/image_import.pot	80aa6dd120aa25fdf48a022e9cc
 M	image.imagemagick.inc	c40ab6e3686101adfb0265b51db7dfe8
 M	image.info	2937eb662618483e46f496f5bcf6a9a6
 M	image.module	4954c493107436db69f625eafcc75691
+A	image.views.inc	1db8fff6f48b9a758ad0628b3ae62acc
 A	tests/image.test	e62eeb624880d922ad0d46ca37e71a8b
 A	translations/ar.po	76c025bf85252c75362ee86aa96d505c
 A	translations/ca.po	9f08444e884bb325363a228872496015
@@ -51,3 +52,4 @@ A	translations/pl.po	0b7d73bcdfd466448a2dbf19830caebc
 A	translations/pt-br.po	c9374ba18861e5ed1ce85a00aba13e97
 A	translations/sl.po	c103071d06097a58a8d9f4ac10afae37
 A	translations/sv.po	d162683a37dc2920c1b6667d0412a779
+D	views.inc	

@@ -1,4 +1,3 @@
-M	README.md	1f94b2a7a1354566c10c12ef435f7c82
 M	composer.json	9f80ea2e0240c8e928236f83701a3418
 A	drush/key.drush.inc	18050e077ed9f1c500add81d377bf8ee
 A	drush/key_delete.inc	484c503edbd53b6f55e665308f3fd5fe
@@ -8,6 +7,7 @@ A	drush/key_save.inc	aa42ff8a0cf24cce3d94aa5ca2cb683c
 A	drush/key_type_list.inc	df01367985cd8491360ab0ac532b4154
 A	drush/key_value_get.inc	b14888318fe26733219b9e1be955c6fb
 M	key.info.yml	507df24002a570fdc491703ff7fc62f8
+M	readme.md	1f94b2a7a1354566c10c12ef435f7c82
 M	src/Annotation/KeyInput.php	07a1ff0cce5277ef514797bfb9dd0cac
 M	src/Annotation/KeyProvider.php	2a1fff1041fe3f1104c12d2feef28618
 M	src/Annotation/KeyType.php	118a4a9e7e44adfac03113fb78b76a96
@@ -27,7 +27,6 @@ M	src/KeyRepository.php	8ed06a65144d584f8eea39979f873a2a
 M	src/KeyRepositoryInterface.php	20d59fcff635bed8d42684bbc038471f
 M	src/Plugin/KeyInput/NoneKeyInput.php	2d8d3f920b4a6b2cf10b12c307ab8199
 M	src/Plugin/KeyInput/TextFieldKeyInput.php	5626f1908f44bd9a2eb60366a43ec4a7
-M	src/Plugin/KeyInput/TextareaFieldKeyInput.php	cb54ac69d9fdc8799b065086bf03ec23
 M	src/Plugin/KeyInputBase.php	f444188ecd539f7b34c0312e82204eb2
 M	src/Plugin/KeyInputInterface.php	dae18cabc47839feefbf6db5b667aa42
 M	src/Plugin/KeyPluginBase.php	eeee3563052726d300e5b2e3b6ed2a9d

@@ -14,10 +14,12 @@ M	src/JuiceboxGallery.php	7327e76c500ad87bb7e317344863f91a
 M	src/JuiceboxGalleryInterface.php	1789e3c2d9630261cd26ba6c95a73243
 M	src/Plugin/Derivative/JuiceboxConfFieldContextualLinks.php	65aa9906330b13f47908b6c8dd48c499
 M	src/Plugin/Field/FieldFormatter/JuiceboxFieldFormatter.php	3513c64f1a164a478ae2474bc2d8c33e
+D	src/Tests/JuiceboxCacheCase.php	
 M	src/Tests/JuiceboxConfCase.php	a69d0f3ae23ffad5e03d7fb7316eb6d5
 M	src/Tests/JuiceboxConfGlobalCase.php	02ea9527df81a067eb9f61a064bf06f2
 M	src/Tests/JuiceboxFieldFormatterCase.php	560f966a3ad7076cc6751cea62bb259f
 M	src/Tests/JuiceboxFileCase.php	e299ee4d781eb18bb38e18328ae5ac3f
+A	src/Tests/JuiceboxSubRequestCase.php	87bb8b6fb0d97aef7e54ab8e9a796276
 M	tests/modules/juicebox_mimic_article/config/install/core.entity_form_display.node.article.default.yml	93d751858c89881407d0bb7bc7a828d3
 M	tests/modules/juicebox_mimic_article/config/install/core.entity_view_display.node.article.default.yml	36cf5c459b735812f6a8b736e3eb6b17
 M	tests/modules/juicebox_mimic_article/config/install/core.entity_view_display.node.article.teaser.yml	da5aa8f995fbc4d57ea9d3453a1bf651

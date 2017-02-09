@@ -1,16 +1,9 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 M	flowplayer.admin.css	f1ebf8fe221b14b38b382dab65578332
 M	flowplayer.admin.inc	5bdcb0c5ed66263d0f13a7932eadf4db
-M	flowplayer.admin.js	782bd8ea6c162ea439122574024da5a9
-M	flowplayer.css	7cb695cebc65ec872ef42e7e74efb980
 M	flowplayer.info	8f06bcc38638cdc6906d3008384e7b9a
-M	flowplayer.install	2694f8ce48355d819c976a3edc1d01a5
-M	flowplayer.jq.inc	f6e56ac26b0e07b3558f52b8ef485a94
-M	flowplayer.js	e1cea52627c54ff596aed37d53fbadff
 M	flowplayer.module	7553d07bfa6ef70c24aa9e8a9b25f1cb
-M	flowplayer/flowplayer.audio.swf	f6b04cf89212027e26d31adf56d0dbdf
-M	flowplayer/flowplayer.captions.swf	8bb2041cb3ca8e72fb14f721fd680c09
-M	flowplayer/flowplayer.controls.swf	f9aacf3d15ac150b70e828f647b844de
-M	flowplayer/flowplayer.min.js	a1b593aba6e189dc4ff6393344d14091
+D	flowplayer/example/flowplayer.min.js	
+D	flowplayer/example/index.html	
+D	flowplayer/example/style.css	
+A	flowplayer/flowplayer.min.js	a1b593aba6e189dc4ff6393344d14091
 M	flowplayer/flowplayer.rtmp.swf	22a109e11bf636a0986e669a8de53509
-M	flowplayer/flowplayer.swf	f09e9408e59396dc3be7619a40b95b45

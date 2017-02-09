@@ -1,11 +1,9 @@
-A	CHANGELOG.txt	90c1c32dacfae3dc577cde92e7a73fe2
+M	CHANGELOG.txt	90c1c32dacfae3dc577cde92e7a73fe2
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 M	README.txt	ce21a0acf8b79ac1e0d95972ce4c96fa
 M	better_exposed_filters.info	2ced4208af0cecb967f961c921920a24
 M	better_exposed_filters.js	1f9041545ce7dddf0926cbd9fc083605
 M	better_exposed_filters.module	90e3fa559b996cbc4a4761521699c2f4
-A	better_exposed_filters.theme	964f495ea39cb5b51248670fd77a8013
+M	better_exposed_filters.theme	964f495ea39cb5b51248670fd77a8013
 D	better_exposed_filters.views.inc	
 D	better_exposed_filters_exposed_form_plugin.inc	
-M	tests/better_exposed_filters.test	a5dacd75510e56dbf8df0513e0307451
-D	translations/better_exposed_filters.sv.po	

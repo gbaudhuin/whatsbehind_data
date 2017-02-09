@@ -1,0 +1,5 @@
+A	path_redirect_import.admin.inc	1a04a2a7e2b58b1b34b2443ab0ba949d
+M	path_redirect_import.info	1fc3d7cd34a4753dab555a0f191a994a
+M	path_redirect_import.module	ae3ab9a1b17efeea7a324750159f2629
+M	tests/path_redirect_import.test	8ba795d251278dbe1992599fb507c666
+M	tests/test.csv	0f79820f05066dcca9235ba20a5f2059

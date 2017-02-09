@@ -1,9 +1,6 @@
-D	profile2_regpath.admin.inc	
-D	profile2_regpath.inc	
+D	Profile2RegpathAccessTest.test	
 M	profile2_regpath.info	b9fb7d4b724c41dee9fc8bfdf10b855d
-M	profile2_regpath.install	d56924f9e4646d12acf8dda26a80bfa0
 M	profile2_regpath.module	8541dfd58c2d9221e41c2bce51b6f7c9
-M	profile2_regpath_blocks/profile2_regpath_blocks.info	800777bcb15899974eb41b5c880466e4
-M	profile2_regpath_blocks/profile2_regpath_blocks.module	81cbc9bf51328c7c32477957818ff13a
-A	registration_form.inc	9825723b2627ebc5e09df4dbca4151ea
-D	tests/Profile2RegpathAccessTest.test	
+A	profile2_regpath_blocks/profile2_regpath_blocks.info	800777bcb15899974eb41b5c880466e4
+A	profile2_regpath_blocks/profile2_regpath_blocks.module	81cbc9bf51328c7c32477957818ff13a
+M	registration_form.inc	9825723b2627ebc5e09df4dbca4151ea

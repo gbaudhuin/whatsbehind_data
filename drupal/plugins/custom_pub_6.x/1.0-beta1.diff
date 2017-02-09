@@ -1,6 +1,5 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	custom_pub.admin.js	6cd7771cd18be412438d1134096b526e
-M	custom_pub.info	51a74d65e70200aa409e8e4d37f53586
-M	custom_pub.install	1017946ab8ee3b875f8fcbb2557bd387
-M	custom_pub.module	b12adfd5e3977722e50329105bb0b357
-D	theme.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	custom_pub.admin.js	6cd7771cd18be412438d1134096b526e
+A	custom_pub.info	51a74d65e70200aa409e8e4d37f53586
+A	custom_pub.install	1017946ab8ee3b875f8fcbb2557bd387
+A	custom_pub.module	b12adfd5e3977722e50329105bb0b357

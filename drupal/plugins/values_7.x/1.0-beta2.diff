@@ -1,6 +1,12 @@
 M	CHANGELOG.txt	8a52a4433e2d3ec6b26a1b0d50106078
+A	css/values.css	879e0fb1cb4f71417d0884fc2001ee75
+A	modules/values_field/values_field.info	7bab0aec0da344954052677f61a30fdc
+A	modules/values_field/values_field.module	4aefcb495c34d8736ef0cd372e6c8687
 A	modules/values_webform/values_webform.info	cc7585e7ddac572ad3ff7cc1e09b2fa9
 A	modules/values_webform/values_webform.module	a6587b43d408de97c5359701049a8d85
+D	values.css	
 M	values.info	fc5ebe78a21b269b5137560920030045
 M	values.install	36aa28d0b51dfa5bfed856c8f89673b8
 M	values.module	2285fdcdd358d44f8083910c99b1a1d8
+D	values_field.info	
+D	values_field.module	

@@ -3,8 +3,8 @@ A	README.txt	4ff5ef57e63839b59b3348d65776fe97
 A	config/install/fontawesome.settings.yml	5c008511d74ae5bac0b452d2fa3f282f
 A	config/schema/fontawesome.schema.yml	815a4d9bfae2fd2d6c84589267a01582
 A	drush/fontawesome.drush.inc	032ad06e00c240cac5b76f6ae795c25d
-A	fontawesome.info	0d086520d0bb0c17f569b63f811d0448
-A	fontawesome.info.yml	f597c78bf0e08f27e3e6659c163f7969
-A	fontawesome.install	9f9d4f00cf5efbdda75f87f00b015667
+A	fontawesome.info	0c908b93b3d7f61255fb279c1b005eb6
+A	fontawesome.info.yml	5325f97aaed9c7b6bf34a173b8c314fc
+A	fontawesome.install	61114efea7c7dacfe74be330d9fa5d62
 A	fontawesome.libraries.yml	0867ce15fb8b1ee65c166b0f959a93b9
-A	fontawesome.module	ef4652f4f63cf1ff648f7987ce1f2c51
+A	fontawesome.module	02bc5e2d05840f42292eaefd24b63066

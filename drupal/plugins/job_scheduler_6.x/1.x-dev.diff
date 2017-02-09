@@ -1,7 +1,7 @@
-A	CHANGELOG.txt	b35286b7f87942ec8e24a9c0d461129a
-A	JobScheduler.inc	c7eaf9b6e998f485b41ff0cb695504a8
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	b8f246c8225a6865afbb33a3d60cf207
-A	job_scheduler.info	107ace326ee5c9eae406823a689b3902
-A	job_scheduler.install	b1defd82ce4ad0bcf7d1fcde10a99209
-A	job_scheduler.module	85c2a4f009e755ccb0119e998b830227
+M	CHANGELOG.txt	b35286b7f87942ec8e24a9c0d461129a
+M	JobScheduler.inc	c7eaf9b6e998f485b41ff0cb695504a8
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	b8f246c8225a6865afbb33a3d60cf207
+M	job_scheduler.info	107ace326ee5c9eae406823a689b3902
+M	job_scheduler.install	b1defd82ce4ad0bcf7d1fcde10a99209
+M	job_scheduler.module	85c2a4f009e755ccb0119e998b830227

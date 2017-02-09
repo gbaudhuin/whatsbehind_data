@@ -1,3 +1,5 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	trick_question.info	89d8edc37d73e8c801a77325048d8a91
-M	trick_question.module	1c8b9eae1346069e5f21a5138ad90f0a
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	454a7fa7caebfcb90e9d072df23b0742
+A	trick_question.info	89d8edc37d73e8c801a77325048d8a91
+A	trick_question.install	b774d99a76bd6a9ab0a53ade8fb9231a
+A	trick_question.module	1c8b9eae1346069e5f21a5138ad90f0a

@@ -3,3 +3,5 @@ M	honeypot.api.php	212add4db7de0275934ca0f7bb1990a0
 M	honeypot.info.yml	daf45bfc46c4894ebba0d09a1d090747
 M	honeypot.module	fe288f0c159c798d2b84c98a368b0085
 M	lib/Drupal/honeypot/HoneypotSettingsController.php	7f7a50202b16328a5fea12ec2297a2f4
+A	lib/Drupal/honeypot/Tests/HoneypotFormTest.php	d0a2c891cc97aece70aa3e0ebef792ba
+D	lib/Drupal/honeypot/Tests/HoneypotFormTestCase.php	

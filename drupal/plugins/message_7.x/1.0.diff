@@ -1,47 +1,12 @@
 A	.cvsignore	4dab15256ffcf23f65897f44cbebb211
-D	.travis.yml	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.md	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 A	README.txt	b0e7245197da3cde643a419b9695d117
-D	ctools/content_types/message_render.inc	
-D	includes/MessageArgumentInterface.php	
-D	includes/MessageArgumentsBase.php	
-D	includes/message.admin.inc	
-D	includes/message.exception.inc	
-D	includes/message.message.inc	
-D	includes/message.message_type.inc	
-D	includes/message.message_type_category.inc	
 A	includes/message.views.inc	0d5a81fb49de7cb16b2060edcb6248b6
-D	includes/views/handlers/message_handler_field_message_render.inc	
-D	includes/views/handlers/message_handler_filter_message_type.inc	
-D	includes/views/handlers/message_handler_filter_message_type_category.inc	
-D	includes/views/message.views.inc	
-D	includes/views/message.views_default.inc	
 A	includes/views/message_handler_field_message_render.inc	f19421438b08bdddcf71461e27022ec7
 A	message.admin.inc	3cd61d65039eac2d20328dfd27679cf2
-M	message.api.php	6c568ced2d122529beb6c25d63630c60
-M	message.info	40738c0c465d996d7076478bc74dab5a
-M	message.info.inc	778da4b974a191d4dc5b032091ec4ed9
-M	message.install	265aaa4903bac74e5472250c832a74ee
-M	message.module	f0133d3cd45c88206c38d14094d27aa6
+A	message.api.php	6c568ced2d122529beb6c25d63630c60
+A	message.info	40738c0c465d996d7076478bc74dab5a
+A	message.info.inc	778da4b974a191d4dc5b032091ec4ed9
+A	message.install	265aaa4903bac74e5472250c832a74ee
+A	message.module	f0133d3cd45c88206c38d14094d27aa6
 A	message.test	e24f29fe0101619ec482d7b574495f56
-D	message.tpl.php	
-D	message_example/README.txt	
-D	message_example/css/message_example.css	
-D	message_example/message_example.features.field_base.inc	
-D	message_example/message_example.features.field_instance.inc	
-D	message_example/message_example.features.inc	
-D	message_example/message_example.info	
-D	message_example/message_example.module	
-D	message_example/message_example.strongarm.inc	
-D	message_example/message_example.tokens.inc	
-D	message_example/message_example.views_default.inc	
-D	message_example/plugins/computed_arguments/example_arguments/MessageExampleArguments.class.php	
-D	message_example/plugins/computed_arguments/example_arguments/example_arguments.inc	
-D	message_og_example/message_og_example.features.field.inc	
-D	message_og_example/message_og_example.features.inc	
-D	message_og_example/message_og_example.info	
-D	message_og_example/message_og_example.module	
-D	message_og_example/message_og_example.views_default.inc	
-D	tests/MessageArgumentsTestCase.test	
-D	tests/message.test	

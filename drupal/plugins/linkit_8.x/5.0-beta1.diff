@@ -21,8 +21,15 @@ M	src/Plugin/Linkit/Matcher/EntityMatcher.php	60c53a8f580d75c96874983b3c072cd7
 M	src/Plugin/Linkit/Matcher/FileMatcher.php	3122f3ef3f68f15447c0a19f915d61eb
 M	src/Plugin/Linkit/Matcher/UserMatcher.php	40bc22c2de0d332ebc8a7de7c4d0714d
 M	src/ResultManager.php	4f9d5150c2e23fb8d107932163c539d7
+D	src/Tests/Controllers/LinkitControllerTest.php	
+D	src/Tests/LinkitAutocompleteTest.php	
+D	src/Tests/LinkitFilterEntityTest.php	
+D	src/Tests/LinkitFilterTestBase.php	
 D	src/Tests/LinkitTestBase.php	
 D	src/Tests/MatcherCrudTest.php	
+D	src/Tests/Matchers/NodeMatcherTest.php	
+D	src/Tests/Matchers/TermMatcherTest.php	
+D	src/Tests/Matchers/UserMatcherTest.php	
 A	src/Tests/ProfileCreationTrait.php	1c95b0ff5c122efa81684ef73ee42c69
 D	src/Tests/ProfileCrudTest.php	
 A	src/Tests/Update/LinkitUpdateTest.php	134e51487282f0ba20c5a44d3711e53c
@@ -36,14 +43,21 @@ A	tests/fixtures/update/linkit-4-to-5/filter.format.format_3.yml	47c36b2130b05d5
 A	tests/fixtures/update/linkit-4-to-5/linkit-4-to-5.php	53510ad0b0873686e8d5cc769bbd1788
 A	tests/fixtures/update/linkit-4-to-5/linkit.linkit_profile.test_profile.yml	489a91ad91a474917f948c1de677698a
 M	tests/linkit_test/linkit_test.info.yml	c8ced0b492344d78dca056167c93e8e7
+A	tests/src/Functional/Controllers/LinkitControllerTest.php	9cb776101f5d9544302af8c7e261ed56
 A	tests/src/Functional/ImceIntegrationTest.php	a2bbd09f80e7ba7c888b8733ccbde13b
 A	tests/src/Functional/LinkitBrowserTestBase.php	e1d51d0c248c8e1936a6a9cc3c120b87
 A	tests/src/Functional/MatcherAdminTest.php	b4b1019d922433325deb1de727b91440
 A	tests/src/Functional/ProfileAdminTest.php	2ed87e2d313d18be589b441109a8e2b6
 A	tests/src/FunctionalJavascript/LinkitDialogTest.php	331f898a4ac7f1e5ea5b2ec9f17ccd80
 A	tests/src/FunctionalJavascript/LinkitFormatAdminTest.php	fd4a0e7547d094b2ad5d6efd954ccb42
+A	tests/src/Kernel/AssertLinkitFilterTrait.php	c1dfb592f1cd82ff0f4c44e0cd01b98e
 A	tests/src/Kernel/Entity/ProfileTest.php	927af2aca6d48994e4fb89e67fc346b7
+A	tests/src/Kernel/LinkitAutocompleteTest.php	ac810efad7a378a1933a8b42adb1926d
 A	tests/src/Kernel/LinkitEditorLinkDialogTest.php	ec403dba20fb84edcdd9b6bd381e590a
+A	tests/src/Kernel/LinkitFilterEntityTest.php	8d77ec7408bd40b87e51f4f6bd24bbb5
 A	tests/src/Kernel/LinkitKernelTestBase.php	09095caf511055afd066310e36ef730d
 A	tests/src/Kernel/Matchers/AssertResultUriTrait.php	e01d778012e59c7274412c8df71721f0
 A	tests/src/Kernel/Matchers/FileMatcherTest.php	19c6b5871b83528476de9e1a983e533b
+A	tests/src/Kernel/Matchers/NodeMatcherTest.php	f7c48cafa324de4265e8c518e05504b1
+A	tests/src/Kernel/Matchers/TermMatcherTest.php	f68451f48a5a8f1b0ecec83585af960b
+A	tests/src/Kernel/Matchers/UserMatcherTest.php	6bfbd5ffe66073d5179e2c9709b43b23

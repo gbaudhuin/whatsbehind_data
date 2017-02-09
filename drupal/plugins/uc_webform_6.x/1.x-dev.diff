@@ -1,9 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	6934c78e236a7590bece0a9fb5888cb1
-A	components/hidden_product.inc	0fb1d2448ec7801b6efe373bc0e0628d
-A	components/product.inc	a767ae4ae4b8d3fdfc7bde52bfb7cced
-A	components/product_grid.inc	4e0028b4c38d6488b7c98bd5f78ffc7e
-A	components/product_list.inc	a6bfb688c445d681d9494560110a7487
-A	js/deselect.js	f7750882b3d363bb0e79ac19f73a811b
-A	uc_webform.info	f9039267365339f45b8491db99a4813d
-A	uc_webform.module	9052664fbeec72f25ee7f5a5bad5284b
+M	uc_webform.info	f9039267365339f45b8491db99a4813d

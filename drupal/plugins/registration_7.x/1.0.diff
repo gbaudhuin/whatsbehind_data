@@ -23,5 +23,7 @@ M	registration.api.php	89e9a1222f80f8b77522a0bd5898c412
 M	registration.info	b1098a649ca3b40e37c4e5e8cc07c3fb
 M	registration.install	9f16305c8e8877aff40f2cc86bb88c9c
 M	registration.module	585901213a7ce5bd3477e5e5278c3a3c
+D	registration.test	
+A	tests/registration.test	fa74c46f75d56a2d5b84d53a9f1d3ab6
 M	tests/registration_test_api/registration_test_api.info	7ed43e192ae6c20290a3c634f598d1c3
 M	tests/registration_test_api/registration_test_api.module	181475caacfb441478e5b886a82cf305

@@ -1,3 +1,5 @@
+A	README.md	0f99f51e12c9e0b2004f4c21635c1093
+D	README.txt	
 A	config/install/simple_sitemap.custom.yml	bff7d95e21fefdfbf8afad6ec240450a
 M	config/install/simple_sitemap.settings.yml	d30388eb75636b16c44d4a53d901fc8d
 M	config/schema/simple_sitemap.schema.yml	40d3e72d95787d494dce0458bc483956
@@ -15,6 +17,8 @@ D	src/Batch.php
 A	src/Batch/Batch.php	78d63b815dfe1b078ae33af0e82337ce
 A	src/Batch/BatchUrlGenerator.php	c7a32f1302c617afa8bff9b92b1aa703
 M	src/Controller/SimplesitemapController.php	1fc0d6a72471809e0dc0d69e07ca742b
+D	src/Form.php	
+A	src/Form/FormHelper.php	ae264d332a1e994b5fbe19eac06d123f
 M	src/Form/SimplesitemapCustomLinksForm.php	dc848b5a93069b685dc9bcf09d4a6d39
 M	src/Form/SimplesitemapEntitiesForm.php	47638f244334cf78bb61c786b2ef3e54
 M	src/Form/SimplesitemapFormBase.php	f9d6af98ba601fee51c9126eb64b542c

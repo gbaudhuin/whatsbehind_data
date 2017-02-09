@@ -1,44 +1,42 @@
-M	README.txt	ae7731564d0fd5af7814edcb08a7c387
-M	color/color.inc	daee53b79d39aed1f5eaed14696bb815
-M	color/preview.js	020a2a103a362602fc57948db59eae95
-M	config.rb	fbdfa491e13ebc65cf4f57a2fe744364
+A	.gitignore	45a82a892f65cd743371e2d3af907eda
+A	config.rb	fbdfa491e13ebc65cf4f57a2fe744364
 M	css/black-menu.css	8db81cb1ac520ca259764293f565bd3a
-M	css/colors.css	1f4970f86b7394c44c85a399dbb9430c
-A	css/layout.css	b9ca7a3d261b8d703787f5c14632f432
-D	css/mayo-superfish.css	
+D	css/dark.css	
+M	css/layout.css	b9ca7a3d261b8d703787f5c14632f432
+D	css/round-node.css	
+D	css/round-sidebar.css	
 M	css/style.css	7754fcc9c1412b60623cb4dc50b2d968
-D	images/add.png	
-D	images/tabs-border.png	
-M	inc/README.txt	0273d3cebe0c0e9c64878e1473900b50
-M	inc/forms/mayo.submit.builders.inc	3ba6f9b2f374a11b83d42fda19e0c19b
-M	inc/forms/mayo.submit.inc	2f4c4fe878138e77ae5da756067220e2
-M	inc/forms/mayo.submit.responsive.inc	173992b6ad07819734385c49aa6c2cfe
-D	inc/forms/mayo.validate.inc	
-M	inc/get.inc	1b8c1e3a6e97775c9e9da2fe1cf3a6c3
-M	inc/load.inc	27a6693402eefd2e410cba4002ffc883
-M	inc/plugins.inc	dda9d42cc966902d28f8cc846ddf02f0
-M	js/mayo-columns.js	bad74fe914ed3826aced66cbf9678816
-M	js/mayo-fontsize.js	058b329b0d99a44b34c3d4fe7c1521d1
-M	js/mayo.js	5ccd791df9530bc0668975ee24020212
-M	layouts/core/one_col_stack/one_col_stack.inc	5ee7d8425aa0b8a76568938f51464e29
-M	layouts/core/one_col_vert/one_col_vert.inc	82ad48dca9c426f20b54abb3a74d69d3
-M	layouts/core/three_col_grail/three_col_grail.inc	454de1b1f0fe5ebf1fbaac5fbf6ee67e
-M	layouts/core/two_sidebars_left/two_sidebars_left.inc	1706e0ca81f955caded59f8ec898c109
-M	layouts/core/two_sidebars_left_stack/two_sidebars_left_stack.inc	5bc9620ddb2459630bd20fa91d29c16a
-M	layouts/core/two_sidebars_right/two_sidebars_right.inc	59ee70bc5d063d41fab56f9d1f845e46
-M	layouts/core/two_sidebars_right_stack/two_sidebars_right_stack.inc	215631d806501e0d98f0f2af9a68affc
+A	images/page-layouts-sprite.png	fcd701adc89b3cc5a5eef9d59e6b69ec
+D	images/sidebar-layout.png	
+A	inc/README.txt	0273d3cebe0c0e9c64878e1473900b50
+A	inc/forms/mayo.submit.builders.inc	3ba6f9b2f374a11b83d42fda19e0c19b
+A	inc/forms/mayo.submit.inc	2f4c4fe878138e77ae5da756067220e2
+A	inc/forms/mayo.submit.responsive.inc	173992b6ad07819734385c49aa6c2cfe
+A	inc/get.inc	1b8c1e3a6e97775c9e9da2fe1cf3a6c3
+A	inc/load.inc	27a6693402eefd2e410cba4002ffc883
+A	inc/plugins.inc	dda9d42cc966902d28f8cc846ddf02f0
+A	layouts/core/_README.txt	117f3004fedce9ad2b7d02cccbd5ebdd
+A	layouts/core/one_col_stack/one_col_stack.inc	5ee7d8425aa0b8a76568938f51464e29
+A	layouts/core/one_col_vert/one_col_vert.inc	82ad48dca9c426f20b54abb3a74d69d3
+A	layouts/core/three_col_grail/three_col_grail.inc	454de1b1f0fe5ebf1fbaac5fbf6ee67e
+A	layouts/core/two_sidebars_left/two_sidebars_left.inc	1706e0ca81f955caded59f8ec898c109
+A	layouts/core/two_sidebars_left_stack/two_sidebars_left_stack.inc	5bc9620ddb2459630bd20fa91d29c16a
+A	layouts/core/two_sidebars_right/two_sidebars_right.inc	59ee70bc5d063d41fab56f9d1f845e46
+A	layouts/core/two_sidebars_right_stack/two_sidebars_right_stack.inc	215631d806501e0d98f0f2af9a68affc
 M	mayo.info	31a2ea2adb68edd838233da4dbb6cc95
-D	sass/colors.scss	
-D	sass/mayo-superfish.scss	
-M	sass/partials/_mobile-first.scss	255189f712c0164d78cae3f663fca05b
-M	sass/partials/_normalize.scss	ebc594679a4e76eaae087aee6cd4f12a
+A	sass/black-menu.scss	40168d8ee3fa611dcfc9ac710dc2ec34
+A	sass/partials/_admin-layout-settings.scss	29c549e4aaceb397af620bf0a0218a85
+A	sass/partials/_base.scss	1c7c1dc1ec5f483f9069c1be7e72849b
+A	sass/partials/_layout.scss	268ad55115c6e5ea901b0fb3d878da52
+A	sass/partials/_mixins.scss	1dfbc6a7cb6518e2bd2248146e7e96dc
+A	sass/partials/_mobile-first.scss	255189f712c0164d78cae3f663fca05b
+A	sass/partials/_normalize.scss	ebc594679a4e76eaae087aee6cd4f12a
 A	sass/partials/_placeholders.scss	5f5116b40d7fa34b25d4cd8d8692a552
-M	sass/partials/_responsive-media.scss	430561d5b7fcb8cc268bfa6ae8fa8311
-M	sass/partials/_style-settings.scss	abe0a1a08319764d1c16a9f9468f756d
-M	sass/style.scss	bb9846ce14c9fdbfad78b778f6f4aa5b
+A	sass/partials/_responsive-media.scss	430561d5b7fcb8cc268bfa6ae8fa8311
+A	sass/partials/_style-settings.scss	abe0a1a08319764d1c16a9f9468f756d
+A	sass/partials/_variables.scss	66c5b7c80c54c458291aa8914bc25c67
+A	sass/style.scss	bb9846ce14c9fdbfad78b778f6f4aa5b
 M	template.php	ef2643e552d8f536de8b5838ab9ccc1f
-M	templates/html.tpl.php	312aba73e7b65132a1dd4449ad7f59e7
-M	templates/maintenance-page.tpl.php	7c229c1c662aa254fe06a5f967d3e7bb
-M	templates/node.tpl.php	c9b7920b8fd0e42f13e6a8efe14bd870
+A	templates/html.tpl.php	312aba73e7b65132a1dd4449ad7f59e7
 M	templates/page.tpl.php	865010ae6b18a12d92c3a1483852e892
 M	theme-settings.php	aa1d4cd06664fa70724001062b6ba4cb

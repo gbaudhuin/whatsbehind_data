@@ -1,42 +1,10 @@
-A	CHANGELOG.TXT	6d1a4db2fd3f1d1e95b7fea88ea9c9f4
+M	CHANGELOG.TXT	6d1a4db2fd3f1d1e95b7fea88ea9c9f4
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	contribs/dblog_ext/dblog_clear/dblog_clear.css	
-D	contribs/dblog_ext/dblog_clear/dblog_clear.info	
-D	contribs/dblog_ext/dblog_clear/dblog_clear.module	
-D	contribs/dblog_ext/dblog_common.info	
-D	contribs/dblog_ext/dblog_common.module	
-D	contribs/dblog_ext/dblog_ext.admin.inc	
-D	contribs/dblog_ext/dblog_ext.css	
-D	contribs/dblog_ext/dblog_ext.info	
-D	contribs/dblog_ext/dblog_ext.module	
-D	contribs/dblog_ext/dblog_filters/dblog_filters.host.admin.inc	
-D	contribs/dblog_ext/dblog_filters/dblog_filters.info	
-D	contribs/dblog_ext/dblog_filters/dblog_filters.module	
-D	contribs/dblog_ext/dblog_filters/dblog_filters.recent_aged.admin.inc	
-D	contribs/dblog_ext/dblog_filters/dblog_host_filter.info	
-D	contribs/dblog_ext/dblog_filters/dblog_host_filter.module	
-D	contribs/dblog_ext/dblog_filters/dblog_time_filters.css	
-D	contribs/dblog_ext/dblog_filters/dblog_time_filters.info	
-D	contribs/dblog_ext/dblog_filters/dblog_time_filters.module	
-D	contribs/dblog_ext/dblog_filters/dblog_user_filter.info	
-D	contribs/dblog_ext/dblog_filters/dblog_user_filter.module	
-D	contribs/log_clear/log_clear.css	
-D	contribs/log_clear/log_clear.info	
-D	contribs/log_clear/log_clear.module	
-D	contribs/logged_in/logged_in.css	
-D	contribs/logged_in/logged_in.info	
-D	contribs/logged_in/logged_in.install	
-D	contribs/logged_in/logged_in.module	
-D	contribs/type_defaults/type_defaults.info	
-D	contribs/type_defaults/type_defaults.module	
-M	module_weights.info	46c0a1365aed3923f6d191b261481a31
-M	module_weights.module	38fd8a90cf5cc9930d2a835d137acf40
-D	perms_fieldsets.css	
+A	module_weights.info	46c0a1365aed3923f6d191b261481a31
+A	module_weights.module	38fd8a90cf5cc9930d2a835d137acf40
 M	perms_fieldsets.info	7522dc3f35a0a74b4741392b8c44b592
 M	perms_fieldsets.module	91b1f9bb5539595bbf1b36adb6306491
-D	system_module.css	
 M	system_module.info	87474116cc04b018d89342f4f13351cb
-M	system_module.install	2efae73478ac950b290d35fdead0fd1e
 M	system_module.module	895b4e2ee5fbb2df2888d0c720901752
 M	util.info	dcef75e8834709b564dd86c8c552f24b
 M	util.install	41f05bea7c2fc991009266967c483b75

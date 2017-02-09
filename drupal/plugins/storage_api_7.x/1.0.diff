@@ -1,41 +1,29 @@
-D	.gitignore	
-D	.travis.yml	
-M	COPYRIGHT.txt	678d4a79506b96fe60719b4a5545f15a
-D	README.md	
-D	UPGRADING.md	
-D	audit/storage_audit.admin.inc	
-D	audit/storage_audit.api.php	
-M	audit/storage_audit.info	9a109751e43643c4fa353a2874ba9eef
-M	audit/storage_audit.install	72bceb54c130a4fad000ae13b6503245
-M	audit/storage_audit.module	fc539fc060dc26ca69d13f3740c3371e
-D	audit/storage_audit.test	
-D	audit/tests/storage_audit_test.info	
-D	audit/tests/storage_audit_test.install	
-D	audit/tests/storage_audit_test.module	
-M	class.admin.inc	8f666964fbe588b859a0cf488c43c1bc
-M	class.inc	dd7ee6009bf7afd8ed55a06a33da27c5
-D	composer.json	
-M	container.admin.inc	25597b2c6a8c7e3c59cae37a6d44a8f5
-M	container.inc	71c088a58650d6f3e23977b72a3dc148
-M	core_bridge/storage_core_bridge.info	c9d27961e5059465ab50951ff8ec4fa5
-M	core_bridge/storage_core_bridge.install	3930d1c1f9fe298ff3edf975590a86ad
-M	core_bridge/storage_core_bridge.module	f5f9461dbbc651d3b84bf3700bbf4c27
-M	cron.inc	f97bc315c2d8daf311c77e363d0435e2
-M	selector.inc	ec114ab68a57081560af319c19ca3415
-M	service.inc	edd825912032bc9c5757badd24e34502
-M	services/db.inc	f38f1993a452b5a95191f23c86ae9a84
-M	services/fs.inc	381acd2a41256f66566ab551f1273129
-M	services/ftp.inc	9b5a180f852a90f4cff5276cdabc4ea6
-D	services/google.inc	
-M	services/rackspace.inc	acab7990c0ce8bba5b7c0317f2dd8a27
-M	services/s3.inc	18606ad06c63ce50fd5dbda4a0da4387
-M	statistic/storage_statistic.info	907185929c763e0b8d2fd1f734779c73
-M	statistic/storage_statistic.install	65b56e829086bc1a359486d040729d3a
-M	statistic/storage_statistic.module	917d74d2c83e4f089a298d32bc616eda
-D	storage.admin.inc	
-M	storage.api.php	2144f9f5e3ff9a98d82c32109f154f54
-D	storage.drush.inc	
-M	storage.inc	dfb99108e43a4df866eb3d73e55ae3d7
-M	storage.info	18b721e95972bee0fb28b1836ae5a544
-M	storage.install	3ef5958811e5dee772a954a56404ddce
-M	storage.module	bfe324a5975519891e34b173a9c86a65
+A	COPYRIGHT.txt	678d4a79506b96fe60719b4a5545f15a
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	audit/storage_audit.info	9a109751e43643c4fa353a2874ba9eef
+A	audit/storage_audit.install	72bceb54c130a4fad000ae13b6503245
+A	audit/storage_audit.module	fc539fc060dc26ca69d13f3740c3371e
+A	class.admin.inc	8f666964fbe588b859a0cf488c43c1bc
+A	class.inc	dd7ee6009bf7afd8ed55a06a33da27c5
+A	container.admin.inc	25597b2c6a8c7e3c59cae37a6d44a8f5
+A	container.inc	71c088a58650d6f3e23977b72a3dc148
+A	core_bridge/storage_core_bridge.info	c9d27961e5059465ab50951ff8ec4fa5
+A	core_bridge/storage_core_bridge.install	3930d1c1f9fe298ff3edf975590a86ad
+A	core_bridge/storage_core_bridge.module	f5f9461dbbc651d3b84bf3700bbf4c27
+A	cron.inc	f97bc315c2d8daf311c77e363d0435e2
+A	selector.inc	ec114ab68a57081560af319c19ca3415
+A	service.inc	edd825912032bc9c5757badd24e34502
+A	services/db.inc	f38f1993a452b5a95191f23c86ae9a84
+A	services/fs.inc	381acd2a41256f66566ab551f1273129
+A	services/ftp.inc	9b5a180f852a90f4cff5276cdabc4ea6
+A	services/rackspace.inc	acab7990c0ce8bba5b7c0317f2dd8a27
+A	services/s3.inc	18606ad06c63ce50fd5dbda4a0da4387
+A	statistic/storage_statistic.info	907185929c763e0b8d2fd1f734779c73
+A	statistic/storage_statistic.install	65b56e829086bc1a359486d040729d3a
+A	statistic/storage_statistic.module	917d74d2c83e4f089a298d32bc616eda
+A	storage.api.php	2144f9f5e3ff9a98d82c32109f154f54
+A	storage.inc	dfb99108e43a4df866eb3d73e55ae3d7
+A	storage.info	18b721e95972bee0fb28b1836ae5a544
+A	storage.install	3ef5958811e5dee772a954a56404ddce
+A	storage.module	bfe324a5975519891e34b173a9c86a65
+A	storage.test	0be8c9840f91fd691c2f33c5ce228ce4

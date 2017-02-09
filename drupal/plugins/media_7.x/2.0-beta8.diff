@@ -1,0 +1,18 @@
+M	media.info	da40edf1863168a0533d4ba6a164a371
+M	modules/media_bulk_upload/media_bulk_upload.info	fbc587d7ffbf78ee84654528c8be7d26
+M	modules/media_internet/media_internet.info	63f00b5fd944c7924a158e3f280c2381
+M	modules/media_internet/tests/media_internet_test.info	c4a2a1180cc272f0e6c99ef0552e8375
+M	modules/media_migrate_file_types/media_migrate_file_types.info	a3fa2bcee8b2c3303dc9c25f2e69dfc0
+A	modules/media_wysiwyg/includes/media_wysiwyg.features.inc	d5170040bf69380449bc749c329e9865
+M	modules/media_wysiwyg/includes/media_wysiwyg.filter.inc	28101bfa6b549430bddce06217617d68
+M	modules/media_wysiwyg/includes/media_wysiwyg.pages.inc	1a4f7fe1f5a2d80bd92ab77d946e569d
+M	modules/media_wysiwyg/media_wysiwyg.info	f5e29c62fc2026e36cf6129ba2735af2
+M	modules/media_wysiwyg/media_wysiwyg.install	b5640cce887e44c622a5f77a5de1f884
+M	modules/media_wysiwyg/media_wysiwyg.module	c32192b9906a354727c51d51f59af2e2
+M	modules/media_wysiwyg/media_wysiwyg.test	cf261336f697ca295d352fa0e3c87bfb
+D	modules/media_wysiwyg_view_mode/media_wysiwyg_view_mode.info	
+D	modules/media_wysiwyg_view_mode/media_wysiwyg_view_mode.install	
+D	modules/media_wysiwyg_view_mode/media_wysiwyg_view_mode.module	
+D	modules/media_wysiwyg_view_mode/media_wysiwyg_view_mode.test	
+M	modules/mediafield/mediafield.info	0a133c08beabb323e0b45fbce7a1606d
+M	tests/media_module_test.info	2939602f42a45b0496bd2c1acc1b0f76

@@ -1,85 +1,100 @@
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 M	README.txt	fa663b4fef13c4688f6a7d076ae6b33d
-M	css/service_links_fisheye.css	2b87c374f502457490aac2b1625ee174
-D	images/_de_xing.png	
-D	images/_fa_balatarin.png	
-D	images/_fa_donbaleh.png	
-D	images/_fa_friendfa.png	
-D	images/_fa_viwio.png	
-D	images/_pl_blip.png	
-D	images/_pl_sledzik.png	
-D	images/_pl_wykop.png	
-A	images/buzz.png	6eb67c550353de1f926d9cc696631763
-D	images/diigo.png	
-M	images/forward.png	9a9530b86ada9b2e324c6c1b3da38c91
-M	images/google.png	a56e879c77f60d96ddab6575ea6af54a
+A	css/service_links_fisheye.css	2b87c374f502457490aac2b1625ee174
+A	images/_de_alltagz.png	2e083790c8fedf4079eb35a5beebd500
+A	images/_de_colivia.png	1e8c61bd47778964c1b8fd405081d4e2
+A	images/_de_icio.png	60bf0ce1975c5dc53a428a45e44f6868
+A	images/_de_infopirat.png	4909594097240843c65a1b5e072009eb
+A	images/_de_linkarena.png	a77627d8491bfddf3e90fb82e87be6d0
+A	images/_de_meinvz.png	0ea4991832d56898dabb5de46224d41e
+A	images/_de_netselektor.png	66a3e7ae63f46994166fdbb7e6f4f85a
+A	images/_de_oneview.png	411123d249eeaee4d66f17e5e2d70fc8
+A	images/_de_readster.png	3ddb31dcdba0f247a107daca647bd96e
+A	images/_de_seekxl.png	e6c4322487a28b8b8ba4b5d0d7dddfe0
+A	images/_de_seoigg.png	613c3856639fba66eb2df783db1a3fe7
+A	images/_de_weblinkr.png	da406b09e349d25930d10c9e9651dff5
+A	images/_de_webnews.png	bae40d24a3d9edcb535ddfd5a5e40fde
+A	images/_de_yigg.png	246a15a7c73b43c5e12d6b1a8390bda9
+A	images/_es_barrapunto.png	0bf027d62e2e7001ebf0d2ee9954cb69
+A	images/_es_fresqui.png	5bdbad1ff737d3b3d6486818c32dea07
+A	images/_es_latafanera.png	aa53addc5457a4059f8c274cf8954367
+A	images/_es_meneame.png	5b16d52b91efcfbbd4b1dc4fe2a3f77c
+A	images/_es_tuenti.png	8b524fe1821141583fa737171b1343ed
+A	images/_eu_aupatu.png	ba8f41fbfc9f98eec44a1165e54f5caf
+A	images/_eu_bildu.png	b66d09642d40ab680194b7fac8fcd975
+A	images/_eu_zabaldu.png	6f6b74c4533fc64165bb8503b148cbe4
+A	images/_hu_iwiw.png	7f2904ed9e33e745ea349880549bbc90
+A	images/_it_diggita.png	bd1f23a5a66bd3c9d4cf6e29a2988fe3
+A	images/_it_meemi.png	9ca83a3a7c258aecb12731e1e266db1e
+A	images/_it_oknotizie.png	8a1f8bf5a22c1c2d0a1bd8c497de9279
+A	images/_it_segnalo.png	9c762ca8d158d40f6ca6fbd7184828a6
+A	images/_it_technotizie.png	d966007c2eb0b13fd05ad944f28573bd
+A	images/_it_wikio.png	92295befdc6972b0e71cfbbbfb313d21
+A	images/_it_ziczac.png	0258cd4bfc779259656ab9a09c27387b
+A	images/_nl_ekudos.png	bf436953f01418d4bb2e7264ea62c473
+A	images/_nl_hyves.png	46ef215ec63eebd1225f43ed16bb95da
+A	images/_nl_nujij.png	391a97ef8ba80631f2dcf77c188da8e5
+A	images/_ru_100zakladok.png	c7d6b1b1cfcc2035edb8309cee615b21
+A	images/_ru_bobrdobr.png	a05cfb60b0ed96d6d823090e7656b134
+A	images/_ru_communizm.png	aa1e0d613de95dd12c24441c03285e28
+A	images/_ru_linksiua.png	5638075da916658c821d814f10412339
+A	images/_ru_linkstore.png	d92fb35bffdaba3fbc21d9acac301c01
+A	images/_ru_lopas.png	50c017b8e6599bfdaab482e39338524b
+A	images/_ru_memori.png	9557e6df38d27962ee2fb298da94ead5
+A	images/_ru_moemesto.png	1339749ffbea9455f89a2735ea1030b8
+A	images/_ru_myscoop.png	0774039c3d4609472b9c21523b5044bc
+A	images/_ru_news2.png	54848c5b07d378d5aec6378cb47080b8
+A	images/_ru_newsland.png	ab2ca1f20f160d98de056f70b68e5cb8
+A	images/_ru_ruspace.png	c6bbcf35d278357a76bc87c62aeaf664
+A	images/_ru_smi2.png	e2fbc9ba7ea0cca88bad9a9aad319754
+A	images/_ru_vaau.png	fd181985389d9b5fbe890782042c1b94
+A	images/_ru_vkontakte.png	21fe6f30c1b66307149a6957bc2eee13
+A	images/_ru_yandex.png	024de1fccc1a814ed4e817af8fcd073b
+A	images/_se_bloggy.png	65ed2c3aa35ff2fbccefdf38e9ede314
+A	images/_se_pusha.png	4fe33d11a408b4eb9f03e0864b6e9e8f
+A	images/blinklist.png	fe5d0fd88c9fc3855f6cc8d7e35193e8
+A	images/box.png	71d2f14b3fdfb36f0d16274ab26f11c5
+A	images/favorite.png	0e5fd22a75927299d13191579767c58a
+A	images/forward.png	9a9530b86ada9b2e324c6c1b3da38c91
 A	images/google_buzz.png	2b930bfb18dc3fd8035c05bb6baa818a
-D	images/google_plus_one.png	
-A	images/magnoliacom.png	9746ea65d96cb7c367b7114a4d96ea86
-D	images/newskicks.png	
-D	images/pinterest.png	
-D	images/print.png	
-D	images/printmail.png	
-D	images/printpdf.png	
-A	images/propeller.png	1f820ea2226eedc21ec465e008062b03
-M	images/stumbleit.png	f49496232a5d6d603856830dbba4719f
-M	images/twitter.png	bf168f980d5bd1bf4a0407c0b535df55
-D	js/facebook_like.js	
-D	js/facebook_share.js	
-M	js/favorite_services.js	7ea444317916ae7fe4fcc58ac73d0cb3
-D	js/google_plus_one.js	
-D	js/linkedin_share_button.js	
-D	js/pinterest_button.js	
-M	js/service_links_fisheye.js	244cbfbc9fbb3fe0d8e2d6852ecdb9c5
-D	js/twitter_button.js	
-D	plugins/service_links_displays.info	
-D	plugins/service_links_displays.module	
-D	plugins/service_links_share.info	
-D	plugins/service_links_share.module	
-D	plugins/service_links_sprites.info	
-D	plugins/service_links_sprites.module	
-M	service_links.admin.inc	e7de679b59a4ae546152674d2eb60d85
-M	service_links.api.php	769fe08bd875772199d9d5934e0fd7b3
+A	images/misterwong.png	5e5e5c0c4fe9cf69794af9ccf09d779d
+A	images/mixx.png	e2625cb40314b91523d501645d5dde83
+A	images/pingthis.png	bd86dec34575e056c041604575826cb5
+A	images/slashdot.png	7788bbb5b576b67dacefa6e859ad2ed0
+A	js/favorite_services.js	7ea444317916ae7fe4fcc58ac73d0cb3
+A	js/interface.js	b2c874f2fbc32f79827c967d0d28f868
+A	js/service_links_fisheye.js	244cbfbc9fbb3fe0d8e2d6852ecdb9c5
+A	service_links.admin.inc	e7de679b59a4ae546152674d2eb60d85
+A	service_links.api.php	769fe08bd875772199d9d5934e0fd7b3
 M	service_links.info	2eec9e3990e70ff44aa01f28b5520e88
 M	service_links.install	734b105993c698c7ceba4cdc3ef5ffb8
 M	service_links.module	d0478b7b37fdf25edb3f8a0a69cbc96f
-D	service_links.theme.inc	
-M	service_links.views.inc	1ac3af3cf72dfeba08f88528cd4f646f
-M	service_links_handler_field_service_links.inc	6f57ab834bc969be05bd028e77aff3d0
-M	services/basque_services.info	64678f2780fdb6fe9fe89782f35fe24b
-M	services/basque_services.module	35f1772bc2778bb502f4f31a5dbf6504
-M	services/dutch_services.info	c7369af98907e4bc8f6e82aba7b8bd91
-M	services/dutch_services.module	38eae6254f9a255750be62a420cef1cb
-D	services/farsi_services.info	
-D	services/farsi_services.module	
-M	services/favorite_services.info	83ad4a4be33c691f5f6e5a0b4d42f89b
-M	services/favorite_services.module	1fb47a5311a2d42215d5825cfe4b38e1
-M	services/forward_services.info	0f2019d860e963d080c304612bef9d80
-M	services/forward_services.module	609c9777703c4c7e9a27bed3b8b2ee42
-M	services/general_services.info	c787463dfc05ba1606cc89b62c367250
-M	services/general_services.module	6093136d2c31999da901b08f55bfb771
-M	services/german_services.info	64bfa20c2c22046e689f7180c378486d
-M	services/german_services.module	0ed59fd4180932bd3368d18c3336f8f6
-M	services/hungarian_services.info	1f2ba317510d85374feafbd6d010c823
-M	services/hungarian_services.module	61d12f9b5eae6d27d2f077fe399f8c1a
-M	services/italian_services.info	67ba74bd5f122e0bb5d62bcfb326374f
-M	services/italian_services.module	ba424e3c43d3a449d0089c14d925b5ba
-D	services/polish_services.info	
-D	services/polish_services.module	
-D	services/print_services.info	
-D	services/print_services.module	
-M	services/russian_services.info	9da901975530a5837fedef37cc996a61
-M	services/russian_services.module	509335b36eb772ac48987b2a5a232aee
+A	service_links.views.inc	1ac3af3cf72dfeba08f88528cd4f646f
+A	service_links_handler_field_service_links.inc	6f57ab834bc969be05bd028e77aff3d0
+A	services/basque_services.info	64678f2780fdb6fe9fe89782f35fe24b
+A	services/basque_services.module	35f1772bc2778bb502f4f31a5dbf6504
+A	services/dutch_services.info	c7369af98907e4bc8f6e82aba7b8bd91
+A	services/dutch_services.module	38eae6254f9a255750be62a420cef1cb
+A	services/favorite_services.info	83ad4a4be33c691f5f6e5a0b4d42f89b
+A	services/favorite_services.module	1fb47a5311a2d42215d5825cfe4b38e1
+A	services/forward_services.info	0f2019d860e963d080c304612bef9d80
+A	services/forward_services.module	609c9777703c4c7e9a27bed3b8b2ee42
+A	services/general_services.info	c787463dfc05ba1606cc89b62c367250
+A	services/general_services.module	6093136d2c31999da901b08f55bfb771
+A	services/german_services.info	64bfa20c2c22046e689f7180c378486d
+A	services/german_services.module	0ed59fd4180932bd3368d18c3336f8f6
+A	services/hungarian_services.info	1f2ba317510d85374feafbd6d010c823
+A	services/hungarian_services.module	61d12f9b5eae6d27d2f077fe399f8c1a
+A	services/italian_services.info	67ba74bd5f122e0bb5d62bcfb326374f
+A	services/italian_services.module	ba424e3c43d3a449d0089c14d925b5ba
+A	services/russian_services.info	9da901975530a5837fedef37cc996a61
+A	services/russian_services.module	509335b36eb772ac48987b2a5a232aee
 A	services/share_services.info	e542e381fa61077d8371da867bcc7888
 A	services/share_services.module	40c8c5c222cf3b4f3a47f48ae6772a66
-M	services/spanish_services.info	b638454a92070b20b74dae14a77c9ab6
-M	services/spanish_services.module	bda5deb585b7911ecc7d0fdc372c00d0
-M	services/swedish_services.info	bc731eb03e7ab06b77d3311780f9942c
-M	services/swedish_services.module	fa187bba1c2a3b2a03b107e856456687
-D	services/widget_services.admin.inc	
-D	services/widget_services.info	
-D	services/widget_services.install	
-D	services/widget_services.module	
+A	services/spanish_services.info	b638454a92070b20b74dae14a77c9ab6
+A	services/spanish_services.module	bda5deb585b7911ecc7d0fdc372c00d0
+A	services/swedish_services.info	bc731eb03e7ab06b77d3311780f9942c
+A	services/swedish_services.module	fa187bba1c2a3b2a03b107e856456687
 M	template.php	32395373aa5b2a959d0d0f0e8788a84e
 A	translations/de.po	85cf621b3d16023b69f03daed0e1d52d
 A	translations/es.po	58dd139f08bc29ae070f2e24e263ca24

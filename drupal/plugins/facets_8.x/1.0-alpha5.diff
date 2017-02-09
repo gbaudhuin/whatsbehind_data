@@ -4,6 +4,8 @@ M	facets.info.yml	c3f3211190e0b6caa72e0957a315bb90
 M	facets.module	d65fae8fe1d7de72f2024900351e3f8c
 M	facets.routing.yml	b69d3da058126a6d3347e51916304764
 A	rest_facets/rest_facets.info.yml	fc0f8be9dc1f8231fcf2a9b2bf65e4ea
+A	rest_facets/src/Plugin/views/style/FacetsSerializer.php	8c020a257ced63a2a3663e83f7938c1e
+A	rest_facets/src/Tests/RestIntegrationTest.php	b2f1a9b13974c4bb99198d38e6688bef
 A	rest_facets/tests/rest_view/config/install/views.view.search_api_test_views_fulltext.yml	772f41841c7e49019fb7ec7924d23aec
 A	rest_facets/tests/rest_view/rest_view.info.yml	cedf9805a3ac81e67443cebae4784574
 M	src/Controller/FacetController.php	2a36c990761fe570cc8a6db950067a00
@@ -22,12 +24,14 @@ D	src/Plugin/facets/processor/TranslateTaxonomyProcessor.php
 M	src/Plugin/facets/query_type/SearchApiString.php	c73eb4c4248976cf85c9ed63c24ea717
 M	src/Plugin/facets/url_processor/QueryString.php	ac3c3d2c7ec8272f54e949c336224bea
 M	src/Plugin/facets/widget/LinksWidget.php	57e2f859b85b3facbe1ed9ad80fcb97f
+D	src/Plugin/views/style/FacetsSerializer.php	
 M	src/Result/Result.php	a3ca9ff43bdb3b5a1d0337833c260722
 M	src/Result/ResultInterface.php	f04c63e6837c72d10e6fa6ca81204ec6
 M	src/Tests/BlockTestTrait.php	2c2f28406de1768843ce722e23d9da9b
 M	src/Tests/FacetSourceTest.php	68a5a53a785f6580cfc0ce8866f5f7db
 M	src/Tests/IntegrationTest.php	a297aaa768d622c1bb1ee19e37c2b971
 M	src/Tests/ProcessorIntegrationTest.php	03083db1595bdc3520d4752c5a55532e
+D	src/Tests/RestIntegrationTest.php	
 M	src/Tests/UrlIntegrationTest.php	f277a284b9ee163415b9a90808198d82
 M	src/Tests/WebTestBase.php	8e117e87694e0fe8900ce72f07dbdb8e
 M	tests/facets_query_processor/facets_query_processor.info.yml	b6d2f09a16399d80fa49547715f4ccef

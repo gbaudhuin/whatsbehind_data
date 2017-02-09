@@ -1,14 +1,8 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	035cf7ef8afdd0e50ed838aa7bcd74e4
-D	diradd.png	
-D	dirmanage.png	
-D	dirremove.png	
-D	down.png	
-D	imce_mkdir.css	
-D	imce_mkdir.inc	
-M	imce_mkdir.info	74bdea1c542ba183341f08114b096e28
-M	imce_mkdir.install	134993224657b8a72694fa0df3f3289b
-M	imce_mkdir.js	1fc7177db4f6a0cdc52be06570a85950
-M	imce_mkdir.module	8d6dc70fe2f0086accffa4f6b6198d7b
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	035cf7ef8afdd0e50ed838aa7bcd74e4
+A	imce_mkdir.info	74bdea1c542ba183341f08114b096e28
+A	imce_mkdir.install	134993224657b8a72694fa0df3f3289b
+A	imce_mkdir.js	1fc7177db4f6a0cdc52be06570a85950
+A	imce_mkdir.module	8d6dc70fe2f0086accffa4f6b6198d7b
 A	translations/hu.po	7a6b85d0f0751a0e0a1dc56640e14675
 A	translations/ja.po	977dc17087137b3c5379fc10c1b5ac96

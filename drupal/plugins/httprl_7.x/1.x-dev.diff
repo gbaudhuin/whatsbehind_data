@@ -1,8 +1,6 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	120349f014e521ce35af2de2c81d37df
-A	examples/httprl.examples.php	cf031458437317f923b8a32f10ec2a17
-A	httprl.admin.inc	bab130841b2d61baededabbf3890c4f3
-A	httprl.async.inc	68a5aa856b442928d2a16461f72e6297
-A	httprl.info	b5265e3eb334bf646213b4b3c64816eb
-A	httprl.install	58c09161896ef5fca171b7e72db1fbc1
-A	httprl.module	83ca17778d4ca8806fad193d558edf64
+M	examples/httprl.examples.php	cf031458437317f923b8a32f10ec2a17
+M	httprl.admin.inc	bab130841b2d61baededabbf3890c4f3
+M	httprl.async.inc	68a5aa856b442928d2a16461f72e6297
+M	httprl.info	b5265e3eb334bf646213b4b3c64816eb
+M	httprl.install	58c09161896ef5fca171b7e72db1fbc1
+M	httprl.module	83ca17778d4ca8806fad193d558edf64

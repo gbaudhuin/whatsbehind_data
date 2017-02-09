@@ -107,10 +107,14 @@ D	modules/openlayers_views/plugins/layer_types/openlayers_views_vector.js
 M	modules/openlayers_views/views/openlayers_views.views.inc	169dbc85ab7d2d9f1526419754d7ef79
 D	modules/openlayers_views/views/openlayers_views.views.theme.inc	
 M	modules/openlayers_views/views/openlayers_views_plugin_display_openlayers.inc	bea8c78c0cb9a484a5adda630bd099e5
+A	modules/openlayers_views/views/openlayers_views_plugin_style_source_vector.inc	f175d3350f53150258547d2b1a55272e
+D	modules/openlayers_views/views/openlayers_views_style_data.inc	
 D	modules/openlayers_views/views/openlayers_views_style_data_image.inc	
 D	modules/openlayers_views/views/openlayers_views_style_map.inc	
 M	openlayers.info	ef4dd650792f541018f580549ec88236
 M	openlayers.install	17ef57b373d5d909b9b0a8cab856f0a0
+D	openlayers.make	
+A	openlayers.make.example	e21a25d678d12beab4c089b18b966e4f
 M	openlayers.module	f0453defeedaef106eeaad489d4fd9ee
 D	plugins/behaviors/openlayers_behavior_argparser.inc	
 D	plugins/behaviors/openlayers_behavior_argparser.js	

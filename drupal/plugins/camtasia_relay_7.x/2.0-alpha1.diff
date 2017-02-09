@@ -1,2 +1,6 @@
 M	camtasia_relay.info	aa22cb9342e0b7d827331ea9b328363c
+M	camtasia_relay.install	c6b661ce8dd4682733eb03cf3787825f
+M	camtasia_relay.module	568d60ba8eb4b64d2e01d0623ab8c094
 M	camtasia_relay_views/camtasia_relay_views.info	24e0d56301b388e0c3c1b591ae10a59a
+A	relay_func_view.inc	fdca12ad2d1b65ba47faebf31939a86a
+A	relay_func_youTube.inc	f1599b80239d55f8e96f0f49e6def9d3

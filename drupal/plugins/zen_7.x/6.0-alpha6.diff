@@ -2,6 +2,7 @@ M	STARTERKIT/Gemfile	3d6e721f9e6347a2caa1a8ea1d6eef5e
 M	STARTERKIT/config.rb	7e38f6bc8b9d1f30e077012635912ef3
 M	STARTERKIT/css/styles.css	534ff27ad4b83edae1bbfa748c12461d
 M	STARTERKIT/sass/_init.scss	d406fa23684085d4999a878fe5dfbfef
+D	STARTERKIT/sass/_variables.scss	
 M	STARTERKIT/sass/base/_normalize.scss	e80ecf23a859b8fd9eabc85432deeb09
 M	STARTERKIT/sass/base/embedded/embedded-img.hbs	69c9bf32a421141b428dd2fe249de183
 M	STARTERKIT/sass/base/embedded/embedded-svg.hbs	ddf290ffde6d5a27ab7f0000177431f9
@@ -28,6 +29,13 @@ M	STARTERKIT/sass/components/resizable-textarea/_resizable-textarea.scss	e774310
 M	STARTERKIT/sass/components/table-drag/_table-drag.scss	a80c1bfc8a06a9b682a6be137475bcdb
 M	STARTERKIT/sass/components/tabs/_tabs.scss	e0f536f1d2802a44be555e6b33ea0b3d
 A	STARTERKIT/sass/init/_colors.scss	8e7c483fd7fe6951a0cc602916257c97
+A	STARTERKIT/sass/init/_variables.scss	f1043d93fb16b323e787c48132026040
+A	STARTERKIT/sass/init/clearfix/_clearfix.scss	83435c9cd57519f3a12b5e81413b4a45
+A	STARTERKIT/sass/init/rtl/_rtl.scss	27b535254609295f09076d49d544f6a8
+A	STARTERKIT/sass/init/visually-hidden/_visually-hidden.scss	32760e3b24af4c010de6c3981537f4e4
+D	STARTERKIT/sass/library/_clearfix.scss	
+D	STARTERKIT/sass/library/_rtl.scss	
+D	STARTERKIT/sass/library/_visually-hidden.scss	
 M	STARTERKIT/sass/style-guide/homepage.md	baee8384522583d6220a3f8395a9737d
 M	STARTERKIT/sass/styles.scss	809de2293748bdfe75e7f93e6266c710
 M	STARTERKIT/styleguide/index.html	f442321d00426d291947771de9f2c735

@@ -1,20 +1,8 @@
-M	CHANGELOG.txt	da2f3868310cdc3fe721dc80b86ab8bb
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
-D	menu-block-admin.css	
-D	menu-block-wrapper.tpl.php	
-D	menu-block.js	
-M	menu_block.admin.inc	ca9802ae73d407c3b443b0a523020078
-D	menu_block.api.php	
-D	menu_block.follow.inc	
-M	menu_block.info	387e04c4fb291c155d69a8aeaf102c1e
-M	menu_block.install	25f8391a6751526e33d4588ab8aa50af
-M	menu_block.module	bd73ed696a6c42ad08a6fc7435ba9cbd
-M	menu_block.pages.inc	f2775e34fdbee19b7ef42f7bdc8663f1
-D	menu_block.sort.inc	
-D	plugins/content_types/menu_tree/icon_contrib_booknavigation.png	
-D	plugins/content_types/menu_tree/icon_contrib_menu.png	
-D	plugins/content_types/menu_tree/icon_contrib_navigation.png	
-D	plugins/content_types/menu_tree/icon_contrib_primarylinks.png	
-D	plugins/content_types/menu_tree/menu_tree.inc	
+A	CHANGELOG.txt	da2f3868310cdc3fe721dc80b86ab8bb
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	menu_block.admin.inc	ca9802ae73d407c3b443b0a523020078
+A	menu_block.info	387e04c4fb291c155d69a8aeaf102c1e
+A	menu_block.install	25f8391a6751526e33d4588ab8aa50af
+A	menu_block.module	bd73ed696a6c42ad08a6fc7435ba9cbd
+A	menu_block.pages.inc	f2775e34fdbee19b7ef42f7bdc8663f1
 A	translations/menu_block.pot	54e95b3e3a7c59c445c4a53d43213dec

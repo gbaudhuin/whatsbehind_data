@@ -1,155 +1,38 @@
 A	.cvsignore	2698c93821261da3dc56d4eb145ef043
-M	CHANGELOG.txt	9c64484a7112b7474c1fdc8873f482aa
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	10cae05ca6dfc11a5478d8dbe84705ab
+A	CHANGELOG.txt	9c64484a7112b7474c1fdc8873f482aa
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	10cae05ca6dfc11a5478d8dbe84705ab
 A	TROUBLESHOOTING.txt	771047d3ffbdcbcd01fb0d17c75ba20e
-D	ckeditor-rtl.css	
-D	ckeditor.api.php	
-M	ckeditor.config.js	40357f7c2722fb38b01c498c72fd4bae
-M	ckeditor.css	f6a9a4ab5c7e777c5a2c966b182f793a
-M	ckeditor.info	bd09581ed9978d8e8fad110a3643e0ef
-M	ckeditor.install	d36cce730a845dcb064a7c02c6c8e2cf
-D	ckeditor.make.example	
-M	ckeditor.module	33c8250c162f66fd76f468c2e6a80bd8
-D	ckeditor.styles.js	
-D	images/buttons/about.png	
-D	images/buttons/anchor.png	
-D	images/buttons/backgroundColor.png	
-D	images/buttons/bidiLeft.png	
-D	images/buttons/bidiRight.png	
-D	images/buttons/blockJustify.png	
-D	images/buttons/blockQuote.png	
-D	images/buttons/bold.png	
-D	images/buttons/bulletedList.png	
-D	images/buttons/button.png	
-D	images/buttons/centerJustify.png	
-D	images/buttons/checkSpelling.png	
-D	images/buttons/checkbox.png	
-D	images/buttons/copy.png	
-D	images/buttons/createDivContainer.png	
-D	images/buttons/cut.png	
-D	images/buttons/decreaseIndent.png	
-D	images/buttons/drupalbreak.png	
-D	images/buttons/drupalpagebreak.png	
-D	images/buttons/find.png	
-D	images/buttons/flash.png	
-D	images/buttons/font.png	
-D	images/buttons/fontSize.png	
-D	images/buttons/form.png	
-D	images/buttons/format.png	
-D	images/buttons/group.png	
-D	images/buttons/hiddenField.png	
-D	images/buttons/horizontalLine.png	
-D	images/buttons/icon.png	
-D	images/buttons/iframe.png	
-D	images/buttons/image.png	
-D	images/buttons/imageButton.png	
-D	images/buttons/increaseIndent.png	
-D	images/buttons/index.html	
-D	images/buttons/italic.png	
-D	images/buttons/leftJustify.png	
-D	images/buttons/link.png	
-D	images/buttons/linkit.png	
-D	images/buttons/linktomenu.gif	
-D	images/buttons/linktonode.gif	
-D	images/buttons/maximize.png	
-D	images/buttons/newPage.png	
-D	images/buttons/numberedList.png	
-D	images/buttons/pageBreakPrinting.png	
-D	images/buttons/paste.png	
-D	images/buttons/pastePlainText.png	
-D	images/buttons/pasteWord.png	
-D	images/buttons/preview.png	
-D	images/buttons/print.png	
-D	images/buttons/radioButton.png	
-D	images/buttons/redo.png	
-D	images/buttons/removeFormat.png	
-D	images/buttons/replace.png	
-D	images/buttons/rightJustify.png	
-D	images/buttons/save.png	
-D	images/buttons/selectAll.png	
-D	images/buttons/selectionField.png	
-D	images/buttons/showBlocks.png	
-D	images/buttons/smiley.png	
-D	images/buttons/spacer.png	
-D	images/buttons/specialCharacter.png	
-D	images/buttons/strike.png	
-D	images/buttons/styles.png	
-D	images/buttons/subscript.png	
-D	images/buttons/superscript.png	
-D	images/buttons/table.png	
-D	images/buttons/templates.png	
-D	images/buttons/textColor.png	
-D	images/buttons/textField.png	
-D	images/buttons/textarea.png	
-D	images/buttons/underline.png	
-D	images/buttons/undo.png	
-D	images/buttons/unlink.png	
-M	includes/ckeditor.admin.inc	629011adbed51c337a85adf8b5dd324a
-M	includes/ckeditor.admin.js	e7fbca0d533c6780208d060b30add587
-D	includes/ckeditor.drush.inc	
-D	includes/ckeditor.features.inc	
-M	includes/ckeditor.lib.inc	39043d71b543d51362002c2f5fd8ecba
-M	includes/ckeditor.page.inc	bdfd281e89b64f769da107025abe8bea
-M	includes/ckeditor.popup.html	21abe16ba66c211a440111ad6d0c1815
-M	includes/ckeditor.user.inc	74bb0b4a22ef32518478ed6ed74ef486
-M	includes/ckeditor.utils.js	54915a699e836ac6036dc21be3f3af5d
-M	includes/filemanager.config.php	7c263734395e13c0e7c78d5078da3e65
-D	includes/jqueryUI/jquery-1.4.4.min.js	
-D	includes/jqueryUI/jquery-ui.min.js	
-D	includes/jqueryUI/jquery.ui.sortable.min.js	
-D	includes/jqueryUI/jquery.ui.widget.min.js	
-D	includes/jqueryUI/sort.js	
-D	includes/uicolor/dialogs/uicolor.js	
-D	includes/uicolor/icons/uicolor.png	
-D	includes/uicolor/lang/_translationstatus.txt	
-D	includes/uicolor/lang/bg.js	
-D	includes/uicolor/lang/cs.js	
-D	includes/uicolor/lang/cy.js	
-D	includes/uicolor/lang/da.js	
-D	includes/uicolor/lang/de.js	
-D	includes/uicolor/lang/el.js	
-D	includes/uicolor/lang/en.js	
-D	includes/uicolor/lang/eo.js	
-D	includes/uicolor/lang/et.js	
-D	includes/uicolor/lang/fa.js	
-D	includes/uicolor/lang/fi.js	
-D	includes/uicolor/lang/fr.js	
-D	includes/uicolor/lang/he.js	
-D	includes/uicolor/lang/hr.js	
-D	includes/uicolor/lang/it.js	
-D	includes/uicolor/lang/mk.js	
-D	includes/uicolor/lang/nb.js	
-D	includes/uicolor/lang/nl.js	
-D	includes/uicolor/lang/no.js	
-D	includes/uicolor/lang/pl.js	
-D	includes/uicolor/lang/tr.js	
-D	includes/uicolor/lang/ug.js	
-D	includes/uicolor/lang/uk.js	
-D	includes/uicolor/lang/vi.js	
-D	includes/uicolor/lang/zh-cn.js	
-D	includes/uicolor/plugin.js	
-D	includes/uicolor/samples/uicolor.html	
-D	includes/uicolor/yui/assets/hue_bg.png	
-D	includes/uicolor/yui/assets/hue_thumb.png	
-D	includes/uicolor/yui/assets/picker_mask.png	
-D	includes/uicolor/yui/assets/picker_thumb.png	
-D	includes/uicolor/yui/assets/yui.css	
-D	includes/uicolor/yui/yui.js	
-D	plugins/counter/plugin.js	
-D	plugins/drupalbreaks/images/drupalbreak.png	
-D	plugins/drupalbreaks/images/drupalpagebreak.png	
-M	plugins/drupalbreaks/plugin.js	eded3475c0930dec6d894d165ef56ace
-D	plugins/imce/images/icon.png	
-D	plugins/imce/plugin.js	
-M	plugins/linktomenu/dialogs/link.js	cb7683fe8363fa1ff1d3e747020a7e32
-M	plugins/linktomenu/jscripts/functions.js	a1315ccfb501fa2506f678deab82d056
-M	plugins/linktomenu/plugin.js	8acc8750c14fe161c4cce62f72d9ec76
-M	plugins/linktonode/dialogs/link.js	aeee6ef608986c6f0151cc7a7de5fc4b
-M	plugins/linktonode/jscripts/functions.js	251efaff0d24173614e674d9c279b7d2
-M	plugins/linktonode/plugin.js	a09a697f15e19e391296cb25712b0dae
-D	plugins/mediaembed/dialogs/mediaembed.js	
-D	plugins/mediaembed/images/icon.png	
-D	plugins/mediaembed/images/placeholder.gif	
-D	plugins/mediaembed/plugin.js	
+A	ckeditor.config.js	40357f7c2722fb38b01c498c72fd4bae
+A	ckeditor.css	f6a9a4ab5c7e777c5a2c966b182f793a
+A	ckeditor.info	bd09581ed9978d8e8fad110a3643e0ef
+A	ckeditor.install	d36cce730a845dcb064a7c02c6c8e2cf
+A	ckeditor.module	33c8250c162f66fd76f468c2e6a80bd8
+A	ckeditor/COPY_HERE.txt	de1bcfc652921a27c165402d5f19c4b1
+A	includes/ckeditor.admin.inc	629011adbed51c337a85adf8b5dd324a
+A	includes/ckeditor.admin.js	e7fbca0d533c6780208d060b30add587
+A	includes/ckeditor.lib.inc	39043d71b543d51362002c2f5fd8ecba
+A	includes/ckeditor.page.inc	bdfd281e89b64f769da107025abe8bea
+A	includes/ckeditor.popup.html	21abe16ba66c211a440111ad6d0c1815
+A	includes/ckeditor.user.inc	74bb0b4a22ef32518478ed6ed74ef486
+A	includes/ckeditor.utils.js	54915a699e836ac6036dc21be3f3af5d
+A	includes/filemanager.config.php	7c263734395e13c0e7c78d5078da3e65
+A	plugins/drupalbreaks/images/drupalbreak.gif	3c45fc2360ad2be3947c3ed5354d8c2d
+A	plugins/drupalbreaks/images/drupalpagebreak.gif	83eb82db07c68fe0f8e931b5a8ddd793
+A	plugins/drupalbreaks/images/pagebreak.gif	59caae8ab95b2eeba9444ba219446c75
+A	plugins/drupalbreaks/plugin.js	eded3475c0930dec6d894d165ef56ace
+A	plugins/linktomenu/css/linktocontent.css	4aa4e6cb64a96b3028e24b30ec7fddf9
+A	plugins/linktomenu/dialogs/link.js	cb7683fe8363fa1ff1d3e747020a7e32
+A	plugins/linktomenu/images/descendant.gif	1b5c0c701636cb3f4081e8fb8c254da4
+A	plugins/linktomenu/images/linktomenu.gif	4a9679d2f024ce4215638473ad67d501
+A	plugins/linktomenu/images/loading.gif	e37e5d7a340c6f0621ce637cb4650e51
+A	plugins/linktomenu/jscripts/functions.js	a1315ccfb501fa2506f678deab82d056
+A	plugins/linktomenu/plugin.js	8acc8750c14fe161c4cce62f72d9ec76
+A	plugins/linktonode/css/linktocontent.css	f9172cb3bf19a0e7e5382b1d846bf1c0
+A	plugins/linktonode/dialogs/link.js	aeee6ef608986c6f0151cc7a7de5fc4b
+A	plugins/linktonode/images/descendant.gif	1b5c0c701636cb3f4081e8fb8c254da4
+A	plugins/linktonode/images/linktonode.gif	8bdfc1859881434045ae71a84c592ecb
+A	plugins/linktonode/images/loading.gif	e37e5d7a340c6f0621ce637cb4650e51
+A	plugins/linktonode/jscripts/functions.js	251efaff0d24173614e674d9c279b7d2
+A	plugins/linktonode/plugin.js	a09a697f15e19e391296cb25712b0dae
 A	translations/ckeditor.pot	53959ec0f090c28b4d5718455a78703f

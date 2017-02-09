@@ -1,8 +1,8 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	fcb6540765b4d679634bd0d4066471a6
-A	flatcomments.info	14402c2f17122768d91dc7a619dd6644
-A	flatcomments.install	22bccce19477fc06d320fce718072117
-A	flatcomments.module	a0f7defbf70806c5658431cee06dbd80
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	fcb6540765b4d679634bd0d4066471a6
+M	flatcomments.info	14402c2f17122768d91dc7a619dd6644
+M	flatcomments.install	22bccce19477fc06d320fce718072117
+M	flatcomments.module	a0f7defbf70806c5658431cee06dbd80
 A	flatcomments_existing/flatcomments_existing.admin.inc	e950edd754caab260af1e59c463c8276
 A	flatcomments_existing/flatcomments_existing.info	171a50b8e26726beb20cb5fb08b34578
 A	flatcomments_existing/flatcomments_existing.install	182006e7c2430f389ccda5d812e7ffba

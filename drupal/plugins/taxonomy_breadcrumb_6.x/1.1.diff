@@ -1,5 +1,9 @@
+D	po/it.po	
+D	po/taxonomy_breadcrumb-module.pot	
 M	taxonomy_breadcrumb.admin.inc	58ba4e897d66c67d4db4868e6ba1f79c
 M	taxonomy_breadcrumb.inc	e3929aeadbed0a4fa629f36b7bec613e
 M	taxonomy_breadcrumb.info	1fad257e420be955f37f69a6b74981c1
 M	taxonomy_breadcrumb.install	1c2f14ab887191cced60ebe7f6fa4dc0
 M	taxonomy_breadcrumb.module	b7114efe10d3e641aadbeb449410e561
+A	translations/it.po	a142580e0eb1c61f3659ed2e222c36d3
+A	translations/taxonomy_breadcrumb-module.pot	1fb8966182d3be5ddd962b4841da15f6

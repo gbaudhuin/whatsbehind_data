@@ -1,12 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	7931fd2883e4913f8c953fd471f6abf9
-A	close.png	fd3903aff597439ac7bf597be64252f2
-A	includes/views/handlers/views_handler_field_megarow_links.inc	534b2253e3f32bfedf0f55e152fb013a
-A	includes/views/plugins/views_plugin_style_table_megarows.inc	4165df5af28b31bf295dff33d2c3c432
-A	includes/views/views_megarow.views.inc	c0a53f83a55becc78e0f80e4be97a5a7
-A	views_megarow.admin.inc	d17b2fcfbc5b9aabd5fd517a36d7ae87
-A	views_megarow.css	f26b0d2d2889ae824a8f3b9f6722c2a6
-A	views_megarow.info	903605a65d55d3b3148ee5c44aa73bf4
-A	views_megarow.install	3f65be7744bd427db07ede42f3b8a0dd
-A	views_megarow.js	f4c2d7df0ed25f927b85997e6fc1d594
-A	views_megarow.module	55edaf139baa5ea8f16cd25891fcc54b
+M	views_megarow.info	58dc8c0ce875f112a33c894fe05ed91f

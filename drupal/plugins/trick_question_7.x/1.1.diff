@@ -1,5 +1,5 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	ef55b8c3e754291660c103872fb1f096
-M	trick_question.info	ec3c5718d6dacb4125374ac2079455c4
-M	trick_question.module	7738e1c952706ea133918a6cdf04f0c8
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	ef55b8c3e754291660c103872fb1f096
+A	trick_question.info	ec3c5718d6dacb4125374ac2079455c4
+A	trick_question.install	b774d99a76bd6a9ab0a53ade8fb9231a
+A	trick_question.module	7738e1c952706ea133918a6cdf04f0c8

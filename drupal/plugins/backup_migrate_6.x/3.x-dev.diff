@@ -7,6 +7,8 @@ M	backup_migrate.module	7e3b527408236d306a9d9f1c25f25492
 M	includes/backup_migrate.drush.inc	f19a8691049a47c1fdb8c48bb44d55a4
 M	includes/crud.inc	46241b3a41d4f08abae3ea725c530413
 M	includes/destinations.browser.inc	921670511cb56f497f0724a2fd093919
+D	includes/destinations.db.inc	
+D	includes/destinations.db.mysql.inc	
 M	includes/destinations.email.inc	1265b17979db53ad9df1ed974f5ab019
 M	includes/destinations.file.inc	f504d2bbe0ca2907330183b246a8249e
 M	includes/destinations.ftp.inc	9284941d2bb3ac48c4ac4383748236bd
@@ -24,5 +26,7 @@ A	includes/locations.inc	b1cc6f7495ca602df62c8b40772df960
 M	includes/profiles.inc	23915d9497390cfc2ca46154fcb34dd8
 M	includes/schedules.inc	e1187496f66a1ea0caf5c67a6797b3d7
 A	includes/sources.archivesource.inc	f82ed4f2e5fca3c400aed63c7fd0d7c6
+A	includes/sources.db.inc	e139c3ebd168adc1b7c3b45a3a50bc2b
+A	includes/sources.db.mysql.inc	0b1e41653b326109dc021cefa4dce377
 A	includes/sources.filesource.inc	1e54310c225c12b03f43a92de5bdd700
 A	includes/sources.inc	22b13689efcb27bd0fc53b5b5e0f2421

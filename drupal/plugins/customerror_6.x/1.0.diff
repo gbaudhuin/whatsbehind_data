@@ -1,7 +1,7 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	ab77bc41baaa6ad96bd7822633c78763
-M	customerror.info	e1bb6926557227db5f13cb96379b0218
-M	customerror.install	b3953c50847824ef14a93d3fb274db4f
-M	customerror.module	c681ab5570fc5fa2a39ac4ce1c9da805
-M	tests/accessdenied.test	0f5c3a6dcf0f4c98b8c30fd0813c4bbd
-M	tests/pagenotfound.test	1ec0940f2b710fcfb7a5f6bc5e8699a0
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	ab77bc41baaa6ad96bd7822633c78763
+A	customerror.info	e1bb6926557227db5f13cb96379b0218
+A	customerror.install	b3953c50847824ef14a93d3fb274db4f
+A	customerror.module	c681ab5570fc5fa2a39ac4ce1c9da805
+A	tests/accessdenied.test	0f5c3a6dcf0f4c98b8c30fd0813c4bbd
+A	tests/pagenotfound.test	1ec0940f2b710fcfb7a5f6bc5e8699a0

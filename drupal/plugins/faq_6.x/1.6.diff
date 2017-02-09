@@ -13,4 +13,8 @@ M	faq.install	66bb99fae18bfe67d595c9e026ca1761
 M	faq.js	0d35ef371aacf8213b81ce9a5a87ab01
 M	faq.module	c47c4629781b3b9d62aa1b6af3892ac6
 D	faq_config_screenshot.jpg	
+D	po/faq-module.pot	
+D	po/ja.po	
+A	translations/faq-module.pot	c5bbbb529873e8b028fae6769bf1a7df
 A	translations/it.po	0abc9108edf231505e2047a0f61aa591
+A	translations/ja.po	1de4657fea274c05069995ba81127b62

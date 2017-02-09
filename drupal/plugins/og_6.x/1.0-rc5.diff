@@ -4,6 +4,8 @@ M	og.info	fe58205257bf4d50f4badb209f105790
 M	og.install	fc357021092d09ec92dd4a337f8e3736
 M	og.module	6b00615d5cf23498f5a3539a4283fb0a
 A	og.rules.inc	cc5f5bf19fe9d2857a450d2307ce964d
+D	og.views.inc	
+D	og.views_default.inc	
 M	og_access.info	984362d14e113c614ce18ead926183d1
 M	og_access.module	d69a84aeabca95650a9e619f5f7d91e7
 A	og_actions/README.txt	a89391bb7677ca921f8ceca430eec3f5
@@ -14,8 +16,34 @@ M	og_notifications/og_notifications.module	7b1e5f410889345bad99584383349706
 M	og_panels.info	576abe00c4b3cf5ac27da9b4011c5103
 A	og_views/og_views.info	8b0d53b6e38d48d82bebaa844da9c89b
 A	og_views/og_views.module	4acc58c27f942013fa6a8f761e216ae6
+A	og_views/og_views.views.inc	796399019635f7b4998a591ea77574e4
+A	og_views/og_views.views_default.inc	78878e06da7899c8bfa2a07cf3b7a876
+A	og_views/views/og.og.view	2d4d28fe11096b85a1fb8190d24bbde6
+A	og_views/views/og.og_files.view	058645d196cb24accefb596322cfb5d6
+A	og_views/views/og.og_ghp_ron.view	62674dc13687e9dc691f42b332d894f2
+A	og_views/views/og.og_members.view	2768595e91e88f9c3e9e348c0cd06036
+A	og_views/views/og.og_members_block.view	92722b82d8d5804ce094914e88bf7b59
+A	og_views/views/og.og_members_faces.view	7b5c5d42a7b7d6b79181821884345801
+A	og_views/views/og.og_my.view	747a6acca9fb55174a3f7736e01e7dea
+A	og_views/views/og.og_mytracker.view	a58fe09cb6202bbfa8722a12f0804873
+A	og_views/views/og.og_recent_type_term.view	3a4a61bf55d9b733269a7efc9d1fbc8a
+A	og_views/views/og.og_search.view	c4a7dba445d80196bea47b6ec59fcd17
+A	og_views/views/og.og_tracker.view	e761c54363ec68bbdacd86d6ef2d4c5d
+A	og_views/views/og.og_unread.view	c0d642b2c1a261f91d9df35a656a0e83
 D	og_workflow_ng.inc	
 M	tests/og_post.test	7a82fdf6995d3c537497f82e2b2cb13a
 M	tests/og_subscribe.test	c41deb60fd05aed399a8793bb12b0ea4
 M	translations/de.po	82eded00d15cfdb0065f17861811dc11
 M	translations/og.pot	4b3d921b6f214c38040b7e3663bee7c0
+D	views/og.og.view	
+D	views/og.og_files.view	
+D	views/og.og_ghp_ron.view	
+D	views/og.og_members.view	
+D	views/og.og_members_block.view	
+D	views/og.og_members_faces.view	
+D	views/og.og_my.view	
+D	views/og.og_mytracker.view	
+D	views/og.og_recent_type_term.view	
+D	views/og.og_search.view	
+D	views/og.og_tracker.view	
+D	views/og.og_unread.view	

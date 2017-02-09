@@ -1,6 +1,1 @@
-M	components/matrix.inc	10f16631bfb6e9b6879b2dc57e9dcf18
-A	tests/webform_matrix_component.test	3f6455730e99407b217307cd7b2c1c4e
-M	webform_matrix_component.api.php	b2bdab5d37892f0f92dd9242be3a17d4
-A	webform_matrix_component.css	6b8854fd0f00cfb36c44b39ae28a3b82
 M	webform_matrix_component.info	f0c09de6527853056c7bbf31287fda5c
-M	webform_matrix_component.module	7bb04fb93ea56d55e86f9eddc4c4ddcd

@@ -17,8 +17,10 @@ M	src/Plugin/rest/resource/DbResource.php	c06d110b2480fd7a57e5f4ebbf8fda0b
 M	src/Tests/BulkDocsResourceTest.php	084a9f381e6e1404b3074ca4b9c09e13
 M	src/Tests/DbResourceTest.php	f8f902a7a3ae08b920630e1856300ce2
 M	src/Tests/DocResourceTest.php	ab372dba6472e2e3273e5ba09c83ef05
+A	src/Tests/InstallUninstallTest.php	5c41ed6c6dab8d979bab12e1c49631df
 M	src/Tests/ResourceTestBase.php	2b8b7e932f407ea6fd98d2571bc1d13f
 M	src/Tests/StubTest.php	94477d7152735fdda7d7d971ed36292f
+D	src/Tests/UninstallTest.php	
 M	tests/fixtures/documents.txt	61293cc80f550236bc59e29f1688cd0b
 M	tests/fixtures/generate.php	d380e68ceef9a2951bedd76c73d48487
 M	tests/modules/relaxed_test/relaxed_test.info.yml	00775dbfdacf414af0b8ca30acf6b60b

@@ -36,6 +36,26 @@ M	src/Plugin/Action/DeleteMessage.php	e28d053e9fd0a04b4905ad915f7410cd
 M	src/Plugin/MessagePurge/Days.php	b75a9740675b2dd06f54a7c66da22a23
 M	src/Plugin/views/field/GetText.php	786b3ca0cd364f311ae19d5da354ce33
 M	src/Plugin/views/wizard/Message.php	af489fa4f034e5fffa9e6803bbfe7fd0
+D	src/Tests/MessageCreateTest.php	
+D	src/Tests/MessageCron.php	
+D	src/Tests/MessageEntityDelete.php	
+D	src/Tests/MessageTemplateCreateTrait.php	
+D	src/Tests/MessageTemplateCrudTest.php	
+D	src/Tests/MessageTemplateListTest.php	
+D	src/Tests/MessageTemplateSuggestionsTest.php	
+D	src/Tests/MessageTestBase.php	
+D	src/Tests/MessageTextHandlerTest.php	
+D	src/Tests/MessageUiTest.php	
+A	tests/src/Functional/MessageCreateTest.php	cb38b67d23f573dbf4422fee0139837d
+A	tests/src/Functional/MessageCron.php	5c0a53f645f4ca63b96f0289cc38ffab
+A	tests/src/Functional/MessageEntityDelete.php	3318a2273cc1eb37a9603b0cc6f3e435
+A	tests/src/Functional/MessageTemplateCrudTest.php	5a868ad8664b8dc25de13e8e7fbabb15
+A	tests/src/Functional/MessageTemplateListTest.php	5f8a0092205431b09a1b7fb3a34efa05
+A	tests/src/Functional/MessageTemplateSuggestionsTest.php	6406a73238ccda17e89e7a6ef0189d0d
+A	tests/src/Functional/MessageTestBase.php	cae9e7abb2f94af79443fccc7cf37dc9
+A	tests/src/Functional/MessageTextHandlerTest.php	2700496a624df7e88c7157413a879313
+A	tests/src/Functional/MessageUiTest.php	3596ca91f19534943bf7146a48e36ba9
+A	tests/src/Kernel/MessageTemplateCreateTrait.php	d2059da27c64010f162ae2aa5ff56df9
 M	tests/src/Kernel/MessageTest.php	946818cbef421ed4b1ba39c61e1579a8
 A	tests/src/Kernel/MessageThemeTest.php	8a3d3d844c1d871e3ce65440f8a48aa5
 M	tests/src/Kernel/MessageTokenTest.php	2710bcabab8ecd5592bda5cce42366e9

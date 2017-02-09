@@ -1,16 +1,15 @@
+M	client/pifr_client.admin.inc	7ce69e3088fcf9b2cf784c1b2daeb3dd
+M	client/pifr_client.cron.inc	25c9148984440a7be18362acfb72c2d8
 M	client/pifr_client.info	f168d2ef5fa95c38d5053704e02fed10
-M	client/pifr_client.module	780c96a3dd681cbd2a3c358493960033
-D	client/review/db/sqlite_d8runner.php	
+M	client/pifr_client.review.inc	da2d69e26739a6ea9e11ec930904e238
 M	pifr.info	19079e42f0199877f2ec5e9fa3405df7
 M	review/assertion/pifr_assertion.info	189e0ab87c660f1c9b81e32e0e45ca9e
 M	review/client.inc	9fabc14d257aeb221bd80311dcc4617e
 M	review/coder/pifr_coder.info	c262991ed990946ac6dacb5e679b62c2
 M	review/drupal/pifr_drupal.client.inc	38576feb5de1406dfa03240f71023181
 M	review/drupal/pifr_drupal.info	bd58b49237f79acccdfb5b2c9e20cd94
-M	review/simpletest/D6-core-simpletest.patch	56abad6d4903ba0d5bfcea2ae95ef066
+M	review/simpletest/confirmation/pass.patch	c0bd58f635238ce4daea25f4bacb322b
 M	review/simpletest/pifr_simpletest.client.inc	a4aa8d8b3b5a2bf04ad7a9405f326b7e
 M	review/simpletest/pifr_simpletest.info	fa6aef0e56e18aa8086372ef94ecb804
 M	server/pifr_server.info	f5121ab4f560ce978dcf8a62895df24a
-M	server/views/pifr_server.views.inc	9f17b960050be13c2c3e10d1ca822e04
-M	server/views/pifr_server.views_default.inc	7cdb90db1175d8816442ba2a3b7a2ded
 M	util/shell/pifr_shell.info	26b2352db452d92484e7e8912900f524

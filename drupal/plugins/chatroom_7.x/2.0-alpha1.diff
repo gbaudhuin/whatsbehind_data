@@ -1,6 +1,18 @@
-M	README.txt	3605f288dece97aed4a0351ae297fc25
-M	chatroom.chatroom.inc	78b002db7b23dee95b20c51589fa91c8
+D	HACKING.txt	
+D	away.png	
+D	chatroom.cache.apc.inc	
+D	chatroom.cache.memcache.inc	
+A	chatroom.chatroom.inc	78b002db7b23dee95b20c51589fa91c8
+M	chatroom.css	87b153cf6288a0bf0c4622ed3ca15055
+D	chatroom.forms.inc	
 M	chatroom.info	aa7216270b95c0df33eca8015e62b5d7
 M	chatroom.install	3b3f9a030d716c93c013c71f0c3e971a
 M	chatroom.js	73550c8d59496185b1faf5472ca635ab
 M	chatroom.module	da356e7c881e57f2eb7c432b392b14a0
+D	chatroom.theme.inc	
+D	chatroom.user.add.widget.js	
+D	chatroom_nodejs/README.txt	
+D	chatroom_nodejs/chatroom_nodejs.info	
+D	chatroom_nodejs/chatroom_nodejs.js	
+D	chatroom_nodejs/chatroom_nodejs.module	
+D	chatroomread.php	

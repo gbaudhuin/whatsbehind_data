@@ -138,14 +138,19 @@ M	shipping/uc_quote/uc_quote.info.yml	2c40646e4a8a22265b732afb9775f9e8
 M	shipping/uc_quote/uc_quote.module	c8dd55c1db88ee993ff2844514a1353a
 M	shipping/uc_ups/config/install/uc_ups.settings.yml	1fd15942d034853be11132a750086c73
 A	shipping/uc_ups/config/schema/uc_ups.schema.yml	a119005c5bdc7deeffc36b4e0b685ab8
+A	shipping/uc_ups/images/uc_ups_logo.gif	954b6afbb09a2ff81bf440ae9877049b
 M	shipping/uc_ups/src/Form/UPSSettingsForm.php	3811ef92e4521640f9f23db4db147383
+A	shipping/uc_ups/src/Plugin/Ubercart/FulfillmentMethod/uc_ups.ship.inc	fd2bf931030a946465914d82a15a10ba
 A	shipping/uc_ups/src/Plugin/Ubercart/ShippingQuote/UPSRateBase.php	0f2a0fd2c49acf49424b6dbf536c3a7d
 M	shipping/uc_ups/src/UPSUtilities.php	d0b60a59d93906c3c219c9639e362f33
 M	shipping/uc_ups/uc_ups.info.yml	248e435160daab8e65d680dc4d5b420d
 M	shipping/uc_ups/uc_ups.module	5042696fff64dd702f6687a4e808c31c
+D	shipping/uc_ups/uc_ups.ship.inc	
 M	shipping/uc_ups/uc_ups.theme.inc	d89aa9c56c86073849247e55798a287d
+D	shipping/uc_ups/uc_ups_logo.gif	
 M	shipping/uc_usps/config/install/uc_usps.settings.yml	b25cf38457f553436c27163669c9174c
 A	shipping/uc_usps/config/schema/uc_usps.schema.yml	f4cd549adb36593d52ce964e7f542774
+A	shipping/uc_usps/images/uc_usps_logo.gif	2a9bbceb16c7937a9be8c2c9e2d2b458
 M	shipping/uc_usps/src/Form/USPSSettingsForm.php	8456c645556febcc4594eb4bcc151653
 A	shipping/uc_usps/src/Plugin/Ubercart/ShippingQuote/USPSDomesticRate.php	bd1a87a736788cc2871baebf854cfcbf
 A	shipping/uc_usps/src/Plugin/Ubercart/ShippingQuote/USPSInternationalRate.php	1a6acbdd2248ef5468eff8ea2b16aac7
@@ -154,6 +159,8 @@ M	shipping/uc_usps/src/USPSUtilities.php	e7ff2481e151048e1287b914fc4ba3dd
 M	shipping/uc_usps/uc_usps.info.yml	7ea6ccfa01ede69746d3707d52a5dc40
 M	shipping/uc_usps/uc_usps.module	1df5660c2e67b37495e83f672bb20630
 M	shipping/uc_usps/uc_usps.theme.inc	9c97a9d2d3acb59c129a526b53c95db0
+D	shipping/uc_usps/uc_usps_logo.gif	
+D	tests/src/Unit/Order/OrderStatusTest.php	
 M	uc_ajax_admin/src/Form/AjaxAdminForm.php	f2250e9a2ee3212683928eeb9213093e
 M	uc_ajax_admin/uc_ajax_admin.info.yml	10bd619902864ff03cec1703d4444da6
 M	uc_attribute/src/Controller/AttributeController.php	f777edd5d1bf32e2929e3355cb072591
@@ -340,6 +347,7 @@ M	uc_order/src/Plugin/views/filter/Total.php	13c6ef95959110c6fa7ca0e600531651
 M	uc_order/src/Plugin/views/sort/Total.php	0ac242f7cd71cc249e1bcfb0d0fe0000
 M	uc_order/src/Tests/CustomerAdminTest.php	4b4f33a1710a3b043b69c815c3bd70ce
 M	uc_order/src/Tests/OrderTest.php	eb35bf4cf55ce68d40baddcf039c816c
+A	uc_order/tests/src/Unit/OrderStatusTest.php	6bb0ddac5b669b0b918013d4d97f3202
 M	uc_order/uc_order.api.php	a0dafe8fd27668c80ee0a3f8163244b2
 M	uc_order/uc_order.info.yml	2b9f84f1ca62f028df22c50a572c673e
 M	uc_order/uc_order.module	fcc510fd76667965ec0ba417e71c00e0

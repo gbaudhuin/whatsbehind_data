@@ -1,8 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	157fe6b357ba92f0bde2d37d25bf6856
-A	node--nodeblock.tpl.php	eb430741ff9b48f25221f3b4de276d62
-A	nodeblock.info	e1be0f8a646417c09b5cae7cec380ab9
-A	nodeblock.install	fdeb5ae41c7f2ceb41fff3d76cb3b1f4
-A	nodeblock.js	3f6f580b755742273c1b5f6ce024074c
-A	nodeblock.module	9862b5d39ddd066325d6e81946967a1e
-A	nodeblock.views.inc	11ed04a7454c6d7e4f9193ac367e7ad6
+M	nodeblock.info	2976c081d1201cbfb9247f5ae9b5a931
+M	nodeblock.module	bdb81b8f53d9c3d850217c06a56629ef

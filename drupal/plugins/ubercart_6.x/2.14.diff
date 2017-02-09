@@ -27,6 +27,8 @@ M	uc_product_kit/uc_product_kit.info	6f1e8b0f28e2a220d2babd958efdf8b1
 M	uc_reports/uc_reports.info	95feffe597ff36e72565cdc13b0e9950
 M	uc_roles/uc_roles.info	8a688371f69e5d720bd3dc700c9c1d80
 M	uc_stock/uc_stock.info	229850b77c5e51e4d30cb7f51c38a2d9
+D	uc_store/countries/iran_364_2.cif	
+A	uc_store/countries/iran_364_3.cif	dc02f0f5fd7a9da0deaad4169c8a8d31
 M	uc_store/uc_store.admin.inc	d6a3e31b47ed4c663fb189702708fdfd
 M	uc_store/uc_store.info	4530a8c5a946837257927131dcb96585
 M	uc_store/uc_store.module	3a78fa30fa2d5c6a57a6aa268ce9808f

@@ -1,0 +1,9 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	d4c52bab642e942d231d25406ec87c26
+M	audiofield.info	e30288a009e114bd6a795d37b3360de7
+M	audiofield.install	4344436477158aab91799b7af50e6e4c
+M	audiofield.module	3cc44c2a2809bba377a140fd635e1fc3
+A	audiofield.players.inc	28836981d9133c443f837faa9dc37d51
+M	audiofield_formatter.inc	47fd3bacdb59a3f38d15b7739bb185f3
+M	audiofield_widget.inc	fa974b1f57b892a002013b0719adc863
+A	players/wavplayer.swf	04b6e6d4ad810ea0a04b2d59ba6c2e13

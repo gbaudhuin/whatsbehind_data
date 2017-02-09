@@ -1,6 +1,8 @@
+A	js/lib/jquery.scrollspy.js	562cb9c3be9bc8a54c3bd55165bb234d
 M	js/single-page-site-menu.js	4526d90e999a216ee0a25cf7155e3fb1
 M	js/single-page-site-scroll.js	cab4023a0bfb7a0abb22fcc8296524c9
 M	js/single-page-site-scrollspy.js	6a9abdbc40b7590ece151397c1f50ce2
+D	lib/jquery.scrollspy.js	
 M	modules/single_page_site_next_page/single_page_site_next_page.info.yml	9f5f7577eb4975c1e6d0427993338ac1
 M	modules/single_page_site_next_page/single_page_site_next_page.module	c45f01e46eae075537de07d28657294b
 M	single_page_site.info.yml	69130850f1406f3823792b8ef8b32566

@@ -30,7 +30,9 @@ M	modules/example/config/install/views.view.nodes_entity_browser.yml	d6e076d3175
 M	modules/example/entity_browser_example.info.yml	ae5cecc413ef4f833debd6112022c1c4
 A	src/Controllers/CtoolsFallback.php	8750b7dcd21bbd7e1215dd4711ff6a46
 A	src/Controllers/EntityBrowserController.php	8ff1b3533786a3ba7685061b36c35f9c
+A	src/Controllers/EntityBrowserFormController.php	f91ef4657aab6ee38a409e7e91eb6ece
 A	src/Controllers/EntityBrowserListBuilder.php	2379481eb8861bcb75d8114db9f657f8
+D	src/Controllers/StandalonePage.php	
 M	src/DisplayBase.php	89fcccbd70a306ff5a312e8d3a9d29f4
 M	src/DisplayInterface.php	ca2efa489663463f5793ba1c349e015b
 M	src/Entity/EntityBrowser.php	9bd3a96f2d3880ecbf8c85a8860c2fcd

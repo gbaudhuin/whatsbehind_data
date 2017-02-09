@@ -1,0 +1,130 @@
+M	.gitignore	813732399ff1f57b8ed8f1b0445503e0
+M	.travis.yml	bd5e89ddf1073981690605b4320f9551
+M	CHANGELOG.md	f7d4a36366aad60154b377a672b7475a
+M	README.md	c24f2fcb47d63cdcc707c06173777d45
+M	behat.yml.dist	9fbbb1c447ebe874ae91e4f64dad82d4
+M	docs/content/developer-documentation.rst	3d70e5edd85813439489ccf9f41d68da
+M	docs/content/field-group.rst	b6a3e7443ffdae085c4f31ab5674cbb8
+M	docs/content/field-templates.rst	e958df6e7058860e4e4592e053352359
+M	docs/content/layout-plugin.rst	b1244ef06357feaca92ac55c26c7c4a6
+M	docs/content/patterns-definition.rst	f35e9810bbe6382f19fed09a0ff47527
+A	docs/content/tests.rst	eb5be441e668ff3a12d633c5f52324c3
+A	docs/images/developer-3.png	7fcd5dad32f76868dabcb673e54885f2
+M	docs/index.rst	0a4b6be026168fb35d0fc37a37acd320
+M	modules/ui_patterns_ds/ui_patterns_ds.info.yml	844f85f912d5d8f455be3a6f7444d69d
+M	modules/ui_patterns_field_group/ui_patterns_field_group.info.yml	e37e1c07087070250e5464fb8fcf7d65
+M	modules/ui_patterns_layouts/ui_patterns_layouts.info.yml	f3cf728fce9dc82a07d60d16088a1799
+M	modules/ui_patterns_views/ui_patterns_views.info.yml	ca6a7bc024e732f28b9d369935006b4c
+M	src/Element/PatternPreview.php	f85e67209aadc2203efc7113fc33dfc6
+A	src/Template/TwigExtension.php	287bcba965e906f0fec6529f4ffd8e88
+M	src/UiPatternsValidation.php	21511f09ea483a1d5dec378d317af7f3
+M	tests/README.md	19cfe9fa3ed7a6cf432b5b41061ca7ed
+A	tests/composer.json	515f0363b8cced4a8bfc2f4b9d40432b
+M	tests/features/content.feature	6c402136f6d77a54d8f623e6e923e0b3
+M	tests/features/setup.feature	4c13715684d749d6c40b5bf2305f93b3
+M	tests/src/PhpUnit/AbstractUiPatternsTest.php	854dffeb4d3318fb62807e0fb22b5980
+A	tests/src/PhpUnit/PatternPreviewTest.php	57eb294f4f9eb0220459ed9dd1cbdf21
+M	tests/src/PhpUnit/UiPatternsManagerTest.php	20a5b4ed43ad656c49b356afdee0769c
+D	tests/src/PhpUnit/bad_definitions.ui_patterns.yml	
+A	tests/src/PhpUnit/fixtures/preview_markup.yml	2e889a00e971e956433dc954e4616441
+A	tests/src/PhpUnit/fixtures/validation.yml	383870b5b20d02ee752dbb766a7ea6ff
+D	tests/target/composer.json	
+D	tests/target/custom/ui_patterns_test/composer.json	
+D	tests/target/custom/ui_patterns_test/config/install/core.entity_form_display.node.article.default.yml	
+D	tests/target/custom/ui_patterns_test/config/install/core.entity_form_display.paragraph.jumbotron.default.yml	
+D	tests/target/custom/ui_patterns_test/config/install/core.entity_view_display.node.article.default.yml	
+D	tests/target/custom/ui_patterns_test/config/install/core.entity_view_display.node.article.full.yml	
+D	tests/target/custom/ui_patterns_test/config/install/core.entity_view_display.paragraph.jumbotron.default.yml	
+D	tests/target/custom/ui_patterns_test/config/install/ds.settings.yml	
+D	tests/target/custom/ui_patterns_test/config/install/field.field.node.article.field_links.yml	
+D	tests/target/custom/ui_patterns_test/config/install/field.field.node.article.field_paragraphs.yml	
+D	tests/target/custom/ui_patterns_test/config/install/field.field.paragraph.jumbotron.field_subtitle.yml	
+D	tests/target/custom/ui_patterns_test/config/install/field.field.paragraph.jumbotron.field_title.yml	
+D	tests/target/custom/ui_patterns_test/config/install/field.storage.node.field_links.yml	
+D	tests/target/custom/ui_patterns_test/config/install/field.storage.node.field_paragraphs.yml	
+D	tests/target/custom/ui_patterns_test/config/install/field.storage.paragraph.field_subtitle.yml	
+D	tests/target/custom/ui_patterns_test/config/install/field.storage.paragraph.field_title.yml	
+D	tests/target/custom/ui_patterns_test/config/install/paragraphs.paragraphs_type.jumbotron.yml	
+D	tests/target/custom/ui_patterns_test/config/install/system.theme.global.yml	
+D	tests/target/custom/ui_patterns_test/config/install/system.theme.yml	
+D	tests/target/custom/ui_patterns_test/config/install/views.view.articles.yml	
+D	tests/target/custom/ui_patterns_test/src/Form/PatternDisplayTestForm.php	
+D	tests/target/custom/ui_patterns_test/src/Plugin/UiPatterns/Source/TestSource.php	
+D	tests/target/custom/ui_patterns_test/templates/blockquote-custom.html.twig	
+D	tests/target/custom/ui_patterns_test/templates/metadata.html.twig	
+D	tests/target/custom/ui_patterns_test/ui_patterns_test.features.yml	
+D	tests/target/custom/ui_patterns_test/ui_patterns_test.info.yml	
+D	tests/target/custom/ui_patterns_test/ui_patterns_test.install	
+D	tests/target/custom/ui_patterns_test/ui_patterns_test.routing.yml	
+D	tests/target/custom/ui_patterns_test/ui_patterns_test.ui_patterns.yml	
+D	tests/target/custom/ui_patterns_test_theme/composer.json	
+D	tests/target/custom/ui_patterns_test_theme/css/patterns-overview.css	
+D	tests/target/custom/ui_patterns_test_theme/templates/blockquote-custom.html.twig	
+D	tests/target/custom/ui_patterns_test_theme/templates/page.html.twig	
+D	tests/target/custom/ui_patterns_test_theme/templates/patterns/button/button.ui_patterns.yml	
+D	tests/target/custom/ui_patterns_test_theme/templates/patterns/button/pattern-button.html.twig	
+D	tests/target/custom/ui_patterns_test_theme/templates/patterns/media/media.ui_patterns.yml	
+D	tests/target/custom/ui_patterns_test_theme/templates/patterns/media/pattern-media.html.twig	
+D	tests/target/custom/ui_patterns_test_theme/templates/patterns/modal/modal-template.html.twig	
+D	tests/target/custom/ui_patterns_test_theme/templates/patterns/pattern-carousel.html.twig	
+D	tests/target/custom/ui_patterns_test_theme/templates/patterns/pattern-jumbotron.html.twig	
+D	tests/target/custom/ui_patterns_test_theme/templates/patterns/patterns-meta-information.html.twig	
+D	tests/target/custom/ui_patterns_test_theme/templates/patterns/patterns-overview-page.html.twig	
+D	tests/target/custom/ui_patterns_test_theme/templates/patterns/patterns-single-page.html.twig	
+D	tests/target/custom/ui_patterns_test_theme/ui_patterns_test_theme.info.yml	
+D	tests/target/custom/ui_patterns_test_theme/ui_patterns_test_theme.libraries.yml	
+D	tests/target/custom/ui_patterns_test_theme/ui_patterns_test_theme.theme	
+D	tests/target/custom/ui_patterns_test_theme/ui_patterns_test_theme.ui_patterns.yml	
+A	tests/ui_patterns_test/composer.json	c82589524e8c0db07ce34fcc82fb79b9
+A	tests/ui_patterns_test/config/install/core.entity_form_display.node.article.default.yml	ae5e058008b90904785ef5be7a5f2c00
+A	tests/ui_patterns_test/config/install/core.entity_form_display.paragraph.jumbotron.default.yml	77bcb3482c40cce98ce7c8a137f43947
+A	tests/ui_patterns_test/config/install/core.entity_view_display.node.article.default.yml	35f9276f89dcaad9762795ab5dd6cf7c
+A	tests/ui_patterns_test/config/install/core.entity_view_display.node.article.full.yml	00f2131e91995ffd26041d3ae090a2b6
+A	tests/ui_patterns_test/config/install/core.entity_view_display.paragraph.jumbotron.default.yml	5b186ff933d9c71583118fab2a2e937e
+A	tests/ui_patterns_test/config/install/ds.settings.yml	8f53013d0136c53c746f0cb10865f958
+A	tests/ui_patterns_test/config/install/field.field.node.article.field_links.yml	6baa01f232a59c1dad9095ce2d23dad3
+A	tests/ui_patterns_test/config/install/field.field.node.article.field_paragraphs.yml	ab065f1ad78224cf54e3e8af2b813a7c
+A	tests/ui_patterns_test/config/install/field.field.paragraph.jumbotron.field_subtitle.yml	ac20ded77ebf49bb93a35ea215e8aedc
+A	tests/ui_patterns_test/config/install/field.field.paragraph.jumbotron.field_title.yml	9d749564fc3177da8ac0f7f5b6b594f1
+A	tests/ui_patterns_test/config/install/field.storage.node.field_links.yml	1779036ca37df971d73b72dc4bde29cf
+A	tests/ui_patterns_test/config/install/field.storage.node.field_paragraphs.yml	82e8f61b75ccbf99ec98a7872304c366
+A	tests/ui_patterns_test/config/install/field.storage.paragraph.field_subtitle.yml	a2a2d871b6e2d38f7c949270326d4b48
+A	tests/ui_patterns_test/config/install/field.storage.paragraph.field_title.yml	0126b82c6d0108c459f58a204837dd32
+A	tests/ui_patterns_test/config/install/paragraphs.paragraphs_type.jumbotron.yml	929e69a5245899f81f5c1804341bb43e
+A	tests/ui_patterns_test/config/install/system.theme.global.yml	a0f7dd34f6a511756d77484b74b0814d
+A	tests/ui_patterns_test/config/install/system.theme.yml	1640cf9ab3fea972c63c93f675f73fad
+A	tests/ui_patterns_test/config/install/views.view.articles.yml	df0406b15a9d2a3b40983d20f84e1fcc
+A	tests/ui_patterns_test/src/Controller/TestController.php	16c3205ec4683a8c0057669659642e7e
+A	tests/ui_patterns_test/src/Form/PatternDisplayTestForm.php	5be9fbad6d88b5c8971c1e5760d207e8
+A	tests/ui_patterns_test/src/Plugin/UiPatterns/Source/TestSource.php	23b585a364bdfc41371ee992f985133c
+A	tests/ui_patterns_test/templates/blockquote-custom.html.twig	3d0ed5c37b89166fc20c5f860f2d309b
+A	tests/ui_patterns_test/templates/metadata.html.twig	4a1c292b821243cd619b9e739fa066e1
+A	tests/ui_patterns_test/templates/patterns-test-page.html.twig	a7c8c8339e55d4aa54c499e0643eca38
+A	tests/ui_patterns_test/ui_patterns_test.features.yml	d83ccb7b9fe09f0ce392e817f2095a65
+A	tests/ui_patterns_test/ui_patterns_test.info.yml	79dc84031136c09e2aecc7b83f3d2a02
+A	tests/ui_patterns_test/ui_patterns_test.install	5f670e37d9f1d90e32e7f86807e9ca9d
+A	tests/ui_patterns_test/ui_patterns_test.module	74cfd34089dec69a1d2385f78846e1f9
+A	tests/ui_patterns_test/ui_patterns_test.routing.yml	3d528caba3b9820080ccdcc63667b55c
+A	tests/ui_patterns_test/ui_patterns_test.ui_patterns.yml	b256d2f0a116a2ce2bc97c0c5a90582d
+A	tests/ui_patterns_test_theme/composer.json	de2f3ed76ce0808e318449b4720b95f8
+A	tests/ui_patterns_test_theme/css/patterns-overview.css	89575abcee7ffe751bae62d3441281ed
+A	tests/ui_patterns_test_theme/templates/blockquote-custom.html.twig	483efd6acbcbe67993312963d332d545
+A	tests/ui_patterns_test_theme/templates/page.html.twig	db97a156cdfebbf017a24668ffb7867a
+A	tests/ui_patterns_test_theme/templates/patterns/button/button.ui_patterns.yml	90d02520a9c2c59ce52af66caf7ff3b3
+A	tests/ui_patterns_test_theme/templates/patterns/button/pattern-button.html.twig	f527e493765fbf7a18539654e602bc5a
+A	tests/ui_patterns_test_theme/templates/patterns/media/media.ui_patterns.yml	ea0600032332756950817c2e818bb650
+A	tests/ui_patterns_test_theme/templates/patterns/media/pattern-media.html.twig	24416e4697c2057b212d8eca3c4034de
+A	tests/ui_patterns_test_theme/templates/patterns/modal/modal-template.html.twig	8a8c563801967ef14f73b7e5b4a82f87
+A	tests/ui_patterns_test_theme/templates/patterns/pattern-card.html.twig	e8ebbb107b8924da97f6164f61321cad
+A	tests/ui_patterns_test_theme/templates/patterns/pattern-carousel.html.twig	dcf25b5667d18af45c80a16219999c31
+A	tests/ui_patterns_test_theme/templates/patterns/pattern-image.html.twig	e51eee6c5d1b4d2e0d2b630a8ca28f72
+A	tests/ui_patterns_test_theme/templates/patterns/pattern-jumbotron.html.twig	884a0391658313c1a8c1aca3e6ed360a
+A	tests/ui_patterns_test_theme/templates/patterns/patterns-meta-information.html.twig	cc2fd63b11ed6098efbf73913d6ff85d
+A	tests/ui_patterns_test_theme/templates/patterns/patterns-overview-page.html.twig	a80a10ee52f752baaa38cc99c21ad8b0
+A	tests/ui_patterns_test_theme/templates/patterns/patterns-single-page.html.twig	541743d548c3c9b34b6f63dbdcc46829
+A	tests/ui_patterns_test_theme/ui_patterns_test_theme.info.yml	ed9cee6f1ee0f35774fd3d8a0ad86234
+A	tests/ui_patterns_test_theme/ui_patterns_test_theme.libraries.yml	7cc89e7eb21fb0ba8847efa22f401f90
+A	tests/ui_patterns_test_theme/ui_patterns_test_theme.theme	87639e7d62d7db2639549f323f83af34
+A	tests/ui_patterns_test_theme/ui_patterns_test_theme.ui_patterns.yml	60f9b41b5c110258d62b0d34b5b58af8
+M	ui_patterns.info.yml	26adef083f54297cf2ccccd3ef042d05
+M	ui_patterns.services.yml	d8a8c97fc7e73dd3ed20cc1c03ca1136

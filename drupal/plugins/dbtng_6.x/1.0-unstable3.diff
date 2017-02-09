@@ -1,0 +1,15 @@
+M	README.txt	5c5fe0ce3f485135667ef36e05d9f7ed
+M	database/database.inc	0baef76de3b41f608a09ea3f3122d0ee
+M	database/mysql/database.inc	da9740b56b65d6244712d993426ad63a
+M	database/mysql/query.inc	8a91af57372dfd74a216b4a33e5950be
+M	database/mysql/schema.inc	f5a0f49e58f5d614b7e3763c4b876ca0
+M	database/pgsql/database.inc	f119b24712e74f45d4009f779e045775
+M	database/pgsql/schema.inc	9b47b622e196b3ac6ba9768432d6dc04
+M	database/prefetch.inc	2d01c544654f0b2f10d701b001155b9c
+M	database/query.inc	53fcec8ecf14e503d48f29b0f041d3cc
+M	database/schema.inc	fbc89d7e97bbdf9a306244ab767f3283
+M	database/select.inc	0a55e1737f248b276441699e05a7a18d
+M	database/sqlite/query.inc	c165ce0147a9b0ab73d3815b9953c1d7
+M	database/sqlite/schema.inc	4ed477e39a0b95dd41166569cc854798
+M	dbtng.info	97a1af00151584eb1f314370da37075e
+M	dbtng.module	ba0c0ea9b9ac7cea90a218e18f89f43e

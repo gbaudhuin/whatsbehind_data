@@ -1,17 +1,17 @@
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-D	README.txt	
 M	dhtml_menu.admin.inc	1c83963e9a73a03592d81e2f0956013e
-A	dhtml_menu.css	ecbfb54d8ce40f368fe33f0307d665a7
+M	dhtml_menu.css	ecbfb54d8ce40f368fe33f0307d665a7
 M	dhtml_menu.info	f5e4ac29266278c7828ddf07bfca86ed
 M	dhtml_menu.install	6041ef7b014447ff70e4361229f2f5f1
 M	dhtml_menu.js	f50069528c4b96757b69d0f92087e1c3
 M	dhtml_menu.module	c5abecc189fe4542cf1f3e7dd093b6b4
-D	dhtml_menu.theme.inc	
-D	po/de.po	
-D	po/dhtml_menu.pot	
-D	po/eo.po	
-D	po/fr.po	
-D	po/hu.po	
-D	po/ja.po	
-D	po/ru.po	
-D	po/sv.po	
+D	translations/de.po	
+D	translations/dhtml_menu.pot	
+D	translations/eo.po	
+D	translations/es.po	
+D	translations/fr.po	
+D	translations/nl.po	
+D	translations/pl.po	
+D	translations/sv.po	
+D	translations/uk-ua.po	
+D	translations/uk.po	

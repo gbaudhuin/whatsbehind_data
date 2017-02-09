@@ -1,0 +1,12 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	config/install/subpathauto.settings.yml	af4569436f25dddb1bab4e177585e89b
+A	config/schema/subpathauto.schema.yml	8ec6c6bff27e7bc3405936d4bb706fc9
+A	src/Form/SettingsForm.php	b4c835ad8372ed3c06bc6465a71a4a66
+A	src/PathProcessor.php	2f86a1afca784a315d4b321741e646cb
+A	subpathauto.info.yml	7fc33b1eb1603e2c255ed2bfbc3e466d
+A	subpathauto.links.task.yml	ad27c652247723c90a3a4ddde5682750
+A	subpathauto.routing.yml	2a5b6bad1e229a1aaa1a43c73d78c7b9
+A	subpathauto.services.yml	4715132c3cc79271379aaf9c9893404c
+A	tests/src/Functional/SubPathautoFunctionalTest.php	29e629e37ab01980f4dc2089237b0eba
+A	tests/src/Kernel/SubPathautoKernelTest.php	984df30007bbd43a482cc4ce0781beb6
+A	tests/src/Unit/SubPathautoTest.php	8d0dbd9923a2945e1c2145a41e9a73df

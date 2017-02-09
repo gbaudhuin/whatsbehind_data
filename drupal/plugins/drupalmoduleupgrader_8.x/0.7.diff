@@ -42,6 +42,7 @@ M	src/Plugin/DMU/Converter/Functions/DB.php	1ebfcb5848bb8f6c9cb0dd7d1d7c71c9
 M	src/Plugin/DMU/Converter/Functions/DBDeriver.php	4ae5c52dc21cd258c63411e7cd8cf39a
 M	src/Plugin/DMU/Converter/Functions/DisableDeriver.php	53f74aa2ac8d8996b3eff377121adb5a
 A	src/Plugin/DMU/Converter/Functions/DrupalGetTitle.php	b5b5c782da487417ec2a03afd95b46ea
+A	src/Plugin/DMU/Converter/Functions/DrupalIsCLI.php	64250617c00f9d0ad7f2ada17551e1a2
 M	src/Plugin/DMU/Converter/Functions/DrupalWriteRecord.php	26619d8ca086d30d8695399e882cc36a
 M	src/Plugin/DMU/Converter/Functions/EntityCreate.php	bde856c4a3efed8ce8f99bc38b062d22
 M	src/Plugin/DMU/Converter/Functions/EntityGetInfo.php	123fef60d718ba551351d7dad1648d36
@@ -63,6 +64,7 @@ M	src/Plugin/DMU/Converter/Functions/FormStateValuesClean.php	76527cc0e06d0e5f15
 M	src/Plugin/DMU/Converter/Functions/FunctionCallModifier.php	b29cf645f753cb05824098c9c39b30fd
 M	src/Plugin/DMU/Converter/Functions/L.php	930a516c785735a8f8537b95bc9bb593
 D	src/Plugin/DMU/Converter/Functions/LanguageDefault.php	
+D	src/Plugin/DMU/Converter/Functions/LanguageList.php	
 D	src/Plugin/DMU/Converter/Functions/LanguageURLFallback.php	
 D	src/Plugin/DMU/Converter/Functions/LanguageURLSplitPrefix.php	
 A	src/Plugin/DMU/Converter/Functions/LoadMultiple.php	008594561d01b6ccd3fb4f867be72a69

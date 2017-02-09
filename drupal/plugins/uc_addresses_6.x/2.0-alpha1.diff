@@ -1,51 +1,27 @@
 M	CHANGELOG.txt	31622170be90f45a9efb673f8221f742
+M	INSTALL.txt	92b7d67107bdd99421551d06c854c40a
 M	README.txt	1dcad41a1db07efb57ee1ec8c8fd5218
-M	class/Exceptions.inc	e649a41715db362e1cb381ba8af90fcc
-M	class/UcAddressesAddress.class.php	d9eba326d2ba242dc2646c21dbb53465
-M	class/UcAddressesAddressBook.class.php	3ac8a86ebaa79e6626ddaf1e439dc942
-M	class/UcAddressesPermissions.class.php	d912b215ef34ad7e966a5e1fd8c6b047
-M	class/UcAddressesSchemaAddress.class.php	7b6289223db6573c07ffb1dd237ca95d
-M	handlers/UcAddressesFieldHandler.class.php	5714d7c4c6556c24cc9de05b1ea39f3f
-M	handlers/ubercart.handlers.inc	19f7c75c60c9cc4baccc85043cadaea5
-M	handlers/uc_addresses.handlers.inc	407386599a4dfdb5ac506f9e34e55670
-M	templates/uc-addresses-address-book.tpl.php	f603e114960aaf9a70b6477a1c9449a5
-M	templates/uc-addresses-form.tpl.php	119d62fcf53645b7d0736fd512f8ca3d
-M	templates/uc-addresses-list-address.tpl.php	c5714931d44e16dcda2790a00ec22d4f
-D	tests/UcAddressesTestCase.test	
-D	tests/handlers/uc_addresses.handlers.inc	
-D	tests/uc_addresses.addressbook.test	
-D	tests/uc_addresses.api.test	
-D	tests/uc_addresses.checkout.test	
-D	tests/uc_addresses.order.test	
-D	tests/uc_addresses.register.test	
-D	tests/uc_addresses.test.test	
-D	tests/uc_addresses.views.test	
-D	tests/uc_addresses_test.info	
-D	tests/uc_addresses_test.install	
-D	tests/uc_addresses_test.module	
+D	TODO.txt	
+A	class/Exceptions.inc	e649a41715db362e1cb381ba8af90fcc
+A	class/UcAddressesAddress.class.php	d9eba326d2ba242dc2646c21dbb53465
+A	class/UcAddressesAddressBook.class.php	3ac8a86ebaa79e6626ddaf1e439dc942
+A	class/UcAddressesPermissions.class.php	d912b215ef34ad7e966a5e1fd8c6b047
+A	class/UcAddressesSchemaAddress.class.php	7b6289223db6573c07ffb1dd237ca95d
+A	handlers/UcAddressesFieldHandler.class.php	5714d7c4c6556c24cc9de05b1ea39f3f
+A	handlers/ubercart.handlers.inc	19f7c75c60c9cc4baccc85043cadaea5
+A	handlers/uc_addresses.handlers.inc	407386599a4dfdb5ac506f9e34e55670
+A	templates/uc-addresses-address-book.tpl.php	f603e114960aaf9a70b6477a1c9449a5
+A	templates/uc-addresses-form.tpl.php	119d62fcf53645b7d0736fd512f8ca3d
+A	templates/uc-addresses-list-address.tpl.php	c5714931d44e16dcda2790a00ec22d4f
 M	uc_addresses.admin.inc	667dd5342fa554edc74819b799be9183
-M	uc_addresses.api.php	59ba29212cd208e6b08b35ce537b9675
+A	uc_addresses.api.php	59ba29212cd208e6b08b35ce537b9675
 M	uc_addresses.css	1b42a2b8e77dff2b15adf13a2b46755c
 M	uc_addresses.info	696e09a4ff010255fc6e85ae1ffd3de9
 M	uc_addresses.install	2bb783d9165ffc251e56ac4b19db30e3
 M	uc_addresses.js	17368d525b05d1130dd91f0c304a700d
 M	uc_addresses.module	fc6d3763ade631e3a45a06eeb40f4e6b
-M	uc_addresses.pages.inc	bb9b13ce6fcaab67ae3b4dfefd84f480
-M	uc_addresses.tokens.inc	4d1663be4a846e16848a46549b8410b5
-M	uc_addresses.ubercart.inc	56cbf372903056089b8ae7c98569b7d3
-M	uc_addresses.uc_addresses_fields.inc	ad719bd7eba566eb4433b8899d2a8aeb
-D	uc_addresses_example/README.txt	
-D	uc_addresses_example/handlers/uc_addresses.handlers.inc	
-D	uc_addresses_example/uc_addresses_example.info	
-D	uc_addresses_example/uc_addresses_example.install	
-D	uc_addresses_example/uc_addresses_example.module	
-D	views/uc_addresses.views.inc	
-D	views/uc_addresses.views_default.inc	
-D	views/uc_addresses_handler_field_uc_addresses_link.inc	
-D	views/uc_addresses_handler_field_uc_addresses_link_delete.inc	
-D	views/uc_addresses_handler_field_uc_addresses_link_edit.inc	
-D	views/uc_addresses_handler_filter_access.inc	
-D	views/uc_addresses_views_access.inc	
-D	views/uc_addresses_views_plugin_argument_address_access.inc	
-D	views/uc_addresses_views_plugin_argument_user_address_access.inc	
-D	views/uc_addresses_views_plugin_row_address_view.inc	
+A	uc_addresses.pages.inc	bb9b13ce6fcaab67ae3b4dfefd84f480
+A	uc_addresses.tokens.inc	4d1663be4a846e16848a46549b8410b5
+A	uc_addresses.ubercart.inc	56cbf372903056089b8ae7c98569b7d3
+A	uc_addresses.uc_addresses_fields.inc	ad719bd7eba566eb4433b8899d2a8aeb
+D	uc_addresses_address_pane.inc	

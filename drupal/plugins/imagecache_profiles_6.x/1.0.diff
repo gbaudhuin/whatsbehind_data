@@ -1,7 +1,4 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	b0c42c497706c25584765a01227ebfe7
-M	imagecache_profiles.info	2f65b3f6f0269cee02b51f7b5e69a78e
-D	imagecache_profiles.install	
-M	imagecache_profiles.module	2b9ba1b6c9093a9a7018c49e6ee79734
-D	views/imagecache_profiles.views.inc	
-D	views/imagecache_profiles_handler_field_user_picture.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	b0c42c497706c25584765a01227ebfe7
+A	imagecache_profiles.info	2f65b3f6f0269cee02b51f7b5e69a78e
+A	imagecache_profiles.module	2b9ba1b6c9093a9a7018c49e6ee79734

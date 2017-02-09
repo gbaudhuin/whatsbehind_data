@@ -1,20 +1,54 @@
 M	.gitignore	40f4378a098975188586d3086517e02e
 A	CHANGELOG	713ab4c88664ffb329f7d75bd57d7166
 M	components/block.inc	fd715796dd52fa19f683328afb3694cc
+A	components/color.inc	5d0dd27c5943ab259206e58540af88e0
 A	components/field.inc	51173c4006b99b3237f2d50342dd620e
 M	components/menu.inc	3440b6fda035f40985001c241d5828a3
 A	components/node.inc	e206f5c792fdcd0b4b1782783036076f
+A	components/pathauto.inc	2c8704c447045934fde5625570caaaba
+D	components/patterns.color.inc	
 D	components/patterns.field.inc	
 D	components/patterns.node.inc	
+D	components/patterns.pathauto.inc	
+D	components/patterns.shortcut.inc	
 D	components/patterns.taxonomy.inc	
+D	components/patterns.toolbar.inc	
+A	components/shortcut.inc	292de40f32b5be64313adfea7e31c12e
 M	components/system.inc	c2f8c77a2d59902580046a39871eecb7
 A	components/taxonomy.inc	eceed74ad32538c4a664f974f1d0fa72
+A	components/toolbar.inc	d52e1e41aba119e3589d540ba37e2cb5
 M	components/user.inc	ceabe721f15e461c74d080abab3e46cb
 M	doc/patterns.html	d708f3273559bf2b5be5f132686993a6
 M	doc/patterns.txt	35a773380f55fe8bbb728d4cf868f4a4
+A	includes/config.inc	bd3993f94a069296468de8da0cad76ca
+A	includes/core.batch.inc	58c73e13b30aeb25fd44d5cd9450cdb3
+A	includes/core.common.inc	55119e19f404aa839400f5ae7333db91
+A	includes/core.php.inc	5a1dccd78ac1cd06b8b606262bbeef41
+A	includes/db.inc	656eb8092d93d136a77cb4f98adedb9b
+A	includes/editor.inc	955b1efcfc6e0dbb37a393acfaca0b7f
+A	includes/error.inc	5782867156835aeeb9dbf2413d26423f
 A	includes/export.inc	a2757d9d87aeb69f841ea83940d3f6de
 A	includes/imports.inc	b5aa9a2c6fa09ce05846fd8146e31070
+A	includes/io.inc	43460d779f2e20628563036bf3fa85d2
+A	includes/parser.inc	025649a1de6489f8a8c77ab9da4003b8
+D	includes/patterns.config.inc	
+D	includes/patterns.core.batch.inc	
+D	includes/patterns.core.common.inc	
+D	includes/patterns.core.php.inc	
+D	includes/patterns.db.inc	
+D	includes/patterns.editor.inc	
+D	includes/patterns.error.inc	
 D	includes/patterns.imports.inc	
+D	includes/patterns.io.inc	
+D	includes/patterns.parser.inc	
+D	includes/patterns.servers.inc	
+D	includes/patterns.theme.inc	
+D	includes/patterns.unused.inc	
+D	includes/patterns.utils.inc	
+A	includes/servers.inc	8286303b6d4df92cc4d4c4e5432081a2
+A	includes/theme.inc	aa266eded2bf923478ab0889892aa4f0
+A	includes/unused.inc	f710a51a0ba1b81ef6447c292fe07504
+A	includes/utils.inc	ef49ff86c8b2132539ef715dee33d476
 A	patterns.drush.inc	ae52290081aed6c1a49f78a45fb65865
 M	patterns.info	7672532b5ee2e5a76238fee5e27284c0
 M	patterns.install	70f2ae74720c5ff6a97386f5d4f7fba0
@@ -28,7 +62,15 @@ A	patterns/node_delete.yaml	a21671826a37c441a7cf74f441022caf
 M	patterns/theme.yaml	f2a21bee5d73b611fd424ec235146b8e
 M	patterns/user_role.yaml	d356da527abbc845a9e1a15557d86744
 M	tests/block/block.test	4c615bf560be805384e2ca508d79450f
+A	tests/color/color.test	e14c5c7d19b9082bb7e6d527c11e770b
+D	tests/color/patterns.color.test	
+A	tests/field/field.test	a6efc2c6497bd1248677f3c5e750ebf7
+D	tests/field/patterns.field.test	
+A	tests/importing/importing.test	f2b6cd4bcd59e0358e4425c2440797d1
+D	tests/importing/patterns.importing.test	
+A	tests/menu/menu.test	ef956dd1b91c3ffbe16e3c24fe244dfa
 M	tests/menu/menu_item_delete.yaml	43fcf3bc6947946708d1d2bb24411969
+D	tests/menu/patterns.menu.test	
 M	tests/node/content.test	3a9a5def6626a54d91cce73ef0c378e0
 A	tests/node/node.test	bf1ccc0fbe6511e2d0f6a07a446c1a73
 A	tests/node/node_delete.yaml	a21671826a37c441a7cf74f441022caf
@@ -36,6 +78,8 @@ A	tests/parser/invalid/patterns.parser_missing_actions.yaml	269aa35ada72817c7a14
 A	tests/parser/invalid/patterns.parser_misspelled_tag.yaml	cf38ee491e1c12447457eb1a13bc18b0
 A	tests/parser/parser.test	d5b421df430c44804c5e135e0d469e03
 A	tests/parser/valid/patterns.parser_ok.yaml	40486cf7aa56f05b4b00c250d7523a4b
+A	tests/pathauto/pathauto.test	47b5f7cedfe805248957448f335c6bfe
+D	tests/pathauto/patterns.pathauto.test	
 M	tests/patterns.test	cd91066af3f17078d332390670bd71f9
 A	tests/shortcut/shortcut.test	37c226855341accac77bfd4ba139118f
 A	tests/shortcut/shortcut_add_link.yaml	e5474b8273dfdc3e6ddb2d37cb4b78ff
@@ -48,3 +92,7 @@ A	tests/shortcut/shortcut_set_switch.yaml	fffca21691c5d1f80708eca84fa9d247
 A	tests/system/fill_forms.yaml	620af77d4b355e18fef22b853853dcc5
 M	tests/system/system.test	190d5a49fef70059c229fc2f39a4a249
 M	tests/system/theme.yaml	5ffe5b922d05300d48560bf0ad67e5ee
+D	tests/taxonomy/patterns.taxonomy.test	
+A	tests/taxonomy/taxonomy.test	f0fc60df4f105d88de132e5db2f1a5e6
+D	tests/toolbar/patterns.toolbar.test	
+A	tests/toolbar/toolbar.test	a7d2257159992e7b52f837691cbec2d7

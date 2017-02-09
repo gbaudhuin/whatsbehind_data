@@ -1,7 +1,8 @@
-M	CHANGELOG.txt	4c3cb566a3e7034cf38f82a34b2aee16
-M	README.txt	8584b7b0013bc5cfb31720999db37f9f
-M	workbench_email.admin.inc	1440f33b9a12284e03c59d920d1d8d42
-M	workbench_email.features.inc	4f7686509ee0122cf0d7195a2f7ae89a
-M	workbench_email.info	23203b49c2661720bc5f55dff8e4a1f1
-M	workbench_email.install	697dd70621813290a09a85681223e745
-M	workbench_email.module	f2866d6affb48cc60d68eecf2e6b2875
+A	CHANGELOG.txt	4c3cb566a3e7034cf38f82a34b2aee16
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	8584b7b0013bc5cfb31720999db37f9f
+A	workbench_email.admin.inc	1440f33b9a12284e03c59d920d1d8d42
+A	workbench_email.features.inc	4f7686509ee0122cf0d7195a2f7ae89a
+A	workbench_email.info	23203b49c2661720bc5f55dff8e4a1f1
+A	workbench_email.install	697dd70621813290a09a85681223e745
+A	workbench_email.module	f2866d6affb48cc60d68eecf2e6b2875

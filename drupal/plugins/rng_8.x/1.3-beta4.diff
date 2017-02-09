@@ -1,0 +1,10 @@
+M	composer.json	8d50d1aa77ceb9edc56df2c80e420eb3
+M	css/elements/registrants.layout.css	1117d3ec032e49173f937c069dec0628
+M	rng.field.defaults.inc	d7f93e48a67e483a417ca9c8d539746e
+M	rng.info.yml	73f9491397d1f7ccf0298a2f8c246598
+M	rng_debug/rng_debug.info.yml	7e797509d16229fa4784d3ddf90d1692
+M	rng_views/rng_views.info.yml	a96831fe5682feb2339922d2df097978
+M	sass/elements/registrants.layout.scss	83c47177cf82ffbf7be354e404259428
+M	src/Element/Registrants.php	9e42b1d8262303a8d0875432604beaaa
+M	src/Form/RegistrationForm.php	8906fde2dd29b2ffba0ad08b106875b3
+M	tests/modules/rng_test_views/rng_test_views.info.yml	2b8ac0f049a168e3418e68c4bbec9393

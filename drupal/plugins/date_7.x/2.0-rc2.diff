@@ -1,6 +1,8 @@
 M	CHANGELOG.txt	c1d1f8a4148a6c676431ca19ef1ede31
 M	INSTALL.txt	e6b376544fd593391c82c9f20d0fd1dc
 M	README.txt	93784a6458bcb853ff8394cf6fa28884
+D	api.date.php	
+A	date.api.php	44e738cdd1bbf36472a36822c8fda7cf
 M	date.devel_generate.inc	8b9d6bed244e65baf10862adb375d4ab
 M	date.field.inc	42a80760673ddb6da379186053151e3a
 M	date.info	92117fc831d9fd428c02f1749ad30a38

@@ -14,3 +14,5 @@ M	messaging_twitter/messaging_twitter.info	01b7756258ca8ec274d0a9fa0c542f22
 M	messaging_xmpp/messaging_xmpp.info	26a25f43e932e539a8a6972c9c237467
 M	tests/messaging_api.test	96e64e3a6ff5fa3c148d2617e9005947
 M	tests/messaging_methods.test	dbd2327a0deeedc58955994928f70555
+A	tests/messaging_test_case.inc	87a1e97cfcdb7131b9f17d547b57d8db
+D	tests/messaging_testcase.inc	

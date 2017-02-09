@@ -1,9 +1,2 @@
-A	INSTALL.txt	fa23e755a62a77bb97e118f94f6fdc81
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	78d27d6006d6989197ab545661446c59
-A	securelogin.admin.inc	1b1bdc4b11120ac4ef79a5953d759fea
-A	securelogin.info	9a2a67b69940484f0ce4bb5ed467a476
-A	securelogin.install	d5c9e2ba6d0c7864536ce5246484dd04
-A	securelogin.module	b9f4697f66f51b6ebb7bd6068f8b5c29
-A	securelogin.test	a9d9359c94be74290b214ec97f905101
-A	securelogin.variable.inc	589d0aaf3b0020e488b981cd5d2c2249
+M	securelogin.info	9a2a67b69940484f0ce4bb5ed467a476
+M	securelogin.module	b9f4697f66f51b6ebb7bd6068f8b5c29

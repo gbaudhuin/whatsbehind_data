@@ -10,6 +10,7 @@ M	modules/cart/config/install/views.view.commerce_cart_form.yml	7c738500f491d474
 M	modules/cart/config/install/views.view.commerce_carts.yml	3f52b52f285283b68fe2dd234b6805e3
 D	modules/cart/src/CartAssignment.php	
 D	modules/cart/src/CartAssignmentInterface.php	
+D	modules/cart/src/Event/CartAssignEvent.php	
 M	modules/cart/src/Event/CartEvents.php	aef5cb4bf1a5bf68ddbd2302fe626052
 M	modules/cart/src/Plugin/Block/CartBlock.php	28a44a7057ef057ac2d37c3844b7e0f6
 M	modules/cart/tests/modules/commerce_cart_test/commerce_cart_test.info.yml	c423bc2a8735cb1c4578b9b95461cd03
@@ -28,6 +29,7 @@ M	modules/order/config/install/field.field.commerce_order.default.order_items.ym
 M	modules/order/config/install/views.view.commerce_order_item_table.yml	9e2d2b8010e87261ef48d378cf87f2f8
 M	modules/order/config/install/views.view.commerce_orders.yml	5fac87e828388581f85158d075727299
 M	modules/order/config/install/views.view.commerce_user_orders.yml	85565832c76757e7a81066c387712432
+A	modules/order/src/Event/OrderAssignEvent.php	50c1b439d76d91e14233c886e63ed9e2
 M	modules/order/src/Event/OrderEvents.php	9dd53a19ed0d0db513a6de15c460bc9c
 M	modules/order/src/Form/OrderAddForm.php	301b14784c9a51469ef95d77b8720fde
 M	modules/order/src/Form/OrderReassignForm.php	6e0930c668fae4255ef4ce10f02993a5
@@ -46,6 +48,14 @@ M	modules/price/commerce_price.views.inc	bfca591b7f0d9a50496479fd842c8012
 M	modules/price/tests/modules/commerce_price_test/commerce_price_test.info.yml	f41535539bb49f54a3f58eb3cb40677e
 M	modules/product/commerce_product.info.yml	01c456c4a33688c3d7d946024820a584
 M	modules/product/config/install/commerce_product.commerce_product_variation_type.default.yml	d6a2fb84e244d5d21ea53812d0bf7c2a
+A	modules/product/config/optional/commerce_order.commerce_order_item_type.default.yml	8238f5ae422b9f68a9657e4259dbc3f0
+D	modules/product/config/optional/commerce_order.commerce_order_item_type.product_variation.yml	
+A	modules/product/config/optional/core.entity_form_display.commerce_order_item.default.add_to_cart.yml	ec1da33ccbbef90dbfe044bdca2a1e89
+A	modules/product/config/optional/core.entity_form_display.commerce_order_item.default.default.yml	64a85a27bedc3655cdd499e84d0f82c1
+D	modules/product/config/optional/core.entity_form_display.commerce_order_item.product_variation.add_to_cart.yml	
+D	modules/product/config/optional/core.entity_form_display.commerce_order_item.product_variation.default.yml	
+A	modules/product/config/optional/core.entity_view_display.commerce_order_item.default.default.yml	a7da026404e84175def4ca60f967d7b5
+D	modules/product/config/optional/core.entity_view_display.commerce_order_item.product_variation.default.yml	
 M	modules/product/config/schema/commerce_product.schema.yml	505c0586f567a0a9a7b18ba78e61ea19
 M	modules/product/src/Form/ProductVariationTypeForm.php	01500236b99252073d4079fd07a3702d
 M	modules/product/src/Plugin/Field/FieldWidget/ProductVariationAttributesWidget.php	c90ad2451738a40a72d9d26c4d376b4b

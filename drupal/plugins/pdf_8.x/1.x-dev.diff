@@ -3,9 +3,10 @@ A	css/pdf.css	2af9fb30723fa67d0396647934466f5a
 A	js/acrobat_detection.js	ff9a41a8a73ba4c5fb78198415aa3126
 A	js/default.js	f0f7bce3759688368b2698bf3579debf
 A	js/pdf.js	41f50e3a3f8b1448909de352131a4b87
-A	pdf.info.yml	8c374c5e24c6ef80654c19377c02a26e
+A	pdf.info.yml	6710fbe49bd25acdb9fdeccae62972e7
 A	pdf.libraries.yml	63b07cdcfe5784f78317a22e446515c5
-A	pdf.module	e6f2a0434dbe2e94751ca31ca307b39c
-A	src/Plugin/Field/FieldFormatter/PdfDefault.php	9abe7fa3cfc98a1fc9dab4b175344f1d
-A	src/Plugin/Field/FieldFormatter/PdfPages.php	5743799a81897dacc26fb1436b514f77
-A	src/Plugin/Field/FieldFormatter/PdfThumbnail.php	e95171d66554c80b60f72a3bdacd0e4a
+A	pdf.module	56dc6b2583ca8dc1e9e200cadccd51a1
+A	src/Plugin/Field/FieldFormatter/PdfDefault.php	333d1d058cbcdf724dce06a9cdd622d8
+A	src/Plugin/Field/FieldFormatter/PdfPages.php	452b54754f29f770671272aaff7209d4
+A	src/Plugin/Field/FieldFormatter/PdfThumbnail.php	0a170e2e02becdebfd4107472a91a820
+A	templates/file-pdf.html.twig	8710a130cc24da68bf2f6a0108ebfdac

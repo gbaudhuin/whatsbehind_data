@@ -67,6 +67,7 @@ A	tests/feeds_mapper_locale.test	c46c84280d921c0f7b6ddf542481b473
 A	tests/feeds_mapper_og.test	a99a9f3cb29de2d4f7ead0870fd0f709
 M	tests/feeds_mapper_profile.test	9358ed87305fed0f724fb6ce86331112
 M	tests/feeds_mapper_taxonomy.test	a77f048668f206a86891a29498204ba0
+D	tests/feeds_parser_csv.test	
 A	tests/feeds_parser_sitemap.test	5387fadc6fc9ab529504f08884c9583a
 A	tests/feeds_parser_syndication.test	f2afd9facf902b9896dd7ba560c024a4
 A	tests/feeds_processor_data.test	78f034d4fc4aa91a71e4188f87db00d7
@@ -74,3 +75,4 @@ A	tests/feeds_processor_node.test	bee116ad0621f97e94a6e41e7ca3a1b2
 A	tests/feeds_processor_term.test	230eb71db4c0b41b56c30fc970493969
 A	tests/feeds_processor_user.test	e9ea98e1f1289ae87fd31d166031805d
 A	tests/feeds_scheduler.test	290fbe55e5d9d355eb588e0dd0e840c6
+A	tests/parser_csv.test	7aee39ce18e355e60035c7d8f95c6fc4

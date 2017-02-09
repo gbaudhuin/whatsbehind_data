@@ -1,13 +1,7 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	819964626c58c4a7a7d145fcb5a81ba7
-D	css/admin.css	
-M	css/simplemeta.css	2b3b6a19ed798af9cd18d37a54a8f881
-D	js/admin.js	
+M	README.txt	819964626c58c4a7a7d145fcb5a81ba7
 M	js/simplemeta.js	2edd278d4de178067c99aae2f2cd175b
-A	simplemeta.admin.inc	26cf696011753d2cd91413355b05fd1d
-A	simplemeta.api.php	dd0bfce5ca3e8b982a6b1fa8cbdd4b1d
+M	simplemeta.admin.inc	26cf696011753d2cd91413355b05fd1d
 M	simplemeta.info	172e8a1f367494576a256f6104d20a69
 M	simplemeta.install	b529ba77023e1a1b00997b9c35fa76c1
 M	simplemeta.module	985eb54ae0f4ec3199352a15e041db32
-A	simplemeta.theme.inc	7ffd8a681f3306baa20031b33af64981
-D	templates/modern.tpl.php	
+M	simplemeta.theme.inc	7ffd8a681f3306baa20031b33af64981

@@ -9,7 +9,6 @@ M	modules/ds_switch_view_mode/ds_switch_view_mode.info.yml	74a3e79144203eb72c057
 A	src/DsAttribute.php	75a0dec87db68f4a4c12eb9deb25b7be
 M	src/Form/EmergencyForm.php	53a33f4227256c10b245a52b05faa611
 M	src/Plugin/DsField/BlockBase.php	21f8662d1fc33329644d498d868e1a27
-A	src/Plugin/DsField/Comment/CommentUser.php	e01807b02bcf2ac75ac3ab2362c77365
 M	src/Plugin/DsField/DynamicBlockField.php	9671bff560a1eacbd4af16f0abbe8056
 M	src/Plugin/views/Entity/Render/DefaultLanguageRenderer.php	de2e00102d6737f36ba4a41316ca18a3
 A	src/Tests/BlockFieldPluginTest.php	8d9d661cb13d33c30e10b4e09e949109

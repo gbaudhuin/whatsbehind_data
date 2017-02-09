@@ -1,10 +1,11 @@
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 M	README.txt	21a925588468e5e4a1fef1b37eefad32
+D	poormanscron.admin.inc	
 M	poormanscron.info	6ecca87f98150d511bbb93984f0f59fe
 M	poormanscron.install	d37e25c87ce29acdfa55ac1e832c48fd
-M	poormanscron.js	2dbd9020b151811794256401b138bc17
+A	poormanscron.js	2dbd9020b151811794256401b138bc17
 M	poormanscron.module	736f0ddea0da35e78c75ec126857f3a3
-M	poormanscron.test	da28d3c668f5147b572b38ebe6740f97
+A	poormanscron.test	da28d3c668f5147b572b38ebe6740f97
 A	translations/ca.po	3321f5ef5909b1eac09a2d01d96a36a2
 A	translations/cs.po	e34ca2fa36353ecc365e9beca9f91518
 A	translations/da.po	7a952eaf30ad5f736707494d0f2ade7d

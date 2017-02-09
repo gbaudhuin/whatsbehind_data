@@ -1,35 +1,83 @@
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	canvasactions/imagecache_canvasactions.install	
-D	canvasactions/imagecache_canvasactions.module	
-D	canvasactions/rounded_corners.inc	
-D	coloractions/imagecache_coloractions.module	
-D	coloractions/tests/bright.imagecache_preset.inc	
-D	coloractions/tests/bright.jpg	
-D	coloractions/tests/inverse.imagecache_preset.inc	
-D	coloractions/tests/inverse.jpg	
-D	coloractions/tests/overlay.imagecache_preset.inc	
-D	coloractions/tests/overlay.jpg	
-A	help/textrender_syntax.html	89fe5f8b42b723cddb0db4c831d3198b
-D	imageapi_image_overlay.inc	
-D	imagecache_actions.info	
-M	imagecache_actions.jquery.js	92fec1fc756fa027570838a23e9dd77e
-D	imagecache_actions.module	
-A	imagecache_canvasactions.install	4ee20ee4ccc25070c4531157a49de6d9
-A	imagecache_canvasactions.module	25829695b3b3bb0905ca67e93ffdc809
-A	imagecache_coloractions.module	31f253967f9800ed8c4998102a3e1393
+M	canvasactions.inc	ab83036e48df423b02b939c1bead89dc
+M	help/textrender_syntax.html	89fe5f8b42b723cddb0db4c831d3198b
+M	imagecache_autorotate.info	3e2c2e1f5672d17ba142a6e3d7450160
+M	imagecache_autorotate.install	602de4b328e3a20358abacef18045d77
+M	imagecache_autorotate.module	2b5b32ae5cd784247f3ebbc6038121fb
+M	imagecache_canvasactions.info	ac7684dcec17277c4db2978e62f21b06
+M	imagecache_canvasactions.install	4ee20ee4ccc25070c4531157a49de6d9
+M	imagecache_canvasactions.module	25829695b3b3bb0905ca67e93ffdc809
+M	imagecache_coloractions.info	322e466bd302e829cef70e7835f22a23
+M	imagecache_coloractions.install	0a40578f7b128a286c9983c79ece8aa8
+M	imagecache_coloractions.module	31f253967f9800ed8c4998102a3e1393
+M	imagecache_customactions.info	c9d43ac08bfa833d92397ad2ed2f1649
+M	imagecache_customactions.install	f2c1265affc2e047c324562e8b43dc12
+M	imagecache_customactions.module	d4631b3d286513699bdc8c61bc23549c
+D	imagecache_textactions.info	
+D	imagecache_textactions.install	
+D	imagecache_textactions.module	
 A	imagecache_textrender.info	8bdee95a0259d6387bbcd20aa2301e0c
 A	imagecache_textrender.module	dbbdc144749ecbc1f618de5bed22dcbd
-A	imagefilter.inc	914b1670316859e2d297bf499eebe8ce
+M	imagefilter.inc	914b1670316859e2d297bf499eebe8ce
 A	old/imagecache_textactions.info	3eda15399529b50d11d28dc283c50804
 A	old/imagecache_textactions.install	57145aaee512f467ec436eaec28b1f46
 A	old/imagecache_textactions.module	93c6afa2c5b327898660a1244b01d026
 A	old/textactions.inc	dfa871860abcb715d3eb37ca4518632f
-D	tests/README.txt	
-D	tests/imagecache_testsuite.features.inc	
-M	tests/imagecache_testsuite.info	56c6a2ce3d9c9c4f973ed2c238c846a7
-M	tests/imagecache_testsuite.module	cd1ebcfea5afc942afebec84ac79fb4b
+A	tests/150x300.jpg	2b6fced003c897d2231fa6f330ee4258
+A	tests/200x300.jpg	a97f2f8304ea57e9114816d44a63049f
+A	tests/250x250.jpg	11388e8b66757832fbb619788552431c
+A	tests/250x300.jpg	a576519318ae53187182c6e3e73ba617
+A	tests/300x150.jpg	12130639610dc0e144506fe0b8186711
+A	tests/300x200.jpg	bfb91d6d0bdb3b55dbd532a8b4a72150
+A	tests/300x250.jpg	da01ce9885fb91c0c5c66e6f2b8b5c36
+A	tests/background-2.jpg	bec01444d4c0b1e984ce6a3401392558
+A	tests/black-ribbon.gif	bd3d3977a0eecafc54f03e6cae353b32
+A	tests/cheap_dropshadow.imagecache_preset.inc	9cf88c9fe107aa0ff109ba291288037b
+A	tests/cheap_dropshadow.jpg	4957aa9b77fb77300196cec3039901f9
+A	tests/cheap_dropshadow.png	83aef78fad0a5081d2e7effa4b39a4e5
+A	tests/corner-bl.png	05a3ba0a5f5967a6ab418eeec778c796
+A	tests/corner-br.png	e87c0e423123f3e1e0ac313f3ee935d6
+A	tests/corner-tl.png	410d7f9981ca32e7e3084c6b9667aab6
+A	tests/corner-tr.png	7224021b2ba2bce581b63f7afd10de0f
+A	tests/corners_combo.imagecache_preset.inc	90337d52af8f19bce2fde67278f8fc2e
+A	tests/corners_combo.jpg	0dfcef221f2a078bd03a0d98b7b0d30d
+A	tests/corners_combo.png	11e1dfb4eecd379b41f61dfe4ba4733d
+A	tests/default.imagecache_preset.inc	23da36d599cbef3fe3c7d3a7d537b9bc
+A	tests/default.jpg	9d1ba9c05c83715614494149c0294ca5
+A	tests/green.imagecache_preset.inc	fb1a3b6ee1f6e9c744cbfdbe8b8c238c
+A	tests/green.jpg	1a5998f54e5c4b8e3656e32b3974fb2e
+A	tests/grid-240x160.png	e019543b98164f1ee83fbf9798ecd276
+A	tests/imagecache_testsuite.info	56c6a2ce3d9c9c4f973ed2c238c846a7
+A	tests/imagecache_testsuite.module	cd1ebcfea5afc942afebec84ac79fb4b
+A	tests/keyword_positioning.imagecache_preset.inc	65ec11c21bc1d9c244fd021d7b224d41
+A	tests/keyword_positioning.jpeg	56463fef4d36071e4c9b87b97eb18fde
 A	tests/keyword_positioning.jpg	63ec3b97692a303126dfdce009b3797d
+A	tests/positioned underlay.png	0cb8e7bbd29fff6e8145e93fb503d658
+A	tests/positioned_underlay.imagecache_preset.inc	b9acb3bc9ed2b7ffeda2281e590abe4d
 A	tests/positioned_underlay.png	0cb8e7bbd29fff6e8145e93fb503d658
+A	tests/relative_canvas.imagecache_preset.inc	7cdb78c05410770ad26d201c092e6187
+A	tests/relative_canvas.jpg	e92b95401be6a53e53c41fd124757615
+A	tests/rotate_alpha.imagecache_preset.inc	f5b31e0f500247824acd0c0d7f3d9b74
+A	tests/rotate_alpha.png	ebd359c9afe5c2fd87d5da75f2f43e9f
+A	tests/rotate_alpha_gif.imagecache_preset.inc	6ba80d216a2396c5386fb203435cdced
+A	tests/rotate_scale.imagecache_preset.inc	53ce606ac99f24ee35c2d927845c53a7
+A	tests/rotate_scale.jpg	912b28f25b10d3662a2ae480252d9048
+A	tests/rotate_scale_alpha.imagecache_preset.inc	eeae0629d4550368f1a0a0fe9ff34185
+A	tests/rotate_scale_alpha.png	955bb259f3602e6090702483aa632239
+A	tests/rounded.imagecache_preset.inc	b76836d6351ef17f53a04da3add53229
+A	tests/rounded.png	3b2f97181fde6389600912f138d0cd00
+A	tests/rounded_bl.imagecache_preset.inc	430b494ccbf44fa807f6e38462ae33ac
+A	tests/rounded_bl.png	5d8f666220969ea30f045fe294a63e3c
+A	tests/rounded_flattened.imagecache_preset.inc	82a9c357187e0225e0ae1d7437e2b058
+A	tests/rounded_flattened.jpg	1c2d917275bd00503b65f1f5c8eadcfe
+A	tests/sample.jpg	9d1ba9c05c83715614494149c0294ca5
+A	tests/scale.imagecache_preset.inc	4c527944614ff34415bc235123734393
+A	tests/scale.jpg	a8951fe9b0db6842fa914fe1c75b5f0d
+A	tests/scale_canvas.imagecache_preset.inc	a6f6b38760da5d48334bd604cb309d5d
+A	tests/scale_canvas.png	51c5dc88d13ce26193c50fef1d7787fa
+A	tests/scale_rotate.imagecache_preset.inc	b22312177a1e6c18c73bff3d2979d7a4
+A	tests/scale_rotate.jpg	c83b07d0487040295dfc8010295afb77
+A	tests/shiny-bg.png	4397fab4186aefee934ba36851d7001f
 A	tests/text_positioning.imagecache_preset.inc	9039fffb5674ad156c0b427df51abd08
 A	tests/textactions_fancy.imagecache_preset.inc	5e1750f2975584fabf6c513eaec71aba
 A	tests/textactions_fancy.jpg	8f79ca1593190c6307520ceb110a34d5
@@ -39,8 +87,12 @@ A	tests/textactions_shadow_alpha.imagecache_preset.inc	407920cde2d58aa24c27c2df0
 A	tests/textactions_shadow_alpha.jpg	2745484d35a69dcd5d62acb43e796551
 A	tests/textactions_simple.imagecache_preset.inc	2922563e02a30cbb956eaa243b6288e3
 A	tests/textactions_simple.jpg	03fe5be07110c1a38e22417ee5eac77f
-A	textrender.inc	eaacb41c5b4392d65846162b29815695
-D	utility-color.inc	
-D	utility-form.inc	
+A	tests/watermark_100.imagecache_preset.inc	fe5ecf1150aaee2750e33b2d563f4a88
+A	tests/watermark_100.jpg	05389104ca5a5b21911b103eabc644d0
+A	tests/watermark_50.imagecache_preset.inc	d88e918430b201fae63f19ab1f21ed4f
+A	tests/watermark_50.jpg	7e99766e0bba368f4c542417c8f6e735
+D	textactions.inc	
+M	textrender.inc	eaacb41c5b4392d65846162b29815695
+M	transparency.inc	168bd7b26d4e2b2eb87197cc8f0e09d6
 M	utility.inc	93fc5f39313e5169072b3204eda05733
 M	watermark.inc	507e9d3bc45c41adc62c7c971cec948c

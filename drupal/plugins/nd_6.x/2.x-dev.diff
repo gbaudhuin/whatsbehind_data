@@ -1,36 +1,4 @@
-M	CHANGELOG.txt	1cdf987d26035186693d16cbbd7a51c3
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-M	README.txt	712466493833b05f4821c3aa0706f66e
-D	css/nd.css	
-A	css/nd_regions.css	7eff4b01fc231868ff12f12568e835cd
-D	css/regions.css	
-D	formatters/formatters.inc	
-D	includes/nd.admin.inc	
-D	includes/nd.buildmodes.inc	
-D	includes/nd.core_search.inc	
-D	includes/nd.fields.inc	
-D	js/nd.js	
-A	modules/nd_permalink/nd_permalink.info	568ab665ca7ffb2c3c9128be242d9dc4
-A	modules/nd_permalink/nd_permalink.module	7358174c7169a4659818d2af18e5df7e
+M	modules/nd_permalink/nd_permalink.info	568ab665ca7ffb2c3c9128be242d9dc4
 M	nd.info	efc3e0b50897222182c846078f1d33f5
-M	nd.install	6d57a637511d1d56f6be205304a9f94e
 M	nd.module	75023cccc4da985468c07025dd68dd7b
-A	nd.rules.inc	64e7348caf5d46d5e7053d930ed3d621
-A	nd_fields_examples.inc	51dd2fa76540f7d1282ead2bdca85ff1
-D	nd_init.info	
-D	nd_init.install	
-D	nd_init.module	
-A	templates/nd.tpl.php	de3d83336c29dbe7499fce0dddb3ddfd
-D	templates/node.tpl.php	
-A	tests/nd.buildmodes.test	05d6c7eb603ca99c9e9441f6798367d6
-A	tests/nd.fields.test	d4214ba0db5602dd6c9ba2148d363c75
-A	tests/nd.plugins.test	8925b3c68c082599e25189abff9fcad0
-A	tests/nd.regions.test	eeb25a6e4cfba21159711d62af1e9960
-D	tests/nd.test	
-A	tests/nd.tools.test	c5f4f21d7fec55854db1202aad5f2fa9
-A	tests/ndtest.ds_default.inc	ffcb31f844bf6e87c7606e5b404ca8f6
-A	tests/ndtest.info	864169abbf9b9cadd12a20aef980c319
-A	tests/ndtest.module	f4def06f98ef0caff53c6b0d28f704f1
-D	theme/nd-content-admin-display-overview-form.tpl.php	
-D	theme/nd-content-admin-field-overview-form.tpl.php	
-D	theme/theme.inc	
+M	tests/ndtest.info	864169abbf9b9cadd12a20aef980c319

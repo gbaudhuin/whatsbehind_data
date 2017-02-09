@@ -1,8 +1,1 @@
-A	CHANGELOG.TXT	47eb7743c0bcfa445c8451956ee9d696
-A	INSTALL.txt	b56d57301794c48b181c2cd40b5444b7
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	taxonews-block-view.tpl.php	69634b7a93588489dc9676b2c76620f9
-A	taxonews.info	c791c5578fab59ef721ea8cf6161c7f7
-A	taxonews.install	1a6332009b6b8919d1d4495e234ebcbe
-A	taxonews.module	012424952446fe329840a9f6a5282ab8
-A	taxonews.test	70a05abe63b77e79151933f32d13aca7
+M	taxonews.info	c791c5578fab59ef721ea8cf6161c7f7

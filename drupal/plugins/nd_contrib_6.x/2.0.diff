@@ -1,39 +1,14 @@
-D	CHANGELOG.txt	
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
+D	nd_cck/content-field.tpl.php	
 M	nd_cck/nd_cck.info	122d4b1713f82e7b50676e9147fc880b
-D	nd_cck/nd_cck.install	
 M	nd_cck/nd_cck.module	451cba5a6a78b760572192d0658b1741
-M	nd_cck/nd_cck.tpl.php	daaf3acee97cca68649b4e75f4b74c1e
-D	nd_context_bm/nd_context_bm.info	
-D	nd_context_bm/nd_context_bm.install	
-D	nd_context_bm/nd_context_bm.module	
-D	nd_context_bm/plugins/nd_context_bm_condition.inc	
-D	nd_context_bm/plugins/nd_context_bm_reaction.inc	
-D	nd_faq/nd_faq.info	
-D	nd_faq/nd_faq.module	
+A	nd_cck/nd_cck.tpl.php	daaf3acee97cca68649b4e75f4b74c1e
+D	nd_cck/theme.inc	
 M	nd_fivestar/nd_fivestar.info	1d02b52bc6a0aa448d724b4af3b86354
 M	nd_fivestar/nd_fivestar.install	fe2edd6e8fdd32db91ed387a48ce4812
 M	nd_fivestar/nd_fivestar.module	72c269e981c1668b69acc69c7754ef14
-D	nd_location/nd_location.admin.inc	
-D	nd_location/nd_location.info	
-D	nd_location/nd_location.install	
-D	nd_location/nd_location.js	
-D	nd_location/nd_location.module	
-D	nd_poll/nd_poll.info	
-D	nd_poll/nd_poll.module	
-D	nd_search/nd_search.css	
 M	nd_search/nd_search.info	ed1edc9e08819228e2ef62c6377ae7b6
-M	nd_search/nd_search.install	595da6fbb828bd92edfb6b35a60e7caf
-D	nd_search/nd_search.js	
+A	nd_search/nd_search.install	595da6fbb828bd92edfb6b35a60e7caf
 M	nd_search/nd_search.module	fb35ae7013af7b786e6689e52f755176
-D	nd_switch_bm/nd_switch_bm.info	
-D	nd_switch_bm/nd_switch_bm.install	
-D	nd_switch_bm/nd_switch_bm.module	
-M	nd_ubercart/ucd.info	85297bbfd5d6400e72b973346096a321
-D	nd_ubercart/ucd.install	
-M	nd_ubercart/ucd.module	fe5cd507a34161ebffdfc05ea132faad
-D	nd_vud/nd_vud.info	
-D	nd_vud/nd_vud.module	
-D	nd_webform/nd_webform.info	
-D	nd_webform/nd_webform.module	
+A	nd_ubercart/ucd.info	85297bbfd5d6400e72b973346096a321
+A	nd_ubercart/ucd.module	fe5cd507a34161ebffdfc05ea132faad

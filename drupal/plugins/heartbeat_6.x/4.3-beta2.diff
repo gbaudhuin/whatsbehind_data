@@ -8,6 +8,7 @@ M	heartbeat.info	50686d0d548c1bafcfae31a27ebff8b4
 M	heartbeat.js	1e8c4518f627bb5375dab6c3946d8a5d
 M	heartbeat.module	3c1d4013b1921505b5e4cb77012e999f
 M	heartbeat.pages.inc	97d9502ccd8f5e463fa164d444a3c760
+D	heartbeat.rules.inc	
 D	heartbeat.rules_defaults.inc	
 D	images/thumbs-down.gif	
 D	images/thumbs-up.gif	
@@ -43,6 +44,7 @@ A	modules/heartbeat_example/siteactivity.inc	c633b1e5fee3d019f969daf17c696278
 A	modules/heartbeat_rules/hrules.info	e852fbd76c49797ce9b30cbceec311d2
 A	modules/heartbeat_rules/hrules.js	a7ee04bcb59e2c8ee1313e7e6e1fb530
 A	modules/heartbeat_rules/hrules.module	f33e317164e2264e12a26cdb7813330f
+A	modules/heartbeat_rules/hrules.rules.inc	b45090b36ecb1b499f2fc0e09b059002
 A	modules/heartbeat_rules/hrules.rules_defaults.inc	2079ef8d8de9aabfb8dcabc332c2b076
 M	modules/og_activity/og_activity.info	9f2f1d7de02ddf6f9d9dab1113a466e8
 M	modules/og_activity/ogheartbeat.inc	49f13dfd3781d356b1b07f02d02e0c69

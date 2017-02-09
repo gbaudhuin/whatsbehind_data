@@ -6,21 +6,39 @@ M	bootstrap_subtheme/less/variables.less	9bcad44fa572d677a8b90310cb0125aa
 M	bootstrap_subtheme/logo.png	e1213e66464cac813a2f6cac6cc84ec8
 M	css/overrides.css	e332709e3bf6288fd3e37b88513a3373
 A	favicon.ico	4443cb72de428756475bf6b6c3e7e2af
+D	includes/alter.inc	
 D	includes/common.inc	
+D	includes/icons.inc	
+D	includes/pre-render.inc	
+D	includes/process.inc	
+D	includes/registry.inc	
+D	includes/settings.inc	
 M	js/bootstrap.admin.js	45538103668639912dd1da84da3477dd
+A	js/misc/_progress.js	e5667dc868dc21f505948886de9e5b38
+D	js/misc/progress.js	
 M	logo.png	e1213e66464cac813a2f6cac6cc84ec8
 M	template.php	16d7b1eb7eef3301d13a3326a253f5e5
 A	theme-settings.php	997bf7bb277e0293b2a9d538d1f375db
+A	theme/alter.inc	e04826eee02b5e1b31ceb6ef498d762f
 D	theme/bootstrap/bootstrap-modal.func.php	
 A	theme/bootstrap/bootstrap-modal.tpl.php	2a6f89f238644fcb80799ad94ac4464f
 A	theme/bootstrap/bootstrap-modal.vars.php	dabd8f438d17054f7428f8b1bcfa50e5
 A	theme/common.inc	bdf9294aff7417de1b51d00e59a3d111
+D	theme/html.tpl.php	
+A	theme/icons.inc	5f37188d90c8fa33cc3b50249bedaa42
 M	theme/menu/menu-local-action.func.php	7e07671d7c2328f6572aa48d4c436bbe
+D	theme/page.tpl.php	
+A	theme/pre-render.inc	6356e5e29611db749f5ec2f27f25e868
+A	theme/process.inc	3d1b4f1b54431c7a02547ce016102f60
+A	theme/registry.inc	9a3609d0e91d6b641de62f4d782a50c3
+A	theme/settings.inc	1198ac3538da1e9d781bbe7b25044a2f
 M	theme/system/breadcrumb.vars.php	8d34201839514fafee21500fc986a0d8
 M	theme/system/button.vars.php	bddb5dff1e273e91b3a56a43bfebd882
 M	theme/system/form-element-label.func.php	df7ec7a4a450224474b58bdb7c1fe6da
+A	theme/system/html.tpl.php	e20d8e43ad5a37bdedc459d19f873a7a
 M	theme/system/html.vars.php	e3af1271641635ea5f0f1c346dd7860d
 M	theme/system/links.vars.php	091de65c4fda96bf1b8aaddd4eed351d
+A	theme/system/page.tpl.php	4d0d3d5287109e7db5efc5984f5ddaa2
 M	theme/system/page.vars.php	1f2a20ee91338a443e113d66a398625e
 A	theme/system/progress-bar.tpl.php	faa2869eb50bcd79329219012717cdec
 D	theme/system/progress.func.php	

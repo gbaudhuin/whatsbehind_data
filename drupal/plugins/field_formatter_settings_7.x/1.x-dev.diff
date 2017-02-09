@@ -1,4 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	field_formatter_settings.api.php	c2976c148c959cd50a8e423d607eee88
-A	field_formatter_settings.info	0642fc61af0ef301ec6eb240109f3bb4
-A	field_formatter_settings.module	5f28a5b90b0a6c0ecb93f57cd867a958
+M	field_formatter_settings.info	0642fc61af0ef301ec6eb240109f3bb4
+M	field_formatter_settings.module	5f28a5b90b0a6c0ecb93f57cd867a958

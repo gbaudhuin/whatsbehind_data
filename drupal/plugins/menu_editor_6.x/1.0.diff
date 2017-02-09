@@ -5,7 +5,5 @@ M	me_node_creation/menu_editor_node_creation.module	c268bf661bb80be6f3830cffda50
 D	me_path_autocomplete/menu_editor_path_autocomplete.info	
 D	me_path_autocomplete/menu_editor_path_autocomplete.module	
 M	menu_editor.admin.inc	51d8ba82a93f3cfae1db11f7801d642e
-A	menu_editor.css	002ac279c86aca13f448e57a5fd372dc
 M	menu_editor.info	77bae0bd6c84a4fee0eaa8778cca8e49
-D	menu_editor.js	
 M	menu_editor.module	bf3f36f5e51539c22ff42190c56abc27

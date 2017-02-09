@@ -1,0 +1,11 @@
+M	README.md	f271c4705c8addf0ea293a1342672587
+M	README.txt	f271c4705c8addf0ea293a1342672587
+M	usasearch.admin.inc	7ef340f10da8c0e005f33571ff39cf98
+M	usasearch.info	c1a07115fe2badeff1165bed74ef131f
+M	usasearch.install	053705ebf9b6c964e65c57c86dad29fb
+M	usasearch.module	f640ba2dec23e2815006731292464e2c
+A	usasearch.rules.inc	d50d3190c024d874691b6b0a48565286
+M	usasearch_api/usasearch_api.info	93392f550174171e86d6167496cf1577
+M	usasearch_api/usasearch_api.module	05316c2b9d50d2be76d2b45625d28989
+M	usasearch_field/usasearch_field.info	8f3a69fb1428d71aabc6f27ed0e0ad32
+M	usasearch_hosted/usasearch_hosted.info	53f3a3c3a10e9573fd672f2d98e5e052

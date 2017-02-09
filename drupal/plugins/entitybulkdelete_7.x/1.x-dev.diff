@@ -1,8 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	5f70c51e990f2a4c292b1efc34f57e47
-A	entitybulkdelete.comments.inc	d151f9287f9b3be778a761ec3385dc10
-A	entitybulkdelete.info	ab169ab5028172fe626dd7cdb853334f
-A	entitybulkdelete.module	dcd82bb7871a51a285dd8357fcdf3dc2
-A	entitybulkdelete.nodes.inc	ae851ef82d6ddf81ca9b873a17d52116
-A	entitybulkdelete.terms.inc	93e658a19208c3e1a8d4ce6b17aff048
-A	entitybulkdelete.users.inc	e7b7a1719de8c02d67257d0e1445c9dc
+M	entitybulkdelete.info	ab169ab5028172fe626dd7cdb853334f

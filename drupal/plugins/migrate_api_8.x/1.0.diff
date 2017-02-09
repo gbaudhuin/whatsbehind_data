@@ -1,2 +1,7 @@
-M	migrate_api.info.yml	af73768616871f834a6723c18457a2dc
-M	src/SchemaFormBuilder.php	5ea4985dd6a84f13f29581299a675618
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	composer.json	8fd380d4cfcf9c96d11d621fb068cb9d
+A	migrate_api.info.yml	af73768616871f834a6723c18457a2dc
+A	migrate_api.services.yml	24a632532fc1f8d969bd8d5788d7acc8
+A	src/SchemaFormBuilder.php	5ea4985dd6a84f13f29581299a675618
+A	src/SchemaFormBuilderInterface.php	0612e16ff157b564412fdbc91cfe991b
+A	tests/src/Unit/SchemaFormBuilderTest.php	f1f153f9bce6f6952fe8401935b1dc62

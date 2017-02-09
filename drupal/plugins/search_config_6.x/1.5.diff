@@ -1,5 +1,4 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	4bfdd487edbe7ebd2a9a9ea6015e83b2
-M	search_config.info	117594c7cd07d0c07fffeb33df9e90ff
-D	search_config.install	
-M	search_config.module	6328fa8567532e26e9c4705da2315ec2
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	4bfdd487edbe7ebd2a9a9ea6015e83b2
+A	search_config.info	117594c7cd07d0c07fffeb33df9e90ff
+A	search_config.module	6328fa8567532e26e9c4705da2315ec2

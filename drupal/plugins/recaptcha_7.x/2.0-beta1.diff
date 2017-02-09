@@ -1,13 +1,17 @@
+D	ReCAPTCHA/LICENSE	
 D	ReCAPTCHA/README.md	
+D	ReCAPTCHA/php/example-captcha.php	
 D	ReCAPTCHA/php/recaptchalib.php	
 A	recaptcha-php/.gitignore	91b6277aab98e9bcb4e43edd10c51e1e
 A	recaptcha-php/.travis.yml	d2b25f11db6c20508b646d017d664db5
 A	recaptcha-php/CONTRIBUTING.md	6ee06583bc4f746254d12241ca16e720
+A	recaptcha-php/LICENSE	85d051225ef63cb5e5bba300961adf8e
 A	recaptcha-php/README.md	8b31e17bb6e6941b53255e9b575911f4
 A	recaptcha-php/composer.json	f111ddbc39e150afe03e9ac32667c4b0
 A	recaptcha-php/examples/example-captcha.php	33ca3cdd7e2305dc5fd4033fc8294b22
 A	recaptcha-php/phpunit.xml.dist	98a1fbba68159c56c64cde90401be939
 A	recaptcha-php/src/ReCaptcha/ReCaptcha.php	11ffe18e070edde82128f6c7b1b72a0a
+A	recaptcha-php/src/ReCaptcha/RequestMethod.php	c54c9a8feba7dda1c84059a1b8bbc4b1
 A	recaptcha-php/src/ReCaptcha/RequestMethod/Post.php	6823914c4f0dd64b48441c578c78a022
 A	recaptcha-php/src/ReCaptcha/RequestMethod/Socket.php	dec87d8cd3209a0a37ba66e05dcd0c21
 A	recaptcha-php/src/ReCaptcha/RequestMethod/SocketPost.php	1ed6247b96e4ef0eb98bfb97fda0176a

@@ -1,11 +1,8 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	e869337c421c1dbabeb2d2201cd8dcbe
-M	formatted_number.css	ad63b6faad17f49cce906624a46fcca7
-M	formatted_number.info	49318a14e0e20bcbfe2bf8cf306b5b64
-M	formatted_number.install	6203de1e5b363916e228fdcad76497df
-M	formatted_number.js	f17628acd72a0dd941d649bea7024562
-M	formatted_number.module	94fcf6447b7f2ee974049a67620287ca
-D	includes/formatted_number.diff.inc	
-D	includes/formatted_number.token.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	e869337c421c1dbabeb2d2201cd8dcbe
+A	formatted_number.css	ad63b6faad17f49cce906624a46fcca7
+A	formatted_number.info	49318a14e0e20bcbfe2bf8cf306b5b64
+A	formatted_number.install	6203de1e5b363916e228fdcad76497df
+A	formatted_number.js	f17628acd72a0dd941d649bea7024562
+A	formatted_number.module	94fcf6447b7f2ee974049a67620287ca
 A	translations/formatted_number.pot	50dd6d7bfeb2282dd074a9610b28340f

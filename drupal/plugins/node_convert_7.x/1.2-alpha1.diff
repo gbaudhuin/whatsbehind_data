@@ -1,6 +1,14 @@
 M	README.txt	1bc2f3a5658615c0d06c26926836ebb1
 M	TODO.txt	52ddf8be1dd689a8566e875f3b7a02f3
+D	includes/book.node_convert.inc	
+D	includes/forum.node_convert.inc	
+D	includes/panels_node.node_convert.inc	
+D	includes/uc_product.node_convert.inc	
+A	modules/book.node_convert_behavior.inc	e27ac1f4661881f83da8ecec0420897a
+A	modules/forum.node_convert_behavior.inc	c97302507c7019e23c5040209fa90bdb
 A	modules/node_convert.node_convert_behavior.inc	04088681db8c378eba69d75e3196f821
+A	modules/panels_node.node_convert_behavior.inc	776de9e2bd86669c9501f185e8e0bce9
+A	modules/uc_product.node_convert_behavior.inc	19e66625fbef13c80a10223df98ba335
 A	modules/xmlsitemap.node_convert_behavior.inc	273141b83ba6e06a85533c80c4ad41f8
 A	node_convert.admin.inc	266c16fa6c9a58655da1e22b426bc2c2
 A	node_convert.api.php	a1f8d1e9cbada9225123abd94205c54c

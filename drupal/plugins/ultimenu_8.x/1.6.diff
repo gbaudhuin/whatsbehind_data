@@ -1,0 +1,14 @@
+M	CHANGELOG.txt	116ed1b78e8cd3b7097876f6232bea46
+M	README.txt	57364ef2af5d180239ef1a51480703a0
+M	css/ultimenu.css	f94d4b34e4dc0ddf3b01f5c37bfa061b
+A	skins/ultimenu--htb-sliding.css	981e50ee04ff65660992696ca384dafa
+M	src/Plugin/Block/UltimenuBlock.php	04874e637c5e70113903746412c4fd1a
+M	src/Plugin/Derivative/UltimenuBlock.php	875ee010feae5bf31865922e42d89acd
+M	src/UltimenuManager.php	ee74a40ecaacc22c61759317021afd99
+M	src/UltimenuManagerInterface.php	624b0f5f9dcbdacaae16d1e0e1a51f14
+M	src/UltimenuSettingsForm.php	90f146299604391eea3211a9e06eba62
+M	templates/ultimenu.html.twig	b560c8fbc9bf0b5b298cbf8e30137f1f
+M	ultimenu.info.yml	d17e67f745e0b25c91b7ca1642523974
+M	ultimenu.links.menu.yml	9c9ee4562052e584ee1b88decf44dee5
+M	ultimenu.module	fdc07da561f118c38424d2a59a1d3466
+M	ultimenu.theme.inc	a83017141eed125cfc5f303cae81b96b

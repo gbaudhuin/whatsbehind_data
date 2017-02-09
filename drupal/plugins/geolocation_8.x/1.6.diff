@@ -36,6 +36,8 @@ M	src/Tests/GeolocationFieldTest.php	3268a31120f7ec73642361f9a9a5b82c
 M	src/Tests/GeolocationItemTest.php	c6bc32aaf63ebce89859346334e5c164
 A	src/Tests/GeolocationViewsBoundaryTest.php	280dd1c7820315c8c1d2cfc55817554e
 A	src/Tests/GeolocationViewsProximityArgumentTest.php	80da9115cd3733b5288d21b951a3e670
+D	src/Tests/GeolocationViewsStyleCommonMap.php	
+A	src/Tests/GeolocationViewsStyleCommonMapTest.php	c3cfd954cea4ad32bfa7270d854aef03
 M	templates/geolocation-common-map-display.html.twig	ccab9e0d0cde511518d84b63738331fe
 M	templates/geolocation-common-map-location.html.twig	f32210f7dee17b02252555d37a73fa0b
 M	tests/modules/geolocation_test_views/geolocation_test_views.info.yml	a094838fa23f07b7fb4218ec89319ac4

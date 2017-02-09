@@ -1,4 +1,4 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	16a603a24fd18a0842690ae0022a99e5
-A	login_destination.info	46ff024fc26861e9249ebc1cc63ab0d1
-A	login_destination.module	b952571805ae860cc365d98e2d885b4b
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	login_destination.info	46ff024fc26861e9249ebc1cc63ab0d1
+M	login_destination.module	b952571805ae860cc365d98e2d885b4b
+D	po/ja.po	

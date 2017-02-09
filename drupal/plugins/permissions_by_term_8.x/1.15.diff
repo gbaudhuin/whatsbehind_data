@@ -1,0 +1,7 @@
+M	permissions_by_term.info.yml	98fff12d0aaa97d529b6a869742730bf
+M	permissions_by_term.install	2804132aa5b48f4582e7d92d2ea12c20
+M	permissions_by_term.module	d4634a87279d77acfbbb325c101162e9
+M	permissions_by_term.services.yml	168f357299465e0666b756d05d732547
+M	src/AccessStorage.php	b71bafae0009ea77cbba0ad1dc078a10
+M	src/NodeAccess.php	fcac8ad7a75a465b8abaedfbc4eea856
+M	tests/src/Unit/NodeAccessTest.php	6b83d2974cf578d8c937da39ecefaa68

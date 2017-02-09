@@ -193,7 +193,6 @@ D	plugins/content_types/custom/translations/plugins-content_types-custom.hu.po
 M	plugins/content_types/form/form.inc	62950a874c7a6a603526746a943a2720
 D	plugins/content_types/form/translations/plugins-content_types-form.hu.po	
 M	plugins/content_types/node/node.inc	ad7afbedb3c1239988f851a164fc76b5
-D	plugins/content_types/node/translations/plugins-content_types-node.hu.po	
 M	plugins/content_types/node_context/node_attachments.inc	d5222d108b5cfd6a728c0e86e3b5891e
 M	plugins/content_types/node_context/node_author.inc	c3470a7494d9027f792fee1b40d240de
 M	plugins/content_types/node_context/node_body.inc	a231501c8b1637ec1543df2e8ece4257
@@ -220,6 +219,7 @@ M	plugins/content_types/node_form/node_form_path.inc	8b0ae1c96eb61391e551260338a
 M	plugins/content_types/node_form/node_form_publishing.inc	acc7400c9e08536bd03a8d633b9e89de
 M	plugins/content_types/node_form/node_form_taxonomy.inc	f803a5dbdcb131a4f8eed7b88afec12e
 D	plugins/content_types/node_form/translations/plugins-content_types-node_form.hu.po	
+D	plugins/content_types/node_translations/plugins-content_types-node.hu.po	
 M	plugins/content_types/page/page_breadcrumb.inc	4b892f77ff0ba2da089bfda7257fdbbc
 M	plugins/content_types/page/page_feed_icons.inc	6ca245cf5f56428e434c00e36e7c3264
 M	plugins/content_types/page/page_footer_message.inc	3674964987f3c74bc74edef1a5bbd429

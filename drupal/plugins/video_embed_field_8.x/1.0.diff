@@ -18,8 +18,10 @@ A	tests/modules/video_embed_field_colorbox_test/video_embed_field_colorbox_test.
 A	tests/src/Functional/AdminUserTrait.php	57dd1ca633468c9f1f5faed2d8f373f7
 D	tests/src/Functional/AssertionsTrait.php	
 M	tests/src/Functional/AutoplayPermissionTest.php	ff2288ac4f9a650a9afc7388059b0159
+A	tests/src/Functional/EntityDisplaySetupTrait.php	6555b3c0f7ec03fa808f915f7f497422
 A	tests/src/Functional/FieldConfigurationTest.php	eced0d4a21410b282ab5fbeb46bed6f2
 M	tests/src/Functional/FormatterConfigurationTest.php	e1584c7579f560c5873a282bfd914f86
+D	tests/src/Functional/FunctionalTestBase.php	
 M	tests/src/Functional/WidgetTest.php	bf455e07317a224d0bcea90b90afd323
 A	tests/src/FunctionalJavascript/ColorboxFormatterTest.php	637d30b46fb951682b98ca0dd72a4e0c
 M	tests/src/Kernel/FieldOutputTest.php	884ed357e83a856c9dae25ed7497e050

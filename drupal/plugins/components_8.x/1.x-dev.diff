@@ -1,7 +1,6 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	components.info.yml	5466d0fa5bafa05f2bcf685622979559
-A	components.services.yml	cb0b8a98c322b3132ef243c93fe134b9
-A	src/Template/Loader/ComponentLibraryLoader.php	51b6057659df2d6d0f75f1460d7e4f61
+M	components.info.yml	5466d0fa5bafa05f2bcf685622979559
+M	components.services.yml	cb0b8a98c322b3132ef243c93fe134b9
+M	src/Template/Loader/ComponentLibraryLoader.php	51b6057659df2d6d0f75f1460d7e4f61
 A	src/Template/TwigExtension.php	ea49e8ba5a76d71c8efc6a5d75f6c4d3
 A	src/Template/TwigNodeTheme.php	3fbfe262e65e88f493723217b75bc978
 A	src/Template/TwigThemeTokenParser.php	d65f54d1e2acbbb74580622382d39ec6

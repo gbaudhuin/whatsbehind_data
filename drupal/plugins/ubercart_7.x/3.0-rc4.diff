@@ -146,22 +146,38 @@ M	uc_store/classes/encrypt.inc	449c440a9f7741c03660c4fd3656e5b6
 M	uc_store/classes/mail.inc	62729d0513758b80791900a53f857ce6
 M	uc_store/countries/aruba_533_1.cif	5af82e0b115082f8cb50ed20acc0eadc
 M	uc_store/countries/bahrain_48_3.cif	ac264c3b055d63f9f3d6d15c36712648
+D	uc_store/countries/brunei_darussalam_96_2.cif	
+A	uc_store/countries/brunei_darussalam_96_3.cif	22278b58f15f2679ff0be2616c9fbea2
 D	uc_store/countries/denmark_208_1.cif	
 A	uc_store/countries/denmark_208_2.cif	cd190c5eae335a9211fb2673cd70759c
+D	uc_store/countries/falkland_islands_238_1.cif	
+A	uc_store/countries/falkland_islands_238_2.cif	e4e1e998b0d9428d07c4fa53c56e3ec1
 M	uc_store/countries/gibraltar_292_1.cif	d441d729f790ed94024e14731c143511
 M	uc_store/countries/guam_316_1.cif	40b34fb43385c0ea508947607a0eb1f9
 M	uc_store/countries/isle_of_man_833_1.cif	60c37c6c554a21887b465e9a76affe0e
 D	uc_store/countries/jamaica_388_1.cif	
 A	uc_store/countries/jamaica_388_2.cif	0a6ffda3352ce836341d73abbb86588a
+D	uc_store/countries/korea_democratic_peoples_republic_of_408_1.cif	
+A	uc_store/countries/korea_democratic_peoples_republic_of_408_2.cif	fa0f9bb78dd50bf5a39e116f08d4c937
+D	uc_store/countries/libya_434_1.cif	
+A	uc_store/countries/libya_434_2.cif	36c9275ee4fbf14de3e4946d5ee2db67
 M	uc_store/countries/macao_446_1.cif	736fc1829ac67d8578dc2b4a2eebc81d
 M	uc_store/countries/monaco_492_1.cif	0c410250ba44f62f18cb2a09a0a61f3e
 M	uc_store/countries/new_caledonia_540_1.cif	cc9bf3cdc3f84e33fff7e4c2b037bdf4
 M	uc_store/countries/puerto_rico_630_1.cif	587d34f2a0d49f55f19f833fe8f60510
 M	uc_store/countries/russia_643_2.cif	16d402400408dbd87fe817c29ea2688a
+D	uc_store/countries/saint_barthelemy_652_1.cif	
+A	uc_store/countries/saint_barthelemy_652_2.cif	fb42fd0030ae7063e69f3a85bc1c13af
 D	uc_store/countries/singapore_702_1.cif	
 A	uc_store/countries/singapore_702_2.cif	3553acc2f225d939bbfedee31ff0720d
+D	uc_store/countries/taiwan_158_1.cif	
+A	uc_store/countries/taiwan_158_2.cif	cb46e818f1c6cc6e89433058ba22cfd7
+D	uc_store/countries/tanzania_834_1.cif	
+A	uc_store/countries/tanzania_834_2.cif	8dcbc6ee381ffd1c4965f444cb534d53
 D	uc_store/countries/turkey_792_2.cif	
 A	uc_store/countries/turkey_792_3.cif	a8a924cd5a80465dab9db87a46247b10
+D	uc_store/countries/vietnam_704_1.cif	
+A	uc_store/countries/vietnam_704_2.cif	7515ac35d0eeb42ec32486794dedb356
 M	uc_store/countries/virgin_islands_british_92_1.cif	68fa63f2ea70b84d1f442562bbd57b78
 M	uc_store/countries/virgin_islands_us_850_1.cif	54a3dc89511c85b866fee3e85e8b0a01
 M	uc_store/includes/coder_review_uc3x.inc	5dabd5ddd5eda8824c20fd5da54eb20e

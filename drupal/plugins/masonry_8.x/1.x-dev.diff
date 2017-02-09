@@ -1,10 +1,7 @@
-A	INSTALL.txt	f6413b190052df6c0e42b02238f7f42a
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	js/masonry.js	a476e8624853c17652953b53ee33c958
-A	masonry.api.php	85ec37843c59f82a47d97e29d3c8dbe8
-A	masonry.info.yml	35d97ac2327a4c9a3e1e830c20930341
-A	masonry.install	de9f38a9133cf4bbeccc9fd14fa8dc97
-A	masonry.libraries.yml	db270fab826b8a3cecc993dc318cfc2a
-A	masonry.module	0a67d99c52b5496958c7a2b730cadc6e
-A	masonry.services.yml	64287827ce614a104d1375b26530a6ff
-A	src/Services/MasonryService.php	b923e9f0bfd6e1da95b4a01a2c0a73a2
+D	css/masonry.css	
+M	js/masonry.js	a476e8624853c17652953b53ee33c958
+M	masonry.info.yml	35d97ac2327a4c9a3e1e830c20930341
+M	masonry.install	de9f38a9133cf4bbeccc9fd14fa8dc97
+D	masonry.js	
+M	masonry.libraries.yml	db270fab826b8a3cecc993dc318cfc2a
+M	src/Services/MasonryService.php	b923e9f0bfd6e1da95b4a01a2c0a73a2

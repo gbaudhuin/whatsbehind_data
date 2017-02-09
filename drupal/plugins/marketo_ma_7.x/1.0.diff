@@ -1,44 +1,15 @@
-D	.gitignore	
-D	.travis.yml	
-D	CHANGELOG.txt	
-D	README.md	
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	README.txt	c5faad294289f7079ebb3cd324e0c488
-M	includes/marketo_ma.admin.inc	475c779c8aad0b79b289f7239cb94e3a
+A	includes/marketo_ma.admin.inc	475c779c8aad0b79b289f7239cb94e3a
 A	includes/marketo_ma.inc	19114b5eca57b84432b8e60e1c04119e
-M	includes/marketo_ma.soap.inc	fb2ea25b629bc3bc55ce7b43d0ac43d4
-M	js/marketo_ma.js	01a24ef0b7898962a8feadd09d111fc3
-D	marketo_ma.api.php	
-D	marketo_ma.drush.inc	
-M	marketo_ma.info	42a3c1f3a3ca9bad044f6d53340b3e1c
-M	marketo_ma.install	fd8c8cf8e72b5216392a49aa02f7cea6
-M	marketo_ma.module	32860e36fcbf9338d31ac44e1262caba
-D	marketo_ma.rules.inc	
-D	marketo_ma.rules_defaults.inc	
+A	includes/marketo_ma.soap.inc	fb2ea25b629bc3bc55ce7b43d0ac43d4
+A	js/marketo_ma.js	01a24ef0b7898962a8feadd09d111fc3
+A	marketo_ma.info	42a3c1f3a3ca9bad044f6d53340b3e1c
+A	marketo_ma.install	fd8c8cf8e72b5216392a49aa02f7cea6
+A	marketo_ma.module	32860e36fcbf9338d31ac44e1262caba
 A	marketo_ma.test	b7b7d0a095a10a1a6337ce764b9bb2f6
-D	tests/.coveralls.yml	
-D	tests/behat/.gitignore	
-D	tests/behat/behat.yml.dist	
-D	tests/behat/composer.json	
-D	tests/behat/features/admin/configure.feature	
-D	tests/behat/features/admin/drush.feature	
-D	tests/behat/features/admin/install.feature	
-D	tests/behat/features/admin/marketo_ma_user.feature	
-D	tests/behat/features/admin/marketo_ma_webform.feature	
-D	tests/behat/features/admin/permissions.feature	
-D	tests/behat/features/bootstrap/FeatureContext.php	
-D	tests/behat/features/travis-ci.feature	
-D	tests/behat/features/visitor/browse.feature	
-D	tests/composer.json	
-D	tests/drupal_ti/before/runners/behat/before_script.sh	
-D	tests/phpunit.xml.dist	
-D	tests/run-behat.sh	
-D	tests/run-coverage.sh	
-D	tests/run-simpletests.sh	
-D	tests/run-tests.sh	
-M	user/marketo_ma_user.info	c1e57aafb2d345efab27cba20b024741
-D	user/marketo_ma_user.install	
-M	user/marketo_ma_user.module	b18e85917f15165f47a6f565fa16e5c9
-D	webform/includes/marketo_ma_webform.webform_settings.inc	
-M	webform/marketo_ma_webform.info	c2964c80d6f287222d1905efe6d4fcc4
-M	webform/marketo_ma_webform.install	0c012f0f13c460cd02b1608b2aa94dea
-M	webform/marketo_ma_webform.module	1e7f7c24fa589c680577c03c9e30e8f5
+A	user/marketo_ma_user.info	c1e57aafb2d345efab27cba20b024741
+A	user/marketo_ma_user.module	b18e85917f15165f47a6f565fa16e5c9
+A	webform/marketo_ma_webform.info	c2964c80d6f287222d1905efe6d4fcc4
+A	webform/marketo_ma_webform.install	0c012f0f13c460cd02b1608b2aa94dea
+A	webform/marketo_ma_webform.module	1e7f7c24fa589c680577c03c9e30e8f5

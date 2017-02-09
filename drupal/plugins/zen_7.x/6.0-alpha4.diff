@@ -8,7 +8,17 @@ M	STARTERKIT/package.json	a7e88b870ebec2dfacb1b85e06ce2f3e
 M	STARTERKIT/sass/_variables.scss	cc97dfe34b4f19c765663ac2e677db3c
 M	STARTERKIT/sass/base/headings/headings-h.hbs	7fd6d4f88975c05d6167d051f048cfac
 A	STARTERKIT/sass/components/nav-menu/_nav-menu.scss	fac1328c886578d17f683e0abdfbdfb5
+A	STARTERKIT/sass/components/nav-menu/nav-menu--collapsed-rtl.png	f9faa46a660a0e20d822be348bdb91b1
+A	STARTERKIT/sass/components/nav-menu/nav-menu--collapsed.png	683b41a3f451431d1a7bce65b3aec04c
+A	STARTERKIT/sass/components/nav-menu/nav-menu--expanded.png	d2d5438d897dcf8bd12fd05a98bd627d
+A	STARTERKIT/sass/components/nav-menu/nav-menu--leaf.png	78140c61857042a4ad3bf169b85e5167
+A	STARTERKIT/sass/components/nav-menu/nav-menu.hbs	7168f905246a66eb10c5e3cccacd22b8
 D	STARTERKIT/sass/components/side-menu/_side-menu.scss	
+D	STARTERKIT/sass/components/side-menu/side-menu--collapsed-rtl.png	
+D	STARTERKIT/sass/components/side-menu/side-menu--collapsed.png	
+D	STARTERKIT/sass/components/side-menu/side-menu--expanded.png	
+D	STARTERKIT/sass/components/side-menu/side-menu--leaf.png	
+D	STARTERKIT/sass/components/side-menu/side-menu.hbs	
 M	STARTERKIT/sass/library/_rtl.scss	27b535254609295f09076d49d544f6a8
 A	STARTERKIT/sass/style-guide/kss-only.scss	d396ca9232b58efb23dad05fae131111
 M	STARTERKIT/theme-settings.php	88abc1aa4e75d3d1c380fc3698ba7ecc

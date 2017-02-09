@@ -1,11 +1,9 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
-M	extlink.css	1f70264f87b9cf1854308aa13e2077c4
-M	extlink.info	7f0d9eb469430544a9fb3df04dbbb870
-D	extlink.install	
-M	extlink.js	a9c5f241329997e24795d221fefc6244
-M	extlink.module	4d75265e5eff34387d05433ad54945dc
-D	mailto.png	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	extlink.css	1f70264f87b9cf1854308aa13e2077c4
+A	extlink.info	7f0d9eb469430544a9fb3df04dbbb870
+A	extlink.js	a9c5f241329997e24795d221fefc6244
+A	extlink.module	4d75265e5eff34387d05433ad54945dc
+A	extlink.png	b357ad87d625b17b4b201e32818c71c1
 A	po/fr.po	c153b8c9e55807ec39b7a6af73c9661f
 A	po/ja.po	6e19e2bbdc136c769964de37633a41d7
 A	po/ru.po	6bd398584d36fc543cc82af75877daba

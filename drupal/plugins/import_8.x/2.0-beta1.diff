@@ -1,1 +1,16 @@
+D	config/install/migrate.migration.import_block_base.yml	
+D	config/install/migrate.migration.import_comment_base.yml	
+D	config/install/migrate.migration.import_file_base.yml	
+D	config/install/migrate.migration.import_node_base.yml	
+D	config/install/migrate.migration.import_term_base.yml	
+D	config/install/migrate.migration.import_user_base.yml	
 M	import.info.yml	5cbb886040c918da154fed8da3d96656
+D	import.install	
+A	import.module	731670b639fbb3cbcdbfee6de3648f52
+A	migrations/import_block_base.yml	0793d39ccf790c30d20eb20a5aad9659
+A	migrations/import_comment_base.yml	a38645f79cf33b0cc857430e11835ec3
+A	migrations/import_file_base.yml	12be032acd33d7c5011ade1b5032e44e
+A	migrations/import_node_base.yml	6eeeae1911cc6fd65aefa7baba03820f
+A	migrations/import_term_base.yml	1420984ea06cb6c79fa9305cc91bc145
+A	migrations/import_user_base.yml	49d819b2b94db854b47c21cf45281ba7
+M	src/Plugin/migrate/source/ImageFile.php	03561f1055afa865f090239c8a651395

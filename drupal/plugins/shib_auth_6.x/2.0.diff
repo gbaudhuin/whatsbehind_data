@@ -1,6 +1,4 @@
-D	INSTALL.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
-M	shib_auth.info	1f8865143f01419008306f1cf6688e74
-M	shib_auth.install	f28cf9988ac061356ba06f1c8387f0fb
-M	shib_auth.module	5e9ab2ecee43527edf91dc6ade396050
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	shib_auth.info	1f8865143f01419008306f1cf6688e74
+A	shib_auth.install	f28cf9988ac061356ba06f1c8387f0fb
+A	shib_auth.module	5e9ab2ecee43527edf91dc6ade396050

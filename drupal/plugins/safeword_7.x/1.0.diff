@@ -1,10 +1,6 @@
-M	README.txt	069f9327f739b6faf75a54fd2d0e0119
-D	plugins/arguments/entity_by_safeword.inc	
-D	safeword.css	
-M	safeword.info	3bd4cd8a58a233eaab4e67797b83fe65
-D	safeword.js	
-D	safeword.migrate.inc	
-M	safeword.module	9be3f7aae4ed390fe09e996cd7dd942c
-D	safeword_context/safeword_context.info	
-D	safeword_context/safeword_context.module	
-D	safeword_context/safeword_context_condition.inc	
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	069f9327f739b6faf75a54fd2d0e0119
+A	safeword.info	3bd4cd8a58a233eaab4e67797b83fe65
+A	safeword.install	62adbc9c048c66187530b8801cb38063
+A	safeword.module	9be3f7aae4ed390fe09e996cd7dd942c
+A	safeword.tokens.inc	a3ecc90d77d73cc94a9800144f9f438a

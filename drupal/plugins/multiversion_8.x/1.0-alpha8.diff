@@ -8,6 +8,8 @@ M	src/Entity/Index/RevisionTreeIndexInterface.php	c0eb693f3946c8c105d144cae6f858
 M	src/Entity/Index/SequenceIndex.php	7dab8e2a0ff08cc2ab9fefa6c2f80e35
 M	src/Entity/Query/QueryTrait.php	85365c019824ea00a31bb9512d7c2e8d
 M	src/Entity/Storage/ContentEntityStorageTrait.php	add3095b221941f1462c472b742beaf7
+A	src/Entity/Storage/Sql/MediaStorage.php	17a3e1102a06c51869f3f535dd1fcd98
+D	src/Entity/Storage/Sql/UserStorage.php	
 D	src/Entity/Storage/Sql/UserStorageSchema.php	
 M	src/Field/RevisionsProperty.php	b7a4ec116475c0ed9643a682e003e11f
 M	src/MultiversionManager.php	99adc6d448b093d52bb8c89ec7780302

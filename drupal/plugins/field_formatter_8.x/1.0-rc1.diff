@@ -10,3 +10,7 @@ A	tests/modules/field_formatter_test/config/install/field.field.taxonomy_term.te
 A	tests/modules/field_formatter_test/config/install/field.storage.taxonomy_term.field_test_field2.yml	407b259d31d8b6bc5e5a00392f0f140d
 A	tests/modules/field_formatter_test/config/install/taxonomy.vocabulary.test_vocabulary2.yml	50157b4ececb9dfccea93a8928422c08
 M	tests/modules/field_formatter_test/field_formatter_test.info.yml	e407489a182a31884c79492fb75267b5
+D	tests/src/Kernel/FieldFormatterFromViewDisplayTest.php	
+D	tests/src/Kernel/FieldFormatterWithInlineSettingsTest.php	
+A	tests/src/Kernel/Plugin/Field/FieldFormatter/FieldFormatterFromViewDisplayTest.php	d8fbd0f44c4e64900718bd277c1f242b
+A	tests/src/Kernel/Plugin/Field/FieldFormatter/FieldFormatterWithInlineSettingsTest.php	41d98652e6637a084da558b8430b0929

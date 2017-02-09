@@ -1,7 +1,7 @@
-M	CHANGELOG.txt	ec219b73d9fc690f5fd3d8f6f7e1f198
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	4ba04d8a367eabe73b060b7e07768e01
+A	CHANGELOG.txt	ec219b73d9fc690f5fd3d8f6f7e1f198
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	4ba04d8a367eabe73b060b7e07768e01
 A	views-sample.txt	5a5f09b534803435365e5359ba7079d6
-M	xapian.info	fbdbfaf47e95268238d5d87ca103a8d6
-M	xapian.install	4365d74068292fa1070ac4cbf5101be8
-M	xapian.module	def0cd12bdde1d830e6f50ba4a2e88df
+A	xapian.info	fbdbfaf47e95268238d5d87ca103a8d6
+A	xapian.install	4365d74068292fa1070ac4cbf5101be8
+A	xapian.module	def0cd12bdde1d830e6f50ba4a2e88df

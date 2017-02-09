@@ -1,14 +1,3 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 M	README.txt	322509d8ac508ebfe2563db9e227f3f6
-A	seo_checklist.css	d04d6c1062008f9112693ad0afeffe8d
-A	seo_checklist.info	b4f112ca82a5f2fc585df498c8d8eaa4
-A	seo_checklist.install	d82958aa7f245c28984aad647c19a58f
-A	seo_checklist.js	7ba83ce681c7c8847e0a4064f47ad1f4
-A	seo_checklist.module	d1bdd4582901242cb1b078e08afadc39
-A	seo_checklist_intro_tab.tpl.php	9ccd2922b08c274a2cbab57b239c1af5
-D	seochecklist.admin.inc	
-D	seochecklist.css	
-D	seochecklist.info	
-D	seochecklist.install	
-D	seochecklist.module	
-A	volacci-logo.png	485667cd83ddb70a3e37ebf53e8557ef
+M	seo_checklist.info	b4f112ca82a5f2fc585df498c8d8eaa4
+M	seo_checklist.module	d1bdd4582901242cb1b078e08afadc39

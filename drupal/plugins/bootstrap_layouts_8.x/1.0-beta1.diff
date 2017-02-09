@@ -1,24 +1,10 @@
 A	.gitignore	a0bee7a6c497321ee1eead7c1b1f8974
-M	bootstrap_layouts.info.yml	4e4483c6f7fdc630b611706675ba71dc
-M	bootstrap_layouts.layouts.yml	1ed2220710a71c7a91ecd4839883bb0a
-D	templates/bootstrap-1-11.html.twig	
-D	templates/bootstrap-10-2.html.twig	
-D	templates/bootstrap-11-1.html.twig	
-D	templates/bootstrap-12.html.twig	
-D	templates/bootstrap-2-10.html.twig	
-D	templates/bootstrap-2-8-2.html.twig	
-D	templates/bootstrap-3-6-3.html.twig	
-D	templates/bootstrap-3-9.html.twig	
-D	templates/bootstrap-4-4-4.html.twig	
-D	templates/bootstrap-4-8.html.twig	
-D	templates/bootstrap-5-5-2.html.twig	
-D	templates/bootstrap-5-7.html.twig	
-M	templates/bootstrap-6-6-bricks.html.twig	e891ae9abcdba27176af6502df32c9e2
-M	templates/bootstrap-6-6-stacked.html.twig	78fa8434007e0a33431aef5160c04851
-D	templates/bootstrap-6-6.html.twig	
-D	templates/bootstrap-7-5.html.twig	
-D	templates/bootstrap-8-4.html.twig	
-D	templates/bootstrap-9-3.html.twig	
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	bootstrap_layouts.info.yml	4e4483c6f7fdc630b611706675ba71dc
+A	bootstrap_layouts.layouts.yml	1ed2220710a71c7a91ecd4839883bb0a
+A	bootstrap_layouts.module	bfab3b2913f8d295e6a58c0161574bc5
+A	templates/bootstrap-6-6-bricks.html.twig	e891ae9abcdba27176af6502df32c9e2
+A	templates/bootstrap-6-6-stacked.html.twig	78fa8434007e0a33431aef5160c04851
 A	templates/one-column/bootstrap-12/bootstrap-12.html.twig	1b6ae568ac9661fbb9ade1ee48c5004d
 A	templates/three-columns/bootstrap-2-2-8/bootstrap-2-2-8.html.twig	f494567d70ac4b580f5d9e1e6e519120
 A	templates/three-columns/bootstrap-2-8-2/bootstrap-2-8-2.html.twig	07a00814b8a3cce79a33bf9c7bb6dd58

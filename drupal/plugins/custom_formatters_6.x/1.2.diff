@@ -1,0 +1,8 @@
+M	CHANGELOG.txt	901bd4e25dc2b0a3563792e760154cae
+M	README.txt	f557fad8dce429533457beb4557aa8a1
+M	custom_formatters.admin.inc	8e4b0a0fe02ad02f54cfcafb20f0cf0d
+M	custom_formatters.info	886f7c12b0c73ad334198eef4bb9e69b
+M	custom_formatters.install	2ae8ba6c5e4e3d59d08f9d8d01c4e936
+M	custom_formatters.module	c13cb32a639e9f45e5f734e78a09357f
+A	modules/insert.inc	af7aa237f457903d6e6114f822da57f4
+M	translations/custom_formatters.pot	e921d6969e14af82775ccda433032f89

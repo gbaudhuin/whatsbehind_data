@@ -1,0 +1,15 @@
+A	.gitignore	7a8b085dbf273de1bb2cb0b44c858f33
+M	acquia_lift.info.yml	401df315aa03a0e9ebe44fd1981349b2
+M	acquia_lift.install	f381a5085ae1036b58013da9b744e2e6
+M	acquia_lift.module	1b0998dcabf10d306fc275464fede6fe
+M	js/acquia_lift.js	e0d8fee3329c7bcab988a984ae8cbf6b
+M	src/Service/Context/PageContext.php	a6e51a920399a1636e3942cb59db43c3
+M	src/Tests/SettingsDataTrait.php	c6c534daa0161335820f0c2d3dbd9a48
+M	src/Tests/SettingsTest.php	015b64e868431fbf844d68b50a8e2239
+A	tests/src/Unit/Polyfill/Drupal.php	082bd7bbb90504fb2a2131479f94bed8
+M	tests/src/Unit/Service/Context/PageContextTest.php	31b9e73add58069bcc59636fe2d95f98
+M	tests/src/Unit/Service/Context/PathContextTest.php	25024f120aac1472fbcff657931370c1
+M	tests/src/Unit/Service/Helper/HelpMessageHelperTest.php	c49a6c9620b5595ef742851ecbb97866
+M	tests/src/Unit/Service/Helper/NodeTypeThumbnailFormHelperTest.php	b2c51f0145978d102374e0c3ffbd71b1
+D	tests/src/Unit/Service/Helper/image_style_options.php	
+M	tests/src/Unit/Traits/SettingsDataTrait.php	68cd5b0317e543bd4fba679b4adc1c70

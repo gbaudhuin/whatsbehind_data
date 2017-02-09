@@ -1,42 +1,37 @@
 A	.cvsignore	0cc0332368725aec2f37efb976323c76
-M	CHANGELOG.txt	0e9cd4019b675db2eb5733fb0eb1421a
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	05f66738e0f12968fdeba396fa4c92c9
-D	editors/ckeditor.inc	
+A	CHANGELOG.txt	0e9cd4019b675db2eb5733fb0eb1421a
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	05f66738e0f12968fdeba396fa4c92c9
 A	editors/css/markitup-1.css	1505950a1cf20ffc7a5cfe4bfd2333ca
-D	editors/css/openwysiwyg.css	
-M	editors/css/tinymce-2.css	da4919c4bbb12ab14d35eab1b63314dc
-M	editors/css/tinymce-3.css	35a9920a22c8fa072de2e6d8dd9d1a20
-M	editors/fckeditor.inc	37a78eb8f1c974c92ef717b24bb5a1f2
-D	editors/js/ckeditor-3.0.js	
-M	editors/js/fckeditor-2.6.js	72bb482a6d6e0b73e609bb0b9d7afc41
-M	editors/js/fckeditor.config.js	a592e5fe35a83c7997f902e82330c469
-M	editors/js/jwysiwyg.js	32e72d895eeb5ac16fd62450cf159ece
-M	editors/js/markitup.js	f9114d1f8b8ddef2855d0064aa3baeb7
-M	editors/js/nicedit.js	f128e2e576058875c8bf999f978f1fdf
-M	editors/js/none.js	27e47013d5b4261a89e36390ec3b53ee
+A	editors/css/tinymce-2.css	da4919c4bbb12ab14d35eab1b63314dc
+A	editors/css/tinymce-3.css	35a9920a22c8fa072de2e6d8dd9d1a20
+A	editors/fckeditor.inc	37a78eb8f1c974c92ef717b24bb5a1f2
+A	editors/js/fckeditor-2.6.js	72bb482a6d6e0b73e609bb0b9d7afc41
+A	editors/js/fckeditor.config.js	a592e5fe35a83c7997f902e82330c469
+A	editors/js/jwysiwyg.js	32e72d895eeb5ac16fd62450cf159ece
+A	editors/js/markitup.js	f9114d1f8b8ddef2855d0064aa3baeb7
+A	editors/js/nicedit.js	f128e2e576058875c8bf999f978f1fdf
+A	editors/js/none.js	27e47013d5b4261a89e36390ec3b53ee
 A	editors/js/tinymce-2.js	2bb47ef416514af308bcf9fff880124e
-M	editors/js/tinymce-3.js	162a79c9fe118f382265f0e7df1aed48
-D	editors/js/whizzywig-56.js	
-D	editors/js/whizzywig-60.js	
-M	editors/js/whizzywig.js	57c6ddd5e0db1c4188e1c6ac051ee9e0
-D	editors/js/wymeditor.js	
-M	editors/js/yui.js	73389fc59025f3d36871adcd49fb0a97
-M	editors/jwysiwyg.inc	d18322f2540f1370906a714843c31ec3
-M	editors/markitup.inc	b3e57ece138e6879fed1ec11349e59e0
-M	editors/nicedit.inc	17710eef45ffe1fac2e67e372e040250
-M	editors/tinymce.inc	7cde6430b33f148a03c0568e461af810
-M	editors/whizzywig.inc	80b0f5de90c3973b061e9846904d364d
-D	editors/wymeditor.inc	
-M	editors/yui.inc	2d8942954cafa776db9ca852a271e0d2
-D	override-ctools-ajax.js	
-M	plugins/break.inc	55432aea1cd238ddae769820b0d93a60
-M	plugins/break/break.css	a7f51531d2b697880cd0a8b341be7262
-M	plugins/break/break.js	1fc248a24035a74f36414a2654ca3124
-M	plugins/break/langs/ca.js	80bebb7b2489005e61a5053a54a58c56
-M	plugins/break/langs/de.js	992eb20ee09a8d7efdc2d387189b42b9
-M	plugins/break/langs/en.js	4e41afcbf77b3e7f2442a91b38824f00
-M	plugins/break/langs/es.js	2df8b24fa18004d790aee5c3a1abc164
+A	editors/js/tinymce-3.js	162a79c9fe118f382265f0e7df1aed48
+A	editors/js/whizzywig.js	57c6ddd5e0db1c4188e1c6ac051ee9e0
+A	editors/js/yui.js	73389fc59025f3d36871adcd49fb0a97
+A	editors/jwysiwyg.inc	d18322f2540f1370906a714843c31ec3
+A	editors/markitup.inc	b3e57ece138e6879fed1ec11349e59e0
+A	editors/nicedit.inc	17710eef45ffe1fac2e67e372e040250
+A	editors/tinymce.inc	7cde6430b33f148a03c0568e461af810
+A	editors/whizzywig.inc	80b0f5de90c3973b061e9846904d364d
+A	editors/yui.inc	2d8942954cafa776db9ca852a271e0d2
+A	plugins/break.inc	55432aea1cd238ddae769820b0d93a60
+A	plugins/break/break.css	a7f51531d2b697880cd0a8b341be7262
+A	plugins/break/break.js	1fc248a24035a74f36414a2654ca3124
+A	plugins/break/images/break.gif	dff3bc0a01a614b601b7826415bfe4ca
+A	plugins/break/images/breaktext.gif	48fcce7404781f0993c25ff9ff4f181e
+A	plugins/break/images/spacer.gif	12bf9e19374920de3146a64775f46a5e
+A	plugins/break/langs/ca.js	80bebb7b2489005e61a5053a54a58c56
+A	plugins/break/langs/de.js	992eb20ee09a8d7efdc2d387189b42b9
+A	plugins/break/langs/en.js	4e41afcbf77b3e7f2442a91b38824f00
+A	plugins/break/langs/es.js	2df8b24fa18004d790aee5c3a1abc164
 A	translations/da.po	622a4e31d60df609e7f85df156829f11
 A	translations/de.po	7ead0c7ddd32021cc3db3c27694c5b49
 A	translations/el.po	4716294c100615c83b770d19848f1390
@@ -45,13 +40,12 @@ A	translations/hu.po	b3567c08fbe0c8fe784cb2a5a2f144b1
 A	translations/sv.po	8049453e4f20a1929b8c9d8a704cfc10
 A	translations/tr.po	0f97161dbc9f3c1bdb93d5738350eb48
 A	translations/wysiwyg.pot	25d16ece2e98789b9eaf7a8840b4b52c
-M	wysiwyg-dialog-page.tpl.php	c25b87560dd2440cfc057e82901c1c2c
-M	wysiwyg.admin.inc	865f3919fadc7f865a13e1b66b202204
-D	wysiwyg.api.js	
-M	wysiwyg.api.php	7c9d2da413e13807299a024fd3e247bc
-M	wysiwyg.dialog.inc	20cbbd75c140d8b1718deddb7f2fbc3c
-M	wysiwyg.info	c277dedd03985166e80e434c6d61f454
-M	wysiwyg.init.js	2305f684d2c14e374192fafca89bf2f0
-M	wysiwyg.install	aaf8008be9b7c8172d0ef7bc49d13b06
-M	wysiwyg.js	40c70cda583248a8e7267782244b72fb
-M	wysiwyg.module	3fd1a01770098306c70e3c762d5f0014
+A	wysiwyg-dialog-page.tpl.php	c25b87560dd2440cfc057e82901c1c2c
+A	wysiwyg.admin.inc	865f3919fadc7f865a13e1b66b202204
+A	wysiwyg.api.php	7c9d2da413e13807299a024fd3e247bc
+A	wysiwyg.dialog.inc	20cbbd75c140d8b1718deddb7f2fbc3c
+A	wysiwyg.info	c277dedd03985166e80e434c6d61f454
+A	wysiwyg.init.js	2305f684d2c14e374192fafca89bf2f0
+A	wysiwyg.install	aaf8008be9b7c8172d0ef7bc49d13b06
+A	wysiwyg.js	40c70cda583248a8e7267782244b72fb
+A	wysiwyg.module	3fd1a01770098306c70e3c762d5f0014

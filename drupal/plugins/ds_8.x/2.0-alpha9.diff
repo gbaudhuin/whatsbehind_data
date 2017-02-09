@@ -52,13 +52,27 @@ M	lib/Drupal/ds/Form/EmergencyForm.php	363401fdece221144a6d5bd4606cb7cf
 M	lib/Drupal/ds/Form/SettingsForm.php	74ba0acf35d734586fdf16cd932dd72b
 M	lib/Drupal/ds/Plugin/DSPluginManager.php	123347149e5d62df34fa3101f6829b65
 M	lib/Drupal/ds/Plugin/Derivative/DsEntityRow.php	26ce045dede5623f2abd3f356f695625
+D	lib/Drupal/ds/Plugin/Derivative/DynamicCodeField.php	
 A	lib/Drupal/ds/Plugin/Derivative/DynamicCopyField.php	57d4b35aa2677de600233f02011b6abf
 D	lib/Drupal/ds/Plugin/Derivative/DynamicPreprocessField.php	
+A	lib/Drupal/ds/Plugin/Derivative/DynamicTokenField.php	cb4ac341cfdbd4928c405f13bf9f3697
 M	lib/Drupal/ds/Plugin/DsField/BlockBase.php	43abc9a020a7eba3c8fbd38fad763e1c
+A	lib/Drupal/ds/Plugin/DsField/Book/BookNavigation.php	a66c1d63a6ba884f27bf4c738b5fcd3b
+D	lib/Drupal/ds/Plugin/DsField/BookNavigation.php	
 D	lib/Drupal/ds/Plugin/DsField/CodeBase.php	
+A	lib/Drupal/ds/Plugin/DsField/Comment/CommentAuthor.php	e0ce134f9f9903fd6b444e9e4a43ece5
+A	lib/Drupal/ds/Plugin/DsField/Comment/CommentChangedDate.php	5e93e2c21e2ef37dfdcb40e67ee4f97e
+A	lib/Drupal/ds/Plugin/DsField/Comment/CommentPostDate.php	609daad57b2df400bb8313164cdaff0e
+A	lib/Drupal/ds/Plugin/DsField/Comment/CommentTitle.php	03380bb2c76da344fc3c6976ae2f5432
+A	lib/Drupal/ds/Plugin/DsField/Comment/CommentUserSignature.php	5b047bc3c09d24d12a9412329d4df8e7
+D	lib/Drupal/ds/Plugin/DsField/CommentAuthor.php	
+D	lib/Drupal/ds/Plugin/DsField/CommentChangedDate.php	
 D	lib/Drupal/ds/Plugin/DsField/CommentLinks.php	
 D	lib/Drupal/ds/Plugin/DsField/CommentPermalink.php	
+D	lib/Drupal/ds/Plugin/DsField/CommentPostDate.php	
 D	lib/Drupal/ds/Plugin/DsField/CommentSubmittedBy.php	
+D	lib/Drupal/ds/Plugin/DsField/CommentTitle.php	
+D	lib/Drupal/ds/Plugin/DsField/CommentUserSignature.php	
 M	lib/Drupal/ds/Plugin/DsField/Date.php	8e4c4afaded91662f8395704e5f72ec0
 M	lib/Drupal/ds/Plugin/DsField/DsFieldBase.php	c188ec7454b2dd27e172c0e340a228c9
 M	lib/Drupal/ds/Plugin/DsField/DsFieldInterface.php	35509b5b4f4ce4dec2546ae98f48642c
@@ -71,12 +85,36 @@ M	lib/Drupal/ds/Plugin/DsField/Entity.php	f4f9fbf02fcd0fd8f6a2ca26dd53f8f7
 M	lib/Drupal/ds/Plugin/DsField/Field.php	4dfa94751f351041742acfa76cbc7b14
 M	lib/Drupal/ds/Plugin/DsField/Link.php	98e5dac54ddcb56223ecadaf819333d6
 M	lib/Drupal/ds/Plugin/DsField/Markup.php	b1a075f67e544d4948ba003a5e6a41a4
+A	lib/Drupal/ds/Plugin/DsField/Node/NodeAuthor.php	530ffd45ee653bec496fd70233e0563a
+A	lib/Drupal/ds/Plugin/DsField/Node/NodeChangedDate.php	7f7b068beb91945733c4fedfdd1f0b43
+A	lib/Drupal/ds/Plugin/DsField/Node/NodeComments.php	0886f27896146ea1cf1a0f11758cb11b
+A	lib/Drupal/ds/Plugin/DsField/Node/NodeLink.php	7091368398d41795ec0d58c160fbb0e5
+A	lib/Drupal/ds/Plugin/DsField/Node/NodeLinks.php	7c8ef0a0e97c2b4dccd3c77f0002ed3b
+A	lib/Drupal/ds/Plugin/DsField/Node/NodePostDate.php	4948471eadb9d3b0f19994130e443011
 A	lib/Drupal/ds/Plugin/DsField/Node/NodeSubmittedBy.php	d897c44d15be258684a8bf2e9c8254e5
+A	lib/Drupal/ds/Plugin/DsField/Node/NodeTitle.php	df0319787816470a94a16250235dfef4
+D	lib/Drupal/ds/Plugin/DsField/NodeAuthor.php	
+D	lib/Drupal/ds/Plugin/DsField/NodeChangedDate.php	
+D	lib/Drupal/ds/Plugin/DsField/NodeComments.php	
+D	lib/Drupal/ds/Plugin/DsField/NodeLink.php	
+D	lib/Drupal/ds/Plugin/DsField/NodeLinks.php	
+D	lib/Drupal/ds/Plugin/DsField/NodePostDate.php	
 D	lib/Drupal/ds/Plugin/DsField/NodeSubmittedBy.php	
+D	lib/Drupal/ds/Plugin/DsField/NodeTitle.php	
 D	lib/Drupal/ds/Plugin/DsField/PreprocessBase.php	
+A	lib/Drupal/ds/Plugin/DsField/Taxonomy/TaxonomyTermLink.php	aa4d39989c14cf972d3d4ae02b4f3348
+A	lib/Drupal/ds/Plugin/DsField/Taxonomy/TaxonomyTermTitle.php	1ac47446f3c8d2754d0732f2b4a55901
+D	lib/Drupal/ds/Plugin/DsField/TaxonomyTermLink.php	
+D	lib/Drupal/ds/Plugin/DsField/TaxonomyTermTitle.php	
 M	lib/Drupal/ds/Plugin/DsField/ThemePluginBase.php	794fcf7a5780aae405259cabc52ffa41
 M	lib/Drupal/ds/Plugin/DsField/Title.php	3cb86f12c29c2a21004083f5be71e806
 A	lib/Drupal/ds/Plugin/DsField/TokenBase.php	7034c71aaa815af76be92ad3f6182c39
+D	lib/Drupal/ds/Plugin/DsField/User.php	
+A	lib/Drupal/ds/Plugin/DsField/User/User.php	b1d59299b16fc562eb5b03df4d59581a
+A	lib/Drupal/ds/Plugin/DsField/User/UserSignature.php	4c0777ab3af8703f9017c4f80ca73498
+A	lib/Drupal/ds/Plugin/DsField/User/Username.php	b0e852255b2f72c45f7b0da89f51fc98
+D	lib/Drupal/ds/Plugin/DsField/UserSignature.php	
+D	lib/Drupal/ds/Plugin/DsField/Username.php	
 M	lib/Drupal/ds/Plugin/views/row/DsEntityRow.php	36b78432ba909c3d5bce76d5c94ea8b4
 M	lib/Drupal/ds/Tests/BaseTest.php	3b31a3e152c00e0d0cd24f371c6d929a
 M	lib/Drupal/ds/Tests/EntitiesTest.php	533ccf5c64a0b2cca4894f710264a24c
@@ -112,6 +150,8 @@ D	modules/ds_search/config/ds.search.yml
 A	modules/ds_search/config/ds_search.settings.yml	4a07c889f6e0b21a0081697c3f18be34
 A	modules/ds_search/config/schema/ds_search.schema.yml	873aaafdfe74cbe2155808b827a04499
 A	modules/ds_search/config/search.page.ds_node_search.yml	e6064c0d780dd4741863854c972b554d
+D	modules/ds_search/css/ds_search.theme.css	
+A	modules/ds_search/css/search.theme.css	0000bb5a9d316f848e7d4ad93551a951
 D	modules/ds_search/ds_search.install	
 M	modules/ds_search/ds_search.module	e02a685fd5a6b1fd764aaaf0dd1932a8
 D	modules/ds_search/includes/admin.inc	
@@ -129,10 +169,12 @@ M	modules/ds_ui/ds_ui.routing.yml	ea57a22ee01ddeaeaa3d51cce1d42977
 M	modules/ds_ui/lib/Drupal/ds_ui/Controller/FieldController.php	a43626c11f592b08ba1f4c5bc6bdf9d6
 M	modules/ds_ui/lib/Drupal/ds_ui/Form/BlockFieldForm.php	beed25baa13ba2b556228860270db0f1
 M	modules/ds_ui/lib/Drupal/ds_ui/Form/ClassesForm.php	ed029d2791ab86aaa361fc24cd75d5ef
+D	modules/ds_ui/lib/Drupal/ds_ui/Form/CodeFieldForm.php	
 A	modules/ds_ui/lib/Drupal/ds_ui/Form/CopyFieldForm.php	81a4eb9e3cca6f173897aee44a4dbcae
 M	modules/ds_ui/lib/Drupal/ds_ui/Form/FieldDeleteForm.php	aba9ad335f6504fe58a3748a0b21e916
 M	modules/ds_ui/lib/Drupal/ds_ui/Form/FieldFormBase.php	b6025f01331cbcddd4b6ea35d4661e93
 D	modules/ds_ui/lib/Drupal/ds_ui/Form/PreprocessFieldForm.php	
+A	modules/ds_ui/lib/Drupal/ds_ui/Form/TokenFieldForm.php	a5a5d666635bc45b88fef5409748595d
 M	tests/modules/ds_exportables_test/config/ds.field_settings.node.article.default.yml	cbd9f1919b55819a05da3d5600c04261
 M	tests/modules/ds_exportables_test/config/ds.layout_settings.node.article.default.yml	9e95a4ec5eee743de7b2136daf629959
 A	tests/modules/ds_test/config/views.view.ds-testing.yml	d9da0280a501ac7c64b7f5cdc28d366a

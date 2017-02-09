@@ -1,5 +1,5 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	84d555f6febe7ee61f5ebc0970c2d39e
 A	po/de.po	b70eafadf98f3c50852bb097245e43e5
 A	po/es.po	c76c4939efbbe8ec6f86125ec1c6228b
 A	po/fr.po	33b552f358a59cda7e305387a5bf4b05
@@ -10,7 +10,6 @@ A	po/ja.po	31c48d4e84c44cf64521eba7714d2da8
 A	po/nl.po	c630f7645975d1317b7026343835a24a
 A	po/ru.po	01d43e62d0e14c3efc3364b4899cca4a
 A	po/tagadelic.pot	a186a5cafaf52853cde256f3b57ac017
-M	tagadelic.css	b01a7722fb0cbea88c57d2022d64c3e2
-M	tagadelic.info	b9d8b56edbabeec53006128a70b4b950
-D	tagadelic.install	
-M	tagadelic.module	708eab15f40d58bcb011d40d4c2e3a1c
+A	tagadelic.css	b01a7722fb0cbea88c57d2022d64c3e2
+A	tagadelic.info	b9d8b56edbabeec53006128a70b4b950
+A	tagadelic.module	708eab15f40d58bcb011d40d4c2e3a1c

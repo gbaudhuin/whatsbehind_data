@@ -22,11 +22,15 @@ A	includes/features.taxonomy.inc	059901ce9c670c1738fa5640ffa6a231
 M	includes/features.user.inc	dad4fb5fedcb88336419cc3ff2dc603c
 M	includes/features.views.inc	8656a7f5cc8b87965957303185650cd0
 M	tests/features.test	9224e169b1409061806f17757976bf01
+D	tests/features_test.defaults.inc	
+A	tests/features_test.features.content.inc	e1fc1672e5107385d8744cc6dca75e0b
 A	tests/features_test.features.fieldgroup.inc	8ca77fe0c15b38ebb2ce159c8264e0a7
 A	tests/features_test.features.filter.inc	0169d42a9d877924abf843d303b3734e
 M	tests/features_test.features.inc	3b20416e9bc495cda08cb17f122b5a17
 D	tests/features_test.features.node.inc	
 A	tests/features_test.features.user_permission.inc	f105e5f6ae5fb0106ef9158338812240
+D	tests/features_test.features.views.inc	
 M	tests/features_test.info	f54b1a7e805096c5d41f88de8b52c994
+A	tests/features_test.views_default.inc	6ceca8970124938c51c29659e9076926
 M	theme/features-admin-components.tpl.php	3543a51949b4c6b5a615092cd367805b
 M	theme/theme.inc	3d0d3c011f94265e7c67a334f93b456d

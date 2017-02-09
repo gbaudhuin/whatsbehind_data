@@ -19,8 +19,10 @@ A	src/Annotation/Analyzer.php	5a20122dda862d6a3a327a89437f684b
 A	src/Annotation/Cleaner.php	068b631634a47058679492d58c26b61d
 M	src/Annotation/Converter.php	ffce0ea57567afbd7ee5ed0b16269a7c
 A	src/Annotation/Indexer.php	d5d6797c305af3c2ba6f5691816ab284
+A	src/CleanerInterface.php	51d82db52a6f8a539c7f30185a4b73f5
 M	src/CodeManager.php	f32acf6ff8f68198e101bad925c35dbd
 D	src/Converter/AnalyzerInterface.php	
+D	src/Converter/CleanerInterface.php	
 D	src/Converter/ConverterBase.php	
 D	src/Converter/ConverterInterface.php	
 D	src/Converter/FunctionReplacement/FunctionCallAlter.php	
@@ -28,11 +30,13 @@ D	src/Converter/FunctionReplacement/FunctionCallModifier.php
 D	src/Converter/FunctionReplacement/FunctionCallRewriter.php	
 D	src/Converter/HookConverterBase.php	
 D	src/Converter/IndexerInterface.php	
+D	src/Converter/Routing/Drupal7/ParameterBinding.php	
 D	src/Converter/Routing/Drupal7/ParameterMap.php	
 D	src/Converter/Routing/Drupal8/ParameterBinding.php	
 D	src/Converter/Routing/Drupal8/ParameterMap.php	
 M	src/Converter/Routing/Drupal8/RouteWrapper.php	357539be6965d0b528962410f04d08b4
 M	src/Converter/Routing/HookMenu.php	50cf7dd738f63ee420896b7ceb0bfe75
+A	src/Converter/Routing/ParameterBinding.php	f30549faefaa2c24a9628576cee33e04
 D	src/Converter/Routing/ParameterBindingBase.php	
 D	src/Converter/Routing/ParameterBindingInterface.php	
 A	src/Converter/Routing/ParameterMap.php	8b44652c343f4ad74075afaf9d74ea99
@@ -59,6 +63,7 @@ A	src/Plugin/DMU/Analyzer/FlagHook.php	7d5e9b70afda11497663127a957ad32b
 A	src/Plugin/DMU/Analyzer/FlagHookDeriver.php	4350fb30e25a816eb644f13183e0a583
 A	src/Plugin/DMU/Analyzer/FunctionCall.php	ff50808c2c8330011f691a8fcb74a2cb
 A	src/Plugin/DMU/Analyzer/FunctionCallDeriver.php	9c31c9a743888428dbb54bf3395eed11
+A	src/Plugin/DMU/Analyzer/Grep.php	b56dcaa416840743822bf97013b70023
 A	src/Plugin/DMU/Analyzer/HookFormAlter.php	63747c3752b7cab8b7f1775cff867eed
 A	src/Plugin/DMU/Analyzer/HookPermission.php	d98457eef6573083c933a43b515c4f3b
 A	src/Plugin/DMU/Analyzer/HookUninstall.php	d1ca4cbf42f8118489f2fca4a2ea24e8
@@ -71,6 +76,7 @@ A	src/Plugin/DMU/Cleaner/InfoFile.php	2a4d4f4c446cf2e2bee82566dd03e207
 A	src/Plugin/DMU/Cleaner/Tests.php	0169d0170a04c5224f9bc7205817153c
 A	src/Plugin/DMU/Converter/Functions/CToolsGetPlugins.php	3503e0b15cd4e64fc41f48b31a1c0871
 A	src/Plugin/DMU/Converter/Functions/CToolsObjectCacheGet.php	2f0281bcf9c22ebc06f2ba0177b6611b
+A	src/Plugin/DMU/Converter/Functions/CToolsObjectCacheSet.php	50ce1f0f3fd48247db43d972feec1ef8
 A	src/Plugin/DMU/Converter/Functions/CacheGet.php	0a2d4f86c88bd46268fc91e76fcb19e6
 A	src/Plugin/DMU/Converter/Functions/CacheSet.php	0c37efe6667091a4ce33ad764846669b
 A	src/Plugin/DMU/Converter/Functions/DB.php	fcc5a50f77bd43ec9ccc9cf1963d9f24
@@ -81,10 +87,13 @@ A	src/Plugin/DMU/Converter/Functions/DrupalMapAssoc.php	c068ceca3153340bc16ef352
 A	src/Plugin/DMU/Converter/Functions/DrupalWriteRecord.php	b28f6e2b626ad1c2b2d51dc594b57ba2
 A	src/Plugin/DMU/Converter/Functions/EntityCreate.php	e4fffda35d0c997fc2eda82c622a870b
 A	src/Plugin/DMU/Converter/Functions/EntityGetInfo.php	0f5fea917d41016c93bf6f402802684c
+A	src/Plugin/DMU/Converter/Functions/EntityLoad.php	1a8e6deee70cf0c50d398e927d68eefe
 A	src/Plugin/DMU/Converter/Functions/EntityLoadDeriver.php	e8e97086e2e6fb23a5b78f73e7487955
 A	src/Plugin/DMU/Converter/Functions/EntityOperation.php	251cf12a74be1c715cea82288fe28789
 A	src/Plugin/DMU/Converter/Functions/EntityOperationDeriver.php	bf98d6fecf406a00c8faf026b0a08743
+A	src/Plugin/DMU/Converter/Functions/FieldInfoFieldTypes.php	56ff28bc46d02bae32a8515876a98268
 A	src/Plugin/DMU/Converter/Functions/FieldInfoFormatterTypes.php	692d375b2ac6aff7b8a25e942fc65132
+A	src/Plugin/DMU/Converter/Functions/FieldInfoWidgetTypes.php	f01bce060159b8f479f6660805d1a61d
 A	src/Plugin/DMU/Converter/Functions/FieldUpdateField.php	87083395b89c219d72c201bd7c16c901
 A	src/Plugin/DMU/Converter/Functions/FieldUpdateInstance.php	0cbf3dc38d468a2896979ad73dc403d4
 A	src/Plugin/DMU/Converter/Functions/FieldViewField.php	96047ef9d7c4463778fb047be8da0d0f
@@ -107,8 +116,11 @@ A	src/Plugin/DMU/Converter/Functions/ModuleInvokeAll.php	32e51e49fac8685a346118d
 A	src/Plugin/DMU/Converter/Functions/Theme.php	c8d18f71c4d6b018d27065ac0a6802ce
 A	src/Plugin/DMU/Converter/Functions/ThemeGetRegistry.php	0fa2692056ee8f756fb6cd3461878e00
 A	src/Plugin/DMU/Converter/Functions/URL.php	16cad532efd55c175309c9e8ec3cab7d
+A	src/Plugin/DMU/Converter/Functions/UserAccess.php	dfb5896901ab03ded608ec5176349bcd
 A	src/Plugin/DMU/Converter/Functions/VariableDel.php	505aecc1b597e5e07070d95391c1cc75
+A	src/Plugin/DMU/Converter/Functions/VariableGet.php	927ddf868fadef1d21384f3d4c22ac05
 A	src/Plugin/DMU/Converter/Functions/VariableSet.php	0e929b17362cdd0b46681d0348c62be6
+A	src/Plugin/DMU/Converter/Functions/Watchdog.php	1fa68e571b383eb51ed83e8f7a116265
 A	src/Plugin/DMU/Converter/Grep.php	4ebf77b15c9765ac3f8b7e2321549a4b
 A	src/Plugin/DMU/Converter/HookBlockInfo.php	0cc46b9e342b425dc419f6ccc8866d13
 A	src/Plugin/DMU/Converter/HookEntityInfo.php	4d45db3780a02aec416372d24d00f37c
@@ -120,12 +132,19 @@ A	src/Plugin/DMU/Converter/HookFieldFormatterInfo.php	68c780d4afa948d07a86b2eb15
 A	src/Plugin/DMU/Converter/HookFieldWidgetInfo.php	8fedd36b40d4ba7f3eb3d0eacc6064f7
 A	src/Plugin/DMU/Converter/HookFormAlter.php	5e27fc9e83a2608e03dcf95821c879f8
 A	src/Plugin/DMU/Converter/HookInit.php	637823e1d697c96becd93d1b2a688a7f
+A	src/Plugin/DMU/Converter/HookMenuAlter.php	a82e17f5a6b5c644f687f5703c2f9bb8
 A	src/Plugin/DMU/Converter/HookPermission.php	7b4d15fab4e334378646421982450843
 A	src/Plugin/DMU/Converter/HookURLOutboundAlter.php	dad8c3b240821b56dd97d13e87f6d6f3
+A	src/Plugin/DMU/Converter/HookUninstall.php	fc5af6f5236225b44674835a903d5de7
 A	src/Plugin/DMU/Converter/HookWatchdog.php	79bec049de119408af12cf28375de656
+A	src/Plugin/DMU/Converter/InfoToYAML.php	c239b679806481097c43a675af278ed6
+A	src/Plugin/DMU/Converter/Links.php	c8d4b3894c76a797a9542fe865eb2b88
 A	src/Plugin/DMU/Converter/PSR4.php	129720cee42cb180797ae8ad4054c67f
+A	src/Plugin/DMU/Converter/Routing.php	9010190dbac839ccd3c2a14278e2e3d3
+A	src/Plugin/DMU/Converter/Tests.php	5ae4ce8c3d01da9d0b4ecb1e8f26491a
 D	src/Plugin/DMU/FunctionReplacement/CTools/CToolsGetPlugins.php	
 D	src/Plugin/DMU/FunctionReplacement/CTools/CToolsObjectCacheGet.php	
+D	src/Plugin/DMU/FunctionReplacement/CTools/CToolsObjectCacheSet.php	
 D	src/Plugin/DMU/FunctionReplacement/DBLegacyTables.php	
 D	src/Plugin/DMU/FunctionReplacement/DisableDeriver.php	
 D	src/Plugin/DMU/FunctionReplacement/DisableFunctionCall.php	
@@ -134,7 +153,10 @@ D	src/Plugin/DMU/FunctionReplacement/EntityAPI/EntityCreate.php
 D	src/Plugin/DMU/FunctionReplacement/EntityAPI/EntityOperation.php	
 D	src/Plugin/DMU/FunctionReplacement/EntityAPI/EntityOperationDeriver.php	
 D	src/Plugin/DMU/FunctionReplacement/EntityGetInfo.php	
+D	src/Plugin/DMU/FunctionReplacement/EntityLoad.php	
 D	src/Plugin/DMU/FunctionReplacement/EntityLoadDeriver.php	
+D	src/Plugin/DMU/FunctionReplacement/FieldInfoFieldTypes.php	
+D	src/Plugin/DMU/FunctionReplacement/FieldInfoWidgetTypes.php	
 D	src/Plugin/DMU/FunctionReplacement/L.php	
 D	src/Plugin/DMU/FunctionReplacement/Language/LanguageDefault.php	
 D	src/Plugin/DMU/FunctionReplacement/Language/LanguageList.php	
@@ -147,9 +169,12 @@ D	src/Plugin/DMU/FunctionReplacement/ModuleInvokeAll.php
 D	src/Plugin/DMU/FunctionReplacement/Theme.php	
 D	src/Plugin/DMU/FunctionReplacement/ThemeGetRegistry.php	
 D	src/Plugin/DMU/FunctionReplacement/URL.php	
+D	src/Plugin/DMU/FunctionReplacement/UserAccess.php	
 D	src/Plugin/DMU/FunctionReplacement/VariableBase.php	
 D	src/Plugin/DMU/FunctionReplacement/VariableDel.php	
+D	src/Plugin/DMU/FunctionReplacement/VariableGet.php	
 D	src/Plugin/DMU/FunctionReplacement/VariableSet.php	
+D	src/Plugin/DMU/FunctionReplacement/Watchdog.php	
 A	src/Plugin/DMU/Indexer/Classes.php	1f7fbe32774f0e8616d02643044a9260
 A	src/Plugin/DMU/Indexer/FunctionCalls.php	4731bbce9d8f91704e48ec9670952a8f
 A	src/Plugin/DMU/Indexer/Functions.php	cd90cdcf608bfd5fc7fb8cecc4379d77
@@ -158,21 +183,30 @@ A	src/Plugin/DMU/Indexer/Tests.php	2ada33ee1e743672d2103e05fdc02fda
 A	src/Plugin/DMU/Indexer/UnitTests.php	7f85e1418152634f3ca078f0f6ca893f
 A	src/Plugin/DMU/Indexer/WebTests.php	6926450e47f8022ad6de400a9aa7ecdc
 D	src/Plugin/DMU/ModuleWide/FunctionReplacement.php	
+D	src/Plugin/DMU/ModuleWide/Grep.php	
 D	src/Plugin/DMU/ModuleWide/HookBlockInfo.php	
 D	src/Plugin/DMU/ModuleWide/HookExit.php	
 D	src/Plugin/DMU/ModuleWide/HookFormAlter.php	
 D	src/Plugin/DMU/ModuleWide/HookInit.php	
+D	src/Plugin/DMU/ModuleWide/HookMenuAlter.php	
 D	src/Plugin/DMU/ModuleWide/HookPermission.php	
 D	src/Plugin/DMU/ModuleWide/HookURLOutboundAlter.php	
+D	src/Plugin/DMU/ModuleWide/HookUninstall.php	
 D	src/Plugin/DMU/ModuleWide/HookWatchdog.php	
+D	src/Plugin/DMU/ModuleWide/InfoToYAML.php	
+D	src/Plugin/DMU/ModuleWide/Links.php	
 D	src/Plugin/DMU/ModuleWide/PSR4.php	
+D	src/Plugin/DMU/ModuleWide/Routing.php	
+D	src/Plugin/DMU/ModuleWide/Tests.php	
 A	src/Plugin/DMU/Routing/ContentRoute.php	90206d554ef15ea636163372c0b808b1
 M	src/Plugin/DMU/Routing/FormRoute.php	6a82eec6f9809a81b5f6a674550df197
 D	src/Plugin/DMU/Routing/GenericRoute.php	
 M	src/Target.php	dbeeb056e062ef9317263fb696e22ada
 M	src/TargetInterface.php	6c89f50e45dbed991e1e1ca6ab0f8276
+A	src/Tests/ContentRouteTest.php	377f998edb0270e0072773204140a175
 D	src/Tests/DatabaseIndexTest.php	
 M	src/Tests/FormRouteTest.php	9c12d0b93f222f3e07b18156ab088118
+D	src/Tests/GenericRouteTest.php	
 A	src/Tests/HookEntityInfoTest.php	27612b136a07b3f850815aae5c83fef1
 A	src/Tests/HookFieldFormatterInfoTest.php	a38d29d0c68b78b18b36553954c8cec0
 A	src/Tests/HookFieldWidgetInfoTest.php	296f10e2ce82b07cce4cbbe686fad425

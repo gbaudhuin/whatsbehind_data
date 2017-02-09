@@ -1,67 +1,24 @@
-A	API.txt	135c3c801fb8c357b7555d373e16bad8
+M	API.txt	135c3c801fb8c357b7555d373e16bad8
 M	CHANGELOG.txt	02a3dc37d4548973c6141f8cd9d35423
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 M	README.txt	b85ef472a899426909fdc11d5db53d16
-A	TODO.txt	f1e724eff405278ae52935fd0da589b9
-D	help/default-layout.html	
-D	help/homebox.help.ini	
-D	help/images/block-options.png	
-D	help/images/edit-form.png	
-D	help/images/edit-go.png	
-D	help/images/homebox-screenshot.png	
-D	help/images/layout-assign.png	
-D	help/images/layout-form-overview.png	
-D	help/images/layout-go.png	
-D	help/images/new-page.png	
-D	help/images/permissions.png	
-D	help/images/settings-color.png	
-D	help/images/settings-colorpicker.png	
-D	help/images/settings-columns.png	
-D	help/images/settings-go.png	
-D	help/images/views-basic-settings.png	
-D	help/images/views-expose-button.png	
-D	help/images/views-expose-config.png	
-D	help/images/views-exposed-filter.png	
-D	help/images/views-pagination.png	
-D	help/introduction.html	
-D	help/new-page.html	
-D	help/permissions.html	
-D	help/settings.html	
-D	help/style.css	
-D	help/to-know.html	
-D	help/views.html	
+M	TODO.txt	f1e724eff405278ae52935fd0da589b9
 M	homebox-admin-display-form.tpl.php	45116b4acfa224990e9a6c7c2f4dd9ea
 M	homebox-block.tpl.php	80f6ab3940214d24191af1d394456d81
 M	homebox.admin.inc	d23839eac4ed49186247a76b501a15e0
 A	homebox.api.php	24a7dfccc761657e935e1e674c920bfc
 M	homebox.css	91f0f72f8610d2e4fb332757f6219695
-A	homebox.features.inc	fdc09251c5a05794704f81f3a7d32f5a
+M	homebox.features.inc	fdc09251c5a05794704f81f3a7d32f5a
 M	homebox.info	f8faeae495944586de5d5970c0cc5457
 M	homebox.install	b5ad907548de540a5bf289bc5fcf8aec
 M	homebox.js	0eb1dfd8ae8d72a25b53d7546461f243
 M	homebox.module	5df286d4418c7f945be7b85f79e9c908
 M	homebox.tpl.php	c842055a75337e7bc11a5708af9dcc30
-A	homebox_example/homebox_example.info	4c7681bea58b8b452a435225288e8473
-A	homebox_example/homebox_example.module	30323c5df6ffa2fb479317912f1bba46
-A	homebox_og/README.txt	58ad898dc4f57831cd0f6647a0472390
-A	homebox_og/homebox_og.info	ae62932e9e413196320ab6838a0734c1
-A	homebox_og/homebox_og.install	b6181f73d30d2112aa01ec5e0203879f
-A	homebox_og/homebox_og.module	c655689df5947fd4baa08186850730f7
-A	images/layout-example.png	124ceee143b69ef5423f508b28b0f325
-A	images/maximize.gif	ca2008f7c9f343a81f03b2b73534f56a
-A	images/minimize.gif	ad835961cfb07d2c4cfd227aa30519f8
-A	images/overlay.png	2a44fbdb7360c60122bcf6dcef0387d8
-A	includes/tipsy/images/tipsy.gif	46bd59d0472597ded9f5a15dc3f573ce
-A	includes/tipsy/jquery.tipsy.js	7f7bd4a05c6407a3b6a502f2728829c5
-A	includes/tipsy/tipsy.css	b56411af471bbe871d169e1719c51d6c
-D	translations/fr.po	
-D	translations/help/fr/default-layout.html	
-D	translations/help/fr/homebox.help.ini	
-D	translations/help/fr/introduction.html	
-D	translations/help/fr/new-page.html	
-D	translations/help/fr/permissions.html	
-D	translations/help/fr/settings.html	
-D	translations/help/fr/style.css	
-D	translations/help/fr/to-know.html	
-D	translations/help/fr/views.html	
-D	translations/homebox.pot	
+M	homebox_example/homebox_example.info	4c7681bea58b8b452a435225288e8473
+M	homebox_example/homebox_example.module	30323c5df6ffa2fb479317912f1bba46
+M	homebox_og/README.txt	58ad898dc4f57831cd0f6647a0472390
+M	homebox_og/homebox_og.info	ae62932e9e413196320ab6838a0734c1
+M	homebox_og/homebox_og.install	b6181f73d30d2112aa01ec5e0203879f
+M	homebox_og/homebox_og.module	c655689df5947fd4baa08186850730f7
+D	includes/json2.js	
+M	includes/tipsy/jquery.tipsy.js	7f7bd4a05c6407a3b6a502f2728829c5

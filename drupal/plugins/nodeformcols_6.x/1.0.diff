@@ -1,17 +1,10 @@
-D	CHANGELOG	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	css/nodeformcols.admin.css	8c5da0d24dd47a1e8f76cd4ce8c85495
-M	css/nodeformcols.css	7f2704c64eca7d90cce1ba165f471365
-M	js/nodeformcols.js	c619d7747066ca71f1e851d29b47a797
-D	nfcbiblio.info	
-D	nfcbiblio.module	
-D	nfccaptcha.info	
-D	nfccaptcha.module	
-M	node-form.tpl.php	dbfc0f7591c16eb2e0c0177a01d4bbad
-M	nodeformcols-configuration.tpl.php	3a73f1d00556bd370c1cc712f569ed24
-M	nodeformcols.admin.inc	9b97857734fc2c89e5f8df2b9d2183a6
-M	nodeformcols.info	24ecc0da4983cc46229ce853d14e7a51
-M	nodeformcols.install	130acd67ccd48536c6d56485cc397d60
-M	nodeformcols.module	bc9aeaff6f0bffb4a56e4e7bac10081c
-D	plugins/content_types/icon_form.png	
-D	plugins/content_types/nodeformcols.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	css/nodeformcols.admin.css	8c5da0d24dd47a1e8f76cd4ce8c85495
+A	css/nodeformcols.css	7f2704c64eca7d90cce1ba165f471365
+A	js/nodeformcols.js	c619d7747066ca71f1e851d29b47a797
+A	node-form.tpl.php	dbfc0f7591c16eb2e0c0177a01d4bbad
+A	nodeformcols-configuration.tpl.php	3a73f1d00556bd370c1cc712f569ed24
+A	nodeformcols.admin.inc	9b97857734fc2c89e5f8df2b9d2183a6
+A	nodeformcols.info	24ecc0da4983cc46229ce853d14e7a51
+A	nodeformcols.install	130acd67ccd48536c6d56485cc397d60
+A	nodeformcols.module	bc9aeaff6f0bffb4a56e4e7bac10081c

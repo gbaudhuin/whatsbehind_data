@@ -9,11 +9,10 @@ M	rotor.js	e33c7eb25083989bc714a33054373f7c
 M	rotor.module	1f84f90dfa27575621bc8f490060c8e9
 A	rotor.views.inc	7caf913d2e7ef5853b4259f58eb0665d
 A	rotor_plugin_style_rotor.inc	5b4bb6d27f2b7eafd3f9ae09170bac83
-M	theme/rotor-row-rotor.tpl.php	a179ac1926bc062b65ed0a41b7dd7995
-M	theme/rotor-view-rotor.tpl.php	0649b0f55be8f2913fa9d0893bf653ae
-M	theme/theme.inc	b94390ae70e045020b243d4f18f499f0
-M	views/rotor.views.inc	1384798046b0e1eb4d1567a19a29d67b
-M	views/rotor.views_default.inc	e0f1fbe963a783d3341ecdd5f051cd77
-M	views/rotor_plugin_row_rotor.inc	f9517ba43c3419fb1fb865dcbe292fc3
-M	views/rotor_plugin_style_rotor.inc	4840a5a5a7ce8e164813324785a05ed9
-D	views/views_field_handler_rotor_image.inc	
+A	theme/rotor-row-rotor.tpl.php	a179ac1926bc062b65ed0a41b7dd7995
+A	theme/rotor-view-rotor.tpl.php	0649b0f55be8f2913fa9d0893bf653ae
+A	theme/theme.inc	b94390ae70e045020b243d4f18f499f0
+A	views/rotor.views.inc	1384798046b0e1eb4d1567a19a29d67b
+A	views/rotor.views_default.inc	e0f1fbe963a783d3341ecdd5f051cd77
+A	views/rotor_plugin_row_rotor.inc	f9517ba43c3419fb1fb865dcbe292fc3
+A	views/rotor_plugin_style_rotor.inc	4840a5a5a7ce8e164813324785a05ed9

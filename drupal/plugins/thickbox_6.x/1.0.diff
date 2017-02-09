@@ -1,14 +1,15 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	55a3f54a36942a7d62e298223560c0ef
-M	thickbox.admin.inc	4dd84a7b9d02fb95c8f3fe9ec335e026
-M	thickbox.css	099eb11c5f0a909caced7b8a6390c988
-M	thickbox.info	da7b734bffef7a00cab401dd757bbdf1
-M	thickbox.install	cb3f4865cdaa874de534d9e54f55a4fc
-M	thickbox.js	a759386f2d6b7a39a19283ea62e2e1b6
-M	thickbox.module	2c3e35f14bfe840e5ec5d7910b1a45a4
-M	thickbox_auto.js	456ee5c1adaac3880f0fa8f708f247b7
-D	thickbox_ie.css	
-M	thickbox_login.js	22ffe7ac8ea851754946bc846da79821
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	55a3f54a36942a7d62e298223560c0ef
+A	loading_animation.gif	c33734a1bf58bec328ffa27872e96ae1
+A	macffbghack.png	6e63d8058c61e28953cc285de8d5c37d
+A	thickbox.admin.inc	4dd84a7b9d02fb95c8f3fe9ec335e026
+A	thickbox.css	099eb11c5f0a909caced7b8a6390c988
+A	thickbox.info	da7b734bffef7a00cab401dd757bbdf1
+A	thickbox.install	cb3f4865cdaa874de534d9e54f55a4fc
+A	thickbox.js	a759386f2d6b7a39a19283ea62e2e1b6
+A	thickbox.module	2c3e35f14bfe840e5ec5d7910b1a45a4
+A	thickbox_auto.js	456ee5c1adaac3880f0fa8f708f247b7
+A	thickbox_login.js	22ffe7ac8ea851754946bc846da79821
 A	translations/da.po	2181c9c18ed407aa373d1ad7b92109a6
 A	translations/fr.po	cdaca259a1c398ec5b4bc9ca645bd6f2
 A	translations/hu.po	61f08551bde549c4f02be948e26c2b34

@@ -39,5 +39,7 @@ A	templates/thumbs-up/thumbs-up.css	18c06b57a9f1a156a8267420ace1913f
 A	templates/thumbs-up/thumbs-up.tpl.php	08b720b9593a5d2d33b727e207de687a
 D	templates/thumbs_down.png	
 D	templates/thumbs_up.png	
+D	templates/yesno.css	
 D	templates/yesno.tpl.php	
+A	templates/yesno/yesno.css	8eb81d9f65fcdc5ecb89794ecbe7b566
 A	templates/yesno/yesno.tpl.php	0d02e6563901366accd6449184986f6f

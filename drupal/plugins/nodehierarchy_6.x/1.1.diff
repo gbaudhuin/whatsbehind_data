@@ -1,9 +1,11 @@
 A	includes/views/nodehierarchy.views.inc	6cf1a91bcdb4b9c38258bdddac230a7c
+A	includes/views/nodehierarchy.views_default.inc	4ad29f0da4497549c1ab01c53089f283
 A	includes/views/views_handler_argument_nodehierarchy_ancestor.inc	3a472633007733d26dba3ce3d8af4db4
 A	includes/views/views_handler_field_nodehierarchy_actions.inc	5ba4f4ce96bcad50ea63a5e329ef5ace
 A	includes/views/views_handler_field_nodehierarchy_parent.inc	61d4244d181833f596271403b2ed6441
 M	nodehierarchy.info	9307a44cd2eee7cda82878fde860994f
 M	nodehierarchy.module	87f02e460cd2e040706988432c06c189
 D	nodehierarchy.views.inc	
+D	nodehierarchy.views_default.inc	
 M	nodehierarchy_views/nodehierarchy_views.info	731fc2b4cb42f84c36de16d170f8b50d
 M	nodehierarchy_views/nodehierarchy_views.module	79322ea4950de6bac2eb622135979556

@@ -1,5 +1,0 @@
-M	NOTES.md	c26dbea9e0de00345048f313b221d620
-D	composer.json	
-M	src/Plugin/Filter/TocFilter.php	9bd340821de9240df85ee07918b38b8a
-M	tests/modules/toc_filter_test/toc_filter_test.info.yml	89b67f3aca5eda35730d6b2f15e31340
-M	toc_filter.info.yml	27aae4bdc9630b41a2d17de31f5b6cd0

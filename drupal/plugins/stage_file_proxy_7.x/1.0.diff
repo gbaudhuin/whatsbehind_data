@@ -1,3 +1,4 @@
-M	INSTALL.txt	81c058550eda2041d96c9d7d68e1bfb3
-M	stage_file_proxy.info	b51fdab8f7a13f3ee1fbccde04047f17
-M	stage_file_proxy.module	8738dd802f806a6f2fa4a7314e0148dc
+A	INSTALL.txt	81c058550eda2041d96c9d7d68e1bfb3
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	stage_file_proxy.info	b51fdab8f7a13f3ee1fbccde04047f17
+A	stage_file_proxy.module	8738dd802f806a6f2fa4a7314e0148dc

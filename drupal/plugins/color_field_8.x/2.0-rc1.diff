@@ -9,6 +9,8 @@ A	js/color_field_widget_grid.jquery.js	49297d09b5c5f47d039f4eab7ba603c4
 A	js/color_field_widget_spectrum.jquery.js	4188b54063a4ef5ebea08245b9c18816
 M	src/Plugin/Field/FieldWidget/ColorFieldWidgetBox.php	8af428dce84664e755b71e7f62018453
 M	src/Plugin/Field/FieldWidget/ColorFieldWidgetDefault.php	4dddcce02d3c91562778d76d4e85e093
+A	src/Plugin/Field/FieldWidget/ColorFieldWidgetGrid.php	450dcda27cdb237a85e49165b8cdbca7
 A	src/Plugin/Field/FieldWidget/ColorFieldWidgetHTML5.php	49106c3edb22e449ae47158cbdb0d654
+D	src/Plugin/Field/FieldWidget/ColorFieldWidgetSimple.php	
 M	src/Plugin/Field/FieldWidget/ColorFieldWidgetSpectrum.php	915f7015c8b5825ef08906572e178a23
 A	templates/color-field-widget-spectrum.html.twig	43d55c807a5d19564dba80f95922298b

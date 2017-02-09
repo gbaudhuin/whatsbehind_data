@@ -1,11 +1,9 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	_translations/de.po	
-D	_translations/jquery_media.pot	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 A	changelog.txt	2e3353159343defdabb900c4dd3f7b58
-M	jquery_media.info	947a90f874e723964d1a795b48383265
-M	jquery_media.install	d3d3b1ea52b7c2e7540e4bd044155b6d
-M	jquery_media.jq.inc	5b8d55f00ddf9f637afc279ee8438e3a
-M	jquery_media.module	1f676d077a53afffe3cada3b53c83bed
-M	jquery_media.settings.inc	affa37b44352a549410fc3d213f472e2
+A	jquery_media.info	947a90f874e723964d1a795b48383265
+A	jquery_media.install	d3d3b1ea52b7c2e7540e4bd044155b6d
+A	jquery_media.jq.inc	5b8d55f00ddf9f637afc279ee8438e3a
+A	jquery_media.module	1f676d077a53afffe3cada3b53c83bed
+A	jquery_media.settings.inc	affa37b44352a549410fc3d213f472e2
 A	js/jquery.blockUI.js	fd4f9fe145f4efe2ccb36f6a67d4f164
-M	js/jquery.media.js	01d0b99f2c15569f761d5f4d765ff7ab
+A	js/jquery.media.js	01d0b99f2c15569f761d5f4d765ff7ab

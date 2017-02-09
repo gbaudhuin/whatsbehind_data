@@ -1,5 +1,3 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	596ffc283b107776dd79316659f404a3
-A	hreflang.info.yml	75943a9188c001c8dd860198f658e80c
-A	hreflang.module	9cebd5ca35161da09b183c473c92d97b
-A	src/Tests/HreflangTest.php	5fe52a3828768616e21ec8278ac2def1
+M	hreflang.info.yml	75943a9188c001c8dd860198f658e80c
+M	hreflang.module	9cebd5ca35161da09b183c473c92d97b
+M	src/Tests/HreflangTest.php	5fe52a3828768616e21ec8278ac2def1

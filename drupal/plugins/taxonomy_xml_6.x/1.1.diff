@@ -1,25 +1,40 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	f46ee183a59f95b703934ee646de11ae
-M	csv_format.inc	02b3af68d3e98551363632759dd89d56
-D	docs/docs.css	
-D	docs/formats.html	
-D	docs/samples.html	
-D	docs/services.html	
-D	docs/theory.html	
+A	INSTALL.txt	f2bdb048faeba226e3661ac88d3917cc
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	f46ee183a59f95b703934ee646de11ae
+A	arc/ARC_api.php	ad577878877970b23afeb2505fb24a06
+A	arc/ARC_api_helper.php	7212285ddff7308c889d606ce60b1b58
+A	arc/ARC_erdf_parser.php	24470378ae4fe81aef35aa63caa089c5
+A	arc/ARC_ntriples_serializer.php	4cd99f408100a3d676a3e39fbe3c750f
+A	arc/ARC_rdf_store.php	b236c8ce937669ffe6950b9ba1d744d5
+A	arc/ARC_rdf_store_add_handler.php	29defab575817cfb8857444c2daf39e0
+A	arc/ARC_rdf_store_ask_handler.php	8812962c50df1b013cc7b0e13be95d24
+A	arc/ARC_rdf_store_construct_handler.php	7c6ad2c36ff0da762a090092a68ab89c
+A	arc/ARC_rdf_store_delete_handler.php	8d7b993afb3b0a69b92bc5a5f7638471
+A	arc/ARC_rdf_store_describe_handler.php	9bc561227770ab36c5144202d7ec21f2
+A	arc/ARC_rdf_store_keeper.php	01f425b5e7c2a2f11e8ab8cabd0f6ad6
+A	arc/ARC_rdf_store_merge_table_creator.php	3e145ef94fab74679d9bec96646b53a4
+A	arc/ARC_rdf_store_rdfxml_loader.php	0fc82bb78535b35bbf5eac2fd57aa38d
+A	arc/ARC_rdf_store_select_handler.php	5e0934e4210f9a404a4aa89ae80e77fc
+A	arc/ARC_rdf_store_select_json_sub_handler.php	f4bb02088f5e57636cec72a6b0328008
+A	arc/ARC_rdf_store_update_handler.php	96885d002bdf260c44728dfb7acf3926
+A	arc/ARC_rdfxml_parser.php	a7c7e60c28d21572ab6b698752d32d0c
+A	arc/ARC_simple_model.php	d4083e86c10593e79e4414bbb7f607e0
+A	arc/ARC_sparql2sql_rewriter.php	b7bd238beb5334a3312fae6c320df3ce
+A	arc/ARC_sparql_parser.php	45bf4b9ff1cb9d673785b41490cc6665
+A	arc/license.htm	42231a5fe9ea3319abcd1e472596753e
+A	csv_format.inc	02b3af68d3e98551363632759dd89d56
 A	formats.html	b71c16cf03432f101763e501541a50b7
-D	help.txt	
-D	lookup_services.inc	
-D	mesh_format.inc	
-M	rdf_format.inc	43814ec80cecdea71cbbef783f192f88
-D	samples/US_states_and_counties.rdf.xml	
-D	samples/international_press_topic_catalog-topicset-20001006.rdf	
-D	samples/phocoena_phocoena.tcs.xml	
-M	samples/taxonomy-slicer.sh	84a6a70cd0dc5a164fe4af874f69dc3f
-D	samples/world_geography-MeSH.rdf.xml	
-D	taxonomy_xml.css	
-M	taxonomy_xml.info	ca8c62ee0916dc086ea970343dc85028
-D	taxonomy_xml.js	
-M	taxonomy_xml.module	bcff6f86e8e3492f094a5feb03f54959
-D	tcs_format.inc	
+A	rdf_format.inc	43814ec80cecdea71cbbef783f192f88
+A	samples/kiwifruit.csv	3596f2c9276fbdc86f98133cb2ca2e83
+A	samples/render-taxonomy-rdf.xsl	ace462624b39279564130951217963ee
+A	samples/sample-Dewey_System-100_terms.csv	b9011860bffec7f4059ffd7d7d3a0bfa
+A	samples/sample-Dewey_system-100_terms.rdf	3d1a88b35335b0dd9cddbfe0456b6508
+A	samples/sample-north_american_countries_and_states.rdf	b90d62cb54f0b8ab5dc898ff163d9b06
+A	samples/sample-north_american_countries_and_states.xml	894e01f67797c7358b5616dce2b114b4
+A	samples/sample.xml	332409e23623ef4603982e3c1e903d57
+A	samples/taxonomy-slicer.sh	84a6a70cd0dc5a164fe4af874f69dc3f
+A	taxonomy.xsd	08fbec9b49e9130506ac1ee5b09c0744
+A	taxonomy_xml.info	ca8c62ee0916dc086ea970343dc85028
+A	taxonomy_xml.module	bcff6f86e8e3492f094a5feb03f54959
 A	theory.html	6de1980887610dc5cca15079e1090434
-M	xml_format.inc	91962d01cd716cbc141dff8b66bee219
+A	xml_format.inc	91962d01cd716cbc141dff8b66bee219

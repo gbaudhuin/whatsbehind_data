@@ -1,13 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	images/README.txt	2344eda5f9b1d5bd54b619af711ae710
-A	images/bullet_delete.png	7e797dd6a643948f3f49c676611551d4
-A	images/bullet_toggle_minus.png	65a25c6d19be5855496cb7b7172c0392
-A	images/bullet_toggle_plus.png	14f7753e5c85d88253d0ce53f4e270c7
-A	images/dotted_corner.png	1be9080fa808b872f949cc45de47afd2
-A	images/dotted_line.png	5c2ce9011a2b934d812a950374a564a7
-A	term_reference_tree.css	e53ed0b1605699a216b7671efc30b5e9
-A	term_reference_tree.field.inc	c855259e1dd84020e080e5cef8fcbedc
-A	term_reference_tree.info	7ea1fc31e55dacd84f52bcc4e6df2459
-A	term_reference_tree.js	3802c6fb5c6c1b8baf558236a647f766
-A	term_reference_tree.module	e855f262a2f8ed4bc8c5c1aa74cdd85f
-A	term_reference_tree.widget.inc	cefbb2291ce3d2a613d7bbe2faa121b2
+M	term_reference_tree.info	7ea1fc31e55dacd84f52bcc4e6df2459

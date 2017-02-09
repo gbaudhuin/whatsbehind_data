@@ -1,9 +1,3 @@
-A	INSTALL.TXT	f3c20e9b430ee58bbd21f4a0daea9a37
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	comment_notify-rtl.css	c14000e4d045477a965b85f7dd2e5fc3
-A	comment_notify.css	de3cf9a5cbb02619f742b98bd8cd5d3d
-A	comment_notify.info	4893b4d260f235d0ca9ab49c3be72239
-A	comment_notify.install	0d6a860e2fdfebd652c49a32fdbd963e
-A	comment_notify.js	72cda0651bc90c43cb9debbf14d3fdb8
-A	comment_notify.module	ae4a5f5586008f3f2f7774d4f201b89d
-A	comment_notify.test	6b3834e29e9ca1bb8700e86d65a81dd7
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	comment_notify.info	4893b4d260f235d0ca9ab49c3be72239
+M	comment_notify.module	ae4a5f5586008f3f2f7774d4f201b89d

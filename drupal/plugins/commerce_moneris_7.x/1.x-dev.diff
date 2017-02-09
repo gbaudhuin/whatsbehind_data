@@ -1,7 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	58b634add34bff43d2815557f211ab39
-A	commerce_moneris.admin.inc	6cf154949a2dc66efff605bce2b97aab
-A	commerce_moneris.inc	4127364e3601b1b416554fe5d74d11e7
-A	commerce_moneris.info	41b19772fcc9463ea2691a4ac24694ad
-A	commerce_moneris.install	295fd37799eb73ede167f37c6537e396
-A	commerce_moneris.module	12a672e923e04c02cda4492ca09c782b
+M	commerce_moneris.info	41b19772fcc9463ea2691a4ac24694ad

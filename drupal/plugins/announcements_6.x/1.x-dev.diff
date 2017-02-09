@@ -1,9 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	8a3603fdf1bd28dc39a4a9144a60e3a9
-A	announcements.admin.inc	91eca1238ead92fad5bce9e9f7519258
-A	announcements.css	5a1433f48d9271125889172313610486
-A	announcements.info	1f03f093722af2851f28d6db20c4cfd1
-A	announcements.install	614e647c80b1b633660d391a7a01e247
-A	announcements.module	b5c7419b5c46b8ba1204858b779cb58d
-A	announcements.views.inc	e544001058396d2eb60d8e9a627472be
-A	goto.gif	bfd5c3380d9e2f87c7c433b53f8269fc
+M	announcements.info	1f03f093722af2851f28d6db20c4cfd1
+M	announcements.module	b5c7419b5c46b8ba1204858b779cb58d

@@ -1,6 +1,7 @@
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 M	README.txt	a2ac05e4ff221dd46e1a9b6895c23cef
 A	filebrowser.admin.inc	a44f9dc782880e0514d84eeb669c5128
+A	filebrowser.api.php	511c90c2f00c738a56a035e39dea929c
 D	filebrowser.common.inc	
 A	filebrowser.css	80bb223a1d6b3b8c54b778cab847338e
 A	filebrowser.form.actions.inc	269f697cf35fef57bd9fb4578f944a46
@@ -13,6 +14,7 @@ M	filebrowser.module	5db213de89f89afd5a6e1de46c6d2d6e
 M	filebrowser.pages.inc	d1e10fb699b39951b5860403891f90a4
 M	filebrowser.theme.inc	3ddbbb4f0347acbbdc4c60595a97b49d
 D	filebrowser_STARTER/filebrowser_STARTER.info	
+D	filebrowser_STARTER/filebrowser_STARTER.module	
 D	filebrowser_STARTER/filebrowser_STARTER_view.tpl.php	
 A	includes/backend.inc	a2856b8d75b708c7ac3d39afa53f3485
 A	includes/downloads.inc	785e30b17bc525d8f532a880795f7506

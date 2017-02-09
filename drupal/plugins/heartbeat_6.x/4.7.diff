@@ -8,6 +8,7 @@ M	heartbeat.js	8bc1648be6e6120d877f2ca14a5ffb55
 M	heartbeat.module	f9f0feefd8c0f1c2eeadece11c82a9d6
 M	heartbeat.pages.inc	9543e923ba00208dabb1ed538865ee35
 A	images/heartbeat-throbber.gif	8308162eed8e9af997a63f685a258345
+D	includes/connectedheartbeat.inc	
 M	includes/heartbeataccess.inc	d7d0c1977b226950bf30b9169dd91cc2
 M	includes/heartbeatactivity.inc	c357032ff62f69086a671a427ffd244e
 M	includes/heartbeatmessagebuilder.inc	5e9aaa20e238e9e6af8017b6a45c55dc
@@ -15,6 +16,7 @@ M	includes/heartbeatparser.inc	644231ec8b4673fd73e0f21f58e87c3e
 M	includes/heartbeatstream.inc	01ebab50a198978138c127bd68d2e01f
 A	includes/singleheartbeat.inc	b9fb7da02616b38576c85928ee285e0f
 M	modules/flag_heartbeat/flag_heartbeat.info	4292941ce141701b4c229c16e283e3bd
+A	modules/friendlist_activity/connectedheartbeat.inc	2b5083c0f91b68a5eeb7f5ccb3affa52
 M	modules/friendlist_activity/friendlist_activity.info	e84d4635989f6e7ad8d8a616035e624e
 M	modules/friendlist_activity/friendlist_activity.module	038fdf0a6e491ac6365859461fa163e6
 M	modules/friendlist_activity/friendlist_activity.rules_defaults.inc	7cddac7cdbbc2fa52283be923a9f8a5b

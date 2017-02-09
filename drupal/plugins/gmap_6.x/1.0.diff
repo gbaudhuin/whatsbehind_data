@@ -1,3 +1,4 @@
+D	API.txt	
 D	GMAP-ARRAY-DICTIONARY.txt	
 M	gmap.info	40a874f3415b91ebbe0c42f646d05e88
 M	gmap.install	26ea6450c09d83b43ec0162aaf8a8d67
@@ -13,6 +14,7 @@ M	gmap_settings_ui.inc	f629a7f985c1295640388c78da1c4601
 M	gmap_taxonomy.info	81e95f4d76faec2c10e99a378019fa0a
 M	gmap_taxonomy.module	9f138ed340a0b07a0412c530d2ab8f4a
 A	gmap_taxonomy.views.inc	61487e1f99ab227e998affe08378997c
+A	help/api.html	d6e64aaea5ee19613bd5dc6668937907
 A	help/array.html	341ff51553b5bc5d08ca0099c3ba0358
 A	help/extending.html	387ed62a09b750a29dfc97468935a7fc
 M	help/gmap.help.ini	0b3bd4f28dde1869c3197bf9b10829de

@@ -1,10 +1,9 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	0cf3b6c003e86298cb6be79850352476
-D	image.gif	
+A	INSTALL.txt	80d2543091d01b7efce6b0de0cdc5c75
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	0cf3b6c003e86298cb6be79850352476
 A	po/el.po	20c05fc71449e643670fdae6072d6651
-M	spamspan.compressed.js	476298eca48bfd077f02e9507fa53bcf
-M	spamspan.info	e2aa479d1fc306ed4afeba8bcfb01556
-M	spamspan.js	25b4698d201b5360db0c9ce2bf293fc5
-M	spamspan.module	4d2f201d7c0b6214812f776aeb8259a0
-D	spamspan.test	
+A	spamspan.compressed.js	476298eca48bfd077f02e9507fa53bcf
+A	spamspan.info	e2aa479d1fc306ed4afeba8bcfb01556
+A	spamspan.js	25b4698d201b5360db0c9ce2bf293fc5
+A	spamspan.module	4d2f201d7c0b6214812f776aeb8259a0
 A	test/spamspan_test.inc	e4b9e5dced7c76a90d6842e457ad7725

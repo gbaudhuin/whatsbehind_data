@@ -1,14 +1,10 @@
-M	INSTALL.txt	72aac7d70302c00789fbe0d5fe3935f7
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	32ede787b43270003ad61a55dfac35e7
-M	camtasia_relay.admin.inc	771be62d1c6439f48bdb9250681122c6
-M	camtasia_relay.info	11512e8758ae328ad17f66968cf591f7
-M	camtasia_relay.install	018a34620b2b9a8b9835689033073898
-M	camtasia_relay.module	8a79b4b0f2e97bae6c293b9a756d254d
+A	INSTALL.txt	72aac7d70302c00789fbe0d5fe3935f7
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	32ede787b43270003ad61a55dfac35e7
+A	camtasia_relay.admin.inc	771be62d1c6439f48bdb9250681122c6
+A	camtasia_relay.info	11512e8758ae328ad17f66968cf591f7
+A	camtasia_relay.install	018a34620b2b9a8b9835689033073898
+A	camtasia_relay.module	8a79b4b0f2e97bae6c293b9a756d254d
 A	camtasia_relay.views.inc	e43bdbf1101581611affbbc752aa1b1e
 A	camtasia_relay_func_file.inc	2a4345561f48d4f64511f042412fa43e
 A	camtasia_relay_func_node.inc	118f64d873e768d44f33402038a1ffc2
-D	camtasia_relay_views/camtasia_relay_views.info	
-D	camtasia_relay_views/camtasia_relay_views.install	
-D	camtasia_relay_views/camtasia_relay_views.module	
-D	camtasia_relay_views/camtasia_relay_views.views_default.inc	

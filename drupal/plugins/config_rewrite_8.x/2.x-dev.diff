@@ -1,4 +1,0 @@
-M	config_rewrite.info.yml	c41da8229dedfa2c432297c71392b099
-D	config_rewrite.module	
-A	config_rewrite.services.yml	a385aa033b8a919be893627e7dfa275c
-A	src/EventSubscriber/ConfigRewriteInstallSubscriber.php	412d5cf03cb0ba0a5818376b354e04ec

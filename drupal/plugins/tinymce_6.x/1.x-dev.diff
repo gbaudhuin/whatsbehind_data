@@ -1,17 +1,15 @@
-A	INSTALL.txt	4b34089024a970020c3700177db78654
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.TXT	afb1b03d38f8e38758e2ffb6746723ca
-A	plugin_reg.php	a94ef71126e9eb393145391456ccfdb8
-A	plugins/drupalbreak/README.txt	63ff72178287877c0516b7d8abe41924
-A	plugins/drupalbreak/drupalbreak.css	9e1a8d9002f76a413cf7f516843e32d3
-A	plugins/drupalbreak/editor_plugin.js	a6ac25eff17295e93ef8d70c6ce6d124
-A	plugins/drupalbreak/editor_plugin_src.js	04d45852326288044880f8364d7179fc
-A	plugins/drupalbreak/images/drupalbreak.gif	dff3bc0a01a614b601b7826415bfe4ca
-A	plugins/drupalbreak/images/drupalbreaktext.gif	48fcce7404781f0993c25ff9ff4f181e
-A	plugins/drupalbreak/images/drupalpagebreak.gif	ec8d1ed1b0fd137cacdda9e316ebed31
-A	plugins/drupalbreak/images/drupalpagebreaktext.gif	48872075f721bf57a517e3275d61c0ba
-A	plugins/drupalbreak/langs/en.js	b41a6a1decca8882e0e2a6963d095d9a
-A	tinymce.admin.inc	7ad5aeac331820e74fa492d4a28e8944
-A	tinymce.info	fb6ac227a7fd7fea571389049e607422
-A	tinymce.install	25a5aeea01df0125c5d89317a06ba3c0
-A	tinymce.module	486cc753206ac84d0958ca1418574a11
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	plugin_reg.php	a94ef71126e9eb393145391456ccfdb8
+M	plugins/drupalbreak/editor_plugin.js	a6ac25eff17295e93ef8d70c6ce6d124
+M	plugins/drupalbreak/editor_plugin_src.js	04d45852326288044880f8364d7179fc
+D	po/da.po	
+D	po/de.po	
+D	po/el.po	
+D	po/hu.po	
+D	po/it.po	
+D	po/tinymce.pot	
+D	po/tr.po	
+M	tinymce.admin.inc	7ad5aeac331820e74fa492d4a28e8944
+M	tinymce.info	fb6ac227a7fd7fea571389049e607422
+M	tinymce.install	25a5aeea01df0125c5d89317a06ba3c0
+M	tinymce.module	486cc753206ac84d0958ca1418574a11

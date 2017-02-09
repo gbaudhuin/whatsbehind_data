@@ -1,12 +1,3 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
-D	TODO.txt	
-D	includes/book.node_convert.inc	
-D	includes/forum.node_convert.inc	
-D	includes/panels_node.node_convert.inc	
-D	includes/uc_product.node_convert.inc	
-M	node_convert.info	a2109bca5a59dee0a82fe260a7b4cfb1
-D	node_convert.install	
-M	node_convert.module	3294fdf8d56ffebcb50c31e2b0b47eb1
-D	node_convert.rules.inc	
-D	node_convert.test	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	node_convert.info	a2109bca5a59dee0a82fe260a7b4cfb1
+A	node_convert.module	3294fdf8d56ffebcb50c31e2b0b47eb1

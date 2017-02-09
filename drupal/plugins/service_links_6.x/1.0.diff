@@ -1,17 +1,25 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	59c862ea20d9d9c319f4e5e35b51bafa
-D	images/buzz.png	
-D	images/identica.png	
-D	images/linkedin.png	
-D	images/myspace.png	
-D	images/twitter.png	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	59c862ea20d9d9c319f4e5e35b51bafa
+A	images/delicious.png	1017577c4c4f64761b81e4e363c5cff4
+A	images/digg.png	2f4807d4d2663c16c7a3ada4d1613714
+A	images/facebook.png	e7b25bb14f6d84b07eca9637b19afe05
+A	images/furl.png	778a59d606f6101a3184961e5fa2e43f
+A	images/google.png	a56e879c77f60d96ddab6575ea6af54a
+A	images/icerocket.png	cf38d31632a8e38a6f5af7afbdf8b392
+A	images/magnoliacom.png	9746ea65d96cb7c367b7114a4d96ea86
+A	images/newsvine.png	70a490ee313a723163c2f85faf6b8f56
+A	images/propeller.png	1f820ea2226eedc21ec465e008062b03
+A	images/reddit.png	1e2605c7f145b990a077701b11dab70b
+A	images/stumbleit.png	f49496232a5d6d603856830dbba4719f
+A	images/technorati.png	5cc33e5d8c020196a4cb25df6b3ee9f0
+A	images/yahoo.png	5edab64421517feacf0c75f5ce165757
 A	po/de.po	a3931e6463d07d13b14918877dabff36
 A	po/es.po	1842cc065de6c08a98da11bd7a7798b2
 A	po/fr.po	5347b66eebc907dd42ea0ac4978391b1
 A	po/he.po	a11fec9927d8e771e2ed4b4f0acc2a2e
 A	po/pt.po	23dde5b7307d8eebd28c111a59a80f00
 A	po/service_links-module.pot	e265b8eae0c17109ffbc0d15f853f4f4
-M	service_links.info	673c3138a5953060026679ecf26a3bbb
-M	service_links.install	3a85dc0aff1c9e05149dfcd35893af0a
-M	service_links.module	511b81ccf95c8935d814f6d4e046f395
-M	template.php	e321d33b6ac0bb3cbde6cbafa6462ed1
+A	service_links.info	673c3138a5953060026679ecf26a3bbb
+A	service_links.install	3a85dc0aff1c9e05149dfcd35893af0a
+A	service_links.module	511b81ccf95c8935d814f6d4e046f395
+A	template.php	e321d33b6ac0bb3cbde6cbafa6462ed1

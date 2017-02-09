@@ -1,10 +1,10 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	iframe.info	82e8ff3d2d059bef1018a4f9e8c7d350
-M	iframe.install	56bc5aa37ba7a4f7e8a7e3f95d073edc
-D	iframe.js	
-M	iframe.module	d8a36836bb1e511a51064fff91b28045
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	iframe.css	79fba1453d33b627b12dc77a026ffb4d
+A	iframe.info	82e8ff3d2d059bef1018a4f9e8c7d350
+A	iframe.install	56bc5aa37ba7a4f7e8a7e3f95d073edc
+A	iframe.module	d8a36836bb1e511a51064fff91b28045
 A	iframe.views.inc	0f6f1134041a84cdaf7ac3924346ff63
-M	make	e9b610b4908af1339ffbfadd90c4bb4f
+A	make	e9b610b4908af1339ffbfadd90c4bb4f
 A	translations/modules-iframe.da.pot	a09728fc904488f4559e4b964cacff7f
 A	translations/modules-iframe.de.pot	77e7f96c085528703feef6cd7faa2046
 A	translations/modules-iframe.ja.pot	59c922216f5eaeb81cb44be6e1c315ae

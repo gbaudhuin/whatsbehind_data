@@ -1,5 +1,7 @@
 M	STARTERKIT/README.txt	580f6f7a52e848f7874f7c15cf9bff18
 M	STARTERKIT/STARTERKIT.info.txt	0e58194efd0882390563cf87fb7dca18
+D	STARTERKIT/css/style-guide/chroma-kss-markup.hbs	
+A	STARTERKIT/css/style-guide/chroma-kss-markup.twig	5b5175ec3e58475f6fb10a80f61bf618
 M	STARTERKIT/css/style-guide/kss-only.css	419789d5b277e085da5f362996787aa3
 M	STARTERKIT/css/styles.css	c4790fc6ddd880c763c62fd23b457c0f
 M	STARTERKIT/gulpfile.js	d783f77b1887859788649181b8e773f7
@@ -7,64 +9,224 @@ M	STARTERKIT/package.json	11463772a56546ffd7776107fa261114
 M	STARTERKIT/sass/base/embedded/_embedded.scss	721dd2e9612c477d4967fbfa9c9506a8
 D	STARTERKIT/sass/base/embedded/embedded-img.hbs	
 A	STARTERKIT/sass/base/embedded/embedded-img.twig	dbe271e115d6decfb105f27a40cd8920
+D	STARTERKIT/sass/base/embedded/embedded-svg.hbs	
+A	STARTERKIT/sass/base/embedded/embedded-svg.twig	ddf290ffde6d5a27ab7f0000177431f9
 M	STARTERKIT/sass/base/forms/_forms.scss	29c7d0c640d4ba2b55f1ef7c076551bb
+D	STARTERKIT/sass/base/forms/forms-button.hbs	
+A	STARTERKIT/sass/base/forms/forms-button.twig	c13d06335ad307afd4f37745637deadf
+D	STARTERKIT/sass/base/forms/forms-fieldset.hbs	
+A	STARTERKIT/sass/base/forms/forms-fieldset.twig	a676a9e92544c26fd89633866d296869
+D	STARTERKIT/sass/base/forms/forms-input-checkbox.hbs	
+A	STARTERKIT/sass/base/forms/forms-input-checkbox.twig	853b624ac1292ee031fa6e75e5e0f9ea
+D	STARTERKIT/sass/base/forms/forms-input-radio.hbs	
+A	STARTERKIT/sass/base/forms/forms-input-radio.twig	33c521c9c8d0190e49ec1f4d6fe67c03
+D	STARTERKIT/sass/base/forms/forms-input.hbs	
+A	STARTERKIT/sass/base/forms/forms-input.twig	d094b5b6c819000f8e0bb7313462ed5c
+D	STARTERKIT/sass/base/forms/forms-label.hbs	
+A	STARTERKIT/sass/base/forms/forms-label.twig	ce5138dbfd0265f9713c647ccf2fa326
+D	STARTERKIT/sass/base/forms/forms-select.hbs	
+A	STARTERKIT/sass/base/forms/forms-select.twig	cef68b3b7e3ad2b8f0fc8c83ee8eed50
+D	STARTERKIT/sass/base/forms/forms-textarea.hbs	
+A	STARTERKIT/sass/base/forms/forms-textarea.twig	2f691311d4183816d6bbc0c4ea214328
 M	STARTERKIT/sass/base/grouping/_grouping.scss	b9d1e3aae6e609e25d87dbe31f4c8843
+D	STARTERKIT/sass/base/grouping/grouping-blockquote.hbs	
+A	STARTERKIT/sass/base/grouping/grouping-blockquote.twig	b4ffba4482cce43bbe81c3c951c86c29
+D	STARTERKIT/sass/base/grouping/grouping-dl.hbs	
+A	STARTERKIT/sass/base/grouping/grouping-dl.twig	3f40e9740cce3cfb482d5a1f59b5d70a
+D	STARTERKIT/sass/base/grouping/grouping-figure.hbs	
+A	STARTERKIT/sass/base/grouping/grouping-figure.twig	5a0077590bf509f2c9fc3ddf1ae44232
+D	STARTERKIT/sass/base/grouping/grouping-hr.hbs	
+A	STARTERKIT/sass/base/grouping/grouping-hr.twig	b1b51b0d6b6923d30620430c2f37c289
+D	STARTERKIT/sass/base/grouping/grouping-ol.hbs	
+A	STARTERKIT/sass/base/grouping/grouping-ol.twig	93002cf33de1c9d9c4c7ba93c7bb1a78
+D	STARTERKIT/sass/base/grouping/grouping-p.hbs	
+A	STARTERKIT/sass/base/grouping/grouping-p.twig	945e87f5326c4b192a5232868ba2501f
+D	STARTERKIT/sass/base/grouping/grouping-pre.hbs	
+A	STARTERKIT/sass/base/grouping/grouping-pre.twig	42fdf27f34af8b64a48a8a0d0906d59c
+D	STARTERKIT/sass/base/grouping/grouping-ul.hbs	
+A	STARTERKIT/sass/base/grouping/grouping-ul.twig	cbd4b5eafe0d2b915ad077345e5f0722
 M	STARTERKIT/sass/base/headings/_headings.scss	74a0637127815cb6d863743fa2d1d220
+D	STARTERKIT/sass/base/headings/headings-h.hbs	
+A	STARTERKIT/sass/base/headings/headings-h.twig	7fd6d4f88975c05d6167d051f048cfac
 M	STARTERKIT/sass/base/links/_links.scss	183b867d876938034b5bc6258ccac05f
+D	STARTERKIT/sass/base/links/links-a.hbs	
+A	STARTERKIT/sass/base/links/links-a.twig	2a7e59fcecb692f86ab31d0025b1566a
 M	STARTERKIT/sass/base/tables/_tables.scss	0beda8003ffa724fbe7d82e36d8bccb5
+D	STARTERKIT/sass/base/tables/tables-table.hbs	
+A	STARTERKIT/sass/base/tables/tables-table.twig	9deede73f7f73ac892700c71b28a1f7d
 M	STARTERKIT/sass/base/text/_text.scss	415ee506802aa42bee7a6b507fa9f879
+D	STARTERKIT/sass/base/text/text-abbr.hbs	
+A	STARTERKIT/sass/base/text/text-abbr.twig	4db5b39b983ed1d9459a96acee17015b
+D	STARTERKIT/sass/base/text/text-b.hbs	
+A	STARTERKIT/sass/base/text/text-b.twig	73fd3e6eeaf4ccc994dfa5dab54a2d90
+D	STARTERKIT/sass/base/text/text-cite.hbs	
+A	STARTERKIT/sass/base/text/text-cite.twig	4a80e2322653dfd294f1612031780823
+D	STARTERKIT/sass/base/text/text-code.hbs	
+A	STARTERKIT/sass/base/text/text-code.twig	a4719c13b43c7dfc61e8f31fd69062b2
+D	STARTERKIT/sass/base/text/text-del.hbs	
+A	STARTERKIT/sass/base/text/text-del.twig	8fc6f88fe7402586f759dc1732a9157b
+D	STARTERKIT/sass/base/text/text-dfn.hbs	
+A	STARTERKIT/sass/base/text/text-dfn.twig	809f58a1ea177666d577dd361d45cd07
+D	STARTERKIT/sass/base/text/text-i.hbs	
+A	STARTERKIT/sass/base/text/text-i.twig	8d7f5b5740323fe446a3506457ee431c
+D	STARTERKIT/sass/base/text/text-ins.hbs	
+A	STARTERKIT/sass/base/text/text-ins.twig	9d67fd0c7e76cc8a8d163ee61dbee0dd
+D	STARTERKIT/sass/base/text/text-mark.hbs	
+A	STARTERKIT/sass/base/text/text-mark.twig	ed69f64dd26d448f0133db900af68b58
+D	STARTERKIT/sass/base/text/text-q.hbs	
+A	STARTERKIT/sass/base/text/text-q.twig	a98e81ccd476d501c9fab741e84f26aa
+D	STARTERKIT/sass/base/text/text-s.hbs	
+A	STARTERKIT/sass/base/text/text-s.twig	dd212d7a8d6537c8e6b184d853eb80db
+D	STARTERKIT/sass/base/text/text-small.hbs	
+A	STARTERKIT/sass/base/text/text-small.twig	04fadf969c95d9b5ef9e43993f8d83ba
+D	STARTERKIT/sass/base/text/text-sub.hbs	
+A	STARTERKIT/sass/base/text/text-sub.twig	fee4d3b9e4181c68a7b847aee6c4ee36
+D	STARTERKIT/sass/base/text/text-u.hbs	
+A	STARTERKIT/sass/base/text/text-u.twig	1c99591155349874a10edd904fc97499
 M	STARTERKIT/sass/components/autocomplete/_autocomplete.scss	afb23f961901e527cda53ae1981abe6c
+D	STARTERKIT/sass/components/autocomplete/autocomplete.hbs	
+A	STARTERKIT/sass/components/autocomplete/autocomplete.twig	47dde959e52e41ee716997cd194fca9c
 M	STARTERKIT/sass/components/box/_box.scss	9f998e9ad4a400760fd2160dfe4d635f
+D	STARTERKIT/sass/components/box/box.hbs	
+A	STARTERKIT/sass/components/box/box.twig	3b0c00b46b7b0a383e843d4e626de06f
 M	STARTERKIT/sass/components/breadcrumb/_breadcrumb.scss	2ab6ff47270630625b1434f2df291977
+D	STARTERKIT/sass/components/breadcrumb/breadcrumb.hbs	
+A	STARTERKIT/sass/components/breadcrumb/breadcrumb.twig	19af0fae33902407d07d0fd8f1139b84
 M	STARTERKIT/sass/components/button/_button.scss	62bc7cbc642078b9076b23f3e5ce72cd
+D	STARTERKIT/sass/components/button/button.hbs	
+A	STARTERKIT/sass/components/button/button.twig	18c5792f5f8af2120f09b43ac7169ecb
 M	STARTERKIT/sass/components/clearfix/_clearfix.scss	40bcd20d7207a3f79c0aee609a34370e
+D	STARTERKIT/sass/components/clearfix/clearfix.hbs	
+A	STARTERKIT/sass/components/clearfix/clearfix.twig	ec35bcbf9890cf933915108f9f88af82
 M	STARTERKIT/sass/components/collapsible-fieldset/_collapsible-fieldset.scss	3cc13e626579ac5f0c65996caa50e2d6
 D	STARTERKIT/sass/components/collapsible-fieldset/collapsed-rtl.png	
 D	STARTERKIT/sass/components/collapsible-fieldset/collapsed.png	
+D	STARTERKIT/sass/components/collapsible-fieldset/collapsible-fieldset.hbs	
+A	STARTERKIT/sass/components/collapsible-fieldset/collapsible-fieldset.twig	ae26f694422fc942d6444f5865066977
 D	STARTERKIT/sass/components/collapsible-fieldset/expanded.png	
 M	STARTERKIT/sass/components/comment/_comment.scss	778d23d25d4fb0ae2c537c3b7971a122
+D	STARTERKIT/sass/components/comment/comment.hbs	
+A	STARTERKIT/sass/components/comment/comment.twig	599219b4fb1bdc700fcdcae9da707312
 M	STARTERKIT/sass/components/divider/_divider.scss	a255fa829af60433a5c6288f12dfcf5c
+D	STARTERKIT/sass/components/divider/divider.hbs	
+A	STARTERKIT/sass/components/divider/divider.twig	df38e17c3a1bb559a73320665d2e6e90
 M	STARTERKIT/sass/components/form-item/_form-item.scss	e7d72056dd228ac078c4cdddb0fbf654
+D	STARTERKIT/sass/components/form-item/form-item--radio.hbs	
+A	STARTERKIT/sass/components/form-item/form-item--radio.twig	2da3f607b38bcfdb3610423e481ed577
+D	STARTERKIT/sass/components/form-item/form-item.hbs	
+A	STARTERKIT/sass/components/form-item/form-item.twig	057d0708f54071f0262f64c07807cded
 M	STARTERKIT/sass/components/form-table/_form-table.scss	d918adb9d40ceacb2075b0ea04059581
+D	STARTERKIT/sass/components/form-table/form-table.hbs	
+A	STARTERKIT/sass/components/form-table/form-table.twig	3cf7c7ad52fec639a0e44cff7b7e6e23
 M	STARTERKIT/sass/components/header/_header.scss	1d55576b78edebfccf2bc9d91e8f60d9
+D	STARTERKIT/sass/components/header/header.hbs	
+A	STARTERKIT/sass/components/header/header.twig	06313bbb4f630d7de8792fe07bb25fe0
 M	STARTERKIT/sass/components/hidden/_hidden.scss	67202d23e070fd1bb0ea906a995976fe
+D	STARTERKIT/sass/components/hidden/hidden.hbs	
+A	STARTERKIT/sass/components/hidden/hidden.twig	efd0c135a54d42c5570e5f69ac73bcf2
 M	STARTERKIT/sass/components/highlight-mark/_highlight-mark.scss	f38a69c96e91796de3f11c1fc2653986
+D	STARTERKIT/sass/components/highlight-mark/highlight-mark.hbs	
+A	STARTERKIT/sass/components/highlight-mark/highlight-mark.twig	e0b55b517541a82c2080cb7cd9809e74
 M	STARTERKIT/sass/components/inline-links/_inline-links.scss	756410f141578b1ad968811f515effcc
+D	STARTERKIT/sass/components/inline-links/inline-links.hbs	
+A	STARTERKIT/sass/components/inline-links/inline-links.twig	6e4b497add118b5968ec0a850f1bf34f
 M	STARTERKIT/sass/components/inline-sibling/_inline-sibling.scss	800c95dd3f96655251580d083f3db7a0
+D	STARTERKIT/sass/components/inline-sibling/inline-sibling.hbs	
+A	STARTERKIT/sass/components/inline-sibling/inline-sibling.twig	e409f518b978950dfd62366024f705ca
 M	STARTERKIT/sass/components/messages/_messages.scss	6af8d08bb2b1aa94f50d50ee58db5053
+D	STARTERKIT/sass/components/messages/messages--color.hbs	
+A	STARTERKIT/sass/components/messages/messages--color.twig	defde9a90f343ad1b0d334276017a0ca
+D	STARTERKIT/sass/components/messages/messages.hbs	
+A	STARTERKIT/sass/components/messages/messages.twig	70ddffaca6632d4c181285bea8cf8023
 M	STARTERKIT/sass/components/more-link/_more-link.scss	556b90a831ebc479307168590f65008a
+D	STARTERKIT/sass/components/more-link/more-link.hbs	
+A	STARTERKIT/sass/components/more-link/more-link.twig	e4d6e97257d2ffd25b84ecf70dce1f5e
 D	STARTERKIT/sass/components/more-link/more-link__help-icon.png	
 M	STARTERKIT/sass/components/nav-menu/_nav-menu.scss	52c7de3c47fc25906420e12cfb9d82f4
 D	STARTERKIT/sass/components/nav-menu/collapsed-rtl.png	
 D	STARTERKIT/sass/components/nav-menu/collapsed.png	
 D	STARTERKIT/sass/components/nav-menu/expanded.png	
 D	STARTERKIT/sass/components/nav-menu/leaf.png	
+D	STARTERKIT/sass/components/nav-menu/nav-menu.hbs	
+A	STARTERKIT/sass/components/nav-menu/nav-menu.twig	87640ea94412c972d19b395769a877aa
 M	STARTERKIT/sass/components/navbar/_navbar.scss	0963df207648168f834c067a21cf15e1
+D	STARTERKIT/sass/components/navbar/navbar.hbs	
+A	STARTERKIT/sass/components/navbar/navbar.twig	fdc9c407a45d57a5045a810c9b157806
 M	STARTERKIT/sass/components/pager/_pager.scss	9072c1315915405447d8b92248f4f3d2
+D	STARTERKIT/sass/components/pager/pager.hbs	
+A	STARTERKIT/sass/components/pager/pager.twig	a5902317bbc85f47024af6b3e6d092c7
 M	STARTERKIT/sass/components/print-none/_print-none.scss	48baf20cb32d7f68b0634d62844b4654
+D	STARTERKIT/sass/components/print-none/print-none.hbs	
+A	STARTERKIT/sass/components/print-none/print-none.twig	ebccd087d66c0ba38c3ae4cadb122d6b
 M	STARTERKIT/sass/components/progress-bar/_progress-bar.scss	10509071c3a77f63d21b7d8d8609dfcc
+D	STARTERKIT/sass/components/progress-bar/progress-bar.hbs	
+A	STARTERKIT/sass/components/progress-bar/progress-bar.twig	f2d9fa975439fb3ee49df29390bf7a72
 M	STARTERKIT/sass/components/progress-throbber/_progress-throbber.scss	c31c4dbfe60e5fb1f02e92e37369d3c6
+D	STARTERKIT/sass/components/progress-throbber/progress-throbber.hbs	
+A	STARTERKIT/sass/components/progress-throbber/progress-throbber.twig	1987c7ce257be8812d94d044e0f60718
 M	STARTERKIT/sass/components/resizable-textarea/_resizable-textarea.scss	7429e7126265ef591309ceed378fe6ee
+D	STARTERKIT/sass/components/resizable-textarea/resizable-textarea.hbs	
+A	STARTERKIT/sass/components/resizable-textarea/resizable-textarea.twig	906fdac698dcc0de4d21a4b1ea4cf0be
 M	STARTERKIT/sass/components/responsive-video/_responsive-video.scss	745dfd248ac8f80c3cdf818d2bc16cc9
+D	STARTERKIT/sass/components/responsive-video/responsive-video.hbs	
+A	STARTERKIT/sass/components/responsive-video/responsive-video.twig	9d07070bfa5f5770545a8274888c5d81
 M	STARTERKIT/sass/components/skip-link/_skip-link.scss	d22b56b6deeb1d6bdb4e06c6c7b33378
+D	STARTERKIT/sass/components/skip-link/skip-link.hbs	
+A	STARTERKIT/sass/components/skip-link/skip-link.twig	6a4166e997b1a7247e6e3dbef0731974
 M	STARTERKIT/sass/components/table-drag/_table-drag.scss	905b15aa34223d9abe452d3bd1207a48
+D	STARTERKIT/sass/components/table-drag/table-drag.hbs	
+A	STARTERKIT/sass/components/table-drag/table-drag.twig	abe5456d73895ed8c263d13dd97c39d8
 M	STARTERKIT/sass/components/tabs/_tabs.scss	1f55471fa9ba46b7aa8042d2f9bec644
 D	STARTERKIT/sass/components/tabs/tabs--secondary.hbs	
 A	STARTERKIT/sass/components/tabs/tabs--stacked.twig	4953cca66c4641cb10b90ea2b6ebbd50
+D	STARTERKIT/sass/components/tabs/tabs.hbs	
+A	STARTERKIT/sass/components/tabs/tabs.twig	13b0c3631210e848004a5529dab57fb3
 M	STARTERKIT/sass/components/visually-hidden/_visually-hidden.scss	a59e9dbe0425d3293da216f28ec63cd1
+D	STARTERKIT/sass/components/visually-hidden/visually-hidden.hbs	
+A	STARTERKIT/sass/components/visually-hidden/visually-hidden.twig	51d72ef7e07ab05109ef57913a3caf67
 M	STARTERKIT/sass/components/watermark/_watermark.scss	917932d2537675ac266bb9ae8a7ef81d
+D	STARTERKIT/sass/components/watermark/watermark.hbs	
+A	STARTERKIT/sass/components/watermark/watermark.twig	53005d1c9f2735fbfc19f3a89dd7ac73
 M	STARTERKIT/sass/components/wireframe/_wireframe.scss	5796cf8b768b18cf5e2d9419bc41a43d
+D	STARTERKIT/sass/components/wireframe/wireframe.hbs	
+A	STARTERKIT/sass/components/wireframe/wireframe.twig	90fca7f7e455bfa669249f24fc91178d
 M	STARTERKIT/sass/init/_colors.scss	912b1c120a51db59c585291cc75c492b
 M	STARTERKIT/sass/init/_variables.scss	022b8f44641e45312dc28047ce74f45f
 M	STARTERKIT/sass/layouts/layout-3col/_layout-3col.scss	d46ff39e241b8d9b4e0349bac96753cc
+D	STARTERKIT/sass/layouts/layout-3col/layout-3col.hbs	
+A	STARTERKIT/sass/layouts/layout-3col/layout-3col.twig	8af639e3837f5efb804bcb8611625db1
 M	STARTERKIT/sass/layouts/layout-center/_layout-center.scss	2049a8bf202d5b4fb189cb7ba476692e
+D	STARTERKIT/sass/layouts/layout-center/layout-center.hbs	
+A	STARTERKIT/sass/layouts/layout-center/layout-center.twig	ceff019f4160a2bdf0560e5c11704686
 M	STARTERKIT/sass/layouts/layout-swap/_layout-swap.scss	1505dd63e8ccfb2ec5a319f153a07622
+D	STARTERKIT/sass/layouts/layout-swap/layout-swap.hbs	
+A	STARTERKIT/sass/layouts/layout-swap/layout-swap.twig	a7f82645f0f579172458950f38d85df6
 M	STARTERKIT/sass/style-guide/kss-only.scss	c3ba9524062151fe976d3493c197cdbe
 M	STARTERKIT/styleguide/index.html	e41e454ffa76014caab549a87945566a
+A	STARTERKIT/styleguide/kss-assets/WARNING.txt	1de29eecb2fb26a45833b2533e92ec01
+A	STARTERKIT/styleguide/kss-assets/github-fork--black.png	5b6b3233153feca50a94aa6c60873a5f
 A	STARTERKIT/styleguide/kss-assets/kss.css	e1da3b07a407ad08322212b76ff8ff27
+A	STARTERKIT/styleguide/kss-assets/kss.js	9606225c5350f02511d81b94009394a1
+A	STARTERKIT/styleguide/kss-assets/kss.scss	1380a1db69402ebb48bc0ab8f6468e90
+A	STARTERKIT/styleguide/kss-assets/noise-low.png	4d676d1d332c49e798bb564c37ddae98
+A	STARTERKIT/styleguide/kss-assets/prettify.js	654c488e9efe18e6dea29f741b082da6
+A	STARTERKIT/styleguide/kss-assets/sample-inline.png	0e33e269a76f4f04865eec27cdbfc124
+A	STARTERKIT/styleguide/kss-assets/sample-inline.svg	849590aabbb2050c62ca6fd012288120
+A	STARTERKIT/styleguide/kss-assets/sample.png	70cee5390b26fc667b528584ad6c8867
+A	STARTERKIT/styleguide/kss-assets/sample.svg	a3a4c3dbb8ad8bd4eec160241ba9d397
 A	STARTERKIT/styleguide/kss-assets/scrollspy.js	2f8fb1f606cf86405a9b597412a86ae1
+D	STARTERKIT/styleguide/public/WARNING.txt	
+D	STARTERKIT/styleguide/public/github-fork--black.png	
 D	STARTERKIT/styleguide/public/kss.css	
+D	STARTERKIT/styleguide/public/kss.js	
+D	STARTERKIT/styleguide/public/kss.less	
 D	STARTERKIT/styleguide/public/less.js	
+D	STARTERKIT/styleguide/public/noise-low.png	
+D	STARTERKIT/styleguide/public/prettify.js	
+D	STARTERKIT/styleguide/public/sample-inline.png	
+D	STARTERKIT/styleguide/public/sample-inline.svg	
+D	STARTERKIT/styleguide/public/sample.png	
+D	STARTERKIT/styleguide/public/sample.svg	
 M	STARTERKIT/styleguide/section-base.html	8c606767db9a71c10e18b941c40a0d2e
 M	STARTERKIT/styleguide/section-components.html	fb6b5983d1a9b238425937b01c7d05bb
 M	STARTERKIT/styleguide/section-forms.html	37530f1d30d8594c03c949779b18886a

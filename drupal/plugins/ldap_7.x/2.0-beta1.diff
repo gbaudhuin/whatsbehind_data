@@ -66,14 +66,18 @@ D	ldap_authorization/tests/DeriveFromEntry/ldap_authorization.inc
 D	ldap_authorization/tests/DeriveFromEntry/ldap_authorization.nested.inc	
 D	ldap_authorization/tests/DeriveFromEntry/ldap_servers.inc	
 D	ldap_authorization/tests/LdapAuthorizationTestCase.class.php	
+D	ldap_authorization/tests/Og/Og.test	
 D	ldap_authorization/tests/Og/Og2.test	
 D	ldap_authorization/tests/Og/ldap_authentication.inc	
 D	ldap_authorization/tests/Og/ldap_authorization.inc	
 D	ldap_authorization/tests/Og/ldap_authorization_og2.inc	
 D	ldap_authorization/tests/Og/ldap_servers.inc	
+A	ldap_authorization/tests/OgTests.test	b8f910597ddb52e3a4c52826b5e7a2bb
+D	ldap_authorization/tests/Other/Other.test	
 D	ldap_authorization/tests/Other/ldap_authentication.inc	
 D	ldap_authorization/tests/Other/ldap_authorization.inc	
 D	ldap_authorization/tests/Other/ldap_servers.inc	
+A	ldap_authorization/tests/OtherAuthenticationIntegrationTests.test	ad4be3029b9fad9d291b818033be6cad
 A	ldap_authorization/tests/manual_tests.txt	54765ba7f25733a6d368e55fa7e1c994
 M	ldap_feeds/FeedsDrupalUserLdapEntryFetcher.inc	49a5872485ef930df2e8786eea9ce3f7
 M	ldap_feeds/FeedsLdapEntryParser.inc	06db8d7c45936753377bbc695cee70e0

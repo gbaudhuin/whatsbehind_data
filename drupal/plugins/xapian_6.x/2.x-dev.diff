@@ -1,8 +1,1 @@
-M	CHANGELOG.txt	7106626d68f137acb73e275600ce7bce
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-M	README.txt	a773bb8e7dafc195dca06d70c4741173
-A	xapian.api.php	602cb02478a67328453d73e955f83486
 M	xapian.info	3f2b0a96462781fcee212e827372bc5f
-M	xapian.install	351ab9a6bd1092540811d702f3da79be
-A	xapian.lib.inc	a3434ac3019e90a96ca6ce3ecb3abf53
-M	xapian.module	221413b78c8902e1af74c7b54c1490e5

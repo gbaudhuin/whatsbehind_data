@@ -1,131 +1,43 @@
 M	CHANGELOG.txt	c2dc0e62e0a9f6c4b7af4d220c845851
-A	README-FIRST.txt	cdde17cead936cb0baf3fea7dfe5b7ca
-D	README.txt	
-A	STARTERKIT/README.txt	056c59c5f538594268e9d52786c4045c
-M	STARTERKIT/STARTERKIT.info.txt	493bb98a2ea7bb402d111d3f9882541b
-A	STARTERKIT/css/README.txt	bb457cbb7a0d644c31e8408ddbacfe1d
-A	STARTERKIT/css/block-editing-rtl.css	ea22832534c06732e57a6b79c3749978
-A	STARTERKIT/css/block-editing.css	f6a38935cf012a49250294f805b19518
-A	STARTERKIT/css/blocks.css	00f95096586080f886976ac08e613888
-A	STARTERKIT/css/comments.css	be7d645e0d5e28436560b6b6a0088be0
-A	STARTERKIT/css/fields.css	2e1e2c942ab2337c7d5598db833142fb
-A	STARTERKIT/css/forms-rtl.css	056380cbfafc40ee6998aea1cfd6b022
-A	STARTERKIT/css/forms.css	b656d63666a756efa5ec95bfcbafa9ec
-A	STARTERKIT/css/html-reset-rtl.css	018d036c375537494e83ea8bc99715f3
-A	STARTERKIT/css/html-reset.css	709b2997407e1bd5a568210319b36c8f
-A	STARTERKIT/css/ie.css	108e8eacbf21e187da9a903025748918
-A	STARTERKIT/css/ie6-rtl.css	d281fd1744bca94055c98aec03dc5295
-A	STARTERKIT/css/ie6.css	652f234e7498ee63f9ef50976c7b2fa9
-A	STARTERKIT/css/layout-fixed-rtl.css	606ca46e131b76d3000dd7058780eb6d
-A	STARTERKIT/css/layout-fixed.css	3e8de098c54f2eb49641b5417449d9f8
-A	STARTERKIT/css/layout-liquid-rtl.css	a4ddba800bbafc6d105709a827d86ffe
-A	STARTERKIT/css/layout-liquid.css	aa65148b9d7449555557501721d18c9b
-A	STARTERKIT/css/messages-rtl.css	986f96728dcf5712638b6fe3a52278b2
-A	STARTERKIT/css/messages.css	78b4bf7f770902e87fd3958de39ed722
-A	STARTERKIT/css/navigation.css	8dfff97973e0c23b03cc1a938d87ba09
-A	STARTERKIT/css/nodes.css	103c0755a0726a93c40643b4a12e58a7
-A	STARTERKIT/css/page-backgrounds.css	f5296c0b3e6173164fed2d6464b1eee4
-A	STARTERKIT/css/pages-rtl.css	00e23dad34cdfa5f31b047aa8298c8b1
-A	STARTERKIT/css/pages.css	7b5d381e69245660b0a9a6e6f043771c
-A	STARTERKIT/css/panels-styles.css	1e6464c5c13a50be8ee24398a5e40bd5
-A	STARTERKIT/css/print.css	2a45bfbe8e3906c733ed76fc4201c9b6
-A	STARTERKIT/css/tabs-rtl.css	ba47027a7b05a0760ba5bb0407851c46
-A	STARTERKIT/css/tabs.css	4e4ba3563c98355a74ec7fb7711f816f
-A	STARTERKIT/css/views-styles.css	dd5132d661f2bc2d8be5c3f808b9b6f7
-A	STARTERKIT/css/wireframes.css	1b2565fcf36300472c6e0fa89eb8e645
-A	STARTERKIT/images-source/panels-layouts.psd	e8770e3c6bc446ca7761bd33a0ac8255
-A	STARTERKIT/js/README.txt	afaeaedd532c1fe0b58e51ea99cb2a79
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README-FIRST.txt	cdde17cead936cb0baf3fea7dfe5b7ca
+M	STARTERKIT/css/forms.css	b656d63666a756efa5ec95bfcbafa9ec
+M	STARTERKIT/images/messages-error-ie6.png	0019fcc0c385a6d9efb9717564ac88dd
+M	STARTERKIT/images/messages-error.png	f2bc59f570f6f9b961a6effdb3372f26
+M	STARTERKIT/images/messages-status-ie6.png	65d3fdd1076b3292efc054b01bf85b9a
+M	STARTERKIT/images/messages-status.png	4eed7eb7460b7ebf3347715bf5fdd7fa
+M	STARTERKIT/images/messages-warning-ie6.png	91cd196c3210db51b5a4b1a6700c83aa
+M	STARTERKIT/images/messages-warning.png	fa06df9de8b1a159d953dd5bde1b992e
+M	STARTERKIT/images/tab-bar.png	d2514031e77dc9e93e7de1c219522b42
+M	STARTERKIT/images/tab-left-ie6.png	5ddb8984e271818a000d86e8931c1d8f
+M	STARTERKIT/images/tab-left.png	762bfe8839db475caad4eb42ce4a0669
+M	STARTERKIT/images/tab-right-ie6.png	140bd7d5aa0845561cd6a2e450240224
+M	STARTERKIT/images/tab-right.png	dc8e18fa628269b466c86d6ec4caff6c
+M	STARTERKIT/images/tab-secondary-bg.png	c937f433e98a90202c58e267250284c6
+M	STARTERKIT/images/tab-secondary.png	594d86ae455c7f3bfcaa8949360e0ca5
+M	STARTERKIT/js/README.txt	afaeaedd532c1fe0b58e51ea99cb2a79
 M	STARTERKIT/logo.png	18e672acb57aafd13b82d659b3ae883f
-M	STARTERKIT/template.php	be7bcf244d5c9e8ebf7c3b4eeb38e16f
-A	STARTERKIT/templates/README.txt	3a2397ebd35769844db7927420cf85f4
-A	layouts/README.txt	9816e095de43c0aa442bc237af08a463
-A	layouts/one_sidebar_first/one-sidebar-first-admin.css	f731f91eb9fb555135226a3d0f437cc3
-A	layouts/one_sidebar_first/one-sidebar-first.css	11a82c959e4132943fa15c5f004d5903
-A	layouts/one_sidebar_first/one-sidebar-first.png	1340a409ce6a97ef2d0e808d8a690d13
-A	layouts/one_sidebar_first/one_sidebar_first.inc	3f4b8f3a3f010206ade448794be4e8dd
-A	layouts/one_sidebar_first/zen-one-sidebar-first-admin.tpl.php	cbe0aa7fe32bb92004c24278216e9e44
-A	layouts/one_sidebar_first/zen-one-sidebar-first.tpl.php	15b65bee10a7eb6fb64f45321cbc6520
-A	layouts/one_sidebar_second/one-sidebar-second-admin.css	b14c71edc850582a869ddd7263e9340b
-A	layouts/one_sidebar_second/one-sidebar-second.css	ecd1d1c025c702d0cd20ca626c9a173d
-A	layouts/one_sidebar_second/one-sidebar-second.png	9e4c5176ffd3ace2cc37e61e530286a4
-A	layouts/one_sidebar_second/one_sidebar_second.inc	b10857c0947162e887689af3d50a77da
-A	layouts/one_sidebar_second/zen-one-sidebar-second-admin.tpl.php	f4af377c9b08fc12a3f23d24b9f5c56e
-A	layouts/one_sidebar_second/zen-one-sidebar-second.tpl.php	8c885742e230f645b5f5b40fa92e6f65
-A	layouts/two_sidebars/two-sidebars-admin.css	d4f8ad96e537255f406888f6bbf85ea3
-A	layouts/two_sidebars/two-sidebars.css	33aedd52b6df8efb6cbe963ed78f3e62
-A	layouts/two_sidebars/two-sidebars.png	006f3e48f0dd1da9d883bee30ca52382
-A	layouts/two_sidebars/two_sidebars.inc	ab2cc4a9e572a2789c43128ce72f81e1
-A	layouts/two_sidebars/zen-two-sidebars-admin.tpl.php	e4e1d232ca3a7bae49054d840216dd5f
-A	layouts/two_sidebars/zen-two-sidebars.tpl.php	174affc3036862805532e86c50702e4a
-A	layouts/two_sidebars_first/two-sidebars-first-admin.css	de97fa18be83c30a405ad7143a50cdad
-A	layouts/two_sidebars_first/two-sidebars-first.css	94d4ec4be18d959005bd3d7faf2eff45
-A	layouts/two_sidebars_first/two-sidebars-first.png	b0e2de775fb4016aebd57b490b6a8451
-A	layouts/two_sidebars_first/two_sidebars_first.inc	7cfef4a2608dc01d7b8d1bd8203a1d62
-A	layouts/two_sidebars_first/zen-two-sidebars-first-admin.tpl.php	a37d0984425f2d8ce582c5b6e14263b9
-A	layouts/two_sidebars_first/zen-two-sidebars-first.tpl.php	ba50793d64193fa1dab3668d6b353d85
-A	layouts/two_sidebars_second/two-sidebars-second-admin.css	10069fe0c37e129661590be0693731e9
-A	layouts/two_sidebars_second/two-sidebars-second.css	f6bd62f1e3c5836f951ca1ca43626455
-A	layouts/two_sidebars_second/two-sidebars-second.png	c07002bd496cc1b3274981d338fa0b86
-A	layouts/two_sidebars_second/two_sidebars_second.inc	9693cfd634a08ac02c61ea65ac60969e
-A	layouts/two_sidebars_second/zen-two-sidebars-second-admin.tpl.php	d2a59e2d080e7924ec435d93a97bd36e
-A	layouts/two_sidebars_second/zen-two-sidebars-second.tpl.php	22d7a421e59e214b135befe48dde212b
-A	logo.png	18e672acb57aafd13b82d659b3ae883f
-A	template.php	b5feda80e324be40fe9714e3827051fb
-A	templates/block.tpl.php	613ff0e12d58c319757c84fe4369a850
-A	templates/comment.tpl.php	bd5741f609a411d19da3248bf3a96ba6
-A	templates/maintenance-page.tpl.php	ceb4bded919091b17990c82421b1c83d
-A	templates/node.tpl.php	56ceb0fbbafa05f4a1d78fa9de787ac9
-A	templates/page.tpl.php	1ab054fd1b9ae51b79de0d38aa50063d
-A	templates/region-sidebar.tpl.php	ff6b91c9494ab1ac221dc8104fce6029
-A	templates/region.tpl.php	c83bffbe3d37be6ef7a525f0b87caa30
-A	templates/views-view.tpl.php	132b904db16f95544a0879f0da0fb2ff
-A	zen-internals/TODO.txt	1beb548d0b5b48e6fd377a6f2d190af0
-A	zen-internals/css/generate.sh	c4285b48446d1e2d2c0e8fd68f61ca51
-A	zen-internals/css/ie.css	108e8eacbf21e187da9a903025748918
-A	zen-internals/css/ie6-rtl.css	d281fd1744bca94055c98aec03dc5295
-A	zen-internals/css/ie6.css	652f234e7498ee63f9ef50976c7b2fa9
-A	zen-internals/css/print.css	2a45bfbe8e3906c733ed76fc4201c9b6
-A	zen-internals/css/theme-settings-rtl.css	69c950ddf74ca4fa90200f1a65b44895
-A	zen-internals/css/theme-settings.css	0507ce5305c4d56586cb5c50b2eac59d
-A	zen-internals/css/zen-fixed-rtl.css	2afee6720b93bed726d4445e46839346
-A	zen-internals/css/zen-fixed.css	123f27e001dc9f1c450fe5ed7f18532e
-A	zen-internals/css/zen-liquid-rtl.css	f73200eee2ba5b181fdaf4af09dbd599
-A	zen-internals/css/zen-liquid.css	6e7a8d872cce911b2d513897c4d75a0c
-A	zen-internals/images/messages-error-ie6.png	0019fcc0c385a6d9efb9717564ac88dd
-A	zen-internals/images/messages-error.png	f2bc59f570f6f9b961a6effdb3372f26
-A	zen-internals/images/messages-status-ie6.png	65d3fdd1076b3292efc054b01bf85b9a
-A	zen-internals/images/messages-status.png	4eed7eb7460b7ebf3347715bf5fdd7fa
-A	zen-internals/images/messages-warning-ie6.png	91cd196c3210db51b5a4b1a6700c83aa
-A	zen-internals/images/messages-warning.png	fa06df9de8b1a159d953dd5bde1b992e
-A	zen-internals/images/tab-bar.png	d2514031e77dc9e93e7de1c219522b42
-A	zen-internals/images/tab-left-ie6.png	5ddb8984e271818a000d86e8931c1d8f
-A	zen-internals/images/tab-left.png	762bfe8839db475caad4eb42ce4a0669
-A	zen-internals/images/tab-right-ie6.png	140bd7d5aa0845561cd6a2e450240224
-A	zen-internals/images/tab-right.png	dc8e18fa628269b466c86d6ec4caff6c
-A	zen-internals/images/tab-secondary-bg.png	c937f433e98a90202c58e267250284c6
-A	zen-internals/images/tab-secondary.png	594d86ae455c7f3bfcaa8949360e0ca5
-A	zen-internals/template.theme-registry.inc	72f37303416ffe8fbe03e521bba33916
-A	zen-internals/template.zen.inc	a2315821b4737b8444dab6b987829150
-A	zen.info	f061ff112ff5eeab9f2fe07fdaeb30d8
-D	zen/block-editing.css	
-D	zen/block.tpl.php	
-D	zen/box.tpl.php	
-D	zen/comment.tpl.php	
-D	zen/favicon.ico	
-D	zen/html-elements.css	
-D	zen/ie.css	
-D	zen/layout-fixed.css	
-D	zen/layout-liquid.css	
-D	zen/logo.png	
-D	zen/maintenance-page.tpl.php	
-D	zen/messages.css	
-D	zen/node.tpl.php	
-D	zen/page.tpl.php	
-D	zen/print.css	
-D	zen/tabs.css	
-D	zen/template.php	
-D	zen/template.theme-registry.inc	
-D	zen/theme-settings.css	
-D	zen/wireframes.css	
-D	zen/zen.css	
-D	zen/zen.info	
+M	STARTERKIT/screenshot.png	8da3ebc62565977b64bd36ecc13b9e49
+M	layouts/one_sidebar_first/one-sidebar-first.png	1340a409ce6a97ef2d0e808d8a690d13
+M	layouts/one_sidebar_second/one-sidebar-second.png	9e4c5176ffd3ace2cc37e61e530286a4
+M	layouts/two_sidebars/two-sidebars.png	006f3e48f0dd1da9d883bee30ca52382
+M	layouts/two_sidebars_first/two-sidebars-first.png	b0e2de775fb4016aebd57b490b6a8451
+M	layouts/two_sidebars_second/two-sidebars-second.png	c07002bd496cc1b3274981d338fa0b86
+M	logo.png	18e672acb57aafd13b82d659b3ae883f
+M	template.php	b5feda80e324be40fe9714e3827051fb
+M	zen-internals/images/messages-error-ie6.png	0019fcc0c385a6d9efb9717564ac88dd
+M	zen-internals/images/messages-error.png	f2bc59f570f6f9b961a6effdb3372f26
+M	zen-internals/images/messages-status-ie6.png	65d3fdd1076b3292efc054b01bf85b9a
+M	zen-internals/images/messages-status.png	4eed7eb7460b7ebf3347715bf5fdd7fa
+M	zen-internals/images/messages-warning-ie6.png	91cd196c3210db51b5a4b1a6700c83aa
+M	zen-internals/images/messages-warning.png	fa06df9de8b1a159d953dd5bde1b992e
+M	zen-internals/images/tab-bar.png	d2514031e77dc9e93e7de1c219522b42
+M	zen-internals/images/tab-left-ie6.png	5ddb8984e271818a000d86e8931c1d8f
+M	zen-internals/images/tab-left.png	762bfe8839db475caad4eb42ce4a0669
+M	zen-internals/images/tab-right-ie6.png	140bd7d5aa0845561cd6a2e450240224
+M	zen-internals/images/tab-right.png	dc8e18fa628269b466c86d6ec4caff6c
+M	zen-internals/images/tab-secondary-bg.png	c937f433e98a90202c58e267250284c6
+M	zen-internals/images/tab-secondary.png	594d86ae455c7f3bfcaa8949360e0ca5
+M	zen-internals/screenshot.png	b7b6c5d5cdb32858ab482c263800a448
+M	zen-internals/template.block-editing.inc	3813237ea0ac91f949de4eb7571a6df6
+M	zen.info	f061ff112ff5eeab9f2fe07fdaeb30d8

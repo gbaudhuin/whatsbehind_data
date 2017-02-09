@@ -1,6 +1,0 @@
-A	composer.json	beeeacedb21c843517cd918c60fac80f
-M	forward.info.yml	8e11be730bb0e48cb8a265d37719b327
-M	forward.install	a93b3c16103c872808ca562c000c0fc9
-M	forward.module	8a2f8e88ee3e47cd4c66e11cde922bb3
-M	src/Form/ForwardForm.php	506c6c6dc038c5bd809ffbdc80db88db
-M	src/Form/SettingsForm.php	a6fbf6b8aff18fbb91ed434c7c80c5ad

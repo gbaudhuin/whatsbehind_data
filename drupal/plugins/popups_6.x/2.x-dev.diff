@@ -1,28 +1,6 @@
-A	.cvsignore	4586f6c028b8c68b87dfbf66b3574e37
-A	.project	f167ac6ad8809d3fba3e4e77a0764e55
-M	API.txt	cb76935ad00e428747f261f8f85d3a5f
-M	CHANGELOG.txt	4d4a8268e64db80ece0cf4bf51c26766
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-M	README.txt	a17461a9a2cc6319980ae7b70d2322b2
 M	ajax-loader.gif	9b1c8a26ea24ffc897c3ca5365a812bc
-D	popups-popup.tpl.php	
-A	popups.api.php	f437804fd88e8050c4f74557065c342f
-M	popups.css	1d76d006b794742c6b0370b13f96e8f3
 M	popups.info	c082d72210b57f70a9becfbe7ff673ed
-M	popups.install	9ff9be29c2a7b0a16ea520665c689ec5
-M	popups.js	ebb454b23df7dc6d759d3c43c13e7878
 M	popups.module	0753f9c3ddd25681f19d26014ab85ab6
 M	popups_admin.info	46a7f32cd422e98c5f3c68b151d99dc8
-M	popups_admin.module	7dbe54e51099b1c65f17266fb1d55f25
 M	popups_test.info	09eae1342cb8db2ae24be8073f353fd2
-M	popups_test.module	0d03b41404b47159dde01762a72ebe97
-A	skins/basic/popup-icon.png	9b00a98ff20e4bebd2dd4fe0c1f86a85
-A	skins/blue/blue.css	e8c88819eccc24e3e0891c8c91d78283
-A	skins/blue/images/sprites.png	1ecfe318d2b6ecbe86edf4bbc66e1589
-A	skins/blue/images/tile-v.png	96b627ebc79c6909ed4d894cfc577e2f
-A	skins/facebook/facebook.css	07e27bf1a108659c48528772f02fd987
-A	skins/facebook/facebook.js	ad6033c514637170a77d125b0e0c464a
-A	skins/facebook/loading-large.gif	faa74e8c61fc64d5edb11613c7eead2c
-A	skins/facebook/loading.gif	49b29e9f0a24be796326e1f1800d78a4
-A	skins/facebook/popups-border.png	5255f996072c6c3af35f8440308f119e
-D	translations/ja.po	

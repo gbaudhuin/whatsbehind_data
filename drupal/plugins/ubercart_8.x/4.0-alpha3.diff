@@ -13,7 +13,9 @@ M	payment/uc_credit/src/Controller/CreditController.php	563f6bee60700bccfe06489f
 M	payment/uc_credit/src/CreditCardPaymentMethodBase.php	fd1edcfa02b1c629657c3be246ca0e02
 M	payment/uc_credit/src/Form/CreditCardTerminalForm.php	7faad28ada4dbff702217411a49fde3a
 M	payment/uc_credit/src/Form/CreditSettingsForm.php	88284c9de5e89e97343dd35becae38d9
+A	payment/uc_credit/src/Plugin/Ubercart/PaymentMethod/TestGateway.php	decb7b2ab2bd8a674adeb554f374a895
 M	payment/uc_credit/src/Tests/CreditCardTest.php	e3df656722d1825e9cbaf2deddb40dd2
+D	payment/uc_credit/tests/src/Plugin/Ubercart/PaymentMethod/TestGateway.php	
 D	payment/uc_credit/tests/test_gateway.info.yml	
 D	payment/uc_credit/tests/test_gateway.module	
 M	payment/uc_credit/uc_credit.info.yml	05e0e85e974b530be7f6d3e9c2909520
@@ -93,18 +95,28 @@ A	shipping/uc_fulfillment/src/ParamConverter/ShipmentConverter.php	9d6d7a30f80c8
 A	shipping/uc_fulfillment/src/Plugin/FulfillmentMethodPluginManager.php	a2fcff1ffc1b536a4ef596823a1af624
 A	shipping/uc_fulfillment/src/Plugin/Ubercart/FulfillmentMethod/Manual.php	2ae2009634d83cc8b7356e491f8b1ce1
 A	shipping/uc_fulfillment/src/Plugin/Ubercart/OrderPane/Tracking.php	533bb22413fe12a2159060130d40d243
+A	shipping/uc_fulfillment/src/Plugin/views/field/PackageWeight.php	6a70925db3c657e0a07cddb2e6e3f47c
+A	shipping/uc_fulfillment/src/Plugin/views/field/ShipmentId.php	6407ea1ef1b5476c50bee642a19cd71f
 A	shipping/uc_fulfillment/src/Shipment.php	dea38ea1a55620838ce7d02b3adf1c4b
 A	shipping/uc_fulfillment/src/Tests/FulfillmentTest.php	5d18802ab1ae305c32718c95315b4bae
 A	shipping/uc_fulfillment/src/Tests/PackageTest.php	92ac3f54345d005df23cb6f951a1a6a5
 A	shipping/uc_fulfillment/src/Tests/ShipmentTest.php	e892b2a4ff628476a9accfdfce4a9a0d
+A	shipping/uc_fulfillment/templates/uc-packing-slip-page.tpl.php	d15bb389c9b5223345beb59f1ce97d07
+A	shipping/uc_fulfillment/templates/uc-packing-slip.tpl.php	4775a5909feadcdbf500aabb78c47294
+A	shipping/uc_fulfillment/uc_fulfillment.api.php	52d57938482c2808ba1210f1c0cbe7dd
 A	shipping/uc_fulfillment/uc_fulfillment.info.yml	5e2b8665cec21e6a7d4bc0c4b2251615
+A	shipping/uc_fulfillment/uc_fulfillment.install	40c8e47e47152e60064dfd40b2763caa
 A	shipping/uc_fulfillment/uc_fulfillment.libraries.yml	2bcc5db66471a5e0f076e13aed88e06c
 A	shipping/uc_fulfillment/uc_fulfillment.links.action.yml	ec13eeb4f1c4b23f3b240d6e81179bf5
 A	shipping/uc_fulfillment/uc_fulfillment.links.menu.yml	1316d56e4b2ab9a2da1b91adc6d15a18
 A	shipping/uc_fulfillment/uc_fulfillment.links.task.yml	b3facd018bc49c4ee7e65627fc6b7bde
 A	shipping/uc_fulfillment/uc_fulfillment.module	5f11c810c3fc585ff7ef415af840a297
+A	shipping/uc_fulfillment/uc_fulfillment.permissions.yml	49b26ba7caac13b983a662b9282cb7ee
 A	shipping/uc_fulfillment/uc_fulfillment.routing.yml	46723b6e95c1821194ff56f068edd4cb
+A	shipping/uc_fulfillment/uc_fulfillment.rules.inc	69ab01b0b258c13aeed774ccd4a69389
 A	shipping/uc_fulfillment/uc_fulfillment.services.yml	bd6ef4583cd0c37761be2853ecdbcd0a
+A	shipping/uc_fulfillment/uc_fulfillment.tokens.inc	479f016740720a2d5f9ac0b87774dd5e
+A	shipping/uc_fulfillment/uc_fulfillment.views.inc	6343c9ec4d4365839461028698580af0
 M	shipping/uc_quote/config/schema/uc_quote.schema.yml	3bcbc7df1da08475427055d06cc2ff26
 A	shipping/uc_quote/src/Plugin/Ubercart/OrderPane/Quotes.php	9598a41a7f0f22b26d1faa4b7c9763cf
 M	shipping/uc_quote/src/ShippingQuoteMethodListBuilder.php	19d9ccb164689a11e6a784a02fb128ef
@@ -112,10 +124,20 @@ M	shipping/uc_quote/uc_quote.info.yml	931070af390681dc248baf315b457467
 M	shipping/uc_quote/uc_quote.links.menu.yml	585ce4bef69457f8be5dbd79733cc5c2
 M	shipping/uc_quote/uc_quote.module	a04e8132fa8577841f82f801d3e5e521
 D	shipping/uc_shipping/js/uc_shipping.js	
+D	shipping/uc_shipping/src/Plugin/views/field/PackageWeight.php	
+D	shipping/uc_shipping/src/Plugin/views/field/ShipmentId.php	
+D	shipping/uc_shipping/templates/uc-packing-slip-page.tpl.php	
+D	shipping/uc_shipping/templates/uc-packing-slip.tpl.php	
 D	shipping/uc_shipping/uc_shipping.admin.inc	
+D	shipping/uc_shipping/uc_shipping.api.php	
 D	shipping/uc_shipping/uc_shipping.info.yml	
+D	shipping/uc_shipping/uc_shipping.install	
 D	shipping/uc_shipping/uc_shipping.libraries.yml	
 D	shipping/uc_shipping/uc_shipping.module	
+D	shipping/uc_shipping/uc_shipping.permissions.yml	
+D	shipping/uc_shipping/uc_shipping.rules.inc	
+D	shipping/uc_shipping/uc_shipping.tokens.inc	
+D	shipping/uc_shipping/uc_shipping.views.inc	
 M	shipping/uc_ups/js/uc_ups.admin.js	cea23b7b46064acc88e664033641c6be
 M	shipping/uc_ups/uc_ups.info.yml	08723882a8375b71c38c4f6430cec1ba
 M	shipping/uc_usps/js/uc_usps.admin.js	5136e6887ad9d45dcd1d91b0b73ad287
@@ -125,6 +147,8 @@ M	uc_ajax_admin/uc_ajax_admin.info.yml	8e144cef938cc092ac76d50c7b9c9073
 M	uc_ajax_admin/uc_ajax_admin.module	cd62849c93b46c1418e0a8e441757220
 M	uc_attribute/src/Controller/AttributeController.php	9625933ed374c1ac69fc67c45b12cc2d
 M	uc_attribute/uc_attribute.info.yml	d310e504e357e846c9750095bbf14958
+D	uc_cart/config/install/system.action.uc_cart_add_product_action.yml	
+A	uc_cart/config/optional/system.action.uc_cart_add_product_action.yml	a2a61ad03bbcbc4f7a3bf2a872f08d86
 M	uc_cart/css/uc_cart_block.css	0d66aea8068a43f9e867c4c52884d402
 M	uc_cart/js/uc_cart.admin.js	ef4199bdc52d1275a4918040a1226565
 M	uc_cart/js/uc_cart.js	4a0680e9365967e0192f5b33a029acb0
@@ -189,8 +213,10 @@ A	uc_order/src/EditableOrderPanePluginInterface.php	f0cf4809ae2342749bc4a3e59eb1
 M	uc_order/src/Entity/Order.php	501391ddcebda3c40a0a5b31d318257c
 A	uc_order/src/Form/AddLineItemForm.php	8f8c7dcbdf2399128336c6c9c198aaf3
 A	uc_order/src/Form/AddressBookForm.php	3d193084755af6898214dc451d3f4621
+A	uc_order/src/Form/MailInvoiceForm.php	07f5181dacfdc01884f76ca4d3151813
 M	uc_order/src/Form/OrderCreateForm.php	e1dbafb0dfee53c05e5c2e8e535e5d4d
 M	uc_order/src/Form/OrderDeleteForm.php	123d382432a4a3aa3249eabbd55b69cf
+D	uc_order/src/Form/OrderMailInvoiceForm.php	
 A	uc_order/src/Form/SelectCustomerForm.php	c1b50bc0eb5a1d3597ef9cacae90f9c1
 M	uc_order/src/OrderForm.php	c644e6e197c6acae0469125c130790c2
 A	uc_order/src/OrderPanePluginBase.php	e5ad003c3498a7f25f22d1fbb97a65b8
@@ -233,8 +259,10 @@ M	uc_product_kit/uc_product_kit.info.yml	ca565175aaf3cf882ba20ab61c9d4c4a
 M	uc_report/src/Controller/Reports.php	a3d4bde29d7a456e6b657e33f2a53a94
 M	uc_report/uc_report.info.yml	91002464f6b56a874f9b76a561cdf205
 M	uc_report/uc_report.module	ce956af0114c0f29d136f59ced6f84a2
+A	uc_role/src/Form/FeatureSettingsForm.php	f770ac848b16f0d57d95fe6c14b1b7b8
 M	uc_role/src/Form/RoleDeleteForm.php	514bae631a44e1647eaf15cbabc5c27f
 M	uc_role/src/Form/RoleFeatureForm.php	32444b4562438b638a037c9e57300c23
+D	uc_role/src/Form/RoleSettingsForm.php	
 M	uc_role/src/Tests/RoleCheckoutTest.php	c3b17251c14c4d0cf9f1d52720534004
 M	uc_role/src/Tests/RoleTest.php	4bb9f36d7ecdde9f651a3ac967f617d0
 M	uc_role/uc_role.info.yml	fd89746ce988f1fa0f6f786016aba822

@@ -14,6 +14,8 @@ A	templates/field--juicebox-relative-width.html.twig	c18eca903f983c4057c35aa0dca
 M	tests/modules/juicebox_mimic_article/config/install/core.entity_form_display.node.article.default.yml	d952480c81f3b72e78ea5c26b1cfae74
 M	tests/modules/juicebox_mimic_article/juicebox_mimic_article.info.yml	843265b5f3ed70f1745881459b0f9e26
 A	tests/modules/juicebox_test_views/config/install/filter.format.basic_html.yml	60c2ef5a004c989510dbcb70454c2eb3
+A	tests/modules/juicebox_test_views/config/install/views.view.juicebox_test_row_formatter.yml	92cc59df4496d386fc6a6a3c1561194b
 A	tests/modules/juicebox_test_views/config/install/views.view.juicebox_views_file_test.yml	acfaafb0dff32fd17fdb6d81fce4eb05
 A	tests/modules/juicebox_test_views/config/install/views.view.juicebox_views_test.yml	c1e3b396d7e7f92ef9abed7957b76551
 M	tests/modules/juicebox_test_views/juicebox_test_views.info.yml	1b6079d1d9b93b94efdee3824c3c379a
+D	tests/modules/juicebox_test_views/test_views/views.view.juicebox_test_row_formatter.yml	

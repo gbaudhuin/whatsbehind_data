@@ -7,6 +7,7 @@ M	message.api.php	5a563d94c6d3c3c12223d290c7524987
 M	message.info	e6f05543cc48f692c45c08d26454ded9
 M	message.install	3ee4c2d9666d1d2072840adb1fca165d
 M	message.module	b6cbf623db07f42b8ea1b3dabb17eab9
+D	message.test	
 D	message_example/message_example.features.field.inc	
 A	message_example/message_example.features.field_base.inc	21bf3478542d9c54d1d243fdfd861489
 A	message_example/message_example.features.field_instance.inc	38d71d564753feda0a8e3c637a61bbae
@@ -18,3 +19,4 @@ A	message_example/plugins/computed_arguments/example_arguments/example_arguments
 M	message_og_example/message_og_example.info	966305be8964d6fe611c007e2f90bc60
 M	message_og_example/message_og_example.module	0d9fdfea073968d911dd1835e703e7cb
 A	tests/MessageArgumentsTestCase.test	bb28dfbf5ab25b985eeb909b1cca57e5
+A	tests/message.test	ca58e68ad546c6bf394537a756510764

@@ -1,30 +1,11 @@
-D	APIEXAMPLE/contentanalysisexample.info	
-D	APIEXAMPLE/contentanalysisexample.js	
-D	APIEXAMPLE/contentanalysisexample.module	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	06fb264089ea8ed2a64d69e0f4ff1687
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	06fb264089ea8ed2a64d69e0f4ff1687
 A	TODO.txt	d41d8cd98f00b204e9800998ecf8427e
-M	contentanalysis.admin.css	3edbe7ae81236d17564a143934943785
-M	contentanalysis.admin.inc	41518a407c173bf0780fecbe66a3540c
-M	contentanalysis.css	b162d94eff39788446e066129432536e
-M	contentanalysis.info	bfae6a8a684015b91cc4cf9311e4197c
-M	contentanalysis.install	038a96e49da5389943d45add8dd0eaf1
-M	contentanalysis.js	bb9bf5d0737ec2449a868cb32004b302
-M	contentanalysis.module	7d6f81fef90568b2852651d52b015e9c
-D	icons/complete.png	
-D	icons/error.png	
-D	icons/pass.png	
-D	icons/refresh.png	
-D	icons/warning.png	
-D	images/arrow-active.png	
-D	images/bg-content-modal.png	
-D	images/bg-shade-dark.png	
-D	images/bg-shade-light.png	
-D	images/bg-shade-medium.png	
-D	images/bg-shade-white-lrg.png	
-D	images/blank.gif	
-D	images/close.gif	
-D	images/sprite.png	
-D	images/white-grad-active.png	
-D	includes/seo_friend.inc	
+A	contentanalysis.admin.css	3edbe7ae81236d17564a143934943785
+A	contentanalysis.admin.inc	41518a407c173bf0780fecbe66a3540c
+A	contentanalysis.css	b162d94eff39788446e066129432536e
+A	contentanalysis.info	bfae6a8a684015b91cc4cf9311e4197c
+A	contentanalysis.install	038a96e49da5389943d45add8dd0eaf1
+A	contentanalysis.js	bb9bf5d0737ec2449a868cb32004b302
+A	contentanalysis.module	7d6f81fef90568b2852651d52b015e9c
 A	install.sql	f0238cbf2ab8f0f259a161a0156b62ae

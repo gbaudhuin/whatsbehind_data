@@ -1,12 +1,14 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	139755936214faadea1c3c474339247e
-A	css_injector.admin.inc	744a8a70ceed62ec23056d99c70f21c5
-A	css_injector.css	d022123904e473f4bae1d0890252cb4a
-A	css_injector.info	312d4031b227015bdc8ec927e35d99c1
-A	css_injector.install	9a2ab30c332862a2f0415677428b38c3
-A	css_injector.module	9e2fa73f99d91ed14900e9d944a1fe1c
-A	css_injector.test	3178a2536f562e2aaaeefbdcecf8d5d5
-A	edit-delete.png	538821625d516ecf4253c979792d38db
-A	syntax_highlighter.css	6eb03510813fe6a7c79751eeab8383e2
-A	syntax_highlighter.js	36796d5bffc4f8bbfb3d7f95c473dbba
-A	text-editor.png	d1a35db86c09e14b32da5b49a1a3b3cb
+D	ace/ace.js	
+D	ace/mode-css.js	
+D	ace/mode-javascript.js	
+D	ace/snippets/css.js	
+D	ace/snippets/html.js	
+D	ace/snippets/javascript.js	
+D	ace/snippets/scss.js	
+D	ace/theme-chrome.js	
+D	ace/theme-twilight.js	
+D	ace/worker-css.js	
+D	ace/worker-javascript.js	
+M	css_injector.admin.inc	744a8a70ceed62ec23056d99c70f21c5
+M	css_injector.info	312d4031b227015bdc8ec927e35d99c1
+M	css_injector.module	9e2fa73f99d91ed14900e9d944a1fe1c

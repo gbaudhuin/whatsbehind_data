@@ -1,7 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	830d198f18147efb356d6c9b4f3497eb
-A	jquery_colorpicker.devel_generate.inc	3e44e2ca253a3a7ef39eb76087df77f1
-A	jquery_colorpicker.info	f152502fe8447558315a1b3da173a92b
-A	jquery_colorpicker.install	153e6648a3033d62922f5a39dbe91521
-A	jquery_colorpicker.module	8df5e11730c4a63cf816a0aa1164cc27
-A	js/jquery_colorpicker.js	9aba2d73db539bb1f8de615a98881ae4
+M	jquery_colorpicker.info	605e73852ad355a2506c5057d72f8e56

@@ -1,6 +1,5 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	a554d9e01d7c6cdd09beafb4d2f5f6fe
+M	README.txt	a554d9e01d7c6cdd09beafb4d2f5f6fe
 A	editablefields.css	f2b5c4c5d266ce59ca1fe8bcbcb1b782
-A	editablefields.info	54645011b570249b436e292ead976862
-A	editablefields.js	f9fbd3b0ad612e56fb32d2bca4cbe019
-A	editablefields.module	17cab2a5441bc218dde236451ac801e1
+M	editablefields.info	2ac66cd7976094dbffa34097c44599d3
+M	editablefields.js	4f6cdb014dffc871cc62e9c965beab9d
+M	editablefields.module	ffda41d418f4f5b37fcf75c028a3b01b

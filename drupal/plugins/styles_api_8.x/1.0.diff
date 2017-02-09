@@ -1,1 +1,11 @@
-M	styles_api.info.yml	1c975a209bb0873cb9fb922e64acbf1d
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	src/Annotation/Style.php	3688d3e0371d256846496c467baa1461
+A	src/Plugin/Style/StyleBase.php	34a03f8e870f42f24e6917f8ccdb6c5f
+A	src/Plugin/Style/StyleDefault.php	86c4f83fec2d82b848e8a8e83fdbc7a2
+A	src/Plugin/Style/StyleInterface.php	b16d664860a7939737d35426b33d8d81
+A	src/Plugin/Style/StylePluginManager.php	a153d8a592f0443fe49ad4f794dbe5d1
+A	src/Plugin/Style/StylePluginManagerInterface.php	01e37ebfdf64dbfa19d6914ba9149337
+A	src/Style.php	7cc12e51352b5650ee738a001e9e714d
+A	styles_api.info.yml	1c975a209bb0873cb9fb922e64acbf1d
+A	styles_api.module	bf4d4fe2a6f04b952a1e28e3198b5db2
+A	styles_api.services.yml	358152366d37cedb5dc2a616cc7d50c9

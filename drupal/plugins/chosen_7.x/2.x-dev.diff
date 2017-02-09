@@ -1,13 +1,7 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	ae097035560b01a5c2502d721d0ed3d1
-A	UPDATE.txt	5528236a2fe250cc5ae676ad206b0c4b
-M	chosen.admin.inc	6b393f5798fd8e60992d4b4e874070a4
-M	chosen.info	c46be867cfd08edd417d0e7000398b65
-M	chosen.install	2450be58f71835da1d7d3c240adabfb6
-M	chosen.js	aa660bdac6aebab22a7a55a14e815a0a
-D	chosen.make	
-A	chosen.make.example	2bada53792ad1659d57111dd19905eed
-M	chosen.module	0c7a1940de670436460a924255bcb099
-A	chosen.variable.inc	3d50fd94ced16ae98d8ab1a006b0c459
-A	css/chosen-drupal.css	f4f2605a85623a6b83d1ad2de4c0237a
-A	drush/chosen.drush.inc	8bbc6a97012133dc91597fc994ba2ed5
+M	README.txt	fdd0d56d109af205e37d24cdadb2a91c
+M	chosen.admin.inc	6fdb9523d13bf075bed83777580f9ca0
+M	chosen.info	b071de69bc8ed48e896dffd179b72dc9
+M	chosen.install	eced62d92eb7b0c6e280f08533933281
+M	chosen.js	c8d31b438472a9f08dfc65aa10842fe1
+M	chosen.module	5aebbe98b6ae98dee613bbc36b238d4e
+M	drush/chosen.drush.inc	8a9d9cfde45a775d681ce6c804883784

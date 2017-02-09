@@ -1,6 +1,9 @@
 M	README.int.txt	200141d6dc89d22216d7af39ce3c6bf9
 M	README.txt	1a4ede6dd5e86da094d736e8eae589a8
 A	countries.txt	c6af454765d6b18df0ec247ab70c931c
+D	phone-fr.test	
+D	phone-nz.test	
+D	phone-pa.test	
 M	phone.au.inc	5e626e032eaafb5a7b75fafdfe52ab01
 A	phone.be.inc	b1f64dc7673c68ae94734ad87b5411a8
 M	phone.br.inc	ceeede0c50c8bdb12ed6fab9986c02ab
@@ -42,11 +45,14 @@ A	tests/phone-cr.test	d70cdbce26326dbb963467652ea8fb56
 A	tests/phone-cs.test	14acb97e320314fd5002c4c59db8658f
 A	tests/phone-eg.test	889b1b7eeee28acc52c80067221a292f
 A	tests/phone-es.test	60438a6d300f64891364720ec2b01e3f
+A	tests/phone-fr.test	05af89d794c17d9f67da0131fee9c326
 A	tests/phone-hu.test	1cf8b4c43583ba922939d3b9afe10db4
 A	tests/phone-il.test	428fd2d970e27795cc1626245b3772ea
 A	tests/phone-it.test	a4d4a1f0f8c4328d554041674cc1bd69
 A	tests/phone-jo.test	1883d41b947f9d302f729e2e3ce9bcc4
 A	tests/phone-nl.test	4a745e16930af2ddb4162dee6fe01026
+A	tests/phone-nz.test	64ac731674746a5e2c09e1ecd902cfc0
+A	tests/phone-pa.test	77b707e0db2196fb6c40c8b7d4f3d45d
 A	tests/phone-ph.test	ed122a346322906fd1c595ad32261ba5
 A	tests/phone-pk.test	c79e3b907e7648bcb245beffcee12195
 A	tests/phone-pl.test	8a1ea2a06101c639b5049b3b81911b0b

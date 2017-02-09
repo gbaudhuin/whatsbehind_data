@@ -171,8 +171,10 @@ M	modules/product/src/Tests/ProductTestBase.php	619f4c59a2f126fd9e87e6444ce44613
 M	modules/product/src/Tests/ProductTypeTest.php	efecc447599f0a7b3fe02f83e1664325
 A	modules/product/src/Tests/ProductVariationTitleGenerationTest.php	8c748ce26a8204d0204de30ccc30a8c2
 M	modules/product/src/Tests/ProductVariationTypeTest.php	22b76902aff68798b0213b06af632a17
+A	modules/product/templates/commerce-product-form.html.twig	20bf8ff7f02027201f754e96742c7d74
 A	modules/product/templates/commerce-product-variation.html.twig	ffc75f29a4b671a57c98b671e4a75eb1
 A	modules/product/templates/commerce-product.html.twig	2951fb4ea5281fdec10d9a091fc16a84
+D	modules/product/templates/product-form.html.twig	
 M	modules/store/commerce_store.info.yml	c2ed561aeec1e2644f61dab07e64f87b
 M	modules/store/commerce_store.module	54ca36b34e25d5bae4ffc0746ea3b3b6
 A	modules/store/config/install/core.entity_view_display.commerce_store.default.default.yml	cb2c24aaaffc12e389ab61f2917a6252

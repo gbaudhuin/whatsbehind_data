@@ -1,0 +1,4 @@
+M	contact_poup.info.yml	aeca897617d299415a4cde0c44f6a3e4
+A	contact_poup.module	60692656a2bca0f1c5dc3227617c6600
+M	src/Plugin/Block/ContactPopupBlock.php	cbf5106013344c7eacf4acef47b44c44
+A	templates/contact-popup-block.html.twig	9c6e73616d7a4e1c3eefcebbbcab00c7

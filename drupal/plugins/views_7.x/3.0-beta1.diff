@@ -18,6 +18,9 @@ M	css/views-list-rtl.css	057b86c3776291a8bf623e6107ed53e7
 M	css/views-list.css	6da1b8168388e69e52f038562c90ab88
 D	css/views-tabs.css	
 M	css/views.css	da002e99593b2cd3c57c06da331b21cf
+D	docs/docs.php	
+A	docs/views.api.php	e94a69029bcf004dbb1a76d77194d1c0
+A	drush/views.drush.inc	02d467f6135616072b5a34b48656ab85
 A	drush/views_revert.drush.inc	a4844278ad0aff0e72f49a238a985530
 M	handlers/views_handler_area.inc	9cde66d2aa84310cd3b2666fa83dab86
 M	handlers/views_handler_area_text.inc	1747d7183667e85231de3a255709af7e
@@ -439,6 +442,7 @@ D	translations/it.po
 D	translations/pl.po	
 D	translations/uk.po	
 D	translations/views.pot	
+D	views.drush.inc	
 M	views.info	d358c36b56e01dfe073eab08d6fe01bd
 M	views.install	5c6714843738aae603c66bdb30cf1ee8
 M	views.module	dfe98671cfacd8869ea2dd04ed0cd136

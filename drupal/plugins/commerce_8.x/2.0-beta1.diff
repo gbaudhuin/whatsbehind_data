@@ -17,6 +17,8 @@ A	modules/cart/commerce_cart.permissions.yml	75184df1f6e3181f9e334590615d17e8
 M	modules/cart/commerce_cart.routing.yml	1ca9921e404a60d1283f534375123d5e
 M	modules/cart/commerce_cart.services.yml	a07bcc6e8e65405a1558dbffc4414b38
 M	modules/cart/commerce_cart.views_execution.inc	ab3a7af20bee04cdb8be4af061f99349
+D	modules/cart/config/install/core.entity_form_mode.commerce_line_item.add_to_cart.yml	
+A	modules/cart/config/install/core.entity_form_mode.commerce_order_item.add_to_cart.yml	5d9dfd70afe9044991a67c53e0d43c55
 A	modules/cart/config/install/core.entity_view_mode.commerce_product_attribute_value.add_to_cart.yml	33568d059ad691f4191f66e322e7eab0
 M	modules/cart/config/install/views.view.commerce_cart_block.yml	1f91c30a24e80da076c41fee074228bb
 M	modules/cart/config/install/views.view.commerce_cart_form.yml	65974aaeeaa6b67dd27beed13cc963f5
@@ -37,6 +39,8 @@ D	modules/cart/src/Event/CartLineItemRemoveEvent.php
 D	modules/cart/src/Event/CartLineItemUpdateEvent.php	
 A	modules/cart/src/Event/CartOrderItemRemoveEvent.php	58097436ba411a071a8277108e38bfb1
 A	modules/cart/src/Event/CartOrderItemUpdateEvent.php	e6ca3fa55cf314d6b172724900e70dbf
+D	modules/cart/src/Event/LineItemComparisonFieldsEvent.php	
+A	modules/cart/src/Event/OrderItemComparisonFieldsEvent.php	1985d34a9a354bbde9e8dd905266fe0e
 M	modules/cart/src/Exception/DuplicateCartException.php	e376b7a6b12eedcaf9eb4637ecf6ddba
 M	modules/cart/src/Exception/ExceptionInterface.php	e12bf290af0854335753879cd26bc018
 M	modules/cart/src/Form/AddToCartForm.php	589b35edf537076e9db08cd23979bf3f
@@ -45,16 +49,18 @@ D	modules/cart/src/LineItemMatcherInterface.php
 A	modules/cart/src/OrderItemMatcher.php	cd4af52a7f93dba762e8a8586dfe27f3
 A	modules/cart/src/OrderItemMatcherInterface.php	1f7d75a3046e99c4d736f92773fdde5b
 M	modules/cart/src/Plugin/Block/CartBlock.php	d2a2ba216a6a7aa6cefb3746cb0de0fb
-M	modules/cart/src/Plugin/views/field/EditQuantity.php	4caa16ec3ba3a96f9af119228e85f01f
+M	modules/cart/src/Plugin/views/Field/EditQuantity.php	4caa16ec3ba3a96f9af119228e85f01f
 M	modules/cart/src/Plugin/views/field/RemoveButton.php	25dfe726a6a7eb632a6037102aa08d3d
 D	modules/cart/src/Tests/AddToCartFormTest.php	
 D	modules/cart/src/Tests/CartRefreshTest.php	
+D	modules/cart/src/Tests/CartTest.php	
 M	modules/cart/templates/commerce-cart-block.html.twig	5e0d8b43189e6104b41bc126d56f3bd3
 A	modules/cart/tests/modules/commerce_cart_test/commerce_cart_test.info.yml	bf198f01e9178f016a9ebc587ee54ecd
 A	modules/cart/tests/modules/commerce_cart_test/config/install/views.view.test_multiple_cart_forms.yml	c1de2bb97a3baddd8a71bfd016d3023a
 A	modules/cart/tests/src/Functional/AddToCartFormTest.php	a719722777a596643795d70e97686d61
 A	modules/cart/tests/src/Functional/CartBlockTest.php	77a6565267b98590671304e44b76b3b2
 A	modules/cart/tests/src/Functional/CartBrowserTestBase.php	3eee92c0f92d630aa4501ec4a85d8890
+A	modules/cart/tests/src/Functional/CartTest.php	e482fe6f0ab176bada0dc4de9c406a92
 A	modules/cart/tests/src/Functional/MultipleCartFormsTest.php	f61b518155c6bf1a8e5e9aed8dd4315b
 A	modules/cart/tests/src/FunctionalJavascript/AddToCartMultiAttributeTest.php	16685ed7219a80d815e454221bde5170
 A	modules/cart/tests/src/Kernel/CartOrderPlacedTest.php	6c48791eddbeb6e42743aaa53eedbd47
@@ -108,15 +114,37 @@ A	modules/order/commerce_order.services.yml	750de48f7026948abdc3a7612380263b
 A	modules/order/commerce_order.views.inc	0e5276992cf5664558f04c2445c6a943
 M	modules/order/config/install/commerce_order.commerce_order_type.default.yml	05ec9199f98a9fad4d34457414f33819
 M	modules/order/config/install/core.entity_form_display.commerce_order.default.default.yml	6848a306e5cc5aad2af73612301c5165
+D	modules/order/config/install/core.entity_form_display.profile.billing.default.yml	
+A	modules/order/config/install/core.entity_form_display.profile.customer.default.yml	70fb929d043d175df40619c9fcbb1e6d
 M	modules/order/config/install/core.entity_view_display.commerce_order.default.default.yml	b18e17eeff80f5679890467a89c54e33
 M	modules/order/config/install/core.entity_view_display.commerce_order.default.user.yml	5605d163384eb20ef5e9a286dde779d9
+D	modules/order/config/install/core.entity_view_display.profile.billing.default.yml	
+A	modules/order/config/install/core.entity_view_display.profile.customer.default.yml	405ec4f424d7388d1681c4ed94a297e2
+D	modules/order/config/install/field.field.commerce_order.default.line_items.yml	
+A	modules/order/config/install/field.field.commerce_order.default.order_items.yml	9c1b5f37713ae0616adb3679a68b9a09
+D	modules/order/config/install/field.field.profile.billing.address.yml	
+A	modules/order/config/install/field.field.profile.customer.address.yml	f432f992c5db050ddfe55475ccc55105
+D	modules/order/config/install/field.storage.commerce_order.line_items.yml	
+A	modules/order/config/install/field.storage.commerce_order.order_items.yml	2a92d824c213f20e36aa345f17c0c338
+D	modules/order/config/install/profile.type.billing.yml	
+A	modules/order/config/install/profile.type.customer.yml	dacc04b49636ffc6845bde376d5da36f
+D	modules/order/config/install/views.view.commerce_line_item_table.yml	
+A	modules/order/config/install/views.view.commerce_order_item_table.yml	9707c3f692491d45efe29f320e68f88a
 M	modules/order/config/install/views.view.commerce_orders.yml	5e142375cf83f038ae306ea8275123e0
 M	modules/order/config/install/views.view.commerce_user_orders.yml	f7771c38466dec491fb73653d2b270b2
 M	modules/order/config/schema/commerce_order.schema.yml	9715f9ca44137c28e13723092ebdfd3b
 A	modules/order/src/Adjustment.php	d4a92a170db4717f15a43504257e1167
 A	modules/order/src/AvailabilityOrderProcessor.php	a4881c222a685db0cffcd6da2752f227
+D	modules/order/src/Entity/LineItem.php	
+D	modules/order/src/Entity/LineItemInterface.php	
+D	modules/order/src/Entity/LineItemType.php	
+D	modules/order/src/Entity/LineItemTypeInterface.php	
 M	modules/order/src/Entity/Order.php	c7f0b057ef9a682796ff8988b65f418f
 M	modules/order/src/Entity/OrderInterface.php	f99e4c68651c40ac147f18c675825b9f
+A	modules/order/src/Entity/OrderItem.php	10e7f91f3f75cee39a37f16949ded01e
+A	modules/order/src/Entity/OrderItemInterface.php	a7dcbde7680000647aa999cab8195dda
+A	modules/order/src/Entity/OrderItemType.php	882ede19c2e09f28e2466dae0b9d017c
+A	modules/order/src/Entity/OrderItemTypeInterface.php	dd99090bb1a3465b0b9c3db8bb0a5ce5
 M	modules/order/src/Entity/OrderType.php	907431347c5ef92c69676f3200d24aa9
 M	modules/order/src/Entity/OrderTypeInterface.php	b7372c9e6fd7ebe6633676f4f265f43e
 A	modules/order/src/EntityAdjustableInterface.php	781440b5ff880a61f6b882f4309b5ef0
@@ -125,15 +153,31 @@ M	modules/order/src/Event/OrderEvent.php	a2021a707b1509aac205266e102640f7
 M	modules/order/src/Event/OrderEvents.php	257d794a4b693f5300ed845a894e5951
 A	modules/order/src/Event/OrderItemEvent.php	26cdce9c1906fc9de6aef5db75f21ae6
 M	modules/order/src/Form/CustomerFormTrait.php	f711649185f3362754eb7128a4829763
+D	modules/order/src/Form/LineItemInlineForm.php	
+D	modules/order/src/Form/LineItemTypeDeleteForm.php	
+D	modules/order/src/Form/LineItemTypeForm.php	
 M	modules/order/src/Form/OrderAddForm.php	f765ea308edcbed427ee9db4553234cf
 M	modules/order/src/Form/OrderForm.php	e41f96a34bf3e2138ded43b3f0d720a9
+A	modules/order/src/Form/OrderItemInlineForm.php	c2b8afe453f173c159cb8c16639c92ab
+A	modules/order/src/Form/OrderItemTypeDeleteForm.php	d6c38cbdf18433eac875e1aed74eaa94
+A	modules/order/src/Form/OrderItemTypeForm.php	08f6583f3270c5bb8b369fb8cdb1f082
 M	modules/order/src/Form/OrderReassignForm.php	37355efae5cd003ed9cfe0d535c23c94
 M	modules/order/src/Form/OrderTypeForm.php	a297b460e54fa568c09f264227f382b0
+D	modules/order/src/LineItemStorage.php	
+D	modules/order/src/LineItemStorageInterface.php	
+D	modules/order/src/LineItemTypeListBuilder.php	
+D	modules/order/src/LineItemViewsData.php	
+A	modules/order/src/OrderItemStorage.php	9b4dedb2572cecfb45db0109f0962fa2
+A	modules/order/src/OrderItemStorageInterface.php	b1bbbe914fef910ef12b473677381e96
+A	modules/order/src/OrderItemTypeListBuilder.php	9d4da073651fb50f09652721a64659d5
+A	modules/order/src/OrderItemViewsData.php	8cad7f0fab1eadcbbb8c605b04883f2a
 M	modules/order/src/OrderListBuilder.php	94a3bbb918063fffd01915ae632192bc
 A	modules/order/src/OrderProcessorInterface.php	9fc143d2b3a0ec680c12f00aeab6b789
 A	modules/order/src/OrderRefresh.php	7ba8d99c22075b3c60d52e46faae6d65
 A	modules/order/src/OrderRefreshInterface.php	f04e3926b252d7183d4b8aba181d8269
 A	modules/order/src/OrderStorage.php	6357ccd3a1e6c1c812bb9ebd9a7c4337
+D	modules/order/src/Plugin/Field/FieldFormatter/LineItemTable.php	
+A	modules/order/src/Plugin/Field/FieldFormatter/OrderItemTable.php	ddf3ba7abf921c90786cec6935bc2990
 A	modules/order/src/Plugin/Field/FieldType/AdjustmentItem.php	3750bb5a6b30ecf555b7ef88acf58a65
 A	modules/order/src/Plugin/Field/FieldType/AdjustmentItemList.php	3a6b7680212663b417efb2a052c75d26
 A	modules/order/src/Plugin/Field/FieldType/AdjustmentItemListInterface.php	c7bb7c2816e9160862f3dcc9655d3572
@@ -146,13 +190,19 @@ A	modules/order/src/Resolver/OrderTypeResolverInterface.php	53ea0401b5d603ff749a
 D	modules/order/src/Tests/LineItemTypeTest.php	
 D	modules/order/src/Tests/OrderAdminTest.php	
 D	modules/order/src/Tests/OrderReassignTest.php	
+D	modules/order/src/Tests/OrderTest.php	
+D	modules/order/src/Tests/OrderTestBase.php	
 D	modules/order/src/Tests/OrderTypeTest.php	
+D	modules/order/src/Tests/OrderViewTest.php	
 M	modules/order/templates/commerce-order--user.html.twig	cc1b616b182976b615f81935fd5c5b40
 M	modules/order/templates/commerce-order.html.twig	0b3ede8630570c5c451b0f8362eacdef
 A	modules/order/tests/src/Functional/OrderAdminTest.php	e6bdaa86172e83ab6e5c989de59311eb
+A	modules/order/tests/src/Functional/OrderBrowserTestBase.php	cf069b708f79433e4946cbba404815a4
 A	modules/order/tests/src/Functional/OrderItemTypeTest.php	58c3bacdf4e1a613c5c5beac2cbf9c6e
 A	modules/order/tests/src/Functional/OrderNoStoreTest.php	02a0ea2db7271c3c0106b4964546cb6c
+A	modules/order/tests/src/Functional/OrderTest.php	02c6989b9b0ce3fc6ba1ec5a4f0b9f7f
 A	modules/order/tests/src/Functional/OrderTypeTest.php	c4e6dc2fbb5d808e2d2a696884c78d35
+A	modules/order/tests/src/Functional/OrderViewTest.php	92f3b811a105630f889a77117f874e63
 A	modules/order/tests/src/FunctionalJavascript/OrderReassignTest.php	b34d2909f5f9cd2ef3a40511fdcee3ce
 A	modules/order/tests/src/Kernel/AdjustmentItemTest.php	a7a35bf9abf5bf245fc8244e89a0f0d4
 A	modules/order/tests/src/Kernel/ChainOrderTypeResolverTest.php	49e155df6f43d8129aab9ae5ac6e1bd3
@@ -281,6 +331,8 @@ M	modules/price/src/NumberFormatRepository.php	5ce3b4006fefe49113dfc262032b5c18
 A	modules/price/src/Plugin/Field/FieldFormatter/PriceCalculatedFormatter.php	6ecad9e04e38d05ac1ab3ea6601d3e9e
 M	modules/price/src/Plugin/Field/FieldFormatter/PriceDefaultFormatter.php	8f8d9d83e4f5e86dd9322da1ad211fab
 M	modules/price/src/Plugin/Field/FieldFormatter/PricePlainFormatter.php	1e746cb2c908dfbc3fffd684a71b80b2
+D	modules/price/src/Plugin/Field/FieldType/Price.php	
+A	modules/price/src/Plugin/Field/FieldType/PriceItem.php	818b1e947e581aaca3e80b692d9ad550
 M	modules/price/src/Plugin/Field/FieldWidget/PriceDefaultWidget.php	934f81d947b000f0e6ca3b34cf0994ec
 A	modules/price/src/Price.php	fbaa6af2d2d0d6b655468a05f713cf87
 A	modules/price/src/Resolver/ChainPriceResolver.php	0482dd3d6fed35e385d8e26c0c5be6ae
@@ -306,6 +358,14 @@ A	modules/product/commerce_product.views.inc	951d8c8f3dabdcdcfc1e760cf87de5c4
 M	modules/product/config/install/commerce_product.commerce_product_type.default.yml	33838589afefda36a9676ad6da45cfde
 M	modules/product/config/install/commerce_product.commerce_product_variation_type.default.yml	33e3f9f42935153c686ff9d3bfab4719
 M	modules/product/config/install/views.view.commerce_products.yml	b4d88780bab064cd37a3e5f99e6b4665
+D	modules/product/config/optional/commerce_order.commerce_line_item_type.product_variation.yml	
+A	modules/product/config/optional/commerce_order.commerce_order_item_type.product_variation.yml	0d0e685eab8adb203f1ca483bc322a6d
+D	modules/product/config/optional/core.entity_form_display.commerce_line_item.product_variation.add_to_cart.yml	
+D	modules/product/config/optional/core.entity_form_display.commerce_line_item.product_variation.default.yml	
+A	modules/product/config/optional/core.entity_form_display.commerce_order_item.product_variation.add_to_cart.yml	681e066eda61365868b49e857e9a7ec1
+A	modules/product/config/optional/core.entity_form_display.commerce_order_item.product_variation.default.yml	81e0facad2e6b494a290d458f6791fe8
+D	modules/product/config/optional/core.entity_view_display.commerce_line_item.product_variation.default.yml	
+A	modules/product/config/optional/core.entity_view_display.commerce_order_item.product_variation.default.yml	421e36a0a259e0f2fa3123e9523ed617
 M	modules/product/config/schema/commerce_product.schema.yml	2e839230dd91b37dc898bccf401f11be
 A	modules/product/css/commerce_product.rendered-attributes.css	ac2e1b6cbe488bfcfd862a3f17028d60
 A	modules/product/src/ConfigTranslation/ProductAttributeMapper.php	fabe813c3410a09b135a30ff42e18576
@@ -355,14 +415,24 @@ A	modules/product/src/ProductVariationFieldRendererInterface.php	b5c02e53f604f5e
 M	modules/product/src/ProductVariationStorage.php	35b2ade3811c48534476367e6a48f7a0
 M	modules/product/src/ProductVariationStorageInterface.php	bb5ac82f1eb3d513b0b15643c1ccb67c
 M	modules/product/src/ProductVariationTypeListBuilder.php	ed8953e8729ba71c58a0f7a3e24ea08f
+D	modules/product/src/Tests/ProductAdminTest.php	
 D	modules/product/src/Tests/ProductAttributeTest.php	
+D	modules/product/src/Tests/ProductTestBase.php	
+D	modules/product/src/Tests/ProductTypeTest.php	
+D	modules/product/src/Tests/ProductVariationTitleGenerationTest.php	
+D	modules/product/src/Tests/ProductVariationTypeTest.php	
 M	modules/product/templates/commerce-product-attribute-value.html.twig	471191fb6ea593bd57c9050047ccb5e6
 M	modules/product/templates/commerce-product-variation.html.twig	443dbd7b49d779573c09e6819effe2e2
 M	modules/product/templates/commerce-product.html.twig	054861075cfaf9eef220b9bc04810fdd
+A	modules/product/tests/src/Functional/ProductAdminTest.php	ffb894501269efc0a804057c2e0dc898
 A	modules/product/tests/src/Functional/ProductAttributeTest.php	1166936cd560be2902fe0d2373730283
 A	modules/product/tests/src/Functional/ProductAttributeTranslationTest.php	c433043638b1ef246fb2436bd5fe45de
+A	modules/product/tests/src/Functional/ProductBrowserTestBase.php	620c41f1d7719df13bf1fd333f7e4f93
 A	modules/product/tests/src/Functional/ProductNoStoreTest.php	6934d21a4ccf543230f805b1cf676cd6
+A	modules/product/tests/src/Functional/ProductTypeTest.php	9ac1dad904efdea1683c2e5661ec56e7
 A	modules/product/tests/src/Functional/ProductVariationFieldInjectionTest.php	48bdc8c583c2a97f7e36fc63faa9c48b
+A	modules/product/tests/src/Functional/ProductVariationTitleGenerationTest.php	adb46efd55627c66defa69375257a445
+A	modules/product/tests/src/Functional/ProductVariationTypeTest.php	b3fb8a1b8412f1d0fc560f7790e2b2c1
 A	modules/product/tests/src/FunctionalJavascript/ProductAttributeJavascriptTest.php	7be16aa2b76c3e8af92a2a9cfb2f7205
 A	modules/product/tests/src/Kernel/Entity/ProductTest.php	9a6a77d92d88777a8267af4344b7b668
 M	modules/product/tests/src/Kernel/ProductAttributeFieldManagerTest.php	dc67aee0c1e581ac96eb296dc18ff9e1
@@ -412,6 +482,10 @@ M	modules/store/commerce_store.module	70bdddd24ba6ae9ef211c4dec0217780
 M	modules/store/commerce_store.permissions.yml	6c9591efb55c6c03d5e182280b4e735f
 M	modules/store/commerce_store.routing.yml	91063411ebdf7fd09d640a3b3de8b0f0
 M	modules/store/commerce_store.services.yml	6628e6df7473649adb6578032fc0bcad
+D	modules/store/config/install/commerce_store.commerce_store_type.default.yml	
+A	modules/store/config/install/commerce_store.commerce_store_type.online.yml	1e59ba173fdfb26ad297922fc7dba859
+D	modules/store/config/install/core.entity_view_display.commerce_store.default.default.yml	
+A	modules/store/config/install/core.entity_view_display.commerce_store.online.default.yml	d59de40602f89a8e1260129f98ce9e22
 M	modules/store/config/install/views.view.commerce_stores.yml	3d581ec619ad87a37abfce4fd256b41b
 A	modules/store/src/Cache/Context/StoreCacheContext.php	678615fd788faf5e3107f51b301c4fa6
 M	modules/store/src/Command/CreateStoreCommand.php	5120909b7f30717b5e2f5a8380d3491f
@@ -431,7 +505,9 @@ M	modules/store/src/Resolver/StoreResolverInterface.php	78205e52299f4dfc581bd61f
 M	modules/store/src/StoreContextInterface.php	488547ee02ab52be6b39a28e60ad4617
 A	modules/store/src/StoreCreationTrait.php	04c0fb25264f43901ee6b1d9ad21a4ff
 D	modules/store/src/Tests/StoreTest.php	
+D	modules/store/src/Tests/StoreTypeTest.php	
 M	modules/store/templates/commerce-store.html.twig	1d193db6fa2a9e1ac7568a296e63aeee
+A	modules/store/tests/src/Functional/StoreTypeTest.php	5b47adb188a1e8cb99488c75ce63d51d
 A	modules/store/tests/src/FunctionalJavascript/StoreTest.php	a4aa692f04b8cb879cc372a5cfad5151
 M	modules/store/tests/src/Unit/Resolver/ChainStoreResolverTest.php	26a6600ed7246d927428864b9a056751
 D	modules/tax/commerce_tax.info.yml	
@@ -503,6 +579,9 @@ M	src/Resolver/ChainLocaleResolver.php	9a1b97c0915f4d8395e826757f564784
 M	src/Resolver/ChainLocaleResolverInterface.php	ea4a0260dd296220a4817aefcc80248c
 M	src/Resolver/DefaultLocaleResolver.php	b521e77e1afec2ff54e4f9a8d7c41641
 A	src/Response/NeedsRedirectException.php	96a87f11e4776906b0d2f7e0f255307e
+D	src/Tests/CommerceTestBase.php	
+D	src/Tests/ConfigUpdaterTest.php	
+D	src/Tests/EntitySelectWidgetTest.php	
 D	src/Tests/UninstallTest.php	
 A	tests/modules/commerce_bundle_plugin_test/commerce_bundle_plugin_test.info.yml	3da9bd3644a426f891bc5d6258cdc6d5
 A	tests/modules/commerce_bundle_plugin_test/commerce_bundle_plugin_test.services.yml	aae18cb3ba2004d7a8f809bb3bbe18be
@@ -520,11 +599,14 @@ A	tests/modules/commerce_test/src/Plugin/Action/ThrowException.php	6bb3e2185a073
 A	tests/modules/commerce_test/src/Plugin/Condition/UserRole.php	522b6422bfced11f7d3f492c4d903a4e
 A	tests/modules/commerce_test/src/TestAvailabilityChecker.php	dabb98e9d796f719eb4460acc0489d59
 M	tests/modules/commerce_update_test/commerce_update_test.info.yml	5e2c62dbaf2a4c75e11138aea0b9f868
+A	tests/src/Functional/CommerceBrowserTestBase.php	ece6805d840b282c95f3da757d4579e9
+A	tests/src/Functional/EntitySelectWidgetTest.php	1939c21d67727ec2a89d8fb1d11bd8d6
 A	tests/src/Functional/RedirectTest.php	0e5bd7b4ebdb6402827b7baa91d1ec8c
 A	tests/src/Functional/UninstallTest.php	af44faa7907e39a72006d74b844e873c
 A	tests/src/FunctionalJavascript/JavascriptTestTrait.php	2ba348aa27a9507f05b2b3b7c4bdfd98
 A	tests/src/FunctionalJavascript/PluginItemTest.php	c2a18a638825e4311a48f3c3784d3d59
 A	tests/src/Kernel/BundlePluginTest.php	83fbe4bb1cdb1e59bd02f204837db652
+A	tests/src/Kernel/ConfigUpdaterTest.php	491e8b71af283ea9325f9d34d6d2610e
 A	tests/src/Kernel/PluginItemTest.php	a01110b0a777efdfe30940bdc9402415
 A	tests/src/Kernel/RemoteIdItemTest.php	d559cef3a6713a6927e0d75823f3fb73
 M	tests/src/Unit/AvailabilityManagerTest.php	8a308e8b02f4961b3105cf3b5923bec3

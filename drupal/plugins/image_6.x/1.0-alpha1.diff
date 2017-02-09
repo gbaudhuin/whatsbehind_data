@@ -1,59 +1,22 @@
-D	CHANGELOG.txt	
-M	INSTALL.txt	ed3a5ac255cb96b464f6eb1d28cdf007
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	contrib/image_attach/image_attach.css	bce9a1e41222dbb9c352a2c964a90e88
-M	contrib/image_attach/image_attach.info	46acbacaeb5b3424e117c26ac8d3a49b
-M	contrib/image_attach/image_attach.install	197c16b78d299b42ea2b5d70ddef5ed3
-M	contrib/image_attach/image_attach.module	f52787b9e9f97f9f2d1da2779fa571ab
-D	contrib/image_attach/image_attach.views.inc	
-D	contrib/image_attach/image_attach_views_handler_field_attached_images.inc	
-D	contrib/image_attach/tests/image_attach.test	
-D	contrib/image_gallery/help/descendants.html	
-D	contrib/image_gallery/help/image_gallery.help.ini	
-D	contrib/image_gallery/image_gallery.admin.inc	
-M	contrib/image_gallery/image_gallery.css	7717aa68dbc304fd2e052820e2860bae
-M	contrib/image_gallery/image_gallery.info	0f9f859fcfac9755ae56fc7b8d1c2a16
-M	contrib/image_gallery/image_gallery.install	9919bb065aa5d0237d8167b91ec834c3
-M	contrib/image_gallery/image_gallery.module	0188feae5edf8bb29c5d3d901f1ba81c
-D	contrib/image_gallery/image_gallery.pages.inc	
-D	contrib/image_gallery/tests/image_gallery.test	
-D	contrib/image_gallery/views/image_gallery.views.inc	
-D	contrib/image_gallery/views/image_gallery.views_default.inc	
-D	contrib/image_gallery/views/image_gallery_handler_field_gallery_count.inc	
-D	contrib/image_gallery/views/image_gallery_handler_field_gallery_cover.inc	
-D	contrib/image_gallery/views/image_gallery_handler_field_gallery_cover_latest_time.inc	
-D	contrib/image_gallery/views/image_gallery_handler_field_gallery_cover_thumbnail.inc	
-D	contrib/image_gallery/views/image_gallery_handler_relationship_gallery_cover.inc	
-D	contrib/image_gallery/views/image_gallery_plugin_display_image_gallery.inc	
-D	contrib/image_gallery/views/theme/image-gallery-view-image-gallery-terms.tpl.php	
-D	contrib/image_gallery/views/theme/theme.inc	
-D	contrib/image_generate/image_generate.info	
-D	contrib/image_generate/image_generate.module	
-M	contrib/image_im_advanced/image_im_advanced.info	437ea1bbc10ddaa25d90fb30f1f9046a
-D	contrib/image_im_advanced/image_im_advanced.install	
-M	contrib/image_im_advanced/image_im_advanced.module	ade039987730d293a0d25ec060a9613f
-D	contrib/image_import/image_import.admin.inc	
-M	contrib/image_import/image_import.info	9ecbcc90f12be06a39fc49ff8f475948
-M	contrib/image_import/image_import.install	c5ff68e73117cd02c4d40130859849c0
-M	contrib/image_import/image_import.module	fb30897a62c1af3451731bc9671bf14f
-D	contrib/image_import/image_import.pages.inc	
-D	contrib/image_import/tests/image_import.test	
-M	image.admin.inc	121124a3fd227c47a7b9df68534596d8
-D	image.css	
-M	image.imagemagick.inc	0d55dbe7e372898c65cf96f3478ce386
-M	image.info	d227fba69c8d3dd0602ca2dd3fbcc6f6
-M	image.install	827c7100bb83dc761c1745c3fef424a1
-M	image.module	b02abe90cff203822af0278027083d56
-D	tests/image.test	
+A	INSTALL.txt	ed3a5ac255cb96b464f6eb1d28cdf007
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	fbd7efc876d89995501450d8c56f1fbd
+A	contrib/image_attach/image_attach.css	bce9a1e41222dbb9c352a2c964a90e88
+A	contrib/image_attach/image_attach.info	46acbacaeb5b3424e117c26ac8d3a49b
+A	contrib/image_attach/image_attach.install	197c16b78d299b42ea2b5d70ddef5ed3
+A	contrib/image_attach/image_attach.module	f52787b9e9f97f9f2d1da2779fa571ab
+A	contrib/image_gallery/image_gallery.css	7717aa68dbc304fd2e052820e2860bae
+A	contrib/image_gallery/image_gallery.info	0f9f859fcfac9755ae56fc7b8d1c2a16
+A	contrib/image_gallery/image_gallery.install	9919bb065aa5d0237d8167b91ec834c3
+A	contrib/image_gallery/image_gallery.module	0188feae5edf8bb29c5d3d901f1ba81c
+A	contrib/image_im_advanced/image_im_advanced.info	437ea1bbc10ddaa25d90fb30f1f9046a
+A	contrib/image_im_advanced/image_im_advanced.module	ade039987730d293a0d25ec060a9613f
+A	contrib/image_import/image_import.info	9ecbcc90f12be06a39fc49ff8f475948
+A	contrib/image_import/image_import.install	c5ff68e73117cd02c4d40130859849c0
+A	contrib/image_import/image_import.module	fb30897a62c1af3451731bc9671bf14f
+A	image.admin.inc	121124a3fd227c47a7b9df68534596d8
+A	image.imagemagick.inc	0d55dbe7e372898c65cf96f3478ce386
+A	image.info	d227fba69c8d3dd0602ca2dd3fbcc6f6
+A	image.install	827c7100bb83dc761c1745c3fef424a1
+A	image.module	b02abe90cff203822af0278027083d56
 A	views.inc	faba242ee0e7be6bcc121b9545f53e31
-D	views/image.views.inc	
-D	views/image_handler_argument_image_node_image_size.inc	
-D	views/image_handler_argument_image_size.inc	
-D	views/image_handler_field_image_node_image.inc	
-D	views/image_handler_field_image_size.inc	
-D	views/image_handler_filter_image_size.inc	
-D	views/image_handler_relationship_node_image_file.inc	
-D	views/image_plugin_argument_default_image_size.inc	
-D	views/image_plugin_argument_validate_image_size.inc	
-D	views/theme/image-view-image-gallery.tpl.php	
-D	views/theme/theme.inc	

@@ -1,63 +1,30 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	70a2b377adc67eba747c06589c7d66f1
-M	advagg.admin.inc	6dd8885d491fdc223d346c04ccf19609
-D	advagg.admin.js	
-M	advagg.info	ba4684ee781f7dc7d780ac961bbf692c
-M	advagg.install	3d82f3517ddbc9c589e7b8d16137ad1b
-M	advagg.missing.inc	442e18875ffe0005ad1bbe7238d82e47
-M	advagg.module	571e8476959e9d9dcbd53527ef58bdcd
-M	advagg_bundler/advagg_bundler.admin.inc	cd5aeb4d29301567f5f762c3e7e25907
-M	advagg_bundler/advagg_bundler.info	222b51b585b7fdc72d18479f642b9f2b
-M	advagg_bundler/advagg_bundler.install	f41691291b8904dd5658b5b82f1e047f
-M	advagg_bundler/advagg_bundler.module	eda5796f42419c77a056d0d34a2a04c0
-M	advagg_css_compress/advagg_css_compress.admin.inc	5fca0907faf3fe5403d55120cd5b122e
-M	advagg_css_compress/advagg_css_compress.info	b8b85d820c7d43b0b3d9123c8b7339be
-M	advagg_css_compress/advagg_css_compress.install	46016bd63cd09bf90932de8376889070
-M	advagg_css_compress/advagg_css_compress.module	ec00b020903815830a18e710d56e29bb
-D	advagg_css_compress/css-compressor-3.x/Makefile	
-D	advagg_css_compress/css-compressor-3.x/README.md	
-D	advagg_css_compress/css-compressor-3.x/changelog	
-D	advagg_css_compress/css-compressor-3.x/docs/CSSCompression.md	
-D	advagg_css_compress/css-compressor-3.x/docs/Contribute.md	
-D	advagg_css_compress/css-compressor-3.x/docs/Options.md	
-D	advagg_css_compress/css-compressor-3.x/license.txt	
-D	advagg_css_compress/css-compressor-3.x/src/CSSCompression.inc	
-D	advagg_css_compress/css-compressor-3.x/src/helpers/hex2short-colors.json	
-D	advagg_css_compress/css-compressor-3.x/src/helpers/hex2short-safe.json	
-D	advagg_css_compress/css-compressor-3.x/src/helpers/long2hex-colors.json	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Cleanup.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Color.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Combine.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Combine/Aural.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Combine/Background.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Combine/Border.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Combine/BorderOutline.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Combine/BorderRadius.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Combine/Font.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Combine/List.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Combine/MarginPadding.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Compress.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Control.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Exception.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Format.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Individuals.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Numeric.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Option.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Organize.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Selectors.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Setup.inc	
-D	advagg_css_compress/css-compressor-3.x/src/lib/Trim.inc	
-M	advagg_css_compress/csstidy/class.csstidy.inc	8e76e5c60bc047be5240ec1a37e49556
-M	advagg_css_compress/csstidy/class.csstidy_ctype.inc	f7797be88e38dead1b39edbf3f2b2d9e
-M	advagg_css_compress/csstidy/class.csstidy_optimise.inc	cab72eb85bd41ece6fff54570a2f1653
-M	advagg_css_compress/csstidy/class.csstidy_print.inc	2713fffd8f459fcba4a84bc2dd27605e
-M	advagg_css_compress/csstidy/data.inc	1dbd136dbdaea2f8921338739ca454ad
-D	advagg_css_compress/yui/CSSMin.inc	
-M	advagg_js_cdn/advagg_js_cdn.info	78d15bab7c942159a7f69fa855e0e46f
-M	advagg_js_cdn/advagg_js_cdn.module	99dc443b93688c59153fd82c6181447e
-M	advagg_js_compress/advagg_js_compress.admin.inc	db3261cfbd36b12e27a47c520236b062
-M	advagg_js_compress/advagg_js_compress.info	bf73cdcda14b80ef33b4223bb54a7595
-M	advagg_js_compress/advagg_js_compress.install	4291f4800ca071472b8c37268bc1da88
-M	advagg_js_compress/advagg_js_compress.module	dd1115fe31321af3d6ebb2d0b4ae1e96
-M	advagg_js_compress/jsminplus.inc	48ed7d5bff77f5f8783b6d743fddd6ab
-M	advagg_js_compress/jspacker.inc	f918b6abbdceea7e92bac81764f74312
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	70a2b377adc67eba747c06589c7d66f1
+A	advagg.admin.inc	6dd8885d491fdc223d346c04ccf19609
+A	advagg.drush.inc	c85138e4779ae7a1bb43e4c1746a1b5c
+A	advagg.info	ba4684ee781f7dc7d780ac961bbf692c
+A	advagg.install	3d82f3517ddbc9c589e7b8d16137ad1b
+A	advagg.missing.inc	442e18875ffe0005ad1bbe7238d82e47
+A	advagg.module	571e8476959e9d9dcbd53527ef58bdcd
+A	advagg_bundler/advagg_bundler.admin.inc	cd5aeb4d29301567f5f762c3e7e25907
+A	advagg_bundler/advagg_bundler.info	222b51b585b7fdc72d18479f642b9f2b
+A	advagg_bundler/advagg_bundler.install	f41691291b8904dd5658b5b82f1e047f
+A	advagg_bundler/advagg_bundler.module	eda5796f42419c77a056d0d34a2a04c0
+A	advagg_css_compress/advagg_css_compress.admin.inc	5fca0907faf3fe5403d55120cd5b122e
+A	advagg_css_compress/advagg_css_compress.info	b8b85d820c7d43b0b3d9123c8b7339be
+A	advagg_css_compress/advagg_css_compress.install	46016bd63cd09bf90932de8376889070
+A	advagg_css_compress/advagg_css_compress.module	ec00b020903815830a18e710d56e29bb
+A	advagg_css_compress/csstidy/class.csstidy.inc	8e76e5c60bc047be5240ec1a37e49556
+A	advagg_css_compress/csstidy/class.csstidy_ctype.inc	f7797be88e38dead1b39edbf3f2b2d9e
+A	advagg_css_compress/csstidy/class.csstidy_optimise.inc	cab72eb85bd41ece6fff54570a2f1653
+A	advagg_css_compress/csstidy/class.csstidy_print.inc	2713fffd8f459fcba4a84bc2dd27605e
+A	advagg_css_compress/csstidy/data.inc	1dbd136dbdaea2f8921338739ca454ad
+A	advagg_js_cdn/advagg_js_cdn.info	78d15bab7c942159a7f69fa855e0e46f
+A	advagg_js_cdn/advagg_js_cdn.module	99dc443b93688c59153fd82c6181447e
+A	advagg_js_compress/advagg_js_compress.admin.inc	db3261cfbd36b12e27a47c520236b062
+A	advagg_js_compress/advagg_js_compress.info	bf73cdcda14b80ef33b4223bb54a7595
+A	advagg_js_compress/advagg_js_compress.install	4291f4800ca071472b8c37268bc1da88
+A	advagg_js_compress/advagg_js_compress.module	dd1115fe31321af3d6ebb2d0b4ae1e96
+A	advagg_js_compress/jquery.form.js	dfc20e00bbe3db6abfb525282d68aa06
+A	advagg_js_compress/jsminplus.inc	48ed7d5bff77f5f8783b6d743fddd6ab
+A	advagg_js_compress/jspacker.inc	f918b6abbdceea7e92bac81764f74312

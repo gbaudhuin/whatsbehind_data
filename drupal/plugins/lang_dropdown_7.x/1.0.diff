@@ -1,84 +1,13 @@
-M	README.txt	23fdc171f4bbf69fa34bee9873cbea3f
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	23fdc171f4bbf69fa34bee9873cbea3f
 A	lang_dropdown.admin.js	cd994650e3d29ea7900505495f550a5d
-M	lang_dropdown.css	e28adc5c3787496edd9658b8dbd03017
-M	lang_dropdown.info	21f812d8ec749888918022365f14ffd5
-M	lang_dropdown.install	6b949802bb18e80bdbafc89c43f7d0bf
-M	lang_dropdown.js	a05603cfbb82302ed3ae278d11f1e69b
-M	lang_dropdown.module	cea2f5d05556e1c9cf18c6950e96ce25
-D	msdropdown/Readme.md	
-D	msdropdown/Readme.txt	
-D	msdropdown/css/msdropdown/dd.css	
-D	msdropdown/css/msdropdown/flags.css	
-D	msdropdown/css/msdropdown/ldsBlue.css	
-D	msdropdown/css/msdropdown/ldsDark.css	
-D	msdropdown/css/msdropdown/ldsSkin.css	
-D	msdropdown/css/msdropdown/skin2.css	
-D	msdropdown/css/msdropdown/sprite.css	
+A	lang_dropdown.css	e28adc5c3787496edd9658b8dbd03017
+A	lang_dropdown.info	21f812d8ec749888918022365f14ffd5
+A	lang_dropdown.install	6b949802bb18e80bdbafc89c43f7d0bf
+A	lang_dropdown.js	a05603cfbb82302ed3ae278d11f1e69b
+A	lang_dropdown.module	cea2f5d05556e1c9cf18c6950e96ce25
 A	msdropdown/dd.css	463e1e4c50c0cc7d5bb868755b3c9dc3
 A	msdropdown/dd_arrow.gif	123521ad24a19608457407461b7c5760
-D	msdropdown/examples/byjson.html	
-D	msdropdown/examples/css-sprite.html	
-D	msdropdown/examples/css/sample.css	
-D	msdropdown/examples/help.html	
-D	msdropdown/examples/index.html	
-D	msdropdown/examples/mouse-events.html	
-D	msdropdown/examples/multiple-skin.html	
-D	msdropdown/examples/object-oriented-approach-more.html	
-D	msdropdown/examples/object-oriented-approach.html	
-D	msdropdown/examples/submitdata.php	
-D	msdropdown/examples/use-checkbox.html	
-D	msdropdown/images/msdropdown/icons/1273404841_tick_16.png	
-D	msdropdown/images/msdropdown/icons/Amex-56.png	
-D	msdropdown/images/msdropdown/icons/Cash-56.png	
-D	msdropdown/images/msdropdown/icons/Discover-56.png	
-D	msdropdown/images/msdropdown/icons/Mastercard-56.png	
-D	msdropdown/images/msdropdown/icons/Paypal-56.png	
-D	msdropdown/images/msdropdown/icons/Thumbs.db	
-D	msdropdown/images/msdropdown/icons/Visa-56.png	
-D	msdropdown/images/msdropdown/icons/blank.gif	
-D	msdropdown/images/msdropdown/icons/browser-chrome.png	
-D	msdropdown/images/msdropdown/icons/browser-firefox.png	
-D	msdropdown/images/msdropdown/icons/browser-msie.png	
-D	msdropdown/images/msdropdown/icons/browser-opera.png	
-D	msdropdown/images/msdropdown/icons/browser-safari.png	
-D	msdropdown/images/msdropdown/icons/button-large.gif	
-D	msdropdown/images/msdropdown/icons/demoaction.jpg	
-D	msdropdown/images/msdropdown/icons/enabled.gif	
-D	msdropdown/images/msdropdown/icons/flagssprite_small.png	
-D	msdropdown/images/msdropdown/icons/giftlelo_dot_com.jpg	
-D	msdropdown/images/msdropdown/icons/icon-search.gif	
-D	msdropdown/images/msdropdown/icons/icon_calendar.gif	
-D	msdropdown/images/msdropdown/icons/icon_cart.gif	
-D	msdropdown/images/msdropdown/icons/icon_cd.gif	
-D	msdropdown/images/msdropdown/icons/icon_email.gif	
-D	msdropdown/images/msdropdown/icons/icon_faq.gif	
-D	msdropdown/images/msdropdown/icons/icon_games.gif	
-D	msdropdown/images/msdropdown/icons/icon_lockopen.gif	
-D	msdropdown/images/msdropdown/icons/icon_music.gif	
-D	msdropdown/images/msdropdown/icons/icon_phone.gif	
-D	msdropdown/images/msdropdown/icons/icon_sales.gif	
-D	msdropdown/images/msdropdown/icons/icon_secure.gif	
-D	msdropdown/images/msdropdown/icons/icon_video.gif	
-D	msdropdown/images/msdropdown/icons/jquery-msdropdown.gif	
-D	msdropdown/images/msdropdown/icons/msDropDown.gif	
-D	msdropdown/images/msdropdown/icons/preview.gif	
-D	msdropdown/images/msdropdown/icons/sprite.gif	
-D	msdropdown/images/msdropdown/icons/sprite.jpg	
-D	msdropdown/images/msdropdown/icons/tick.gif	
-D	msdropdown/images/msdropdown/ldsBlue/dd_arrow.gif	
-D	msdropdown/images/msdropdown/ldsBlue/title-bg.gif	
-D	msdropdown/images/msdropdown/ldsDark/dd_arrow.gif	
-D	msdropdown/images/msdropdown/ldsDark/title-bg.gif	
-D	msdropdown/images/msdropdown/ldsSkin/dd_arrow.gif	
-D	msdropdown/images/msdropdown/ldsSkin/title-bg.gif	
-D	msdropdown/images/msdropdown/skin1/dd_arrow.gif	
-D	msdropdown/images/msdropdown/skin1/title-bg.gif	
-D	msdropdown/images/msdropdown/skin2/icon-ok.gif	
-D	msdropdown/images/msdropdown/skin2/title-bg.gif	
-D	msdropdown/index.html	
+A	msdropdown/icon-arrow.gif	90cac7ff09c130d6c4e5c4d626df5144
 A	msdropdown/jquery.dd.js	afdea623a9da4ae0d166876fcf475c1d
-D	msdropdown/js/jquery/jquery-1.9.0.min.js	
-D	msdropdown/js/jquery/tester.js	
-D	msdropdown/js/msdropdown/jquery.dd.js	
-D	msdropdown/js/msdropdown/jquery.dd.min.js	
 A	msdropdown/msDropDown.gif	45b6f3552f44ab7b69856ef45b23fb35

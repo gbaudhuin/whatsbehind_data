@@ -13,6 +13,8 @@ M	css/round-node.css	d1ce866ec5018b1f499714a8feb28962
 M	css/round-sidebar.css	f0acb332ae2024a24b986695b9935aca
 M	css/style.css	f8ec4f00436779cbc74112ac3bc8987f
 A	js/mayo-columns.js	da8da60cecee5ff12bf56caa8c8009fe
+A	js/mayo-fontsize.js	09b2d4cb72531d08a889c033d4d4ddc5
+D	js/mayo.js	
 M	mayo.info	309e3ec1e7bb2461fc54470f48f7e885
 M	template.php	190445ccad529c9c84df7c645ad0f265
 M	templates/comment.tpl.php	9fcb8907d71ddfaba84c197fecbfa141

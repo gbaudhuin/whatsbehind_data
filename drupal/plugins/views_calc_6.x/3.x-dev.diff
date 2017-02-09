@@ -1,12 +1,5 @@
-M	CHANGELOG.txt	2d84989da5b4aa2a78a66236f18471e3
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 M	theme.inc	050efe647f72fdea3c7e1ff545c78efc
 M	views-calc-table.tpl.php	d080dc195a1c72a869037670518a6e8f
 M	views_calc.info	9ad5ff88fc7d141a2396f140983fcca8
-M	views_calc.install	4468db1d8aff892aa444181b74a4fbb4
-M	views_calc.module	bd847c461eb4f7e84fd25a73612fc490
-M	views_calc.views.inc	12ee448a7ada25ea7158f6fca060b83b
-M	views_calc_field_handler.inc	1a59fb3267545e0dd54ef4352e06688c
-A	views_calc_handler_sort.inc	edb41e1d6705f84049dc528022aad5aa
 M	views_calc_plugin_style_chart.inc	0aafd4c84fa9eba8b7fa7a126b52f550
 M	views_calc_table.inc	c15f27324848b9ad934e800c726b6f03

@@ -257,6 +257,8 @@ M	uc_store/countries/bermuda_60_1.cif	6135f82b1bcbd8cc9b995fa47774e39a
 A	uc_store/countries/bhutan_64_1.cif	4125c9a8e5397def26227bd73004aa21
 A	uc_store/countries/bolivia_68_1.cif	1789c4fd701d0b39c9048daec4e719ea
 A	uc_store/countries/bonaire_535_1.cif	183d3e742072293d78ddd1f2eb5ddf11
+A	uc_store/countries/bosnia_herzegovina_70_2.cif	cb4a98e7ac350aa12dbc6f266f3cabc0
+D	uc_store/countries/bosniaherzegovina_70_1.cif	
 M	uc_store/countries/botswana_72_1.cif	81bdefe17aa15a28714cf729f353530a
 A	uc_store/countries/bouvet_island_74_1.cif	b6f3f14388da3311cf969743de33dd00
 M	uc_store/countries/brazil_76_1.cif	d0a0ab2185ce51842ceaff29c5d62231
@@ -267,6 +269,8 @@ A	uc_store/countries/burkina_faso_854_1.cif	8f66937012e6800b6fa22c4edbc3b971
 A	uc_store/countries/burundi_108_1.cif	89fb7d0ddc85461bce40ebb1802dc0f7
 M	uc_store/countries/cambodia_116_1.cif	1defa50cfae596f2727a757baec49c18
 A	uc_store/countries/cameroon_120_1.cif	3c184dc8084b0dddbc564c3eab8e4d94
+D	uc_store/countries/canada_124_1.cif	
+A	uc_store/countries/canada_124_2.cif	c3d569868bc4c4de2a0d4465b07fdae0
 A	uc_store/countries/cape_verde_132_1.cif	f41152fac9cd15736edb68085b51270a
 A	uc_store/countries/cayman_islands_136_1.cif	c7413d59e5a83e3ae9a1429c53447309
 A	uc_store/countries/central_african_republic_140_1.cif	5c255eec4a94e24177fd2ca38002a8b8
@@ -280,6 +284,8 @@ A	uc_store/countries/comoros_174_1.cif	f9a8df852d3a95dfd1e3fc3f18c9070a
 A	uc_store/countries/congo_178_1.cif	ec1bb2cefd0a8e9e44e385a53ce01054
 A	uc_store/countries/congo_democratic_republic_of_180_1.cif	0b6974c70d3de14ba468bbead824ceb6
 A	uc_store/countries/cook_islands_184_1.cif	3a8f5019fccda65928413bc97c03f1c8
+D	uc_store/countries/costa_rica_188_1.cif	
+A	uc_store/countries/costa_rica_188_2.cif	5349a74fafdbd8cb117c156b7e189362
 A	uc_store/countries/cote_d_ivoire_384_1.cif	856924dc08ad68921f64b3fa42174e44
 M	uc_store/countries/croatia_191_1.cif	ac91356a1f473989f8760ed00b6de0e7
 A	uc_store/countries/cuba_192_1.cif	e912489a9f0e1dc2816aee8d10425909
@@ -327,11 +333,17 @@ A	uc_store/countries/honduras_340_1.cif	695e7a28156f2bb2ef8e91da03ba458d
 M	uc_store/countries/hong_kong_344_1.cif	262de9077078f7111113a5110a44457a
 M	uc_store/countries/hungary_348_1.cif	bd00dd4d2504abf950402635e4db2131
 A	uc_store/countries/iceland_352_1.cif	0a10381704fd345563a63043bdacf905
+D	uc_store/countries/india_356_1.cif	
+A	uc_store/countries/india_356_2.cif	78d214fcc9999d36b5133c51598af1bf
 M	uc_store/countries/indonesia_360_1.cif	e214b24be61977c6636f391acc4158ca
+D	uc_store/countries/iran_364_1.cif	
+A	uc_store/countries/iran_364_2.cif	00c31f623b1b2d129e3638130612d11f
 A	uc_store/countries/iraq_368_1.cif	6a14cf1df8ae3da78fdf6a5ade018c33
 M	uc_store/countries/ireland_372_2.cif	a08e5b5b80efb337cb5acf99249e7599
 M	uc_store/countries/isle_of_man_833_1.cif	cb908bc8293efe9d22480a1253ae74aa
 M	uc_store/countries/israel_376_1.cif	82b23497173ef592091f22e32ab9c5a5
+D	uc_store/countries/italy_380_2.cif	
+A	uc_store/countries/italy_380_3.cif	ff8066662bbd7cbe823bed3fd26b2499
 M	uc_store/countries/jamaica_388_1.cif	cadd3e79e926fc50aca1a51570d5e8b9
 M	uc_store/countries/japan_392_1.cif	5ab49ad8a48da815d50aefe9c3142e75
 A	uc_store/countries/jersey_832_1.cif	7e2af54bce248352d675f86e1467f64a
@@ -404,6 +416,10 @@ M	uc_store/countries/puerto_rico_630_1.cif	e956edc58f6a35bb60f35fabde4e8941
 A	uc_store/countries/qatar_634_1.cif	9630973b1c92a2055ea15f5c87ec8ce1
 D	uc_store/countries/reunion_638_1.cif	
 A	uc_store/countries/reunion_638_2.cif	f2870572de797ef12ed89f1ace185e42
+D	uc_store/countries/romania_642_1.cif	
+A	uc_store/countries/romania_642_2.cif	b8cb9de6d7b3555db4fda032d769f939
+D	uc_store/countries/russia_643_1.cif	
+A	uc_store/countries/russia_643_2.cif	ceb30e76ca8e76fda5f7f2b17e6bda32
 A	uc_store/countries/rwanda_646_1.cif	3e4ca688bf57961203751a0201f4b543
 A	uc_store/countries/saint_barthelemy_652_1.cif	ee9c2aba37b0a9f85116c39ec9eb71fd
 A	uc_store/countries/saint_helena_654_1.cif	23ad8ec0b5e3a2cb9ee7885423655836
@@ -460,6 +476,8 @@ A	uc_store/countries/united_states_minor_outlying_islands_581_1.cif	607141cc3275
 M	uc_store/countries/uruguay_858_1.cif	240d65df8d871574c9c4f49d9d3fa970
 A	uc_store/countries/uzbekistan_860_1.cif	710ad1ac5e5986e6ea9f746d5add6eb4
 A	uc_store/countries/vanuatu_548_1.cif	5789b493b492aa5605341b739d6e9806
+D	uc_store/countries/venezuela_862_1.cif	
+A	uc_store/countries/venezuela_862_2.cif	7b232203f752eae2e13399226d4d9432
 M	uc_store/countries/vietnam_704_1.cif	641e53f0ac1551f813c29c85408f7512
 M	uc_store/countries/virgin_islands_british_92_1.cif	625591510be5206d08339a08f16920a9
 M	uc_store/countries/virgin_islands_us_850_1.cif	b07be090b384d8ce289e3f92684181b2

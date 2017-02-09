@@ -1,5 +1,8 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	README.txt	45eadd0c58f49783f5cd2b3df83de0b6
+D	sites/godtube.inc	
+D	sites/google.inc	
+D	sites/youtube.inc	
 A	video_filter.codecs.inc	a40b7a100fa0222dcb6fc1447e0ff114
-A	video_filter.info	37a9114217cd763f9fc4ec241140130a
-A	video_filter.module	c00310547a1fb5c57bf45d588add8810
+M	video_filter.info	37a9114217cd763f9fc4ec241140130a
+M	video_filter.module	c00310547a1fb5c57bf45d588add8810

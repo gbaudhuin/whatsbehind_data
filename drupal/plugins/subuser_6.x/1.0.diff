@@ -1,14 +1,8 @@
-M	CHANGELOG.txt	d54c2f4b4e664425477f74b14b033dc7
-D	INSTALL.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	520070656b5dbb2cc318e544d2e0a48c
-M	subuser.info	c9d7e31083a8d964c89c0c50f42b59aa
-M	subuser.install	fa8eda76b4025a7e0d84a12dfaf191ec
-M	subuser.module	f3ff36bfbcd5d68ea6fe77c01f9b7526
-M	subuser.pages.inc	eb4f2a7dcf87521a6354af7391d6e7ba
-D	subuser.patch	
-D	subuser.test	
-D	subuser.views.inc	
-M	subuser.views_default.inc	e2650bf18466bc508e1f7caeaa043ae5
-D	subuser_handler_field_user_link_edit.inc	
-D	subuser_handler_field_user_link_switch.inc	
+A	CHANGELOG.txt	d54c2f4b4e664425477f74b14b033dc7
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	520070656b5dbb2cc318e544d2e0a48c
+A	subuser.info	c9d7e31083a8d964c89c0c50f42b59aa
+A	subuser.install	fa8eda76b4025a7e0d84a12dfaf191ec
+A	subuser.module	f3ff36bfbcd5d68ea6fe77c01f9b7526
+A	subuser.pages.inc	eb4f2a7dcf87521a6354af7391d6e7ba
+A	subuser.views_default.inc	e2650bf18466bc508e1f7caeaa043ae5

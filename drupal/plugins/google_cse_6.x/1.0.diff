@@ -1,14 +1,8 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
-D	google.info	
-D	google.module	
-M	google_cse.admin.inc	d40a0f10c7e789552de5fce018ebfc41
-M	google_cse.css	1a9d8c184669b1baa66e1d1d0aabb16d
-M	google_cse.info	636c4a8858e3f8d6ea833df234aabf57
-D	google_cse.install	
-M	google_cse.js	0613b6b67dc541ad49f7bcbcd623f3cc
-M	google_cse.module	177479a67c8f5675ebba12d89cdb44e7
-M	google_cse.theme.inc	dd0641b6b7a926ca891fb1f8139051c9
-D	google_cse_results.tpl.php	
-D	google_cse_results_gadget.tpl.php	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	google_cse.admin.inc	d40a0f10c7e789552de5fce018ebfc41
+A	google_cse.css	1a9d8c184669b1baa66e1d1d0aabb16d
+A	google_cse.info	636c4a8858e3f8d6ea833df234aabf57
+A	google_cse.js	0613b6b67dc541ad49f7bcbcd623f3cc
+A	google_cse.module	177479a67c8f5675ebba12d89cdb44e7
+A	google_cse.theme.inc	dd0641b6b7a926ca891fb1f8139051c9
 A	po/ru.po	9b0c2bc4e48ddd48f875e486b45770de

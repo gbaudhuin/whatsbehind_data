@@ -85,6 +85,10 @@ A	src/Tests/YamlFormElementManagedFilePublicTest.php	0b1ce2bb1bc118168d85c9eab03
 M	src/Tests/YamlFormElementManagedFileTest.php	7308e885beee554cd027aab88295da36
 M	src/Tests/YamlFormElementPluginTest.php	9f7c6d6653ba4633c0cba060cad6182d
 M	src/Tests/YamlFormElementTest.php	116fe441288f2a14c541411305b18073
+D	src/Tests/YamlFormEmailAdvancedHandlerTest.php	
+D	src/Tests/YamlFormEmailBasicHandlerTest.php	
+A	src/Tests/YamlFormHandlerEmailAdvancedTest.php	8262c5d7fa555d224fc4c5f3d1883cef
+A	src/Tests/YamlFormHandlerEmailBasicTest.php	2bc415e7f82a5995ab62afd5e15925cf
 A	src/Tests/YamlFormHandlerRemotePostTest.php	1892a1ac75a85cabe487ec9b55778d48
 M	src/Tests/YamlFormHandlerTest.php	4db213ed7861852fc24ce1024786b6fe
 M	src/Tests/YamlFormOptionsTest.php	72e9019d6773f9d7c94a1f1ac02279d9

@@ -1,7 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	a2932de8832f1ace77ece66c90368816
-A	better_formats.admin_defaults.inc	56a2c6593e04e3331cc0eb1be02063a2
-A	better_formats.admin_settings.inc	b338a87f966cbf26900368c3f8576a16
-A	better_formats.info	a50d804267d11c9ac74efdd89654ffdc
-A	better_formats.install	7916e59207fd616aca7d05703db8541a
-A	better_formats.module	073347f65168d9e8e1bb32a04bbacb60
+M	better_formats.info	a50d804267d11c9ac74efdd89654ffdc

@@ -1,4 +1,0 @@
-M	src/Controller/SystemStatusController.php	72ff4bb21833fac0c225c2bcb4ea5318
-M	system_status.info.yml	d3dac35307fb5169430d11823b01b220
-D	system_status.links.menu.yml	
-M	system_status.routing.yml	fa182e2d429ec7630525ca4f64b9ed4a

@@ -1,53 +1,19 @@
-A	.gitignore	952fd44d14cee87882239b707231609d
-A	README.md	e05d3e3d8ceb02a26022dadb80bef080
-D	README.txt	
-M	assets/css/flexslider_img.css	b97d2015396ab72a96cd7793a3cda2db
-A	assets/images/flexslider-sample-1.JPG	702eb12c02370cb7ec86e5cd2d377bc9
-A	assets/images/flexslider-sample-2.JPG	c6605bf0b7879912618f7b637081487e
-A	assets/images/flexslider-sample-3.JPG	a15707059d0bc292ddc1c79319fb2afd
-A	assets/images/flexslider-sample-4.JPG	d4c2b34ac2bc0890cbca3791cd9904e9
+M	README.md	e05d3e3d8ceb02a26022dadb80bef080
 M	assets/js/flexslider.load.js	d7b876181056a47eb7b89600e8a6ddfa
-A	flexslider-logo.png	413c183265ffb31bad3c25c3b6864aa9
 M	flexslider.admin.inc	ce22bb725e73503444de620145229ded
-A	flexslider.api.php	3b0084b2021ef81a4cfb1059160cf9fd
-M	flexslider.flexslider_default_preset.inc	cc404d102fa10aaf348e79b708ce94b7
 M	flexslider.info	3db39df60eabbe6002ffed8aabe2c60b
 M	flexslider.install	b50e2382e6b19e1d81ed338af6324d66
+M	flexslider.make.example	8f86e3fdcc2bdb8c4aba872e2666629d
 M	flexslider.module	8822fed47610ff8711d3bfcc2ebd02ea
 M	flexslider.test	846425d31ab302e5b7c75e058c3aa89c
-A	flexslider_example/README.txt	fdc1d74dd5b8abb550bc6b863cb8f2ac
-A	flexslider_example/flexslider_example.context.inc	d28aec0b8e9884bb8f29b7b560a877f6
-A	flexslider_example/flexslider_example.features.field.inc	51d59361044cbbc105f0f6b3e5809ba4
-A	flexslider_example/flexslider_example.features.inc	56ba5af6b6f677faf3a56fd3a10c32fb
-A	flexslider_example/flexslider_example.features.menu_custom.inc	cb2bf4bd16cbb1c489a545e7b79e5a41
-A	flexslider_example/flexslider_example.flexslider_default_preset.inc	22107e967cb1040a3496fdeab1b023ca
-A	flexslider_example/flexslider_example.info	3f67ad483c74ea8571981b819d5a1499
-A	flexslider_example/flexslider_example.install	7b1861d41056f594c215de6170313826
-A	flexslider_example/flexslider_example.module	e8c59ca0eccfd46389742c06f4ce4aef
-A	flexslider_example/flexslider_example.strongarm.inc	32651494d52334a4ff9a726ae25da4b9
-A	flexslider_example/flexslider_example.views_default.inc	f32623f6d9447ff165204becd32271c7
+M	flexslider_example/flexslider_example.info	3f67ad483c74ea8571981b819d5a1499
+M	flexslider_example/flexslider_example.module	e8c59ca0eccfd46389742c06f4ce4aef
+M	flexslider_example/flexslider_example.views_default.inc	f32623f6d9447ff165204becd32271c7
 A	flexslider_fields/README.md	fa872a48694bf35c967a2ef941254f20
 D	flexslider_fields/README.txt	
 M	flexslider_fields/flexslider_fields.info	b2a2de41571952144b74d5e23bc57f81
 M	flexslider_fields/flexslider_fields.module	1efdb6e0fd8cbe8c5a8b70e78ff92dc9
-M	flexslider_views/README.txt	89b3ae03d3075953f1007b0e5358cf2d
 M	flexslider_views/flexslider_views.info	1cc7e2a1c3dc42a07d57d3c74c961b55
-M	flexslider_views/flexslider_views.module	92aa82f653edaddc6318823e9600e05b
-M	flexslider_views/flexslider_views.views.inc	cf367b1f0777cecc0c1be1dd61044e53
-M	flexslider_views/flexslider_views_plugin_style_flexslider.inc	0fad43b6a3419ac025a516bff74a7115
-A	flexslider_views/theme/flexslider-views.tpl.php	fa8e65894e512c744e979f3fc05e8292
+M	flexslider_views/theme/flexslider-views.tpl.php	fa8e65894e512c744e979f3fc05e8292
 M	flexslider_views/theme/flexslider_views.theme.inc	1e75bf68acaeff8ec4f948e62c2fbe07
-D	flexslider_views_slideshow/README.txt	
-D	flexslider_views_slideshow/flexslider_views_slideshow.info	
-D	flexslider_views_slideshow/flexslider_views_slideshow.module	
-D	flexslider_views_slideshow/flexslider_views_slideshow.views_slideshow.inc	
-D	flexslider_views_slideshow/js/flexslider_views_slideshow.js	
-D	flexslider_views_slideshow/theme/flexslider-views-slideshow-main-frame-row-item.tpl.php	
-D	flexslider_views_slideshow/theme/flexslider-views-slideshow-main-frame-row.tpl.php	
-D	flexslider_views_slideshow/theme/flexslider-views-slideshow-main-frame.tpl.php	
-D	flexslider_views_slideshow/theme/flexslider-views-slideshow.tpl.php	
-D	flexslider_views_slideshow/theme/flexslider_views_slideshow.theme.inc	
-A	plugins/export_ui/flexslider_ctools_export_ui.inc	30019d687f177cce7ff7d078c7ec30dd
-D	theme/flexslider-container.tpl.php	
 M	theme/flexslider.theme.inc	3d66e1d0e28403a636308a62c65f97ef
-A	theme/flexslider.tpl.php	eeb2976c597614a04b0233cc9dbb7bbf

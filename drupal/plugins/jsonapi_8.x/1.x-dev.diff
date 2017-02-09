@@ -1,0 +1,8 @@
+M	jsonapi.info.yml	726432d9024773aa14e8cbc7646a339d
+M	src/Context/CurrentContext.php	77589ed2ae7cb8dc1d1c962261b259cf
+M	src/Controller/EntityResource.php	6c105151c5f38917574532fafceb5cb2
+M	src/JsonApiSpec.php	039835821c7e8dedd9cd1c74afe93d82
+M	src/Normalizer/Value/JsonApiDocumentTopLevelNormalizerValue.php	9e9c4af18afcea9ea98c1a0086b2d0a7
+D	src/RequestCacheabilityDependency.php	
+M	tests/src/Unit/Normalizer/Value/JsonApiDocumentTopLevelNormalizerValueTest.php	f89022176d429d574ae008e3c9bcbf1c
+D	tests/src/Unit/RequestCacheabilityDependencyTest.php	

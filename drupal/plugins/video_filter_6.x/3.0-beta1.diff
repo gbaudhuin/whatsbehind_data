@@ -1,16 +1,21 @@
-A	.cvsignore	952fd44d14cee87882239b707231609d
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	42a2d36eb7b7a548254b257d1ce51069
-M	editors/ckeditor/plugin.js	da3427819bd79f02aeed4712e90ff8ae
-M	editors/ckeditor/video_filter_dialog.js	f05eb540a2859d7d3efa548c261d6fd7
-M	editors/fckeditor/video_filter/fckplugin.js	54a3228506df452c9ba40c1ac233a786
-M	editors/fckeditor/video_filter/video_filter_dialog.js	d7514bfbee23e3fb5e1306c1de2f7e5d
-M	editors/tinymce/editor_plugin.js	587db9e5d753ac0d54c159b02c901054
-M	editors/tinymce/video_filter.js	73d0fffbd2da772947cffc32431fe4c9
-D	video_filter.api.php	
-M	video_filter.codecs.inc	c042dbafea6b696902aeb7f4978e53c2
+A	editors/ckeditor/README.txt	7733b59e2de36759a20edab65769a7d8
+A	editors/ckeditor/plugin.js	da3427819bd79f02aeed4712e90ff8ae
+A	editors/ckeditor/video_filter.png	dca3c67b69c25935b02cc0b83a9fe56a
+A	editors/ckeditor/video_filter_dialog.js	f05eb540a2859d7d3efa548c261d6fd7
+A	editors/fckeditor/README.txt	8de5232b0f7a12e232d9b2efdb4715d8
+A	editors/fckeditor/video_filter/fckplugin.js	54a3228506df452c9ba40c1ac233a786
+A	editors/fckeditor/video_filter/video_filter.png	dca3c67b69c25935b02cc0b83a9fe56a
+A	editors/fckeditor/video_filter/video_filter_dialog.js	d7514bfbee23e3fb5e1306c1de2f7e5d
+A	editors/tinymce/editor_plugin.js	587db9e5d753ac0d54c159b02c901054
+A	editors/tinymce/images/video_filter.png	dca3c67b69c25935b02cc0b83a9fe56a
+A	editors/tinymce/video_filter.js	73d0fffbd2da772947cffc32431fe4c9
 M	video_filter.css	2ca437117c7c46042128bcccac18c710
 M	video_filter.info	d6d49409d268884d01430f033ef112fe
-M	video_filter.install	620097316d25bf82703bf4073199f2e0
 M	video_filter.module	85b4350ab58846a849b2aa6aac5fa86a
-M	video_filter_dashboard.tpl.php	c549d36ea1a1b449693f20bee2f38104
+A	video_filter_dashboard.tpl.php	c549d36ea1a1b449693f20bee2f38104
+D	wysiwyg/tinymce/editor_plugin.js	
+D	wysiwyg/tinymce/editor_plugin_src.js	
+D	wysiwyg/tinymce/images/movie_track.png	
+D	wysiwyg/tinymce/jscripts/video_filter.js	
+D	wysiwyg/tinymce/langs/en_dlg.js	

@@ -1,8 +1,10 @@
 M	colorbox.admin.inc	11c5614ad9211eade98042c88e93b918
 M	colorbox.info	46d6bcda9316520e08dff8c168815a15
 M	colorbox.install	55f9a771f8b09847dbd9676871ff52fb
+A	colorbox.make	4ba8c142938ba14a28e439eed5eb8be0
 M	colorbox.module	34a8b2f17b20351f5bf35b26167e46a3
 M	drush/colorbox.drush.inc	8fb878392a0b1d77da6a632996892734
+D	drush/colorbox.make	
 M	js/colorbox.js	895d96ebb1baf6ba9d49de7483ca3155
 M	js/colorbox_inline.js	c9f3e07a3fe313c9ed73813905a1984f
 M	js/colorbox_load.js	d9dba6bf8a017b30dc2fcf2405de1556

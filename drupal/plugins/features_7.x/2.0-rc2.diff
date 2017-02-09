@@ -11,5 +11,19 @@ M	includes/features.menu.inc	1e5201652db604b11463cfbeb16bc451
 M	includes/features.user.inc	4c26300f9ce86aef109bfec0e8cfbc56
 M	tests/features.test	89e050f4ba45fff5ff52b1f7577401ab
 D	tests/features_test.features.field.inc	
+D	tests/features_test.features.filter.inc	
+D	tests/features_test.features.inc	
+D	tests/features_test.features.taxonomy.inc	
+D	tests/features_test.features.user_permission.inc	
+D	tests/features_test.info	
+D	tests/features_test.module	
+D	tests/features_test.views_default.inc	
 A	tests/features_test/features_test.features.field_base.inc	e9b40603bf5895fe36184553169bed96
 A	tests/features_test/features_test.features.field_instance.inc	6b4ddb65a35b42e63d543205bc23133e
+A	tests/features_test/features_test.features.filter.inc	b5579644c01c55618212c9801c300da5
+A	tests/features_test/features_test.features.inc	fd9cccc73be3507d55a66d772419768d
+A	tests/features_test/features_test.features.taxonomy.inc	03983911494420657df921c83b203240
+A	tests/features_test/features_test.features.user_permission.inc	e8e643edb38627e215da0db2864e4e6c
+A	tests/features_test/features_test.info	c4f292df78042363230677c62ee63c70
+A	tests/features_test/features_test.module	a96e0a3f415f7d653c6608c74806bc0c
+A	tests/features_test/features_test.views_default.inc	c3970601206b9dd8da220cab4276da3b

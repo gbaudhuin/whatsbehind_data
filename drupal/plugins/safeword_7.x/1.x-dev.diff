@@ -1,13 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	d5524e353f3b1c24e843e2a32ddb6f15
-A	plugins/arguments/entity_by_safeword.inc	d83533e291c48835abb4b1900c7203ff
-A	safeword.css	14805c5101e637fd48e8b8c9d92569bc
-A	safeword.info	a89b1984c8a2c8ac62c279580b8b2065
-A	safeword.install	62adbc9c048c66187530b8801cb38063
-A	safeword.js	7990780136d16adff4d8452b9727f740
-A	safeword.migrate.inc	94a3f01f9545dfc0c14a47786cd1325c
-A	safeword.module	678800ec7014099fa5c8f4bd3ebf68a3
-A	safeword.tokens.inc	a3ecc90d77d73cc94a9800144f9f438a
-A	safeword_context/safeword_context.info	ea6be9e0928d875742cf0e3c80a87c84
-A	safeword_context/safeword_context.module	ae5557b6ce0a8e33af1807635b05e0c0
-A	safeword_context/safeword_context_condition.inc	619275c99b2aad995af5acce7e12350f
+M	safeword.info	a89b1984c8a2c8ac62c279580b8b2065
+M	safeword_context/safeword_context.info	ea6be9e0928d875742cf0e3c80a87c84

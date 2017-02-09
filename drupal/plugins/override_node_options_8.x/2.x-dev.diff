@@ -1,10 +1,6 @@
-D	INSTALL.txt	
-A	composer.json	a00c278e0a23b05d33ca67bc8223825d
 M	override_node_options.info.yml	fa62c33c0ff571ef07690232a1c07049
-D	override_node_options.install	
 M	override_node_options.module	f7a07f91ac675506ba4e1b4e6016d1df
-A	override_node_options.permissions.yml	385b0d5ef0d18110eb0a249adf71ac1d
-D	override_node_options.test	
-A	src/Form/OverrideNodeOptionsNodeForm.php	f6ac53f06013d819271a1d38257a99c4
-A	src/Permission/OverrideNodeOptionsPermissions.php	835e92a6db315c24d9cc177646f89ae4
+M	src/Form/OverrideNodeOptionsNodeForm.php	f6ac53f06013d819271a1d38257a99c4
+M	src/Permission/OverrideNodeOptionsPermissions.php	835e92a6db315c24d9cc177646f89ae4
+D	src/Tests/OverrideNodeOptionsTest.php	
 A	tests/src/Functional/OverrideNodeOptionsTest.php	847d0215ffaa7cd9ebd8790a908263a6

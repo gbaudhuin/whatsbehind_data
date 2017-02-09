@@ -1,9 +1,9 @@
-M	CHANGELOG.TXT	6deecbdaa9ae41711205ca261a2cb352
-M	INSTALL.txt	e6dc168ebbf92b5fdc3bb937ed413ead
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	taxonews-block-view.tpl.php	b6ca24165278b7a68205ad21b17ef36e
-M	taxonews.info	9952029cc50c0615fabdc04d07d7598a
-M	taxonews.install	ae0cd27b54a40afb7bb3176f400dc11d
-M	taxonews.module	9a697378f312c189858aaa6535417558
-M	taxonews.test	f3ec9df9283736ecadbeea683f5c25c3
+A	CHANGELOG.TXT	6deecbdaa9ae41711205ca261a2cb352
+A	INSTALL.txt	e6dc168ebbf92b5fdc3bb937ed413ead
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	taxonews-block-view.tpl.php	b6ca24165278b7a68205ad21b17ef36e
+A	taxonews.info	9952029cc50c0615fabdc04d07d7598a
+A	taxonews.install	ae0cd27b54a40afb7bb3176f400dc11d
+A	taxonews.module	9a697378f312c189858aaa6535417558
+A	taxonews.test	f3ec9df9283736ecadbeea683f5c25c3
 A	translations/fr.po	a2149a3df48882231569ba8eba6e69f8

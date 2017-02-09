@@ -1,5 +1,5 @@
 M	config/schema/m4032404.schema.yml	e126fddcc4baac4a8c1c38616bd86b9f
 M	m4032404.info.yml	db14ea186167dc8f5eaaeca01f49b4fe
 M	m4032404.services.yml	9f94d4ed8c227560250fd935b3e7a2d6
-M	src/EventSubscriber/M4032404EventSubscriber.php	7ac38d607d9d268c94191565a83d4acd
+M	src/EventSubscriber/m4032404EventSubscriber.php	7ac38d607d9d268c94191565a83d4acd
 A	tests/src/Unit/EventSubscriber/M4032404EventSubscriberTest.php	d83cf71ddd958078d664b5c36d62b854

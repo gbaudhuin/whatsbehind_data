@@ -1,14 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	16ac82c7dfe6acbb2df5d4a8a19b6c24
-A	ga4php.php	2836eb74a6248b5c76f498ee29c50db2
-A	ga_login.admin.inc	ce33375efdcd9bd16ca19386a2087502
-A	ga_login.class.php	c78c7c808a70670efd8c9456d57a01fd
-A	ga_login.info	4c8ee857027a143849110e7c6442c469
-A	ga_login.install	af2f05996e19eaef51f3eb8763720ab0
-A	ga_login.module	5493ebaa0b7b029e7302c638b4698cb2
-A	ga_login.pages.inc	df00bf3c04d0b3b4eaba00f87a76b5a4
-A	ga_login.test	0b361452a11b8154f03175896156dbc6
-A	ga_login.theme.inc	77e6b8c732bf63dd661150e7e78fa5c9
-A	tests/ga_login_test/ga_login_test.info	ad46d3edac22a20982cb5d562b0a5587
-A	tests/ga_login_test/ga_login_test.install	ebda8871d2c184557e06f11ff5450d0c
-A	tests/ga_login_test/ga_login_test.module	fd14cda068c42f5cc149dc9f2798864d
+M	ga_login.info	4c8ee857027a143849110e7c6442c469
+M	tests/ga_login_test/ga_login_test.info	ad46d3edac22a20982cb5d562b0a5587

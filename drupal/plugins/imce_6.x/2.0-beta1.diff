@@ -1,44 +1,43 @@
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 M	README.txt	908f4b74f69c2df1c23d44896dc164dc
-M	css/close.png	9f9d5859d66fde5ec425455eb942ef82
-M	css/collapsed.png	66811d8a2334bd55d337bb51dc4b7ddc
-M	css/delete.png	c6b48d0c77d9232acb9057a3a246cfcf
-M	css/error.png	3de00c939bfec2304507ee6dd19b3c17
-M	css/expanded.png	ad731edc4e0e5c986da90c00ed108e0e
+A	css/close.png	9f9d5859d66fde5ec425455eb942ef82
+A	css/delete.png	c6b48d0c77d9232acb9057a3a246cfcf
+A	css/error.png	3de00c939bfec2304507ee6dd19b3c17
 M	css/folder-open.png	8c32dbd2bf2dd4da2bb722a505cc1bb3
-M	css/folder-root.png	06958b31a13e40bac52ae1d1a2eb50fb
-M	css/folder.png	db855c388f3e6f02f3658ccb2af986be
-M	css/header.png	be71d537b7469ce62a36c24309db4a98
-M	css/help.png	d0c514ebb0f5ee6db52e2fd461842f77
+A	css/folder-root.png	06958b31a13e40bac52ae1d1a2eb50fb
+A	css/header.png	be71d537b7469ce62a36c24309db4a98
+A	css/help.png	d0c514ebb0f5ee6db52e2fd461842f77
 M	css/imce-content.css	78c63bf95d89be5aa0187c70260d2c24
-M	css/leaf.png	9ba18a8a4b9e2232852a17d2032db24a
-M	css/loading.gif	1d9e32d79bff820f10ab6fb7dc417320
-M	css/op.png	d382aedacec034207623e3d24c4ecb43
-M	css/ops.png	0abce7dca18fd2453d1e004fff0921ad
-M	css/resize.png	cc696d7511cb9e43f6aeed7072aef956
-D	css/sendto.png	
-M	css/status.png	b42ed7f291371786a29776dbb6179dcc
-M	css/submit.png	afa07cb78f13f5d64e28beabb21ee62e
-M	css/thumb.png	381a0de94d86dfca248d31ce6b5dd6f8
-M	css/tree.png	4c75646c4ef67914a798058fea02566a
-M	css/upload.png	c138fb4de36aa78e6c1c2c89bd84cc6f
-D	css/view-box.png	
-D	css/view-list.png	
-M	css/warning.png	88e6534c3f165e5ef92e22b28fa04dfc
-M	css/x-resizer.png	8876a9c6d296f99a6b9d8d09b4e7b2f8
-M	css/y-resizer.png	3e879c78af34983c0efb3aec40fafb8f
+A	css/op.png	d382aedacec034207623e3d24c4ecb43
+A	css/ops.png	0abce7dca18fd2453d1e004fff0921ad
+A	css/resize.png	cc696d7511cb9e43f6aeed7072aef956
+A	css/status.png	b42ed7f291371786a29776dbb6179dcc
+A	css/submit.png	afa07cb78f13f5d64e28beabb21ee62e
+A	css/thumb.png	381a0de94d86dfca248d31ce6b5dd6f8
+A	css/tree.png	4c75646c4ef67914a798058fea02566a
+A	css/upload.png	c138fb4de36aa78e6c1c2c89bd84cc6f
+A	css/warning.png	88e6534c3f165e5ef92e22b28fa04dfc
+D	css/x-grippie.png	
+A	css/x-resizer.png	8876a9c6d296f99a6b9d8d09b4e7b2f8
+D	css/y-grippie.png	
+A	css/y-resizer.png	3e879c78af34983c0efb3aec40fafb8f
 M	imce.info	67fa6713c61b5643d7ad910e1823989c
 M	imce.install	b852abfb0e0dfc7c3e360a99715fbea6
 M	imce.module	ca113c981536a4dc89de43dfb0376423
-M	inc/imce.admin.inc	1b8a470e220fa56320b06cca4d4dc5a8
-M	inc/imce.core.profiles.inc	afd6fca9d637f882499c296f88fb1f06
-M	inc/imce.js.inc	6188065e76e81e259cca3649521d14e5
-M	inc/imce.page.inc	7bdc201b863eef43fd0bd64ea992007e
+D	inc/admin.inc	
+D	inc/core_profiles.inc	
+A	inc/imce.admin.inc	1b8a470e220fa56320b06cca4d4dc5a8
+A	inc/imce.core.profiles.inc	afd6fca9d637f882499c296f88fb1f06
+A	inc/imce.js.inc	6188065e76e81e259cca3649521d14e5
+A	inc/imce.page.inc	7bdc201b863eef43fd0bd64ea992007e
+D	inc/js.inc	
+D	inc/page.inc	
+D	inc/subdir.inc	
 M	js/imce.js	dec360be145af478e6b51f8fd08f58db
 M	js/imce_extras.js	d47671a6930a77c9f609bf21113aaf43
 M	js/imce_set_app.js	608afef13989500d27a0621906869105
 M	js/imce_set_inline.js	641574d85a695d2da100d60c1b9cda94
-M	js/jquery.form.js	245b40082fda2a22df5a308629c21bac
+A	js/jquery.form.js	245b40082fda2a22df5a308629c21bac
 M	tpl/imce-content.tpl.php	4248949303a692da386448a94f6b0dd9
 M	tpl/imce-file-list.tpl.php	3fde09c9788f6cae0ce5030bd46cd7b0
 M	tpl/imce-page.tpl.php	67165ed13e3b7f8267097816720a8414

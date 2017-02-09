@@ -21,6 +21,7 @@ A	help/syntax.html	f3bc553881d020f59e67e44118753de4
 A	help/templates.html	963ef1a2fb8be026c80d0ccf24ad7b91
 A	help/theme.html	c903e2ae8337ad40db53f456438ddfdc
 A	images/gear-select.png	f1be5ee8080e2c1e9cce056f46bdc919
+D	includes/handlers.inc	
 A	js/skinr.js	eb806db2e136760cecfb255ae02f8bb3
 M	modules/block.skinr.inc	7b09b0af9d2d8fb2080de840f59216fc
 M	modules/comment.skinr.inc	af2745b337418eb2eebb0d7dd3bb7c5f
@@ -32,6 +33,7 @@ M	modules/panels/skinr.inc	0acf2da0ec91269ef4e73208942bbafb
 A	modules/skinr.skinr.inc	4076917fd93b3a3bec5bba3531768b40
 M	modules/views.skinr.inc	27c65f9f90bf802e0ba29a5ed6978a7c
 D	skinr.admin.inc	
+A	skinr.handlers.inc	4371efe37d6848ec675e3226b31dfd42
 M	skinr.info	b45a92d23ab6baffb23f3cc6045915e1
 M	skinr.install	d83a799c29928d3f0f1ea645e3906bd3
 M	skinr.module	e4afd5fc5f226aa3b45b1b2f9833f6c6

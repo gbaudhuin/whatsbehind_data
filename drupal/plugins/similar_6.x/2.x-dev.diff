@@ -1,11 +1,1 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-M	README.txt	ead07980790e9393eccc7f0fb63ac1dd
 M	similar.info	92fb08934928ef707ebb448453898f36
-M	similar.install	6c33a90f4e4c14420b2cdc7bddbfc4c8
-M	similar.module	f47dde06c44c2b0f14ac4b97ecda3644
-A	views/similar.views.inc	f8d4ca833ed37a0d0ba80ad234e5c77d
-A	views/similar.views_default.inc	4843035a0cb9e23102a70ffe0bf14f8c
-A	views/similar_handler_argument_nid.inc	445f6da110ccfadea9665d1d9ed06a32
-A	views/similar_handler_field_similarity.inc	faebb2c611614a3484e4fd6ef0f9fc27
-A	views/similar_handler_filter_similarity.inc	28e5a4d6eee12837602a849f1997f22c
-A	views/similar_handler_sort_similarity.inc	00b8e1b7e8b2d85c9a32cd97c68447ae

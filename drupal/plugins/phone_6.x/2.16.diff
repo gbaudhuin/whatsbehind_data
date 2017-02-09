@@ -15,6 +15,7 @@ M	phone.il.inc	3bf498b7027d4d74ac9f6a56bd86cc5f
 M	phone.info	a56ee20ef3558fbaf6e9436116142e24
 M	phone.install	5a3891d0f51f9eed3faaef755b994e45
 M	phone.int.inc	9c3afe9046230cfaa23a8561c02dd3ea
+D	phone.int.test	
 M	phone.it.inc	0a40ba837b5b97a5df4a7ea455f863c6
 M	phone.jo.inc	b44d4f9c635775de1bef7b356e118eb4
 M	phone.module	76b41ccd3130503deb8024feee29f199
@@ -40,3 +41,4 @@ M	tests/phone-it.test	96ebceae8e6d2b4ccafd98803642433b
 M	tests/phone-pa.test	6477bc2b696297fbd9f64c17d7206304
 M	tests/phone-uk.test	540f7756a214d74046af488e1a2f825c
 A	tests/phone-za.test	8524af67ad6b864d94d8bf5f11b1b5d9
+A	tests/phone.int.test	c223b14936f2e031e3ee4b94550e5c2f

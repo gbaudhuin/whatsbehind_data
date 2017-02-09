@@ -1,0 +1,6 @@
+M	acquia_lift.info.yml	5cda54d87a2ad42362ee5eef35176f5e
+M	acquia_lift.install	b50e42b73b728b8ec9afdef1f64fe227
+M	js/acquia_lift.js	377da5a8d9d5976a7b56d3cf435d7e46
+M	src/Tests/FixturesDataTrait.php	82d374e5a849e9bd02daf507eee9d493
+M	src/Tests/SettingsTest.php	197c3afb46bc960aa9f03a1262910e1d
+M	tests/src/Unit/Polyfill/Drupal.php	c255b600d6d45ad9d719d17b1f8c6652

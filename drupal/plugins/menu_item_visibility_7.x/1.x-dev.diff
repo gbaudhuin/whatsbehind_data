@@ -1,5 +1,4 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	menu_item_visibility.info	9a321240927cda1b32f1858b86f7b915
-A	menu_item_visibility.install	f21c350cabb7f552459757404221af68
-A	menu_item_visibility.js	9ce8a01ecf39d1e6d08ac716906421e2
-A	menu_item_visibility.module	5ad1313cdd16494a3b642917f20727a5
+M	menu_item_visibility.info	39c0332d9c8cb323e7114d3531ef6508
+M	menu_item_visibility.install	1093f3b4ab256ce5848e772812eeacc8
+M	menu_item_visibility.js	7c1af1566d4013f503e2b61ae5d84e4c
+M	menu_item_visibility.module	d7979155bfc23a9fe4d618d3ea1419f5

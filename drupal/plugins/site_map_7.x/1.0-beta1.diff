@@ -1,13 +1,14 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	749ee6a6ea25c5f96f723f8dcf8893f3
-M	site-map.tpl.php	3669bd4ae9daec8c4797c46fb92b8c32
-M	site_map.admin.inc	af75a8a46e66729afcf38d8fc3f7e631
-D	site_map.admin.js	
-M	site_map.info	89e716dc43412a5fe9a394245125bd2a
-M	site_map.install	4827ad6444eaf7b2efbf36c35f006b26
-M	site_map.module	13d770959b1951b3770c0f5d7c9c1dea
-D	site_map.test	
-M	site_map.theme.inc	05a4cb047b4595f3406013f13bd57ec7
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	749ee6a6ea25c5f96f723f8dcf8893f3
+A	feed-small-comment.png	e756dee98fa05dbf578d00948a86b599
+A	feed-small.png	fed8f1a88d45d253d26d0f31dada6f74
+A	site-map.tpl.php	3669bd4ae9daec8c4797c46fb92b8c32
+A	site_map.admin.inc	af75a8a46e66729afcf38d8fc3f7e631
+A	site_map.css	01230d2df30eb9ed46fbfb1c1e4edc7a
+A	site_map.info	89e716dc43412a5fe9a394245125bd2a
+A	site_map.install	4827ad6444eaf7b2efbf36c35f006b26
+A	site_map.module	13d770959b1951b3770c0f5d7c9c1dea
+A	site_map.theme.inc	05a4cb047b4595f3406013f13bd57ec7
 A	translations/ca.po	f92ea291523a7337466a893a8f6817ea
 A	translations/de.po	8f75cebcb89754fc4d0e7f26924c032c
 A	translations/es.po	2035701c0cf414df51b889a1e12ed059

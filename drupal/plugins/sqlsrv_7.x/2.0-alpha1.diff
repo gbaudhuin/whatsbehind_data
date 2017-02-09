@@ -1,18 +1,7 @@
-M	README.txt	a7f6f538e2fee72d27837be6f6585e1a
 M	sqlsrv.info	205a41bc328f7983002c0175a9f257cb
 D	sqlsrv.install	
-D	sqlsrv/context.inc	
 M	sqlsrv/database.inc	a394d50d61154bc1a2d3e6ebc19776e6
-D	sqlsrv/enum.inc	
-D	sqlsrv/fastcache.inc	
-D	sqlsrv/fastcacheitem.inc	
 M	sqlsrv/install.inc	fe7756c40c705fc00f374fa2d0e38079
-D	sqlsrv/lock.inc	
-M	sqlsrv/query.inc	0687e8bfcee0a543a4f347642d1541f0
-D	sqlsrv/reflexiondata.inc	
 M	sqlsrv/schema.inc	6bc3b77f30aac470e29981e087d22f49
-M	sqlsrv/select.inc	4bb5a482c262ab109b81785d39df3e35
-D	sqlsrv/transaction.inc	
-D	sqlsrv/utils.inc	
 M	tests/sqlsrv.schema.test	c33461c37cc483687ea7cf3aa2e97fdc
 M	tests/sqlsrv.select.test	a4d996f5965e7b4a44c8e93a6df37520

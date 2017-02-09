@@ -1,5 +1,4 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+D	README	
 A	README.txt	b769755c75f0ffec90b0d4854b3cf423
-A	config/schema/field_formatter_class.schema.yml	e6351a2502ba36712315e1dd70a67a36
-A	field_formatter_class.info.yml	169c8de39ff11b153dcce4d87afc2142
-A	field_formatter_class.module	9780b4f36f3338ec035bbae60d41e7d1
+M	field_formatter_class.info.yml	169c8de39ff11b153dcce4d87afc2142
+M	field_formatter_class.module	9780b4f36f3338ec035bbae60d41e7d1

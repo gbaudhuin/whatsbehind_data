@@ -1,0 +1,11 @@
+M	permissions_by_term.info.yml	3651b04539a5720222269b6cac034e52
+M	permissions_by_term.module	813b9140a6c100d7df72ef05ec03802d
+M	permissions_by_term.services.yml	22062484ebf7bd3f52823999e81a0a90
+M	src/AccessCheck.php	c19ece6ba55a2812437b7c3ac3ee3311
+M	src/AccessCheckInterface.php	d185ffdb33340a8d6771283ffd7c24d4
+M	src/AccessStorage.php	7f2690d6171c16294df42492e5808ac2
+M	src/Controller/PermissionsByTermController.php	ea663569b092e0f5aa047b935e3744fe
+A	src/Factory/NodeAccessRecordFactory.php	48ca0df6185468dd47a9c86702d85acd
+A	src/Model/NodeAccessRecordModel.php	c5ec23810f22fa89892a35f8f363c64a
+A	src/NodeAccess.php	81bb777b4c5b7ce31d35ae1263fb6cdd
+A	tests/src/Unit/NodeAccessTest.php	b70dec26582c529fd98dd67883862256

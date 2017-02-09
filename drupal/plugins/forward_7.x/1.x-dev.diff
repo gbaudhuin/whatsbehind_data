@@ -1,12 +1,4 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	f8bb8ecf64cc48fe56613899890cfaae
-A	forward.css	e1684a15181dee8e906c0da570334fd6
-A	forward.gif	77fc6c1033b660698f6f6d4e6252e46f
-A	forward.info	152b12360b35a48305bd9efc477012f6
-A	forward.install	3dc6c08e8bded83c726934bdc28528df
-A	forward.module	480a19eaf60745431fcf23a1696603f1
+M	forward.info	152b12360b35a48305bd9efc477012f6
+M	forward.install	3dc6c08e8bded83c726934bdc28528df
+M	forward.module	480a19eaf60745431fcf23a1696603f1
 A	forward.rules.inc	cee9a7c3da98544595f5ecc00fdcd7a8
-A	forward.theme	bf5cefb8804d14dab12fa6de4381ed81
-A	forward.tpl.php	81690d9e92a46ac78911313dff08c94c
-A	forward.views.inc	dd00800e7d767ee5672a71531b047ba2
-A	forward.views_default.inc	df72246acd21fcbf773022bfa33105ec

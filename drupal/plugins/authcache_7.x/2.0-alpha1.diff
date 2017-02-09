@@ -2,7 +2,9 @@ M	README.txt	c523052259b8f708767723441fa86e83
 D	ajax/authcache.php	
 D	ajax/authcache_custom.default.php	
 M	authcache.admin.inc	6dd36ad7a75a5fbbc34dad139bdb6d21
+D	authcache.admin.js	
 A	authcache.api.php	73d09136c7884ad5196d93154af7f2c0
+D	authcache.css	
 D	authcache.debug.js	
 D	authcache.helpers.inc	
 M	authcache.inc	65acc68a5834b9a9d2a98d8846c71264
@@ -20,6 +22,7 @@ A	modules/authcache_ajax/authcache_ajax.js	5c92441dc89d97da2891d2d0a5c5e2ff
 A	modules/authcache_ajax/authcache_ajax.module	53ddd9e92572ff2328dcd4d234e1dfd1
 A	modules/authcache_block/authcache_block.admin.css	0b0eaa440f9f18ac14df8daa1f2c1e6d
 A	modules/authcache_block/authcache_block.admin.inc	d350a44f46f560742a9c1e677dfdb2b5
+A	modules/authcache_block/authcache_block.admin.js	9639920b5642df6ed556d104c1f85514
 A	modules/authcache_block/authcache_block.info	a6f7329c52c92c683ab4245b10e37824
 A	modules/authcache_block/authcache_block.install	f892ecbda19ccdf4c41a050b9e700834
 A	modules/authcache_block/authcache_block.module	7c82ee6be07fd75d17e400d8f4551f63
@@ -47,6 +50,7 @@ A	modules/authcache_contact/authcache_contact.module	58f96fba2e2fe7f23d6d88b602d
 A	modules/authcache_contact/includes/AuthcacheContactSetting.inc	8d40831e265863d16e7b2a1b73333770
 A	modules/authcache_debug/authcache_debug.admin.inc	7fc2cdf4743184544d9bfe191f18d419
 A	modules/authcache_debug/authcache_debug.api.php	7f1b5a790f79318ebcfb429dbb50687e
+A	modules/authcache_debug/authcache_debug.css	7aea36b7fefff23250717cbe275f3b87
 A	modules/authcache_debug/authcache_debug.info	ede67e8fb5b679408fa3ff55ed21c8ca
 A	modules/authcache_debug/authcache_debug.install	9ecb5e3d6db16b6ccd00568e02c78c0f
 A	modules/authcache_debug/authcache_debug.js	3479afbed0a2fd1eb13aba096244e571

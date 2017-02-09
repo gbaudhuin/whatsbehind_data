@@ -1,13 +1,14 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	4552be096e0b08ca5d4f0ac4fbc66b8d
-D	images/throbber.gif	
-M	js/child.js	d21bf291c6dd696a6098b18ebd199966
-M	js/parent.js	7ebc11bf6a5d6f4df6302801d0f0e4ad
-M	modalframe-page.tpl.php	b171c6275c48c4c895e3e18f2d156786
-M	modalframe.info	29f621c9134153c133e2ce63520b48c1
-D	modalframe.install	
-M	modalframe.module	896a08f428c87a56ae58a28f2977eaaf
-M	modules/modalframe_example/modalframe_example.info	3889ab370977a20d5736a89e0598b29e
-M	modules/modalframe_example/modalframe_example.js	3520b944eaa4df0a4b883abe180fa2ba
-M	modules/modalframe_example/modalframe_example.module	ec0d01a13a054f50e8ae428d564c78cd
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	4552be096e0b08ca5d4f0ac4fbc66b8d
+A	css/child.css	fa0f3499b2de90ad690412a39bb16c59
+A	css/parent.css	91596403e45bbd6e5eb6bc02f47583fe
+A	images/close.gif	ff84ae1b5315a7035f809997f36fbe62
+A	images/loading.gif	66d0ea38b1089e398740b1f264a713c9
+A	js/child.js	d21bf291c6dd696a6098b18ebd199966
+A	js/parent.js	7ebc11bf6a5d6f4df6302801d0f0e4ad
+A	modalframe-page.tpl.php	b171c6275c48c4c895e3e18f2d156786
+A	modalframe.info	29f621c9134153c133e2ce63520b48c1
+A	modalframe.module	896a08f428c87a56ae58a28f2977eaaf
+A	modules/modalframe_example/modalframe_example.info	3889ab370977a20d5736a89e0598b29e
+A	modules/modalframe_example/modalframe_example.js	3520b944eaa4df0a4b883abe180fa2ba
+A	modules/modalframe_example/modalframe_example.module	ec0d01a13a054f50e8ae428d564c78cd

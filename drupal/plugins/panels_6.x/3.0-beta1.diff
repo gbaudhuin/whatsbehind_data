@@ -22,6 +22,7 @@ M	panels_mini/panels_mini.admin.inc	ee004cb1cfc9a98f075244c95ca33699
 M	panels_mini/panels_mini.info	a141521a89903711bb6406312260908d
 M	panels_mini/panels_mini.install	e5e848625fca3e0449e4503b8d1c01ab
 M	panels_mini/panels_mini.module	14055cf32274698044e717c54a0ffda4
+A	panels_mini/plugins/content_types/icon_panels_mini.png	57a0e35d3a2a51621782eb52fd6e4d85
 M	panels_mini/plugins/content_types/panels_mini.inc	163e7781b2ae6b8b71f675f1b249ec9b
 M	panels_node/panels_node.info	7241c8f1bc78c916cd99eb40049c2cbc
 M	panels_node/panels_node.module	c898ae62a5000b5613e9cbe064868d1f
@@ -31,6 +32,7 @@ D	panels_node_content/plugins/content_types/node.inc
 D	panels_page/panels_page.info	
 D	panels_page/panels_page.module	
 D	panels_simple_cache/panels_simple_cache.info	
+D	panels_simple_cache/panels_simple_cache.module	
 D	panels_views/icon_views_block_legacy.png	
 D	panels_views/icon_views_page.png	
 D	panels_views/icon_views_page_legacy.png	
@@ -39,8 +41,10 @@ D	panels_views/panels_views.admin.inc
 D	panels_views/panels_views.info	
 D	panels_views/panels_views.module	
 D	panels_views/panels_views.views.inc	
+A	plugins/cache/simple.inc	4b847b4f9c41145795d03a45d2bb2d5e
 D	plugins/content_types/block.inc	
 D	plugins/content_types/block/icon_contrib_block.png	
+D	plugins/content_types/block/icon_contrib_block_empty.png	
 D	plugins/content_types/block/icon_contrib_menu.png	
 D	plugins/content_types/block/icon_contrib_page.png	
 D	plugins/content_types/block/icon_core_activeforumtopics.png	

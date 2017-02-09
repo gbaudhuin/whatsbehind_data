@@ -2,45 +2,36 @@ D	CHANGELOG.txt
 A	README	06ef113fe1f93c07f3f0fc57b9e551ac
 D	README.txt	
 A	block.tpl.php	07562eff4fcc3dcaed7263a00becb15f
+A	comment.tpl.php	cea9050e3cd6274b2cc40c3302998705
 M	css/aqua.css	173cba92180c19b840e0fb02e181b5b4
 M	css/black.css	9a8426045a4ae6ad7e5e863f152d40d2
 M	css/blue.css	5ef21da0efd52ac862d44dfca2339b4e
 M	css/copper.css	3d2cdb8e8a9d48f2f546151e301651e1
 M	css/green.css	bbbd724db234c5737ecb298833512352
-D	css/ie-rtl.css	
 M	css/ie.css	55fb8e42f2da11eebaeb18b98ddfceb6
-D	css/nosuckerfish-rtl.css	
 M	css/nosuckerfish.css	f87c9285aad2eee3892ff890cc7ed65d
-D	css/print.css	
 M	css/red.css	eaaa95cf1e64c796d01706850518c49c
-D	css/style-rtl.css	
-D	css/style.css	
-D	css/suckerfish_aqua-rtl.css	
 M	css/suckerfish_aqua.css	14eecc22c085d21926176555f4c4b530
-D	css/suckerfish_black-rtl.css	
 M	css/suckerfish_black.css	7d64cf7b5d0dcef3ff1e0279520a68fa
-D	css/suckerfish_blue-rtl.css	
 M	css/suckerfish_blue.css	6b4d47d1f2470afb330aec7d8c179092
-D	css/suckerfish_copper-rtl.css	
 M	css/suckerfish_copper.css	42824146cd27bb7e7920662a8f50ab14
-D	css/suckerfish_green-rtl.css	
 M	css/suckerfish_green.css	cc239057083fdce4d13f83101a0ec977
-D	css/suckerfish_red-rtl.css	
 M	css/suckerfish_red.css	ed9368248f462b0ad78d16cdf81493d4
-D	css/suckerfish_violet-rtl.css	
 M	css/suckerfish_violet.css	26439923cfb667e00d81ba96f753e3f3
 M	css/violet.css	9b4dc9cd72e94c3fdfced43ed2bdc1ef
 A	html.tpl.php	defd057f614d175ccc7c8f8aca8d921d
-M	images/menu_arrow.png	7f29d335d2852e2de82aea605474788b
-D	images/menu_arrowl.png	
 A	js/jquery.pngFix.js	f68af1aa18e4ce45313428e073244548
 M	js/pickstyle.js	add7dc98f3b9a656f24f452db4bca6c5
 M	js/suckerfish.js	d74b2289b86936d169d6f0cb88dbf0ef
 M	newsflash.info	381ec9d169b125a6f669944adbd19c51
+A	node--forum.tpl.php	835a08665e2109b24de345da76929ede
 A	node.tpl.php	ce54f6c590ab23aebda3beff91f3e236
 A	page.tpl.php	cf9fd46d526fd664efd4d414c9e470c0
-A	style.css	055ada0d69f8fd7dab940853588a104b
+D	print.css	
+M	style.css	055ada0d69f8fd7dab940853588a104b
 M	template.php	f26756442f17ffef107702bc2e31cb57
+D	templates/comment.tpl.php	
+D	templates/node--forum.tpl.php	
 D	templates/node.tpl.php	
 D	templates/page.tpl.php	
 M	theme-settings.php	39f6dac6a752d4a789f1ae53ea82a7a9
@@ -51,4 +42,3 @@ D	themedscreens/copper-style.png
 D	themedscreens/green-style.png	
 D	themedscreens/red-style.png	
 D	themedscreens/violet-style.png	
-A	translations/de.po	91859c28c4a12854563fca413ffb322c

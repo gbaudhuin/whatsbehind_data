@@ -1,0 +1,50 @@
+A	css/webform.assets.css	dc0a1428994d4beaa64ab0fd91868500
+D	css/webform.element.list.css	
+A	css/webform.element.multiple.css	f6e1bcd8ce801c8fad0b9e725da85ea0
+D	css/webform.element.options.css	
+M	css/webform.element.states.css	f446c11be3bd90dbc2f23341fa017f0e
+M	images/icons/ex.svg	cf1c932be0fc724681ab9464cd2a9603
+M	images/icons/plus.svg	d848d67e4d2485fd6d525105312d3929
+M	includes/webform.translation.inc	22db0d89702a4e77c7f4513494208283
+A	js/webform.assets.js	ab0a31feb2759b79d8b5ab552fd64316
+A	js/webform.dialog.js	ed567a1737c5252ef634729cd2bcefd1
+M	js/webform.element.buttons.js	646779a5d162bbca39ef5ee33c5ce20e
+M	js/webform.element.location.js	49d94bf8940fc7f436495991458f1810
+M	js/webform.element.other.js	2641acfd63e1ff8ae6ba432493b8cde3
+M	modules/webform_devel/webform_devel.info.yml	bf7658342070260830db0f2dd0e4b82a
+M	modules/webform_examples/webform_examples.info.yml	0b42cffe509d3357c755fa859ee208f5
+M	modules/webform_node/webform_node.info.yml	18773fd8a259c4aa3922eb2264633051
+M	modules/webform_templates/src/Controller/WebformTemplatesController.php	4f63c388ad83b674d1e71a6c154c9219
+M	modules/webform_templates/src/WebformTemplatesSubmissionPreviewForm.php	a4749a56a40dbbbd574d4834d6c5b4fb
+M	modules/webform_templates/webform_templates.info.yml	d098dc585aa20e4716cccd590f617a0c
+M	modules/webform_ui/src/Form/WebformUiElementEditForm.php	12d037c4d752c060bdf2ecf751aa120c
+M	modules/webform_ui/webform_ui.info.yml	13865222d386ef4ab274d093249c595a
+M	src/Element/WebformCompositeBase.php	fc4b6360107f0f10762ed54ffd108490
+M	src/Element/WebformElementOptions.php	c0582459e0b427c1fd4797bd8ec50ec6
+M	src/Element/WebformElementStates.php	6d952c7c00579969dfdd566de46e6c16
+M	src/Element/WebformEmailConfirm.php	befb9687e6b50645eefdc43ea2e8d7ab
+D	src/Element/WebformList.php	
+M	src/Element/WebformLocation.php	04f27d83b33744a8f833bef54086fa21
+M	src/Element/WebformMessage.php	84747aa24d007aad20622ec389505601
+A	src/Element/WebformMultiple.php	a946cab75254158dbf999ed14924671e
+M	src/Element/WebformOptions.php	ef973b8f9213b4ae5f1c6e005585d14c
+M	src/Element/WebformTableSelectSort.php	7b2196e06156fe2697d60c9abf70c87b
+M	src/Element/WebformTableSort.php	c9a6926622f28c0d28566621f4cb4366
+M	src/Form/WebformAdminSettingsForm.php	dea9a3eb064f503e7e9cd9553b423f8a
+M	src/Plugin/WebformElement/WebformAutocomplete.php	ccf1d26a0f18f26f30469d5bcc506170
+M	src/Plugin/WebformElement/WebformManagedFileBase.php	174c2131e1e4adc50f87eba0269a4943
+M	src/Plugin/WebformHandler/EmailWebformHandler.php	07a271282a5401e1cb76360b8147eb5a
+D	src/Tests/WebformElementListTest.php	
+A	src/Tests/WebformElementMultipleTest.php	adfe19c9add7210c2723efee8f2cb2b8
+M	src/Tests/WebformElementOptionsTest.php	45ba78425cfc8d9f58cbe56e75080462
+M	src/WebformEntityForm.php	b4b168a8a3ccb710d3a0ff2246406388
+D	tests/modules/webform_test/config/install/webform.webform.test_element_list.yml	
+A	tests/modules/webform_test/config/install/webform.webform.test_element_multiple.yml	68f31fd056997413d207f45d4f871c88
+M	tests/modules/webform_test/webform_test.info.yml	bea5a1587b073725eb55861909fb9246
+M	tests/modules/webform_test_custom_properties/webform_test_custom_properties.info.yml	455de4a9e2c4c7801595288aea8f8c2f
+M	tests/modules/webform_test_third_party_settings/webform_test_third_party_settings.info.yml	69ed881b3d390ba8b548c60f74896bf9
+M	tests/modules/webform_test_translation/webform_test_translation.info.yml	ef59046b2792e363aeb8da562d1a680a
+M	webform.info.yml	94245a9c83a47d17a4d72d603d7bdf95
+M	webform.install	27b841a8a2ec7ab7b0f57ec5631b538e
+M	webform.libraries.yml	42616602bd9290fc01b05e61428bc849
+M	webform.module	350057055f34c7f94ec5627dc3d889ca

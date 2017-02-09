@@ -1,8 +1,8 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	f7c628c9adc17a2e108a218f29efcb30
-M	contact_forms.info	2200fa2198a5ee504145bff5b1de953a
-M	contact_forms.install	bc69aca07a399fbb3e9c52ac12a91aa5
-M	contact_forms.module	7c62b43e8520d2ae28bc6104c503dc32
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	f7c628c9adc17a2e108a218f29efcb30
+A	contact_forms.info	2200fa2198a5ee504145bff5b1de953a
+A	contact_forms.install	bc69aca07a399fbb3e9c52ac12a91aa5
+A	contact_forms.module	7c62b43e8520d2ae28bc6104c503dc32
 A	po/contact_forms.pot	35dea7ca0942dd23a7c0bc9b29dce651
 A	po/cs.po	8b8e9e570634690662256b7f9e11e5e7
 A	po/de.po	92d400e03ef17c3e671e816dc53bd19c

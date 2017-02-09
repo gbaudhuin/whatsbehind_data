@@ -1,4 +1,6 @@
 M	CHANGELOG	e6e8fdffea06bbe249e65c301e3069d5
+D	README.md	
+A	README.txt	c75c39681488b640719269a1871c7303
 M	includes/api/api.inc	0da12dba570d714589b3a3362140ef49
 M	includes/config.inc	0d0c25342c9df21a58d4acf3c70ac28b
 M	includes/core/common.inc	ea446254d94c9b3eb3b364afc30169cf

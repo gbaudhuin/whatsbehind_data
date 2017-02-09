@@ -337,9 +337,11 @@ M	uc_stock/uc_stock.tokens.inc	49dd66afe6747670aa89f4a90eb4bcfb
 M	uc_store/css/uc_store.css	563266fe07a2a69b0b9846ffdc6dcfb5
 M	uc_store/src/Element/UcAddress.php	2fb30519728078dacf09a341635f41c9
 M	uc_store/src/Element/UcQuantity.php	40e37a30e0cc9a8a08dbeded757b2c53
+D	uc_store/src/Encryption.php	
 M	uc_store/src/EncryptionInterface.php	c54885f7eadff283a3a4fa009a07c42a
 M	uc_store/src/Form/AddressFieldsForm.php	7e3942132a83b389136cfa7c3c9a8ff9
 M	uc_store/src/Form/StoreSettingsForm.php	325e298478e3c1f698df3930b7647a3d
+A	uc_store/src/MarstonEncryption.php	5cf87ccab4f4ac78a1c3b41e45426620
 D	uc_store/src/Plugin/Discovery/InfoHookDecorator.php	
 M	uc_store/src/Plugin/views/field/Length.php	c158a18fc9554c4487a9c20356452510
 M	uc_store/src/Plugin/views/field/Price.php	622f14511140cd2321babd08b7085e04

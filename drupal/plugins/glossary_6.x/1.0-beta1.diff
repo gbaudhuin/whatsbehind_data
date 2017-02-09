@@ -1,12 +1,12 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	21341c2848aecada2ff0dc5e9d2eb161
-M	TODO	5fc26e0ca0b44925c77e99239636847e
-D	glossary.admin.inc	
-M	glossary.css	edbbac72e9c2051b14daecc295cadea9
-M	glossary.info	6e02437679e2d09272b4caed526574a7
-M	glossary.install	81095ac10ed5cb11f5ea3240f4502972
-D	glossary.js	
-M	glossary.module	f43c6e521ec95556e0a77ead685d8c9f
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	21341c2848aecada2ff0dc5e9d2eb161
+A	TODO	5fc26e0ca0b44925c77e99239636847e
+A	empty.gif	c73c39d09ff56572881fa5683c97ec79
+A	glossary.css	edbbac72e9c2051b14daecc295cadea9
+A	glossary.gif	5f505347390d7491709fd1fd05eb89a5
+A	glossary.info	6e02437679e2d09272b4caed526574a7
+A	glossary.install	81095ac10ed5cb11f5ea3240f4502972
+A	glossary.module	f43c6e521ec95556e0a77ead685d8c9f
 A	po/de.po	642da903f0bc527270e1b5590392d7c8
 A	po/es.po	89b0d85efcf859969b438fa96d38b8ee
 A	po/fr.po	3ad6d95c616f7a69e4cdb72934e5b5f4

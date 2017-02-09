@@ -39,6 +39,26 @@ D	panels_stylizer/panels_stylizer.admin.inc
 D	panels_stylizer/panels_stylizer.info	
 D	panels_stylizer/panels_stylizer.install	
 D	panels_stylizer/panels_stylizer.module	
+D	panels_stylizer/plugins/style_bases/pane/pane_plain_box/icon.png	
+D	panels_stylizer/plugins/style_bases/pane/pane_plain_box/pane-plain-box.css	
+D	panels_stylizer/plugins/style_bases/pane/pane_plain_box/pane-plain-box.tpl.php	
+D	panels_stylizer/plugins/style_bases/pane/pane_plain_box/pane_plain_box.inc	
+D	panels_stylizer/plugins/style_bases/pane/pane_rounded_shadow/box-color.png	
+D	panels_stylizer/plugins/style_bases/pane/pane_rounded_shadow/box-shadow.png	
+D	panels_stylizer/plugins/style_bases/pane/pane_rounded_shadow/icon.png	
+D	panels_stylizer/plugins/style_bases/pane/pane_rounded_shadow/pane-rounded-shadow.css	
+D	panels_stylizer/plugins/style_bases/pane/pane_rounded_shadow/pane-rounded-shadow.tpl.php	
+D	panels_stylizer/plugins/style_bases/pane/pane_rounded_shadow/pane_rounded_shadow.inc	
+D	panels_stylizer/plugins/style_bases/region/region_plain_box/icon.png	
+D	panels_stylizer/plugins/style_bases/region/region_plain_box/region-plain-box.css	
+D	panels_stylizer/plugins/style_bases/region/region_plain_box/region-plain-box.tpl.php	
+D	panels_stylizer/plugins/style_bases/region/region_plain_box/region_plain_box.inc	
+D	panels_stylizer/plugins/style_bases/region/region_rounded_shadow/box-color.png	
+D	panels_stylizer/plugins/style_bases/region/region_rounded_shadow/box-shadow.png	
+D	panels_stylizer/plugins/style_bases/region/region_rounded_shadow/icon.png	
+D	panels_stylizer/plugins/style_bases/region/region_rounded_shadow/region-rounded-shadow.css	
+D	panels_stylizer/plugins/style_bases/region/region_rounded_shadow/region-rounded-shadow.tpl.php	
+D	panels_stylizer/plugins/style_bases/region/region_rounded_shadow/region_rounded_shadow.inc	
 D	panels_stylizer/plugins/styles/stylizer.inc	
 A	plugins/display_renderers/editor.inc	86c2db9f2058bdd503cd1ac4a2c31c46
 A	plugins/display_renderers/legacy.inc	779478ebc86c67ac5bffb91711013c18
@@ -66,6 +86,26 @@ M	plugins/layouts/twocol_bricks/panels-twocol-bricks.tpl.php	de46d1c9eb3c7308413
 M	plugins/layouts/twocol_bricks/twocol_bricks.inc	66efd845e1c5c7713ac3f1f7e1a7963b
 M	plugins/layouts/twocol_stacked/panels-twocol-stacked.tpl.php	89e70801e7a54779d4d47807b2e4e36c
 M	plugins/layouts/twocol_stacked/twocol_stacked.inc	00aa12956ed77814af2798b89167c99a
+A	plugins/style_bases/pane/pane_plain_box/icon.png	76e293d7ab438643bcf3b097a57d03b2
+A	plugins/style_bases/pane/pane_plain_box/pane-plain-box.css	7a8d4e7e14dbb24e371424cae435df89
+A	plugins/style_bases/pane/pane_plain_box/pane-plain-box.tpl.php	5122f8f3d8ebdb70d24bcf38898a231c
+A	plugins/style_bases/pane/pane_plain_box/pane_plain_box.inc	1eeb7b8cf6750cadf301cbf0c678ef95
+A	plugins/style_bases/pane/pane_rounded_shadow/box-color.png	a34c4cbff01ce8413c0da31006b2ea89
+A	plugins/style_bases/pane/pane_rounded_shadow/box-shadow.png	13f660645e32dee62d94d4a5a789d1c3
+A	plugins/style_bases/pane/pane_rounded_shadow/icon.png	371c19996a033d0932fbf4f66c229bd6
+A	plugins/style_bases/pane/pane_rounded_shadow/pane-rounded-shadow.css	0465931ca02ac85d50b32d3600e4269b
+A	plugins/style_bases/pane/pane_rounded_shadow/pane-rounded-shadow.tpl.php	5de129a33edad1199a673e6417c11b49
+A	plugins/style_bases/pane/pane_rounded_shadow/pane_rounded_shadow.inc	d1376c1cd84d6aa75907b43aa143ea08
+A	plugins/style_bases/region/region_plain_box/icon.png	76e293d7ab438643bcf3b097a57d03b2
+A	plugins/style_bases/region/region_plain_box/region-plain-box.css	f934dcf08970639d31569812a5f3855d
+A	plugins/style_bases/region/region_plain_box/region-plain-box.tpl.php	d4dfb350e1075c8e03095ccdeb6c1c29
+A	plugins/style_bases/region/region_plain_box/region_plain_box.inc	44519d76082e5f0fa38b3dfab0bc9d9b
+A	plugins/style_bases/region/region_rounded_shadow/box-color.png	a34c4cbff01ce8413c0da31006b2ea89
+A	plugins/style_bases/region/region_rounded_shadow/box-shadow.png	13f660645e32dee62d94d4a5a789d1c3
+A	plugins/style_bases/region/region_rounded_shadow/icon.png	371c19996a033d0932fbf4f66c229bd6
+A	plugins/style_bases/region/region_rounded_shadow/region-rounded-shadow.css	5e512b4a934724feba39cd3aa0b3ce7f
+A	plugins/style_bases/region/region_rounded_shadow/region-rounded-shadow.tpl.php	9d207242c03a73d47a79853d8022128c
+A	plugins/style_bases/region/region_rounded_shadow/region_rounded_shadow.inc	73c69f38d5cd0c616c0191f267ee8403
 M	plugins/styles/block.inc	6fca60aa896d415f4fb815ccea189d29
 M	plugins/styles/corners/rounded_corners.inc	ebed31c312800fc3a2a710f7c50d7a98
 M	plugins/styles/default.inc	4e76b390e26be8664ccbfa648c3d51e7

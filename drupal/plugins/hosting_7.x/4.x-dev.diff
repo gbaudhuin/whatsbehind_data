@@ -1,5 +1,6 @@
 D	.travis.yml	
 M	alias/hosting_alias.info	89091fcbbe03cd9b1d39fc8570326106
+M	alias/hosting_alias.module	e1cd0673588b7a5072255acdf6b8ecff
 M	client/hosting_client.info	06bbf9def09706ed299bb373c4ca7094
 M	client/hosting_client.module	41604b999d6155904d501b70bb72756c
 M	clone/hosting_clone.info	9f76b97af7fe3720236554709a08f7d4
@@ -7,8 +8,11 @@ M	cron/hosting_cron.info	a7515bbf2eb5307e9c6bb49ee86d085d
 M	cron/hosting_cron.module	fb941ac4ff59388bea3b21ad8d58ee15
 M	db_server/hosting_db_server.info	5321dd8f595e0afe2acea9025b903857
 M	db_server/hosting_db_server.service.inc	2b64903cf98a3f04be34e076df503870
-M	dns/hosting_dns.info	c9349f012db8d4ba5bc612b8c5745258
-M	dns/hosting_dns.service.inc	dece09618cf400edc73e0c2eee78f869
+A	dns/hosting.feature.dns.inc	3493a830278d88e9d1b887ef4a15fdec
+A	dns/hosting_dns.info	c9349f012db8d4ba5bc612b8c5745258
+A	dns/hosting_dns.install	da7583b7503f8f414114c60a0e4764f0
+A	dns/hosting_dns.module	78f61efedcde6194d88e4d15f777c663
+A	dns/hosting_dns.service.inc	dece09618cf400edc73e0c2eee78f869
 M	example/example_service/hosting_example.info	49e0194576def5a003e17e9645dd91bc
 M	example/example_service/hosting_example.service.inc	d045fa863e5a5578edcda563024e0b9f
 M	example/server_data/hosting_server_data.info	e8baa98f6817c7c18aaa9d660717540f
@@ -23,6 +27,7 @@ M	hosting.queues.inc	43c88ea4e4421fdccd25d3a1f5a07225
 M	migrate/hosting_migrate.batch.inc	77c68fcb7f7baa07b32bd3fd21c2f784
 M	migrate/hosting_migrate.info	aa3cd57003414e093b38f9a27b157f21
 M	package/hosting_package.info	d2336bc3de79e228933a0c9a95700e91
+M	package/hosting_package.instance.inc	270d2fcf8854611d2b86dd58be62e7b7
 M	package/hosting_package.module	5a7c51c3c7df36a65b5e4eabc94049f1
 M	platform/hosting_platform.drush.inc	47e39b44dd191275864c3a37db12b2ae
 M	platform/hosting_platform.info	ef245dd1e93f7204e83e3f59a1355c9f
@@ -30,6 +35,7 @@ M	platform/hosting_platform.module	de617305a3089b42439a4b6a65a3e7b4
 M	queued/hosting_queued.drush.inc	3e4557e9cc069dba0455249a19fe8a4d
 M	queued/hosting_queued.info	f56cd8e72701813686a9d10c3bd1673a
 M	quota/hosting_quota.info	264bc8be93cb699dfb80cca021b83db7
+M	resume.hosting.inc	ab98cad35d8246bdc7c0146c8ad9ec05
 M	server/hosting_server.api.php	4adef8d9e6b3de0cf8d6d3c2913fcc1e
 M	server/hosting_server.drush.inc	8e9d27e5db2ff17f83c1017a1a2301bb
 M	server/hosting_server.info	dcc50821360ddfc9d05d0cd030805ea5
@@ -38,11 +44,14 @@ M	server/hosting_server.service.inc	56dd7cf1949e1fbd58f3e7f450621724
 M	server/includes/views/handlers/hosting_server_handler_field_services.inc	73997bb5d5eff73ea5158c20fbf2923e
 M	signup/hosting_signup.info	58a1bba4b22fed816c8ebdfadf772ab7
 M	site/hosting_site.api.php	10b2ec6b71b65a0579eb87d991c4040c
+M	site/hosting_site.backups.inc	83b8dfc2c440b9452e9ec45ef7864c84
 M	site/hosting_site.form.inc	9c9307f6e7c6826f91f211c55480e7d1
 M	site/hosting_site.info	6c93266a0f77aa0153936f31ff3c48d9
 M	site/hosting_site.module	ba8013a1e8ca07f11603736e3506a43a
 M	site/hosting_site.nodeapi.inc	265e9ebe0339f291099c87e7a54f9a5e
 M	subdirs/hosting_subdirs.info	6f4f1b87007a2ec2fc09e5c50d731e09
+M	task.hosting.inc	eed8ff98d9670661d22fb1618314b7f7
+M	task/hosting_task.api.php	14f307ec6043fa4b3d414a078e479534
 M	task/hosting_task.info	f140290ac64fc3e062dcd6dc16452c14
 M	task/hosting_task.js	66cff27a8f5b2d62fa1e7139f6cf010b
 M	task/hosting_task.module	7d2cd23b74c738a0f82f9e9de5652b4b

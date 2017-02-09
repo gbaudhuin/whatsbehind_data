@@ -1,8 +1,10 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	0b842bbb90ddea8750127417744b6e51
-M	views-rotator.js	49506ddd2532cde221264bac8284559b
-M	views-view-rotator.tpl.php	e3fa0b30b1a73fb5b91176e47d72cba1
-M	views_rotator.info	fe1a46527955fba4ff9761b24f484ba2
-M	views_rotator.module	1d6cf761d26548abae9cc92733069837
-M	views_rotator.views.inc	50776e2e29b01432b2142a53a80a1694
-D	views_rotator_style_plugin.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	0b842bbb90ddea8750127417744b6e51
+A	images/next.jpg	b900b7d414f77ed5b3d2dd0d4b05dada
+A	images/prev.jpg	5d2616c6edd0e8c99a08a1cfff7e0bfd
+A	views-rotator.css	b8acb708bb87d2d0865be022286f6f16
+A	views-rotator.js	49506ddd2532cde221264bac8284559b
+A	views-view-rotator.tpl.php	e3fa0b30b1a73fb5b91176e47d72cba1
+A	views_rotator.info	fe1a46527955fba4ff9761b24f484ba2
+A	views_rotator.module	1d6cf761d26548abae9cc92733069837
+A	views_rotator.views.inc	50776e2e29b01432b2142a53a80a1694

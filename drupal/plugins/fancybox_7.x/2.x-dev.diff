@@ -1,12 +1,1 @@
-D	.cvsignore	
-M	README.txt	fc27621ada0eada6530fc838f2654031
-A	fancybox-insert-image.tpl.php	6038985c9dd10003b952b901bc804c7e
-M	fancybox.admin.inc	43e83b4680bf326b7e90c61149bbb530
-A	fancybox.api.php	498d87593d3cce660934f1f7c13d24e2
-A	fancybox.drush.inc	fff8b81a5df4877c0978900684d24839
 M	fancybox.info	8603ede1bb2b73a309ff383c405c2c1e
-M	fancybox.install	d6edac48eefab001353d2d164b12bcd7
-A	fancybox.js	5ee91f4206425cb67c10b2dcce0aa5f5
-M	fancybox.module	3496f241afe1d9c207d6fb6cd66edafb
-A	fancybox.theme.inc	4094553ce683d57d95e983f59e48fcba
-D	js/fancybox.js	

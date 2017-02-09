@@ -6,5 +6,7 @@ M	file_entity.info	11eb1499dfff70b840afda35b1adfcf0
 M	file_entity.install	23c76be72fe92bf1707b133989ba5204
 M	file_entity.module	4e21b6d1f4d0fd8ed968cb97b4624a25
 M	file_entity.pages.inc	4ed8588c0354181da91efd2423e355c1
+A	file_entity.test	47bff87d28f043734b14fa6649a3d869
 M	file_entity.theme.inc	090acbbcdc1a2ee1151589e0d790a808
+D	tests/file_entity.test	
 M	tests/file_entity_test.info	0e02c8d93b5e8a416926a1e8406773e9

@@ -1,7 +1,7 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	3bdcb3dd79a3856d792b6554ea3f0b9c
-M	admin_theme.info	982ff34abb541aa64637508386156d15
-M	admin_theme.install	c944012c8db1b146d8285d3efac5af8d
-M	admin_theme.module	e1004ec62d0e3ae9176e0a5c53d10059
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	3bdcb3dd79a3856d792b6554ea3f0b9c
+A	admin_theme.info	982ff34abb541aa64637508386156d15
+A	admin_theme.install	c944012c8db1b146d8285d3efac5af8d
+A	admin_theme.module	e1004ec62d0e3ae9176e0a5c53d10059
 A	translations/admin_theme.pot	366f7d2a64f9a8e8dd5e3746f145b56f
 A	translations/nl.po	34b0915a26d6ad3abae993cdb1397fdc

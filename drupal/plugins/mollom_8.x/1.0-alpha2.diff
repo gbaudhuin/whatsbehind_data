@@ -1,5 +1,7 @@
 M	README.txt	279b21b2be2a53de9288fd9c34e15730
+A	assets/mollom-captcha-player.swf	d57109218d36896f2d45699b507304e0
 M	js/mollom.js	329666fa3b82afc1d22b98c47d88bab3
+D	mollom-captcha-player.swf	
 M	mollom.info.yml	e9fe1c4bc8c0ab23a600034d14590e40
 M	mollom.module	b8aef87e66ceec4c45d52d6b8cd549e1
 M	mollom.services.yml	976c0bfd03ef061322f31629494a5f2d

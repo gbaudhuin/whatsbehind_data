@@ -1,7 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	391e6b1b3581c21e21f55a655d0ae904
-A	og_menu.info	ffad9463a7da68de88d3e2df50830fe6
-A	og_menu.install	9c7ebd024ffb4caf713695ed2f1d656e
-A	og_menu.js	9e1d5791626501597a08c0ef9d699590
-A	og_menu.module	843cb8cb07ab7ca9bf82146a834a0026
-A	og_menu.pages.inc	e5dbce73bccb59ffb1c6f38e6b0fa6f6
+M	og_menu.info	ffad9463a7da68de88d3e2df50830fe6

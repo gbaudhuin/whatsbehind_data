@@ -1,4 +1,6 @@
 M	README.md	f77bb8e9ee2bacf9152e336e265f1739
+D	config/install/geocoder.config.yml	
+A	config/install/geocoder.settings.yml	2505d806083a94453d40716483f208de
 A	config/schema/geocoder.schema.yml	49f71f65f350b5ac02b031da28cbb600
 M	geocoder.info.yml	099f7944923926b05d9eefe764f92ecd
 D	geocoder.install	

@@ -1,8 +1,1 @@
-A	CHANGELOG.txt	6b36adc9302e731c954fcd0c7f884c8b
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	33ddb5d15bc66b683efc48d1673895a5
-A	imagecache_token.admin.inc	512d2cc3ada8ad7c9f3d06cd5f3c8cb9
-A	imagecache_token.info	f91cb8c652a538da4168fb67c380d76e
-A	imagecache_token.install	b0b21a4a76e494a3ae0a97c23760a52b
-A	imagecache_token.module	858c6e4045b4ddd622517ddeb4472355
-A	tests/imagecache_token.test	58a45a8ac77a0849a76466d983466b3b
+M	imagecache_token.info	f91cb8c652a538da4168fb67c380d76e

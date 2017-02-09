@@ -1,56 +1,25 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	3bd77959252f623c8388d16526416ffa
-M	canvasactions.inc	3fcc5c16cf51ea94ac927b502a84d24d
-D	docs/aspect-chaining.png	
-M	docs/brightness.png	a46fe9b60eea4d9fbc8a1a9d1c96fcc4
-M	docs/canvases.png	483ac040032c6cfd9ef8d34b1f34761b
-D	docs/cheap_dropshadow.png	
-M	docs/colorshift.png	210d993579729f643697e5e1abd2818e
-M	docs/combo.png	b7c08fe052e328cb41c8d7f672b5977e
-D	docs/corner-bl.png	
-D	docs/corner-br.png	
-D	docs/corner-tl.png	
-D	docs/corner-tr.png	
-M	docs/overlays.png	939c3aef01cbc4a86d1b79316a2c34b1
-D	docs/polaroid-template-transparent.png	
-D	docs/polaroid.png	
-D	docs/rounded.png	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	3bd77959252f623c8388d16526416ffa
+A	canvasactions.inc	3fcc5c16cf51ea94ac927b502a84d24d
+A	docs/brightness.png	a46fe9b60eea4d9fbc8a1a9d1c96fcc4
+A	docs/canvases.png	483ac040032c6cfd9ef8d34b1f34761b
+A	docs/colorshift.png	210d993579729f643697e5e1abd2818e
+A	docs/combo.png	b7c08fe052e328cb41c8d7f672b5977e
+A	docs/overlays.png	939c3aef01cbc4a86d1b79316a2c34b1
 A	docs/text-overlay.png	b1d861bf47d0e616f6ccbadae609da23
-D	docs/text.png	
-M	docs/transparency.png	5ad2f972eaba2e077b902b173100daa1
-M	docs/watermark.png	d65bb2009514eb5e08c2c85aa865455e
-D	fonts/README.txt	
-D	fonts/liberation-fonts-1.04/AUTHORS	
-D	fonts/liberation-fonts-1.04/COPYING	
-D	fonts/liberation-fonts-1.04/ChangeLog	
-D	fonts/liberation-fonts-1.04/LiberationSans-Bold.ttf	
-D	fonts/liberation-fonts-1.04/LiberationSans-BoldItalic.ttf	
-D	fonts/liberation-fonts-1.04/LiberationSans-Italic.ttf	
-D	fonts/liberation-fonts-1.04/LiberationSans-Regular.ttf	
-D	fonts/liberation-fonts-1.04/License.txt	
-D	fonts/liberation-fonts-1.04/README	
-D	help/aspect_switcher.html	
-D	help/textrender_syntax.html	
-D	imagecache_actions.jquery.js	
-D	imagecache_autorotate.info	
-D	imagecache_autorotate.install	
-D	imagecache_autorotate.module	
-M	imagecache_canvasactions.info	8d9b3c52073195478900df4006d32942
-D	imagecache_canvasactions.install	
-M	imagecache_canvasactions.module	b6c10e63a7f871bf32b61c43cba5ef87
-M	imagecache_coloractions.info	2f369295067f9e36d3cdfef8a2a2879b
-D	imagecache_coloractions.install	
-M	imagecache_coloractions.module	7b0534fed4cfac01f71843170a676221
-D	imagecache_customactions.info	
-D	imagecache_customactions.install	
-D	imagecache_customactions.module	
-M	imagecache_textactions.info	5c05de604ffa3ddbf8b661009984e763
-M	imagecache_textactions.install	6a1f00799b492b348dce3362b01212fc
-M	imagecache_textactions.module	6d5b4c84752033a814ffc082ad55199b
-M	imagefilter.inc	e6b07e02b0cbfbe53c21df6a74830200
+A	docs/transparency.png	5ad2f972eaba2e077b902b173100daa1
+A	docs/watermark.png	d65bb2009514eb5e08c2c85aa865455e
+A	imagecache-preview.patch	1cc24536e8b07dc4cb2d28f352b5ae30
+A	imagecache_canvasactions.info	8d9b3c52073195478900df4006d32942
+A	imagecache_canvasactions.module	b6c10e63a7f871bf32b61c43cba5ef87
+A	imagecache_coloractions.info	2f369295067f9e36d3cdfef8a2a2879b
+A	imagecache_coloractions.module	7b0534fed4cfac01f71843170a676221
+A	imagecache_textactions.info	5c05de604ffa3ddbf8b661009984e763
+A	imagecache_textactions.install	6a1f00799b492b348dce3362b01212fc
+A	imagecache_textactions.module	6d5b4c84752033a814ffc082ad55199b
+A	imagefilter.inc	e6b07e02b0cbfbe53c21df6a74830200
 A	samples.jpg	af3834b786782e3e58813b2cf8c658bc
-M	textactions.inc	d7eb052a187a29dfef0596f5318bf039
-D	textrender.inc	
-M	transparency.inc	0e79cdc6c38ab4336d35e172c12b28a1
-M	utility.inc	9e6294d0081e51c3b78ebe7a7be132ee
-M	watermark.inc	fc6b002b18f47ea63555c8bde0ae189a
+A	textactions.inc	d7eb052a187a29dfef0596f5318bf039
+A	transparency.inc	0e79cdc6c38ab4336d35e172c12b28a1
+A	utility.inc	9e6294d0081e51c3b78ebe7a7be132ee
+A	watermark.inc	fc6b002b18f47ea63555c8bde0ae189a

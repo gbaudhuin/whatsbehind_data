@@ -1,6 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	exposed_filter_data.css	8799ae1d44ef7b6a0fecfcbe7691307f
-A	exposed_filter_data.info	5db9209ba44370e1f3fe92346fc1cadf
-A	exposed_filter_data.install	2bf8c05c3d50132e5f3804aa28614855
-A	exposed_filter_data.module	7f3de4e7136d72502f060cca00bd882c
-A	exposed_filter_data.tpl.php	921fd0dd0b0656c938282393f930ae2d
+M	exposed_filter_data.info	5db9209ba44370e1f3fe92346fc1cadf

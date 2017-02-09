@@ -5,7 +5,6 @@ M	conditional_fields.info	63c3bcecc7f6383e7503c3f1330a5a22
 M	conditional_fields.install	10eb6d04e92c712e8f365aea11306fd9
 M	conditional_fields.js	5466850c595a1cd12f031a6006cdd771
 M	conditional_fields.module	61f610edd500b01ba838dcf78178948e
-D	includes/conditional_fields.features.inc	
-M	includes/conditional_fields.rules.inc	1b1fcc97cf050584a2e0b9d565b29f9c
+A	includes/conditional_fields.rules.inc	1b1fcc97cf050584a2e0b9d565b29f9c
 A	translations/conditional_fields.pot	9575e18b07ab72b548efa2a8bdb379be
 A	translations/it.po	d1d8f1fe6c3f50e096864d9a73c096b5

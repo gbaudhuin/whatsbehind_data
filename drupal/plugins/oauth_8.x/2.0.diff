@@ -1,11 +1,1 @@
 M	oauth.info.yml	b70eaa0dfad4a8d0237e53ebe22060b5
-M	oauth.install	df1f4ee70acc6dfade034e24f1247fab
-M	oauth.module	56f716284b04d42f648f96afacbb3628
-M	oauth.routing.yml	8d28e2ca98ef06847d4a549e64d1b75f
-M	oauth.services.yml	53b484ad0c8970d7a66dec0361fe1f95
-A	src/Access/CustomAccessCheck.php	d7c786f93fa7670c60e48975a212c938
-M	src/Authentication/Provider/OAuthDrupalProvider.php	ad4e336e1e90b1b229037be78411c726
-M	src/Controller/OAuthController.php	44cd438f3ed4189ce4109261e9a4de94
-M	src/Form/OAuthAddConsumerForm.php	ecf846814bab3a2ca97ed49d1976f344
-M	src/Form/OAuthDeleteConsumerForm.php	5c73799d87bbee9629525db3437e913b
-M	src/Tests/OAuthTest.php	7b89fc10f036a98799df471b838bdf72

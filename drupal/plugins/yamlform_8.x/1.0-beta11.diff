@@ -16,6 +16,7 @@ M	js/yamlform.admin.js	b417534ce0bbcbaeb1259f12401cbf96
 M	js/yamlform.element.codemirror.js	94a19da43d144d16d6df78067723b452
 M	js/yamlform.form.js	34d4cd99b30a97003f7b2ee61011b72d
 A	js/yamlform.help.js	d504c1a98c4f839f78e8dc6a8a96c838
+A	modules/yamlform_devel/src/Form/YamlFormEntityExportForm.php	eb2759fbc48abb381e5e9fd99c920d7d
 A	modules/yamlform_devel/src/Plugin/YamlFormHandler/DebugYamlFormHandler.php	b953913c0bd7d38bfd1e67660904ee77
 A	modules/yamlform_devel/yamlform_devel.info.yml	03e5e9bb87f45241449ad2ca870f6c73
 A	modules/yamlform_devel/yamlform_devel.links.task.yml	8c2170546eee30fa0ac44707cacf2af2
@@ -54,6 +55,7 @@ M	src/Element/YamlFormRadiosOther.php	cc91f391addca38525321c657fd561f8
 M	src/Entity/YamlForm.php	fb4610abb7d1872a92a05c99d803ba48
 M	src/Entity/YamlFormSubmission.php	b65566df7a4bc2f7018cdb095e8d9c93
 M	src/Form/YamlFormAdminSettingsForm.php	d245a0bbc4bd9d7e58afdd767029c621
+D	src/Form/YamlFormEntityExportForm.php	
 M	src/Form/YamlFormHandlerFormBase.php	497a55586d933dd66f06a272b1e86ae8
 M	src/Form/YamlFormSubmissionDeleteForm.php	5b057612f058958a95494caf5e23c921
 M	src/Form/YamlFormSubmissionResendForm.php	62c83b23db9067b92032423f0d48b1fd
@@ -128,6 +130,7 @@ M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_form_draft.y
 M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_form_long_100.yml	92c7ddd0e9aa5b01d55e21acd0d372d5
 M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_form_long_200.yml	2b4def0491bf28883ba250d78638a1db
 M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_form_long_300.yml	9fb6d3d477b94270ca9e963ab7f3dc1c
+A	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_form_novalidate.yml	823481360b96cd362daf7769c67f4957
 M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_form_prepopulate.yml	9da1d81948e3857dbaf947bc873b5802
 M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_form_preview.yml	0f4bf56da649959d9b476e67fdd6a7ae
 M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_form_properties.yml	ceb06c8b6ebbbb67f290d1f4ffc29d2b
@@ -142,6 +145,7 @@ M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_handler_test
 M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_options.yml	3046390bb9365132189c365dc9e36c15
 M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_submission_disabled.yml	8c3f0d5ff334fe238ab89aee2d09c747
 M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_submission_limit.yml	9c558e25ce7da74c726e9e68738570df
+D	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_ui_element.yml	
 M	tests/modules/yamlform_test/src/Plugin/YamlFormHandler/DebugYamlFormHandler.php	faf999d592c08a9ae1aec040c4e64aff
 M	tests/modules/yamlform_test/src/Plugin/YamlFormHandler/NullYamlFormHandler.php	ba11abf75434fa176e7236d7f3771721
 M	tests/modules/yamlform_test/src/Plugin/YamlFormHandler/TestYamlFormHandler.php	81cb31b5d9e5b58f8cacc83e3d4f1b14

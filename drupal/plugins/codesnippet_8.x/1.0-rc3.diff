@@ -1,11 +1,9 @@
-D	README.txt	
-M	codesnippet.info.yml	d3e4f11d9cd8dd784637e85e93ed52f9
-D	codesnippet.install	
-M	codesnippet.libraries.yml	e51942a6ecd5814cbfc0f16671fb45f3
-M	codesnippet.module	5b82d56238e20b7519767fedc4cdfe3a
-D	composer.json	
-M	js/codesnippet.admin.js	5446f4d7c1321d3b98084a2d2e3ba2e1
-M	js/codesnippet.js	40de1afe10ad168e5c24f1085dce2503
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	codesnippet.info.yml	d3e4f11d9cd8dd784637e85e93ed52f9
+A	codesnippet.libraries.yml	e51942a6ecd5814cbfc0f16671fb45f3
+A	codesnippet.module	5b82d56238e20b7519767fedc4cdfe3a
+A	js/codesnippet.admin.js	5446f4d7c1321d3b98084a2d2e3ba2e1
+A	js/codesnippet.js	40de1afe10ad168e5c24f1085dce2503
 A	js/plugins/codesnippet/dialogs/codesnippet.js	40ee235fe479e6e116bfd2552f140089
 A	js/plugins/codesnippet/icons/codesnippet.png	eaba91547ab32adf0088f1fcb19220d1
 A	js/plugins/codesnippet/icons/hidpi/codesnippet.png	30f47055f608d98654aaf5c5510499e1
@@ -109,4 +107,4 @@ A	js/plugins/codesnippet/lib/highlight/styles/vs.css	6b1a2ccdde46317289c2750806f
 A	js/plugins/codesnippet/lib/highlight/styles/xcode.css	15a72f05e35e1f2f1ff36e3749476228
 A	js/plugins/codesnippet/lib/highlight/styles/zenburn.css	062469a0cfa12f87af10eb744ab4e593
 A	js/plugins/codesnippet/plugin.js	a676ebf98507c86b28cf2e3d8f95e9ba
-M	src/Plugin/CKEditorPlugin/CodeSnippet.php	157bbf8e119ed909a71ab8a92ee1ca76
+A	src/Plugin/CKEditorPlugin/CodeSnippet.php	157bbf8e119ed909a71ab8a92ee1ca76

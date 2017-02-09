@@ -1,7 +1,8 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	i18nviews.info	dd8549c1a42ef1ed3bfc36bb6aabed32
-A	i18nviews.module	713afdaa9f7ff76c4a6abec9b4290e72
-A	includes/i18nviews.views.inc	e59983a14fe2074dd362586f016b2f0b
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	i18nviews.info	dd8549c1a42ef1ed3bfc36bb6aabed32
+M	i18nviews.module	713afdaa9f7ff76c4a6abec9b4290e72
+D	includes/content_negotiation_filter_handler.inc	
+M	includes/i18nviews.views.inc	e59983a14fe2074dd362586f016b2f0b
 A	includes/i18nviews_content_negotiation_filter_handler.inc	f19ff39395138a9ea8f115b2cd771e4c
 A	includes/i18nviews_handler_argument_term_language.inc	2434ec378b278d0f553330ca03f2b1b9
 A	includes/i18nviews_handler_argument_term_node_tid.inc	f8339c8dd81e33f9de50636d4df42037
@@ -13,3 +14,7 @@ A	includes/i18nviews_handler_field_term_node_tid.inc	9c2fd6948086ace50f70f30e294
 A	includes/i18nviews_handler_filter_term_language.inc	5b3c3e33aa1e5494bdc6c963483e150f
 A	includes/i18nviews_handler_filter_term_node_tid.inc	a1ee483cb4793c659ccf91f43d67ab80
 A	includes/i18nviews_plugin_argument_validate_i18n_taxonomy_term.inc	368751a06f1e084a74cc4ee2e1f75445
+D	translations/i18nviews-includes.de.po	
+D	translations/i18nviews-includes.pot	
+D	translations/i18nviews.de.po	
+D	translations/i18nviews.pot	

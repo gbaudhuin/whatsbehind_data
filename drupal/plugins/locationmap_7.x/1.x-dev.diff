@@ -1,9 +1,1 @@
-A	INSTALL.txt	b0f078eca310cac19f7a000ae15573b6
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	85043b1577aec26638a634a08429a1d2
-A	locationmap.info	712d667a834fc10e64245376ec7d0ff8
-A	locationmap.install	6b368b490e7bd3abf9cf525278e6547e
-A	locationmap.js	6ad0d1eaba1e875b8432483a7ab519e5
-A	locationmap.module	3546c80c00dde0fe0e410c2925ef2c94
-A	locationmap_admin.js	d39889f4cf9869eefc9759305f3c0fb4
-A	tests/locationmap.test	3cfe716e625f5d596642c0317fa25e10
+M	locationmap.info	712d667a834fc10e64245376ec7d0ff8

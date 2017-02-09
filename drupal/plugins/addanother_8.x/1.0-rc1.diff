@@ -1,0 +1,5 @@
+M	addanother.info.yml	51b3982ef8763dad25bd75d3cea6cac1
+M	addanother.module	7abaac107ffa132a2f80ba468b355d5a
+M	src/Controller/AddAnotherController.php	993395fb81de4a6a5ab2fc0ad23e18e8
+M	src/Form/AddAnotherSettingsForm.php	00ffc09265bd2fae776e1580f43d3994
+M	src/Tests/AddAnotherTest.php	e524394676ff76608847697d6ca21726

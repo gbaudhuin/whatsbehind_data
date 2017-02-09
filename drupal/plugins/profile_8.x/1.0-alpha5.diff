@@ -40,4 +40,6 @@ M	src/Tests/ProfileTestBase.php	b5d34528716fee9f9cb039093ac0aeac
 M	src/Tests/ProfileTestTrait.php	29561c573c0460b64dd9729f8f38f40c
 M	src/Tests/ProfileTypeCRUDTest.php	035199e5f5811f9f2054e9f1a7ef7cda
 M	src/Tests/ProfileTypeMultipleTest.php	5326f264e8bd64dd400807263b768adb
+D	src/Tests/ProfileViewTest.php	
 M	tests/profile_test/profile_test.info.yml	aa9b237bb57fa3c4118ff3744eb7f232
+A	tests/src/Kernel/ProfileViewTest.php	a02cc39ccbc708c2b3a01fc0c17f95c9

@@ -1,6 +1,9 @@
-M	browscap.admin.inc	d99ffba526cd09fcfb97249cf141e616
-M	browscap.info	8f7a1bacc705b01715953f20c14daebd
-M	browscap.install	6aa25f0f9fc0059426b2370d20494582
-M	browscap.module	40cd325eaea076ae1e4f13eb3f14915f
-M	import.inc	a0d09d98468370da3a5a06e10f94edca
-D	record.inc	
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	d6136925823809fb54f360fbd25a7dee
+A	browscap.admin.inc	d99ffba526cd09fcfb97249cf141e616
+A	browscap.info	8f7a1bacc705b01715953f20c14daebd
+A	browscap.install	6aa25f0f9fc0059426b2370d20494582
+A	browscap.module	40cd325eaea076ae1e4f13eb3f14915f
+A	browscap.reports.inc	08aa99f48d8b5b9d4a45c0793ff6fc70
+A	browscap.user_agent.inc	4c4a0963c390485c35c351f2c79b76ab
+A	import.inc	a0d09d98468370da3a5a06e10f94edca

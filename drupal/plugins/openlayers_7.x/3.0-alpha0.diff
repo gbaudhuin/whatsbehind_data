@@ -39,6 +39,8 @@ D	modules/openlayers_views/views/openlayers_views_style_data_image.inc
 M	modules/openlayers_views/views/openlayers_views_style_map.inc	1c7f788f1c01de55be1f34b75f9d2e12
 M	openlayers.info	0d44e5059f95f466e147c50dec21a1ee
 M	openlayers.install	ff834ac7468ad68206d8b0a99f3cf2d7
+A	openlayers.make	e7d6edd9b8a0ec2db775ccdffc26cfc2
+D	openlayers.make.example	
 M	openlayers.module	4bcaade1f8a07b1fd14d24f28590706b
 M	plugins/behaviors/openlayers_behavior_argparser.inc	391d317b7b0d6d9d7d808af1aba64003
 M	plugins/behaviors/openlayers_behavior_attribution.inc	dc24bd0e93d2e4ebb6cae3940e6225d7

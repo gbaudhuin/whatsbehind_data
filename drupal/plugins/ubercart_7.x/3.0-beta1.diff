@@ -90,6 +90,10 @@ M	uc_file/uc_file.install	0b98e880373a0537b36889e74a1dc7c7
 M	uc_file/uc_file.module	e8c62971945a44c698e2f4276e7e2f0b
 M	uc_googleanalytics/uc_googleanalytics.info	cd3878164c8b2ea30f110cb4fe4f8edb
 M	uc_googleanalytics/uc_googleanalytics.module	f88862fe4b6f9e619b69fb5f1ce0b15c
+A	uc_order/templates/uc-order--admin.tpl.php	aaf8d30216c2a27d15a92b7215a84687
+A	uc_order/templates/uc-order--customer.tpl.php	586134238ad09f69a29f7212852e6f8b
+D	uc_order/templates/uc_order-admin.tpl.php	
+D	uc_order/templates/uc_order-customer.tpl.php	
 D	uc_order/templates/uc_order.tpl.php	
 M	uc_order/uc_order.admin.inc	fe3f31b0ab52bdb9896dd301aaea40d2
 M	uc_order/uc_order.api.php	730b12b8f2bc91446e5c012fa301bcac
@@ -137,6 +141,8 @@ M	uc_stock/uc_stock.admin.inc	722f35a8a4cb48808d5b5e3c14b82699
 M	uc_stock/uc_stock.info	54ed13cf3f8af87b3fcdba3bcfd99fbc
 M	uc_stock/uc_stock.module	be17e73794ebab3b0562bf4ca9e14826
 A	uc_store/countries/cyprus_196_1.cif	f580a88df7c214d22765b8a70ae8c8bc
+D	uc_store/countries/italy_380_2.cif	
+A	uc_store/countries/italy_380_3.cif	5d802b3d9a01a9800282b5dcaed3042b
 M	uc_store/countries/macao_446_1.cif	e895211a3a738a979da41a3f6ea57416
 A	uc_store/countries/moldova_498_1.cif	14641991b8d75945c138d7f68bbd4d77
 M	uc_store/countries/virgin_islands_british_92_1.cif	bc661737370cd1427229fe14b9200d1d

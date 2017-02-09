@@ -1,10 +1,1 @@
-A	CHANGELOG.txt	390c8f5639fded2ef51ed4c76b89dced
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	f522e95d41439bb65547f269caba4f6e
-A	views_or.info	3bbe7447cb8d1ccd0872299d51c09b8e
-A	views_or.install	d067cc596b8d0de3c7f8f138cc4e8f0e
-A	views_or.module	86f551cf460c2d5865da4ea0fd07ce52
-A	views_or.views.inc	11d9e168ec766804f905ad014dfa1105
-A	views_or_handler_argument.inc	be76b66016670af0eae2c3bbd897b808
-A	views_or_handler_field.inc	a1e60ccde44c820cb6aa30900760475f
-A	views_or_handler_filter.inc	46fe6a148fbb9f8d2166fbb3ba83bf5c
+M	views_or.info	3bbe7447cb8d1ccd0872299d51c09b8e

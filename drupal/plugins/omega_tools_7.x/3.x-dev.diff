@@ -1,16 +1,1 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	47c4f6aa5acf5fc4f8da6ae35f4dda46
-A	default/css/README.txt	15217243053dc8e5d76d857fd670645a
-A	default/default.pattern	13d2f38babfa0564b7147033eaa11073
-A	default/logo.png	054e39056a6df3d12c4748aaa45a732c
-A	default/preprocess/README.txt	4ad098bc4d0282d9b866553866248e2f
-A	default/process/README.txt	2b21569ad5c68fa8eb22f8b9e9edb4c2
-A	default/screenshot.png	ac6a3e19686f6fe5a124731edb3a6c66
-A	default/template.php	23d366103d86737364277819a343c855
-A	default/templates/README.txt	a2f32ee3567147442917ea2177c7d1b1
-A	includes/omega_tools.admin.inc	15fc814ef3f2d0f33648dab765d5585c
-A	includes/omega_tools.drush.inc	ddcd1dcc7d03a184f613ed33e0059330
-A	includes/omega_tools.wizard.inc	f747c297fb9810aff285dd5525042665
-D	omega_tools.drush.inc	
 M	omega_tools.info	b839cd713dbc0e9515b2f11c5151db1d
-M	omega_tools.module	74beed4b88fc30d822c947bd77c74262

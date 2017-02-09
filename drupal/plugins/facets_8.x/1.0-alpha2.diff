@@ -51,6 +51,10 @@ M	src/Plugin/Block/FacetBlock.php	9ddfcd88413d29e032b524bf82f88a5b
 M	src/Plugin/Block/FacetBlockDeriver.php	d474531a0c7367f45f72fa6a6369c6d5
 M	src/Plugin/Condition/OtherFacet.php	9325731eb4dc58b7ee573de7677d7746
 M	src/Plugin/facets/facet_source/SearchApiBaseFacetSource.php	ad93798a829b12d8d859277df1ddd063
+A	src/Plugin/facets/facet_source/SearchApiViews.php	6c7ea702c3348bce1502e7e3569118cd
+A	src/Plugin/facets/facet_source/SearchApiViewsDeriver.php	ac67197a043f72f6053aeddbe3ccc694
+D	src/Plugin/facets/facet_source/SearchApiViewsPage.php	
+D	src/Plugin/facets/facet_source/SearchApiViewsPageDeriver.php	
 M	src/Plugin/facets/processor/ActiveWidgetOrderProcessor.php	5657d001d18cf3a115eae5908143ed45
 M	src/Plugin/facets/processor/CountLimitProcessor.php	6fd058fedbf2df20338f5679a3842c44
 M	src/Plugin/facets/processor/CountWidgetOrderProcessor.php	04e23035e6e8d95267e2c5da2dfd12be

@@ -1,37 +1,61 @@
+M	README.txt	801fff4448defd4c48c0ebbea9bb262c
 M	finder.api.php	886f26fcd242828deb00d940b770e9aa
+D	finder.css	
 M	finder.info	cff20ad89b5e026a688ae40b633daea5
 M	finder.install	8302649d928e7d27a997c4d7bed5f699
-D	finder.js	
 M	finder.module	eee73d686b3c97a60091563a2104217f
-M	includes/build.inc	17e20d47d152c7a303f9874260d6a17c
-M	includes/finder.inc	607d8cad4875f9b690c2f5e117c3e808
-M	includes/form.inc	963894cab7f839c1b681faac647ed7ec
-M	includes/theme.inc	f2d1c326f4b8b0e028b23d4fe64000a8
-M	modules/finder_ui/finder_ui.css	384a443908509525191bcf4935952f32
-M	modules/finder_ui/finder_ui.i18n_string.inc	0b8fb36fc0085cefc98750292cd1b016
-M	modules/finder_ui/finder_ui.info	470a84e7a2da9b3b60424dbbd99f13f6
-M	modules/finder_ui/finder_ui.js	67819cd4861f16f1b39fd6ef33cd5e16
-M	modules/finder_ui/finder_ui.module	aa07f1a4c6e50906e3c9d67ba5cfe431
-D	modules/finder_ui/finder_ui_reload.js	
-M	modules/finder_ui/includes/common.inc	4432dae14f6b3ce71931da42d5bc3e14
-M	modules/finder_ui/includes/element-item.inc	215f24388d8c0179a5733efdc9250e8c
-M	modules/finder_ui/includes/element.inc	f50b83b16737ae23bcc848115e40646b
-M	modules/finder_ui/includes/field.inc	40a62a44042994b007fa0eeb0cacb773
-M	modules/finder_ui/includes/finder.inc	6dbbb8f9832f018e8867de84a0df3c2e
-M	modules/finder_ui/includes/item.inc	d6ded98830188de6814bf5605e27c4dc
-M	modules/finder_ui/includes/theme.inc	1e99fd761374cc016dcc76a97b0898db
-D	modules/finder_wizard/finder_wizard.info	
-D	modules/finder_wizard/finder_wizard.js	
-D	modules/finder_wizard/finder_wizard.module	
-D	modules/finder_wizard/plugins/element_handler/page.inc	
-M	plugins/element_handler/autocomplete.inc	473dd4f4e5cd4896a0717c3640ed5bb8
-M	plugins/element_handler/autocomplete.js	e2e65c986b5cdf8c553c7a3c9bb2483a
-M	plugins/element_handler/buttons.inc	db0380ffd092341496907458dddf1e20
-D	plugins/element_handler/fieldset.inc	
-D	plugins/element_handler/group.inc	
-M	plugins/element_handler/onoff.inc	6fc2db22ff4531834b7e08c1b4fef61d
-D	plugins/element_handler/row.inc	
-M	plugins/element_handler/select.inc	ec078822573d715256e04516383aa60a
-M	plugins/element_handler/text.inc	aeb80698923caadfdf0326159d06e318
-M	plugins/finder_default/finder.finder_default.inc	63595c0c3df020919e31097aec22af98
-M	views/finder.views.inc	19840ae54991280a1c66cba978aa6506
+A	includes/build.inc	17e20d47d152c7a303f9874260d6a17c
+D	includes/finder.admin.inc	
+D	includes/finder.form.inc	
+A	includes/finder.inc	607d8cad4875f9b690c2f5e117c3e808
+D	includes/finder.theme.inc	
+A	includes/form.inc	963894cab7f839c1b681faac647ed7ec
+A	includes/theme.inc	f2d1c326f4b8b0e028b23d4fe64000a8
+D	modules/finder_autocomplete/finder_autocomplete.info	
+D	modules/finder_autocomplete/finder_autocomplete.js	
+D	modules/finder_autocomplete/finder_autocomplete.module	
+D	modules/finder_i18nstrings/finder_i18nstrings.info	
+D	modules/finder_i18nstrings/finder_i18nstrings.module	
+D	modules/finder_node/finder_node.info	
+D	modules/finder_node/finder_node.module	
+D	modules/finder_optionwidgets/finder_optionwidgets.info	
+D	modules/finder_optionwidgets/finder_optionwidgets.module	
+D	modules/finder_search/finder_search.info	
+D	modules/finder_search/finder_search.install	
+D	modules/finder_search/finder_search.module	
+D	modules/finder_text/finder_text.info	
+D	modules/finder_text/finder_text.module	
+A	modules/finder_ui/finder_ui.api.php	8394d7d97669644d3e3560602b36c078
+A	modules/finder_ui/finder_ui.css	384a443908509525191bcf4935952f32
+A	modules/finder_ui/finder_ui.i18n_string.inc	0b8fb36fc0085cefc98750292cd1b016
+A	modules/finder_ui/finder_ui.info	470a84e7a2da9b3b60424dbbd99f13f6
+A	modules/finder_ui/finder_ui.js	67819cd4861f16f1b39fd6ef33cd5e16
+A	modules/finder_ui/finder_ui.module	aa07f1a4c6e50906e3c9d67ba5cfe431
+A	modules/finder_ui/images/close.png	9a3515d628c88330a816b16cfc008da6
+A	modules/finder_ui/includes/common.inc	4432dae14f6b3ce71931da42d5bc3e14
+A	modules/finder_ui/includes/element-item.inc	215f24388d8c0179a5733efdc9250e8c
+A	modules/finder_ui/includes/element.inc	f50b83b16737ae23bcc848115e40646b
+A	modules/finder_ui/includes/field.inc	40a62a44042994b007fa0eeb0cacb773
+A	modules/finder_ui/includes/finder.inc	6dbbb8f9832f018e8867de84a0df3c2e
+A	modules/finder_ui/includes/item.inc	d6ded98830188de6814bf5605e27c4dc
+A	modules/finder_ui/includes/theme.inc	1e99fd761374cc016dcc76a97b0898db
+A	modules/finder_ui/plugins/export_ui/finder_ui.class.php	dd792a8879f6b9f35ade1e250737c905
+A	modules/finder_ui/plugins/export_ui/finder_ui.inc	c0a2d617c7449a3c865e3172972a2da7
+D	modules/finder_user/finder_user.info	
+D	modules/finder_user/finder_user.module	
+D	modules/finder_views/finder_views.info	
+D	modules/finder_views/finder_views.module	
+D	modules/finder_views/includes/finder_views.views.inc	
+D	modules/finder_views/includes/finder_views_plugin_display_finder.inc	
+D	modules/finder_views/includes/finder_views_plugin_style_php_array_finder.inc	
+A	plugins/element_handler/autocomplete.inc	473dd4f4e5cd4896a0717c3640ed5bb8
+A	plugins/element_handler/autocomplete.js	e2e65c986b5cdf8c553c7a3c9bb2483a
+A	plugins/element_handler/buttons.inc	db0380ffd092341496907458dddf1e20
+A	plugins/element_handler/onoff.inc	6fc2db22ff4531834b7e08c1b4fef61d
+A	plugins/element_handler/select.inc	ec078822573d715256e04516383aa60a
+A	plugins/element_handler/text.inc	aeb80698923caadfdf0326159d06e318
+A	plugins/finder_default/finder.finder_default.inc	63595c0c3df020919e31097aec22af98
+A	views/finder.views.inc	19840ae54991280a1c66cba978aa6506
+A	views/finder.views_default.inc	cbeb0f28a362b25494262261c5921335
+A	views/finder_plugin_display.inc	8492d9b670b4783d4f122d2feaaef3a1
+A	views/finder_plugin_style.inc	dc36591a1a4aa901b16c02f2b8f17429

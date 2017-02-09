@@ -1,5 +1,6 @@
 D	CHANGELOG.TXT	
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.TXT	0df5961e95450aca21efa01b48355c5d
 A	contribs/dblog_ext/dblog_clear/dblog_clear.css	f6e26d80922749b1870940029f6ad199
 A	contribs/dblog_ext/dblog_clear/dblog_clear.info	b79e626cdd8b8c20f5753c4adf766f97
 A	contribs/dblog_ext/dblog_clear/dblog_clear.module	7a3fd7d72794b902b37be3a000a46d87
@@ -29,8 +30,8 @@ A	contribs/logged_in/logged_in.install	37ca9ad683b93d944d35534912d65279
 A	contribs/logged_in/logged_in.module	a2e923165817cf0bc9118037184f5995
 A	contribs/type_defaults/type_defaults.info	1d6e9d72b59174ad5dea01a6f9a99cc1
 A	contribs/type_defaults/type_defaults.module	5f28e2c592d053c2153a71852d21a034
-A	module_weights.info	ef214253c01405864d24c68526d248d7
-A	module_weights.module	441df5bfa8519b105504bae49635130a
+M	module_weights.info	ef214253c01405864d24c68526d248d7
+M	module_weights.module	441df5bfa8519b105504bae49635130a
 A	perms_fieldsets.css	155e555c704d0ce1b3aed034b1d7ea25
 M	perms_fieldsets.info	d557a61c1b58f0591b4858dd55ec22b8
 M	perms_fieldsets.module	c6cbf134cd009f35ef1ed4d3654b93c1

@@ -33,6 +33,11 @@ A	modules/nd/tests/nd.tools.test	c5f4f21d7fec55854db1202aad5f2fa9
 A	modules/nd/tests/ndtest.ds_default.inc	ffcb31f844bf6e87c7606e5b404ca8f6
 A	modules/nd/tests/ndtest.info	dbf4f192191872e56ddc7b06d12a066e
 A	modules/nd/tests/ndtest.module	f4def06f98ef0caff53c6b0d28f704f1
+D	plugins/ds_cssoverrider.inc	
+D	plugins/ds_emptyregionrender.inc	
+A	plugins/ds_extension/cssoverrider.inc	1e5cc4079dc535dea9fd5443497aa62b
+A	plugins/ds_extension/emptyregionrender.inc	821e2bb9e806dffd35ba6485868638df
+A	plugins/ds_extension/regiontoblock.inc	e0e1a6e030a40665359519c84d5b2801
 A	plugins/ds_field/basic.inc	04aad47c63972d9fcaa55b22dd504c7d
 A	plugins/ds_field/block.inc	f9b2bb0f6aed6516d4fef58575538174
 A	plugins/ds_field/code.inc	ebfe0b3f6efbc09accb24aacafc6c939
@@ -41,6 +46,7 @@ A	plugins/ds_field/group.inc	4b1b5e72a0440053e9c4e9a843ce9b30
 A	plugins/ds_field/ignore.inc	f6800a2681ae834de2000b40c548e04f
 A	plugins/ds_field/preprocess.inc	47b973879df9c84ae637e865ce035246
 A	plugins/ds_field/theme.inc	28212e4eac1c36b1b665e82bb38aad74
+D	plugins/ds_regiontoblock.inc	
 M	theme/ds-display-overview-form.tpl.php	da5ed7710473a9fa135330ee373dac79
 M	theme/theme.inc	6ac93663ca4999d07e75418e2f79aebf
 M	theme/theme_ui.inc	71cff42fbf8175952865857c34a1782a

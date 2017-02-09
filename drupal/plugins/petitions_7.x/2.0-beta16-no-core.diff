@@ -1743,6 +1743,15 @@ A	modules/contrib/services_documentation/theme/services-documentation-version.tp
 A	modules/contrib/services_documentation/theme/services-documentation-versions-overview.tpl.php	5bab3dd66f4d44250127c9a776589d5b
 A	modules/contrib/services_documentation/theme/services_documentation.css	26558d57edbee905f87486ad5c6b84cd
 A	modules/contrib/shunt/LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	modules/contrib/shunt/README.txt	4301c33213b262103688f0f6a93d8634
+A	modules/contrib/shunt/modules/shuntexample/README.txt	a3c3b531ba75ac41f536d57e23b99c17
+A	modules/contrib/shunt/modules/shuntexample/shuntexample.info	5489c0da7ffe32002edaf5f67c1ae1ab
+A	modules/contrib/shunt/modules/shuntexample/shuntexample.module	0b4d75c9b4896b8b7045391a1e3e7070
+A	modules/contrib/shunt/shunt.api.php	e2b8686c39d7b4e978dbe9d5f1d637ad
+A	modules/contrib/shunt/shunt.drush.inc	d70a8337331e4daa46c944b5ab37d9a9
+A	modules/contrib/shunt/shunt.info	0aa300a2b3a131e075f8b121bacf31c5
+A	modules/contrib/shunt/shunt.install	606daf00034e7fa3b5ba6b8ab36776af
+A	modules/contrib/shunt/shunt.module	476cad6215a357e0008f675b659796ab
 A	modules/contrib/simplehtmldom/LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 A	modules/contrib/simplehtmldom/simplehtmldom.info	a3e7d27e7293edbc99c603e0b3da94cf
 A	modules/contrib/simplehtmldom/simplehtmldom.module	3c10adb5a1b985625a21cdd8d006d7ea
@@ -2384,10 +2393,18 @@ M	modules/custom/petition_install/petition_install1/petition_install1.info	7a02d
 M	modules/custom/petition_install/petition_install2/petition_install2.info	1122ca6cdc2661cc42f6306907c23bc0
 M	modules/custom/petition_install/petition_install3/petition_install3.info	131f606d51af0f18a27410d00f0c61ab
 M	modules/custom/petition_install/petition_install4/petition_install4.info	0fd443112152a30e8c182a98f06623c8
+D	modules/custom/petitions_data/classes/IPetitionLoadRaw.class.inc	
+A	modules/custom/petitions_data/classes/IPetitionsIndexRaw.class.inc	14b8aadd7660a609a66f8366fefeaa94
+D	modules/custom/petitions_data/classes/IPetitionsRaw.class.inc	
+A	modules/custom/petitions_data/classes/IPetitionsRetrieveRaw.class.inc	9f38bcb43f29d6b7ccdf913b55f4143e
+D	modules/custom/petitions_data/classes/PetitionLoadMongoRaw.class.inc	
 D	modules/custom/petitions_data/classes/PetitionLoadRawFactory.class.inc	
+A	modules/custom/petitions_data/classes/PetitionsBase.class.inc	00474f4381f704e8984dc0e69ca79367
 A	modules/custom/petitions_data/classes/PetitionsIndexBase.class.inc	6c3d3e65421ac4a1edee3ac50ac85ca4
 A	modules/custom/petitions_data/classes/PetitionsIndexMongoRaw.class.inc	ac33d72c7d7f59f5d6ffc1747411f43d
+A	modules/custom/petitions_data/classes/PetitionsIndexRawFactory.class.inc	f0a71574e3f6e70062e84ed89924f892
 D	modules/custom/petitions_data/classes/PetitionsMongoRaw.class.inc	
+D	modules/custom/petitions_data/classes/PetitionsRawFactory.class.inc	
 A	modules/custom/petitions_data/classes/PetitionsRetrieveBase.class.inc	9874df6dd2dab2fa80147a05ae5e45b7
 A	modules/custom/petitions_data/classes/PetitionsRetrieveMongoRaw.class.inc	aa6c7123ebeab6e0b2d9b9207a2b1726
 A	modules/custom/petitions_data/classes/PetitionsRetrieveRawFactory.class.inc	ea606103fa5f19198c31ad2e79aab091
@@ -2399,6 +2416,23 @@ M	modules/custom/petitions_profanity/petitions_profanity.info	b2df10a8448f59a804
 M	modules/custom/petitions_signatures_display/petitions_signatures_display.info	2510bd156081091df5a6f86a6782a8bf
 M	modules/custom/petitions_stats_users/petitions_stats_users.info	3738f909bfa2c206e1f0df74865f60f6
 M	modules/custom/petitions_usermenu/petitions_usermenu.info	89bb963f0e8bcf1796300b97544a1c44
+D	modules/custom/shunt/README.txt	
+D	modules/custom/shunt/modules/shunt_api/README.txt	
+D	modules/custom/shunt/modules/shunt_api/shunt_api.info	
+D	modules/custom/shunt/modules/shunt_api/shunt_api.install	
+D	modules/custom/shunt/modules/shunt_api/shunt_api.module	
+D	modules/custom/shunt/modules/shuntexample/README.txt	
+D	modules/custom/shunt/modules/shuntexample/shuntexample.info	
+D	modules/custom/shunt/modules/shuntexample/shuntexample.module	
+D	modules/custom/shunt/shunt.api.php	
+D	modules/custom/shunt/shunt.drush.inc	
+D	modules/custom/shunt/shunt.info	
+D	modules/custom/shunt/shunt.install	
+D	modules/custom/shunt/shunt.module	
+A	modules/custom/shunt_api/README.txt	b19ca04bbe1c00d06dec82c52cfadcc8
+A	modules/custom/shunt_api/shunt_api.info	800a0becca96fe91655d7eecb8d5a0cc
+A	modules/custom/shunt_api/shunt_api.install	c81a3bfff737113607f02dcbd7c3768e
+A	modules/custom/shunt_api/shunt_api.module	3d10148d70c229c7f5ccbb64b0b67f4d
 M	modules/custom/wh_core/wh_core.info	599ce245ddcb30fbdc49e268c9d476c9
 M	modules/custom/wh_feedback/wh_feedback.info	1d6aafcc888d025fa04b88a92a2d98b6
 M	modules/custom/wh_petition_reporting/wh_petition_reporting.info	da322b4b8b16cb2b6b5b27be6d9f9f47

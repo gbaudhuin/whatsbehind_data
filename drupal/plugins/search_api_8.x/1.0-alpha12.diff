@@ -13,10 +13,14 @@ M	search_api_db/search_api_db_defaults/config/optional/search_api.index.default_
 M	search_api_db/search_api_db_defaults/config/optional/views.view.search_content.yml	d22d29c786c91bb92c53efa81077f9fc
 M	search_api_db/search_api_db_defaults/search_api_db_defaults.info.yml	8a595d5e7af9cdce923984894a44ce9f
 M	search_api_db/src/Plugin/search_api/backend/Database.php	6ec94bb7cf82d5d7438fea6ebbc518d1
+D	search_api_db/src/Tests/BackendTest.php	
 A	search_api_db/src/Tests/IntegrationTest.php	34c522fa497162af171d2010f04f8800
+A	search_api_db/tests/src/Kernel/BackendTest.php	e0ac2d66a822cd5944120f4d07229edd
 M	src/Datasource/DatasourcePluginBase.php	a9acc9353710f186a8e2db31d033f6a9
 M	src/Entity/Index.php	fb7708c958a13a628be5c6a9b7b49d09
 M	src/Entity/Server.php	59db367938d65cd0ca4716670c695de4
+D	src/FacetApiQueryTypeMappingInterface.php	
+A	src/FacetsQueryTypeMappingInterface.php	019c25eb1b1037b378a9d97ebc1ac2bb
 M	src/Form/IndexFieldsForm.php	3bcdb1850042fc85bb7e535547dd0cae
 M	src/Form/IndexForm.php	81523ca2161337895582c67d1266fd71
 M	src/Form/IndexProcessorsForm.php	4df891648b274cb722083c7bd0d9eb94
@@ -32,9 +36,11 @@ M	src/Plugin/search_api/processor/ContentAccess.php	cb38533f55775df5e1a4b20b8530
 M	src/Plugin/search_api/processor/RenderedItem.php	dc7d679457c65caeb378d01111d6e937
 A	src/Plugin/views/EntityFieldRenderer.php	2a71dfc7245d7e2874d256d4646a2c3b
 A	src/Plugin/views/SearchApiHandlerTrait.php	5bc12358db14d4b494e25d381bc67ef3
+D	src/Plugin/views/argument/SearchApiArgument.php	
 M	src/Plugin/views/argument/SearchApiDate.php	d7f3f5cbb016f62a94e8209316d70f54
 M	src/Plugin/views/argument/SearchApiFulltext.php	57d7de3a4b471a3b52f57ad42505f513
 M	src/Plugin/views/argument/SearchApiMoreLikeThis.php	f2469caede55613429624100809c36ea
+A	src/Plugin/views/argument/SearchApiStandard.php	1a130a996a4cb6d930e0cf2df4b95b4c
 M	src/Plugin/views/argument/SearchApiTaxonomyTerm.php	17702e8ae834e94967158ca921d77f35
 M	src/Plugin/views/cache/SearchApiCache.php	21d4a8de4d3f073d18c3ecc0176b64e3
 A	src/Plugin/views/field/SearchApiBoolean.php	63029cd224a5911617ff6502dd44e91c
@@ -45,10 +51,26 @@ D	src/Plugin/views/field/SearchApiExcerpt.php
 A	src/Plugin/views/field/SearchApiFieldTrait.php	7194ef5d472aa4d0bb0ac7c4b3b32e17
 A	src/Plugin/views/field/SearchApiNumeric.php	9972b919b9796e922f63bd3c02081f50
 A	src/Plugin/views/field/SearchApiStandard.php	2db5b62b432cfd95d19ba484e7db65d0
+A	src/Plugin/views/filter/SearchApiBoolean.php	8bec2fa6b7152bdb604beacac9270ace
+A	src/Plugin/views/filter/SearchApiDatasource.php	b0c228a8c6e58a0db750b92a1b32866c
+A	src/Plugin/views/filter/SearchApiDate.php	aab8bb1e3803418b1051a998e06f4bd8
+A	src/Plugin/views/filter/SearchApiEntityBase.php	dba77d679e9cec9db249435bff67ae7b
+D	src/Plugin/views/filter/SearchApiFilterBoolean.php	
+D	src/Plugin/views/filter/SearchApiFilterDatasource.php	
+D	src/Plugin/views/filter/SearchApiFilterDate.php	
+D	src/Plugin/views/filter/SearchApiFilterEntityBase.php	
+D	src/Plugin/views/filter/SearchApiFilterNumeric.php	
+D	src/Plugin/views/filter/SearchApiFilterOptions.php	
+D	src/Plugin/views/filter/SearchApiFilterString.php	
+D	src/Plugin/views/filter/SearchApiFilterText.php	
 M	src/Plugin/views/filter/SearchApiFilterTrait.php	c3467d6f39b930c25b8532827e667769
 M	src/Plugin/views/filter/SearchApiFulltext.php	4ff75e12354f4c2c3aabef5a29084eb1
 M	src/Plugin/views/filter/SearchApiLanguage.php	3f81f1b8c7de7670a603d106f2edbc6a
+A	src/Plugin/views/filter/SearchApiNumeric.php	0499428c3a105d4994fa7bda5d831f3d
+A	src/Plugin/views/filter/SearchApiOptions.php	18a22c75f7ffd6b9bce7131e360b9571
+A	src/Plugin/views/filter/SearchApiString.php	acc1fdcd2a533d8a2c003b6dde07103e
 M	src/Plugin/views/filter/SearchApiTerm.php	259250bb87050e832aebc6d7d1f3d7d2
+A	src/Plugin/views/filter/SearchApiText.php	8aa483d547ce2ba7865a527949c24231
 M	src/Plugin/views/filter/SearchApiUser.php	d7ae87d36c8d56b419fb0bc49c0c9f76
 A	src/Plugin/views/join/SearchApiJoin.php	52eebeb34039ac16fec073b8995505f4
 M	src/Plugin/views/query/SearchApiQuery.php	534b832e052356662795300f9c7426f1
@@ -64,8 +86,12 @@ D	src/Tests/CustomDataTypesUnitTest.php
 M	src/Tests/HooksTest.php	73c55e83ab5ebaf49225c12f7adc1976
 M	src/Tests/IntegrationTest.php	ebed9709ed078f13e3d1da8ecfad7514
 M	src/Tests/LanguageIntegrationTest.php	7002cf1e52d53ae78c62f17340f033ec
+D	src/Tests/LanguageIntegrationUnitTest.php	
 M	src/Tests/OverviewPageTest.php	b6cafe11509d6046d906f3a33679ec14
+D	src/Tests/Processor/ContentAccessTest.php	
 M	src/Tests/Processor/ProcessorIntegrationTest.php	b35edf113bf97909ca7d2168db6d9d1c
+D	src/Tests/Processor/ProcessorTestBase.php	
+D	src/Tests/Processor/RenderedItemTest.php	
 M	src/Tests/ViewsTest.php	534fabc0c15aa14cf65918c2b37fd59e
 M	src/Tests/WebTestBase.php	5a8e12a306d1df79d070e1fbd74a4baa
 A	src/UncacheableDependencyTrait.php	f2af2c12bcde1cfc4fa6ffbe10bec763
@@ -88,5 +114,15 @@ M	tests/search_api_test_views/search_api_test_views.info.yml	a6ca0edca0c5df060dc
 A	tests/src/Kernel/CliTest.php	a4c806a3bda82636c0dce3c9733263a8
 A	tests/src/Kernel/CustomDataTypesTest.php	2af7acdf615c3ab02afcd2dc748045d6
 A	tests/src/Kernel/DependencyRemovalTest.php	599211e096237c885249184d00cc3ddf
+A	tests/src/Kernel/IndexStorageTest.php	5270bd7c2f5d826f32666979958dff85
+D	tests/src/Kernel/IndexStorageUnitTest.php	
+A	tests/src/Kernel/LanguageKernelTest.php	a7bdc7ceff9001c391ad8bf9c9e6de28
+A	tests/src/Kernel/Processor/ContentAccessTest.php	c39ebc2e5d18cf13d657e2c05bc9025f
+A	tests/src/Kernel/Processor/ProcessorTestBase.php	84a502e57ec8e867563770c71f742285
+A	tests/src/Kernel/Processor/RenderedItemTest.php	42b549b0d950a638c2d7badb3f89f6bc
+A	tests/src/Kernel/ServerStorageTest.php	0d7255d5fc1458bc78edac51f7abfc92
+D	tests/src/Kernel/ServerStorageUnitTest.php	
+A	tests/src/Kernel/ServerTaskTest.php	b9829365c86955f8b443c8f6dec9e717
+D	tests/src/Kernel/ServerTaskUnitTest.php	
 A	tests/src/Unit/EntitySerializationTest.php	9426440ef1b84d99b5720a2aed95ce38
 M	tests/src/Unit/Plugin/Processor/TransliterationTest.php	c1b07d14afb313e524fb4334142bcd87

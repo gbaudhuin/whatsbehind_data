@@ -5,17 +5,17 @@ D	geocoder.admin.inc
 D	geocoder.admin.js	
 D	geocoder.api.php	
 D	geocoder.drush.inc	
-M	geocoder.info	329033221d83b020dc4652a24e962f61
+M	geocoder.info	351bd7350545a6b63befeb8ac827e574
 M	geocoder.install	7ba4d958db313dd5c4d4e885a9bd7e3e
-M	geocoder.module	f948e7c2fe5a4896012abfb9a38b9d37
+M	geocoder.module	2fd77695a73f67d00ed85ff83e95f36a
 D	geocoder.services.inc	
 A	geocoder.services.yml	298bf767867c727ddaec72f73c38e3ec
 D	geocoder.widget.inc	
-A	modules/geocoder_field/geocoder_field.info	da6b6972b6fdbdac24ddbcb865bd3f06
+A	modules/geocoder_field/geocoder_field.info	468605d3a1dbc8dfd7fe241d6f7e8de0
 A	modules/geocoder_field/geocoder_field.module	1d8469a184ddde3b69cf08662a220594
-A	modules/geocoder_services/geocoder_services.info	724e199824591d656bd3806b0fff8c80
+A	modules/geocoder_services/geocoder_services.info	4e63200c0d5a4d5e948ad5faa89f33a4
 A	modules/geocoder_services/geocoder_services.module	3d226929de3629f9ac4a9ebb7c709800
-A	modules/geocoder_services/geocoder_services.services.inc	ffbda51afbe4bf4a9b987bd8805564d4
+A	modules/geocoder_services/geocoder_services.services.inc	1e5a977ff20dad508c821bad3a6e68cb
 D	plugins/geocoder_handler/bing.inc	
 D	plugins/geocoder_handler/exif.inc	
 D	plugins/geocoder_handler/google.inc	
@@ -23,7 +23,9 @@ D	plugins/geocoder_handler/gpx.inc
 D	plugins/geocoder_handler/json.inc	
 D	plugins/geocoder_handler/kml.inc	
 D	plugins/geocoder_handler/latlon.inc	
+D	plugins/geocoder_handler/mapbox.inc	
 D	plugins/geocoder_handler/mapquest_nominatim.inc	
+D	plugins/geocoder_handler/mapzen.inc	
 D	plugins/geocoder_handler/openstreetmap_nominatim.inc	
 D	plugins/geocoder_handler/wkt.inc	
 D	plugins/geocoder_handler/yahoo.inc	

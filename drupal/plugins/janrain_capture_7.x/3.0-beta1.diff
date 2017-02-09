@@ -7,6 +7,8 @@ D	includes/janrain_capture.signin.inc
 M	includes/janrain_capture.widget.inc	f77ad4b019d7985f5872c0acc9aad154
 M	janrain-capture-screens/edit-profile.html	a61d61a619aaec663a69ff87c580ec34
 M	janrain-capture-screens/signin.js	d6ff42b83013bbf3a69cad18c6cc8d76
+D	janrain-capture-screens/stylesheets/janrain.css	
+A	janrain-capture-screens/stylesheets/styles.css	675e3384cd3e1ccd74a101678eeb3f79
 M	janrain_capture.api.php	f23c93ce2b7998f900dc1d196d95ee08
 M	janrain_capture.css	beefa3cff434c3fd5304484bdfa74760
 M	janrain_capture.info	fa806b29d04827ba5e5172558166b1a3

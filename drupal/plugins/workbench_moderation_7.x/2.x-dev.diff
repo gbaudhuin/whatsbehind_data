@@ -27,7 +27,6 @@ D	plugins/page_manager/tasks/nodedraft.inc
 D	plugins/page_manager/tasks/noderevision.inc	
 D	tests/external_node_update.test	
 D	tests/workbench_moderation.files.test	
-D	tests/workbench_moderation.perms.test	
 M	tests/workbench_moderation.test	df494057a4fb661a07029e2e90fce9ff
 D	tests/workbench_moderation_test.info	
 D	tests/workbench_moderation_test.module	

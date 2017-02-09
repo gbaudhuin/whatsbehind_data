@@ -1,14 +1,24 @@
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+D	custom_search-result.tpl.php	
+D	custom_search-results.tpl.php	
+D	custom_search-sort-form.tpl.php	
 M	custom_search.admin.inc	3799ad25f589bcca0e5237e95d0e440a
 M	custom_search.info	9ab3c256d588dbd6e9118f0619fc3c1c
+D	custom_search.js	
 M	custom_search.module	ee99837da6368bb0909c8f1e0a3e0208
 D	custom_search.pages.inc	
+D	custom_search_sort.js	
 A	includes/apachesolr_search.inc	8987418057fad065cc5647d5a217fb24
 A	includes/google_appliance.inc	2d36f88b887d67028e0a13d839aa5bc5
 A	includes/luceneapi_node.inc	f9052decc3d922e53dba86f17e7b788e
+A	js/custom_search.js	772c3e5dcf676beecb7e3dc7a34ca756
+A	js/custom_search_sort.js	9767255603fa85046177085f9494ad70
 M	modules/custom_search_blocks/custom_search_blocks.info	09d01d356e8f04924912b7c47245670b
 M	modules/custom_search_i18n/custom_search_i18n.info	c3d9ea2b529d1e9efa8c8c0353d8bd0a
 M	modules/custom_search_i18n/custom_search_i18n.module	bed3c11942b9cc7fe9f8e24a90af0bcc
 M	modules/custom_search_taxonomy/custom_search_taxonomy.info	013183e32a98707d4d127bb5419c4c0f
 M	modules/custom_search_taxonomy/custom_search_taxonomy.module	b112a503a9721519d102bd1b7616e660
+A	theme/custom_search-result.tpl.php	5d6d085ff76eab60c91764d1b3eb1b12
+A	theme/custom_search-results.tpl.php	b30c838149114dbc93ada8a407a0dddf
+A	theme/custom_search-sort-form.tpl.php	c8fa318384fd299fb1cf3e4d142a1a74
 A	theme/custom_search.pages.inc	0ed8948ad273234840a00a793512fcf9

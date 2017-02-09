@@ -1,7 +1,1 @@
-A	.gitignore	d09b07d62883cc810a3d595512941c4d
-A	css/images/loading.gif	49b29e9f0a24be796326e1f1800d78a4
-A	css/tracking_code.css	667427966965c212657e5a80e3b22027
-A	tracking_code.admin.inc	717b2c3d69b4e231995b62a5bcd96193
-A	tracking_code.info	6407b20e3f1085010cb590c6abe96299
-A	tracking_code.install	71c1a98d1873980f15aee8c3be3cf64e
-A	tracking_code.module	08c1b856879faa25c82bb87e97c900eb
+M	tracking_code.info	6407b20e3f1085010cb590c6abe96299

@@ -1,5 +1,7 @@
 A	.travis.yml	fd9d82bca8338e6bda42909c755c55fe
 M	CHANGELOG.txt	78c69ba5fcbc291a833eb643c53ffd32
+A	README.md	60dedf364766bf6e7ab1fd204c1b3897
+D	README.txt	
 M	filefield_paths.drush.inc	0cf974a3317d3ecebc242c5bc8e70f37
 M	filefield_paths.info	6278c625b97d0fc35d5cc64106edffef
 M	filefield_paths.install	e454a49d63d59db4ff3caacea6aee1f3

@@ -1,5 +1,7 @@
 M	CHANGELOG.txt	785e1e5b1ed78b165794a160ac16da06
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	0ed332aade695f8953d85d292cf9608c
+D	README.txt	
 D	css/seckit.override_style.css	
 M	includes/seckit.form.inc	5d996b8bcbab718f487de5188f12844f
 M	js/seckit.listener.js	4febd89923dbdefd77deb4b9f533d8fc

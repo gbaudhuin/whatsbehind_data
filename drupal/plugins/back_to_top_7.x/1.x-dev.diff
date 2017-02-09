@@ -1,12 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	10f49febbe58ec4985733f35f5773637
-A	back_to_top.admin.inc	a5401adfc43703efea136df7c5ab8216
-A	back_to_top.info	a602afa120e67273cdc634633bfd1cfa
-A	back_to_top.module	f40132afee70ac2f8a3c7df3ff143653
-A	backtotop.png	5c934d07ffdc087ba093237c0ef600be
-A	backtotop2x.png	7eeda34b9560eacca05d7b111f9076ba
-A	css/back_to_top.admin.css	e80444c077033aa9ea9e7ccd4861e179
-A	css/back_to_top.css	9c5a68419f605b62054cf334a62850c0
-A	css/back_to_top_text.css	77a5b6a698a73bfc7ad03af7eeaad9b6
-A	js/back_to_top.admin.js	ac4c994c569b464310cf19316cead13c
-A	js/back_to_top.js	021916ee73edd8ebe7cbb438dc7b07da
+M	back_to_top.admin.inc	a5401adfc43703efea136df7c5ab8216
+M	back_to_top.info	a602afa120e67273cdc634633bfd1cfa

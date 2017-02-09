@@ -1,26 +1,14 @@
-M	README.txt	5170a6da3c2db0b80bd17733511a5575
-D	config/install/eu_cookie_compliance.settings.yml	
-D	config/schema/eu_cookie_compliance.schema.yml	
-M	css/eu_cookie_compliance.css	ce50d5fe1518a2887f1eaf2958e76c2d
-D	eu_cookie_compliance.config_translation.yml	
-M	eu_cookie_compliance.info.yml	3fa09529b0984318b575dadfb5621fe6
-M	eu_cookie_compliance.install	7d009f3f5dce7abf45eaa5ecbf8058ed
-D	eu_cookie_compliance.links.menu.yml	
-D	eu_cookie_compliance.links.task.yml	
-M	eu_cookie_compliance.module	1c1e630363aeae5a218f1cef6916350b
-D	eu_cookie_compliance.permissions.yml	
-D	eu_cookie_compliance.post_update.php	
-M	eu_cookie_compliance.routing.yml	c06a07a2c40a07a1c390877ee5cd2447
-M	js/eu_cookie_compliance.js	7c6503fe22a87b8559c9582e340c54fb
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	5170a6da3c2db0b80bd17733511a5575
+A	css/eu_cookie_compliance.css	ce50d5fe1518a2887f1eaf2958e76c2d
+A	eu_cookie_compliance.info.yml	3fa09529b0984318b575dadfb5621fe6
+A	eu_cookie_compliance.install	7d009f3f5dce7abf45eaa5ecbf8058ed
+A	eu_cookie_compliance.libraries.yml	2bd5482b31fb7bca8476d48fe956f062
+A	eu_cookie_compliance.module	1c1e630363aeae5a218f1cef6916350b
+A	eu_cookie_compliance.routing.yml	c06a07a2c40a07a1c390877ee5cd2447
+A	images/gradient.png	3f22609e55ceadc6a1a3525d0c59bcb4
+A	images/transparent.png	2c36ff716cc2fec0616a4f1a8cab1d0a
+A	js/eu_cookie_compliance.js	7c6503fe22a87b8559c9582e340c54fb
 A	lib/Drupal/eu_cookie_compliance/Form/EuCookieComplianceAdminForm.php	0562355157ed26f56c0d71ea402c8113
-D	src/Form/EuCookieComplianceConfigForm.php	
-D	src/Tests/EuCookieComplianceConfigFormTest.php	
-D	src/Tests/EuCookieComplianceTestBase.php	
-D	src/Tests/Update/EuCookieComplianceUpdateTest.php	
-M	templates/eu_cookie_compliance_popup_agreed.html.twig	d5f311f8fdae9c44a2fdc5b1916bdef0
-M	templates/eu_cookie_compliance_popup_info.html.twig	165aea69a225a82d8b4d7e6c430923b1
-D	tests/fixtures/update/drupal-8.eu-cookie-compliance-beta5.standard.php.gz	
-D	tests/fixtures/update/drupal-8.user-role-manager-2774143.php	
-D	tests/fixtures/update/user.role.secondtestfor2774143.yml	
-D	tests/fixtures/update/user.role.testfor2774143.yml	
-D	tests/modules/eu_cookie_compliance_test.info.yml	
+A	templates/eu_cookie_compliance_popup_agreed.html.twig	d5f311f8fdae9c44a2fdc5b1916bdef0
+A	templates/eu_cookie_compliance_popup_info.html.twig	165aea69a225a82d8b4d7e6c430923b1

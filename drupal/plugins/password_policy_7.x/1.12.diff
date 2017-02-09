@@ -1,4 +1,6 @@
 M	README.txt	32e9f84fbd60cff1abef218a6f7b8772
+A	constraints/constraint_character_types.inc	aa713e74e1dc3c936c3f5c8f973cca6b
+D	constraints/constraint_complexity.inc	
 M	constraints/constraint_delay.inc	9859274398749d163c6d668985e0f62c
 M	constraints/constraint_digit_placement.inc	aed6e6586c230042f98c64135b9347a9
 M	constraints/constraint_history.inc	ee4c855b878215ed74d0bf98a6a27317

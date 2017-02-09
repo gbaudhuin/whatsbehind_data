@@ -1,13 +1,1 @@
-A	CHANGELOG.txt	2857f0e8ae1cb2c073880030b29bd5b4
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	eed6e343dca2481ca9737aa71b56ead4
-A	field_permissions.admin.css	dbc2aa3e441a78890e72f957dbb940cb
-A	field_permissions.admin.inc	ec99a241a2c27fe387dbce40725ae6d4
-A	field_permissions.admin.js	e569b5cc32b3e3f9833f3193f55ceaba
-A	field_permissions.api.php	42548131c94549f61515b1ad94fcf6c2
-A	field_permissions.info	48cab30a01e233e93f19be7b84025eaf
-A	field_permissions.install	1db654dadea2c4bd6fc40d32c6bbcb99
-A	field_permissions.module	fb976f0df36fc396f2ed430bcb103e1e
-A	field_permissions.test	a1052d14782c64885e9d91ba0cbb47f7
-A	images/field_permissions.status-off.png	42492684e24356a4081134894eabeb9e
-A	images/field_permissions.status-on.png	c9b528b9541e127967eda62f79118ef0
+M	field_permissions.info	48cab30a01e233e93f19be7b84025eaf

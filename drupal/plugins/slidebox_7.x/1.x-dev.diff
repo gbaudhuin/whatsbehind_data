@@ -1,9 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	css/slidebox.css	709e76376701f0ff737b24ac623b4e7b
-A	images/close.gif	b575b2f36529144a254c7a6ccb53d3b0
-A	images/open.gif	1040024f3e83c58de46cfa75bb7a441d
-A	js/slidebox.js	30c51b5f9038c33f18db1042006fa992
-A	slidebox.admin.inc	a667455600b10b0c049d9608a4237178
-A	slidebox.info	dd4adbcbe0c8f026bf51857b0c934326
-A	slidebox.module	6ec0acef0d2a34fd20dbee5e95ef7eb4
-A	slidebox.tpl.php	cd38e59de85ecb84f992f0dbda770ad1
+M	slidebox.info	dd4adbcbe0c8f026bf51857b0c934326

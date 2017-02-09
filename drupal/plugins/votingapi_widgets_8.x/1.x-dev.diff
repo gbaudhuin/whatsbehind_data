@@ -1,0 +1,15 @@
+M	README.md	9a264bface979a0d2f2c66039ddd5f5a
+M	js/fivestars.js	c3bfe25158da66087198b88d240fe7d8
+M	js/useful.js	c0df20461d491e3cc7475ef30200b358
+M	src/FieldPermissions.php	281794e8fd45957c3f6a7727a16032f1
+M	src/Form/BaseRatingForm.php	1111048ea0e298f9a9c098e4d6875b9c
+M	src/Plugin/Field/FieldFormatter/VotingApiFormatter.php	73719082174f1878f8636dc9de1175da
+M	src/Plugin/Field/FieldType/VotingApiField.php	b440a34ddadbb4bf25b44e9a26eb55ac
+M	src/Plugin/Field/FieldWidget/VotingApiWidget.php	73558d41e46842a3a9756ca4f1d5a456
+M	src/Plugin/VotingApiWidgetBase.php	f2c84820fd5fbcd007a3769e87f3d4d1
+M	src/Plugin/VotingApiWidgetInterface.php	160d905ca170c8460b1b8d4626c3b453
+M	src/Plugin/votingapi_widget/FiveStarWidget.php	d1d4d99f9e5fa69fd2675cda86e0a7c0
+M	src/Plugin/votingapi_widget/UsefulWidget.php	fb82121e9b175d44e938a183255fad6d
+M	src/VotingApiLoader.php	780a0c7eeceb344167a57d753cf14024
+M	votingapi_widgets.info.yml	d7619cbd43798c4dbdae5654c9cf1ec2
+M	votingapi_widgets.services.yml	8a42d9c3b17ec811c5b68b6bd696a5b4

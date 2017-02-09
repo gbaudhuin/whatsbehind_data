@@ -1,0 +1,36 @@
+M	README.md	30693afdceed4e111cc4bab315b9ef69
+M	acquia_lift.info.yml	a136bebf5d0cdd6187c7b9e152ca0814
+M	acquia_lift.install	b0d69e611095da4b41e1f101fa50fe4f
+D	acquia_lift.libraries.yml	
+M	acquia_lift.module	f47fb7c00c28bda499902dcdf5aba096
+M	acquia_lift.routing.yml	3c4c2ab0b7b54e6fd4edf5c5694c9985
+M	acquia_lift.services.yml	2a613e91c44f0173d6a9fc80a2261c7c
+M	config/install/acquia_lift.settings.yml	add06db5af6a9db7da8d17da96603f16
+M	config/schema/acquia_lift.settings.yml	5f50c2b4ff4d3e4f234308a7898b3d43
+D	js/acquia_lift.js	
+D	qunit/acquia_lift.html	
+D	qunit/acquia_lift.tests.js	
+D	src/Controller/TestController.php	
+D	src/Exception/DataApiCredentialException.php	
+D	src/Exception/DataApiException.php	
+M	src/Exception/MissingSettingsException.php	7a3d0db762fe4d99fee2e938762ac2c3
+M	src/Form/AdminSettingsForm.php	8562d1eccde4a41b17f048285fd085eb
+D	src/Service/Api/DataApi.php	
+D	src/Service/Api/DataApiInterface.php	
+M	src/Service/Context/PageContext.php	052d6728d58c7f2f0e00d40f3a66fc61
+M	src/Service/Context/PathContext.php	83bf31f7ad7670727b1666d8076918c9
+M	src/Service/Helper/HelpMessageHelper.php	f7126e26534fb2f009b7840b1a48c605
+M	src/Service/Helper/NodeTypeThumbnailFormHelper.php	4abae4fbb0aabb481455432d977b96c5
+M	src/Service/Helper/PathMatcher.php	2107c49d0b1362d33f16007395047b54
+M	src/Service/Helper/SettingsHelper.php	658d701f3fcae134516c90dfa15831bd
+M	src/Tests/FixturesDataTrait.php	d1d9251a9f430b73579621de56e17c45
+M	src/Tests/SettingsDataTrait.php	7495d20bdeddec7a45ffead05dee6a2f
+M	src/Tests/SettingsTest.php	6a792fb8551c9742fa364f55856e7c66
+M	tests/src/Unit/Polyfill/Drupal.php	8f987f6d663328fdc5a59272ca26a610
+M	tests/src/Unit/Service/Context/PageContextTest.php	ed3e65d9c4497c63ccc94d6fef05576d
+M	tests/src/Unit/Service/Context/PathContextTest.php	9baf9d37f18012a3fca12f3f4f945a40
+M	tests/src/Unit/Service/Helper/HelpMessageHelperTest.php	45212a6bbefdd02ab5785910b7a0c603
+M	tests/src/Unit/Service/Helper/NodeTypeThumbnailFormHelperTest.php	63324bf4e374f19e70f04e573ed3c735
+M	tests/src/Unit/Service/Helper/PathMatcherTest.php	20fde6d784efc5eb326327aff22dc27a
+M	tests/src/Unit/Service/Helper/SettingsHelperTest.php	f37a8594d4e2d6266b5fadc729dcf87a
+M	tests/src/Unit/Traits/SettingsDataTrait.php	40e95757996f2d627530004517c6d052

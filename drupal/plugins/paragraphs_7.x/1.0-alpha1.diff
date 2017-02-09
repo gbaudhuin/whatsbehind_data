@@ -1,35 +1,7 @@
-D	ParagraphsItemEntity.inc	
-D	ParagraphsItemMetadataController.inc	
-D	migrate/destinations/MigrateDestinationParagraphsItem.inc	
-D	migrate/fields/ParagraphsMigrateParagraphsFieldHandler.inc	
-D	modules/paragraphs_bundle_permissions/paragraphs_bundle_permissions.info	
-D	modules/paragraphs_bundle_permissions/paragraphs_bundle_permissions.module	
-D	modules/paragraphs_i18n/paragraphs_i18n.info	
-D	modules/paragraphs_i18n/paragraphs_i18n.module	
-M	paragraphs.admin.inc	dca6897addc2acdc28232f9777af3e85
-D	paragraphs.ajax.inc	
-D	paragraphs.features.inc	
-D	paragraphs.field_formatter.inc	
-D	paragraphs.field_widget.inc	
-M	paragraphs.info	cf5c5ef17446462b5097d3762b963b78
-M	paragraphs.install	c1b59f9fbc2a549f9365376e118e96c0
-D	paragraphs.js	
-D	paragraphs.migrate.inc	
-M	paragraphs.module	615b92f98805866375aaa740df9c1165
-D	paragraphs.node_clone.inc	
-D	plugins/panelizer/entity/PanelizerEntityParagraphsItem.class.php	
-D	plugins/panelizer/entity/paragraphs_item.inc	
-D	tests/paragraphs.test	
-D	tests/paragraphs_test/paragraphs_test.features.field_base.inc	
-D	tests/paragraphs_test/paragraphs_test.features.field_instance.inc	
-D	tests/paragraphs_test/paragraphs_test.features.inc	
-D	tests/paragraphs_test/paragraphs_test.features.user_permission.inc	
-D	tests/paragraphs_test/paragraphs_test.features.user_role.inc	
-D	tests/paragraphs_test/paragraphs_test.info	
-D	tests/paragraphs_test/paragraphs_test.module	
-D	tests/paragraphs_test/paragraphs_test.panelizer.inc	
-D	tests/paragraphs_test/paragraphs_test.strongarm.inc	
-D	theme/paragraphs-items.tpl.php	
-D	theme/paragraphs.theme.inc	
-D	views/paragraphs.views.inc	
-D	views/paragraphs_handler_relationship.inc	
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	799fb78f3cc51a4b162af1599b9cc892
+A	paragraphs-item.tpl.php	dffb6baaa4c04ae2e1f4be8cd79e5bcb
+A	paragraphs.admin.inc	dca6897addc2acdc28232f9777af3e85
+A	paragraphs.info	cf5c5ef17446462b5097d3762b963b78
+A	paragraphs.install	c1b59f9fbc2a549f9365376e118e96c0
+A	paragraphs.module	615b92f98805866375aaa740df9c1165

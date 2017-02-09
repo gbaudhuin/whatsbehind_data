@@ -1,67 +1,22 @@
 A	CHANGELOG.txt	d20920bdf720a014839c254ff0c287ab
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	193df7ccc2cbf8fa40df0639934c7069
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	193df7ccc2cbf8fa40df0639934c7069
 A	TODO.txt	e5a68e1272c1e724945f77636b30146d
 A	relation.admin.inc	11c24d9bdf6800780ccffe0dabb92c18
-D	relation.ctools.inc	
-M	relation.database.inc	3ac99a599de08f7a400d06747ce0a33e
-D	relation.drush.inc	
-M	relation.info	63e058bd7ba22479c18d42c90ce117e5
-M	relation.install	080853c50e20d84981a75c54d25d2aeb
-M	relation.module	c6ee49386ac155bc211cabc479c9ffe1
-D	relation.rules.inc	
-D	relation.tokens.inc	
+A	relation.api.php	9aa118ecc9ce0b69b10ab9d05f2880ba
+A	relation.database.inc	3ac99a599de08f7a400d06747ce0a33e
+A	relation.info	63e058bd7ba22479c18d42c90ce117e5
+A	relation.install	080853c50e20d84981a75c54d25d2aeb
+A	relation.module	c6ee49386ac155bc211cabc479c9ffe1
 A	relation_dropzone/relation_dropzone.css	b2034dbbc1976892d7937166931ade7e
 A	relation_dropzone/relation_dropzone.info	1f586c6075294ef35ffc9e6ce3f756fd
 A	relation_dropzone/relation_dropzone.install	aec528d93c2fa37c2066377bf574bc03
 A	relation_dropzone/relation_dropzone.module	db59207218f96563f132d05bedfd8654
 A	relation_dropzone/tests/relation_dropzone.test	32fa1ce9e21a5d31fb8b76d964d2435e
-M	relation_dummy_field/relation_dummy_field.info	db9bfb09da85cf89999971239ccc84bc
-M	relation_dummy_field/relation_dummy_field.module	22a6fb58c6b285cee528f9bc1ddb5fc0
-M	relation_dummy_field/tests/relation_dummy_field.test	8be1cad1a3662ddc37054816d8c1ac7e
-D	relation_endpoint.info	
-D	relation_endpoint.install	
-D	relation_endpoint.module	
-D	relation_entity_collector/relation_entity_collector.css	
-D	relation_entity_collector/relation_entity_collector.info	
-D	relation_entity_collector/relation_entity_collector.module	
-D	relation_entity_collector/tests/relation_entity_collector.test	
-D	relation_feeds/RelationFeedsProcessor.inc	
-D	relation_feeds/relation_feeds.info	
-D	relation_feeds/relation_feeds.install	
-D	relation_feeds/relation_feeds.module	
-D	relation_feeds/tests/feeds/directional_relations.csv	
-D	relation_feeds/tests/feeds/user_relations.csv	
-D	relation_feeds/tests/relation.feeds_processor.test	
-D	relation_migrate/relation_migrate.destination.inc	
-D	relation_migrate/relation_migrate.info	
-D	relation_migrate/relation_migrate.install	
-D	relation_migrate/relation_migrate.migration.inc	
-D	relation_migrate/relation_migrate.module	
-D	relation_migrate/relation_migrate.modules.inc	
-D	relation_migrate/relation_migrate.source.inc	
-D	relation_migrate/tests/relation.migrate.test	
-D	relation_migrate/tests/relation_migrate_test.info	
-D	relation_migrate/tests/relation_migrate_test.module	
-D	relation_ui.css	
-D	relation_ui.info	
-D	relation_ui.module	
-D	tests/relation.ctools.test	
-D	tests/relation.rules.test	
-M	tests/relation.test	85cbd0411142f49b9e60e8677187dc26
-D	tests/relation.views.test	
-D	tests/relation_ctools_test.info	
-D	tests/relation_ctools_test.module	
-D	tests/relation_ctools_test.relation_type_default.inc	
-D	tests/relation_rules_test.info	
-D	tests/relation_rules_test.module	
+A	relation_dummy_field/relation_dummy_field.info	db9bfb09da85cf89999971239ccc84bc
+A	relation_dummy_field/relation_dummy_field.module	22a6fb58c6b285cee528f9bc1ddb5fc0
+A	relation_dummy_field/tests/relation_dummy_field.test	8be1cad1a3662ddc37054816d8c1ac7e
+A	tests/relation.test	85cbd0411142f49b9e60e8677187dc26
 A	tests/relation_test.info	b397bdd51b83abfd9473bf59afc97f07
 A	tests/relation_test.install	59dc3b2e472ec6f15bba9e73cdf6ed93
 A	tests/relation_test.module	2ceb1eb29ff9b6cef308a38415aef227
-D	tests/relation_ui.test	
-D	views/relation.views.inc	
-D	views/relation.views_default.inc	
-D	views/relation_handler_relationship.inc	
-D	views/views_handler_field_relation_link.inc	
-D	views/views_handler_field_relation_link_delete.inc	
-D	views/views_handler_field_relation_link_edit.inc	

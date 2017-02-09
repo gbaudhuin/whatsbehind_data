@@ -14,12 +14,12 @@ A	tests/drupal8/config/schema/test.data_types.schema.yml	cff91abdccdc98cbb60c2f5
 A	tests/drupal8/config/schema/test.schema.yml	5ccad09946ed3858b281d9f4a49fc932
 A	tests/drupal8/config/schema/test.sequences.schema.yml	35bb8b3227807c5198bdb604a7847ad6
 A	tests/drupal8/config/schema/test.variables.schema.yml	4e27d2b1b401759906b49f41e1e47d2f
-A	tests/potx.test	55ea35ad2d08559215f8004ccd2f9a06
-A	tests/potx_test.js	df8a71deecebcff65979ada19d557c0d
-A	tests/potx_test_5.module	a315432f8039e6add0a04086b7298c92
-A	tests/potx_test_6.info	633501b5151ebf2f9000d1145fca2efb
-A	tests/potx_test_6.module	11be9e60d9c734043c1be80541e88848
-A	tests/potx_test_7.module	8b76c35ca0dbd540016c1a15d24f18fa
+M	tests/potx.test	55ea35ad2d08559215f8004ccd2f9a06
+M	tests/potx_test.js	df8a71deecebcff65979ada19d557c0d
+M	tests/potx_test_5.module	a315432f8039e6add0a04086b7298c92
+M	tests/potx_test_6.info	633501b5151ebf2f9000d1145fca2efb
+M	tests/potx_test_6.module	11be9e60d9c734043c1be80541e88848
+M	tests/potx_test_7.module	8b76c35ca0dbd540016c1a15d24f18fa
 A	tests/potx_test_8.breakpoints.yml	9d8236d96e97173d668d941aa6b00828
 A	tests/potx_test_8.html.twig	b523f94e9da831da33d4f5db7792a629
 A	tests/potx_test_8.info.yml	dcd4f997e24e572290ec9c33a02eb2d9
@@ -38,14 +38,17 @@ A	tests/potx_test_yml/yaml_translation_patterns.yml	467345b8ba09bbcc8069e86c891e
 D	translations/de.po	
 D	translations/el.po	
 D	translations/es.po	
+D	translations/et.po	
 D	translations/fr.po	
 D	translations/hu.po	
 D	translations/ja.po	
 D	translations/nl.po	
+D	translations/pl.po	
 D	translations/potx.pot	
+D	translations/pt-br.po	
 D	translations/ru.po	
-D	translations/sv.po	
 D	translations/uk.po	
+D	translations/zh-hans.po	
 A	vendor/Symfony/Component/Yaml/CHANGELOG.md	00392ab3e6199c8363f9e53646f7da22
 A	vendor/Symfony/Component/Yaml/Dumper.php	42407158b32c6628e0969cabf060ff6c
 A	vendor/Symfony/Component/Yaml/Escaper.php	fac0b2587fc02dcda64f84a4f9280058

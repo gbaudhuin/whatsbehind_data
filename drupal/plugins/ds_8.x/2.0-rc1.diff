@@ -8,6 +8,8 @@ D	includes/theme.inc
 M	modules/ds_devel/ds_devel.info.yml	0c4e1785da3b25544f846cec6fa71121
 M	modules/ds_extras/README.txt	d5926feee24fc4e984cced1b29a8ab38
 M	modules/ds_extras/config/install/core.entity_view_mode.node.revision.yml	9e555c14c592b661ffe6582e818289f9
+D	modules/ds_extras/config/install/ds.extras.yml	
+A	modules/ds_extras/config/install/ds_extras.settings.yml	4f613f7ce9f95e8d31d8745755bfb623
 M	modules/ds_extras/config/schema/ds_extras.schema.yml	90f99e2d90bde8c1e860dfb4ac0a055c
 M	modules/ds_extras/ds_extras.info.yml	bff83992dff18a107d6d54eb8ea1b9bf
 M	modules/ds_extras/ds_extras.install	fc3b567546a05012f493b306afe709f7

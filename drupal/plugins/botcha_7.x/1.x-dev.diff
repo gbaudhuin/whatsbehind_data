@@ -1,15 +1,1 @@
-A	CHANGELOG.txt	f558bd043df16d319d215eda9597184b
-A	INSTALL.txt	fbd55910dbd9b55bc5e74932a629d562
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	7266307ebc46ff2c7bff584467f77f41
-A	TODO.txt	1552f2b783cacc3772f383d6efbea565
-A	botcha.botcha.inc	c2d01c11126bde5398e41b28b010dcc4
-A	botcha.css	f0d14277040b872b09741b46b8fb2a05
-A	botcha.inc	1e8bd4a31182428522e9501e07a73cd0
-A	botcha.info	8a5df0cd34b72bb44f7b7c9e3b52bee3
-A	botcha.install	43a7d2a0bcb4f5d3dd47ae5b370ced02
-A	botcha.js	8ed3909cfd37f7f6811d171e7871d946
-A	botcha.module	27ecb1f2f970ecb6ac6a19f522990ff6
-A	botcha.pages.inc	68743dc46fdfe4686fffd214cfd5942c
-A	botcha.rules.inc	94a389f1edad6acbec1eac1871240f36
-A	botcha.test	2b262ed60b8931b816014bef3da89b16
+M	botcha.info	8a5df0cd34b72bb44f7b7c9e3b52bee3

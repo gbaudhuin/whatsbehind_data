@@ -1,4 +1,8 @@
+D	build-commons.make	
+A	build-drupal_commons-dev.make	d45ac45d9e9494a699c162ecab50d69b
+A	build-drupal_commons-prod.make	5500e4409250d05fa87a01f4cd01b45b
 D	build-drupal_commons.make	
+D	build-drupal_commons.old.make	
 M	drupal-org.make	e4a55a4ffc4693557e5f342326549304
 M	modules/features/commons_admin/commons_admin.info	524a18f0c7e5c0638beac84412652612
 M	modules/features/commons_answers/commons_answers.info	626d6238690c697f0f33785b86cf00cf

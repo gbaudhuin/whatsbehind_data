@@ -1,8 +1,3 @@
-A	CHANGELOG.txt	c25a661a94d16cacf4161ac3f457ac25
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	272d681d5d5375a236db2906d43cfe2d
-A	UPGRADE.txt	45be4b5aec22e2b0944a7ad4c85ff023
-A	spamicide.inc	396309e6f02ce05b85607c7b0d100f64
-A	spamicide.info	af282fa0e6ce932d5d8ccb2483f53226
-A	spamicide.install	dab5548ba95c349329c42eb1eaf65742
-A	spamicide.module	fb8e3aa39f47f8e1186b6b901aa7553c
+M	spamicide.info	af282fa0e6ce932d5d8ccb2483f53226
+M	spamicide.install	dab5548ba95c349329c42eb1eaf65742
+M	spamicide.module	fb8e3aa39f47f8e1186b6b901aa7553c

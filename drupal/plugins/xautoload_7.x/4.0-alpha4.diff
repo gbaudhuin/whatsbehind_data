@@ -1,3 +1,6 @@
+A	legacy/lib/FinderPlugin/CheckIncludePath.php	65256ca3736e10bcde7d162d56b204a3
+A	legacy/lib/FinderPlugin/Interface.php	003217eb0de1df1135c9536ee5a45c32
+A	legacy/lib/InjectedAPI/hookXautoload.php	f3d4a0f7e1c19930f8196bbc232843d1
 A	lib/Adapter/ClassFinderAdapter.php	d3e692e9adf34dd620b5dc3f91ee02d1
 A	lib/Adapter/ClassFinderAdapterInterface.php	9c69b4bbcb7361085c987fb0391c209b
 A	lib/Adapter/DrupalExtensionAdapter.php	324a8141492151ae841b9655d6d83778
@@ -15,15 +18,18 @@ D	lib/BootSchedule/Proxy.php
 A	lib/CacheManager/CacheManager.php	4c68dc6566b3def3ee167ab93e3009be
 A	lib/CacheManager/CacheManagerObserverInterface.php	7a061724f9967dc745723637d1b6ee16
 A	lib/ClassFinder/ClassFinder.php	defe79e836f6c31d2c26e65612cb4723
+A	lib/ClassFinder/ClassFinderInterface.php	820660a86946cafe19454338e90d97ef
 A	lib/ClassFinder/CommonRegistrationInterface.php	9aea81b0b4d0aeeb57d3eb1a72e2a9fe
 A	lib/ClassFinder/ExtendedClassFinderInterface.php	f9bd7f512ae88093d18475176657943a
 A	lib/ClassFinder/GenericPrefixMap.php	737f34adac8cf66e548e4d8c355e4d76
 D	lib/ClassFinder/Helper/Map.php	
 A	lib/ClassFinder/InjectedApi/AbstractInjectedApi.php	fe8b8be02cc7fa3ca460ed1846a67825
 A	lib/ClassFinder/InjectedApi/CollectFilesInjectedApi.php	13c30a1d7898c3d0c911756b39c47922
+A	lib/ClassFinder/InjectedApi/FindFileInjectedApi.php	9caaf9b3ee42b52ff28b7bc1d36e28d7
 A	lib/ClassFinder/InjectedApi/InjectedApiInterface.php	0e3d35c5c87cd2b82b81e25c92184d95
 A	lib/ClassFinder/InjectedApi/LoadClassGetFileInjectedApi.php	e6394a32ebc8628179ae25bbdf916684
 A	lib/ClassFinder/InjectedApi/LoadClassInjectedAPI.php	b0469ac00f9350ad3619f1b2549e7c21
+D	lib/ClassFinder/Interface.php	
 D	lib/ClassFinder/NamespaceOrPrefix.php	
 A	lib/ClassFinder/Plugin/DrupalExtensionNamespaceFinderPlugin.php	c46ebd52c9a72e31550ba4976e2d8fdf
 A	lib/ClassFinder/Plugin/DrupalExtensionUnderscoreFinderPlugin.php	8174b250712d1f6764d0431125ab7502
@@ -39,6 +45,8 @@ D	lib/ClassLoader/ApcAggressive.php
 D	lib/ClassLoader/ApcCache.php	
 A	lib/ClassLoader/ApcClassLoader.php	e828ca01ebc6bea47cac07c331bf6470
 A	lib/ClassLoader/CacheNotSupportedException.php	06866e5bea8ebdcdfe869a07de95b4c9
+A	lib/ClassLoader/ClassLoaderInterface.php	f0e18bd751c339d5337f5c8402bf102b
+D	lib/ClassLoader/Interface.php	
 D	lib/ClassLoader/NoCache.php	
 A	lib/ClassLoader/WinCacheClassLoader.php	a29dae46f5b64476b75051ebaf1c259c
 A	lib/ClassLoader/XCacheClassLoader.php	7eeaef4612b9d81e3f122d0a6a8ac18e
@@ -75,8 +83,12 @@ A	lib/FinderOperation/LoaderSetFinderOperation.php	b684443cd738cbd8324427b3122f9
 A	lib/FinderOperation/RegisterActiveExtensionsOperation.php	bcb8a683b6c3f0ce8b5e7db2ed2c0792
 A	lib/FinderOperation/RegisterExtensionsByInfoOperation.php	0bbb461e4736e030dfa85847010a582b
 A	lib/FinderOperation/RegisterExtensionsByNameOperation.php	82ef17484a18970b48c5a27fbff27502
+D	lib/FinderPlugin/CheckIncludePath.php	
+D	lib/FinderPlugin/Interface.php	
 D	lib/FinderPlugin/SkipModuleExists.php	
 D	lib/FinderPlugin/WithKillswitch.php	
+D	lib/InjectedAPI/findFile.php	
+D	lib/InjectedAPI/hookXautoload.php	
 D	lib/LoaderFactory.php	
 D	lib/LoaderManager.php	
 M	lib/Main.php	f5f4b55c17473bda1a0c7617cee41902

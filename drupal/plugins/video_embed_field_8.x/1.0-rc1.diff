@@ -1,80 +1,19 @@
-D	composer.json	
-M	config/schema/video_embed_field.schema.yml	94179431189259cf3defea5ada28d167
-D	css/video_embed_field.responsive-video.css	
-D	js/video-embed-field.colorbox.js	
-D	modules/video_embed_media/config/schema/video_embed_media.schema.yml	
-D	modules/video_embed_media/images/icons/video.png	
-D	modules/video_embed_media/src/Plugin/MediaEntity/Type/VideoEmbedField.php	
-D	modules/video_embed_media/src/UpgradeManager.php	
-D	modules/video_embed_media/src/UpgradeManagerInterface.php	
-D	modules/video_embed_media/tests/src/Functional/BundleTest.php	
-D	modules/video_embed_media/tests/src/Functional/UpgradePathTest.php	
-D	modules/video_embed_media/tests/src/Kernel/DefaultNameTest.php	
-D	modules/video_embed_media/tests/src/Kernel/ProvidedFieldsTest.php	
-D	modules/video_embed_media/video_embed_media.info.yml	
-D	modules/video_embed_media/video_embed_media.install	
-D	modules/video_embed_media/video_embed_media.module	
-D	modules/video_embed_media/video_embed_media.services.yml	
-D	modules/video_embed_wysiwyg/config/install/image.style.video_embed_wysiwyg_preview.yml	
-D	modules/video_embed_wysiwyg/config/schema/video_embed_wysiwyg.schema.yml	
-D	modules/video_embed_wysiwyg/plugin/icon.png	
-D	modules/video_embed_wysiwyg/plugin/plugin.css	
-D	modules/video_embed_wysiwyg/plugin/plugin.js	
-D	modules/video_embed_wysiwyg/src/Access/FilterInUse.php	
-D	modules/video_embed_wysiwyg/src/Form/VideoEmbedDialog.php	
-D	modules/video_embed_wysiwyg/src/Plugin/CKEditorPlugin/VideoEmbedWysiwyg.php	
-D	modules/video_embed_wysiwyg/src/Plugin/Filter/VideoEmbedWysiwyg.php	
-D	modules/video_embed_wysiwyg/tests/src/Functional/TextFormatConfigurationTest.php	
-D	modules/video_embed_wysiwyg/tests/src/FunctionalJavascript/EmbedDialogTest.php	
-D	modules/video_embed_wysiwyg/tests/src/Kernel/FilterTest.php	
-D	modules/video_embed_wysiwyg/video_embed_wysiwyg.info.yml	
-D	modules/video_embed_wysiwyg/video_embed_wysiwyg.module	
-D	modules/video_embed_wysiwyg/video_embed_wysiwyg.routing.yml	
-D	modules/video_embed_wysiwyg/video_embed_wysiwyg.services.yml	
-M	src/Annotation/VideoEmbedProvider.php	77943e2e6eb93aae5579080979225602
-D	src/Element/VideoEmbedIFrame.php	
-D	src/Plugin/Field/FieldFormatter/Colorbox.php	
-M	src/Plugin/Field/FieldFormatter/Thumbnail.php	d1b3f35cbbe87b0b06137907fd3a3edc
-M	src/Plugin/Field/FieldFormatter/Video.php	02bd29bf279c41183d602fc23451527e
-M	src/Plugin/Field/FieldType/VideoEmbedField.php	5bbdfd702bea2eda05c4e7b8ab0e74f1
-M	src/Plugin/Field/FieldWidget/VideoTextfield.php	c7bd64ce114aff0337c88463b01b9476
-D	src/Plugin/migrate/cckfield/EmvideoField.php	
-D	src/Plugin/migrate/cckfield/VideoEmbedField.php	
-M	src/Plugin/video_embed_field/Provider/Vimeo.php	2f211e58020f46988657d9974ef87309
-M	src/Plugin/video_embed_field/Provider/YouTube.php	c213d16c90cb48151dd6db89c3324af6
-D	src/Plugin/video_embed_field/Provider/YouTubePlaylist.php	
-M	src/ProviderManager.php	67224ea05bed45c41761eef2400833a2
-M	src/ProviderManagerInterface.php	6c583d0b884052e155ba16d37df29db7
-M	src/ProviderPluginBase.php	187ed5d5ec5a80983919f301e50bb76f
-M	src/ProviderPluginInterface.php	a731d91d1ca2379606a4c00f709c6dc0
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	config/schema/video_embed_field.schema.yml	94179431189259cf3defea5ada28d167
+A	src/Annotation/VideoEmbedProvider.php	77943e2e6eb93aae5579080979225602
+A	src/Plugin/Field/FieldFormatter/Thumbnail.php	d1b3f35cbbe87b0b06137907fd3a3edc
+A	src/Plugin/Field/FieldFormatter/Video.php	02bd29bf279c41183d602fc23451527e
+A	src/Plugin/Field/FieldType/VideoEmbedField.php	5bbdfd702bea2eda05c4e7b8ab0e74f1
+A	src/Plugin/Field/FieldWidget/VideoTextfield.php	c7bd64ce114aff0337c88463b01b9476
+A	src/Plugin/video_embed_field/Provider/Vimeo.php	2f211e58020f46988657d9974ef87309
+A	src/Plugin/video_embed_field/Provider/YouTube.php	c213d16c90cb48151dd6db89c3324af6
+A	src/ProviderManager.php	67224ea05bed45c41761eef2400833a2
+A	src/ProviderManagerInterface.php	6c583d0b884052e155ba16d37df29db7
+A	src/ProviderPluginBase.php	187ed5d5ec5a80983919f301e50bb76f
+A	src/ProviderPluginInterface.php	a731d91d1ca2379606a4c00f709c6dc0
 A	src/Tests/EmbedFieldTest.php	d356076c39daea039d3cb3f4a50f6620
 A	src/Tests/VideoEmbedFieldWidgetTest.php	da10ce939c54bc7aeca793d196b52b3d
-D	templates/video-embed-iframe.html.twig	
-D	tests/fixtures/drupal6-emfield-2-x.php.gz	
-D	tests/fixtures/drupal7-vef-2-x.php.gz	
-D	tests/modules/video_embed_field_mock_provider/src/Plugin/video_embed_field/Provider/MockProvider.php	
-D	tests/modules/video_embed_field_mock_provider/video_embed_field_mock_provider.info.yml	
-D	tests/src/Functional/AdminUserTrait.php	
-D	tests/src/Functional/AutoplayPermissionTest.php	
-D	tests/src/Functional/EntityDisplaySetupTrait.php	
-D	tests/src/Functional/FieldConfigurationTest.php	
-D	tests/src/Functional/FormatterConfigurationTest.php	
-D	tests/src/Functional/InstallationTest.php	
-D	tests/src/Functional/WidgetTest.php	
-D	tests/src/FunctionalJavascript/ColorboxFormatterTest.php	
-D	tests/src/Kernel/Drupal6EmfieldMigrationTest.php	
-D	tests/src/Kernel/Drupal7MigrationTest.php	
-D	tests/src/Kernel/EntityLoadTrait.php	
-D	tests/src/Kernel/FieldOutputTest.php	
-D	tests/src/Kernel/FormatterDependenciesTest.php	
-D	tests/src/Kernel/KernelTestBase.php	
-D	tests/src/Kernel/MockHttpClient.php	
-D	tests/src/Kernel/StripWhitespaceTrait.php	
-D	tests/src/Kernel/VideoEmbedIFrameTest.php	
-M	tests/src/Unit/ProviderManagerTest.php	2fa227011a6c5ad4d554b1e68f3bced0
-M	tests/src/Unit/ProviderUrlParseTest.php	6b73f3420ea99ff7f6b8df8478e30f73
-D	video_embed_field.api.php	
-M	video_embed_field.info.yml	d72c5d850c2836861a8da5265ba2d06f
-D	video_embed_field.libraries.yml	
-D	video_embed_field.module	
-D	video_embed_field.permissions.yml	
+A	tests/src/Unit/ProviderManagerTest.php	2fa227011a6c5ad4d554b1e68f3bced0
+A	tests/src/Unit/ProviderUrlParseTest.php	6b73f3420ea99ff7f6b8df8478e30f73
+A	video_embed_field.info.yml	d72c5d850c2836861a8da5265ba2d06f
+A	video_embed_field.services.yml	881772afe89839777f43394f3493d0b4

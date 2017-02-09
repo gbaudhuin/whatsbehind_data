@@ -1,2 +1,10 @@
-M	protest.info	72310db6cd046461357a81a1d84bec64
-M	protest.module	83bd8b97b43fa4e3d72f02ddf9fbfc6a
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	30b4903db5a6c2932c953c5094e35429
+A	images/close.png	fb458a8f447ec74726c5117dba101e42
+A	images/website_en.jpg	29cdcf764e5f5b61fb67a44ab188bd5d
+A	protest-widget.tpl.php	cb8d413bba495390f47c3f4925b70d4a
+A	protest.css	207cfcecd8f81537e317e8b8b41b39d7
+A	protest.info	72310db6cd046461357a81a1d84bec64
+A	protest.install	5f4042f173255147a7666b77e4421959
+A	protest.js	c97bd7ae18c8adce3c22485669a2c1c4
+A	protest.module	83bd8b97b43fa4e3d72f02ddf9fbfc6a

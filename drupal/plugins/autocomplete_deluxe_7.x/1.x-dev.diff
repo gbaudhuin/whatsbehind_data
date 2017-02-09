@@ -1,9 +1,6 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	a99ff6a788dd03da9a6147d51950cb31
-A	autocomplete_deluxe.api.php	bd8a15d87362383432185a64ba321a50
-A	autocomplete_deluxe.css	500a588a93abb4419cae49ddc537bfad
-A	autocomplete_deluxe.info	1353cf70980603e0488ebc4c4a4d62b0
-A	autocomplete_deluxe.js	cf7c70bae712756a978b424c9a822a3d
-A	autocomplete_deluxe.module	264f64fb0258743765c99d432570a99f
-A	autocomplete_deluxe.seven.css	73d0c87b98b9a4faded77ab8f04c0910
-A	x.gif	de0fddcf95650cee49f32cfdc723147c
+D	autocomplete_deluxe-rtl.css	
+M	autocomplete_deluxe.css	500a588a93abb4419cae49ddc537bfad
+M	autocomplete_deluxe.info	1353cf70980603e0488ebc4c4a4d62b0
+M	autocomplete_deluxe.js	cf7c70bae712756a978b424c9a822a3d
+M	autocomplete_deluxe.module	264f64fb0258743765c99d432570a99f
+D	throbber.gif	

@@ -1,12 +1,7 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	e6c2c96d4cce15780c3f842e7c23b2e4
-D	chart.api.php	
-M	chart.info	ed35d4c8a91e2026f6bd244185195b8c
-M	chart.module	e662ca059e3b17af53d9458f732c2346
-D	chart_views/chart_views.info	
-D	chart_views/chart_views.module	
-D	chart_views/includes/views/chart_views.views.inc	
-D	chart_views/includes/views/chart_views_plugin_style_chart.inc	
-M	contrib/system_charts/system_charts.info	faa037d306062dd1232f80d207825bc2
-M	contrib/system_charts/system_charts.module	b4d1b8dd914ade4f15c9fb6bc09f42cd
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	e6c2c96d4cce15780c3f842e7c23b2e4
+A	chart.info	ed35d4c8a91e2026f6bd244185195b8c
+A	chart.module	e662ca059e3b17af53d9458f732c2346
+A	contrib/system_charts/system_charts.css	05d41f9848c79b8c2bee802016c38e24
+A	contrib/system_charts/system_charts.info	faa037d306062dd1232f80d207825bc2
+A	contrib/system_charts/system_charts.module	b4d1b8dd914ade4f15c9fb6bc09f42cd

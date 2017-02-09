@@ -38,6 +38,8 @@ M	uc_order/uc_order.order_pane.inc	d2570499c61a7a86b7c0244a008faaca
 A	uc_order/views/uc-order-view-row-invoice.tpl.php	684bd746e8af1f6f8cc5bd46e223447d
 M	uc_order/views/uc_order.views.inc	ca7bcc1af5e14c80611016c9301900ac
 M	uc_order/views/uc_order.views_default.inc	1341792eeea4256229ed02033d1cb1a5
+A	uc_order/views/uc_order_plugin_row_invoice.inc	c5b64930a532715637b89c4f1382228c
+D	uc_order/views/uc_order_plugin_row_invoice_view.inc	
 M	uc_product/uc_product.info	3805ede814adec3421f27657d910bdf6
 M	uc_product/uc_product.module	b0b1853c9b7b27f5983d70759df0cf30
 M	uc_product_kit/uc_product_kit.info	32fb0fe56eac42eddff14bf534ba24da
@@ -47,6 +49,8 @@ M	uc_roles/uc_roles.info	59966a031d7a9e639bfecd3a7ee11e12
 M	uc_stock/uc_stock.info	5210a1704a1ff39f8ad88d5e3651c8ae
 M	uc_store/classes/mail.inc	38201e58108a6a9432d7f065b47036a5
 M	uc_store/countries/canada_124_2.cif	bdbaa954c10e466bc01a311e99a61317
+D	uc_store/countries/iran_364_2.cif	
+A	uc_store/countries/iran_364_3.cif	42b68d18cabfbf486fd77c440338e145
 M	uc_store/uc_store.info	1303da2f4ca1c05843d0a0d710f10dfd
 M	uc_tax_report/uc_tax_report.info	3fd366554ac692d1cdcc64d0059cd65c
 M	uc_taxes/uc_taxes.info	0895fa01f89cd684e28d90b18aa69a13

@@ -1,6 +1,9 @@
 M	CHANGELOG.txt	3a59cbb0efe5d6ff7a3f39d253486e8f
 D	INSTALL.txt	
 M	README.txt	4a9530ec24cb467d7ef196a3aca1fd97
+D	gss/gss.css	
+D	gss/gss.js	
+D	gss/gss.xsl	
 D	translations/general.de.po	
 D	translations/general.fr.po	
 D	translations/general.nl.po	
@@ -63,3 +66,6 @@ D	xmlsitemap_user/translations/xmlsitemap_user.pot
 D	xmlsitemap_user/xmlsitemap_user.info	
 D	xmlsitemap_user/xmlsitemap_user.install	
 D	xmlsitemap_user/xmlsitemap_user.module	
+A	xsl/xmlsitemap.xsl	0de4a27927bc8ba4dfb3e31db5365322
+A	xsl/xmlsitemap.xsl.css	f4023816b6f97060d9241fdec3c80747
+A	xsl/xmlsitemap.xsl.js	7a63ec178d4a5e213a505dcfb0109d33

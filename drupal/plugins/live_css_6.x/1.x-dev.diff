@@ -1,4 +1,46 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+D	ace/ChangeLog.txt	
+D	ace/LICENSE	
+D	ace/Readme.md	
+D	ace/editor.html	
+D	ace/src/ace-uncompressed.js	
+D	ace/src/ace.js	
+D	ace/src/cockpit-uncompressed.js	
+D	ace/src/cockpit.js	
+D	ace/src/keybinding-emacs.js	
+D	ace/src/keybinding-vim.js	
+D	ace/src/mode-c_cpp.js	
+D	ace/src/mode-clojure.js	
+D	ace/src/mode-coffee.js	
+D	ace/src/mode-csharp.js	
+D	ace/src/mode-css.js	
+D	ace/src/mode-html.js	
+D	ace/src/mode-java.js	
+D	ace/src/mode-javascript.js	
+D	ace/src/mode-json.js	
+D	ace/src/mode-perl.js	
+D	ace/src/mode-php.js	
+D	ace/src/mode-python.js	
+D	ace/src/mode-ruby.js	
+D	ace/src/mode-scss.js	
+D	ace/src/mode-svg.js	
+D	ace/src/mode-xml.js	
+D	ace/src/theme-clouds.js	
+D	ace/src/theme-clouds_midnight.js	
+D	ace/src/theme-cobalt.js	
+D	ace/src/theme-dawn.js	
+D	ace/src/theme-eclipse.js	
+D	ace/src/theme-idle_fingers.js	
+D	ace/src/theme-kr_theme.js	
+D	ace/src/theme-merbivore.js	
+D	ace/src/theme-merbivore_soft.js	
+D	ace/src/theme-mono_industrial.js	
+D	ace/src/theme-monokai.js	
+D	ace/src/theme-pastel_on_dark.js	
+D	ace/src/theme-twilight.js	
+D	ace/src/theme-vibrant_ink.js	
+D	ace/src/worker-coffee.js	
+D	ace/src/worker-css.js	
+D	ace/src/worker-javascript.js	
 A	bespin/LICENSE.txt	bfe1f75d606912a4111c90743d6c7325
 A	bespin/README.txt	ebee4d0d854b091e87a8673ebf4f5c46
 A	bespin/prebuilt/BespinEmbedded.css	81509b292095b99f0dde03dea3d7a56e
@@ -16,8 +58,7 @@ A	bespin/prebuilt/resources/screen_theme/images/scroll-left.png	6b165ab5c69ae1c8
 A	bespin/prebuilt/resources/screen_theme/images/scroll-right.png	701264777ccf81cac31432f1c7d87ad2
 A	bespin/prebuilt/resources/screen_theme/images/scroll-up.png	cf53d0f6d6400a95209ab20ffe5693bf
 A	bespin/prebuilt/resources/screen_theme/theme.less	8daf1ed95a4531da504fb1d65ac2e93c
-A	css.css	45e940aeafcd6cdb669217a1c939d93a
-A	css.js	86180f638a4256a130b9133fa230dd00
-A	live_css.info	011b122dcbd1427d13fbe35494ed6d2c
-A	live_css.module	de4886de87049a1fe9cbf5684ba160dd
-A	plugins.js	d41d8cd98f00b204e9800998ecf8427e
+M	css.css	45e940aeafcd6cdb669217a1c939d93a
+M	css.js	86180f638a4256a130b9133fa230dd00
+M	live_css.info	011b122dcbd1427d13fbe35494ed6d2c
+M	live_css.module	de4886de87049a1fe9cbf5684ba160dd

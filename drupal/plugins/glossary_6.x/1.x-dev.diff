@@ -1,11 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	9559681b1c5a368d3f2242855bd39667
-A	TODO	818a11733f37ddbd77ea15d53d8301a1
-A	empty.gif	c73c39d09ff56572881fa5683c97ec79
-A	glossary.admin.inc	7e824505a4c4d082e08d0b910bc29e1e
-A	glossary.css	b530ab5c406a2f2d9466a44748d31046
-A	glossary.gif	5f505347390d7491709fd1fd05eb89a5
-A	glossary.info	f6bdad0f23d42f2f22b78700c575803f
-A	glossary.install	f8240e16e684a41cb95c722c2ccd17eb
-A	glossary.js	c94a74d76cc76af0df1df0e843c59ab9
-A	glossary.module	83af097e0bbfff91ef3e2e911b0d7bc6
+M	glossary.info	f6bdad0f23d42f2f22b78700c575803f

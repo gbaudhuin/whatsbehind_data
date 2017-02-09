@@ -1,7 +1,0 @@
-M	footermap.info.yml	b290e647914d67c2266e18c8feb4ad84
-M	footermap.module	3406a60f723764d3e0ea098de5564227
-M	footermap.theme.inc	bb1966f5df180d3ec7bce9389d951f41
-M	src/Menu/AnonymousMenuLinkTreeManipulator.php	3ee4ad6998ceb8a663cc0d4186b791ac
-M	src/Plugin/Block/FootermapBlock.php	b6ce918faca2be13f10424945fa0cb78
-M	src/Tests/FootermapBlockIntegrationTest.php	127d9a612460fe8994bc5e270bc0e820
-M	tests/src/Unit/Plugin/Block/FootermapBlockTest.php	72b8726b881c651aff74f0ea429c52b9

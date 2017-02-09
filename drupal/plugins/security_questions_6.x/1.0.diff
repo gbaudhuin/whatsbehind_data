@@ -1,2 +1,5 @@
-M	security_questions.info	87c62a5120834a8471929b8590f482b9
-M	security_questions.module	78ebf3517a1725d2d9f0b9d5abb2db37
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	6b3b4318c0318f99695d51d97f7b4db6
+A	security_questions.info	87c62a5120834a8471929b8590f482b9
+A	security_questions.install	4066810f552977474ca200ccca0705d7
+A	security_questions.module	78ebf3517a1725d2d9f0b9d5abb2db37

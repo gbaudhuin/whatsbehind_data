@@ -1,4 +1,6 @@
-A	INSTALL.txt	8980076b171b616b93f170171f2379cd
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	stage_file_proxy.info	62070f017b6af478504c1582b278f59b
-A	stage_file_proxy.module	1dba8d17e6cb3f35dd508116488f7128
+M	INSTALL.txt	8980076b171b616b93f170171f2379cd
+A	stage_file_proxy.api.php	9951d22a4708f0e68611f057a7d3b659
+A	stage_file_proxy.drush.inc	0fba6424218a8ab2e7ef246c185a09b1
+M	stage_file_proxy.info	f1d84b883b092654261029b96a7f6f67
+A	stage_file_proxy.install	8cc6b301b18d2b996ab4150def44870e
+M	stage_file_proxy.module	14271a875938c05a9e6e4b77ece4e899

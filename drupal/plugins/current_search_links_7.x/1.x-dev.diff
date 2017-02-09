@@ -1,4 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	current_search_links.info	a8bc75c4cce86b6e59e8ad80e5bfc7e9
-A	current_search_links.module	bc77d0f89e138e3acc82d9ac13f6f509
-A	plugins/item_active_links.inc	d7bbb928b59bbdb281e5e61d984962e8
+M	current_search_links.info	a8bc75c4cce86b6e59e8ad80e5bfc7e9
+M	plugins/item_active_links.inc	d7bbb928b59bbdb281e5e61d984962e8

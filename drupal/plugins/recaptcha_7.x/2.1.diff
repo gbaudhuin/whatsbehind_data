@@ -15,3 +15,5 @@ M	recaptcha.info	e2ad321d759e97e6e9969d9ac672b00d
 M	recaptcha.install	4f32a6453b0d06968e6a7cdbe8a0472a
 M	recaptcha.module	2018f584f98677894df98b2679f0f297
 M	recaptcha.test	0cf98d5a9d9e81cd1d2a07333a75feb3
+D	src/ReCaptcha/RequestMethod/Drupal7.php	
+A	src/ReCaptcha/RequestMethod/Drupal7Post.php	df46e6ea3e024bf1efad39aec0952416

@@ -2,7 +2,12 @@ M	README.txt	07c3ecdaecef5a7933b239ace7d60489
 D	help/term_merge.help.ini	
 D	help/term_merge.html	
 D	help/term_merge_duplicate_suggestion.html	
+D	includes/EntityReferenceTermMergeSynonymsBehavior.class.inc	
+D	includes/TaxonomyTermReferenceTermMergeSynonymsBehavior.class.inc	
+D	includes/TermMergeSynonymsBehavior.interface.inc	
+D	includes/TextTermMergeSynonymsBehavior.class.inc	
 D	js/duplicate.form.js	
+D	plugins/behavior/term_merge.inc	
 D	plugins/duplicate_suggestion/description.inc	
 D	plugins/duplicate_suggestion/name.inc	
 D	plugins/duplicate_suggestion/parent.inc	

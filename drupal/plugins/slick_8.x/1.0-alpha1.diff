@@ -1,71 +1,11 @@
-D	.eslintignore	
-D	.eslintrc	
-D	CHANGELOG.txt	
-D	README.txt	
-D	composer.json	
-D	config/install/slick.optionset.default.yml	
-D	config/install/slick.settings.yml	
-D	config/schema/slick.schema.yml	
-D	css/components/slick.arrows--down.css	
-D	css/components/slick.thumbnail--grid.css	
-D	css/components/slick.thumbnail--hover.css	
-M	css/layout/slick.module.css	11fed1053d3a0dfe8877730190d63322
-D	css/theme/slick.theme--asnavfor.css	
-D	css/theme/slick.theme--classic.css	
-D	css/theme/slick.theme--default.css	
-D	css/theme/slick.theme--full.css	
-D	css/theme/slick.theme--fullscreen.css	
-D	css/theme/slick.theme--fullwidth.css	
-D	css/theme/slick.theme--grid.css	
-D	css/theme/slick.theme--split.css	
-D	css/theme/slick.theme.css	
-D	js/slick.colorbox.js	
-D	js/slick.colorbox.min.js	
-M	js/slick.load.js	48ea058766cb4e955b0e5e3f1ef82e26
-M	js/slick.load.min.js	fc840b8df8bd5896f81d1cf701ab425a
-D	slick.api.php	
-M	slick.info.yml	ae04ef3a5a60ab16ab139cc8817e7862
-D	slick.install	
-M	slick.libraries.yml	2aa6a16dc294f74ff8218f6f42083cbb
-M	slick.module	0063a696836ec9845029f9aedd26caa4
-D	slick.services.yml	
-D	slick_ui/css/slick.admin--vertical-tabs.css	
-D	slick_ui/slick_ui.info.yml	
-D	slick_ui/slick_ui.libraries.yml	
-D	slick_ui/slick_ui.links.action.yml	
-D	slick_ui/slick_ui.links.menu.yml	
-D	slick_ui/slick_ui.links.task.yml	
-D	slick_ui/slick_ui.module	
-D	slick_ui/slick_ui.permissions.yml	
-D	slick_ui/slick_ui.routing.yml	
-D	slick_ui/src/Controller/SlickListBuilder.php	
-D	slick_ui/src/Form/SlickDeleteForm.php	
-D	slick_ui/src/Form/SlickForm.php	
-D	slick_ui/src/Form/SlickFormBase.php	
-D	slick_ui/src/Form/SlickSettingsForm.php	
-D	src/Entity/Slick.php	
-D	src/Entity/SlickInterface.php	
-D	src/Form/SlickAdmin.php	
-D	src/Form/SlickAdminInterface.php	
-D	src/Plugin/Field/FieldFormatter/SlickEntityReferenceFormatterBase.php	
-D	src/Plugin/Field/FieldFormatter/SlickFileFormatter.php	
-D	src/Plugin/Field/FieldFormatter/SlickFileFormatterBase.php	
-D	src/Plugin/Field/FieldFormatter/SlickFormatterTrait.php	
-D	src/Plugin/Field/FieldFormatter/SlickImageFormatter.php	
-D	src/Plugin/Field/FieldFormatter/SlickTextFormatter.php	
-D	src/Plugin/Field/README.txt	
-D	src/SlickDefault.php	
-D	src/SlickFormatter.php	
-D	src/SlickFormatterInterface.php	
-D	src/SlickManager.php	
-D	src/SlickManagerInterface.php	
-D	src/SlickSkin.php	
-D	src/SlickSkinInterface.php	
-D	templates/slick-grid.html.twig	
-D	templates/slick-image.html.twig	
-M	templates/slick-slide.html.twig	7f911d85495f50efc09e64a3829589d9
-D	templates/slick-thumbnail.html.twig	
-D	templates/slick-vanilla.html.twig	
-D	templates/slick-wrapper.html.twig	
-M	templates/slick.html.twig	9df085467e2b34c83ef210e5258941ab
-M	templates/slick.theme.inc	dd91177f1c5ed593dd1d267e27a2cec3
+A	.gitignore	d41d8cd98f00b204e9800998ecf8427e
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	css/layout/slick.module.css	11fed1053d3a0dfe8877730190d63322
+A	js/slick.load.js	48ea058766cb4e955b0e5e3f1ef82e26
+A	js/slick.load.min.js	fc840b8df8bd5896f81d1cf701ab425a
+A	slick.info.yml	ae04ef3a5a60ab16ab139cc8817e7862
+A	slick.libraries.yml	2aa6a16dc294f74ff8218f6f42083cbb
+A	slick.module	0063a696836ec9845029f9aedd26caa4
+A	templates/slick-slide.html.twig	7f911d85495f50efc09e64a3829589d9
+A	templates/slick.html.twig	9df085467e2b34c83ef210e5258941ab
+A	templates/slick.theme.inc	dd91177f1c5ed593dd1d267e27a2cec3

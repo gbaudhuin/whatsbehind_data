@@ -1,4 +1,6 @@
 M	.travis.yml	bc066439e6b24d7dc91a0d1b08b1f100
+D	.travis/drupal-8.0.x.make.yml	
+A	.travis/drupal-8.2.x.make.yml	628db86ea9d5c48a5a067bb645133559
 A	config/install/replication.settings.yml	d0468a10cdcd9d4aa5faab8b67f31f5b
 A	config/schema/replication.schema.yml	3ae0c113d0e2e4a9deb670b611f60839
 M	replication.info.yml	4ed08c3949502a2ae3dc1e5a11408dc6

@@ -7,8 +7,10 @@ M	includes/db.inc	dbe000e8722bf6431aadbad6630d4d99
 M	includes/forms/editor.inc	73876a727281e8fb7aeb8b850e7b1b6e
 M	includes/forms/forms.inc	b26eb5242dfcad83193470974ed2cbcb
 M	includes/forms/import.inc	f7532dbc604a4ed9789415178b0fbc0e
+D	includes/io.inc	
 A	includes/io/download.inc	77279d73f0d245ddcbd274967ecb9b12
 A	includes/io/import.inc	7a3e878f02e6f6a4d8034cf189948b0e
+A	includes/io/io.inc	2fda9e8a9b14818a6f4bb8b8b38763cf
 M	includes/parser/parser.inc	d522b6360eb05d98ebe472669ddd5663
 M	includes/parser/scan.inc	0241d893811be719d6bbfe4ee1205d00
 M	includes/path.inc	48918a56e3ff40a8b271e64e33d41f30
@@ -27,7 +29,9 @@ M	patterns_components/components/system.inc	4621e18070e9bd0870347db3c7c7f023
 M	patterns_components/components/taxonomy.inc	16dbdf8dc71daacc59fa06e72f12db79
 M	patterns_components/patterns_components.info	4aef6f64c7cc23486a4274904939d9a4
 M	patterns_examples/patterns_examples.info	4499cc7c18f6dca65c7717a82dc3e5ab
+A	patterns_export/api.inc	5d28e47d922e6798062fa7fcad14c47b
 A	patterns_export/core.inc	6242483716dddc86b1d663e67c4169a6
+D	patterns_export/export.inc	
 D	patterns_export/export.old.inc	
 A	patterns_export/finalize.inc	c829e8a2ac63ed47ca127d5e921f4e70
 M	patterns_export/patterns_export.info	191da2b7456721b933f8eeca6cb4e292

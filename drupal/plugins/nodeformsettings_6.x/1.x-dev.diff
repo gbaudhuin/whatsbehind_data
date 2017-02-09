@@ -1,9 +1,10 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	cckformsettings.info	a154ada502223ac0cfc226447b823fe4
-A	cckformsettings.install	a8760cd4b6900e19b527e28eb5e180f3
-A	cckformsettings.js	52e432daa92e76dda02a1df6f2245f31
-A	cckformsettings.module	afeae2bdde4f629c4ddd88421e52b0d8
-A	nodeformsettings.info	2c8f7541d80b1d36e8335752d3ecd0a2
-A	nodeformsettings.install	fd4e0dcfb954f2b75a26aee5bdeba95d
-A	nodeformsettings.js	f3ae1983a0e32dc66cc9c7f4c779c822
-A	nodeformsettings.module	5778188791dbc90465c2ce5b24b9e1ab
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	cckformsettings.info	a154ada502223ac0cfc226447b823fe4
+M	cckformsettings.install	a8760cd4b6900e19b527e28eb5e180f3
+M	cckformsettings.js	52e432daa92e76dda02a1df6f2245f31
+M	cckformsettings.module	afeae2bdde4f629c4ddd88421e52b0d8
+M	nodeformsettings.info	2c8f7541d80b1d36e8335752d3ecd0a2
+M	nodeformsettings.install	fd4e0dcfb954f2b75a26aee5bdeba95d
+M	nodeformsettings.js	f3ae1983a0e32dc66cc9c7f4c779c822
+M	nodeformsettings.module	5778188791dbc90465c2ce5b24b9e1ab
+D	translations/de.po	

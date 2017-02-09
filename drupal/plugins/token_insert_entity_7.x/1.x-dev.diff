@@ -1,9 +1,3 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	5ef7564267d55c238fb3d0b165cac3f7
-A	plugins/rendered_entity.inc	6d51e89a7df0147bcb6a2e9002f5f3ad
-A	plugins/rendered_entity/images/insert.png	7ea6f07ab11b6c4abf0f54e8deeb1065
-A	plugins/rendered_entity/rendered_entity.css	d41d8cd98f00b204e9800998ecf8427e
-A	plugins/rendered_entity/rendered_entity.js	65069a4883591b1e9d75ba9006353870
-A	token_insert_entity.info	b29b0918306400d8627275f5253225dd
-A	token_insert_entity.module	f6c2069d2462f439897a72d58182db88
-A	token_insert_entity.pages.inc	aeaacb1f64785ff2c16329e4132c4436
+M	plugins/rendered_entity/rendered_entity.js	65069a4883591b1e9d75ba9006353870
+M	token_insert_entity.info	b29b0918306400d8627275f5253225dd
+M	token_insert_entity.pages.inc	aeaacb1f64785ff2c16329e4132c4436

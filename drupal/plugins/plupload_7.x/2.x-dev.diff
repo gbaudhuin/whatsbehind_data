@@ -3,5 +3,6 @@ M	README.txt	8474415753cf29110dea0e3d3129c26b
 M	plupload.info	35e38ae8de5e159a733e0fdc6e859de1
 M	plupload.install	b3fad0f38675d58dfc2d47f638b42fff
 M	plupload.js	b2ea5663d540822bc2b370d4546b3ed1
-M	plupload.make	51059a63f1e06c7954cd49581047cbc9
+A	plupload.make	51059a63f1e06c7954cd49581047cbc9
+D	plupload.make.example	
 M	plupload.module	8f72b48c7754efe85786ee372218fada

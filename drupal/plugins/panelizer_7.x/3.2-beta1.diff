@@ -1,11 +1,13 @@
 A	CHANGELOG.txt	98f0d858699f997aa84c7b77f723d261
 M	README.txt	a7c4df0ed5519e10ecb41c9ba6e0f27b
 M	css/panelizer-ipe.css	ce976d4959fd2ace2b0ab4ab27b93921
+D	docs.php	
 M	includes/admin.inc	e13f69441ebc523fcee5cc3760420b5d
 M	includes/common.inc	824051e29ba9d91902a72bae28f0b873
 A	js/panelizer-entity-bundle.js	123b199d443b53a76421d102b23eda8e
 M	js/panelizer-ipe.js	f4a59df99529493048eb978c190c37e9
 M	js/panelizer-vertical-tabs.js	79124b40991939bcb6a753f258b51ed4
+A	panelizer.api.php	a6ad80ff0cf8006bb9e6c8dc1dd91c1d
 M	panelizer.info	980c664560c40bbcc686d67a765866cf
 M	panelizer.install	ce4654bcd0c5f1d586b59415f9ce3762
 M	panelizer.module	bcde0d754be86161b8fab932b1105369

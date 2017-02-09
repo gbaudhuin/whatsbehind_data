@@ -1,5 +1,3 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	user_register_notify.admin.inc	
-M	user_register_notify.info	15c3a0498084e3d80a5d6b4a6fb36a7f
-D	user_register_notify.install	
-M	user_register_notify.module	1874060d819faaea991552fb33d22806
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	user_register_notify.info	15c3a0498084e3d80a5d6b4a6fb36a7f
+A	user_register_notify.module	1874060d819faaea991552fb33d22806

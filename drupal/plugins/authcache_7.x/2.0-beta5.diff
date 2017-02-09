@@ -60,19 +60,288 @@ M	modules/authcache_relation/authcache_relation.info	27e9b729935c11ee470d9d8b6c4
 M	modules/authcache_user/authcache_user.info	f0e795331435f9f7843a9dd4c9cb6ec8
 M	modules/authcache_varnish/README.txt	6500a7b22625cee5ca0ff87ef7d3636f
 M	modules/authcache_varnish/authcache_varnish.info	aca0f2c958114a8118c319f6cde12a0c
+D	modules/authcache_varnish/example.vcl	
+D	modules/authcache_varnish/test/Makefile	
+D	modules/authcache_varnish/test/auc/deliver-0001-no-auc-backend-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/auc/deliver-0002-no-auc-backend-sess-key.vtc	
+D	modules/authcache_varnish/test/auc/deliver-0003-auc-backend-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/auc/deliver-0004-auc-backend-sess-key.vtc	
+D	modules/authcache_varnish/test/auc/fetch-0001-set-cookie-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/auc/fetch-0002-set-cookie-sess-key.vtc	
+D	modules/authcache_varnish/test/auc/fetch-0003-ttl-0-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/auc/fetch-0004-ttl-0-sess-key.vtc	
+D	modules/authcache_varnish/test/auc/fetch-0005-vary-all-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/auc/fetch-0006-vary-all-sess-key.vtc	
+D	modules/authcache_varnish/test/auc/fetch-0011-esi-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/auc/fetch-0012-esi-sess-key.vtc	
+D	modules/authcache_varnish/test/auc/fetch-0013-get-key-vary.vtc	
+D	modules/authcache_varnish/test/auc/fetch-0014-get-key-ttl.vtc	
+D	modules/authcache_varnish/test/auc/miss-0001-esi-header-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/auc/miss-0002-esi-header-sess-key.vtc	
+D	modules/authcache_varnish/test/auc/recv-0001-verb.vtc	
+D	modules/authcache_varnish/test/auc/recv-0002-post.vtc	
+D	modules/authcache_varnish/test/auc/recv-0003-auth.vtc	
+D	modules/authcache_varnish/test/auc/recv-0011-cookies-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/auc/recv-0012-cookies-sess-key.vtc	
+D	modules/authcache_varnish/test/auc/recv-0013-no-cache-cookie-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/auc/recv-0014-no-cache-cookie-sess-key.vtc	
 D	modules/authcache_varnish/test/auc/recv-0015-key-callback-access-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/auc/recv-0016-key-callback-access-sess-key.vtc	
+D	modules/authcache_varnish/test/auc/roundtrip-0001-sess-key.vtc	
+D	modules/authcache_varnish/test/common/deliver-0001-no-auc-backend-no-sess-key.vtc	
+D	modules/authcache_varnish/test/common/deliver-0001-no-auc-backend-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/deliver-0002-no-auc-backend-sess-key.vtc	
+D	modules/authcache_varnish/test/common/deliver-0002-no-auc-backend-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/deliver-0003-auc-backend-no-sess-key.vtc	
+D	modules/authcache_varnish/test/common/deliver-0003-auc-backend-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/deliver-0004-auc-backend-sess-key.vtc	
+D	modules/authcache_varnish/test/common/deliver-0004-auc-backend-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0001-set-cookie-no-sess-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0001-set-cookie-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0002-set-cookie-sess-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0002-set-cookie-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0003-ttl-0-no-sess-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0003-ttl-0-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0004-ttl-0-sess-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0004-ttl-0-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0005-vary-all-no-sess-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0005-vary-all-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0006-vary-all-sess-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0006-vary-all-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0011-esi-no-sess-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0011-esi-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0012-esi-sess-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0012-esi-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/fetch-0013-get-key-vary.vtc	
+D	modules/authcache_varnish/test/common/fetch-0014-get-key-ttl.vtc	
+D	modules/authcache_varnish/test/common/miss-0001-esi-header-no-sess-key.vtc	
+D	modules/authcache_varnish/test/common/miss-0001-esi-header-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/miss-0002-esi-header-sess-key.vtc	
+D	modules/authcache_varnish/test/common/miss-0002-esi-header-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/recv-0001-verb.vtc	
+D	modules/authcache_varnish/test/common/recv-0002-post.vtc	
+D	modules/authcache_varnish/test/common/recv-0003-auth.vtc	
+D	modules/authcache_varnish/test/common/recv-0011-cookies-no-sess-force-key.vtc	
+D	modules/authcache_varnish/test/common/recv-0011-cookies-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/recv-0012-cookies-sess-key.vtc	
+D	modules/authcache_varnish/test/common/recv-0012-cookies-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/recv-0013-no-cache-cookie-no-sess-force-key.vtc	
+D	modules/authcache_varnish/test/common/recv-0013-no-cache-cookie-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/recv-0014-no-cache-cookie-sess-key.vtc	
+D	modules/authcache_varnish/test/common/recv-0014-no-cache-cookie-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/recv-0015-key-callback-access-no-sess-key.vtc	
 D	modules/authcache_varnish/test/common/recv-0015-key-callback-access-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/recv-0016-key-callback-access-sess-key.vtc	
 D	modules/authcache_varnish/test/common/recv-0016-key-callback-access-sess-no-key.vtc	
+D	modules/authcache_varnish/test/common/roundtrip-0001-sess-key.vtc	
+D	modules/authcache_varnish/test/def/deliver-0001-no-auc-backend-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/def/deliver-0002-no-auc-backend-sess-no-key.vtc	
+D	modules/authcache_varnish/test/def/fetch-0001-set-cookie-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/def/fetch-0002-set-cookie-sess-no-key.vtc	
+D	modules/authcache_varnish/test/def/fetch-0003-ttl-0-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/def/fetch-0004-ttl-0-sess-no-key.vtc	
+D	modules/authcache_varnish/test/def/fetch-0005-vary-all-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/def/fetch-0006-vary-all-sess-no-key.vtc	
+D	modules/authcache_varnish/test/def/miss-0001-esi-header-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/def/miss-0002-esi-header-sess-no-key.vtc	
+D	modules/authcache_varnish/test/def/recv-0001-verb.vtc	
+D	modules/authcache_varnish/test/def/recv-0002-post.vtc	
+D	modules/authcache_varnish/test/def/recv-0003-auth.vtc	
+D	modules/authcache_varnish/test/def/recv-0011-cookies-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/def/recv-0012-cookies-sess-no-key.vtc	
+D	modules/authcache_varnish/test/def/recv-0013-no-cache-cookie-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/def/recv-0014-no-cache-cookie-sess-no-key.vtc	
+D	modules/authcache_varnish/test/get/deliver-0001-no-auc-backend-no-sess-key.vtc	
+D	modules/authcache_varnish/test/get/deliver-0002-no-auc-backend-sess-key.vtc	
+D	modules/authcache_varnish/test/get/deliver-0003-auc-backend-no-sess-key.vtc	
+D	modules/authcache_varnish/test/get/deliver-0004-auc-backend-sess-key.vtc	
+D	modules/authcache_varnish/test/get/fetch-0001-set-cookie-no-sess-key.vtc	
+D	modules/authcache_varnish/test/get/fetch-0002-set-cookie-sess-key.vtc	
+D	modules/authcache_varnish/test/get/fetch-0003-ttl-0-no-sess-key.vtc	
+D	modules/authcache_varnish/test/get/fetch-0004-ttl-0-sess-key.vtc	
+D	modules/authcache_varnish/test/get/fetch-0005-vary-all-no-sess-key.vtc	
+D	modules/authcache_varnish/test/get/fetch-0006-vary-all-sess-key.vtc	
+D	modules/authcache_varnish/test/get/fetch-0011-esi-no-sess-key.vtc	
+D	modules/authcache_varnish/test/get/fetch-0012-esi-sess-key.vtc	
+D	modules/authcache_varnish/test/get/fetch-0013-get-key-vary.vtc	
+D	modules/authcache_varnish/test/get/fetch-0014-get-key-ttl.vtc	
+D	modules/authcache_varnish/test/get/miss-0001-esi-header-no-sess-key.vtc	
+D	modules/authcache_varnish/test/get/miss-0002-esi-header-sess-key.vtc	
+D	modules/authcache_varnish/test/get/recv-0001-verb.vtc	
+D	modules/authcache_varnish/test/get/recv-0002-post.vtc	
+D	modules/authcache_varnish/test/get/recv-0003-auth.vtc	
+D	modules/authcache_varnish/test/get/recv-0011-cookies-no-sess-force-key.vtc	
+D	modules/authcache_varnish/test/get/recv-0012-cookies-sess-key.vtc	
+D	modules/authcache_varnish/test/get/recv-0013-no-cache-cookie-no-sess-force-key.vtc	
+D	modules/authcache_varnish/test/get/recv-0014-no-cache-cookie-sess-key.vtc	
+D	modules/authcache_varnish/test/get/recv-0015-key-callback-access-no-sess-key.vtc	
+D	modules/authcache_varnish/test/get/recv-0016-key-callback-access-sess-key.vtc	
+D	modules/authcache_varnish/test/get/roundtrip-0001-sess-key.vtc	
+D	modules/authcache_varnish/test/skip/deliver-0001-no-auc-backend-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/deliver-0002-no-auc-backend-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/deliver-0003-auc-backend-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/deliver-0004-auc-backend-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/fetch-0001-set-cookie-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/fetch-0002-set-cookie-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/fetch-0003-ttl-0-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/fetch-0004-ttl-0-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/fetch-0005-vary-all-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/fetch-0006-vary-all-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/fetch-0011-esi-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/fetch-0012-esi-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/miss-0001-esi-header-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/miss-0002-esi-header-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/recv-0001-verb.vtc	
+D	modules/authcache_varnish/test/skip/recv-0002-post.vtc	
+D	modules/authcache_varnish/test/skip/recv-0003-auth.vtc	
+D	modules/authcache_varnish/test/skip/recv-0011-cookies-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/recv-0012-cookies-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/recv-0013-no-cache-cookie-no-sess-no-key.vtc	
+D	modules/authcache_varnish/test/skip/recv-0014-no-cache-cookie-sess-no-key.vtc	
 D	modules/authcache_varnish/test/skip/recv-0015-key-callback-access-no-sess-no-key.vtc	
 D	modules/authcache_varnish/test/skip/recv-0016-key-callback-access-sess-no-key.vtc	
 A	modules/authcache_varnish/varnish-3/Dockerfile	d7a27527b99c7b117664aad4cdea85ff
+A	modules/authcache_varnish/varnish-3/core.vcl	c9afea71c4fb543ef65346cffb42f8de
 A	modules/authcache_varnish/varnish-3/example.vcl	fa2fa6f6798537bf8f07ff4220232aee
+A	modules/authcache_varnish/varnish-3/test/Makefile	e9b7050eedc042bd021ca3a3718b3bab
+A	modules/authcache_varnish/varnish-3/test/auc/deliver-0001-no-auc-backend-no-sess-no-key.vtc	6327d28ee09380cea32ea627a0a902e9
+A	modules/authcache_varnish/varnish-3/test/auc/deliver-0002-no-auc-backend-sess-key.vtc	2a0b58cd290169e0eb96c63a79e7508a
+A	modules/authcache_varnish/varnish-3/test/auc/deliver-0003-auc-backend-no-sess-no-key.vtc	01605fb06d1bab70d33c780c8f2441c2
+A	modules/authcache_varnish/varnish-3/test/auc/deliver-0004-auc-backend-sess-key.vtc	4cdfe3314b66e7865b8711c684cff303
+A	modules/authcache_varnish/varnish-3/test/auc/fetch-0001-set-cookie-no-sess-no-key.vtc	f6b41810810f3838cf30d38e64d4ddb4
+A	modules/authcache_varnish/varnish-3/test/auc/fetch-0002-set-cookie-sess-key.vtc	ecc402795756862a7ba8a1833367259c
+A	modules/authcache_varnish/varnish-3/test/auc/fetch-0003-ttl-0-no-sess-no-key.vtc	2416ef44432741696fcad03943901e14
+A	modules/authcache_varnish/varnish-3/test/auc/fetch-0004-ttl-0-sess-key.vtc	a7cbce95885ba657e9bb4cccf18e77d7
+A	modules/authcache_varnish/varnish-3/test/auc/fetch-0005-vary-all-no-sess-no-key.vtc	6447c7e455665800dcb17c43b34424df
+A	modules/authcache_varnish/varnish-3/test/auc/fetch-0006-vary-all-sess-key.vtc	dc36d77ce578dbddbdfd9d4409a0cbed
+A	modules/authcache_varnish/varnish-3/test/auc/fetch-0011-esi-no-sess-no-key.vtc	3ef242c7654a509bda3ce45939021d9d
+A	modules/authcache_varnish/varnish-3/test/auc/fetch-0012-esi-sess-key.vtc	911877e6f5d41c9cfe4d4d5818b3da5e
+A	modules/authcache_varnish/varnish-3/test/auc/fetch-0013-get-key-vary.vtc	e79c2f87711f80fd46eae862dab76388
+A	modules/authcache_varnish/varnish-3/test/auc/fetch-0014-get-key-ttl.vtc	a48b44cada191f4030d8e59cdb663bdf
+A	modules/authcache_varnish/varnish-3/test/auc/miss-0001-esi-header-no-sess-no-key.vtc	78bd82969165d35f2357c9fd5f038040
+A	modules/authcache_varnish/varnish-3/test/auc/miss-0002-esi-header-sess-key.vtc	d67657787f4c362d1bf4c729085f00a3
+A	modules/authcache_varnish/varnish-3/test/auc/recv-0001-verb.vtc	82fb180fd38430e1331f1e07d9617561
+A	modules/authcache_varnish/varnish-3/test/auc/recv-0002-post.vtc	b9345c00df0b4b1702abdd668199a954
+A	modules/authcache_varnish/varnish-3/test/auc/recv-0003-auth.vtc	9b3ed05e04043619e8e0d2b8e8a01965
+A	modules/authcache_varnish/varnish-3/test/auc/recv-0011-cookies-no-sess-no-key.vtc	825dfdcf88e8ef27d67f9d6982c05d6a
+A	modules/authcache_varnish/varnish-3/test/auc/recv-0012-cookies-sess-key.vtc	e5289d3243d79e5b33bdbe54b18b45d9
+A	modules/authcache_varnish/varnish-3/test/auc/recv-0013-no-cache-cookie-no-sess-no-key.vtc	a0744b51fa22808fad57533f82f04043
+A	modules/authcache_varnish/varnish-3/test/auc/recv-0014-no-cache-cookie-sess-key.vtc	bb5dadb1c6cf2cba48745e0a58dbda6d
+A	modules/authcache_varnish/varnish-3/test/auc/recv-0015-key-callback-access-no-sess-no-key.vtc	26569274d222898b5b16ce0db7b2d8fb
 A	modules/authcache_varnish/varnish-3/test/auc/recv-0016-key-callback-access-sess-key.vtc	dad4e9c6a72a7ee6b4c0fb2b171382e6
+A	modules/authcache_varnish/varnish-3/test/auc/roundtrip-0001-sess-key.vtc	136f4a9542eb6e181007923364de7d20
+A	modules/authcache_varnish/varnish-3/test/common/deliver-0001-no-auc-backend-no-sess-key.vtc	c98d356dbb571083356c9cb3555dbed3
+A	modules/authcache_varnish/varnish-3/test/common/deliver-0001-no-auc-backend-no-sess-no-key.vtc	6327d28ee09380cea32ea627a0a902e9
+A	modules/authcache_varnish/varnish-3/test/common/deliver-0002-no-auc-backend-sess-key.vtc	2a0b58cd290169e0eb96c63a79e7508a
+A	modules/authcache_varnish/varnish-3/test/common/deliver-0002-no-auc-backend-sess-no-key.vtc	b29496ba98f7c86141820444a8817c1d
+A	modules/authcache_varnish/varnish-3/test/common/deliver-0003-auc-backend-no-sess-key.vtc	5933cef4933fdadd33380932160b3bb4
+A	modules/authcache_varnish/varnish-3/test/common/deliver-0003-auc-backend-no-sess-no-key.vtc	01605fb06d1bab70d33c780c8f2441c2
+A	modules/authcache_varnish/varnish-3/test/common/deliver-0004-auc-backend-sess-key.vtc	4cdfe3314b66e7865b8711c684cff303
+A	modules/authcache_varnish/varnish-3/test/common/deliver-0004-auc-backend-sess-no-key.vtc	5e4961da9fc604903205ad1099e9a032
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0001-set-cookie-no-sess-key.vtc	195672c46789dcdb1c3905646d989e06
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0001-set-cookie-no-sess-no-key.vtc	f6b41810810f3838cf30d38e64d4ddb4
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0002-set-cookie-sess-key.vtc	ecc402795756862a7ba8a1833367259c
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0002-set-cookie-sess-no-key.vtc	93804e343cd060377483df9493a77964
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0003-ttl-0-no-sess-key.vtc	743b0a0a69274fda663e2391fe0ef892
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0003-ttl-0-no-sess-no-key.vtc	2416ef44432741696fcad03943901e14
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0004-ttl-0-sess-key.vtc	a7cbce95885ba657e9bb4cccf18e77d7
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0004-ttl-0-sess-no-key.vtc	404a8017579d82c608b3363385a7d093
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0005-vary-all-no-sess-key.vtc	30e27cad5d129e6d9850d1e4aa9636ab
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0005-vary-all-no-sess-no-key.vtc	6447c7e455665800dcb17c43b34424df
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0006-vary-all-sess-key.vtc	dc36d77ce578dbddbdfd9d4409a0cbed
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0006-vary-all-sess-no-key.vtc	09ff65e48a6e67549591f32078792609
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0011-esi-no-sess-key.vtc	5d99caf0d20109bdb23b4ef40ed71051
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0011-esi-no-sess-no-key.vtc	3ef242c7654a509bda3ce45939021d9d
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0012-esi-sess-key.vtc	911877e6f5d41c9cfe4d4d5818b3da5e
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0012-esi-sess-no-key.vtc	24a0c77089623bed2f7ae11d271b9ffc
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0013-get-key-vary.vtc	e79c2f87711f80fd46eae862dab76388
+A	modules/authcache_varnish/varnish-3/test/common/fetch-0014-get-key-ttl.vtc	a48b44cada191f4030d8e59cdb663bdf
+A	modules/authcache_varnish/varnish-3/test/common/miss-0001-esi-header-no-sess-key.vtc	e86d93cce42983494f1401842803ccf4
+A	modules/authcache_varnish/varnish-3/test/common/miss-0001-esi-header-no-sess-no-key.vtc	78bd82969165d35f2357c9fd5f038040
+A	modules/authcache_varnish/varnish-3/test/common/miss-0002-esi-header-sess-key.vtc	d67657787f4c362d1bf4c729085f00a3
+A	modules/authcache_varnish/varnish-3/test/common/miss-0002-esi-header-sess-no-key.vtc	429c595f2b1d60bcf9bdb562017c4f99
+A	modules/authcache_varnish/varnish-3/test/common/recv-0001-verb.vtc	82fb180fd38430e1331f1e07d9617561
+A	modules/authcache_varnish/varnish-3/test/common/recv-0002-post.vtc	b9345c00df0b4b1702abdd668199a954
+A	modules/authcache_varnish/varnish-3/test/common/recv-0003-auth.vtc	9b3ed05e04043619e8e0d2b8e8a01965
+A	modules/authcache_varnish/varnish-3/test/common/recv-0011-cookies-no-sess-force-key.vtc	6a5ccee54083be48fdd95f1cb10870a9
+A	modules/authcache_varnish/varnish-3/test/common/recv-0011-cookies-no-sess-no-key.vtc	825dfdcf88e8ef27d67f9d6982c05d6a
+A	modules/authcache_varnish/varnish-3/test/common/recv-0012-cookies-sess-key.vtc	e5289d3243d79e5b33bdbe54b18b45d9
+A	modules/authcache_varnish/varnish-3/test/common/recv-0012-cookies-sess-no-key.vtc	956136977d2d8d63c5a1f3499b039137
+A	modules/authcache_varnish/varnish-3/test/common/recv-0013-no-cache-cookie-no-sess-force-key.vtc	0a6173175083ad91d0080e797708a456
+A	modules/authcache_varnish/varnish-3/test/common/recv-0013-no-cache-cookie-no-sess-no-key.vtc	a0744b51fa22808fad57533f82f04043
+A	modules/authcache_varnish/varnish-3/test/common/recv-0014-no-cache-cookie-sess-key.vtc	bb5dadb1c6cf2cba48745e0a58dbda6d
+A	modules/authcache_varnish/varnish-3/test/common/recv-0014-no-cache-cookie-sess-no-key.vtc	9004e6eb623c3ac8fffd8efd0d60e860
 A	modules/authcache_varnish/varnish-3/test/common/recv-0015-key-callback-access-no-sess-key.vtc	3f1622fb0afd76b51e76a7937342d475
+A	modules/authcache_varnish/varnish-3/test/common/recv-0015-key-callback-access-no-sess-no-key.vtc	26569274d222898b5b16ce0db7b2d8fb
 A	modules/authcache_varnish/varnish-3/test/common/recv-0016-key-callback-access-sess-key.vtc	dad4e9c6a72a7ee6b4c0fb2b171382e6
+A	modules/authcache_varnish/varnish-3/test/common/recv-0016-key-callback-access-sess-no-key.vtc	83c6502c257f0a3a2327a3f96e164614
+A	modules/authcache_varnish/varnish-3/test/common/roundtrip-0001-sess-key.vtc	136f4a9542eb6e181007923364de7d20
+A	modules/authcache_varnish/varnish-3/test/def/deliver-0001-no-auc-backend-no-sess-no-key.vtc	6327d28ee09380cea32ea627a0a902e9
+A	modules/authcache_varnish/varnish-3/test/def/deliver-0002-no-auc-backend-sess-no-key.vtc	b29496ba98f7c86141820444a8817c1d
+A	modules/authcache_varnish/varnish-3/test/def/fetch-0001-set-cookie-no-sess-no-key.vtc	f6b41810810f3838cf30d38e64d4ddb4
+A	modules/authcache_varnish/varnish-3/test/def/fetch-0002-set-cookie-sess-no-key.vtc	93804e343cd060377483df9493a77964
+A	modules/authcache_varnish/varnish-3/test/def/fetch-0003-ttl-0-no-sess-no-key.vtc	2416ef44432741696fcad03943901e14
+A	modules/authcache_varnish/varnish-3/test/def/fetch-0004-ttl-0-sess-no-key.vtc	404a8017579d82c608b3363385a7d093
+A	modules/authcache_varnish/varnish-3/test/def/fetch-0005-vary-all-no-sess-no-key.vtc	6447c7e455665800dcb17c43b34424df
+A	modules/authcache_varnish/varnish-3/test/def/fetch-0006-vary-all-sess-no-key.vtc	09ff65e48a6e67549591f32078792609
+A	modules/authcache_varnish/varnish-3/test/def/miss-0001-esi-header-no-sess-no-key.vtc	78bd82969165d35f2357c9fd5f038040
+A	modules/authcache_varnish/varnish-3/test/def/miss-0002-esi-header-sess-no-key.vtc	429c595f2b1d60bcf9bdb562017c4f99
+A	modules/authcache_varnish/varnish-3/test/def/recv-0001-verb.vtc	82fb180fd38430e1331f1e07d9617561
+A	modules/authcache_varnish/varnish-3/test/def/recv-0002-post.vtc	b9345c00df0b4b1702abdd668199a954
+A	modules/authcache_varnish/varnish-3/test/def/recv-0003-auth.vtc	9b3ed05e04043619e8e0d2b8e8a01965
+A	modules/authcache_varnish/varnish-3/test/def/recv-0011-cookies-no-sess-no-key.vtc	825dfdcf88e8ef27d67f9d6982c05d6a
+A	modules/authcache_varnish/varnish-3/test/def/recv-0012-cookies-sess-no-key.vtc	956136977d2d8d63c5a1f3499b039137
+A	modules/authcache_varnish/varnish-3/test/def/recv-0013-no-cache-cookie-no-sess-no-key.vtc	a0744b51fa22808fad57533f82f04043
+A	modules/authcache_varnish/varnish-3/test/def/recv-0014-no-cache-cookie-sess-no-key.vtc	9004e6eb623c3ac8fffd8efd0d60e860
+A	modules/authcache_varnish/varnish-3/test/get/deliver-0001-no-auc-backend-no-sess-key.vtc	c98d356dbb571083356c9cb3555dbed3
+A	modules/authcache_varnish/varnish-3/test/get/deliver-0002-no-auc-backend-sess-key.vtc	2a0b58cd290169e0eb96c63a79e7508a
+A	modules/authcache_varnish/varnish-3/test/get/deliver-0003-auc-backend-no-sess-key.vtc	5933cef4933fdadd33380932160b3bb4
+A	modules/authcache_varnish/varnish-3/test/get/deliver-0004-auc-backend-sess-key.vtc	4cdfe3314b66e7865b8711c684cff303
+A	modules/authcache_varnish/varnish-3/test/get/fetch-0001-set-cookie-no-sess-key.vtc	195672c46789dcdb1c3905646d989e06
+A	modules/authcache_varnish/varnish-3/test/get/fetch-0002-set-cookie-sess-key.vtc	ecc402795756862a7ba8a1833367259c
+A	modules/authcache_varnish/varnish-3/test/get/fetch-0003-ttl-0-no-sess-key.vtc	743b0a0a69274fda663e2391fe0ef892
+A	modules/authcache_varnish/varnish-3/test/get/fetch-0004-ttl-0-sess-key.vtc	a7cbce95885ba657e9bb4cccf18e77d7
+A	modules/authcache_varnish/varnish-3/test/get/fetch-0005-vary-all-no-sess-key.vtc	30e27cad5d129e6d9850d1e4aa9636ab
+A	modules/authcache_varnish/varnish-3/test/get/fetch-0006-vary-all-sess-key.vtc	dc36d77ce578dbddbdfd9d4409a0cbed
+A	modules/authcache_varnish/varnish-3/test/get/fetch-0011-esi-no-sess-key.vtc	5d99caf0d20109bdb23b4ef40ed71051
+A	modules/authcache_varnish/varnish-3/test/get/fetch-0012-esi-sess-key.vtc	911877e6f5d41c9cfe4d4d5818b3da5e
+A	modules/authcache_varnish/varnish-3/test/get/fetch-0013-get-key-vary.vtc	e79c2f87711f80fd46eae862dab76388
+A	modules/authcache_varnish/varnish-3/test/get/fetch-0014-get-key-ttl.vtc	a48b44cada191f4030d8e59cdb663bdf
+A	modules/authcache_varnish/varnish-3/test/get/miss-0001-esi-header-no-sess-key.vtc	e86d93cce42983494f1401842803ccf4
+A	modules/authcache_varnish/varnish-3/test/get/miss-0002-esi-header-sess-key.vtc	d67657787f4c362d1bf4c729085f00a3
+A	modules/authcache_varnish/varnish-3/test/get/recv-0001-verb.vtc	82fb180fd38430e1331f1e07d9617561
+A	modules/authcache_varnish/varnish-3/test/get/recv-0002-post.vtc	b9345c00df0b4b1702abdd668199a954
+A	modules/authcache_varnish/varnish-3/test/get/recv-0003-auth.vtc	9b3ed05e04043619e8e0d2b8e8a01965
+A	modules/authcache_varnish/varnish-3/test/get/recv-0011-cookies-no-sess-force-key.vtc	6a5ccee54083be48fdd95f1cb10870a9
+A	modules/authcache_varnish/varnish-3/test/get/recv-0012-cookies-sess-key.vtc	e5289d3243d79e5b33bdbe54b18b45d9
+A	modules/authcache_varnish/varnish-3/test/get/recv-0013-no-cache-cookie-no-sess-force-key.vtc	0a6173175083ad91d0080e797708a456
+A	modules/authcache_varnish/varnish-3/test/get/recv-0014-no-cache-cookie-sess-key.vtc	bb5dadb1c6cf2cba48745e0a58dbda6d
 A	modules/authcache_varnish/varnish-3/test/get/recv-0015-key-callback-access-no-sess-key.vtc	3f1622fb0afd76b51e76a7937342d475
 A	modules/authcache_varnish/varnish-3/test/get/recv-0016-key-callback-access-sess-key.vtc	dad4e9c6a72a7ee6b4c0fb2b171382e6
+A	modules/authcache_varnish/varnish-3/test/get/roundtrip-0001-sess-key.vtc	136f4a9542eb6e181007923364de7d20
+A	modules/authcache_varnish/varnish-3/test/skip/deliver-0001-no-auc-backend-no-sess-no-key.vtc	6327d28ee09380cea32ea627a0a902e9
+A	modules/authcache_varnish/varnish-3/test/skip/deliver-0002-no-auc-backend-sess-no-key.vtc	b29496ba98f7c86141820444a8817c1d
+A	modules/authcache_varnish/varnish-3/test/skip/deliver-0003-auc-backend-no-sess-no-key.vtc	01605fb06d1bab70d33c780c8f2441c2
+A	modules/authcache_varnish/varnish-3/test/skip/deliver-0004-auc-backend-sess-no-key.vtc	5e4961da9fc604903205ad1099e9a032
+A	modules/authcache_varnish/varnish-3/test/skip/fetch-0001-set-cookie-no-sess-no-key.vtc	f6b41810810f3838cf30d38e64d4ddb4
+A	modules/authcache_varnish/varnish-3/test/skip/fetch-0002-set-cookie-sess-no-key.vtc	93804e343cd060377483df9493a77964
+A	modules/authcache_varnish/varnish-3/test/skip/fetch-0003-ttl-0-no-sess-no-key.vtc	2416ef44432741696fcad03943901e14
+A	modules/authcache_varnish/varnish-3/test/skip/fetch-0004-ttl-0-sess-no-key.vtc	404a8017579d82c608b3363385a7d093
+A	modules/authcache_varnish/varnish-3/test/skip/fetch-0005-vary-all-no-sess-no-key.vtc	6447c7e455665800dcb17c43b34424df
+A	modules/authcache_varnish/varnish-3/test/skip/fetch-0006-vary-all-sess-no-key.vtc	09ff65e48a6e67549591f32078792609
+A	modules/authcache_varnish/varnish-3/test/skip/fetch-0011-esi-no-sess-no-key.vtc	3ef242c7654a509bda3ce45939021d9d
+A	modules/authcache_varnish/varnish-3/test/skip/fetch-0012-esi-sess-no-key.vtc	24a0c77089623bed2f7ae11d271b9ffc
+A	modules/authcache_varnish/varnish-3/test/skip/miss-0001-esi-header-no-sess-no-key.vtc	78bd82969165d35f2357c9fd5f038040
+A	modules/authcache_varnish/varnish-3/test/skip/miss-0002-esi-header-sess-no-key.vtc	429c595f2b1d60bcf9bdb562017c4f99
+A	modules/authcache_varnish/varnish-3/test/skip/recv-0001-verb.vtc	82fb180fd38430e1331f1e07d9617561
+A	modules/authcache_varnish/varnish-3/test/skip/recv-0002-post.vtc	b9345c00df0b4b1702abdd668199a954
+A	modules/authcache_varnish/varnish-3/test/skip/recv-0003-auth.vtc	9b3ed05e04043619e8e0d2b8e8a01965
+A	modules/authcache_varnish/varnish-3/test/skip/recv-0011-cookies-no-sess-no-key.vtc	825dfdcf88e8ef27d67f9d6982c05d6a
+A	modules/authcache_varnish/varnish-3/test/skip/recv-0012-cookies-sess-no-key.vtc	956136977d2d8d63c5a1f3499b039137
+A	modules/authcache_varnish/varnish-3/test/skip/recv-0013-no-cache-cookie-no-sess-no-key.vtc	a0744b51fa22808fad57533f82f04043
+A	modules/authcache_varnish/varnish-3/test/skip/recv-0014-no-cache-cookie-sess-no-key.vtc	9004e6eb623c3ac8fffd8efd0d60e860
 A	modules/authcache_varnish/varnish-3/test/skip/recv-0015-key-callback-access-no-sess-no-key.vtc	26569274d222898b5b16ce0db7b2d8fb
+A	modules/authcache_varnish/varnish-3/test/skip/recv-0016-key-callback-access-sess-no-key.vtc	83c6502c257f0a3a2327a3f96e164614
 A	modules/authcache_varnish/varnish-4/Dockerfile	2d53ea32c2d45211c95cfa6f8832739f
 A	modules/authcache_varnish/varnish-4/core.vcl	bd98cda001105ed08ceb64d9da28664f
 A	modules/authcache_varnish/varnish-4/example.vcl	524cf5c86d6f3612b1f71ef663bb6abe
@@ -147,6 +416,7 @@ A	modules/authcache_varnish/varnish-4/test/common/recv-0014-no-cache-cookie-sess
 A	modules/authcache_varnish/varnish-4/test/common/recv-0015-key-callback-access-no-sess-key.vtc	3f1622fb0afd76b51e76a7937342d475
 A	modules/authcache_varnish/varnish-4/test/common/recv-0015-key-callback-access-no-sess-no-key.vtc	26569274d222898b5b16ce0db7b2d8fb
 A	modules/authcache_varnish/varnish-4/test/common/recv-0016-key-callback-access-sess-key.vtc	dad4e9c6a72a7ee6b4c0fb2b171382e6
+A	modules/authcache_varnish/varnish-4/test/common/recv-0016-key-callback-access-sess-no-key.vtc	83c6502c257f0a3a2327a3f96e164614
 A	modules/authcache_varnish/varnish-4/test/common/roundtrip-0001-sess-key.vtc	136f4a9542eb6e181007923364de7d20
 A	modules/authcache_varnish/varnish-4/test/def/deliver-0001-no-auc-backend-no-sess-no-key.vtc	6327d28ee09380cea32ea627a0a902e9
 A	modules/authcache_varnish/varnish-4/test/def/deliver-0002-no-auc-backend-sess-no-key.vtc	b29496ba98f7c86141820444a8817c1d

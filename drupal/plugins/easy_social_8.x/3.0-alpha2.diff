@@ -1,5 +1,7 @@
 M	contrib/easy_social_example/easy_social_example.info.yml	1377d866f27e8ee9ddf271ae330df036
 M	contrib/easy_social_example/easy_social_example.routing.yml	67b44924897ffca93814d43f378c9969
+D	contrib/easy_social_example/lib/Drupal/easy_social_example/SettingsForm.php	
+A	contrib/easy_social_example/src/Form/SettingsForm.php	8ed100079df7a1d4bf9bc1221df063da
 A	css/easy_social.css	b1110c03567f63df85ae37a530d736e3
 M	easy_social.info.yml	35393dad5fc061e853886f287b1750d0
 A	easy_social.libraries.yml	4c67d1b7a5b85fae1fa30992e21cb6ff
@@ -11,6 +13,22 @@ M	easy_social.routing.yml	175df2ec237953329e5c4d6569d43e6b
 M	easy_social.theme.inc	5d7f46c5dc3751f51ec96f10bead4171
 A	js/facebook.js	f30a25bfa043ba4a270457976ad961f2
 A	js/twitter.js	5230b597ea743d78597a261af056c288
+D	lib/Drupal/easy_social/EasySocialException.php	
+D	lib/Drupal/easy_social/EasySocialSettingsForm.php	
+D	lib/Drupal/easy_social/FacebookSettingsForm.php	
+D	lib/Drupal/easy_social/GooglePlusSettingsForm.php	
+D	lib/Drupal/easy_social/LinkedInSettingsForm.php	
+D	lib/Drupal/easy_social/PinterestSettingsForm.php	
+D	lib/Drupal/easy_social/Plugin/Block/EasySocialBlock.php	
+D	lib/Drupal/easy_social/TwitterSettingsForm.php	
+A	src/EasySocialException.php	0b0f38ff59fb7071e0447d87796bc207
+A	src/Form/EasySocialSettingsForm.php	9e1e57e2a77b53736cfe1f1d32ac4437
+A	src/Form/FacebookSettingsForm.php	c206c498a97e3a54c51b0e08ba6654bd
+A	src/Form/GooglePlusSettingsForm.php	1632bd1312879cc47ee6e2a1b85de333
+A	src/Form/LinkedInSettingsForm.php	4653f1e0886bb6ae6059a4062ffd3f3f
+A	src/Form/PinterestSettingsForm.php	a407099c29272e3f0bf0d5397793abb8
+A	src/Form/TwitterSettingsForm.php	31ff936269fc0eb1bae2a896b217e0a3
+A	src/Plugin/Block/EasySocialBlock.php	ca1152be38a6fa5ec7a07fc79adf7a9b
 A	templates/easy-social-facebook.html.twig	dab2861d63b124a3ac0df3a35494cfb0
 A	templates/easy-social-googleplus.html.twig	d082321dead512a9987a66821815babf
 A	templates/easy-social-linkedin.html.twig	b6104630110654fca291c827659b482d

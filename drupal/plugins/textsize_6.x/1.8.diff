@@ -1,0 +1,11 @@
+M	CHANGELOG.txt	4814c0d76d50d368f17ab31035a22eb8
+M	includes/textsize.admin.inc	3949fc27d0f136b5057dd94c4c624fd9
+M	includes/textsize.block.inc	feeb8777ce8859705dea9f5e7b30e3f0
+M	textsize-image.tpl.php	631865eb03793d923513f9c35d898189
+M	textsize-text.tpl.php	2e15899c8a97d25f527a1e37c325006f
+M	textsize.css	1d194a5c3fc14891745c845f02522a11
+M	textsize.info	df2caf5d551564e42f08134fe9ebd12e
+M	textsize.install	f2c4036fae680c5db0314b74b0de6477
+M	translations/de.po	2ae458e9982c40bf3a725afeb73da27e
+M	translations/hu.po	1aa27d1e24c3d013faca1402d342574a
+M	translations/textsize.pot	04b972ea327304de75b3a30199007433

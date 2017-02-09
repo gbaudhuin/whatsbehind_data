@@ -9,6 +9,10 @@ A	responsive_menu.make	989a2624d67a5248fdb7f67b334ed376
 M	responsive_menu.module	23c664b94eb7067fd2f0231d6cf4805b
 M	src/Form/SettingsForm.php	e2586cb58d8e7a071f3fc831ee97763e
 M	src/Plugin/Block/HorizontalMenu.php	b0ae49c6c01169ecc8becd21004d4e5f
+A	templates/responsive-menu-block-toggle.html.twig	e47ddc472dea5760a952533b6fd8d984
 A	templates/responsive-menu-block-wrapper.html.twig	7eebdc70c2a06f70978b1eead04d6d3a
+A	templates/responsive-menu-horizontal.html.twig	8e000b20c707c058beac474eeb9bef81
 D	theme/block-responsivemenumobileicon.html.twig	
+D	theme/responsive-menu-block-toggle.html.twig	
 D	theme/responsive-menu-block-wrapper.html.twig	
+D	theme/responsive-menu-horizontal.html.twig	

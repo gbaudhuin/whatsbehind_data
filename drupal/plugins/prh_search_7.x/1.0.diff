@@ -1,5 +1,8 @@
-D	INSTALL.txt	
-M	includes/prh_search_page.inc	8f74b0fed2af1f497ef269aabde80723
-M	prh_search.info	a59277da0838f0fe85e810998c03856f
-M	prh_search.install	203053f3ea87c4d2a4cddd558aef6ac6
-M	prh_search.module	748c35dac302e44db55aba8b16e4dfb5
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	0c2930c47efd127a55cd55d318978649
+A	includes/prh.inc	62c8822bfe0b4132fe796b465fcb1a1b
+A	includes/prh_search_page.inc	8f74b0fed2af1f497ef269aabde80723
+A	prh_search.info	a59277da0838f0fe85e810998c03856f
+A	prh_search.install	203053f3ea87c4d2a4cddd558aef6ac6
+A	prh_search.module	748c35dac302e44db55aba8b16e4dfb5
+A	prh_search.tpl.php	720f54e69919a44192d44806f4f75aeb

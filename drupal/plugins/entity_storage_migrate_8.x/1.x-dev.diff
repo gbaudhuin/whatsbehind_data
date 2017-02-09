@@ -1,5 +1,0 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	composer.json	5dfdf496b8ba1a8aaa8ad70a234be93e
-A	entity_storage_migrate.info.yml	b959026d141f476f443acdf5e5652a51
-A	entity_storage_migrate.module	97a36b61c7988453e9cf34f796dc1cb0
-A	src/Entity/Storage/ContentEntityStorageSchemaTrait.php	e35a8b638ae9dd39a2f609a3bda235e5

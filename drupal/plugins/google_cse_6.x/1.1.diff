@@ -7,3 +7,5 @@ M	google_cse.info	a3f3793923ae2f8a38e7ab5ae867c918
 A	google_cse.install	ba0940c94b435ae208f230b1968282c3
 M	google_cse.module	37bf04e5b56cfce593e7b0206f14a169
 M	google_cse.theme.inc	41d4195539237837f4b9e95fc558aaee
+D	po/ru.po	
+A	translations/ru.po	f6ff3a7a933e8924aed7d676136167f6

@@ -1,3 +1,5 @@
+D	relation.admin.css	
+D	relation.admin.inc	
 M	relation.ctools.inc	8b7cf164b4bd9bb189f23497dfa7e228
 M	relation.info	d18cb1593c4e6d187b7e4e188763945e
 M	relation.install	dff54b296aac13b2fe9cf63788e4d1b3
@@ -12,7 +14,9 @@ M	relation_endpoint.module	d921fe03a5fbdec17ba11a9ca94e466b
 M	relation_entity_collector/relation_entity_collector.info	629130ca088f0a11abe96f05f93064ed
 M	relation_entity_collector/relation_entity_collector.module	9601e9c0e920a79b47b8685396587bb2
 M	relation_entity_collector/tests/relation_entity_collector.test	d67bc8eefa7647259817e216be4dc99b
+A	relation_ui.css	2dea2abc4af99a8e2ceaa9bc7067ab26
 A	relation_ui.info	804100df3c3eaf9125a8f214090f5e50
+A	relation_ui.module	307bca1506cdd728fbf0ee2a515987f5
 M	tests/relation.test	e0506aa95661e49243e69175573084c8
 M	tests/relation.views.test	d4ebc58ca68cd21f0d474054146c3f70
 M	tests/relation_rules_test.info	a27b28cdcf9c468ddb02bcd921de7a7b

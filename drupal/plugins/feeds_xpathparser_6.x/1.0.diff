@@ -1,18 +1,4 @@
 A	FeedsXPathParser.inc	42293fbedcf097baab0fb17b724ce603
-D	FeedsXPathParserBase.inc	
-D	FeedsXPathParserDOMXPath.inc	
-D	FeedsXPathParserHTML.inc	
-D	FeedsXPathParserQueryParser.inc	
-D	FeedsXPathParserXML.inc	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	feeds_xpathparser.info	59b58dcc733b17b9e0fcf7f9edf5d27f
-D	feeds_xpathparser.install	
-M	feeds_xpathparser.module	26d89c809ae5c9ec9b74e6b02b604607
-D	tests/feeds_xpathparser.test	
-D	tests/feeds_xpathparser/issues_drupal.org.htm	
-D	tests/feeds_xpathparser/rewrite_test.xml	
-D	tests/feeds_xpathparser/sample_atom_feed.xml	
-D	tests/feeds_xpathparser/sample_atom_feed_updated.xml	
-D	tests/feeds_xpathparser_parser_html.test	
-D	tests/feeds_xpathparser_parser_xml.test	
-D	tests/feeds_xpathparser_query_parser.test	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	feeds_xpathparser.info	59b58dcc733b17b9e0fcf7f9edf5d27f
+A	feeds_xpathparser.module	26d89c809ae5c9ec9b74e6b02b604607

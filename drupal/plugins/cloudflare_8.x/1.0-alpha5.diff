@@ -1,9 +1,0 @@
-M	cloudflare.info.yml	6c03e917087ae39250fcc18ed176985d
-M	cloudflare.routing.yml	9991c066317579ec911f9f261ba1e11f
-M	composer.json	8a435eccd5e457e572efba5c14900ff6
-M	modules/cloudflare_form_tester/cloudflare_form_tester.info.yml	302ca360a7984e29f1e014caa994ec39
-M	modules/cloudflarepurger/cloudflarepurger.info.yml	332ff36dc53e2e915526c11c7db4d748
-M	modules/cloudflarepurger/src/EventSubscriber/CloudFlareCacheTagHeaderGenerator.php	a595e2afa59128dc6de0f026e3b2040d
-M	modules/cloudflarepurger/src/Plugin/Purge/Purger/CloudFlarePurger.php	b7dc9b2e30e18bd0944fe821f1278d93
-M	src/Form/ZoneSelectionForm.php	a7600cc242c82a0852aa98ea8af65104
-M	src/Tests/CloudFlareAdminSettingsFormTest.php	ab87126a4fd006e5e4be894338f9f7e3

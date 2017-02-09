@@ -1,25 +1,8 @@
-D	README.md	
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	README.txt	93ee202e3fb8b92d1ce2bb6ee654782e
-M	commerce_migrate.info	f2ac8301e90610258134e38651209cc3
-M	commerce_migrate.module	ef08be30cace4fda7a8d8ead70feb987
-D	commerce_migrate_example/commerce_migrate_example.info	
-D	commerce_migrate_example/commerce_migrate_example.migrate.inc	
-D	commerce_migrate_example/commerce_migrate_example.module	
-D	commerce_migrate_example/files/orders.csv	
-D	commerce_migrate_example/files/products.csv	
-D	commerce_migrate_example/images/berenstain_bears.jpg	
-D	commerce_migrate_example/images/computer_graphics_opengl.jpg	
-D	commerce_migrate_example/images/computer_music.gif	
-D	commerce_migrate_example/images/digital_computer_electronics.jpg	
-D	commerce_migrate_example/migrations/abstractions/migration.inc	
-D	commerce_migrate_example/migrations/abstractions/orders.inc	
-D	commerce_migrate_example/migrations/abstractions/products.inc	
-D	commerce_migrate_example/migrations/order.inc	
-D	commerce_migrate_example/migrations/product.inc	
-D	commerce_migrate_example/migrations/product_display.inc	
-D	commerce_migrate_example/migrations/product_line_item.inc	
-D	plugins/destinations/commerce_license.inc	
-M	plugins/destinations/commerce_product_type.inc	f75521d2c4ceb56fb9d3636633042f75
-M	plugins/destinations/fields.inc	9381768f27182db408f87f24b530d557
-D	tests/commerce_migrate_base.test	
-D	tests/commerce_migrate_tests.test	
+A	commerce_migrate.info	f2ac8301e90610258134e38651209cc3
+A	commerce_migrate.module	ef08be30cace4fda7a8d8ead70feb987
+A	commerce_migrate_ubercart/README.txt	af7318f69f4995545cda1da564211fcc
+A	plugins/destinations/commerce_product.inc	4451226b30f675b3a9f2ee477fc78b6f
+A	plugins/destinations/commerce_product_type.inc	f75521d2c4ceb56fb9d3636633042f75
+A	plugins/destinations/fields.inc	9381768f27182db408f87f24b530d557

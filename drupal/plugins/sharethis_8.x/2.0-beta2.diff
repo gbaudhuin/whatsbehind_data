@@ -12,7 +12,7 @@ M	sharethis.services.yml	d6966cbb12f24456b4aaebcbe9110ad3
 M	src/Form/SharethisConfigurationForm.php	0455b8097d212b7061750df85e32b49d
 M	src/Plugin/Block/SharethisBlock.php	17d2acb37ea35fbeeb17cd9033e897d3
 M	src/Plugin/Block/SharethisWidgetBlock.php	d38f83180dc4baa86e8c964203bcfa5c
-M	src/Plugin/views/field/SharethisNode.php	d53be89b1fc45103e6610072b8a665a7
+M	src/Plugin/Views/field/SharethisNode.php	d53be89b1fc45103e6610072b8a665a7
 M	src/SharethisManager.php	1f67b63a1402bd7d69661e55e02b0b76
 M	src/SharethisManagerInterface.php	f5e4ee9ba8d37144f6aba6e1b5befa31
 M	src/Tests/SharethisBlockTest.php	b48712a60554824526904a85a463ffce

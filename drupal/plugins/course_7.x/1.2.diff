@@ -27,6 +27,12 @@ M	modules/course_signup/course_signup.module	dba55a6934e12d56921d76561b8b484d
 M	modules/course_uc/course_uc.info	8d86a2187e23cd9e1488378bb8f4aa74
 M	modules/course_uc/course_uc.module	d6d5668880391b6384319a79213e0767
 M	modules/course_webform/course_webform.info	b962f025e831be493bb161b004d90b39
+D	plugins/course/access/conditional.inc	
+D	plugins/course/access/grade.inc	
+D	plugins/course/access/timing.inc	
+A	plugins/course_object_access/conditional.inc	ab402eb112a7d0b9013a2ef9b4e2ee07
+A	plugins/course_object_access/grade.inc	e532e562b8bea723653dd30f649a8916
+A	plugins/course_object_access/timing.inc	877b57804ea7aa76104c74819c2871a5
 M	tests/CourseGradeTestCase.test	bed62986f912673156acad23c4d396ad
 M	tests/CourseObjectAccessTestCase.test	84dd169894d2f3ec7f35e83073db71c0
 M	tests/CourseWorkflowTestCase.test	bd5f593628621775c7c9b86b96889e1f

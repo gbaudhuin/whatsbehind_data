@@ -1,12 +1,9 @@
-M	README.md	8b997f1bf5318138242bacd59c2a9f03
-M	jdrupal.api.php	d038ce70ed05aa301d525407486c2563
-M	jdrupal.info.yml	e87472725d9c592ae06cb0d140edb0e3
-D	jdrupal.libraries.yml	
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	8b997f1bf5318138242bacd59c2a9f03
+A	jdrupal.api.php	d038ce70ed05aa301d525407486c2563
+A	jdrupal.info.yml	e87472725d9c592ae06cb0d140edb0e3
 A	jdrupal.links.menu.yml	f4076f20b38406a5966a59654c358ae4
-M	jdrupal.module	76eaa4dc5436d1e5b595241a526e8a0e
+A	jdrupal.module	76eaa4dc5436d1e5b595241a526e8a0e
 A	jdrupal.routing.yml	f537e1b1108b33541d28b24792395892
-D	js/jdrupal.min.js	
-M	src/Controller/jDrupalController.php	36125f1ebbdcccb243595115811533d9
-M	src/Plugin/rest/resource/jDrupalConnect.php	b798f316516b593fd61558fd759c6a1d
-D	src/Tests/jDrupalConnectTest.php	
-D	tests/src/Unit/JDrupalConnectTest.php	
+A	src/Controller/jDrupalController.php	36125f1ebbdcccb243595115811533d9
+A	src/Plugin/rest/resource/jDrupalConnect.php	b798f316516b593fd61558fd759c6a1d

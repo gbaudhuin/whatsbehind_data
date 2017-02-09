@@ -14,3 +14,5 @@ M	rules/rules.module	cf1c96201737a7d357fc70cb8d422382
 M	rules/rules.variables.inc	8ca042763e8ea6381d119e82b389a62d
 M	rules_scheduler/rules_scheduler.info	d4c49f8c0d7f7a5a8f6f940065fab089
 M	rules_test/rules_test.info	8a22361a5bd747f04f8a0529e7cb7331
+A	rules_test/rules_test.test	b611eabc0fd6a735f196303536786187
+D	rules_test/tests/rules.test	

@@ -1,30 +1,25 @@
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 D	README.txt	
-D	backup_migrate.css	
 D	backup_migrate.info	
 D	backup_migrate.install	
-D	backup_migrate.js	
 D	backup_migrate.module	
 A	includes/S3.php	e17cc0ae83ba8b35be9b8b228fc572ba
-M	includes/backup_migrate.drush.inc	4617d3a7a5767bee81ccc695b10745ae
-M	includes/crud.inc	26961e7b22fbfc494af9337f83ed3815
-M	includes/destinations.browser.inc	9c82b69e172937a00b8497306fb7058e
-M	includes/destinations.db.inc	453d6b797b4da661975ae42406937a89
-M	includes/destinations.db.mysql.inc	3f632db06cb863281c1ee3a13b076314
-M	includes/destinations.email.inc	0989a5119c4284af9ba0a686c74e16fc
-M	includes/destinations.file.inc	f77d576bb7cafe352d80641247deec93
-M	includes/destinations.ftp.inc	de9074cbaca86a004f0cf73bfff1925c
-M	includes/destinations.inc	f855476d6b1dc46738425ceb8d8db4eb
-D	includes/destinations.nodesquirrel.inc	
-M	includes/destinations.s3.inc	b04e81da55b874549cf69bb1661fe88b
-M	includes/files.inc	018360cd34b6da6b882a58e0b712a821
-M	includes/filters.backup_restore.inc	9665f172891989a7581d970510a18369
-M	includes/filters.compression.inc	f49163249911c4694eb9f1e4c0e17d85
-M	includes/filters.encryption.inc	68ecc71a2f3cf2af92919023f99167ed
-M	includes/filters.inc	6933c0d84fae95b64c8e1e5203415f11
-M	includes/filters.statusnotify.inc	47e5358d7dbb13dd399d70ad4becddd6
-M	includes/filters.utils.inc	aab1c9b602ed9f21fcbeb12dfbd1cb05
-M	includes/profiles.inc	69167ca6436f3222ced3f294ba93feed
-M	includes/schedules.inc	248bf11a3756d05a662803c97ed2acd7
-D	tests/backup_migrate.functionality.test	
-D	tests/backup_migrate.unit.test	
+A	includes/backup_migrate.drush.inc	4617d3a7a5767bee81ccc695b10745ae
+A	includes/crud.inc	26961e7b22fbfc494af9337f83ed3815
+A	includes/destinations.browser.inc	9c82b69e172937a00b8497306fb7058e
+A	includes/destinations.db.inc	453d6b797b4da661975ae42406937a89
+A	includes/destinations.db.mysql.inc	3f632db06cb863281c1ee3a13b076314
+A	includes/destinations.email.inc	0989a5119c4284af9ba0a686c74e16fc
+A	includes/destinations.file.inc	f77d576bb7cafe352d80641247deec93
+A	includes/destinations.ftp.inc	de9074cbaca86a004f0cf73bfff1925c
+A	includes/destinations.inc	f855476d6b1dc46738425ceb8d8db4eb
+A	includes/destinations.s3.inc	b04e81da55b874549cf69bb1661fe88b
+A	includes/files.inc	018360cd34b6da6b882a58e0b712a821
+A	includes/filters.backup_restore.inc	9665f172891989a7581d970510a18369
+A	includes/filters.compression.inc	f49163249911c4694eb9f1e4c0e17d85
+A	includes/filters.encryption.inc	68ecc71a2f3cf2af92919023f99167ed
+A	includes/filters.inc	6933c0d84fae95b64c8e1e5203415f11
+A	includes/filters.statusnotify.inc	47e5358d7dbb13dd399d70ad4becddd6
+A	includes/filters.utils.inc	aab1c9b602ed9f21fcbeb12dfbd1cb05
+A	includes/profiles.inc	69167ca6436f3222ced3f294ba93feed
+A	includes/schedules.inc	248bf11a3756d05a662803c97ed2acd7

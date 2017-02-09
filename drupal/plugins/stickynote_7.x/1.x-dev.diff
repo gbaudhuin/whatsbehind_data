@@ -1,11 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	9170a41f7f34fb8eb8be7f5c49d11334
-A	css/stickynote.css	640030e172a4c636e4cce009b26d815a
-A	includes/stickynote.admin.inc	e77fec3710ed93d12b5cc7fdfa824e69
-A	includes/stickynote.block.inc	c572244bc352b752c61288fe7499fd28
-A	includes/stickynote.views.inc	d444ae0e1bbb29be0bb3809dce4bfb13
-A	stickynote.controller.inc	3cbc2bf84900d64716a6f14d61db1ac5
-A	stickynote.info	831107714488b91bc71eb4ef12c43901
-A	stickynote.install	0a3c93be8416be3b447acd05382cc10e
-A	stickynote.module	5f8ac0a1c01b37b87776c55fab4e4a19
-A	theme/stickynote.theme.inc	9aaea7b533500f469a9c9ae17bd1dca9
+M	stickynote.info	831107714488b91bc71eb4ef12c43901

@@ -1,23 +1,29 @@
 M	CHANGELOG.txt	d7398c8915938281855913ef8363f999
+D	INSTALL.txt	
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 M	README.txt	ca558499e0725a8f2c4028b6802fe1ae
-M	drupalimage/css/img_assist.css	44acd06ef15e62baa601f7aed77b6c2a
+D	drupalimage/README.txt	
+A	drupalimage/css/img_assist.css	44acd06ef15e62baa601f7aed77b6c2a
+D	drupalimage/drupalimage.css	
 M	drupalimage/editor_plugin.js	d6fbbddbd823987dd8849113d512d040
 M	drupalimage/editor_plugin_src.js	e29063b00882c7598622dcebb941a5a4
+D	drupalimage/images/readme.txt	
+M	drupalimage/langs/de.js	04f66c41dcdd34dd3abda48678b4a675
+M	drupalimage/langs/en.js	1ff0a355321a15b745d3fb56cfe25f05
 M	img_assist.css	5a7c75c37bf9767a5e6cb971f247984f
 M	img_assist.info	159e9961e82c20a92dc76c1ac95cb6c7
 M	img_assist.install	e554cddcb9bf7e925ad6f34d78351b17
 M	img_assist.js	ff6b76f4cc48686abba9a9a27bbfbe78
 M	img_assist.module	65748376cfbec51cdc92d027ed1fb4ce
-M	img_assist_popup.css	fc26ab11257bf280674e17e66328049f
-M	img_assist_popup.js	faa006ee29a5722101ee4fd44795fcd1
+A	img_assist_popup.css	fc26ab11257bf280674e17e66328049f
+A	img_assist_popup.js	faa006ee29a5722101ee4fd44795fcd1
 M	img_assist_textarea.js	72b3d690dccbd318836473c6a18fc296
 M	img_assist_tinymce.js	5c6d6256b0306ef50dbfc04fb77a3560
-M	includes/img_assist.token.inc	96797cbe0dfb89195d8e04bcfa06a457
-M	includes/img_assist.views.inc	87af2702a297d2ad1f137570632d1a08
-M	includes/img_assist.views_default.inc	edd92796ee5a4fd0581ac6b141196043
-M	theme/img-assist-browser-thumbnail.tpl.php	3ec79d8e690d65287f4bb92127fad651
-M	theme/theme.inc	f766d81b2f033a4a4f1abef7a9623709
+A	includes/img_assist.token.inc	96797cbe0dfb89195d8e04bcfa06a457
+A	includes/img_assist.views.inc	87af2702a297d2ad1f137570632d1a08
+A	includes/img_assist.views_default.inc	edd92796ee5a4fd0581ac6b141196043
+A	theme/img-assist-browser-thumbnail.tpl.php	3ec79d8e690d65287f4bb92127fad651
+A	theme/theme.inc	f766d81b2f033a4a4f1abef7a9623709
 A	translations/ar.po	fc2dd45e0685581d65a488ae288cec3e
 A	translations/da.po	2fda68373aa4b511917e64fc94f8492b
 A	translations/de.po	04292fc84186202e56f33445f09bc136

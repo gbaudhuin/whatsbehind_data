@@ -1,18 +1,27 @@
 A	CHANGELOG.txt	d41d8cd98f00b204e9800998ecf8427e
 A	contrib/mt_browscap/mt_browscap.info	0c57753a289cb98cb2b2c4168c4db603
 A	contrib/mt_browscap/mt_browscap.module	d414317a743124d601f771aadd6e7685
+A	mobile_device_tester/mobile-device-test.tpl.php	d9ccd2003e6f12d48cf58265c0246523
+A	mobile_device_tester/mobile_device_tester.info	c4faa90e4466ca6e697cc481382ea2ea
+A	mobile_device_tester/mobile_device_tester.module	483eea64908d91804f454b396c7161e7
 M	mobile_tools.admin.inc	045308eb2cf22dc8454fb903930485bb
 D	mobile_tools.api.php	
 M	mobile_tools.info	278f9dd207b16b87836fd82c3e2491e3
 M	mobile_tools.install	95f1de6b126dfcabf83891be15216ac6
 M	mobile_tools.module	c804cdebf41a140532d2a4c2c5c1eb2a
+M	mobile_tools_cache.inc	f4de6699cb53a25f5115c0acc1201f91
 A	mobile_tools_roles.admin.inc	a8bf14f77ef172fae0ee758c3dd69a60
 A	mobile_tools_roles.info	04092d9a0f6d143a5a8ffc02f8be9591
+A	mobile_tools_roles.install	998ad7067059f9b4fa98765035fdd819
 A	mobile_tools_roles.module	67f0c7d5bd89b11c68433c41b539f010
+D	modules/mobile_device_tester/mobile-device-test.tpl.php	
+D	modules/mobile_device_tester/mobile_device_tester.info	
+D	modules/mobile_device_tester/mobile_device_tester.module	
 D	modules/mobile_tools_detection/mobile_tools_detection.info	
 D	modules/mobile_tools_detection/mobile_tools_detection.module	
 D	modules/mobile_tools_roles/mobile_tools_roles.admin.inc	
 D	modules/mobile_tools_roles/mobile_tools_roles.info	
+D	modules/mobile_tools_roles/mobile_tools_roles.install	
 D	modules/mobile_tools_roles/mobile_tools_roles.module	
 D	modules/mt_browscap/mt_browscap.info	
 D	modules/mt_browscap/mt_browscap.module	

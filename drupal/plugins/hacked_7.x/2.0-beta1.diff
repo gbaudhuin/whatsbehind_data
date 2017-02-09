@@ -1,18 +1,10 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	hacked.admin.inc	
-M	hacked.details.inc	669dda1b9aaee423d4c2e7fc24f0a9cb
-M	hacked.diff.inc	7add777abb5f48f334a6015bd81d6e03
-M	hacked.drush.inc	3bf7543e5710d7b7b3253bf435626c08
-M	hacked.info	6a37b75cf5c7b9b7c858f488f40f1909
-M	hacked.install	47a70b5ac56dbbae67e2706239b80118
-M	hacked.module	942650b19d5d5beced1bb15de3d0b3d0
-M	hacked.theme.inc	c64e22f85991cefcb748140b48160f6d
-D	includes/hackedFileGroup.inc	
-D	includes/hackedFileHasher.inc	
-D	includes/hackedFileIgnoreEndingsHasher.inc	
-D	includes/hackedFileIncludeEndingsHasher.inc	
-D	includes/hackedProject.inc	
-D	includes/hackedProjectWebCVSDownloader.inc	
-D	includes/hackedProjectWebDownloader.inc	
-D	includes/hackedProjectWebFilesDownloader.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	hacked.details.inc	669dda1b9aaee423d4c2e7fc24f0a9cb
+A	hacked.diff.inc	7add777abb5f48f334a6015bd81d6e03
+A	hacked.drush.inc	3bf7543e5710d7b7b3253bf435626c08
+A	hacked.info	6a37b75cf5c7b9b7c858f488f40f1909
+A	hacked.install	47a70b5ac56dbbae67e2706239b80118
+A	hacked.module	942650b19d5d5beced1bb15de3d0b3d0
+A	hacked.report.inc	a2777c8831c38580179b2e965b33e6b1
+A	hacked.theme.inc	c64e22f85991cefcb748140b48160f6d
 A	includes/hacked_project.inc	d3c7bed30e78db289e8ca6a5a0766406

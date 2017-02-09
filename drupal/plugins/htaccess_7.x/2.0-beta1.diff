@@ -1,6 +1,7 @@
 M	README.txt	7e85d1b6a5434328373d0cb0ea431015
-M	htaccess.admin.inc	7f2208997391b79a7e83bcb79757faff
+A	htaccess.admin.inc	7f2208997391b79a7e83bcb79757faff
+A	htaccess.drush.inc	139c80ecc303921e583f99c96603450d
 M	htaccess.info	19dad6e00fc69474a27f1884c8b1ee73
-M	htaccess.install	4dcb733f719209870797b337c30e8c5a
+A	htaccess.install	4dcb733f719209870797b337c30e8c5a
 M	htaccess.module	ba79d3e6471ca677951b23f26a97c1f0
-M	includes/htaccess.txt	de3623c8b754d8b40930c3371ab78847
+A	includes/htaccess.txt	de3623c8b754d8b40930c3371ab78847

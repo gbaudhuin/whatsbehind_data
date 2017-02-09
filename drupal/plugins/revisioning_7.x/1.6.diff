@@ -1,9 +1,13 @@
 D	CHANGELOG.txt	
 A	THEMING.txt	65741eb06011b893d119398a7680ebc8
 A	css/revisioning-rtl.css	24d0396f6b35e0593dfcb3075974b497
+A	css/revisioning.css	2a1532ed030a958ff5dabba939bfbc91
+A	js/revisioning-radios.js	6b4769b353b6723bb5e8bd1a1e40668f
+D	revision-radios.js	
 D	revisioning-rtl.css	
 M	revisioning.admin.inc	413df08ae0960cbcd4dd1a36ca1d664e
 A	revisioning.api.php	1340d4c9e702263b84163fd77d807e51
+D	revisioning.css	
 M	revisioning.info	9b61eb47c9fccc4ac4d1f7c1aa44faa2
 M	revisioning.install	60c74c3d8d8994afb6ff1abd938b6dcc
 M	revisioning.module	a5e0a46cd058e4e1ab9b8f23ac3b041a

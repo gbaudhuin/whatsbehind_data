@@ -13,6 +13,8 @@ M	src/DiffBuilderManager.php	350bad8dbadc6a51028981954f9a22ae
 M	src/DiffEntityParser.php	f41527fc3f3d64d79e469c9900e9d697
 M	src/EntityComparisonBase.php	3e2509b2d4c2f3a58f6f07c769240dd8
 M	src/FieldDiffBuilderBase.php	ec831a90a16c6a63335205a385c968aa
+D	src/Form/FieldTypesSettingsForm.php	
+A	src/Form/FieldsSettingsForm.php	edd8b7c0544d3db48a9909697728d64b
 D	src/Form/NodeEntitySettingsForm.php	
 M	src/Form/RevisionOverviewForm.php	b0c3ed0ee6a27e999e24c1fd72a79c77
 A	src/Routing/DiffRouteProvider.php	107c642417b42fcb06801a0e08f472e7

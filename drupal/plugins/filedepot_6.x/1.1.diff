@@ -24,6 +24,7 @@ M	theme/activefolder_admin.tpl.php	1387e65c9a3110a8196fc07d097057ab
 M	theme/activefolder_nonadmin.tpl.php	cd298b9f16e6b1676c7e4409a7f3aaed
 M	theme/ajaxactivity.tpl.php	3761e4aa5ba6ea636b2f14bb6f5e076a
 M	theme/ajaxstatus.tpl.php	9e3a3e2e7dfe3b09381aca56400179b1
+A	theme/filedepot-mainpage.tpl.php	ff4aa5ac39fc799ffa56252eab91c748
 M	theme/filedetail.tpl.php	ce4bd3c742d89b3301c8ce5c87823ce2
 M	theme/filedetail_version.tpl.php	e6ac36e837d1041771f7c75aaddfcbc6
 M	theme/filelisting_emptyfolder.tpl.php	47835219077ae9e7d51db12a6489d08e
@@ -47,6 +48,7 @@ M	theme/notifications_file_record.tpl.php	d5f93d1f1f55161d24ac202b6cbee772
 M	theme/notifications_folder_record.tpl.php	31062943102ec7f35f954cd17d85cddd
 M	theme/notifications_history_record.tpl.php	b7825467a0ab0157dd733de8fd0af980
 M	theme/notifications_report.tpl.php	73bc3de183377adc44acb092eeaff115
+D	theme/page.tpl.php	
 M	theme/tagcloud.tpl.php	1ef304b250f9a71a86b2b0159c42cde1
 M	theme/tagcloud_record.tpl.php	0d8561cfe0100c334472470966fabd29
 M	theme/tagdesc_record.tpl.php	7fe2580695b7c7a7f228ec822d2331b9

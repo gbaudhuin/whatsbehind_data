@@ -16,10 +16,12 @@ M	src/DrupalSystem/DrupalSystem.php	d03c1225b89693fa7082e6d3f7e1c8cd
 M	src/DrupalSystem/DrupalSystemInterface.php	67fa2eb5d0bd1be2855f663369827d52
 A	src/Libraries/LibrariesFinderPlugin.php	96ebf6c4c040770c01827d9f5440b733
 A	src/Libraries/LibrariesInfoAlter.php	681048f3afc8f4c8c6b151fdc7422f3b
+A	src/Libraries/LibrariesOnInit.php	a0a04c7aef8676d2d9c7b220ade09033
 A	src/Libraries/LibrariesPreLoadCallback.php	5db0dc5d03a63520f086a04600f83754
 A	src/Libraries/LibraryCacheMissObserver.php	6ccb075b0180524dbdc16b64f343927b
 A	src/Libraries/SerializableClosureWrapper.php	2a631faa87fe88b115b6a239bc8cf9a8
 M	src/Phases/HookXautoload.php	c3475a80d6fd057ec95d91d6d2e47c1f
+D	src/Phases/LibrariesIntegration.php	
 A	tests/fixtures/.libraries/testlib/src/Foo.php	b3cd20c79e357c06750f355ab93437f6
 A	tests/fixtures/.modules/libraries/libraries.module	dc44ab770bce790c5cafa42dbdc00e86
 A	tests/fixtures/.modules/system/system.module	ce407ff5715c837d02b1aba7975bf512

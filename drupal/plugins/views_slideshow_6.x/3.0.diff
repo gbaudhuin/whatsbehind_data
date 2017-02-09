@@ -6,6 +6,10 @@ A	contrib/views_slideshow_cycle/js/views_slideshow_cycle.js	34cc55b288e3922c7a90
 D	contrib/views_slideshow_cycle/theme/views-slideshow-cycle-control-next.tpl.php	
 D	contrib/views_slideshow_cycle/theme/views-slideshow-cycle-control-pause.tpl.php	
 D	contrib/views_slideshow_cycle/theme/views-slideshow-cycle-control-previous.tpl.php	
+D	contrib/views_slideshow_cycle/theme/views-slideshow-cycle-controls.tpl.php	
+D	contrib/views_slideshow_cycle/theme/views-slideshow-cycle-pager-field-field.tpl.php	
+D	contrib/views_slideshow_cycle/theme/views-slideshow-cycle-pager-field-item.tpl.php	
+D	contrib/views_slideshow_cycle/theme/views-slideshow-cycle-pager-field.tpl.php	
 D	contrib/views_slideshow_cycle/theme/views-slideshow-cycle-pager-numbered.tpl.php	
 D	contrib/views_slideshow_cycle/theme/views-slideshow-cycle-pager-thumbnails.tpl.php	
 D	contrib/views_slideshow_cycle/theme/views-slideshow-cycle-slide-counter.tpl.php	
@@ -89,6 +93,10 @@ A	js/views_slideshow.js	cf223c831663b877a9e24f9257a75366
 A	theme/views-slideshow-controls-text-next.tpl.php	272753a541c344d65b444230ef961798
 A	theme/views-slideshow-controls-text-pause.tpl.php	6f63c6ec79c5d5222cdfeb4c98bd5759
 A	theme/views-slideshow-controls-text-previous.tpl.php	ad26466257ce9a707afc7b6651369aea
+A	theme/views-slideshow-controls-text.tpl.php	5efeb7ebb233234453b86478d429ec94
+A	theme/views-slideshow-pager-field-field.tpl.php	56b8db0f1d49306935fa93adb3a3bc14
+A	theme/views-slideshow-pager-field-item.tpl.php	6d054e999924fe761c3fe21a5c1c19ff
+A	theme/views-slideshow-pager-fields.tpl.php	3075060dd50bf32d3e070ebdfe9f3f3a
 A	theme/views-slideshow-slide-counter.tpl.php	5d7842b8f68296eb84a9cadabd6d8614
 A	theme/views-slideshow.tpl.php	40931456ab1ea815b258189214bd831f
 A	theme/views_slideshow.theme.inc	988ffa269fc0def8edd85cec347675e4

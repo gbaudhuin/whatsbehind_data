@@ -1,7 +1,4 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	3bb52d0304930dd9d67418e4f0c60f35
-A	js/user_dashboard.js	88ef221d82670ab18ea9e48538734c28
-A	user_dashboard.css	7d0ec1ce2ca46e9c4a7c92e0ef2ddcb8
-A	user_dashboard.info	46546587867d54fa0cbf3f2344cd77e9
-A	user_dashboard.install	8ce7d9d3742a2511b36d03a767aa275a
-A	user_dashboard.module	b13a9596b4d7f64fe76313ae65062b45
+M	js/user_dashboard.js	88ef221d82670ab18ea9e48538734c28
+M	user_dashboard.info	46546587867d54fa0cbf3f2344cd77e9
+M	user_dashboard.install	8ce7d9d3742a2511b36d03a767aa275a
+M	user_dashboard.module	b13a9596b4d7f64fe76313ae65062b45

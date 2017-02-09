@@ -1,7 +1,3 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.html	ebf849c873b977268bc34362207850e6
-A	README.markdown	7d36993b546ad1932fd68b13d2006bde
-A	README.txt	ed7ffb167ee6771b95dd90947847a80d
-A	echo.info	53be9d090da08db5e19d9ba758041de2
-A	echo.install	3bff922ef32f7a1971568445412de80c
-A	echo.module	d4dbd3039668032bda1a407c32fa2ab0
+M	echo.info	53be9d090da08db5e19d9ba758041de2
+M	echo.install	3bff922ef32f7a1971568445412de80c
+M	echo.module	d4dbd3039668032bda1a407c32fa2ab0

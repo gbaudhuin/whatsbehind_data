@@ -22,6 +22,8 @@ M	tests/submission.test	f96836d8ac7ce6369819b8007bb751d2
 M	tests/webform.test	dd0a2d4d9e6612eea1038ed5970ab36d
 M	views/webform.views.inc	54102926178be00a5df6a6b17a38619e
 M	views/webform_handler_field_submission_link.inc	ed0eb177e4a2cb84c3a6db3938e7da0c
+A	webform.api.php	06046e46ded67e5ad5f023bfc0062928
 M	webform.info	5b6839881c96e515b21ab9bc3df5f864
 M	webform.install	0d08c11146279fb54cb02f6f10836026
 M	webform.module	de20ff08427905eb703d8662288df8f8
+D	webform_hooks.php	

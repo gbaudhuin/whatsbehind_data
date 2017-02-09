@@ -1,7 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	MAINTAINERS.txt	ff388826a050f0a754af7f119b24311a
-A	README.txt	26fd617d8718a2cde995bb285b9f327d
-A	login_destination.admin.inc	d08c3429518f11da59610eac2d43499f
-A	login_destination.info	276535626b9d00d1039e9c4fe7124e55
-A	login_destination.install	c13a31bf8712c4d336f5dac94cda60cf
-A	login_destination.module	376c58c4cead3d11bb6d5a7250532740
+M	login_destination.info	276535626b9d00d1039e9c4fe7124e55

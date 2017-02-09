@@ -1,46 +1,24 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 M	README.txt	f5d2f3b0b52408b450641df3934e2e36
-M	fb/fb.css	ed71a3d3e8c1c2982b5c41d29ebf9e23
-M	fb/fb.js	cc0c2f2310432ae64a8c629961a2f2de
-M	fb/get-files.php	96afa80f12cb2e8e4dbfa933dcc1ccb9
-M	fb/take_control_fb.admin.inc	056595b4c1e609086867bf5d70709b3d
-M	fb/take_control_fb.info	cca43ed48031a7552773a6edb81baf73
-M	fb/take_control_fb.install	8ee607093522424df763f44ea8066f8d
-M	fb/take_control_fb.module	188f4e2f635c3010d10eb445627bd255
+A	fb/fb.css	ed71a3d3e8c1c2982b5c41d29ebf9e23
+A	fb/fb.html	987c67ba08c90ea16e3fcac8c6e1f524
+A	fb/fb.js	cc0c2f2310432ae64a8c629961a2f2de
+A	fb/get-files.php	96afa80f12cb2e8e4dbfa933dcc1ccb9
+A	fb/take_control_fb.admin.inc	056595b4c1e609086867bf5d70709b3d
+A	fb/take_control_fb.info	cca43ed48031a7552773a6edb81baf73
+A	fb/take_control_fb.install	8ee607093522424df763f44ea8066f8d
+A	fb/take_control_fb.module	188f4e2f635c3010d10eb445627bd255
 A	images/application_home.png	84b1524a19883c86f78404b1b0bfb282
 A	images/arrow_left.png	5050c8e897cec907d6319f397a66c474
 A	images/arrow_out.png	578e770456c9f78946ff536f93cd9fcf
 A	images/arrow_refresh.png	6b95778460f660aa7c08f47d244780a7
 A	images/arrow_right.png	46faba03ba3a35d750b5b758cc3d5d2c
 A	images/arrow_up.png	34ced99097002e9a7783ada1f2d84d1b
-D	images/btnBack.png	
-D	images/btnCompress.png	
-D	images/btnCopy.png	
-D	images/btnDelete.png	
-D	images/btnDownload.png	
-D	images/btnEdit.png	
-D	images/btnEditCode.png	
-D	images/btnEditHtml.png	
-D	images/btnExtract.png	
-D	images/btnForward.png	
-D	images/btnHome.png	
-D	images/btnMove.png	
-D	images/btnNewFile.png	
-D	images/btnNewFolder.png	
-D	images/btnPerm.png	
-D	images/btnRefresh.png	
-D	images/btnRename.png	
-D	images/btnUpLevel.png	
-D	images/btnUpload.png	
-D	images/btnView.png	
 A	images/cancel.png	757aa607cbcd1616ced5a336e56b0e6c
 A	images/compress.png	f169463efdea332611cb2119d5851fbf
 A	images/cross.png	42492684e24356a4081134894eabeb9e
 A	images/delete.png	68461ca5187cd2c6af08786467085f2b
 A	images/drive_rename.png	7a9b136e3da23193f3d404deee0e8700
-D	images/file.png	
-M	images/folder.png	fbd3929a893b147ae0940d48d533e023
+A	images/folder.png	fbd3929a893b147ae0940d48d533e023
 A	images/folder_add.png	4fd0ba998b55abd333f81f9318f89748
 A	images/folder_delete.png	4095dc4c50035a6d2e0828aaa52f6f1e
 A	images/folder_up.png	7d79228031ef972aca29e11fc9801e0e
@@ -60,13 +38,15 @@ A	images/selectall.png	9b05b02ffa28b7cf353e87ee9d4ad048
 A	images/unselect.png	a36daf0b4bca793b8bd1389ab229f322
 A	images/unselect_grey.png	a144866117eba31e42619218d5b1356e
 A	images/zoom.png	b36200916d810e20a176a0e274acb0eb
-M	includes/common.inc	c5752f4b775552757c7676c5ab0ebb6e
-M	includes/filesystem.inc	a2df792bcbaae8fffef0dc03401b83bc
+A	includes/common.inc	c5752f4b775552757c7676c5ab0ebb6e
+A	includes/filesystem.inc	a2df792bcbaae8fffef0dc03401b83bc
+A	includes/security.inc	65162e6d0834c9c790d7c3334dc90686
 A	licenses/ExtJS.txt	d7b7488b83e571061f7586614f4b09c0
 A	licenses/FamFamFam.txt	740ce4f8d45b751b957417ee9f623b4c
-M	qp/take_control_qp.info	365261343b354aa8e773e58aca6f740a
-M	qp/take_control_qp.module	46196b3cd985ce7ca1922d44ea3d2afa
-M	take_control.admin.inc	487f6376d1f55136d54b3fe64927f120
+A	openssl.cnf	744e9e9f8e2b941e1759ac263cfa17d8
+A	qp/take_control_qp.info	365261343b354aa8e773e58aca6f740a
+A	qp/take_control_qp.module	46196b3cd985ce7ca1922d44ea3d2afa
+A	take_control.admin.inc	487f6376d1f55136d54b3fe64927f120
 M	take_control.info	2f95fc7bf5738e2b0a45387c49c36960
-M	take_control.install	22f81fd3013e10ad4926c4a7a2166f44
+A	take_control.install	22f81fd3013e10ad4926c4a7a2166f44
 M	take_control.module	6d512bc5132b51fe3abd23aa6be13ce8

@@ -1,13 +1,5 @@
-D	.cvsignore	
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 D	README.txt	
 M	video_filter.codecs.inc	e9e4a69c97d55501225e16f98092ddb6
-D	video_filter.css	
 M	video_filter.info	44b6028d797664ccf8aed02f89f77b3d
-D	video_filter.install	
 M	video_filter.module	e3d69e65b8c9c30fa19ed8078a512117
-D	wysiwyg/tinymce/editor_plugin.js	
-D	wysiwyg/tinymce/editor_plugin_src.js	
-D	wysiwyg/tinymce/images/movie_track.png	
-D	wysiwyg/tinymce/jscripts/video_filter.js	
-D	wysiwyg/tinymce/langs/en_dlg.js	

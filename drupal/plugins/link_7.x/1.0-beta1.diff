@@ -3,8 +3,10 @@ M	link.info	ac379ae29b8ff9d2b07692544589f44d
 M	link.install	71e6c245042793b6cb04da6596f31d42
 M	link.module	d0e68dc2449628c8791f2954cc66d2b3
 M	tests/link.attribute.test	a01c9615b70a8a23d90bb2049a760729
+D	tests/link.base-test.inc	
 M	tests/link.crud.test	9ac836e356410ba09289813e0fcfadaf
 M	tests/link.crud_browser.test	05cc8b4f2fc914b617306b959b1c481e
+A	tests/link.test	9bb6d01fe11fa690a9aaab1dcdbdb9d7
 M	tests/link.token.test	b5c908243d93190e938a4a1f31b893bd
 M	tests/link.validate.test	ac5ad1ba3c70f72923b93f9e862e957e
 D	translations/link.pot	

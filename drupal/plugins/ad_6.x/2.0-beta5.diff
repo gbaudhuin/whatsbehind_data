@@ -1,5 +1,6 @@
 M	ad.info	1f6c4beb26d52caa203bd506302328d7
 M	ad.module	9d31d35d4df8ed0bf85eca4b4abd829a
+A	ad_token.inc	b22dc57787bac80e1089a2806d5294b2
 M	cache/file/ad_cache_file.info	0f81596d906cd207ccb18064584ba5f2
 M	channel/ad_channel.info	476eb997d4c590f6f5f417c6fabbb876
 M	channel/ad_channel.module	2fb86a7b495a9c9012e6738a05920208
@@ -19,4 +20,5 @@ M	report/ad_report.info	b27a8cd92e415de7d700259d90e79fa6
 M	statistics/click_filter/click_filter.info	d6a5e3c7140baae128c25a851cbd62df
 M	text/ad_text.info	132fbd4b5c12b94b8a6368bf65986447
 M	text/ad_text.module	3db67d600ae5fd7305ce1efe14ea90e3
+D	token_ad.inc	
 M	weight/probability/ad_weight_probability.info	9113100fec083200b3afe0a1570767ed

@@ -1,6 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	payment_webform.info	a96a60b9d7810b179d49e77e7439d14d
-A	payment_webform.install	0c4718ef0694a5aa0c4a6a6bd3b5500e
-A	payment_webform.module	dd455b2234d8ccd7cc608e70b0333aa1
-A	payment_webform.webform.inc	c098cd1aea52d13d7a286e62dba4a228
-A	tests/PaymentWebformTestQueueWebTestCase.test	61edc058707a847e802985f7a98f8425
+M	payment_webform.info	a96a60b9d7810b179d49e77e7439d14d

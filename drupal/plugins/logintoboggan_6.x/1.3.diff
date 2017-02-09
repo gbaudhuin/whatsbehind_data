@@ -1,4 +1,16 @@
 M	logintoboggan.info	2a7868925b08e618aaabdcfe55918501
 M	logintoboggan.js	2688c27e82485c22222c1e0515b33ce7
 M	logintoboggan.module	c4703f27e4730485756674315b23e2dc
+D	po/de.po	
+D	po/es.po	
+D	po/he.po	
+D	po/logintoboggan.pot	
+D	po/nl.po	
+D	po/pl.po	
+A	translations/de.po	06e70149b13279ceea9d18d7acf9dd4d
+A	translations/es.po	5c629722c921deb6664060e66ed5aa6a
+A	translations/he.po	10ab7d839bdf8e317a275ec8d96ef09a
 A	translations/ja.po	cd248eca53b68bc005d86a8818963112
+A	translations/logintoboggan.pot	06265ffd86105e6001ccc29e27decf23
+A	translations/nl.po	15e1d29e9d80237ca3e1766393c0e99e
+A	translations/pl.po	1e2cd65d4a81f2d1ccf9d52623a560d9

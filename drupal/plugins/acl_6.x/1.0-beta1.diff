@@ -1,9 +1,8 @@
-M	CHANGELOG.txt	bd8193b25491d4558b94612197669b1e
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	65c593cf9331222ae00f9154febd279d
-D	acl.admin.inc	
-D	acl.api.php	
-M	acl.info	b4d7a74308d63ab3eb2c523ac9dbbcb1
-M	acl.install	0280233a5d14c0e3b12c8f0b3575ec2a
-M	acl.module	be5f50afdcb33ef38d3ad7f018f8c09c
+A	CHANGELOG.txt	bd8193b25491d4558b94612197669b1e
+A	INSTALL.txt	e9954a0d5b8690b0b4dce12471b3a986
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	65c593cf9331222ae00f9154febd279d
+A	acl.info	b4d7a74308d63ab3eb2c523ac9dbbcb1
+A	acl.install	0280233a5d14c0e3b12c8f0b3575ec2a
+A	acl.module	be5f50afdcb33ef38d3ad7f018f8c09c
 A	translations/sv.po	91058f52e980598ecedef30bb51d2b8e

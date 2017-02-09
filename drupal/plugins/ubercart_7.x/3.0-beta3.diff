@@ -138,10 +138,18 @@ M	uc_stock/uc_stock.rules_defaults.inc	16cc639eed8b132bcd6a03150baa8cd7
 M	uc_store/classes/address.inc	4c907fab134763405aeb9795cfff3179
 M	uc_store/classes/encrypt.inc	b4a8684ccbe794060d549ee73e3599a8
 M	uc_store/classes/mail.inc	5b320f3dfda9133ca3929b93158b775c
+A	uc_store/countries/aland_islands_248_1.cif	c3981a425fb1bffc42012fb4efb81360
+D	uc_store/countries/aland_islands_248_a.cif	
 M	uc_store/countries/albania_8_1.cif	11b0555fec472df0e9d4f9a402775795
 M	uc_store/countries/central_african_republic_140_1.cif	ab28f9e98c12a79a9b7e271ae36c2e2e
+D	uc_store/countries/costa_rica_188_1.cif	
+A	uc_store/countries/costa_rica_188_2.cif	2c8fcf8aea222c41647f0d2fb1dde697
 M	uc_store/countries/france_250_1.cif	590c9c777d29d25e86664f6dd3f58479
+D	uc_store/countries/iran_364_1.cif	
+A	uc_store/countries/iran_364_2.cif	dd4d80449a0540834314c0ff2f9c0860
 M	uc_store/countries/italy_380_3.cif	1b93740b4d79dd7c37d3fba16bbaa121
+D	uc_store/countries/romania_642_1.cif	
+A	uc_store/countries/romania_642_2.cif	e9c6f4ae609751db1008fba2a77e5b14
 M	uc_store/includes/ca.inc	4d7589a9a525b2ac77d94395d1af68d4
 M	uc_store/includes/coder_review_uc3x.inc	763cd46da9146c5cfe26c618b19443b7
 M	uc_store/includes/summaries.inc	f12373ae2f8ae54abb4adfff44ea499e

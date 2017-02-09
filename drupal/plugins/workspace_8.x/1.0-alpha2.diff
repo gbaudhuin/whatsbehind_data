@@ -1,5 +1,7 @@
 M	.travis.yml	877e571d9082430eafabd879883986dc
+D	.travis/drupal-8.0.x.make.yml	
 M	.travis/drupal-8.1.x.make.yml	9be52884b7f9575b69cad5da27831593
+A	.travis/drupal-8.2.x.make.yml	a423b0f0b20543da330929b3e6ce4325
 M	css/workspace.toolbar.css	469aad5b89cbc76d3224b3147ebd3811
 A	icons/bebebe/update.svg	464e339d863a534b66ea9372abfbaa81
 A	icons/ffffff/update.svg	f901d0ee6b2c79c1e974d5a91c0f1e13

@@ -1,13 +1,34 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	715a96c43cbdf5478294adaf490ea851
-M	js/quicktabs.js	2e9619c1f1c6472cf53912be4725d20c
-D	js/quicktabs_ahah.js	
-M	js/quicktabs_form.js	f33c60227bf0ec2eefa4692ec82e5b28
-M	quicktabs.css	f1fe339fc80d2795708f4bc675ea7c1d
-M	quicktabs.info	9727f73514302a66663b874de9cf963e
-M	quicktabs.install	40230ffbde3143418c27d70a69dadf28
-M	quicktabs.module	6f31c186737153dcddca546148c57182
-D	tabstyles/sky/images/bg-shade-dark.png	
-D	tabstyles/sky/images/bg-shade-light.png	
-D	tabstyles/sky/images/bg-shade-medium.png	
-D	tabstyles/sky/sky.css	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	715a96c43cbdf5478294adaf490ea851
+A	add-tab.gif	ee55a79f764e55c32a140775d30b172f
+A	delete-tab.gif	77ace5ee03d1c0d8d514f02956b705ce
+A	js/quicktabs.js	2e9619c1f1c6472cf53912be4725d20c
+A	js/quicktabs_form.js	f33c60227bf0ec2eefa4692ec82e5b28
+A	quicktabs.css	f1fe339fc80d2795708f4bc675ea7c1d
+A	quicktabs.info	9727f73514302a66663b874de9cf963e
+A	quicktabs.install	40230ffbde3143418c27d70a69dadf28
+A	quicktabs.module	6f31c186737153dcddca546148c57182
+A	tabstyles/arrows/arrows.css	4c79a58af533e206e41aa721070086cb
+A	tabstyles/arrows/images/arrows.gif	7197ebca24e03135f72e65fd16ea1cb3
+A	tabstyles/basic/basic.css	01576076fb1c941c7854bd61d62ef4a2
+A	tabstyles/bullets/bullets.css	7643bab29727e675a6aa80248c9a99dc
+A	tabstyles/bullets/images/bullets.gif	41a1acef2aa9c8957d472f56bd43e6f3
+A	tabstyles/bullets/images/bullets.png	cd6a443e82a38f9362ace725d48fcdda
+A	tabstyles/garland/garland.css	0040d719d10a9ffdd6e4529a55f7f467
+A	tabstyles/garland/images/bg.gif	fbcec4362c896ad36259c8652283f805
+A	tabstyles/garland/images/tab-left-sidebar.gif	e247742d0da4accc4a7c3f0ac12b7dc7
+A	tabstyles/garland/images/tab-left.gif	41385f8c0f0cb7fa99a7bab86e2394fa
+A	tabstyles/garland/images/tab-right-sidebar.gif	37a11cd8aeaef4481225646747da7d19
+A	tabstyles/garland/images/tab-right.gif	2056fb516cf9083886c2cfdcd0823bb4
+A	tabstyles/mac/images/mac.gif	79dc626f659ba4cba202bca7f519f70c
+A	tabstyles/mac/images/mac.png	d14a4c9f2a888ff78879f1b271ac973e
+A	tabstyles/mac/mac.css	ace29ba69964aa183ef05770a70dcecc
+A	tabstyles/phylactere/images/phy.gif	9d0478e1089acadeff39572e424e41e3
+A	tabstyles/phylactere/images/phy.png	177d388dafc758b483a9f3d2af7963ab
+A	tabstyles/phylactere/images/shade.gif	5d7679cd968418f2fbc6d2c94de0092b
+A	tabstyles/phylactere/images/shade.png	b857e2d47eb7ad39f191174ade7aed53
+A	tabstyles/phylactere/phylactere.css	21b92c728166e11775cb6759574b9d89
+A	tabstyles/zen/images/tab-bar.png	e42804fe3d61145627d826603d454913
+A	tabstyles/zen/images/tab-left-ie6.png	b9685bd4d9c86c51848d795f984d168b
+A	tabstyles/zen/images/tab-right-ie6.png	d1e39633cae3857e174749bc22ea3c96
+A	tabstyles/zen/zen.css	62fd082cd95747a67b10a62fe3ee5294

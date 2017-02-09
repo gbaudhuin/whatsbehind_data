@@ -1,10 +1,7 @@
-D	.gitignore	
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.md	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 A	README.txt	e508c86c3645c572bd12cef3dff09d97
-M	chamilo.admin.inc	f8d97701cf30192b533720ba36f7c28e
-M	chamilo.css	ea331ac5eaab81b7af95dd551cff961d
-M	chamilo.info	8d365b82c28835b18eda670474d24661
-M	chamilo.install	b057220c7d66195110a3a0d3866fb9f7
-M	chamilo.module	add9df2d6a1a89c968b19ca1cf2b8703
+A	chamilo.admin.inc	f8d97701cf30192b533720ba36f7c28e
+A	chamilo.css	ea331ac5eaab81b7af95dd551cff961d
+A	chamilo.info	8d365b82c28835b18eda670474d24661
+A	chamilo.install	b057220c7d66195110a3a0d3866fb9f7
+A	chamilo.module	add9df2d6a1a89c968b19ca1cf2b8703

@@ -1,4 +1,8 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	submitted_by.info	8c2aee0b2779bb659a20b0ae8befcf25
-A	submitted_by.install	667eca3238c0fc5aeec015cbf269d944
-A	submitted_by.module	399a67e3f6c769b6f13edc4f3d8a148c
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	submitted_by.info	8c2aee0b2779bb659a20b0ae8befcf25
+M	submitted_by.install	667eca3238c0fc5aeec015cbf269d944
+M	submitted_by.module	399a67e3f6c769b6f13edc4f3d8a148c
+D	translations/de.po	
+D	translations/ja.po	
+D	translations/nb.po	
+D	translations/submitted_by.pot	

@@ -1,25 +1,20 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
-D	block/README.txt	
-M	block/flickr_block.info	8b9774af7f4715d3b87bb9e282b9c333
-M	block/flickr_block.install	40f6e3d58c4d8a3009de7db5c61448e7
-M	block/flickr_block.module	9b47de9cc8dd4a86b2fd4ffad1cc50b9
-D	field/README.txt	
-M	field/flickrfield.info	4a8b578036967ddd53761034f0810aef
-M	field/flickrfield.install	30dd976a9197a112a828254f76d9676a
-M	field/flickrfield.module	db0b003ca2bdb9df238afc6fad4fb26c
-D	filter/README.txt	
-M	filter/flickr_filter.info	2c1cd19300f8abfc84ae159ab6094bd9
-D	filter/flickr_filter.install	
-M	filter/flickr_filter.module	dccc265f38e8e341d94c60de0929bd46
-M	flickr.admin.inc	cd454c232ee718c991d5f0c7c33051b0
-D	flickr.api.inc	
-M	flickr.css	f1ce92a0bfefa6fdffa6d41665b61f64
-M	flickr.inc	a2cf4f2ab013183c1fe66914c59cadd1
-M	flickr.info	c18f06b2d366150edecb30b521d98126
-M	flickr.install	d9f58350cb8f9d99050c8134220b54db
-M	flickr.module	c15089973e44d35406741d6d7fbf676c
-M	sets/flickr_sets.info	a0ab4d3b656426e06f461c249cc49c88
-M	sets/flickr_sets.module	6391bf5cf61380dfce92a176de42d6e9
-M	tags/flickr_tags.info	51d3116f6d9489c228ca2bce368200d0
-M	tags/flickr_tags.module	394fa85f1eb51ed05a030b7c26dbea52
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	block/flickr_block.info	8b9774af7f4715d3b87bb9e282b9c333
+A	block/flickr_block.install	40f6e3d58c4d8a3009de7db5c61448e7
+A	block/flickr_block.module	9b47de9cc8dd4a86b2fd4ffad1cc50b9
+A	field/flickrfield.info	4a8b578036967ddd53761034f0810aef
+A	field/flickrfield.install	30dd976a9197a112a828254f76d9676a
+A	field/flickrfield.module	db0b003ca2bdb9df238afc6fad4fb26c
+A	filter/flickr_filter.info	2c1cd19300f8abfc84ae159ab6094bd9
+A	filter/flickr_filter.module	dccc265f38e8e341d94c60de0929bd46
+A	flickr.admin.inc	cd454c232ee718c991d5f0c7c33051b0
+A	flickr.css	f1ce92a0bfefa6fdffa6d41665b61f64
+A	flickr.inc	a2cf4f2ab013183c1fe66914c59cadd1
+A	flickr.info	c18f06b2d366150edecb30b521d98126
+A	flickr.install	d9f58350cb8f9d99050c8134220b54db
+A	flickr.module	c15089973e44d35406741d6d7fbf676c
+A	sets/flickr_sets.info	a0ab4d3b656426e06f461c249cc49c88
+A	sets/flickr_sets.module	6391bf5cf61380dfce92a176de42d6e9
+A	tags/flickr_tags.css	9b4c8e7cb22899cf396dbfe91a0a7801
+A	tags/flickr_tags.info	51d3116f6d9489c228ca2bce368200d0
+A	tags/flickr_tags.module	394fa85f1eb51ed05a030b7c26dbea52

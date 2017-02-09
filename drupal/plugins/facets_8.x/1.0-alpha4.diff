@@ -37,6 +37,8 @@ M	src/Plugin/facets/widget/DropdownWidget.php	77e066c1bea3628455f713f68a20f7f2
 M	src/Plugin/facets/widget/LinksWidget.php	ea11d24e18fc688659c12fa0f5c1f2f3
 A	src/Plugin/views/style/FacetsSerializer.php	83c4f3cf8642ad403559878a92da9cdc
 M	src/Processor/SortProcessorInterface.php	8462629f6b23c8b9708a7e0b9637804b
+A	src/Processor/SortProcessorPluginBase.php	50a4820e03e4e6bfb85ffca4c6a0a7e2
+D	src/Processor/WidgetOrderPluginBase.php	
 D	src/Processor/WidgetOrderProcessorInterface.php	
 M	src/Result/Result.php	83c00c6670b20e7896237c14d7019515
 M	src/Result/ResultInterface.php	51191723c707873b67fddc7467af9a97

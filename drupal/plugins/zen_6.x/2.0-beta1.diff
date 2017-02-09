@@ -6,37 +6,79 @@ A	STARTERKIT/README.txt	b55242370d4c94bd14909976c7ba2f9c
 A	STARTERKIT/STARTERKIT.info.txt	ce21ba947855587cabb83fead1419707
 A	STARTERKIT/css/README.txt	7c2c44ceb77911746bba5847492ac8b4
 A	STARTERKIT/css/block-editing-rtl.css	031c03532187872036b4b70b079504c5
+A	STARTERKIT/css/block-editing.css	0ddf5459ee8952f16ee994664d388b4e
 A	STARTERKIT/css/blocks.css	8ae9bbdb0bf14d0428046abb634c1672
 A	STARTERKIT/css/comments.css	0ddc185301e1a3b4500244b5c616a541
+A	STARTERKIT/css/drupal6-reference.css	691468509b23d14733713d7ab0612bb4
 A	STARTERKIT/css/fields.css	9464307cb9dfc10c00f373db2560db37
+A	STARTERKIT/css/forms-rtl.css	2d4df1c4fe4a1d4498cbbd3ef7b4c46b
+A	STARTERKIT/css/forms.css	bc6e86e2c58edf689fddd086e351d8e6
+A	STARTERKIT/css/html-reset-rtl.css	11f36c4d4b76e006dc2fdc11bbdd4c0c
+A	STARTERKIT/css/html-reset.css	bfb222de1b5dad92988ac7cb32e4a900
+A	STARTERKIT/css/ie.css	7b3a407305a80a6414474cd8300830f8
+A	STARTERKIT/css/ie6-rtl.css	9f6669fcaafe40fae7fb43118d1d3ca9
+A	STARTERKIT/css/ie6.css	6bea7717cb809579e464d4a2961f8b08
 A	STARTERKIT/css/layout-fixed-rtl.css	e4441a47785a2257a17f66b37865a76b
 A	STARTERKIT/css/layout-fixed.css	89647fee84396463dd32bcf9a93fb482
 A	STARTERKIT/css/layout-liquid-rtl.css	0441999bbae6d90d24a44aed8e7bfb7b
 A	STARTERKIT/css/layout-liquid.css	9488397f33cadb3bb75d7d1f519b5159
 A	STARTERKIT/css/messages-rtl.css	c68287b94bcdc69f94b507985a18bea8
+A	STARTERKIT/css/messages.css	4ae6028e4e559491d239c2c530520be1
+A	STARTERKIT/css/navigation.css	a59b611edcd3ff4f53a6e7a9772b0470
+A	STARTERKIT/css/nodes.css	1c205455a79e9ba416330f5c0d6a8f01
+A	STARTERKIT/css/page-backgrounds.css	f256c67b5accb1920e33b483a8f3c84e
 A	STARTERKIT/css/pages-rtl.css	ccc074e4ec8713bb7f01da4a33df6ea1
 A	STARTERKIT/css/pages.css	71b701fdd5f77f2fa7a83effe2576171
+A	STARTERKIT/css/print.css	32e82a558be7728e29345d10ed188d13
+A	STARTERKIT/css/tabs-rtl.css	ad23e3f67c073707a7af42880aee8535
+A	STARTERKIT/css/tabs.css	64a9b3884e9fdf52e986b758bdc82c28
 A	STARTERKIT/css/views-styles.css	dfca8d3855948d1c7cfe0fbbdae01a7d
 A	STARTERKIT/css/wireframes.css	4716f710b8c4d97c0ecc6f66a01361c0
+D	STARTERKIT/drupal6-reference.css	
+A	STARTERKIT/favicon.ico	93464647fc2fdd791cc05bce756367a6
+A	STARTERKIT/images-source/messages.psd	a032a7e066be3a3b5991d658e226f970
+A	STARTERKIT/images-source/screenshot.psd	14b57d0e3c587dcffd06567af204cee3
+A	STARTERKIT/images-source/tabs.psd	e0429341f448d980a641e346c2dcf861
+A	STARTERKIT/images/messages-error-ie6.png	5158fea9cea0656c7b5ccb0dc6a07b74
+A	STARTERKIT/images/messages-error.png	a3d46c891fa19c2de75362b370ae30e9
+A	STARTERKIT/images/messages-status-ie6.png	c73ecff583db00fdb8b53f4b7576209b
+A	STARTERKIT/images/messages-status.png	dbf6293dfdf81ce32372ebb24c04a71e
+A	STARTERKIT/images/messages-warning-ie6.png	2cec6789810fc01651da7f926bbfea06
+A	STARTERKIT/images/messages-warning.png	aa1c9a1361ba7191080d7e32a61150ab
+A	STARTERKIT/images/tab-bar.png	e42804fe3d61145627d826603d454913
+A	STARTERKIT/images/tab-left-ie6.png	b9685bd4d9c86c51848d795f984d168b
+A	STARTERKIT/images/tab-left.png	9ecd446c28ba5fffdbe0af2bd5ac37d2
+A	STARTERKIT/images/tab-right-ie6.png	d1e39633cae3857e174749bc22ea3c96
+A	STARTERKIT/images/tab-right.png	15d64213a10c656946297030329fd980
+A	STARTERKIT/images/tab-secondary-bg.png	85c9380e7ef035df5b17dfc31b148ea3
+A	STARTERKIT/images/tab-secondary.png	1aeca372cb88c1620f27b6d9b938f800
 A	STARTERKIT/js/README.txt	ecc57a8a52129fb5fe958d05436df984
 A	STARTERKIT/logo.png	245662e3f5a5746589430cb81c19b4b6
 A	STARTERKIT/screenshot.png	5d683d463d6ec6f02366dd6f07f95bcc
 A	STARTERKIT/template.php	3bd232d928899b8c071f6b9026c64723
 A	STARTERKIT/templates/README.txt	b5906776beea81b4757a275b9a318829
 A	STARTERKIT/theme-settings.php	5b7106b15ed6094ff4146a15b0b8abb2
+D	images-source/STARTERKIT/screenshot.psd	
+D	images-source/zen/messages.psd	
+D	images-source/zen/tabs.psd	
 A	logo.png	245662e3f5a5746589430cb81c19b4b6
 A	template.php	6e5b84f975c78591b5ccd5e2572d903a
 A	templates/block.tpl.php	a66d9101f750e5df7f29c58ba7b3ab9f
+A	templates/comment-wrapper.tpl.php	3894ad36b65ae74e725e20ccb67d0d87
 A	templates/comment.tpl.php	eb216b11158ac7e6dc30cc0638155291
 A	templates/maintenance-page.tpl.php	8ec8094c02b18804a17861919c292674
 A	templates/node.tpl.php	0d8d9e28a9b624ca787bb6da518162e9
+A	templates/page.tpl.php	40fc5f7414d7c65089d674c09d610210
 A	templates/region-sidebar.tpl.php	b83fed5aeb0f852e46e8a0d760c22dd6
 A	templates/region.tpl.php	c0e9bb4312d0751728c6adb7e0272c1d
+A	theme-settings.php	dfe87f716ed2e182bbfabd0c8ffd9f51
 A	zen-internals/TODO.txt	0d1fd95754446feb61c9e20547f7a63d
 A	zen-internals/css/generate.sh	27eab65063d2f8e3b212dae8e77bbf81
 A	zen-internals/css/ie.css	9c41714d95202e47591b02b71af7740c
 A	zen-internals/css/ie6.css	73c8cd382acd40fb59d7f6e7522ff1ca
 A	zen-internals/css/print.css	de8063b374532af26cce42c41d0855ec
+A	zen-internals/css/theme-settings-rtl.css	ef81147f7c493c3256f6b8b25647aae9
+A	zen-internals/css/theme-settings.css	4d218b6ab94415fe31e49daaa83c1773
 A	zen-internals/css/zen-fixed.css	6e83e0ef4c98f2e143706103a374220f
 A	zen-internals/css/zen-liquid.css	5e74b6f3d812c9cd136ec8e6aeaf5e8e
 A	zen-internals/images/messages-error-ie6.png	5158fea9cea0656c7b5ccb0dc6a07b74
@@ -52,17 +94,46 @@ A	zen-internals/images/tab-right-ie6.png	d1e39633cae3857e174749bc22ea3c96
 A	zen-internals/images/tab-right.png	15d64213a10c656946297030329fd980
 A	zen-internals/images/tab-secondary-bg.png	85c9380e7ef035df5b17dfc31b148ea3
 A	zen-internals/images/tab-secondary.png	1aeca372cb88c1620f27b6d9b938f800
+A	zen-internals/js/theme-settings.js	f46342583039174e6a8ebc80623982a6
+A	zen-internals/screenshot.png	f90ca8ee5d19fbd861d4a42e1386ba57
+A	zen-internals/template.block-editing.inc	08f67a9c7883ce03d8a74899b7b1bf88
+A	zen-internals/template.comment.inc	f6b3d1f2f114aa87ddd74571e9ff4cd1
+A	zen-internals/template.conditional-styles.inc	3c2450f8aa312f5315ac3577d0431571
 A	zen-internals/template.theme-registry.inc	b05b31756d65cf621d8d400b64011a1a
 A	zen-internals/template.zen.inc	557c7f23977c4d14e1e854d935766eeb
 A	zen.info	e3ba7e6bd9ca6d16f5b9c8cef3d6bc48
+D	zen/backgrounds.css	
 D	zen/block-editing-rtl.css	
+D	zen/block-editing.css	
 D	zen/block.tpl.php	
 D	zen/blocks.css	
 D	zen/box.tpl.php	
+D	zen/comment-wrapper.tpl.php	
 D	zen/comment.tpl.php	
 D	zen/comments.css	
+D	zen/favicon.ico	
 D	zen/fields.css	
+D	zen/forms-rtl.css	
+D	zen/forms.css	
+D	zen/html-elements-rtl.css	
+D	zen/html-elements.css	
+D	zen/ie.css	
 D	zen/ie5.css	
+D	zen/ie6-rtl.css	
+D	zen/ie6.css	
+D	zen/images/messages-error-ie6.png	
+D	zen/images/messages-error.png	
+D	zen/images/messages-status-ie6.png	
+D	zen/images/messages-status.png	
+D	zen/images/messages-warning-ie6.png	
+D	zen/images/messages-warning.png	
+D	zen/images/tab-bar.png	
+D	zen/images/tab-left-ie6.png	
+D	zen/images/tab-left.png	
+D	zen/images/tab-right-ie6.png	
+D	zen/images/tab-right.png	
+D	zen/images/tab-secondary-bg.png	
+D	zen/images/tab-secondary.png	
 D	zen/layout-fixed-rtl.css	
 D	zen/layout-fixed.css	
 D	zen/layout-liquid-rtl.css	
@@ -70,11 +141,26 @@ D	zen/layout-liquid.css
 D	zen/logo.png	
 D	zen/maintenance-page.tpl.php	
 D	zen/messages-rtl.css	
+D	zen/messages.css	
+D	zen/navigation.css	
 D	zen/node.tpl.php	
+D	zen/nodes.css	
+D	zen/page.tpl.php	
 D	zen/pages-rtl.css	
 D	zen/pages.css	
+D	zen/print.css	
+D	zen/screenshot.png	
+D	zen/tabs-rtl.css	
+D	zen/tabs.css	
+D	zen/template.block-editing.inc	
+D	zen/template.comment.inc	
+D	zen/template.conditional-styles.inc	
 D	zen/template.php	
 D	zen/template.theme-registry.inc	
+D	zen/theme-settings-rtl.css	
+D	zen/theme-settings.css	
+D	zen/theme-settings.js	
+D	zen/theme-settings.php	
 D	zen/views-styles.css	
 D	zen/wireframes.css	
 D	zen/zen.info	

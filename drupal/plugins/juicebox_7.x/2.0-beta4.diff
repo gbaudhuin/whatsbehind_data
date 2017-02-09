@@ -1,5 +1,7 @@
+D	includes/JuiceboxConnector.inc	
 M	includes/JuiceboxGallery.inc	503d09ec87c78513fc9a8fe97389a2e5
 A	includes/JuiceboxGalleryDecorator.inc	3d1f3b6f1fc8770a81fa49ca1c33dad5
+A	includes/JuiceboxGalleryDrupal.inc	823394ffefde781a881922e54362e8b9
 A	includes/JuiceboxGalleryDrupalInterface.inc	0ebbccfac297047e14d3a2f84cb6465f
 M	includes/JuiceboxGalleryInterface.inc	4f04432d239dd144c06903fa2b92f701
 M	juicebox.admin.inc	e2a8e568ab191f42c2814b84829d0350

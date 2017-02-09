@@ -1,5 +1,4 @@
 M	CHANGELOG.txt	6c4f61497805c87840fa4d396f32c99c
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 M	README.txt	9b1bd01cefadcf695d294ba41ea7bd89
 M	data/x00.php	8135b2e6a1c74c87a744eca097e7ec9f
 M	data/x01.php	76033d3ef8246de7ffbc484a567ac83f
@@ -181,10 +180,7 @@ M	data/xfc.php	8e42b21901816cf67ff790215581c659
 M	data/xfd.php	5640742f0d81633c97547fd678013280
 M	data/xfe.php	4aec4f10672a4c30106385ee8b8d5cbd
 M	data/xff.php	b9e2399d9eb95889d81561e618c971a5
-A	translations/da.po	73bbef444fce207356a8a91757af700b
-A	translations/de.po	7b7b6db3a50289f6458802135a1923b5
-A	translations/transliteration-module.pot	8085517e3d437f7302a8713abb2640f4
-M	transliteration.admin.inc	c0d74ff873141d884ba60487fa971fe3
+A	transliteration.admin.inc	c0d74ff873141d884ba60487fa971fe3
 M	transliteration.inc	af6e6f5328afdd75f05a34e59761e708
 M	transliteration.info	a312bf713d3cba9a3aa0bb297c4313f8
 M	transliteration.install	19dace68ce3959b2b4e32dd566da91f9

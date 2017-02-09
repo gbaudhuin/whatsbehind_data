@@ -1,0 +1,10 @@
+A	images/accepted.png	653cf57bb0fb4b78b1c7418b90939f92
+A	images/accepted_alpha.png	856ebe3ac5c08de00ef87565d974e525
+A	images/rejected.png	60c4294036020a2302c0aabcaa3e4196
+A	images/rejected_alpha.png	2a216a92d7dde096b969057de6499ae7
+A	images/throbber.gif	ae6ffc909fc0deb781b3775e4cf517e7
+M	username_check.info	8923d991e8dd1f5e41aac5424b7c9a9d
+M	username_check.module	8d1bbc152fa4affec8b4a66f7662ff88
+M	username_check.settings.inc	d4e465869097636f71703b0ad2cdc9fb
+M	username_check.unique.inc	6e876d21fa1746f246efb229298cf0b5
+M	username_check_auto.js	8c8de1c8f171ce97399d3752d48f9303

@@ -6,4 +6,6 @@ M	environment_indicator.js	d6624320bb2b7646050386091d34e8a7
 M	environment_indicator.module	b3c57014be3368225a67b562dfdf4534
 M	environment_indicator.theme.inc	52b01737c68cdb4ad4bfe5c7bda7f5f2
 M	environment_indicator_variable/environment_indicator_variable.info	fd6820cfd02277271b3b74c27de6afce
+D	plugins/export_ui/environment_indicator_ctools_export_ui.inc	
+A	plugins/export_ui/environment_indicator_ui.inc	4fd5f1a978f5ec684d8daed1755fbbea
 A	samples/environment-indicator.sh	9865e7c335433773f1cfe6c5dc7f6b2a

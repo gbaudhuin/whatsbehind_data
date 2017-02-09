@@ -1,9 +1,18 @@
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 M	README.txt	01482f460e91642aaa806421f68a6164
+D	modules/piwik_reports/piwik_reports.info	
+D	modules/piwik_reports/piwik_reports.install	
+D	modules/piwik_reports/piwik_reports.js	
+D	modules/piwik_reports/piwik_reports.module	
+D	modules/piwik_reports/piwik_reports.pages.inc	
+D	modules/piwik_reports/referers-evolution.tpl.php	
+D	modules/piwik_reports/referers-search.tpl.php	
+D	modules/piwik_reports/visitors-locations.tpl.php	
+D	modules/piwik_reports/visitors-overview.tpl.php	
+D	modules/piwik_reports/visitors-settings.tpl.php	
+D	modules/piwik_reports/visitors-times.tpl.php	
 M	piwik.admin.inc	faf789448b48176082bf3b614f59249a
 M	piwik.info	cbede5acb7ff814271dad42d31a98583
 M	piwik.install	2d4e243d3c45b4b2edf774e7753b6f3c
-D	piwik.js	
 M	piwik.module	bda4104b09569423459527a00c67c177
-D	piwik.test	
-A	tests/piwik_basic.test	67bac76a4bce95a85a7d66ecebacfc44
+M	tests/piwik_basic.test	67bac76a4bce95a85a7d66ecebacfc44

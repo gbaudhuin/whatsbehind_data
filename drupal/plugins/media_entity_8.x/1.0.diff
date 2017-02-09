@@ -43,8 +43,10 @@ M	src/Tests/BasicTest.php	1da9dbaa6fc796a1a43f27c7cf1b26ac
 M	src/Tests/MediaTestTrait.php	8acbe507f7753592779b90afdd75397f
 M	src/Tests/MediaUITest.php	9d7bffc72dd7ee21be19f789ae3244c9
 M	src/Tests/Views/WizardTest.php	77682620741a34f84c2996adc5744a68
+D	tests/modules/media_entity_test/config/install/media_entity.bundle.test.yml	
 D	tests/modules/media_entity_test/media_entity_test.info.yml	
 D	tests/modules/media_entity_test/media_entity_test.module	
+A	tests/modules/media_entity_test_bundle/config/install/media_entity.bundle.test.yml	5eae000bf55627edc1af65427cbca92d
 A	tests/modules/media_entity_test_bundle/media_entity_test_bundle.info.yml	2aad93f61c0785c599bf22fee109823d
 A	tests/modules/media_entity_test_type/config/schema/media_entity_test_type.schema.yml	5bf9ad99c7bb577debdf491045701983
 A	tests/modules/media_entity_test_type/media_entity_test_type.info.yml	dc28d1258d649b26c676278a4eea212f

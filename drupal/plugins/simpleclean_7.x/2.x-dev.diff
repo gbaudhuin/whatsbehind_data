@@ -1,15 +1,1 @@
-M	README.txt	3f3342f8e6e03328a1575ad57c5a1b87
-A	block.tpl.php	f213a928a50c48de1edb42aae28f5b47
-A	comment-wrapper.tpl.php	dde038b031a877ed9248e31ae3d2b267
-M	comment.tpl.php	292f19d216910cb441b9dfb78eaa8006
-A	html.tpl.php	c61091858484805b6d980ef8383a0332
-M	ie6.css	e128208cee001622d8e3dcc9466dd96a
-A	menu-block-wrapper.tpl.php	bcbfc9220f42338130903441da24089d
-M	node.tpl.php	a95fb069d654435d6eeac5bf2dcde9d0
-M	page.tpl.php	6b8119dd4cb5db78bc01f0b4c382900a
-D	search-result.tpl.php	
-D	search-results.tpl.php	
 M	simpleclean.info	869a5777436390dd44566dc5b50ec3b9
-M	style.css	0327d7339de60ce253a1002db18870c1
-M	template.php	3ea1affb67d11a30f495a5726af087ef
-M	theme-settings.php	78a28355b38890ec538b2c7e3dc65398

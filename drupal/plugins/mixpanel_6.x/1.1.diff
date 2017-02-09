@@ -1,6 +1,14 @@
+D	includes/mixpanel.comment.inc	
+D	includes/mixpanel.node.inc	
+D	includes/mixpanel.og.inc	
+D	includes/mixpanel.user.inc	
 M	mixpanel.info	18590608c21f690053f4c0d12441dcae
 A	mixpanel.install	f68f231bd222bdc2e152587d9316cd9a
 M	mixpanel.module	26a4a092554d263fb67079417a91af09
+A	modules/mixpanel_defaults/includes/mixpanel_defaults.comment.inc	a43b736434754edd372a143999883934
+A	modules/mixpanel_defaults/includes/mixpanel_defaults.node.inc	18f715cdc69b917e8c65c03b6401c00c
+A	modules/mixpanel_defaults/includes/mixpanel_defaults.og.inc	43c0e5e791a647b331859bd36b1b4506
+A	modules/mixpanel_defaults/includes/mixpanel_defaults.user.inc	53e89181b9fff022b9ff38f5888186bd
 A	modules/mixpanel_defaults/mixpanel_defaults.info	13fb36cf5a72e024307544e513cba933
 A	modules/mixpanel_defaults/mixpanel_defaults.module	674b126f5aa1f15a8ec62b8c70c476db
 M	modules/mixpanel_spaces/mixpanel_spaces.info	0047de5d13667adfea506dfb82841545

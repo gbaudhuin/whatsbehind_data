@@ -84,6 +84,7 @@ A	src/Task/IndexTaskManager.php	5449e060ab158e7074a5a49198ca91e1
 A	src/Task/IndexTaskManagerInterface.php	6fa1273b6518add2974f96a2a1971bf8
 A	src/Tests/CliTest.php	a98ed728863567ef32ff4c53425a0bc5
 M	src/Tests/ExampleContentTrait.php	2b1c3b57ba84a85585b40988fdc503db
+D	src/Tests/IndexStorageUnitTest.php	
 M	src/Tests/IntegrationTest.php	d2f6b7c2780ca3bebc481ab2da30c40b
 M	src/Tests/LanguageIntegrationUnitTest.php	d4b4b81b6a02bb8c536d8f871b3253c7
 M	src/Tests/OverviewPageTest.php	02ee194fa95415dc966baba66d16df74
@@ -92,6 +93,8 @@ M	src/Tests/Processor/ProcessorIntegrationTest.php	7c327a5ef1b36acd007a970c8c25d
 M	src/Tests/Processor/ProcessorTestBase.php	6b6730e427b6b396a2af12a3090618f0
 M	src/Tests/Processor/RenderedItemTest.php	f88bdae828cb3cf860dc0d0db9ea3d77
 M	src/Tests/Processor/TestItemsTrait.php	93faff1a098cd3f120e1e26144aad092
+D	src/Tests/ServerStorageUnitTest.php	
+D	src/Tests/ServerTaskUnitTest.php	
 M	src/Tests/ViewsTest.php	c2bc0b70fc230331bfa16240c0c6b529
 M	src/Tracker/TrackerPluginManager.php	0acb3155548e47e65569d89856b8216c
 M	src/Utility.php	54ab85f97b42c1c70b4dd2927c714a01
@@ -100,5 +103,8 @@ M	tests/search_api_test_backend/src/Plugin/search_api/data_type/AlteringValueTes
 M	tests/search_api_test_db/search_api_test_db.info.yml	ed677c22ef0ba3d417b474518742b347
 M	tests/search_api_test_views/config/install/views.view.search_api_test_views_fulltext.yml	ac211070637b4338a68c7443045359f8
 M	tests/search_api_test_views/search_api_test_views.info.yml	95334f7582fe48ec2d1d9d56ff3b0410
+A	tests/src/Kernel/IndexStorageUnitTest.php	9a769d2a017b232ade1aba2f2bd85c89
+A	tests/src/Kernel/ServerStorageUnitTest.php	fc8ad95c75114b2fe3017432652ec03d
+A	tests/src/Kernel/ServerTaskUnitTest.php	f718d48559e73703e5e33599859816b1
 M	tests/src/Unit/Plugin/Processor/AggregatedFieldTest.php	db07aa99bfc4808942ea334e94fca370
 M	tests/src/Unit/Plugin/Processor/HtmlFilterTest.php	519bcf16cb84c5b1688314debbbc4e5e

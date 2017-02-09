@@ -36,5 +36,7 @@ A	plugins/layouts/flexible/flexible-admin.js	32751c2c250eb44214102d2e1dce441e
 M	plugins/layouts/flexible/flexible.css	3c34d2739049bc666a45f59cfab07eea
 M	plugins/layouts/flexible/flexible.inc	ba18657ec897111570a8ab87282db0f7
 A	plugins/styles/corners/panels-rounded-corners-box.tpl.php	3f0b6fb46290b0e75c4529f83619a0c8
+A	plugins/styles/corners/rounded_corners.inc	d3acdb65a4c7c52d96f91cc3957c2f2b
 M	plugins/styles/default.inc	2421f10444151b8b83f84c765f6e960c
+D	plugins/styles/rounded_corners.inc	
 M	plugins/task_handlers/panel_context.inc	0dac90578166574e33088e5d307743d0

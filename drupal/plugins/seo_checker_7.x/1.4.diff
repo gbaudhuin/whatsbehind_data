@@ -1,8 +1,0 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-M	basic_seo_rules/basic_seo_rules.info	d0fc3f8f47a12e4559328571d89953a8
-M	basic_seo_rules/basic_seo_rules.module	53b8cfd5f71c55af2113696a14668403
-M	keyword_rules/keyword_rules.info	711061a92cc72f0bd7b84c67269520ff
-D	keyword_rules/keyword_rules.install	
-M	keyword_rules/keyword_rules.module	3c9055c6e181d6aa8b726c3477a0fa35
-M	seo_checker.info	4f2d2dcc2c4aae02c083897a7e5ee422
-M	seo_checker.module	efdde828c5cb77a0f4c69d6117ff6b08

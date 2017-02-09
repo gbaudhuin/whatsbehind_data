@@ -1,0 +1,7 @@
+M	database/database.inc	4e717a4b35efa1776543bcad5098b8f6
+M	database/mysql/database.inc	64a0aced626c2e1e6358c72c5ca5f00d
+M	database/sqlite/database.inc	572a5aaa299f34716a6aec405bc703f7
+M	dbtng.info	57fde2dae3e4dc63653c2c1ed7c5c32a
+M	dbtng.install	fdfd68b2b875a788805cd8bff1954e56
+M	dbtng.test	8987c5a7730e6a713fe0161a35c85aad
+M	tests/database_test.info	03bce5406b73419157ddea7320b62cc5

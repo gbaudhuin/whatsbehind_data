@@ -1,0 +1,7 @@
+M	contact_emails.info.yml	65e6e9a6f24c294cd908ed37cd0f2e2c
+M	contact_emails.install	33606cafee6aed0a1e6c1e1f4a1d88e6
+M	contact_emails.services.yml	69a128763d77a55908a1f8e4aab090db
+M	src/ContactEmailerServiceProvider.php	b8c606e3f3fb01d2e4fbb20280fdccb2
+M	src/ContactEmails.php	f6259eaf237931db43d882603848a1dd
+M	src/Controller/ContactEmailsController.php	4d130c254a1af93ead138c7315799118
+M	src/Form/ContactEmailSettingsForm.php	9aa6adf264731e469c9e41a4d99c7b77

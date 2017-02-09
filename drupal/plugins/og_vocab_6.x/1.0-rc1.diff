@@ -1,11 +1,10 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	dc4f1eb32edc15472dfada15750de0b2
-M	og_vocab.admin.inc	c5073ef2800fcc33e05a0d22ab1495dc
-M	og_vocab.info	0ec19f6babed06d404c0861dba858bda
-M	og_vocab.install	661935e37607293ad615a8996ad2afda
-M	og_vocab.module	fda0eab14f595ced6c5a39aa464a2ba8
-M	og_vocab.rules.inc	e8b281f2e3dc527e94ffd46e20767fba
-M	og_vocab.services.inc	2cf13741028e956a053d7c382fc4b9fb
-D	og_vocab.test	
-M	og_vocab.token.inc	76079655f4e311d60b82b6847094bc0d
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	dc4f1eb32edc15472dfada15750de0b2
+A	og_vocab.admin.inc	c5073ef2800fcc33e05a0d22ab1495dc
+A	og_vocab.info	0ec19f6babed06d404c0861dba858bda
+A	og_vocab.install	661935e37607293ad615a8996ad2afda
+A	og_vocab.module	fda0eab14f595ced6c5a39aa464a2ba8
+A	og_vocab.rules.inc	e8b281f2e3dc527e94ffd46e20767fba
+A	og_vocab.services.inc	2cf13741028e956a053d7c382fc4b9fb
+A	og_vocab.token.inc	76079655f4e311d60b82b6847094bc0d
 A	translations/de.po	55f29fdf1af82fe3ccae03e885171dab

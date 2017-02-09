@@ -96,9 +96,11 @@ M	replace/ui/ui/i18n/jquery.ui.datepicker-is.js	447892a5c1601bb524d7e2cf5ff6cb33
 M	replace/ui/ui/i18n/jquery.ui.datepicker-it.js	7e651d93d0219066bf596faa06db4a81
 M	replace/ui/ui/i18n/jquery.ui.datepicker-ja.js	bf1cf98e79f2d6792c7c7a193b4c7497
 A	replace/ui/ui/i18n/jquery.ui.datepicker-ka.js	fd0b08bdc63b1d969fa2df907083062a
+A	replace/ui/ui/i18n/jquery.ui.datepicker-kk.js	57a792b4c55dc23b2095cc190180c440
 A	replace/ui/ui/i18n/jquery.ui.datepicker-km.js	f5c6ed9f64ff97adfd29cb149176021f
 M	replace/ui/ui/i18n/jquery.ui.datepicker-ko.js	5fb849693b65beed7146624ba498b517
 A	replace/ui/ui/i18n/jquery.ui.datepicker-ky.js	a5db310345d66c395b592fd2f6136bf0
+D	replace/ui/ui/i18n/jquery.ui.datepicker-kz.js	
 A	replace/ui/ui/i18n/jquery.ui.datepicker-lb.js	642aa75625a4ab2c324fb5df74063509
 M	replace/ui/ui/i18n/jquery.ui.datepicker-lt.js	162b7b6e9e935c89b62260f13bb98429
 M	replace/ui/ui/i18n/jquery.ui.datepicker-lv.js	37874227817498b9976e5c66e4da0eb9

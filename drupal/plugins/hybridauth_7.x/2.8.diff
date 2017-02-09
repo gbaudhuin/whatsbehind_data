@@ -13,6 +13,8 @@ M	hybridauth_bonus/hybridauth_bonus.module	26a5b46dd5af6e2d875f283958968e65
 M	hybridauth_ulogin/hybridauth_ulogin.info	1d68841f678867108f6ae03301641625
 M	js/hybridauth.admin.js	06924e1e3be21029fd5391f2483dd051
 A	js/hybridauth.close.js	5dc68a4712479fdd333a748442cc0bf1
+D	js/hybridauth.js	
+A	js/hybridauth.modal.js	59c3cb604f281b6d8b0ef113ec9f781f
 A	js/hybridauth.onclick.js	8581bc8c476c9e3e115c6d1d013a0d5b
 M	plugins/icon_pack/hybridauth_16/hybridauth_16.css	aa2e6e97b4f9b9dfd3dc45b2b743fb45
 M	plugins/icon_pack/hybridauth_16/icons/qq.png	7f3899cc491715b8794e318282b96a66

@@ -6,7 +6,9 @@ M	cas.module	2b307255870479c7395f39a96c0c31aa
 M	cas.test	b8879e1415ba4d6eebe8a18be419e201
 M	cas_server.info	c4d39bcaa3f6307d2869f8b38036d08b
 M	cas_server.module	3c602c88f8229bbf5ca519aa61c4360d
+A	cas_server.response.inc	d823d905cf6ce24cecb679c9ab69b340
 A	includes/views/cas.views.inc	1fddd22c76b07b48b77f4ce742c3153d
 A	includes/views/handlers/cas_handler_field_cas_name.inc	731d3a242ce4a9b2846d84765e29bb0f
 M	tests/cas_test.info	a1855d3307d050cf2f17928f0058220d
 M	tests/cas_test.module	8bb4ce8c7abecdd9f04a820072d2596e
+D	tests/cas_test.response.inc	

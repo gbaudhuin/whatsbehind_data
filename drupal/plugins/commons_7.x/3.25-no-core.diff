@@ -1,6 +1,6 @@
 M	.travis.yml	8216eb42b36f2b286ce079518bb75d9a
+D	LICENSE.txt	
 M	commons.info	945235a3c1c1eed25e1a8520cb445b0a
-M	drupal-org-core.make	a42ed6eecd499c883d51feae7a507374
 M	drupal-org.make	9f859b20a663d75c2de020c8f0e1d320
 A	libraries/backbone/.gitignore	8a604122d1059f0a137342dc5d90c0de
 A	libraries/backbone/.npmignore	8f04bfc9a35b7983e53f659eee924890
@@ -732,7 +732,6 @@ M	modules/commons/commons_events/commons_events.info	eec703dcfa6b3a2627eb388c9b9
 M	modules/commons/commons_events/commons_events.install	8400450678bae0c2423484e65651e29d
 M	modules/commons/commons_events/modules/commons_events_pages/commons_events_pages.info	3591f7589ead5577adfe785c9531742b
 M	modules/commons/commons_events/modules/commons_events_solr/commons_events_solr.info	b23c5c8e7fc8f677df5b047642f4b059
-M	modules/commons/commons_events/modules/commons_events_solr/commons_events_solr.module	74f77ddf2b7c793b75465a14d236fec2
 M	modules/commons/commons_featured/commons_featured.info	5af1048245b617aa165911ad324767d0
 M	modules/commons/commons_follow/commons_follow.info	e90a1170c0e9ccbe7178298eb164bfbc
 M	modules/commons/commons_follow/commons_follow_group/commons_follow_group.info	ba11785fea506e3826706b8b4bee905c
@@ -743,14 +742,11 @@ M	modules/commons/commons_follow/commons_follow_user/commons_follow_user.info	9e
 M	modules/commons/commons_groups/commons_groups.info	395b0958adecd8652b11a263dd4d6ab1
 M	modules/commons/commons_groups/modules/commons_groups_directory/commons_groups_directory.info	68a918101902614b0dfd30cede377c88
 M	modules/commons/commons_groups/modules/commons_groups_pages/commons_groups_pages.info	7716666f5fae5d729f397d3e7b43215f
-M	modules/commons/commons_groups/modules/commons_groups_pages/commons_groups_pages.install	6117c72517b9987ebc9ef692d8f98d65
-M	modules/commons/commons_groups/modules/commons_groups_pages/commons_groups_pages.panelizer.inc	f79f77affcb66295650db43491639733
 M	modules/commons/commons_images/commons_images.info	815ab5d8e463fef46bb40c93dd9e9dbb
 M	modules/commons/commons_kissmetrics/commons_kissmetrics.info	442cbdfbde27379dca91074407e901c1
 M	modules/commons/commons_like/commons_like.info	573e92994c01c80c2357da90f6aace32
 M	modules/commons/commons_location/commons_location.info	f05130a143c22204861c32b6c59b6c49
 M	modules/commons/commons_media/commons_media.info	6f42f877b18efe9adf72b700e979a2f8
-M	modules/commons/commons_media/commons_media.module	891feb49f1bcbef4d451d5709e4400df
 M	modules/commons/commons_misc/commons_misc.info	978ea90c9c43cef684b9913137a90424
 M	modules/commons/commons_notices/commons_notices.info	749d51317844511327079426eb3f343a
 M	modules/commons/commons_notify/commons_notify.info	34c13cac003c408f6266a51f7bb52059
@@ -776,6 +772,7 @@ M	modules/commons/commons_utility_links/commons_utility_links.info	a482d53f96745
 M	modules/commons/commons_wikis/commons_wikis.info	4f813fe94aab923941b28b223336bb67
 M	modules/commons/commons_wikis/modules/commons_wikis_pages/commons_wikis_pages.info	ef6323ed8933a8d0ea82c745b695c11c
 M	modules/commons/commons_wysiwyg/commons_wysiwyg.info	016ac6f9577c45579f0d0a0f8dc6e0eb
+A	modules/contrib/acquia_connector/LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	modules/contrib/acquia_connector/PATCHES.txt	e683e7aa5b2d0efac134890ab16ac084
 A	modules/contrib/acquia_connector/README.txt	f8fc378ae8e4f948bf16e542f813176c
 A	modules/contrib/acquia_connector/acquia_agent/acquia.ico	9b6e6eb1392cb22c5cae359fd68c6dd5

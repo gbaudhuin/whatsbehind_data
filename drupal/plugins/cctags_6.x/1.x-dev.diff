@@ -1,14 +1,3 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.TXT	5e568c5afce0b2c7d54f43e240428773
-A	cctags-page.tpl.php	ed7369bde4f9158ecda24bc243533cfa
-A	cctags-term.tpl.php	2d59745a4bca77c5d6cb9374205f71f0
-A	cctags-user-item.tpl.php	987036993f42e64016d9db28e9757779
-A	cctags-user-page.tpl.php	6ff2aaf7e8e999885a71e83b537e7d90
-A	cctags-user.tpl.php	e5699f66e1326884f3d3186c216f0be8
-A	cctags-vocname.tpl.php	8ce97355e5a5a12944388791049f2359
-A	cctags.admin.inc	f95aff02aa45963b13e23668722789fc
-A	cctags.css	d072893f322e83ded514a9bbf18dbb57
-A	cctags.info	77b3aec7b1fe0ffdef9d14d01cec3337
-A	cctags.install	dd1b1ecbc9c2adc22339a87843c992a0
-A	cctags.module	cb6e8b169b891a770447a8e6dfb1d1ad
-A	cctags.page.inc	7e35cfbd9270a2e167008735365bd61a
+M	cctags.admin.inc	f95aff02aa45963b13e23668722789fc
+M	cctags.info	77b3aec7b1fe0ffdef9d14d01cec3337
+M	cctags.module	cb6e8b169b891a770447a8e6dfb1d1ad

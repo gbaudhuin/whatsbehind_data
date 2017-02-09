@@ -1,1 +1,6 @@
-M	ckeditor_videodetector.info.yml	e0b790bc49ac5760b1149d4b30e6fb40
+A	.gitignore	457cead59889909bc1a3c72e3c7cae8a
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	e743beb837c1a10860a2064eedf84ada
+A	ckeditor_videodetector.info.yml	e0b790bc49ac5760b1149d4b30e6fb40
+A	composer.json	1fdedba4e1e9cd06427986759a861d5e
+A	src/Plugin/CKEditorPlugin/VideoDetectorCKEditorButton.php	e842ca0af163beb19bb17cb748c65fbd

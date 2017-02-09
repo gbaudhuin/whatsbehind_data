@@ -1,8 +1,12 @@
 A	README.txt	7faf2e950a107a2a19079ba575fe5ab7
 M	bootstrap_layouts.info.yml	72751516e113640b3f34d683c0490dab
 M	bootstrap_layouts.layouts.yml	79e7b186860cbf47367b8f870f7d8eb6
+D	templates/bootstrap-6-6-bricks.html.twig	
+D	templates/bootstrap-6-6-stacked.html.twig	
+A	templates/bricks/bootstrap-6-6-bricks/bootstrap-6-6-bricks.html.twig	e891ae9abcdba27176af6502df32c9e2
 A	templates/bricks/bootstrap-6-6-bricks/bootstrap_twocol_6_6_bricks.png	acffde735f32f2fe5f0162887b62974d
 A	templates/one-column/bootstrap-12/bootstrap_onecol_12.png	f36c6bb90a8d9e86f9f4c8ff92c61b9b
+A	templates/stacked/bootstrap-6-6-stacked/bootstrap-6-6-stacked.html.twig	78fa8434007e0a33431aef5160c04851
 A	templates/stacked/bootstrap-6-6-stacked/bootstrap_twocol_6_6_stacked.png	f2df246136f98848a85f0beae9b6371c
 A	templates/three-columns/bootstrap-2-2-8/bootstrap_threecol_2_2_8.png	bddfdd831ebe48c71b3bc2dd02800719
 A	templates/three-columns/bootstrap-2-8-2/bootstrap_threecol_2_8_2.png	59e8b7d6057661e66b2c1faf60f39140

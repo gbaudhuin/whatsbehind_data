@@ -7,14 +7,20 @@ M	assets/js/moip.js	c9c82dd81182f3c5ca7f6a93a4499b65
 M	assets/js/moip.min.js	43c7a069f6bbc60d9df5d0de2d6985c7
 A	assets/package.json	c23a2a5b067a4454be1e70d40df3c34b
 M	assets/stylesheets/moip.css	261589bf924a2febd6bdaf3a85bff68b
+D	includes/MoipDrupal.inc	
+D	includes/MoipNasp.inc	
 A	lib/Drupal/moip/Commerce/FormControllers/MoipCheckoutTransparenteForm.php	ec459e1909dfab2abfd15c051565c795
 A	lib/Drupal/moip/Commerce/FormControllers/MoipCommerceCheckoutCompleteForm.php	6a38d5fa8b38ef6ab7d5d27c93d0afed
 A	lib/Drupal/moip/Controllers/FormControllers/MoipConfig.php	1af9ed8c3a807ecefbc0fc5699dbd888
 A	lib/Drupal/moip/Controllers/PageControllers/MoipConfig.php	e50df4ab5829c710b70847c5c69833af
 A	lib/Drupal/moip/Controllers/PageControllers/MoipNotification.php	42a530db93b1a0c051e0ba840314f365
+A	lib/Drupal/moip/Entity/MoipNasp.php	c790d5c27677b4c919a770539363911f
 A	lib/Drupal/moip/Exceptions/InputValidationException.php	df4de614074edde36064734ccb646789
 A	lib/Drupal/moip/Exceptions/MissingConfigurationException.php	ecda522602be042ae5da85018eafab45
+A	lib/Drupal/moip/MoipDrupal.php	e83c8f56ab58ed49b654c94c1886b5b1
 D	moip.forms.inc	
 M	moip.info	83449f9847f957bc9e24c9928a4f5f53
 M	moip.module	bc45a4d79161d09796b40d1f3bfa1005
 D	moip.pages.inc	
+D	tpl/js_form.tpl.php	
+A	tpl/moip_ct_js_form.tpl.php	ddd4643afda23baf622efb0162da0b78

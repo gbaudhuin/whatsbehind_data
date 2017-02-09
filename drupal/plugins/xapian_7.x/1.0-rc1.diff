@@ -1,9 +1,8 @@
 A	CHANGELOG.txt	3ba48c87b6c13e7c958ae330c921d51f
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	3cfcad2c4cf8656d6f5a21ccaefeaa78
-D	search_api_xapian/search_api_xapian.info	
-D	search_api_xapian/search_api_xapian.install	
-D	search_api_xapian/search_api_xapian.module	
-D	search_api_xapian/service.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	3cfcad2c4cf8656d6f5a21ccaefeaa78
+A	xapian.api.php	602cb02478a67328453d73e955f83486
 A	xapian.info	bd8709bf3a453908bab43e129f4460f6
-D	xapian/xapian.info	
+A	xapian.install	8ed8254540cc7103fdd22a3455887ee7
+A	xapian.lib.inc	737362e2a110591d683b46a7cc69ab22
+A	xapian.module	815372cd333600622c16af4fa1fc8a54

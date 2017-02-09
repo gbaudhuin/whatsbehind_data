@@ -1,14 +1,1 @@
-A	.DS_Store	4ecd4c4b4281d4aa7d35280997338937
-M	README.txt	9e8d3b33a86a4bd5f422d113823368ca
-A	legal.admin.inc	524227c08bb0c59c7e90115c680d99b3
 M	legal.info	e595ac8766d4cb9748945cc7ff2a655b
-M	legal.install	2edee9611ed1375ca21e974ac8003519
-M	legal.module	14d37f3d3096fa263fd7bd999223a39e
-A	legal.pages.inc	37c5949ab0cb0e364a3a97d3051d54bc
-A	legal.test	d06e7e97474a7f27fec53066d092b715
-D	tests/register.test	
-A	views/.DS_Store	194577a7e20bdcc7afbb718f502c134c
-A	views/legal.views.inc	e2cf6b07ca826465950b7816d7fa9b6b
-A	views/legal.views_default.inc	c73c6b84b2e890554e20eb681214aca4
-A	views/legal_views_handler_field_exploded_list.inc	0f9f53e4236cecc4a91cd2ed9337745e
-A	views/legal_views_handler_field_unserialized_list.inc	62e360a811f3ea6d0482e1bfb437468c

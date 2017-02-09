@@ -1,0 +1,9 @@
+M	README.md	8f21f34ac6717e5e2191d38270907b6e
+M	composer.json	b30a4d67a93a4ca968dfa2bc585a94a3
+M	src/Plugin/Field/FieldFormatter/ViewsReferenceFieldFormatter.php	183492d5034b1c1384a1b83224053b14
+M	src/Plugin/Field/FieldType/ViewsReferenceItem.php	cc6e91bca4e1dde0c5e9ef2b51913f61
+M	src/Plugin/Field/FieldWidget/ViewsReferenceSelectWidget.php	3228c1e815ccdedcc4ce8b5b5f4c8110
+M	src/Plugin/Field/FieldWidget/ViewsReferenceTrait.php	bbd7bdb246fcdcf1bbe6827ccdef216e
+M	src/Plugin/Field/FieldWidget/ViewsReferenceWidget.php	38956b1dc739c64d9d889e0950e7bbe5
+M	viewsreference.info.yml	95e0c5cdba904d433b115f726e59cbdd
+D	viewsreference.module	

@@ -1,4 +1,0 @@
-M	purge_queuer_url.info.yml	9577f84ed70e326b66d1b4a68c3d9db7
-M	src/StackMiddleware/TrafficRegistry.php	24a62d62c687d9b1646869b91b99a51a
-M	src/StackMiddleware/TrafficRegistryInterface.php	002cb61d6101226ef4328f8ffdb74fbc
-M	src/Tests/ConfigurationFormTest.php	b0c3033a80af440b052567d8a0fcf8e3

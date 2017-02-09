@@ -1,5 +1,5 @@
-D	.project	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	uc_profile.info	34fbbd0f3c73d7cae8900572a770a846
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.TXT	12ce34d201881f92fd4edfed178a7558
+A	uc_profile.info	34fbbd0f3c73d7cae8900572a770a846
 A	uc_profile.kpf	2f6eea079f69eda6f889cd82b19908bf
-M	uc_profile.module	12afb89af409d2eb1f2a446202ae1f01
+A	uc_profile.module	12afb89af409d2eb1f2a446202ae1f01

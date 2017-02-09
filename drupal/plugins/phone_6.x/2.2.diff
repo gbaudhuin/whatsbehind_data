@@ -15,6 +15,7 @@ D	phone.eg.inc
 D	phone.el.inc	
 M	phone.es.inc	a04ccc8c00f9fbc0fab360b8ef597d62
 M	phone.fr.inc	6304e14401f1f60df99b975ad7160db8
+D	phone.gb.inc	
 M	phone.hu.inc	37a259d9e7a7a6d868fcfb61d29e4882
 D	phone.il.inc	
 M	phone.info	e4323895cbd66e39aad99867557663bc
@@ -33,6 +34,7 @@ M	phone.ru.inc	b434351a27cb25afe955806a3e754291
 D	phone.se.inc	
 D	phone.sg.inc	
 D	phone.ua.inc	
+A	phone.uk.inc	bc5c6ed42c6a9a826090c4aa0b2c3bf9
 D	phone.za.inc	
 D	tests/phone-au.test	
 D	tests/phone-be.test	

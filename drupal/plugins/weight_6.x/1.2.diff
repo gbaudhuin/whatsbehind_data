@@ -1,7 +1,17 @@
 D	httpRequest.js	
+A	theme/weight-view-weight.tpl.php	c83b28b7339d58f650eadab8ed636c0f
 A	views/weight.views.inc	13b2d2d8f19f9c31e8cf36c2a5879ce4
+A	views/weight_handler_field_sticky.inc	24fe5da137866c21f66c8b274b10eb39
+A	views/weight_handler_filter_sticky.inc	39e4129c194ce8120666e13d08812d40
+A	views/weight_handler_filter_weight.inc	8884617bf46fc1514167bdab0e46e818
+A	views/weight_handler_sort.inc	1439d560df7298f4edea7f817830df6a
 A	views/weight_plugin_style.inc	bdc5901afcb5916c65dfcb48613f0e65
+D	weight-view-weight-form.tpl.php	
 M	weight.admin.inc	71fff597fa6049bbbee4ac923a30cfd2
 M	weight.info	4648124eb859a48b256caf7cd72b75cd
 M	weight.module	7c836e05852f4e0e3cd386433ed27d1c
 D	weight.views.inc	
+D	weight_handler_field_sticky.inc	
+D	weight_handler_filter_sticky.inc	
+D	weight_handler_filter_weight.inc	
+D	weight_handler_sort.inc	

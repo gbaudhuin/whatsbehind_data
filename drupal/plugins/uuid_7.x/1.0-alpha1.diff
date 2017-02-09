@@ -1,23 +1,13 @@
-D	.travis.yml	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	c14e258a70ace13a94d32a7d3d2d79f4
-D	UPGRADE.txt	
-D	plugins/arguments/entity_uuid.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	c14e258a70ace13a94d32a7d3d2d79f4
 A	translations/fr.po	966901a4ea5936f250e42917446fa587
-M	uuid.admin.inc	a2502ff9049c11b7b392b1fd38a4bf5a
-D	uuid.api.php	
-D	uuid.core.inc	
-D	uuid.drush.inc	
-D	uuid.entity.inc	
-D	uuid.features.inc	
-M	uuid.inc	7af519fea4dc02ccb518a59252905cf5
-M	uuid.info	8d0ea8f5e42e823dc4f84db2739f393e
-M	uuid.install	05d812bd3c50309d0f9eef7205197436
-M	uuid.module	ac30ef2e411a247f6570bb6ef18173b3
+A	uuid.admin.inc	a2502ff9049c11b7b392b1fd38a4bf5a
+A	uuid.inc	7af519fea4dc02ccb518a59252905cf5
+A	uuid.info	8d0ea8f5e42e823dc4f84db2739f393e
+A	uuid.install	05d812bd3c50309d0f9eef7205197436
+A	uuid.module	ac30ef2e411a247f6570bb6ef18173b3
 A	uuid.schema.inc	aaee82f7d90f280b6993352b44285ad1
-M	uuid.test	85c59869fd6eff502dc92283f3192846
-D	uuid.tokens.inc	
-D	uuid.views.inc	
+A	uuid.test	85c59869fd6eff502dc92283f3192846
 A	uuid_comment/uuid_comment.info	e900358a73372c795d2ebd45a44c6a45
 A	uuid_comment/uuid_comment.install	b9023486621b0ef8ce302f6dbf4c61eb
 A	uuid_comment/uuid_comment.module	a7d666ea0fe5378f39634121aa6447b1
@@ -35,18 +25,9 @@ A	uuid_node/uuid_node.tokens.inc	09ad9581c112a243c9e66b2436343a39
 A	uuid_node/uuid_node.views.inc	496fff38ed85962b656e456d4472bd38
 A	uuid_ossp/uuid_ossp.info	f5c3e4b729c578d2c45322e82684b7dc
 A	uuid_ossp/uuid_ossp.module	78c15e15f18600982e78eda3ac79aedd
-D	uuid_path/uuid_path.info	
-D	uuid_path/uuid_path.module	
 A	uuid_role/uuid_role.info	c3a5ce83c1b6d2fcc04d97ed755a0a79
 A	uuid_role/uuid_role.install	12396e8387512f1bc992562188b8d678
 A	uuid_role/uuid_role.module	f35be398cd6b83bc3c21a89e7346b943
-D	uuid_services/uuid_services.admin.inc	
-D	uuid_services/uuid_services.info	
-D	uuid_services/uuid_services.module	
-D	uuid_services_example/uuid_services_example.features.inc	
-D	uuid_services_example/uuid_services_example.info	
-D	uuid_services_example/uuid_services_example.module	
-D	uuid_services_example/uuid_services_example.services.inc	
 A	uuid_taxonomy/uuid_taxonomy.info	ae122f6e3c3b86ccb1f846e7a5e1ccca
 A	uuid_taxonomy/uuid_taxonomy.install	27325602d9a8b143140b5bfa2a6d69bf
 A	uuid_taxonomy/uuid_taxonomy.module	d1f0863448cb7e55ffa5a421188811a0

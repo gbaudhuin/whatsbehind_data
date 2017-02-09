@@ -25,6 +25,7 @@ M	date_api_sql.inc	c006ea23bd97896f852a688775583df5
 D	date_copy/date_copy.info	
 D	date_copy/date_copy.install	
 D	date_copy/date_copy.module	
+D	date_copy/date_field.php	
 D	date_copy/translations/date_copy.pot	
 A	date_locale/date_locale.info	23e34c5ea006937e86bf1df8c1bc2bb8
 A	date_locale/date_locale.module	abe68fb4f9e4e2887f368d9d40b9c63f
@@ -49,7 +50,9 @@ A	date_popup/themes/images/dadada_40x100_textures_02_glass_75.png	374d173034d212
 A	date_popup/themes/images/e6e6e6_40x100_textures_02_glass_75.png	897792eb563e104b9bd54ca290c95f2b
 A	date_popup/themes/images/ffffff_40x100_textures_02_glass_65.png	2aba552213164b739e773967a33982a0
 A	date_popup/translations/date_popup.de.po	b1a326af2f91de7721142edbb83de175
+A	date_popup/translations/date_popup.es.po	1c37c31c847cdd5d801ae62936a1f6b4
 M	date_popup/translations/date_popup.pot	38fa12a848c3e85bd88f80857c8015d1
+D	date_popup/translations/es.po	
 M	date_repeat/date_repeat.info	e444f641e213acd48aece3134aac332b
 M	date_repeat/date_repeat.module	1c8db034c0ef9c7c15dc2ed38a686075
 M	date_repeat/date_repeat_calc.inc	bc42bba72e0ef27fb0ade198b2eb0596
@@ -60,6 +63,7 @@ M	date_timezone/date_timezone.info	e5cad83c95d286917c4251d6e873a7da
 M	date_timezone/date_timezone.module	0d4035085e7b2b7a40a6b4ea93cdeead
 A	date_timezone/translations/date_timezone.de.po	3e93cfe654aa235c3ea4f206f50dbef6
 M	date_timezone/translations/date_timezone.pot	1022363f2eeb963c95cde3c87ee15a61
+A	date_tools/date_field.php	125dbff0493cfca1959ca645dad7f2a7
 A	date_tools/date_tools.info	d17c04d66e265b3413ad86960dc89f8a
 A	date_tools/date_tools.module	3fe306d1f46a7a21a2f0efcc2c559bc3
 A	date_tools/translations/date_tools.de.po	3394dc35360ec48e636f35149a504363

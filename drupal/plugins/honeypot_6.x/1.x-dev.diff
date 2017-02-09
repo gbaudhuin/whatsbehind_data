@@ -1,8 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	b70188cc1dc41aacbfcb8b9aefd826d2
-A	css/honeypot.css	2726884e592c9f1a7fbc65c19e39725f
-A	honeypot.admin.inc	45c7055cbb88fe7faf8a84c26c328d2f
-A	honeypot.api.php	1be31aa77e15252e7a3e3507b551af78
-A	honeypot.info	763e54acc9c3dfa9d7c66f30a104083d
-A	honeypot.install	d35456a4f43358d2258ae1d874057382
-A	honeypot.module	dc4f5def792f13fa189096d03c9bb8ee
+M	honeypot.info	763e54acc9c3dfa9d7c66f30a104083d

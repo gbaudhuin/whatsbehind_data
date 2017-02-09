@@ -1,0 +1,5 @@
+M	administerusersbyrole.info.yml	91486a6c44f8f0d2a0ec808c935ee457
+M	administerusersbyrole.module	079ad559e40f484cbec1a571ed8bf810
+A	config/optional/views.view.administerusersbyrole_people.yml	05f3aeb61c1235974e3335d215bd4a95
+M	src/AdministerusersbyrolePermissions.php	2a8f8aaf2f836815251c18441cec81d7
+M	src/Tests/AdministerusersbyroleTestCaseTest.php	e19b08e81912a6d77bf23c0e7ad286ee

@@ -1,15 +1,28 @@
-M	APIEXAMPLE/contentanalysisexample.info	90915647b891d78836f01b7e757ca975
-M	APIEXAMPLE/contentanalysisexample.js	540fcc32d0bf483f166c128c435b3b74
-M	APIEXAMPLE/contentanalysisexample.module	8bebdfd373c75f8f27ebcafafe70bcb5
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	contentanalysis.admin.inc	4533fc80d62b6e4badfbf178c33043d5
-M	contentanalysis.css	57b8a73dccc1f22f3864eb7fcf76c087
-M	contentanalysis.info	c76437d352ffdba27d36b4f57ddbbf11
-M	contentanalysis.install	3698a8b32a2a5f1b67be5650c9b9d711
-M	contentanalysis.js	6aed4b4d656bdafac3040684dfa62d34
-M	contentanalysis.module	e1d87752761c502137aa0af35dbed12d
-M	includes/seo_friend.inc	4805f91feb891afc7e22edd2ed4d6811
-D	includes/theme.inc	
-D	theme/slider-nojquery.tpl.php	
-D	theme/slider-range.tpl.php	
-D	theme/slider-value.tpl.php	
+A	APIEXAMPLE/contentanalysisexample.info	90915647b891d78836f01b7e757ca975
+A	APIEXAMPLE/contentanalysisexample.js	540fcc32d0bf483f166c128c435b3b74
+A	APIEXAMPLE/contentanalysisexample.module	8bebdfd373c75f8f27ebcafafe70bcb5
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	1e58dafce9023a3fee9337adb5628b9e
+A	contentanalysis.admin.css	ef82cd0861d32f1130de2d1673e86adf
+A	contentanalysis.admin.inc	4533fc80d62b6e4badfbf178c33043d5
+A	contentanalysis.css	57b8a73dccc1f22f3864eb7fcf76c087
+A	contentanalysis.info	c76437d352ffdba27d36b4f57ddbbf11
+A	contentanalysis.install	3698a8b32a2a5f1b67be5650c9b9d711
+A	contentanalysis.js	6aed4b4d656bdafac3040684dfa62d34
+A	contentanalysis.module	e1d87752761c502137aa0af35dbed12d
+A	icons/complete.png	c9b528b9541e127967eda62f79118ef0
+A	icons/error.png	e4dd51f46566ed3ceacdc900bf2fdf01
+A	icons/pass.png	8bfed48756f192ed7afe6eaa4799aae4
+A	icons/refresh.png	034fb7a25d38dbcb888db71269787de1
+A	icons/warning.png	c847e1076da70df83ef5284622b82a74
+A	images/arrow-active.png	ffa7afc3a81b8c33311f53eee62033bd
+A	images/bg-content-modal.png	2cff16158d9087a73669806021184854
+A	images/bg-shade-dark.png	7e8889ef362e6d0c94931a6fdaee5aef
+A	images/bg-shade-light.png	f02466e8190b877ecf86564c1e42e4b8
+A	images/bg-shade-medium.png	1b5cbee02e6be87a8306300968180d49
+A	images/bg-shade-white-lrg.png	1b77464538d35d9dfbb1a2f968eefbde
+A	images/blank.gif	56398e76be6355ad5999b262208a17c9
+A	images/close.gif	c43beb61cfd32b0c68c3a5bb1b786cdc
+A	images/sprite.png	58a83244ac72a70ebc0b97a2aa5e45db
+A	images/white-grad-active.png	6b6d2eab57230f1d2afd4b6d9380fd1c
+A	includes/seo_friend.inc	4805f91feb891afc7e22edd2ed4d6811

@@ -1,7 +1,14 @@
-M	css/spotlight.css	3ebf8fea98a37d3de19f9b63db4be987
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	css/icons-animation.css	5efb6f925470166045ba28c25131f79a
+A	css/icons-ie7.css	070375eeb00ee7ac3ea1c89a24040cdd
+A	css/icons.css	870f89585608e58373e5b0d20c8697ec
+A	css/spotlight.css	3ebf8fea98a37d3de19f9b63db4be987
+A	font/icons.eot	3f08958e8715808823a558577325fd54
+A	font/icons.svg	4d2898ebc46b3ccefbbb3cabce175241
+A	font/icons.ttf	b4dcaa3f981ba68673d7a78bf9753b6d
 A	font/icons.woff	684a776003b1be1e7a322d0837854922
-D	font/spotlight.woff	
-M	js/spotlight.js	b23d75c5279e41fad7ee432f8a8fc45e
-M	spotlight.info	df51a65138467197bc9f4a46e2a37f87
-M	spotlight.install	f125b1d2cd9695b5d9aebb18ff6a8dee
-M	spotlight.module	38df296e3361fc375da74f2322167e6d
+A	js/spotlight.js	b23d75c5279e41fad7ee432f8a8fc45e
+A	spotlight.info	df51a65138467197bc9f4a46e2a37f87
+A	spotlight.install	f125b1d2cd9695b5d9aebb18ff6a8dee
+A	spotlight.module	38df296e3361fc375da74f2322167e6d
+A	theme/spotlight-search.tpl.php	412c7b1a0da696df628646524e99f754

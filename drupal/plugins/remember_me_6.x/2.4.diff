@@ -1,3 +1,5 @@
+D	includes/remember_me.admin.inc	
 D	includes/remember_me.inc	
+A	remember_me.admin.inc	4af3e6c221b05cf49446b0d57492f21d
 M	remember_me.info	8aff76e6881ecd525caadce6cf54558a
 M	remember_me.module	568e762058f87c306c38215e5d8bbd55

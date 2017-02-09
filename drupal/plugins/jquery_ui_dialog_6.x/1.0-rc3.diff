@@ -4,3 +4,5 @@ M	jquery_ui_dialog.info	53f202f4e2d38e84736fbb14c85fb87b
 M	jquery_ui_dialog.module	c4817dbdd3d56da3105c40c69de3040a
 D	js/child.js	
 A	js/jquery_ui_dialog_child.js	aa873d7173e585059ccbfff7fa0f9832
+A	js/jquery_ui_dialog_parent.js	171a9c7b068f95a20017ca253b8cd016
+D	js/parent.js	

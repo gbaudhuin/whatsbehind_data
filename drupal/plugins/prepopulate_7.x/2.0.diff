@@ -1,4 +1,6 @@
-M	README.txt	9bcc93e5f8ed47a03c1388e47768f95f
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	9bcc93e5f8ed47a03c1388e47768f95f
 A	USAGE.txt	27b3839bd6903fdb44e2fd2028800033
-M	prepopulate.info	4339f1c616163a6e3f790609411bf943
-M	prepopulate.module	91cfa1cbac00daa61026ee1edd8a271f
+A	prepopulate.info	4339f1c616163a6e3f790609411bf943
+A	prepopulate.install	43a842dbd816f18270541dec8d75d594
+A	prepopulate.module	91cfa1cbac00daa61026ee1edd8a271f

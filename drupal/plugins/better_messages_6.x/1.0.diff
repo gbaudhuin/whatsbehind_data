@@ -1,12 +1,16 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	better_messages.inc	
-M	better_messages.info	27cfae926b98d283e5fd791abfeb9074
-M	better_messages.install	1da1085951be888643ac8c2948736da1
-M	better_messages.js	23b180d748db5473d40a4fe4eba22bac
-M	better_messages.module	f282c71611c71f7c6a8029e34e8b8a75
-M	better_messages.tpl.php	701677a2d27f879a726616d6ca20ee85
-D	better_messages_admin.css	
-D	skins/default/better_messages-rtl.css	
-D	skins/default/better_messages.css	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	better_messages.info	27cfae926b98d283e5fd791abfeb9074
+A	better_messages.install	1da1085951be888643ac8c2948736da1
+A	better_messages.js	23b180d748db5473d40a4fe4eba22bac
+A	better_messages.module	f282c71611c71f7c6a8029e34e8b8a75
+A	better_messages.tpl.php	701677a2d27f879a726616d6ca20ee85
 A	skins/default/default.css	1ee6e7b7c6cace8382bd258125db2287
-D	skins/default/images/admin_icon.png	
+A	skins/default/images/b.png	6d5ebfa02c59a2ba7bc8906e888911c8
+A	skins/default/images/bl.png	1dc6e3caf8defd8df126cb8d0631c58b
+A	skins/default/images/br.png	e674cba1293fb82871366299f905f669
+A	skins/default/images/closelabel.gif	0e5462b0b4f00432eac4b33d5fa31c5a
+A	skins/default/images/error.png	93bfcc0d0eccc5e17cda368aabf3abc4
+A	skins/default/images/status.png	7238e00beef5df2f9a87ba5db14f549a
+A	skins/default/images/tl.png	02e125bbaed0093265655bc9bb36265f
+A	skins/default/images/tr.png	7b0f5e3d1dee42a15daa83c543d3ed03
+A	skins/default/images/warning.png	08bffd99cc0c4b08deb78a6d27ee3361

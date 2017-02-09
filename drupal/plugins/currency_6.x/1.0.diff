@@ -1,11 +1,12 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	3872cd2592ffa9c3aec79c92f0ec45bc
-M	currency.info	d488e4faee24554ba214e1e01cc7e63b
-M	currency.module	9a1d4bac3745549980a78b17e6850246
-M	currency_api/API.txt	ef02172610a0e69d40073b145866252d
-M	currency_api/currency_api.info	b8ddf8ece4c5cf727c127a8a64fb127f
-M	currency_api/currency_api.install	2ea811a46cce2e2df6cf0217c7f65204
-M	currency_api/currency_api.module	8e28641847374d2a0046cfd8c4e8793a
+A	INSTALL.txt	8ebbd4545ab0504154eba7974bc036c5
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	3872cd2592ffa9c3aec79c92f0ec45bc
+A	currency.info	d488e4faee24554ba214e1e01cc7e63b
+A	currency.module	9a1d4bac3745549980a78b17e6850246
+A	currency_api/API.txt	ef02172610a0e69d40073b145866252d
+A	currency_api/currency_api.info	b8ddf8ece4c5cf727c127a8a64fb127f
+A	currency_api/currency_api.install	2ea811a46cce2e2df6cf0217c7f65204
+A	currency_api/currency_api.module	8e28641847374d2a0046cfd8c4e8793a
 A	translations/README.txt	a9e1a2a660ea4e807d296ff4a255df00
 A	translations/currency-module.pot	4145f9021ce695bfcea33d45765e59e0
 A	translations/currency.cs.po	9f0086d7c4b19a3c5aba12d2303220f6
@@ -13,7 +14,3 @@ A	translations/currency_api.cs.po	99dbc09cf5c13caba8b3c0a6bb87d444
 A	translations/currency_currency_api-module.pot	1c8d6549fb4fecf5bea6b4dd52da3213
 A	translations/general.pot	94e175748cf6cc3cfa412229b358c4a9
 A	translations/zh-hans.po	613a1e7eaacac27563e3dd5972fba024
-D	views/currency.views.inc	
-D	views/handlers/currency_handler_argument_currency.inc	
-D	views/handlers/currency_handler_field_currency.inc	
-D	views/handlers/currency_handler_filter_currency.inc	

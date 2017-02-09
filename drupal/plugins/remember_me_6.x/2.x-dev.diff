@@ -1,6 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	ac176e2095ee9875cbeffd0ab2be0eb0
-A	remember_me.admin.inc	4af3e6c221b05cf49446b0d57492f21d
-A	remember_me.info	bcf4ab5d004795a8bcbdeccdbc5bf352
-A	remember_me.install	758357d7dc12eb31bd8bb89a816717e2
-A	remember_me.module	568e762058f87c306c38215e5d8bbd55
+M	remember_me.info	bcf4ab5d004795a8bcbdeccdbc5bf352

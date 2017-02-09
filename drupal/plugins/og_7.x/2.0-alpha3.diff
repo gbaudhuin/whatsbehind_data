@@ -44,6 +44,9 @@ M	og_migrate/og_migrate.info	469bf6b7326f14416bf4c13c28c003c2
 M	og_migrate/og_migrate.module	9747adfecce6c201580be3e71efb5475
 D	og_migrate/og_migrate.test	
 D	og_migrate/plugins/og_migrate/upgrade_group.inc	
+D	og_migrate/plugins/og_migrate/upgrade_group_content.inc	
+D	og_migrate/plugins/og_migrate/upgrade_group_description.inc	
+D	og_migrate/plugins/og_migrate/upgrade_user.inc	
 M	og_register/og_register.info	07e64fcc01159c38a76f1326ce2483f5
 M	og_register/og_register.module	c87adc94aed486a66e95c30f275c4f33
 A	og_ui/css/og_ui-rtl.css	4f1197a3233a8dbfa9d414f647bf09cd
@@ -69,7 +72,10 @@ A	plugins/entityreference/behavior/OgBehaviorHandler.class.php	ba77b4c70584a262e
 A	plugins/entityreference/behavior/og_behavior.inc	ad24e97244da80ab254de2429e8a5d34
 A	plugins/entityreference/selection/OgSelectionHandler.class.php	d6a81ccadd1843352ed036d01f539438
 A	plugins/entityreference/selection/og.inc	903cc81af258a8f9e0322b6e40e283aa
+A	plugins/og_migrate/7000/og_7000_group.inc	e363f54b572ee3e728e452f72c11d712
 A	plugins/og_migrate/7000/og_7000_group_content.inc	1508b79f4a58c68c22b43a2654d3adb5
+A	plugins/og_migrate/7000/og_7000_group_description.inc	7c7e97ec4a305e5608043c5ca6b07dc4
+A	plugins/og_migrate/7000/og_7000_user.inc	5e2a855a81f74ba011883807d73f4a7d
 A	plugins/og_migrate/7200/og_7200_og_membership.inc	c9aab1eb66d4eedc995a88e480021add
 A	plugins/og_migrate/7200/og_7200_ogur.inc	9e3fa2946b59bcb76565fa5b1db84ad8
 A	plugins/og_migrate/7200/og_7200_remove_global_roles.inc	596f4430eef1efae109999bee45d86e5

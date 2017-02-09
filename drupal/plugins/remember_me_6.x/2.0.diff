@@ -1,6 +1,4 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
-D	remember_me.admin.inc	
-M	remember_me.info	8356ccee9c3d648745b39032e79d1529
-M	remember_me.install	cd3231656d01e9adf130c9bb5f6c14fa
-M	remember_me.module	ecb0f5a12292d2f690b6b43c9ba21b54
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	remember_me.info	8356ccee9c3d648745b39032e79d1529
+A	remember_me.install	cd3231656d01e9adf130c9bb5f6c14fa
+A	remember_me.module	ecb0f5a12292d2f690b6b43c9ba21b54

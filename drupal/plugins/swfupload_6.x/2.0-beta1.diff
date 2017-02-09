@@ -4,6 +4,8 @@ M	images/button.png	bd9bcb59907cf7cc644b770c13d75e75
 D	images/loading.gif	
 D	images/upload_default.png	
 D	js/collapse.js	
+D	js/swfupload.src.js	
+A	js/swfupload_widget.js	c6c2d323ce890b4201e77aa377d03f52
 D	settings/images/arrow-down.png	
 D	settings/images/arrow-right.png	
 D	settings/images/back.png	

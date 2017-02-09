@@ -11,7 +11,11 @@ A	addthis_test/addthis_test.info	da03acb989737f50b9c8c85712915ecf
 A	addthis_test/addthis_test.module	f4e05c1bcb2d49a7f4653e2a25e05991
 A	addthis_test/includes/addthis.test_pages.inc	f954a1bed55e55d76b8d325a5e8bdff7
 M	classes/AddThis.php	6b0d3506faf8db6b36930926718391cc
+D	classes/AddThisJson.php	
+D	classes/AddThisWidgetJs.php	
 A	classes/Services/AddThisScriptManager.php	58f38ba945206a0dfb39a96853d6cc20
+A	classes/Util/AddThisJson.php	9eb4625dd90590a888ad37e15f9d88b0
+A	classes/Util/AddThisWidgetJsUrl.php	8e41bf940920c29d68ff4d5618bb7e54
 M	includes/addthis.admin.inc	b4496a727040dc9839b9ee6c11ac16b5
 M	includes/addthis.block.inc	2f1ac4f0ec90383f9fd079a4da217b0c
 A	tests/AddThisFunctionalityTestCase.test	351deb9c27389d550f2240ceb9cf2a88

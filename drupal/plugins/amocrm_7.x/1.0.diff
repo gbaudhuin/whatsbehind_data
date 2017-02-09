@@ -1,6 +1,5 @@
-D	amocrm.api.php	
-M	amocrm.info	11c126dad37905c6661e0df40063e613
-D	amocrm.install	
-M	amocrm.module	94cdf55cff14357832fbb75b520525da
-M	amocrm.rules.inc	e37a4c8bffd2b392d89a33ad22900c98
-M	amocrm.tokens.inc	9ac2ee8f76bf3732544a5e03164f2ad1
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	amocrm.info	11c126dad37905c6661e0df40063e613
+A	amocrm.module	94cdf55cff14357832fbb75b520525da
+A	amocrm.rules.inc	e37a4c8bffd2b392d89a33ad22900c98
+A	amocrm.tokens.inc	9ac2ee8f76bf3732544a5e03164f2ad1

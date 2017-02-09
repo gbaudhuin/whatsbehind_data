@@ -1,21 +1,4 @@
-A	README.txt	74492a9a6f7111a0d263acbbd1972b40
-A	config/schema/instagram_block.schema.yml	a240b96dea066f7646dac67608779a52
-A	instagram_block.config_translation.yml	8748b1b2e81d63b15108a5c02e85767b
+M	README.txt	74492a9a6f7111a0d263acbbd1972b40
 M	instagram_block.info.yml	cc962f54b78714e3ef3e45618ca1af0c
-A	instagram_block.libraries.yml	9e9f4f33db67c9b553610c49ce7a59c4
-A	instagram_block.links.menu.yml	f28e807d19d35f67a0f798c9a18190cc
-M	instagram_block.module	8db5cbd584fd481517d28902b3166308
-A	instagram_block.permissions.yml	872502bc9e01018eea422f65b54aeb16
-A	instagram_block.post_update.php	be642987c2e0f2b058638777a34c4971
-M	instagram_block.routing.yml	ea057e70462647dbf42d6db8d6b686f7
-D	lib/Drupal/instagram_block/Form/InstagramBlockForm.php	
-D	lib/Drupal/instagram_block/Plugin/Block/InstagramBlockBlock.php	
-A	src/Form/InstagramBlockConfigForm.php	c998477134ae6579ff63d95d2e8a7ef8
-A	src/Plugin/Block/InstagramBlockBlock.php	2a47449529600548a94214ed7cec663c
-A	src/Tests/InstagramBlockConfigFormTest.php	ccd607a3fb5d76e603679f7d8b35cd7b
-A	src/Tests/InstagramBlockPlaceBlockTest.php	78e624a4aaf77bf286ecc824278e3d65
-A	src/Tests/Update/InstagramBlockUpdatePathTest.php	a5b37e67b89d399d89f012b3a6dcc1de
-M	templates/instagram-block-image.html.twig	06656511353981897ef0035ab502d381
-A	tests/fixtures/update/block.block.testuseridmove.yml	74ff7645028d1ee999d12354ee644820
-A	tests/fixtures/update/drupal-8.instagram-block-2778667.add-block.php	61e6ac0c5b3aa843ec4ea78e8c189de8
-A	tests/fixtures/update/drupal-8.instagram-block-2778667.site-with-instagram-block.php.gz	456c9e3c4208625f879db78b9e9098d2
+M	src/Tests/InstagramBlockConfigFormTest.php	ccd607a3fb5d76e603679f7d8b35cd7b
+M	src/Tests/InstagramBlockPlaceBlockTest.php	78e624a4aaf77bf286ecc824278e3d65

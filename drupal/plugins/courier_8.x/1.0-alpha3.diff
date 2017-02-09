@@ -14,8 +14,12 @@ M	src/Entity/TemplateCollection.php	d79fc1aaaa12dcfcdf8075ca83d26dc4
 A	src/Exception/ChannelFailure.php	4661c0f8d876ff373480b272fb489337
 A	src/Exception/IdentityException.php	d6e76346d13370a263193eef19ecea67
 A	src/Form/Settings.php	684303e78fe0398439e6bc6afbaeb97c
+D	src/IdentityChannelManager.php	
+D	src/IdentityChannelManagerInterface.php	
 A	src/MessageQueueItemInterface.php	3291752ea812a61076eec8ac1e63fb1a
 M	src/Plugin/IdentityChannel/IdentityChannelPluginInterface.php	4808fd9442e9eb92d20985d3e7002a3a
 A	src/Plugin/QueueWorker/MessageWorker.php	c222c5e19673a26373536a1a2ba3a888
 M	src/Service/CourierManager.php	9b3fda12cbf4938e984ab667ad6a42d7
 M	src/Service/CourierManagerInterface.php	d288ac9228b686a3a848f07fcd90a0c6
+A	src/Service/IdentityChannelManager.php	01048b1a401eba212918f391856f7079
+A	src/Service/IdentityChannelManagerInterface.php	40a6443c48a1499529f226a3f4b5574f

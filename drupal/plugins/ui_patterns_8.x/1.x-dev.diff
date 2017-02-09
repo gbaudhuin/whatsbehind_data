@@ -1,0 +1,11 @@
+M	modules/ui_patterns_ds/ui_patterns_ds.info.yml	7b0cdfe9123d068cc2b81f76897e6c2c
+M	modules/ui_patterns_field_group/ui_patterns_field_group.info.yml	2d2871af86d96158d037b3ea3116a4d7
+M	modules/ui_patterns_layouts/ui_patterns_layouts.info.yml	dd0fabc011796f8e340ab8b33e46bef0
+M	modules/ui_patterns_layouts/ui_patterns_layouts.module	33bbe13f02881c5a71972fb68be3e27d
+M	modules/ui_patterns_views/ui_patterns_views.info.yml	0c90217030bf29d17a0d244413b81865
+M	tests/src/PhpUnit/fixtures/base_theme/base_theme.info.yml	820edb7228085a76c4347c92f67cc53c
+M	tests/src/PhpUnit/fixtures/module/module.info.yml	a14c7eb21ca38bde1bcfc70fd8e4b556
+M	tests/src/PhpUnit/fixtures/theme/theme.info.yml	67621ef791f73927363be29e329b06d4
+M	tests/ui_patterns_test/ui_patterns_test.info.yml	5fcd0dce12dbe3b4fcb96e3c2e46f827
+M	tests/ui_patterns_test_theme/ui_patterns_test_theme.info.yml	76f6d2221869ede889d43eed29cf49cc
+M	ui_patterns.info.yml	e96a71215f200b9c1bcc12abd63fc5e5

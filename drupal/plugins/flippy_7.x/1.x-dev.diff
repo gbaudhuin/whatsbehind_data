@@ -1,7 +1,4 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	afb98ce4b6a2623f936531549b6446a3
-A	flippy.css	8fa7c0d6e61ee800fb7a5b8e3c2df314
-A	flippy.info	e0b02e9496b6eb57c9db12350683c91b
-A	flippy.install	5111dc5e5bbcae927bc479800971c952
-A	flippy.module	92831facece4a91f7b867ce914f105b8
-A	flippy.tpl.php	5175c3e3075397d12618070a44b638fd
+M	flippy.css	8fa7c0d6e61ee800fb7a5b8e3c2df314
+M	flippy.info	ebb6260e038db78f255c754f7a8d31ee
+M	flippy.module	92831facece4a91f7b867ce914f105b8
+A	flippy.variable.inc	984d3c0ffa412aa79fc5b22f5da4927c

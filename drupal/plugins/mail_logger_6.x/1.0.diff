@@ -1,9 +1,5 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	mail_logger.css	154fba8ec3e3f6e0a3c6472ee9bf7a4e
-M	mail_logger.info	106ec4c044c9dacd8f5b33bd315e7d19
-M	mail_logger.install	470861a11ae22816ec55f37edac63ab7
-M	mail_logger.module	43c4265e0178a849ed47afb9ee4daadf
-D	mail_logger.rules.inc	
-D	views/handlers/mail_logger_handler_field_mail.inc	
-D	views/handlers/mail_logger_handler_field_mail_logger_entry.inc	
-D	views/mail_logger.views.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	mail_logger.css	154fba8ec3e3f6e0a3c6472ee9bf7a4e
+A	mail_logger.info	106ec4c044c9dacd8f5b33bd315e7d19
+A	mail_logger.install	470861a11ae22816ec55f37edac63ab7
+A	mail_logger.module	43c4265e0178a849ed47afb9ee4daadf

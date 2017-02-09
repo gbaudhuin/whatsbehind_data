@@ -1,22 +1,15 @@
-M	CHANGELOG.TXT	33fc30f444468ce82b17730ab9d7ee3a
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	ea196867012f0c1fd4943bdb2e6a8fad
-M	invite.info	3b4bc1d6b8dbadc44cc9955207ab4267
-M	invite.install	4aaa1a4f314c50c1826ee10e2b945450
-M	invite.module	42daa54e881c87a8117c4cb7766ca719
-M	invite_admin.inc	4181d9326a7b52900998551434690177
-M	invite_cancel_account.info	82b2643797690971dfec41ea1f77a5fe
-M	invite_cancel_account.module	b32c4c3c087f9fcbc161970c2acdf3ce
-M	invite_stats.info	2a30622f885f82588e960033168636b8
-M	invite_stats.module	0cb8f5ff05577fd689769dcdbc038c08
-M	invite_token.inc	60a5978f1b18174219bcc8a5d5353c54
-D	invite_views/includes/views2/handlers/views_handler_field_invite_accept_link.inc	
-D	invite_views/includes/views2/handlers/views_handler_field_invite_resend_link.inc	
-D	invite_views/includes/views2/handlers/views_handler_field_invite_withdraw_link.inc	
-D	invite_views/includes/views2/invite_views.views.inc	
-D	invite_views/includes/views2/invite_views.views_default.inc	
-D	invite_views/invite_views.info	
-D	invite_views/invite_views.module	
+A	CHANGELOG.TXT	33fc30f444468ce82b17730ab9d7ee3a
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	ea196867012f0c1fd4943bdb2e6a8fad
+A	invite.info	3b4bc1d6b8dbadc44cc9955207ab4267
+A	invite.install	4aaa1a4f314c50c1826ee10e2b945450
+A	invite.module	42daa54e881c87a8117c4cb7766ca719
+A	invite_admin.inc	4181d9326a7b52900998551434690177
+A	invite_cancel_account.info	82b2643797690971dfec41ea1f77a5fe
+A	invite_cancel_account.module	b32c4c3c087f9fcbc161970c2acdf3ce
+A	invite_stats.info	2a30622f885f82588e960033168636b8
+A	invite_stats.module	0cb8f5ff05577fd689769dcdbc038c08
+A	invite_token.inc	60a5978f1b18174219bcc8a5d5353c54
 A	translations/da.po	68ace49961e4f7adc474e52fd1b914c2
 A	translations/de-informal.po	0f00bdd16fb82974b7e2faab9281ed28
 A	translations/de.po	d99108d0fa9762940dcd789877f9d693

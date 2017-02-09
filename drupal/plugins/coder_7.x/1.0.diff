@@ -35,13 +35,35 @@ M	coder_review/tests/coder_review_test/coder_review_test.module	2095aa6a8845a2df
 M	coder_review/tests/coder_review_test_case.tinc	5a8c995902a083be605ff3eb23f1ded2
 M	coder_upgrade/CHANGELOG.txt	d05998ec8653518f5a7dc56692a42c00
 M	coder_upgrade/coder_upgrade.api.php	c4173ad18ebd3a708425ab8e8e73d162
+D	coder_upgrade/coder_upgrade.help.inc	
 M	coder_upgrade/coder_upgrade.inc	de83ee9b2ca8e1e6217eea26fd3fa061
 M	coder_upgrade/coder_upgrade.info	68f6ac2210ff5a75bbd260ba80698ab5
 M	coder_upgrade/coder_upgrade.install	68751543be0eeb07bd00e4f38b2f7b41
 M	coder_upgrade/coder_upgrade.module	3020d7928f9f2bed55c3132e594d8dea
 M	coder_upgrade/coder_upgrade.test	3fbe7794556b4c0fab8fbf8394f3b004
+A	coder_upgrade/conversions/begin.inc	f61ff4b9e16b0cde3d86f4eb2ce45051
+A	coder_upgrade/conversions/call.inc	8f2791e67c3d963b2359c1994755f3f1
+D	coder_upgrade/conversions/coder_upgrade.begin.inc	
+D	coder_upgrade/conversions/coder_upgrade.call.inc	
+D	coder_upgrade/conversions/coder_upgrade.db.inc	
+D	coder_upgrade/conversions/coder_upgrade.end.inc	
+D	coder_upgrade/conversions/coder_upgrade.function.inc	
+D	coder_upgrade/conversions/coder_upgrade.install.inc	
+D	coder_upgrade/conversions/coder_upgrade.list.inc	
+D	coder_upgrade/conversions/coder_upgrade.main.inc	
+D	coder_upgrade/conversions/coder_upgrade.other.inc	
+D	coder_upgrade/conversions/coder_upgrade.regex.inc	
+A	coder_upgrade/conversions/db.inc	1dbccc9a833a9559a6fabbae4c206733
+A	coder_upgrade/conversions/end.inc	1699be15865f88983e25bbd393f554a9
+A	coder_upgrade/conversions/function.inc	aa7d07603f9f7934bd283d0b75c01883
+A	coder_upgrade/conversions/install.inc	35a59fd3bc65b3a1d44402b5a52b6028
+A	coder_upgrade/conversions/list.inc	00f87167470775485b0ed771bdcc1f9b
+A	coder_upgrade/conversions/other.inc	c5ccf5bfed0716e5e3680b3367861f35
+A	coder_upgrade/conversions/regex.inc	ba5163fb2e6a1211d562f1da43b0bdc4
 A	coder_upgrade/conversions/tool.inc	27a4f9fc83e2666d97f98bda4397d6ba
 A	coder_upgrade/includes/conversion.inc	5254189f178037f1c7ec77d8fc3061b4
+A	coder_upgrade/includes/help.inc	e16b44bccea08cdd2567fb2158bd222b
+A	coder_upgrade/includes/main.inc	6f0018e912d91a57748a1d132470027f
 A	coder_upgrade/includes/menu.inc	8c99e841fb831f56055310d5aaf82618
 A	coder_upgrade/includes/settings.inc	d47d146d2c7e2023be333c75ea655e38
 A	coder_upgrade/includes/utility.inc	a4480efebef2d18753ddff35f772d121

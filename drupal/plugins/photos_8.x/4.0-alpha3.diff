@@ -27,6 +27,14 @@ M	src/Plugin/Block/PhotosInformation.php	b0930d71f563990bb2d27a9ab137bcad
 A	src/Plugin/views/field/PhotosImage.php	e27b4041a3dde6ac8fd8c50ef92069c6
 D	src/photos_handler_field_photos_album_cover.php	
 D	src/photos_handler_field_photos_image.php	
+A	templates/photos_album_links.html.twig	4c36ac91d326cdbd0f433696c17f7943
+A	templates/photos_album_view.html.twig	94a22c6732bc4e8a0ef802be7341161f
+D	templates/photos_albumlinks.html.twig	
+D	templates/photos_albumview.html.twig	
 M	templates/photos_default.html.twig	30fd8395d045e3a4432ea9e8d1f6c3e7
 A	templates/photos_image_block.html.twig	95447420983be8612e249624a6e73423
+A	templates/photos_image_html.html.twig	fc9740b8252f70a439f6edbb25d2e29a
+A	templates/photos_image_view.html.twig	45201ff2e2309094d75145aa109f6e2b
 D	templates/photos_imageblock.html.twig	
+D	templates/photos_imagehtml.html.twig	
+D	templates/photos_imageview.html.twig	

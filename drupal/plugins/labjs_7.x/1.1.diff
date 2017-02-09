@@ -1,5 +1,7 @@
 M	README.txt	98da0aa09102d9f0a566ee2db7c01ce3
+D	drupal.modified.js	
 M	labjs.info	bfa70bc12876ddd9a6140297c3e02174
 M	labjs.install	197008a18f4d727cc54f1bc7008f7461
 M	labjs.module	d7776bd956896cfa2785d8fb23f3ce0e
+A	replace/drupal.js	905ccd7a13a242661939db444a66b43a
 A	replace/overlay-parent.js	c43ef0ba324345c0304266ff55114cf7

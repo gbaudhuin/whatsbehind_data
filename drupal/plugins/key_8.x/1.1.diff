@@ -10,7 +10,9 @@ M	src/KeyRepositoryInterface.php	21b1026609dd05c5c1430eb56c4e465e
 M	src/Plugin/KeyPluginManager.php	3d97950e89efbe3502f8f99aa9ade561
 M	src/Plugin/KeyProviderBase.php	41c36689842a0480d23edbc818c1ec6d
 M	src/Plugin/KeyProviderInterface.php	927279d193a3085c0e5ce2a28a21fdec
+D	src/Plugin/KeyType/AesEncryptionKeyType.php	
 M	src/Plugin/KeyType/AuthenticationKeyType.php	e002211dffa902fc481419fdcf5c8633
+A	src/Plugin/KeyType/EncryptionKeyType.php	2084de4f40007073f581fc77f59806c0
 M	src/Plugin/KeyTypeBase.php	e20a56cc0b92f23181b343b1c051404f
 M	src/Plugin/KeyTypeInterface.php	2ac1281a1000ef575c5205b35364a917
 M	src/Tests/KeyListBuilderTest.php	558e88577afbd0c93c2641814cc33512

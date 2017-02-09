@@ -10,12 +10,17 @@ M	metatag.links.menu.yml	ff3d0044b807b366ab5bd953850fa4f2
 M	metatag.module	71679322389a48644a15b2286d1aedaf
 M	metatag.routing.yml	9a66af4e4a969522c410dc90c24d1429
 A	metatag_open_graph/metatag_open_graph.info.yml	01ffaf4df89ae72e21ef5ed4a120f007
+A	metatag_open_graph/src/Plugin/metatag/Group/OpenGraph.php	fc68b159993dec6506086a407138afcb
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgCountryName.php	c0debe2d84a3fb3139c3d010d21ce57a
+A	metatag_open_graph/src/Plugin/metatag/Tag/OgDescription.php	15d12e967b27abdf045bca136af8c723
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgDeterminer.php	a50e9c3187e98e48a8a379659fe5d7ac
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgEmail.php	8723f0bb5c7d0550e01b774a98512cf6
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgFaxNumber.php	187e1df0787034c18fff9e756161b3ab
+A	metatag_open_graph/src/Plugin/metatag/Tag/OgImage.php	3a5410a49c4ae02de4a880518faacb13
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgImageHeight.php	877b91baca0ec66fd82b82969f43a5d2
+A	metatag_open_graph/src/Plugin/metatag/Tag/OgImageSecureUrl.php	1e3ab9a3d868d7d92590ea9b658759fb
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgImageType.php	8be8aed90a16702bc45bb2bede999ed9
+A	metatag_open_graph/src/Plugin/metatag/Tag/OgImageUrl.php	7af6b1b4fd0de795edef2d0eeb686be5
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgImageWidth.php	5efec67f8bbf773283e24be8d5238498
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgLatitude.php	f5eae25462a0b56e5d61ef260fc9cec2
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgLocale.php	da07895f359fe980ff1fe963c03e3862
@@ -26,8 +31,12 @@ A	metatag_open_graph/src/Plugin/metatag/Tag/OgPhoneNumber.php	d782848422176fa7f8
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgPostalCode.php	bdf6ee708f7e3d16f5596dfbf274397d
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgRegion.php	c23ab37a97f1ab01c68a7fd8e3cd9a56
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgSeeAlso.php	28473ff97c2326d49f2e9024fb5cfb64
+A	metatag_open_graph/src/Plugin/metatag/Tag/OgSiteName.php	3a016f24ce6830e329cfb561ab056f39
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgStreetAddress.php	2df1933b47db49a4705dd40335281014
+A	metatag_open_graph/src/Plugin/metatag/Tag/OgTitle.php	cd11ff8c9c413c03438316fb58358323
+A	metatag_open_graph/src/Plugin/metatag/Tag/OgType.php	6ca7cae8681c47fd699b7729858e5ae7
 A	metatag_open_graph/src/Plugin/metatag/Tag/OgUpdatedTime.php	cdc00a956f350d8f81e08c077b1c36be
+A	metatag_open_graph/src/Plugin/metatag/Tag/OgUrl.php	56ee9694ded6a165d7196f1d12a4bd58
 M	src/Annotation/MetatagTag.php	91a2a0f2ba43ec27cef3619cb12b0038
 M	src/Command/GenerateTagCommand.php	ebbca674ae16c2b8f4862a2065c2e0a4
 M	src/Entity/MetatagDefaults.php	a026e80dc19ca132bce49ee1fa8e35d6
@@ -38,6 +47,7 @@ M	src/MetatagManager.php	a03c7b76c6b04f0bfa3054e1faff096a
 M	src/MetatagToken.php	83a6ad3843c9b0d4af9a967939a4438a
 M	src/Plugin/Field/FieldType/MetatagFieldItem.php	94ab42234e41a0abd4b0b82cd8f6a635
 M	src/Plugin/Field/FieldWidget/MetatagFirehose.php	f37a985c6761ace7ce075608bfc9bcd7
+D	src/Plugin/metatag/Group/OpenGraph.php	
 M	src/Plugin/metatag/Tag/AbstractTag.php	f8abc0a3af2d11664f1dea39adbd918e
 M	src/Plugin/metatag/Tag/CanonicalUrl.php	0522ed057981ced59079b1695ccb16fd
 M	src/Plugin/metatag/Tag/ContentLanguage.php	7b1163eba4dfecb41b058ff1a0f6b6dc
@@ -51,6 +61,14 @@ M	src/Plugin/metatag/Tag/LinkRelBase.php	9d642b60e4ac7724c8eb4a750feabdb5
 M	src/Plugin/metatag/Tag/MetaHttpEquivBase.php	c2c7eb973840fcf4234868c8ad8f14bb
 M	src/Plugin/metatag/Tag/MetaPropertyBase.php	37a8291a4b84a5393ec5d5de5251c8d8
 M	src/Plugin/metatag/Tag/NewsKeywords.php	4c6b96e61389743996eaa4b7f0805a1d
+D	src/Plugin/metatag/Tag/OgDescription.php	
+D	src/Plugin/metatag/Tag/OgImage.php	
+D	src/Plugin/metatag/Tag/OgImageSecureUrl.php	
+D	src/Plugin/metatag/Tag/OgImageUrl.php	
+D	src/Plugin/metatag/Tag/OgSiteName.php	
+D	src/Plugin/metatag/Tag/OgTitle.php	
+D	src/Plugin/metatag/Tag/OgType.php	
+D	src/Plugin/metatag/Tag/OgUrl.php	
 M	src/Plugin/metatag/Tag/OriginalSource.php	25e8bbd755cb41ca05a3945e05e25a53
 M	src/Plugin/metatag/Tag/Rights.php	72925ae896af90c1c3eeb68ecf132683
 M	src/Plugin/metatag/Tag/Robots.php	c1a4f2e1912d9a128cdd4e4b775a4a6d

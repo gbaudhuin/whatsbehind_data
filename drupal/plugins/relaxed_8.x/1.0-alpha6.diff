@@ -10,7 +10,9 @@ M	relaxed.routing.yml	70fd60baedad60290276c43ad023b451
 M	relaxed.services.yml	6a907d1f2f57d8c4d0715bc1322807e0
 D	src/AllDocs/AllDocs.php	
 D	src/AllDocs/AllDocsInterface.php	
+D	src/Annotation/Endpoint.php	
 D	src/Annotation/EndpointCheck.php	
+A	src/Annotation/RemoteCheck.php	29c7ab5f13aa8839203ffa85669bb85f
 D	src/BulkDocs/BulkDocs.php	
 D	src/BulkDocs/BulkDocsInterface.php	
 D	src/Changes/Changes.php	
@@ -21,14 +23,18 @@ D	src/Encoder/StreamEncoder.php
 D	src/EndpointPluginCollection.php	
 D	src/Entity/Endpoint.php	
 D	src/Entity/EndpointInterface.php	
+D	src/Entity/EndpointListBuilder.php	
 A	src/Entity/Remote.php	bc5f4e2d12f236d501c46a84929977a2
 A	src/Entity/RemoteInterface.php	b57148b98e290dbc5e69ec18d7b6d253
+A	src/Entity/RemoteListBuilder.php	e5b805f95e10b0655537632708d69222
 D	src/Entity/ReplicationLog.php	
 D	src/Entity/ReplicationLogAccessControlHandler.php	
 D	src/Entity/ReplicationLogInterface.php	
 D	src/Form/EndpointAddForm.php	
+D	src/Form/EndpointDeleteForm.php	
 D	src/Form/EndpointForm.php	
 D	src/Form/EndpointSetupForm.php	
+A	src/Form/RemoteDeleteForm.php	aa59b3a60323067e8f78274b581e0e19
 A	src/Form/RemoteForm.php	5d8c60fd7ceee790e5f030d86ac17de0
 A	src/Form/SettingsForm.php	075a27c1ceccaa3b533ace9e3b2543ff
 D	src/Normalizer/AllDocsNormalizer.php	
@@ -52,14 +58,18 @@ D	src/Plugin/Endpoint/ExternalEndpoint.php
 D	src/Plugin/Endpoint/WorkspaceEndpoint.php	
 D	src/Plugin/EndpointBase.php	
 D	src/Plugin/EndpointCheck/Ping.php	
+D	src/Plugin/EndpointCheckBase.php	
 D	src/Plugin/EndpointCheckInterface.php	
+D	src/Plugin/EndpointCheckManager.php	
 D	src/Plugin/EndpointInterface.php	
 D	src/Plugin/EndpointManager.php	
 D	src/Plugin/Field/FieldType/ReplicationHistoryItem.php	
 D	src/Plugin/Field/FieldType/ReplicationHistoryItemList.php	
 A	src/Plugin/RemoteCheck/Ping.php	2ed48b44799d08f5419131a6674a20cb
 A	src/Plugin/RemoteCheck/ValidRemote.php	824d5abb97531f084a54977655363a29
+A	src/Plugin/RemoteCheckBase.php	f8ef9021b9861d2956d2fbe9eeeee9e7
 A	src/Plugin/RemoteCheckInterface.php	e1544f49b62fdf22789136db9a33e354
+A	src/Plugin/RemoteCheckManager.php	712dfb828701bc91503a98b7bbbf2b7c
 M	src/Plugin/rest/resource/AllDocsResource.php	34d4b56e0593804ef45fe9caabb8449b
 M	src/Plugin/rest/resource/AttachmentResource.php	b35a9e69a5ffc9ebf5c667c10892cd0b
 M	src/Plugin/rest/resource/BulkDocsResource.php	357db3cc4d1616bae7670c4cafc2ee51

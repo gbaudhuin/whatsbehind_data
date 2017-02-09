@@ -5,7 +5,9 @@ M	cdn.basic.farfuture.inc	ec66a95d151e25ed167f57062f174171
 M	cdn.constants.inc	c94a83da432339fdcc0cdd2915f6db4d
 M	cdn.info	871e5b886258dc80bfd693f688882c31
 M	cdn.module	16c90073bc846be46c0c074d0c416946
+D	cdn.test	
 M	help/admin-other-cdn-pick-server.html	65dd9679b5e99b2319c6221817ce0a7f
 A	help/admin-other-seo.html	92134f6f7b0e729e6ea0d1a64bf00232
 M	help/cdn.help.ini	597e29fb8a64dcd55d3074184c80af4e
+A	tests/cdn.test	e7c318971506b440fd8fa4a491d66998
 A	tests/css/orig/url.css	f7ab6882d9940599471e492b584155bb

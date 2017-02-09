@@ -1,0 +1,3 @@
+M	config/schema/field_group_background_image.field_group_formatter_plugin.schema.yml	03eac9f010b1296c538552f56630e4d8
+M	field_group_background_image.info.yml	5780e7bf1951ec1dbc1fdaeb2a129555
+M	src/Plugin/field_group/FieldGroupFormatter/BackgroundImage.php	56778a8cb78e427af0287f2a28bafa96

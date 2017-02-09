@@ -1,8 +1,0 @@
-M	CHANGELOG.txt	e356b55b5eecee22e68b3c7c2eba036a
-M	private_upload.info	c2d53d6edd21fa15f6363c7a8737750a
-M	private_upload.install	9a96959852634b1f90bfa8b8205977dc
-M	private_upload.module	67e2ec47de6ea0315c4a56519dacd1af
-A	translations/general.de.po	bad22ff8f865e21becddccdbea8eb470
-A	translations/general.pot	94a0f19dd0b9e4ba9a174ce3e683649d
-A	translations/installer.de.po	f27b4020d34fb5180632a5d0501f4738
-A	translations/installer.pot	b4c8b954598ac538f48409e45f313ea7

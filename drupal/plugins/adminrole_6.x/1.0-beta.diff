@@ -1,6 +1,4 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	65308c8fc76a9884f51251bd1cf723a5
-D	adminrole.drush.inc	
-M	adminrole.info	3083f36f7687653769c983690d429c49
-D	adminrole.install	
-M	adminrole.module	7647d1953e2360a99e8035a556a276ca
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	65308c8fc76a9884f51251bd1cf723a5
+A	adminrole.info	3083f36f7687653769c983690d429c49
+A	adminrole.module	7647d1953e2360a99e8035a556a276ca

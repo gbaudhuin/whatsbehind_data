@@ -1,22 +1,11 @@
-M	README.txt	7b3143ee4d50afe8f09775caaf5f5691
-D	lib/mandrill.mail.inc	
-M	mandrill.admin.inc	96f5896dbfc400ad36841874949d4809
-D	mandrill.api.php	
-M	mandrill.info	8bea4f3a300ff7a10da743fd06b44fc6
-M	mandrill.install	a44cb10eea7c94dd9b04a8b37e3d0b62
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	7b3143ee4d50afe8f09775caaf5f5691
+A	mandrill.admin.inc	96f5896dbfc400ad36841874949d4809
+A	mandrill.class.php	bb692e5ff08a822deaa912ddc823341e
+A	mandrill.info	8bea4f3a300ff7a10da743fd06b44fc6
+A	mandrill.install	a44cb10eea7c94dd9b04a8b37e3d0b62
 A	mandrill.mail.inc	1fcd774ea307970f6ae71656a4d8e23d
-M	mandrill.module	fb10e6e75b6f98fbeef66ad5b14481cc
-D	mandrill.variable.inc	
-D	modules/mandrill_activity/README.txt	
-D	modules/mandrill_activity/lib/mandrill_activity.entity.inc	
-D	modules/mandrill_activity/lib/mandrill_activity.ui_controller.inc	
-D	modules/mandrill_activity/mandrill_activity.admin.inc	
-D	modules/mandrill_activity/mandrill_activity.info	
-D	modules/mandrill_activity/mandrill_activity.install	
-D	modules/mandrill_activity/mandrill_activity.module	
-D	modules/mandrill_template/lib/mandrill_template_map.entity.inc	
-D	modules/mandrill_template/lib/mandrill_template_map.ui_controller.inc	
-D	modules/mandrill_template/mandrill_template.admin.inc	
-D	modules/mandrill_template/mandrill_template.info	
-D	modules/mandrill_template/mandrill_template.install	
-D	modules/mandrill_template/mandrill_template.module	
+A	mandrill.module	fb10e6e75b6f98fbeef66ad5b14481cc
+A	mandrill_reports/mandrill_reports.info	567e48f657cbed63630e1bc05a7397c9
+A	mandrill_reports/mandrill_reports.js	6c79e9b1c11851695493cad9908a6eb3
+A	mandrill_reports/mandrill_reports.module	53ab10a2266de5761f873696bb26b885

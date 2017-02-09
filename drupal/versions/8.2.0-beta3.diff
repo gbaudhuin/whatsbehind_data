@@ -46,6 +46,7 @@ M	core/modules/node/src/Tests/Views/BulkFormAccessTest.php	6c161e09ca8e1747d557e
 M	core/modules/node/tests/src/Kernel/Migrate/d7/MigrateNodeTest.php	638c34f3836976cb8e78beeba1a11cb4
 M	core/modules/simpletest/simpletest.install	7ea0f3ea9e68fdb210bd6b4e1fcfbd6d
 M	core/modules/simpletest/src/Tests/SimpleTestBrowserTest.php	70b69bf48efc6d1d4cac46e5f900ddec
+D	core/modules/simpletest/tests/src/Functional/BrowserTestBaseTest.php	
 M	core/modules/simpletest/tests/src/Unit/TestInfoParsingTest.php	0ae1a5bfa7cf5308510f56d1d4ab2fe4
 M	core/modules/system/src/Plugin/views/field/BulkForm.php	5ef4c2dfe50f966bff35b9e63d0bca15
 M	core/modules/system/src/Tests/Module/ClassLoaderTest.php	df8627791c41d7220af128209589a4db
@@ -70,6 +71,7 @@ M	core/modules/views/tests/src/Unit/Plugin/field/FieldPluginBaseTest.php	b0607c7
 M	core/modules/views/tests/src/Unit/Plugin/views/field/EntityOperationsUnitTest.php	0617c5eaaa7f30b555388a372f013f3a
 M	core/modules/views/tests/src/Unit/Routing/ViewPageControllerTest.php	94e61ce9f803c2678bdace4aaf0ce438
 M	core/scripts/run-tests.sh	5ec3c664a06c241255f23924da10fc25
+A	core/tests/Drupal/FunctionalTests/BrowserTestBaseTest.php	61cf74729275fee9e90c475a83d1e4a4
 A	core/tests/Drupal/KernelTests/Core/Entity/EntityNonRevisionableTranslatableFieldTest.php	23b82c28528fa83f3873e577ced66b82
 M	core/tests/Drupal/Tests/Component/Utility/ArgumentsResolverTest.php	3164acdec71c41a0be117f0c91101fe3
 M	core/tests/Drupal/Tests/Core/Asset/CssCollectionRendererUnitTest.php	8a2168cb5af837b029cc8b4cb615f59f

@@ -11,6 +11,7 @@ M	date_api.info	5fb0d4d3069a10b52f263bc759b3d0fb
 M	date_api.install	83ad49652d314acab59bf3c560c3c08e
 M	date_api.module	a0deb9495815dfe777d63c0c1462acc9
 D	date_api.views.inc	
+D	date_api.views_default.inc	
 M	date_api_elements.inc	e641c02199f12b8cc3a5d97ad07014e8
 M	date_api_ical.inc	37b381dddc764d3ae6287c32b0ac8e5b
 M	date_api_sql.inc	35a4e7a57120db763c4ab2f19b053ca2
@@ -38,6 +39,7 @@ M	date_timezone/date_timezone.install	9b637b813b7b92fbdb0f1e0aaf1b449c
 M	date_timezone/date_timezone.module	1c369b114a89c58ad006b8b4ce502073
 A	date_timezone/translations/date_timezone.pot	ef1225e0b02498a06c07405dd5a0fbff
 A	includes/date_api.views.inc	76192b6c5929c447976dd7e50f061d09
+A	includes/date_api.views_default.inc	1076e1ed904c10e85125216e9570e279
 A	includes/date_api_argument_handler.inc	837414e3a327c237aa798064e167b54b
 A	includes/date_api_fields.inc	2c0e681f251c4869b1dc8aace349c500
 A	includes/date_api_filter_handler.inc	03405ca68d6236a88ad9344acf6f3b13

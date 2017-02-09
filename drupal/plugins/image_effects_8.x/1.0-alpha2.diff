@@ -9,6 +9,7 @@ A	js/image_effects.admin.convolution.js	c4756b0d04cdef9d77c27a2be2216364
 M	js/image_effects.farbtastic_color_selector.js	3a90ba92e4013b147d729efbc209baf5
 M	js/image_effects.html_color_selector.js	ee10ea7459b418ec071f4df45543deca
 A	misc/images/transparent.png	7b17d5ddce651a8c99b2c2b5c694a44f
+D	misc/portrait-painting.jpg	
 M	src/Component/ColorUtility.php	511664ee7f4d0d73f7eaca8dd6b9c461
 M	src/Component/ImageUtility.php	82b799e47eea550512425ef70707b0e6
 M	src/Component/PositionedRectangle.php	70b7418b917812a810fb16ed151dd874
@@ -107,6 +108,7 @@ A	templates/image-effects-set-transparent-color-summary.html.twig	99d25def2e4882
 A	templates/image-effects-text-overlay-preview.html.twig	03c99148c7297c3988ca49a31c0a4529
 A	templates/image-effects-text-overlay-summary.html.twig	94fdf01601bb0ed9d48b0724862b270c
 M	templates/image-effects-watermark-summary.html.twig	76a8dfee16b20a0f9ccb364699b380eb
+A	tests/images/portrait-painting.jpg	35d42466d910016aa86b370cb6e22b0a
 M	tests/modules/image_effects_module_test/image_effects_module_test.info.yml	016029052642acfa1a4b4ac858605576
 M	tests/modules/image_effects_module_test/src/Plugin/ImageEffect/FontSelectionImageEffect.php	334f44ebea899f9d2066fdc1fd20b1f9
 M	tests/modules/image_effects_module_test/src/Plugin/ImageEffect/ImageSelectionImageEffect.php	54ba9d405239e2eb54afa05f369fc0ae

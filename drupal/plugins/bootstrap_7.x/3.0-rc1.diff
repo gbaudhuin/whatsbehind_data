@@ -17,11 +17,22 @@ A	includes/settings.inc	75bc9dcf4ed4d601668cca96ad0f0df8
 D	includes/theme.inc	
 A	js/bootstrap.admin.js	84d69c584ba3776a3d5867123cefa3bf
 A	js/bootstrap.js	2aedae5489f0a28a1659c4db2f6faf88
+D	js/bootstrap_ajax.js	
+D	js/bootstrap_ajax_view.js	
 A	js/misc/_vertical-tabs.js	f8096a621054b11d163b3e25406bbec7
+A	js/misc/ajax.js	f00a9f7986fef545b979ee1214c51980
 A	js/misc/autocomplete.js	7bff6271d6ec726998371422ffb548d0
+A	js/misc/progress.js	0c32e59c49394652e5ac6026403f413b
 A	js/modules/comment/_comment-node-form.js	0fbf53107fa84df66cd97ba0bc4cc537
+A	js/modules/views/js/ajax_view.js	47a2080edc67252864992217a18ee133
+D	js/progress.js	
 M	template.php	ca10681e98e6fc2fb96c0bcfa9294d69
+D	templates/block.tpl.php	
+D	templates/html.tpl.php	
+D	templates/page.tpl.php	
+D	templates/search-block-form.tpl.php	
 D	theme-settings.php	
+A	theme/block/block.tpl.php	d94da88a6bfa8e14c65ee57e5e48e437
 A	theme/block/block.vars.php	11828c25cf575a1de675840f06b3a764
 A	theme/bootstrap/bootstrap-accordion.func.php	a4e859edf2db454b14563dd274ec406a
 A	theme/bootstrap/bootstrap-btn-dropdown.func.php	c1634ff1f6deeb29339705493f64f691
@@ -30,12 +41,15 @@ A	theme/bootstrap/bootstrap-modal.func.php	5e2eb7f1582466639029cfbc52ff97c0
 A	theme/bootstrap/bootstrap-panel.tpl.php	9772a2a4596be445f21a42659f19c547
 A	theme/bootstrap/bootstrap-panel.vars.php	3bcbb5b7bd11ce1be682040714d6dea2
 A	theme/bootstrap/bootstrap-search-form-wrapper.func.php	1853be9f1a7e4c633c4a3fd8560a6b36
+A	theme/html.tpl.php	e20d8e43ad5a37bdedc459d19f873a7a
 A	theme/icon/icon.vars.php	3ce99a790a4b6aa283ca0ba149efdb8a
 A	theme/menu/menu-link.func.php	f71149c99ab72d8e3b94b51425d95fc8
 A	theme/menu/menu-local-action.func.php	d7fbcb05d8c8a867f3a7bf8c132658cf
 A	theme/menu/menu-local-task.func.php	32bc3d26cbfa4b58424dfe00138e5533
 A	theme/menu/menu-local-tasks.func.php	c1e01ecc10bc59f0700b4b38c2b426b7
 A	theme/menu/menu-tree.func.php	655bc93dd70d09ffa1a99d69acf7305f
+A	theme/page.tpl.php	1d162df6b021d1cc0044051dcda23fae
+A	theme/search/search-block-form.tpl.php	44de51b017673f225d0d621401fdeac4
 A	theme/system/breadcrumb.func.php	7187706dd637dec1c9ebbfd9d22ccc55
 A	theme/system/breadcrumb.vars.php	ef88b7d5772baaa0e363034b67e2d713
 A	theme/system/button.func.php	47a357584323f623e67aa32a3f749dce

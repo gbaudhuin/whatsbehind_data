@@ -7,6 +7,7 @@ M	includes/forms/lab.inc	3027999ac45412229f48740f020075ca
 M	includes/forms/quickrun.inc	c56e7a1aa78fdf051b4b36821fc6e872
 M	includes/io.inc	6e18ac4b9d8dbe100b8799f555a6a54e
 M	patterns.info	6ea4a63ecb751bfd0719a108727b4293
+D	patterns.make	
 M	patterns.module	13ca86db5b8d263f030219a08fc2c107
 M	patterns_components/components/color.inc	7acdbc154ebdc988ced5d7293bc8a950
 M	patterns_components/components/field.inc	ef64b13d973d688b9d8efa0217f098e5
@@ -18,6 +19,7 @@ M	patterns_examples/patterns_examples.info	77dfd59489b326d7154c655a6fa677ae
 A	patterns_examples/patterns_examples.install	3b27b0ba901ff42bc46cfeef54d7ec1a
 M	patterns_export/patterns_export.info	d0be9f0939a7b9e7b48286470f751d89
 M	patterns_export/patterns_export.module	05b8198759058444e096f4dd01e7d45d
+A	patterns_full.make	d92dc1a0f8f2729037ab58b037c03a6a
 M	patterns_phpparser/patterns_phpparser.info	51679367694f599886f2d0d2d3e6bc22
 M	patterns_xmlparser/patterns_xmlparser.info	8cd04e45b1369ff8779bf65261a4879a
 M	patterns_xmlparser/patterns_xmlparser.module	f4187ee84de4e8779de8f55711a6e52e

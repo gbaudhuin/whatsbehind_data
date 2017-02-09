@@ -1,11 +1,13 @@
-A	CHANGELOG.txt	d7cf1fc21d9bd1abe790aab58e5358a3
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	b4fac8325da2ae07836d042fb57f8fa7
-A	galleria.admin.inc	541ad13a6c70dfa678d7de03d7ebeeaa
-A	galleria.info	de6cc89289cac8918906af0d0ca6a98f
-A	galleria.install	87aa6f99625f8b8f4ffa224bfb352958
-A	galleria.module	7d4033242c90b018f23cd133d4a63939
-A	galleria.tpl.php	2a5c8b8633ad630b5aa9ad6ad0634ae9
-A	inc/galleria.css	687400d79435dc11ddcbb595af555b78
-A	inc/galleria.js	5c1306d38f3ae35a68a6801cd2f6c811
-A	inc/jquery.galleria.js	398665c8001712d8dc6218678f7fd7e5
+M	CHANGELOG.txt	d7cf1fc21d9bd1abe790aab58e5358a3
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	b4fac8325da2ae07836d042fb57f8fa7
+M	galleria.admin.inc	541ad13a6c70dfa678d7de03d7ebeeaa
+M	galleria.info	de6cc89289cac8918906af0d0ca6a98f
+M	galleria.install	87aa6f99625f8b8f4ffa224bfb352958
+M	galleria.module	7d4033242c90b018f23cd133d4a63939
+M	galleria.tpl.php	2a5c8b8633ad630b5aa9ad6ad0634ae9
+M	inc/galleria.css	687400d79435dc11ddcbb595af555b78
+M	inc/galleria.js	5c1306d38f3ae35a68a6801cd2f6c811
+M	inc/jquery.galleria.js	398665c8001712d8dc6218678f7fd7e5
+D	translations/fr.po	
+D	translations/galleria.pot	

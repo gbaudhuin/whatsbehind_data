@@ -1,7 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	cloud_zoom.drush.inc	64b8723361a3e11b29fe8a559f9c9885
-A	cloud_zoom.info	3794c19490a07679b4c885bfbe721d0f
-A	cloud_zoom.install	65fea32bb5086c93f3a869fb51129ea2
-A	cloud_zoom.module	4e247ff608abcc601f3526b28467c919
-A	css/cloud_zoom.css	a370b855e52819cd8a59db8023a6662a
-A	js/cloud_zoom.js	594672ab8637033577420063f42de068
+M	cloud_zoom.info	3794c19490a07679b4c885bfbe721d0f
+M	cloud_zoom.module	4e247ff608abcc601f3526b28467c919

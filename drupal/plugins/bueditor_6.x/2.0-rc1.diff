@@ -11,7 +11,9 @@ M	icons/dot.png	56bbc9d0a89521d197469db3b0fe4822
 M	import/lab.bueditor.txt	02ca62cbae9f2b9fca041368a396b1b6
 M	library/bue.find.js	e7b95065e5af5315a0038becd817e7a8
 M	library/bue.history.js	6a60bdc90945b3a0778cc600b305cc88
+D	library/bue.html.js	
 M	library/bue.imce.js	c832f480956309858a972ce8d8215e1b
+A	library/bue.markup.js	6c926bfb0c5a1be640b3bb20c1562e09
 M	library/bue.min.all.js	b7c7e71ad7ce7a6ad9f1cb6d5238fbae
 M	library/bue.min.default.js	e22c7953ed6d4f8ba23600620df1e777
 M	library/bue.misc.js	a2b8eca77111cc3add187dd5561de9f9

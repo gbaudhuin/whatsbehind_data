@@ -4,7 +4,9 @@ A	help/node_import.help.css	c4f92dcf5e903263a1081f771e031e5b
 M	help/node_import.help.ini	909c0921b1b50c2cc11c58b9598ec0a9
 M	help/supported-cck.html	bc97f374d5c2c82d441dbf3d610d249b
 M	help/supported-contrib.html	5d53830587c469a31495b89b8465dfb5
+D	hook_node_import_docs.php	
 M	node_import.admin.inc	5732f1a561eb541ebeaef3ba3a134d44
+A	node_import.api.php	1cac3ca7f4383349deb74fdc5279e892
 M	node_import.inc	f85a1107a76a7b9d2d1232a330c9240d
 M	node_import.info	0a54b55e6dad5420354a13060a315611
 M	node_import.install	629f4b382226c58d908ef2e07f9efa6c

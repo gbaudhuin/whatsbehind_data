@@ -1,23 +1,2 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	4a897264aad3a665163b04aa73902ad9
-A	features_override.admin.inc	43567ef8f03bb588a14272fcaaf63380
-D	features_override.alter.inc	
-A	features_override.api.php	44581caaa71f799a2bf1fac9f933e40f
-A	features_override.css	bfb97a13cbcf649f6b14f60ea65e110a
-A	features_override.export.inc	3b2614fe447f2151113f32766c6b8d24
-D	features_override.extend.inc	
-A	features_override.features.inc	35a15e875cba3bb5bdeb4a51cf9a391d
-A	features_override.hooks.inc	208aad9fc90b4c22e5ae92b71afc7462
 M	features_override.info	780f7641b9dd9fe05bc13ff8d6943c4e
-D	features_override.install	
 M	features_override.module	6a4a5bc38116690de3fafd2cb1c0ee9b
-A	features_override_form.js	c39b0f30470d93c731ebad04a7a2e4f8
-D	modules/captcha.features_override.inc	
-D	modules/context.features_override.inc	
-D	modules/features.features_override.inc	
-D	modules/page_manager.features_override.inc	
-D	modules/panels.features_override.inc	
-D	modules/panels_mini.features_override.inc	
-D	modules/strongarm.features_override.inc	
-D	modules/views.features_override.inc	
-D	plugins/export_ui/features_override_ctools_export_ui.inc	

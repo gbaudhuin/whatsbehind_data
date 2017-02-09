@@ -8,12 +8,9 @@ M	flowplayer.install	dfe4a39264c0ee9d551d97ac5e2bea58
 M	flowplayer.jq.inc	9c3aa33388ed6d035944fe6065714e98
 M	flowplayer.js	cbfa46726f52b3419251b0afdd812b43
 M	flowplayer.module	151cc9199c9537d4e07c13fb9a0a352b
-D	flowplayer/example/flowplayer.min.js	
-D	flowplayer/example/index.html	
-D	flowplayer/example/style.css	
 M	flowplayer/flowplayer.audio.swf	31a066508702716e5ab9ad7884a8e4d3
 M	flowplayer/flowplayer.captions.swf	0c8825c82aa494a8ec983d051fad8cd7
 M	flowplayer/flowplayer.controls.swf	f2737578a4d76f561d96d8098b7155d8
-A	flowplayer/flowplayer.min.js	66bec1247f8c949d0904eead2e09f34f
+M	flowplayer/flowplayer.min.js	66bec1247f8c949d0904eead2e09f34f
 M	flowplayer/flowplayer.rtmp.swf	283dbee4be0681977cbeb5bbf55264b5
 M	flowplayer/flowplayer.swf	8d92fe802586424255576705c2c425d3

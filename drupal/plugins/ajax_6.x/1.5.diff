@@ -1,9 +1,18 @@
+M	Ajax.js	c0c77ff17a6710a1b89623430930ad27
 M	README	f73531efc02c0f80d21aeb8ba03d6147
 A	ajax.info	a6aa87705f67cbb552ecaf3c065935ec
 A	ajax.install	ed464268710e63107ac39dd319804b06
-M	ajax.js	c0c77ff17a6710a1b89623430930ad27
+A	ajax.module	6fe13d01f15bed747e331605ac6d4f36
+D	patches/captcha-6.x-1.0-rc2/README	
+D	patches/captcha-6.x-1.0-rc2/captcha.module.patch	
+D	patches/captcha-6.x-1.0-rc2/image_captcha.module.patch	
+D	patches/captcha-6.x-1.0-rc2/text_captcha.module.patch	
 A	plugins/captcha/ajax_captcha.info	4caa032a4e6e1426047f4bda0256f6ec
 A	plugins/captcha/ajax_captcha.module	727f21f96c5299c205f085da2a996762
+A	plugins/captcha/patches/README	eaecde50a3fdcb3b14a495c80877573a
+A	plugins/captcha/patches/captcha.module.patch	d9e291e1b12038a48eddf3ca77dd4133
+A	plugins/captcha/patches/image_captcha.module.patch	4138d73b7e2f6a2ec8c61de031c4a54a
+A	plugins/captcha/patches/text_captcha.module.patch	d1fa420a6fc1d5e736556df99db7f451
 A	plugins/comment/ajax_comment.info	edcc288a2f4d178985c9236aa9918dc8
 A	plugins/comment/ajax_comment.module	944c3e9d973508379f08af62a37b2b7d
 A	plugins/loggintoboggan/ajax_logintoboggan.info	64c5d8c6882f05f5bbced005833b79e3
@@ -11,3 +20,4 @@ A	plugins/loggintoboggan/ajax_logintoboggan.module	68d5a2327ed230a0362560ef7d82a
 A	plugins/webform/ajax_webform.info	1ce4c3835eb25e5cb816d3750c0dfce4
 A	plugins/webform/ajax_webform.module	d27381a1b4f7578b86e66cece1d3a62b
 D	zzzz_ajax.info	
+D	zzzz_ajax.module	

@@ -1,3 +1,5 @@
-M	keyboard_shortcut.info	9617fcb4cc7372c7034c0c39f9757d9f
-M	keyboard_shortcut.js	4a187be10d172ef088e4090363ae0afa
-M	keyboard_shortcut.module	5507096f1df1483f88f848d63ce003ce
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	keyboard_shortcut.info	9617fcb4cc7372c7034c0c39f9757d9f
+A	keyboard_shortcut.install	df671714dbd1801c3011b80cb4b35812
+A	keyboard_shortcut.js	4a187be10d172ef088e4090363ae0afa
+A	keyboard_shortcut.module	5507096f1df1483f88f848d63ce003ce

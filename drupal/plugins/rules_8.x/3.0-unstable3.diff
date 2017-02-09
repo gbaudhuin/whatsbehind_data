@@ -53,3 +53,5 @@ A	tests/src/RulesContextTraitTest.php	bda785ebb3399cc405c3d1f1d02f29f2
 M	tests/src/RulesExpressionTraitTest.php	bdd273c5466e81a1718c64b797705445
 A	tests/src/RulesIntegrationTestBase.php	72b66e65efc4f6509e7d6825822ffc29
 M	tests/src/RulesOrTest.php	97229c0dcc9eef04bd8cf9a1604dd71d
+D	tests/src/RulesTestBase.php	
+A	tests/src/RulesUnitTestBase.php	11792409926326bce49b3e66401610af

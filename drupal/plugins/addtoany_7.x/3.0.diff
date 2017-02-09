@@ -1,11 +1,6 @@
-A	INSTALL.txt.txt	8f2b6da3a27190e2b1f4567c6f6e84e8
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	addtoany.admin.inc	be97ccabd111870ab8bdb4216cdc9063
-M	addtoany.css	5a3316e2029b0d54eb6d752ae91d6b7e
+M	INSTALL.txt	a1d543470658ca095be9a43b8c3b2303
 M	addtoany.info	6436b0b752fe8f5803b269b693f589a5
 M	addtoany.module	07ca9debbba5a7d28c141ce0c6fa904d
-A	translations/addtoany.pot	3bf6cd9f8063f3a8ac0feb9a11250cf9
-A	translations/fr.po	856bf4b04da4223da2738e16388ebaa9
-A	translations/uk.po	afe55f8d4aa38d9cf378335b1e47d467
+M	images/share_save_171_16.png	842a7c6f82b89a12abb370389cf57373
+M	images/share_save_256_24.png	03c488fbf4189186b8b81b96af4bc721
 M	views/addtoany.views.inc	242ce4e5e66fd1d91fc4f9be2d7baf92
-M	views/addtoany_handler_field_addtoany_link.inc	e9f98d80e2caf13f70ddedb09b5da0bb

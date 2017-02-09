@@ -37,6 +37,8 @@ M	payment/uc_paypal/config/schema/uc_paypal.schema.yml	73e2944641128feceb3920b01
 M	payment/uc_paypal/src/Controller/PayPalController.php	f44100336eecb988e7979921874eaa28
 M	payment/uc_paypal/src/Controller/WppController.php	57bbdf89d00eb21ad54a12e4efc6a57f
 M	payment/uc_paypal/src/Controller/WpsController.php	5e5032cb294032ae2106395fdb043b4b
+A	payment/uc_paypal/src/Plugin/Ubercart/PaymentMethod/PayPalPaymentsStandard.php	11e0ef52c8425b9b59be0eff97cd21dd
+D	payment/uc_paypal/src/Plugin/Ubercart/PaymentMethod/PayPalWebsitePaymentsStandard.php	
 M	payment/uc_paypal/uc_paypal.info.yml	86876c834c810400bd62106a9c1d863c
 M	payment/uc_paypal/uc_paypal.module	f400ca0eec40df3dfa88223a1651385d
 M	payment/uc_paypal/uc_paypal.routing.yml	a6b8aba33366584840c58d7cbd952bac

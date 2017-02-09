@@ -3,6 +3,7 @@ M	date.api.php	ebd403ba8506ae48d42cabc05e84fc5d
 A	date.diff.inc	ff79dd83e820815277c0c41f6e6274c7
 M	date.field.inc	aa67fe02f1f5e7ca12e4cb27194bb3a6
 M	date.info	6f703c33b5208d8699db3d04c04a1b4b
+A	date.migrate.inc	fe6cf04114f72173ac8c4c8a0fd8e6d1
 M	date.module	e1abd9079d9535c902a52cfde351adc0
 M	date.theme	5d3fbe60ff5ca41b0584cf12fabe1b2b
 M	date_admin.inc	628c64e30312925b5b25b72882b1d5c9
@@ -14,8 +15,10 @@ M	date_api/date_api_sql.inc	952cca56393f6aba30df07425ea16b94
 M	date_context/date_context.info	e924d55cc91e7f6b18116c640525304e
 M	date_context/plugins/date_context_date_condition.inc	53565f3df24d1549ae53703a36faa1b5
 M	date_elements.inc	e4ed865f478f5aaa274b30eaa801824a
+D	date_migrate/date.migrate.inc	
 M	date_migrate/date_migrate.info	cc39728c628f855c4aecdad3766c43c1
 M	date_migrate/date_migrate.module	2966cf204cf25cea11d521a141dbaa94
+D	date_migrate/date_migrate.test	
 M	date_migrate/date_migrate_example/date_migrate_example.info	54a85496a5866b8f2deab5e1cee50996
 M	date_migrate/date_migrate_example/date_migrate_example.migrate.inc	5e96d2418d5b14c0f06e0748b9f1dbbb
 M	date_migrate/date_migrate_example/date_migrate_example.module	3291a27ffa28a63280706f5bb15ce6cb
@@ -31,3 +34,4 @@ M	date_views/date_views.info	d2333c5219affc9e4f904d3b56ae9286
 M	date_views/includes/date_views_argument_handler_simple.inc	28a497986677f5022dc247b330c4ec93
 M	date_views/includes/date_views_filter_handler.inc	60fe80090bcba9c3e8c0fea5bd1fca1b
 M	date_views/includes/date_views_filter_handler_simple.inc	5ad8729a54bb9cbd7f5c8702e3ec517b
+A	tests/date_migrate.test	96c8c0fbaa1de09941b1b4ce3844d443

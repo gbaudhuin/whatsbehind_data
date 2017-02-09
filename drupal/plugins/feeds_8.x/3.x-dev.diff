@@ -2,11 +2,11 @@ D	CHANGELOG.txt
 D	README.txt	
 A	composer.json	a29438d00300abb86beb78c67504ad4f
 A	config/install/system.action.feeds_feed_delete_action.yml	9df054f9e609d9353f724ce2f2fbd6d3
-A	config/optional/views.view.feeds_feed.yml	6b9c82df4d436cc85e14fcfefb666159
+A	config/optional/views.view.feeds_feed.yml	37f0a0f7a13f2f9489f30b7e07a54fc1
 A	config/schema/feeds.schema.yml	ff6d9b9e8d5f433ea625da8892e583ee
 D	feeds.api.php	
 M	feeds.css	633f442ffad95e001c624dc3da1b0cbd
-M	feeds.info.yml	03332ebc11a4d2fd20b4cd012c3499e9
+M	feeds.info.yml	b061a8e743b3a741514a1235b6c95934
 M	feeds.install	ae89ed5e5190a3ab8d97960b459b1c2b
 A	feeds.js	9791bd5a3ddbf93dec5a01e4aaa5ac8f
 A	feeds.libraries.yml	25b8b15d4b22b6f20066d44cc2e7eb2c
@@ -22,6 +22,7 @@ D	feeds.rules.inc
 M	feeds.services.yml	841acc5594b509bb92155b0c2ebfada6
 A	feeds.theme.inc	de7bce1417361f6ebe23b2a097189a52
 D	feeds.tokens.inc	
+A	feeds.ui.css	53054eb2fe20b137674b02a85fb58e76
 D	feeds_import/feeds_import.features.inc	
 D	feeds_import/feeds_import.feeds_importer_default.inc	
 D	feeds_import/feeds_import.info	
@@ -35,6 +36,7 @@ D	feeds_news/feeds_news.module
 D	feeds_news/feeds_news.test	
 D	feeds_news/feeds_news.views_default.inc	
 D	feeds_ui/feeds_ui.admin.inc	
+D	feeds_ui/feeds_ui.css	
 D	feeds_ui/feeds_ui.info.yml	
 D	feeds_ui/feeds_ui.install	
 D	feeds_ui/feeds_ui.module	
@@ -199,15 +201,15 @@ A	src/Feeds/Target/DateTime.php	29bbac9fea53495a2d9131793d87ef8b
 A	src/Feeds/Target/Email.php	9542302019a3d4664f3abd58882fc950
 A	src/Feeds/Target/EntityReference.php	20cbd1da0f7501f2eef4015ed3401649
 A	src/Feeds/Target/FeedsItem.php	487e5546970b01ea8f81da7815aecd69
-A	src/Feeds/Target/File.php	2969ae1a98270ff3cafbceff7cb4fc72
-A	src/Feeds/Target/Image.php	52d75c0a779b167660f4863242f615ed
-A	src/Feeds/Target/Integer.php	61980521a73388f5ef58ee207fd8c3bc
+A	src/Feeds/Target/File.php	a536e393d96ffbf2d25d74455def5664
+A	src/Feeds/Target/Image.php	abd9390ed145c553e28a7be14b1a0bc1
+A	src/Feeds/Target/Integer.php	bc3a3e595f2a66dfbf9d47c853331c03
 A	src/Feeds/Target/Link.php	8c2ec09921e9d3fca8f00b11a14a1ee9
 A	src/Feeds/Target/Number.php	8b8997cfdbda49a4ba3cbb5bc30c1862
 A	src/Feeds/Target/Path.php	6a12ba54f25ff3d5240d02e8eda79923
 A	src/Feeds/Target/StringTarget.php	19e88f2ee5d3675a2c7f3b0b42d504d7
 A	src/Feeds/Target/Text.php	6e4f3c3e87d08dcd4ee31fdefbecac3f
-A	src/Feeds/Target/Timestamp.php	7c2f54eb4f9a4720b8bbbd44b3bc9500
+A	src/Feeds/Target/Timestamp.php	51ade140ea68a7bdb7f830eae92e267a
 A	src/Feeds/Target/Uri.php	a0591b94a1857b57118968bc1120ae9b
 A	src/FeedsEnclosure.php	17eb7b0de6d025bfe181a15c75e9b744
 A	src/FeedsPermissions.php	d545308730a411f17669b420482d65ec
@@ -300,8 +302,9 @@ D	tests/feeds/nodes_semicolon.csv
 D	tests/feeds/nodes_tab.csv	
 D	tests/feeds/path_alias.csv	
 D	tests/feeds/profile.csv	
+D	tests/feeds/sitemap-example.xml	
 D	tests/feeds/users.csv	
-M	tests/feeds_tests.info.yml	90f01b4910dcde87f5f5d050338e9b86
+M	tests/feeds_tests.info.yml	bda4bfee786e1ceaab9fac3cdb9a9c91
 M	tests/feeds_tests.module	38f8b7bfb1d955e2f5a26b6e82d3704d
 A	tests/resources/csvs/comma_in_quotes.csv	7e6f045435360f7c9b46a0be6133efb6
 A	tests/resources/csvs/empty.csv	fcd8069f762656143ef16418c4ac452f
@@ -328,6 +331,7 @@ A	tests/resources/csvs/utf8.csv	4cb4c0b2b801b49d3a3494ef9b034ed9
 A	tests/resources/example.csv	4b6f321b1a0ad64a5791109e7e91c5d2
 A	tests/resources/googlenewstz.rss2	045bb9ec77b9995331d4f6834c0854e6
 A	tests/resources/opml-example.xml	925f88abcabb24bcdec8a0df97e96686
+A	tests/resources/sitemap-example.xml	74a6bd22da654a55155233c193a4225d
 A	tests/src/Unit/Component/CsvParserTest.php	2f28e85c7225445971fb7e25fd95b85d
 A	tests/src/Unit/Component/GenericOpmlParserTest.php	5afc58bcb3c89bb7787333d522778344
 A	tests/src/Unit/Component/HttpHelpersTest.php	c578784bc2f9eeb5793d1e250ffae11c

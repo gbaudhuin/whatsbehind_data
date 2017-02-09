@@ -1,8 +1,4 @@
-A	README.txt	1039740446ded2af7acbc2ded26da11f
-A	autologout.admin.inc	44f54ba39f46f268e83f1051fc7cae9d
-A	autologout.api.php	f0b4df2959c0a70ddace1a37e2be5fd9
 M	autologout.info	61a37c46de64dd6046ad6b1e1fcb6653
-M	autologout.install	f00337217b0f51b1919ac7e0dcd1aebc
-A	autologout.js	3852af83e4f337942d2a9c44d97973bc
+M	autologout.js	3852af83e4f337942d2a9c44d97973bc
 M	autologout.module	6e4b9d7471344a5cfa46b16e48adb526
-A	tests/autologout.test	90569480562816894d7111d1a8e6f953
+M	tests/autologout.test	90569480562816894d7111d1a8e6f953

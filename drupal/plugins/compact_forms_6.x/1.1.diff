@@ -1,9 +1,8 @@
-M	CHANGELOG.txt	a1bd614769fec1d87de668f6c8d76ec4
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	e5c6f803ae249e0e2b7d18083ff77ec6
-M	compact_forms.admin.inc	21409dbeb18b7ba33b893cf16b0179ec
-M	compact_forms.css	f81f2a6a693242bc35b6fac789936bc9
-M	compact_forms.info	ed6e942a81553f141f0393d91d16fdd7
-D	compact_forms.install	
-M	compact_forms.js	639782f17fd7c28a5c94352ad18e8235
-M	compact_forms.module	5c4fb74c3134cc80be087e15e44799cc
+A	CHANGELOG.txt	a1bd614769fec1d87de668f6c8d76ec4
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	e5c6f803ae249e0e2b7d18083ff77ec6
+A	compact_forms.admin.inc	21409dbeb18b7ba33b893cf16b0179ec
+A	compact_forms.css	f81f2a6a693242bc35b6fac789936bc9
+A	compact_forms.info	ed6e942a81553f141f0393d91d16fdd7
+A	compact_forms.js	639782f17fd7c28a5c94352ad18e8235
+A	compact_forms.module	5c4fb74c3134cc80be087e15e44799cc

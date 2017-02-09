@@ -1,9 +1,4 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	d8904e9ce31406fceaf8e4eadc644821
-A	form_placeholder.admin.inc	5e6ce000f79fb73a7cf0b66b99e39c2c
-A	form_placeholder.drush.inc	d8f658446954ad9b72968f2662fc3ad7
-A	form_placeholder.info	1b24e4e60e16e6e0486b4db82d61df83
-A	form_placeholder.install	08c0e79db9021d8a4f57be18eb2a8ae0
-A	form_placeholder.js	c6e8e3c26af411eeb80ab739596816ea
-A	form_placeholder.make.example	d954a14d38c342d2a201995177d8a0e4
-A	form_placeholder.module	8217aed13711068eade5c1536897bc1a
+M	README.txt	d8904e9ce31406fceaf8e4eadc644821
+M	form_placeholder.info	1b24e4e60e16e6e0486b4db82d61df83
+M	form_placeholder.js	c6e8e3c26af411eeb80ab739596816ea
+M	form_placeholder.module	8217aed13711068eade5c1536897bc1a

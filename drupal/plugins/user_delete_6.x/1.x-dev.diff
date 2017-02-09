@@ -1,6 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	user_delete.admin.inc	84cc4e98152fb478a170fbaab918c449
-A	user_delete.info	c749124896b8e3c6dfddaef1604b1417
-A	user_delete.install	827c3eade3bd10c83beadc2fc9c51d8c
-A	user_delete.module	c91a88c4660cfecd3d6d436802b1eda5
-A	user_delete.test	5fb2b737b819bb78fdcfa3a88a58fa37
+M	user_delete.info	c749124896b8e3c6dfddaef1604b1417

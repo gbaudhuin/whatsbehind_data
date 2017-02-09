@@ -1,9 +1,7 @@
-M	CHANGELOG.txt	fa0083cd7be09a6cba453fc9fef067a9
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	mail_edit.admin.css	
-D	mail_edit.admin.inc	
-M	mail_edit.info	dc9ece7929cbe2ce7bf5f5785720a5ed
-M	mail_edit.install	8b19e37008baaf83310e53b8816e8020
-M	mail_edit.module	33228a471ab181023fdc6f1ede361405
-M	mail_edit_logintoboggan.inc	fa9b2329b1666b8a94595aa42c6c4dc8
-M	mail_edit_user.inc	783ffa81a791f324dfe430b20d4cb9de
+A	CHANGELOG.txt	fa0083cd7be09a6cba453fc9fef067a9
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	mail_edit.info	dc9ece7929cbe2ce7bf5f5785720a5ed
+A	mail_edit.install	8b19e37008baaf83310e53b8816e8020
+A	mail_edit.module	33228a471ab181023fdc6f1ede361405
+A	mail_edit_logintoboggan.inc	fa9b2329b1666b8a94595aa42c6c4dc8
+A	mail_edit_user.inc	783ffa81a791f324dfe430b20d4cb9de

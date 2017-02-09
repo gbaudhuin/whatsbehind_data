@@ -1,7 +1,2 @@
-A	BatchJob.inc	310f469e4905bec0a84c27ad53a46e81
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	batch_jobs.css	61cf0231ea5efdbaddbda7ceb3505910
-A	batch_jobs.info	48a14f613eab0281aecadd02f85ca5d1
-A	batch_jobs.install	606a57a6e0c2a1ee0a73bdddbc3ae958
-A	batch_jobs.js	dbded2826804c572abee5e014171a201
-A	batch_jobs.module	f412fce852eaef492602027a9945609f
+M	BatchJob.inc	310f469e4905bec0a84c27ad53a46e81
+M	batch_jobs.info	48a14f613eab0281aecadd02f85ca5d1

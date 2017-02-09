@@ -9,5 +9,7 @@ A	delta_color/plugins/delta_injection_color.inc	d79305dfccce9bcb79ac855e045cad70
 M	delta_ui/delta_ui.admin.inc	25d50806a16b64b599f07576ff05cf80
 M	delta_ui/delta_ui.info	c02ef5829cad3e3e691cc5456723d0a7
 M	delta_ui/export_ui/delta_export_ui.class.php	23f3b9d5f3851e9b9c7fbe525493e03b
+A	plugins/context/context_reaction_delta.inc	0c3c90db161ebfa26fbda9ee840de5d2
+D	plugins/context_reaction_delta.inc	
 A	plugins/delta/delta_injection.inc	852c2f1cb2971327fbf94b53b924dd87
 A	plugins/delta/delta_injection_theme_settings.inc	82fdbe5a00b50a8ecacfb6ddd31dd0ab

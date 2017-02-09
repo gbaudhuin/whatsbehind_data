@@ -1,3 +1,12 @@
+D	atom_reference/atom_reference.css	
+D	atom_reference/atom_reference.info	
+D	atom_reference/atom_reference.js	
+D	atom_reference/atom_reference.module	
+D	dnd/css/dnd-library.css	
+D	dnd/dnd-library.tpl.php	
+D	dnd/dnd.admin.inc	
+D	dnd/dnd.info	
+D	dnd/dnd.module	
 D	dnd/icons/audio-large-color.png	
 D	dnd/icons/audio-large-inverted.png	
 D	dnd/icons/audio-large.png	
@@ -22,12 +31,81 @@ D	dnd/icons/soundslide.png
 D	dnd/icons/video-large-color.png	
 D	dnd/icons/video-large-inverted.png	
 D	dnd/icons/video.png	
+D	dnd/js/bt/CHANGELOG.txt	
+D	dnd/js/bt/jquery.bt.css	
+D	dnd/js/bt/jquery.bt.js	
+D	dnd/js/bt/jquery.bt.min.js	
+D	dnd/js/bt/other_libs/excanvas_0002/AUTHORS	
+D	dnd/js/bt/other_libs/excanvas_0002/COPYING	
+D	dnd/js/bt/other_libs/excanvas_0002/README	
+D	dnd/js/bt/other_libs/excanvas_0002/examples/example1.html	
+D	dnd/js/bt/other_libs/excanvas_0002/examples/example2.html	
+D	dnd/js/bt/other_libs/excanvas_0002/examples/example3.html	
+D	dnd/js/bt/other_libs/excanvas_0002/examples/ff.jpg	
+D	dnd/js/bt/other_libs/excanvas_0002/excanvas-compressed.js	
+D	dnd/js/bt/other_libs/excanvas_0002/excanvas.js	
+D	dnd/js/bt/other_libs/excanvas_0002/testcases/arc.html	
+D	dnd/js/bt/other_libs/excanvas_0002/testcases/linewidth.html	
+D	dnd/js/bt/other_libs/excanvas_0002/testcases/overflow.html	
+D	dnd/js/bt/other_libs/excanvas_0002/testcases/quadraticcurve.html	
+D	dnd/js/bt/other_libs/excanvas_0002/testcases/resizing.html	
+D	dnd/js/bt/other_libs/jquery.easing.1.3.js	
+D	dnd/js/bt/other_libs/jquery.hoverIntent.minified.js	
+D	dnd/js/dnd-library.js	
+D	dnd/js/jquery.fieldselection.js	
+D	dnd/js/jquery.url.packed.js	
+D	dnd/js/tinymce/forcecontainer/editor_plugin_src.js	
+D	dnd/modules/dnd_test/dnd-editor-item.tpl.php	
+D	dnd/modules/dnd_test/dnd-library-footer.tpl.php	
+D	dnd/modules/dnd_test/dnd-library-header.tpl.php	
+D	dnd/modules/dnd_test/dnd-library-item.tpl.php	
+D	dnd/modules/dnd_test/dnd-library-preview.tpl.php	
+D	dnd/modules/dnd_test/dnd_test.css	
+D	dnd/modules/dnd_test/dnd_test.info	
+D	dnd/modules/dnd_test/dnd_test.module	
+D	dnd/modules/dnd_test/img-backup/page-1-large.jpg	
+D	dnd/modules/dnd_test/img-backup/page-1-small.jpg	
+D	dnd/modules/dnd_test/img-backup/page-2-large.jpg	
+D	dnd/modules/dnd_test/img-backup/page-2-small.jpg	
+D	dnd/modules/dnd_test/img/icon/L.png	
+D	dnd/modules/dnd_test/img/icon/M.png	
+D	dnd/modules/dnd_test/img/icon/S.png	
+D	dnd/modules/dnd_test/img/item-1-L.jpg	
+D	dnd/modules/dnd_test/img/item-1-M.jpg	
+D	dnd/modules/dnd_test/img/item-1-S.jpg	
+D	dnd/modules/dnd_test/img/item-1-thumb.jpg	
+D	dnd/modules/dnd_test/img/item-2-L.jpg	
+D	dnd/modules/dnd_test/img/item-2-M.jpg	
+D	dnd/modules/dnd_test/img/item-2-S.jpg	
+D	dnd/modules/dnd_test/img/item-2-thumb.jpg	
+D	dnd/modules/dnd_test/img/item-3-L.jpg	
+D	dnd/modules/dnd_test/img/item-3-M.jpg	
+D	dnd/modules/dnd_test/img/item-3-S.jpg	
+D	dnd/modules/dnd_test/img/item-3-thumb.jpg	
+A	includes/scald.admin.inc	9a7e4a3f2778c043ea61484bcfa727af
+A	includes/scald.constants.inc	2b9498d275883ff123dbe59bc4c34858
+A	includes/scald.debug.inc	2e128c5c8b42c6db2415b1e4b7e4a466
 A	includes/scald.pages.inc	2cb8d2ee0b4d7ca93cfdf5d53b80bf3a
 M	includes/scald.views.inc	a0c32e1d73ed1a2aeeb8c08d642b02aa
 M	includes/scald_views_handler_field_representation.inc	1fba57f0885685b7813a10f48b561da8
 M	includes/scald_views_handler_filter_actions.inc	8f5ddde0361c3ef4513cd5a4b5fd30d6
 D	mee/mee.info	
+D	mee/mee.install	
+D	mee/mee.js	
+D	mee/mee.module	
+A	modules/fields/atom_reference/atom_reference.css	0d893a5e5ccfbe7fe3a722a2afe3bb6c
+A	modules/fields/atom_reference/atom_reference.info	114fdfbbfa7a0e4e4ddd050770f602a6
+A	modules/fields/atom_reference/atom_reference.js	6bd281e9b0aa12ef1293267a32f73161
+A	modules/fields/atom_reference/atom_reference.module	1a73ce0e6e235cfa7583b386151076c8
 A	modules/fields/mee/mee.info	f09a7037ae80159bea2838b9f25a9204
+A	modules/fields/mee/mee.install	6724dfd75fec7c86691eeef79da821cc
+A	modules/fields/mee/mee.js	f8a57bcd33e2720f782d8b4da831db0f
+A	modules/fields/mee/mee.module	ce12f9a94237d33a55cb6181e4429e44
+A	modules/library/dnd/css/dnd-library.css	437d5f9cbffcdadad4ff81105bb9dce0
+A	modules/library/dnd/dnd-library.tpl.php	0da8860d2450e175d6a157f890f1e7dd
+A	modules/library/dnd/dnd.admin.inc	732f85c8628869a32f907f4a0bb07732
+A	modules/library/dnd/dnd.info	f9974f1b8da647fcd6d320f4154300e1
+A	modules/library/dnd/dnd.module	9d82988fa4c525e4050d4b6ce4fb49e1
 A	modules/library/dnd/icons/audio-large-color.png	f2bc05df48051dc3d6ccfd2904ae5f81
 A	modules/library/dnd/icons/audio-large-inverted.png	65e9293c4ab84840ab61175f1afc5bee
 A	modules/library/dnd/icons/audio-large.png	6169188ba7bd1b9ed01be0c591ebddeb
@@ -52,6 +130,76 @@ A	modules/library/dnd/icons/soundslide.png	16c753f7393346512bea9003e17a74fd
 A	modules/library/dnd/icons/video-large-color.png	6fd6482a26a8d230c870a40ad0f2f80c
 A	modules/library/dnd/icons/video-large-inverted.png	ad5cb54b8dcb33d33a3d9cbbb2b711f1
 A	modules/library/dnd/icons/video.png	3c8ea573cdd7292f43d90360861e8280
+A	modules/library/dnd/js/bt/CHANGELOG.txt	6e019d67cb64b84f2353acdec66848ff
+A	modules/library/dnd/js/bt/jquery.bt.css	d9ec0495f293dc650466a91f27fc6e04
+A	modules/library/dnd/js/bt/jquery.bt.js	ee2d127d069ba54066f37f839bfe68ee
+A	modules/library/dnd/js/bt/jquery.bt.min.js	d0be797626e2d89e30f5f5e288611bc7
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/AUTHORS	e1b4d43ac8f84f28289fcd9f5aae906f
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/COPYING	3b83ef96387f14655fc854ddc3c6bd57
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/README	b7e6959ad59eb15a06e96c9e00d68b9e
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/examples/example1.html	8516dd5722e32ebd7e0e0bb0766a183f
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/examples/example2.html	2e0e62bc50c34bb993ee563e1d299c9b
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/examples/example3.html	9bcfd5226573fad992e2bcaa0a12db2e
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/examples/ff.jpg	8aeeb76823f8f736e9cae115fd0353b7
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/excanvas-compressed.js	4df688df53eb2d0c1bedcdca73fff165
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/excanvas.js	4c246d47ce0e909038b048288d488fb2
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/testcases/arc.html	cfa5b97e15aa9262c8b806122faa05f2
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/testcases/linewidth.html	ffaa038cb432c8aac88115c524ea5c18
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/testcases/overflow.html	2b45d1ba7b2954231fbcacc56d9cc304
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/testcases/quadraticcurve.html	043546a91953214b18b93d5099ae9fcc
+A	modules/library/dnd/js/bt/other_libs/excanvas_0002/testcases/resizing.html	11c668d680200da2d6284d045d484a71
+A	modules/library/dnd/js/bt/other_libs/jquery.easing.1.3.js	6516449ed5089677ed3d7e2f11fc8942
+A	modules/library/dnd/js/bt/other_libs/jquery.hoverIntent.minified.js	015bbbd01da16828e415247b665a3cb7
+A	modules/library/dnd/js/dnd-library.js	bcb9fc8d96c4c62969afd4acbd2c4fab
+A	modules/library/dnd/js/jquery.fieldselection.js	c5bc0a8cdd86fbd7d7f4c3b181066474
+A	modules/library/dnd/js/jquery.url.packed.js	5dbb9962e457f9fc9625b5163ff8bd2b
+A	modules/library/dnd/js/tinymce/forcecontainer/editor_plugin_src.js	3b85f9340c5cba03d2f354ebca9d2e5d
+A	modules/library/dnd/modules/dnd_test/dnd-editor-item.tpl.php	e36de60ab59ab2aa41e5b1ee80547139
+A	modules/library/dnd/modules/dnd_test/dnd-library-footer.tpl.php	f5e818865466e15d2d4beae5219e91f4
+A	modules/library/dnd/modules/dnd_test/dnd-library-header.tpl.php	038fefebb21a5eedb7076c6a53481ff7
+A	modules/library/dnd/modules/dnd_test/dnd-library-item.tpl.php	464239d2f510650615ff1a326129e0d6
+A	modules/library/dnd/modules/dnd_test/dnd-library-preview.tpl.php	d5f860c4fe23fa0a8c31e247c3d1a58d
+A	modules/library/dnd/modules/dnd_test/dnd_test.css	c15006e7bf0b59aa04f3989a7fa08402
+A	modules/library/dnd/modules/dnd_test/dnd_test.info	aca7f4416e0c01e31bb77f28c84aa39e
+A	modules/library/dnd/modules/dnd_test/dnd_test.module	e3fab6bb60479d83a7e5038920fded5b
+A	modules/library/dnd/modules/dnd_test/img-backup/page-1-large.jpg	f6ba78da8db5399e31323a364c0589fa
+A	modules/library/dnd/modules/dnd_test/img-backup/page-1-small.jpg	92ec5b9711cf1f4d88080ebf475b6f37
+A	modules/library/dnd/modules/dnd_test/img-backup/page-2-large.jpg	a759dd4ad37066d3169e4d71d8ab9058
+A	modules/library/dnd/modules/dnd_test/img-backup/page-2-small.jpg	640e443c3c87380157e5827b28f54cf4
+A	modules/library/dnd/modules/dnd_test/img/icon/L.png	ec08aae7826847121b32d451b8b037c4
+A	modules/library/dnd/modules/dnd_test/img/icon/M.png	159ad97bd628c8d7bd02f5e5a97e08ca
+A	modules/library/dnd/modules/dnd_test/img/icon/S.png	a2fc69df4e371300e4ec4f6606fd65f5
+A	modules/library/dnd/modules/dnd_test/img/item-1-L.jpg	00da083faed92d8dc691e26cd05bbd5d
+A	modules/library/dnd/modules/dnd_test/img/item-1-M.jpg	e1f41d39c051cb31340697ed694cc307
+A	modules/library/dnd/modules/dnd_test/img/item-1-S.jpg	f3acb461ebd04ed264df096aa2646de6
+A	modules/library/dnd/modules/dnd_test/img/item-1-thumb.jpg	5c1a44ef7b894c7e3ed1ad021fb56f40
+A	modules/library/dnd/modules/dnd_test/img/item-2-L.jpg	32a8e3b4d0097a0fe4260b07af82f81b
+A	modules/library/dnd/modules/dnd_test/img/item-2-M.jpg	a08c55745036de17fe3a1217420dc0aa
+A	modules/library/dnd/modules/dnd_test/img/item-2-S.jpg	1c11b1e5d3c9f514385f90122ed9d4ea
+A	modules/library/dnd/modules/dnd_test/img/item-2-thumb.jpg	4fa085fde7af8f65d9a1415d02f639b0
+A	modules/library/dnd/modules/dnd_test/img/item-3-L.jpg	00da083faed92d8dc691e26cd05bbd5d
+A	modules/library/dnd/modules/dnd_test/img/item-3-M.jpg	e1f41d39c051cb31340697ed694cc307
+A	modules/library/dnd/modules/dnd_test/img/item-3-S.jpg	f3acb461ebd04ed264df096aa2646de6
+A	modules/library/dnd/modules/dnd_test/img/item-3-thumb.jpg	5c1a44ef7b894c7e3ed1ad021fb56f40
+A	modules/library/scald_dnd_library/includes/scald_dnd_library.views.inc	acdd8566ab38a786f1a0caf82c09771d
+A	modules/library/scald_dnd_library/includes/scald_dnd_library.views_default.inc	11f75d34e4fb00c7f06cb6b0b42b694b
+A	modules/library/scald_dnd_library/includes/scald_plugin_display_library.inc	30f04c1e62111527bb024eab102bcc17
+A	modules/library/scald_dnd_library/includes/scald_plugin_style_library.inc	5ba2284e14a709e995dddf62af9d4866
+A	modules/library/scald_dnd_library/scald_dnd_library.info	38d5ccab03b6cfd73e8dd357bba1cd7a
+A	modules/library/scald_dnd_library/scald_dnd_library.install	5099ee9da00d93146a8c2fa2bd7b53dc
+A	modules/library/scald_dnd_library/scald_dnd_library.module	9b65f757f742bee46b7895ab6085baaa
+A	modules/library/scald_dnd_library/sdl-footer.tpl.php	f297c1b4258eb45085b15d7cd77a7485
+A	modules/library/scald_dnd_library/sdl-header.tpl.php	a0af7a96c6c77f4b3206a5fd37275996
+A	modules/library/scald_dnd_library/sdl-library.tpl.php	2ce1b463e2f40257d64653282d0e8882
+A	modules/providers/scald_dailymotion/scald_dailymotion.admin.inc	29807f1356772498f58c055ec5df62a1
+A	modules/providers/scald_dailymotion/scald_dailymotion.info	2c5e43a6614fd360b17a1db7b2b56b76
+A	modules/providers/scald_dailymotion/scald_dailymotion.install	c1d59b09ace8de53ca42c4457d1a7da6
+A	modules/providers/scald_dailymotion/scald_dailymotion.module	edfb3c9161a3303a63f500e52d1a37d3
+A	modules/providers/scald_dailymotion/scald_dailymotion.pages.inc	b1c9f20b573a21498a65afc2c812eddb
+A	modules/providers/scald_dailymotion/scald_dailymotion_player.tpl.php	e37479b5973283bb0edfe9ad10800b7d
+A	modules/providers/scald_image/scald_image.info	db0c73d57e6e46aff95c980cd0ec04e5
+A	modules/providers/scald_image/scald_image.install	7bba3ae0b55cb7ae90668c5fb1ede42b
+A	modules/providers/scald_image/scald_image.module	c7a00b35a9ab0f4ceb36e0a790ffb315
 A	modules/providers/scald_soundcloud/php-soundcloud/README.md	da9b35007ba356074aadfbe4bce754ac
 A	modules/providers/scald_soundcloud/php-soundcloud/Services/Soundcloud.php	1689f449e893eefe82cdeeaea657ea3c
 A	modules/providers/scald_soundcloud/php-soundcloud/Services/Soundcloud/Exception.php	a21e1b19382b70248d620adc08038e34
@@ -62,7 +210,51 @@ A	modules/providers/scald_soundcloud/scald_soundcloud.info	6694f0d160f4d5c1a5669
 A	modules/providers/scald_soundcloud/scald_soundcloud.install	d5be355a3c2a2756631fd75dd65416c2
 A	modules/providers/scald_soundcloud/scald_soundcloud.module	1e7dffa88e1f8bfaaa59ef972b6970c0
 A	modules/providers/scald_soundcloud/scald_soundcloud_player.tpl.php	cf77115e57201b805b44040989866f36
+A	modules/providers/scald_vimeo/scald_vimeo.info	381aa40f028a9553fdc5eb62b7fef7b7
+A	modules/providers/scald_vimeo/scald_vimeo.install	e41b6f9f05297c911b0fdc9bbbc3edc4
+A	modules/providers/scald_vimeo/scald_vimeo.module	de11018a64815e6695115d318ee7f4be
+A	modules/providers/scald_vimeo/scald_vimeo_player.tpl.php	47f60bcd3335303c13b71b9160dd598f
+A	modules/providers/scald_youtube/scald_youtube.info	adebe482957f80113aca2f283b1427e7
+A	modules/providers/scald_youtube/scald_youtube.install	a798d8115873c2eb143ec707ff88c0aa
+A	modules/providers/scald_youtube/scald_youtube.module	333d1f3a6531d8bb87ed5ca33310fd6d
+A	modules/providers/scald_youtube/scald_youtube_player.tpl.php	ee207f2da010ece2f720ec58d34acad9
+A	modules/scald_quickstart/scald_quickstart.info	9476cf09040a0a61c105d1e84a5f685d
+A	modules/scald_quickstart/scald_quickstart.install	536334f03925e992cfac9e7157d81b36
+A	modules/scald_quickstart/scald_quickstart.module	61d2229c6599aac6569c30f803e1f452
+D	scald.admin.inc	
+D	scald.constants.inc	
+D	scald.debug.inc	
 M	scald.info	2fe1d253efd44f186c32130da0020a60
 M	scald.install	debf876906752fc73157113e0db77129
 M	scald.module	d2a0d74eac36600e435bd41480e9f074
 D	scald.pages.inc	
+D	scald_dailymotion/scald_dailymotion.admin.inc	
+D	scald_dailymotion/scald_dailymotion.info	
+D	scald_dailymotion/scald_dailymotion.install	
+D	scald_dailymotion/scald_dailymotion.module	
+D	scald_dailymotion/scald_dailymotion.pages.inc	
+D	scald_dailymotion/scald_dailymotion_player.tpl.php	
+D	scald_dnd_library/includes/scald_dnd_library.views.inc	
+D	scald_dnd_library/includes/scald_dnd_library.views_default.inc	
+D	scald_dnd_library/includes/scald_plugin_display_library.inc	
+D	scald_dnd_library/includes/scald_plugin_style_library.inc	
+D	scald_dnd_library/scald_dnd_library.info	
+D	scald_dnd_library/scald_dnd_library.install	
+D	scald_dnd_library/scald_dnd_library.module	
+D	scald_dnd_library/sdl-footer.tpl.php	
+D	scald_dnd_library/sdl-header.tpl.php	
+D	scald_dnd_library/sdl-library.tpl.php	
+D	scald_image/scald_image.info	
+D	scald_image/scald_image.install	
+D	scald_image/scald_image.module	
+D	scald_quickstart/scald_quickstart.info	
+D	scald_quickstart/scald_quickstart.install	
+D	scald_quickstart/scald_quickstart.module	
+D	scald_vimeo/scald_vimeo.info	
+D	scald_vimeo/scald_vimeo.install	
+D	scald_vimeo/scald_vimeo.module	
+D	scald_vimeo/scald_vimeo_player.tpl.php	
+D	scald_youtube/scald_youtube.info	
+D	scald_youtube/scald_youtube.install	
+D	scald_youtube/scald_youtube.module	
+D	scald_youtube/scald_youtube_player.tpl.php	

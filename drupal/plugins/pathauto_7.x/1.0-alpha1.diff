@@ -1,19 +1,15 @@
 A	API.txt	e726453cb07a06b693b144a9e084fb8f
 A	CHANGELOG.txt	d47c90851b78d567e9d83738b56be554
-M	INSTALL.txt	111903cfdb1498d3cf9e46f9c512de39
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	7f8d99582f1c608869fbc6a575d5e529
-M	pathauto.admin.inc	65f7ada23256a58de0a47bb29970730b
-D	pathauto.api.php	
-M	pathauto.inc	c6cdf7afd7a7f45d833311542ae1008b
-M	pathauto.info	21af3b1e2f85085b68f39c8192ace557
-M	pathauto.install	2cade9cd97022bf28751de4882ed6f45
-M	pathauto.js	15e02d0d9a5e1458eee730b88b4f8acf
-D	pathauto.migrate.inc	
-M	pathauto.module	7d702ee13aab1992dca66250e306f36f
-D	pathauto.pathauto.inc	
-D	pathauto.test	
-M	pathauto.tokens.inc	262d3a7c622e35a780c4c4515ab280cc
+A	INSTALL.txt	111903cfdb1498d3cf9e46f9c512de39
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	7f8d99582f1c608869fbc6a575d5e529
+A	pathauto.admin.inc	65f7ada23256a58de0a47bb29970730b
+A	pathauto.inc	c6cdf7afd7a7f45d833311542ae1008b
+A	pathauto.info	21af3b1e2f85085b68f39c8192ace557
+A	pathauto.install	2cade9cd97022bf28751de4882ed6f45
+A	pathauto.js	15e02d0d9a5e1458eee730b88b4f8acf
+A	pathauto.module	7d702ee13aab1992dca66250e306f36f
+A	pathauto.tokens.inc	262d3a7c622e35a780c4c4515ab280cc
 A	pathauto_node.inc	8d150ac89764a38dd0fc8c1209447d93
 A	pathauto_taxonomy.inc	e07ba31cdb46b6071b3bd98a3670c3ff
 A	pathauto_user.inc	f574c254b8a48c03f2880f94f35f66c9

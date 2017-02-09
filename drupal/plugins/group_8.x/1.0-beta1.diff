@@ -38,7 +38,9 @@ A	modules/grolesync/src/GroupRoleSynchronizer.php	9830850521ace2747436c1e6b10b79
 A	modules/grolesync/src/GroupRoleSynchronizerInterface.php	fe1d9504b7e4fcdd4e4158384dac3a4b
 M	src/Access/GroupAccessResult.php	a269e7824b6f9a449e8883518f1dfc21
 D	src/Access/GroupAddAccessCheck.php	
+D	src/Access/GroupContentAddAccessCheck.php	
 A	src/Access/GroupContentCreateAccessCheck.php	3d96d50e315b38180982635a8940000d
+A	src/Access/GroupContentCreateAnyAccessCheck.php	e6e4e702c365941a1548bbc1fade4521
 M	src/Access/GroupInstalledContentAccessCheck.php	f24d43c52c7a549cc5911db898a43a80
 M	src/Access/GroupMemberAccessCheck.php	a6e6cd8689b3ba6b6f67478bf6a4c34b
 M	src/Access/GroupOwnsContentAccessCheck.php	c22068aa0e7b93dd2d4e733c3c55ca7c

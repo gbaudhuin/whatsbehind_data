@@ -1,17 +1,8 @@
 A	.mixpanel.module.swp	f692550ca21182a2d478c09b1293521f
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	mixpanel.info	e161a3292c60d080e6fff550179c30eb
-D	mixpanel.install	
-M	mixpanel.js	cebb0b7846e66148fb8bb5ad4ddbad04
-M	mixpanel.module	c2cee418b71c366971ecbdc2e3027ef8
-D	modules/mixpanel_defaults/includes/mixpanel_defaults.comment.inc	
-D	modules/mixpanel_defaults/includes/mixpanel_defaults.node.inc	
-D	modules/mixpanel_defaults/includes/mixpanel_defaults.og.inc	
-D	modules/mixpanel_defaults/includes/mixpanel_defaults.user.inc	
-D	modules/mixpanel_defaults/mixpanel_defaults.info	
-D	modules/mixpanel_defaults/mixpanel_defaults.module	
-D	modules/mixpanel_rules/mixpanel_rules.info	
-D	modules/mixpanel_rules/mixpanel_rules.module	
-D	modules/mixpanel_rules/mixpanel_rules.rules.inc	
-D	modules/mixpanel_rules/mixpanel_rules.theme.inc	
-M	modules/mixpanel_spaces/mixpanel_spaces.info	361abc9725589f22c5721fed7d36ba36
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	f3ba9d23de3ccfc44005d582ea3478ff
+A	mixpanel.info	e161a3292c60d080e6fff550179c30eb
+A	mixpanel.js	cebb0b7846e66148fb8bb5ad4ddbad04
+A	mixpanel.module	c2cee418b71c366971ecbdc2e3027ef8
+A	modules/mixpanel_spaces/mixpanel_spaces.info	361abc9725589f22c5721fed7d36ba36
+A	modules/mixpanel_spaces/mixpanel_spaces.module	37a085fde2d9a1847e5b5e3521e45d4f

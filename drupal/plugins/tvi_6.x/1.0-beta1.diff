@@ -1,9 +1,5 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	32279518941632a3eaa7e8dc9039a2ee
-D	includes/tvi.admin.inc	
-D	includes/tvi.query.inc	
-D	tvi.css	
-M	tvi.info	61603d880c9c9731c0ac0b7bc97fa4e3
-M	tvi.install	d9b3e50585eae8232b3372d95840d0ac
-D	tvi.js	
-M	tvi.module	2c9287de1464f98717bcb8e18ffbbce8
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	32279518941632a3eaa7e8dc9039a2ee
+A	tvi.info	61603d880c9c9731c0ac0b7bc97fa4e3
+A	tvi.install	d9b3e50585eae8232b3372d95840d0ac
+A	tvi.module	2c9287de1464f98717bcb8e18ffbbce8

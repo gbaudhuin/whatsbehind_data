@@ -1,17 +1,4 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
-M	filefield_paths.info	d0e701f932fb161eab85e7a530038963
-M	filefield_paths.install	ac011e0e8cbb4e0a6a299d6890e8840e
-M	filefield_paths.module	0cae7945ff4534173c3a78ae9c265f2e
-D	modules/audio.inc	
-D	modules/comment_upload.inc	
-D	modules/features.inc	
-D	modules/filefield.inc	
-D	modules/filefield_paths.inc	
-D	modules/image.inc	
-D	modules/imagefield.inc	
-D	modules/imagefield_crop.inc	
-D	modules/pathfilter.inc	
-D	modules/upload.inc	
-D	tests/filefield_paths.test	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	filefield_paths.info	d0e701f932fb161eab85e7a530038963
+A	filefield_paths.install	ac011e0e8cbb4e0a6a299d6890e8840e
+A	filefield_paths.module	0cae7945ff4534173c3a78ae9c265f2e

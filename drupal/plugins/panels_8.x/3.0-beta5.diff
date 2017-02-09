@@ -51,19 +51,29 @@ D	js/display_editor.js
 D	js/layout.js	
 D	js/panels-base.js	
 A	layouts/onecol/onecol.css	c15d01ed7b0c540e259af8e95545cc9e
+A	layouts/onecol/onecol.png	1aebbdf8d9c0a8e8151ecddecbd6be5f
+A	layouts/onecol/panels-onecol.html.twig	ca4b215df6accea26fca4df0d6e77436
 A	layouts/threecol_25_50_25/panels-threecol-25-50-25.html.twig	7452282428ed92558c8776f7ad0607df
 A	layouts/threecol_25_50_25/threecol_25_50_25.css	49f1e784ba073e666eb7d3896f1e38af
+A	layouts/threecol_25_50_25/threecol_25_50_25.png	b4cc9724ebe7f5abe5b29b6d6e45e81e
 A	layouts/threecol_25_50_25_stacked/panels-threecol-25-50-25-stacked.html.twig	bb494ab8d3f39bb5d61d65e768e62818
 A	layouts/threecol_25_50_25_stacked/threecol_25_50_25_stacked.css	f7cffbd9fc45842387ec96a711d22a10
+A	layouts/threecol_25_50_25_stacked/threecol_25_50_25_stacked.png	872c8d39b8a7a5e1758bffc1d51b821a
 A	layouts/threecol_33_34_33/panels-threecol-33-34-33.html.twig	382ce7e38fee5c9de10c657da43d2e57
 A	layouts/threecol_33_34_33/threecol_33_34_33.css	78177170cbb61ccc569b3d0859071e34
+A	layouts/threecol_33_34_33/threecol_33_34_33.png	ae44331132166bc7e358ffe87da2f5d2
 A	layouts/threecol_33_34_33_stacked/panels-threecol-33-34-33-stacked.html.twig	cbb9f6f15a3256d61af5d43167ba351b
 A	layouts/threecol_33_34_33_stacked/threecol_33_34_33_stacked.css	83b5ba7943026ca261493c407a16d5bb
+A	layouts/threecol_33_34_33_stacked/threecol_33_34_33_stacked.png	b4084c32bc02367026665fb5219d0f20
+A	layouts/twocol/panels-twocol.html.twig	9c9fe2e5249a7b798148ac15886f01d9
 A	layouts/twocol/twocol.css	637698b50645e457f5e1172cbf886141
+A	layouts/twocol/twocol.png	f300b94cd25e14cb701dc4d131d87b0a
 A	layouts/twocol_bricks/panels-twocol-bricks.html.twig	68d9f54ca29d4b27e84cefef09b94a5f
 A	layouts/twocol_bricks/twocol_bricks.css	80ce20edeb7ad14ea4e08a78c397a325
+A	layouts/twocol_bricks/twocol_bricks.png	45d0bcf805f369c49cca06b586c0d737
 A	layouts/twocol_stacked/panels-twocol-stacked.html.twig	fd455a275f05bc30ea7926cb9e7d9d81
 A	layouts/twocol_stacked/twocol_stacked.css	ce1155044dcd87863f334f2b89467be7
+A	layouts/twocol_stacked/twocol_stacked.png	124ceee143b69ef5423f508b28b0f325
 M	panels.info.yml	544032d3fcc8bbfe6fc69be6145df733
 M	panels.layouts.yml	ddb0396e54a9c4b914433507be63e02f
 M	panels.module	96c3b48452b5ae4c3d3c9614ef3dbe9f
@@ -122,26 +132,36 @@ D	plugins/layouts/flexible/flexible.png
 D	plugins/layouts/flexible/grippie-vertical.png	
 D	plugins/layouts/onecol/onecol.css	
 D	plugins/layouts/onecol/onecol.inc	
+D	plugins/layouts/onecol/onecol.png	
+D	plugins/layouts/onecol/panels-onecol.html.twig	
 D	plugins/layouts/threecol_25_50_25/panels-threecol-25-50-25.tpl.php	
 D	plugins/layouts/threecol_25_50_25/threecol_25_50_25.css	
 D	plugins/layouts/threecol_25_50_25/threecol_25_50_25.inc	
+D	plugins/layouts/threecol_25_50_25/threecol_25_50_25.png	
 D	plugins/layouts/threecol_25_50_25_stacked/panels-threecol-25-50-25-stacked.tpl.php	
 D	plugins/layouts/threecol_25_50_25_stacked/threecol_25_50_25_stacked.css	
 D	plugins/layouts/threecol_25_50_25_stacked/threecol_25_50_25_stacked.inc	
+D	plugins/layouts/threecol_25_50_25_stacked/threecol_25_50_25_stacked.png	
 D	plugins/layouts/threecol_33_34_33/panels-threecol-33-34-33.tpl.php	
 D	plugins/layouts/threecol_33_34_33/threecol_33_34_33.css	
 D	plugins/layouts/threecol_33_34_33/threecol_33_34_33.inc	
+D	plugins/layouts/threecol_33_34_33/threecol_33_34_33.png	
 D	plugins/layouts/threecol_33_34_33_stacked/panels-threecol-33-34-33-stacked.tpl.php	
 D	plugins/layouts/threecol_33_34_33_stacked/threecol_33_34_33_stacked.css	
 D	plugins/layouts/threecol_33_34_33_stacked/threecol_33_34_33_stacked.inc	
+D	plugins/layouts/threecol_33_34_33_stacked/threecol_33_34_33_stacked.png	
+D	plugins/layouts/twocol/panels-twocol.html.twig	
 D	plugins/layouts/twocol/twocol.css	
 D	plugins/layouts/twocol/twocol.inc	
+D	plugins/layouts/twocol/twocol.png	
 D	plugins/layouts/twocol_bricks/panels-twocol-bricks.tpl.php	
 D	plugins/layouts/twocol_bricks/twocol_bricks.css	
 D	plugins/layouts/twocol_bricks/twocol_bricks.inc	
+D	plugins/layouts/twocol_bricks/twocol_bricks.png	
 D	plugins/layouts/twocol_stacked/panels-twocol-stacked.tpl.php	
 D	plugins/layouts/twocol_stacked/twocol_stacked.css	
 D	plugins/layouts/twocol_stacked/twocol_stacked.inc	
+D	plugins/layouts/twocol_stacked/twocol_stacked.png	
 D	plugins/page_wizards/landing_page.inc	
 D	plugins/task_handlers/panel_context.inc	
 D	plugins/views/panels.views.inc	

@@ -1,48 +1,12 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	ec9f8afca248fd41cdcd983c3ba07cfd
-D	cck_phone.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	ec9f8afca248fd41cdcd983c3ba07cfd
 A	content.migrate.inc	89586de66abf7c9f8ffca7d3329b76d2
 A	content_profile.migrate.inc	f42ed85196c53165a3d0959e9b0eef7f
 A	email_registration.migrate.inc	cef2d0056595669fe2bcb60a51bd62e7
-D	entity_api.inc	
 A	filefield.migrate.inc	75b6b6d9292e28ef8c9ad584693e957c
-D	flag.inc	
-D	geofield.inc	
-D	interval.inc	
 A	location.migrate.inc	520bdd7f6164eb6c5486c25249a633ad
-D	media.inc	
-M	migrate_extras.info	c69c39a87ceb266760c6aee52262badb
+A	migrate_extras.info	c69c39a87ceb266760c6aee52262badb
 A	migrate_extras.install	42439ff2ecd996ff0df6e2aa1ed4f6a7
-D	migrate_extras.migrate.inc	
-M	migrate_extras.module	cfec9e5a0f698c17555d1e5f3cab85f5
-D	migrate_extras_examples/migrate_extras_media/migrate_extras_media.features.field.inc	
-D	migrate_extras_examples/migrate_extras_media/migrate_extras_media.features.inc	
-D	migrate_extras_examples/migrate_extras_media/migrate_extras_media.info	
-D	migrate_extras_examples/migrate_extras_media/migrate_extras_media.migrate.inc	
-D	migrate_extras_examples/migrate_extras_media/migrate_extras_media.module	
-D	migrate_extras_examples/migrate_extras_media/migrate_extras_media.xml	
-D	migrate_extras_examples/migrate_extras_media/source_files/docs/random.docx	
-D	migrate_extras_examples/migrate_extras_media/source_files/docs/test_doc.txt	
-D	migrate_extras_examples/migrate_extras_media/source_files/images/watchdog-ok.png	
-D	migrate_extras_examples/migrate_extras_pathauto/migrate_extras_pathauto.features.field.inc	
-D	migrate_extras_examples/migrate_extras_pathauto/migrate_extras_pathauto.features.inc	
-D	migrate_extras_examples/migrate_extras_pathauto/migrate_extras_pathauto.info	
-D	migrate_extras_examples/migrate_extras_pathauto/migrate_extras_pathauto.migrate.inc	
-D	migrate_extras_examples/migrate_extras_pathauto/migrate_extras_pathauto.module	
-D	migrate_extras_examples/migrate_extras_pathauto/migrate_extras_pathauto.xml	
-D	migrate_extras_examples/migrate_extras_profile2/migrate_extras_profile2.csv	
-D	migrate_extras_examples/migrate_extras_profile2/migrate_extras_profile2.info	
-D	migrate_extras_examples/migrate_extras_profile2/migrate_extras_profile2.install	
-D	migrate_extras_examples/migrate_extras_profile2/migrate_extras_profile2.migrate.inc	
-D	migrate_extras_examples/migrate_extras_profile2/migrate_extras_profile2.module	
-D	name.inc	
-D	pathauto.inc	
+A	migrate_extras.module	cfec9e5a0f698c17555d1e5f3cab85f5
 A	pathauto.migrate.inc	ea09b178b50962e4d9aa13d73b3e9f6e
-D	privatemsg.inc	
 A	privatemsg.migrate.inc	f3e5cc5d3f2adf241c5e09daa9aa3240
-D	profile2.inc	
-D	rules.inc	
-D	tests/pathauto.test	
-D	user_relationships.inc	
-D	votingapi.inc	
-D	webform.inc	

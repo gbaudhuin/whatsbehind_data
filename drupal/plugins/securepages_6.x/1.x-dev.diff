@@ -1,8 +1,1 @@
-A	FAQ.txt	b8a3a8ecc57bb7416240a558c6217523
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	37eb1a8748d359aecaa8f60c403223a3
-A	securepages.admin.inc	7ac945ecef77d7c6e071b7ab6aaa34d0
-A	securepages.info	97365dfdb6f15a37ac32eabe4bdf00a8
-A	securepages.install	bbdfdf6107e01c6f3da9405d1d9e4d7c
-A	securepages.module	0d618f497319c511967c1c8af1095ec8
-A	securepages.test	270f91a1532fb992829e6bd3905d021d
+M	securepages.info	97365dfdb6f15a37ac32eabe4bdf00a8

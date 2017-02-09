@@ -1,7 +1,5 @@
 A	.project	07b0780702eeb7cf9c901262e5919689
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	13063e451d13556a61fd8b8017235fa7
-D	blocktheme-admin-display-form.tpl.php	
-M	blocktheme.info	3e5abdce5772bcc7cb541628e92f1d07
-D	blocktheme.install	
-M	blocktheme.module	f6a28dbcd392f92e1fe0912ef0a954d4
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	13063e451d13556a61fd8b8017235fa7
+A	blocktheme.info	3e5abdce5772bcc7cb541628e92f1d07
+A	blocktheme.module	f6a28dbcd392f92e1fe0912ef0a954d4

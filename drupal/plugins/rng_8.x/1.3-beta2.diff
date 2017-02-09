@@ -1,0 +1,7 @@
+M	css/elements/registrants.theme.css	62def3a3b14c9372c633969b0b53d77f
+M	rng.info.yml	9daf8c0b5074e2cf0b525ee686341561
+M	rng_debug/rng_debug.info.yml	59f8f9dc739c9a833af2aa7c4344cdc2
+M	rng_views/rng_views.info.yml	e0502d93115df26df45137ecc8d583cb
+M	sass/elements/registrants.theme.scss	b9b00cc2e01f5925b6832a774c65e55a
+M	src/Element/Registrants.php	8f05b7c1b9093f077b1735ecad611b40
+M	tests/modules/rng_test_views/rng_test_views.info.yml	2089ce4094a43aaae7ac55dd133f9b34

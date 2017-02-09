@@ -1,102 +1,25 @@
+D	.gitignore	
 M	CHANGELOG	0149f53ce011a1a55428b13395b8554c
-A	README.md	43f79a60477d6c64439b0e62974c5dda
-D	README.txt	
-M	includes/api/api.inc	6ca6e10e32ad4902bc4845268583ada5
-M	includes/config.inc	3764fdd323f0350dcfaf2904d5eb4ceb
-M	includes/core/batch.inc	998ab29a719d447f7e0396615356d974
-M	includes/core/common.inc	ed0ffedb038fb06ca82a6a2dc2043d43
-M	includes/core/php.inc	a605ea5cbed9824023c65efb20913a39
 M	includes/db.inc	9593e05a56dadaa94da54b2d5b46e6d6
-M	includes/error.inc	76e5472d24481b6954a393ce26b03c27
 M	includes/forms/editor.inc	73876a727281e8fb7aeb8b850e7b1b6e
 M	includes/forms/first_install.inc	c063c0c221461c9967e1b1ff9e279b63
-M	includes/forms/forms.inc	b26eb5242dfcad83193470974ed2cbcb
-M	includes/forms/import.inc	086b34f562b88a35dd8cbe5e410930f5
-M	includes/forms/lab.inc	aab64092b2139e2c365d105936cf9358
-M	includes/forms/quickrun.inc	808ce6b9f3f63d75e3da380344d69a53
-D	includes/history.inc	
-M	includes/io/import.inc	7a3e878f02e6f6a4d8034cf189948b0e
-M	includes/io/io.inc	004983fe67c52bceee9cc4d74e893c89
-M	includes/parser/parser.inc	d522b6360eb05d98ebe472669ddd5663
-M	includes/parser/scan.inc	0241d893811be719d6bbfe4ee1205d00
-M	includes/servers.inc	5fa8485fb074b2570fb48d13f874d32c
+M	includes/io/download.inc	c17a0d8ca0addb2b69c78234661d82f1
 M	includes/utils.inc	498a8b5a1638c3160a0fb70c72bc6929
-M	includes/variables.inc	fb2f8586853a378f89543ec755287fa6
-M	js/ajax_validation.js	c876deb4749cd6fdad7bda129d2165d9
 M	js/editor.js	29802c1b863f919018df5714a68904eb
-M	js/patterns.js	049de5e44b2e4b4931be933940502ff9
-M	patterns.drush.inc	61ce3282d495e281f322ad1267b0c40c
 M	patterns.info	c8806e2b50293411a3eb5c95967a4488
 M	patterns.install	bf0cb9ea31a951cb4fffb51261838e44
 M	patterns.module	6d3c559703df387f75a6f173baf03d40
-M	patterns_components/components/block.inc	0eb89dbff2cbe6df1156f4d98c7e0a1c
-M	patterns_components/components/color.inc	d82ee2c712144de528006eb1b2738936
-M	patterns_components/components/field.inc	2804678309393e0c904d2445ba5684cd
 M	patterns_components/components/menu.inc	38c6001c677f9938b485a5ffa297dc3b
-M	patterns_components/components/node.inc	a9c0f306b0c86709b1cd057aded89230
-M	patterns_components/components/pathauto.inc	4c1ea10998314414ff5fc94afbaaa5bc
 M	patterns_components/components/shortcut.inc	c3182ea3accdb5e7af1616e5cb90955b
 M	patterns_components/components/system.inc	0a6e6e959b2cac9fba23d6e808c43c43
-M	patterns_components/components/taxonomy.inc	16dbdf8dc71daacc59fa06e72f12db79
 M	patterns_components/components/toolbar.inc	99d4529630738410890d2cc811dd2073
-M	patterns_components/components/user.inc	3bd11875ef93ff853d50f79de4335a68
 M	patterns_components/patterns_components.info	929f46e1978097659d41bbca51e94839
-M	patterns_components/patterns_components.module	2b63b6eeba198263d044755aa2f96fa1
-M	patterns_examples/patterns/block.yaml	ad96aa95d42fa44b637d50d3625a17c2
-M	patterns_examples/patterns/block_delete.yaml	9d936ab663e3dec4da45651d045d0b33
-M	patterns_examples/patterns/block_modify.yaml	d281fc4a7227d18fe292a3e2e37fc834
-D	patterns_examples/patterns/block_node_type_create.yaml	
-D	patterns_examples/patterns/block_node_type_delete.yaml	
-D	patterns_examples/patterns/block_role_create.yaml	
-D	patterns_examples/patterns/block_role_delete.yaml	
-M	patterns_examples/patterns/menu_item_create.yaml	266a2c1348bf49c8c2ddb15a144ba19b
-M	patterns_examples/patterns/menu_item_modify.yaml	8d4ffadc201134579c2dcaee01d92097
-M	patterns_examples/patterns/modules.yaml	6e044afec1e82f868b4eff024058f93d
-M	patterns_examples/patterns/modules2.xml	4732e597e59cb385b01d469e34c743b6
-M	patterns_examples/patterns/shortcut_set_switch.yaml	5b516021fcc6fc2d6276c748bfdb7508
-M	patterns_examples/patterns/theme.yaml	3a687ece891d234a9a7cab8cb800fead
-M	patterns_examples/patterns/user_create.yaml	d58e1eb04acf38cff0a387d2fbde91a7
-M	patterns_examples/patterns/variables.yaml	69cf9d71278b14323bc817597e021b81
 M	patterns_examples/patterns_examples.info	4e5b64cc2eb9250c6adba6e20ead4869
 M	patterns_export/core.inc	8f07400c2ee9fad1ede1d4e3a72cfe4c
 M	patterns_export/finalize.inc	0943cfb6f34b6af439957b44a73f74db
 M	patterns_export/patterns_export.info	ded1fd182020584fad0208a72bb852d5
-M	patterns_export/patterns_export.module	026f90d8c98ec9162032c90593704e65
 M	patterns_phpparser/patterns_phpparser.info	a377f092ee3ef6a117e2637967ce1e0d
 M	patterns_xmlparser/patterns_xmlparser.info	c82511c590e4bd59c2e333b6becb3ccf
 M	patterns_yamlparser/patterns_yamlparser.info	29b347d2389b315bfc079f6d90db711a
 M	patterns_yamlparser/patterns_yamlparser.install	e56a41d1455eb39c1cfcbf6180a23eda
 M	patterns_yamlparser/patterns_yamlparser.module	54c7ecc0cd63703f57b9eca7c122e1bb
-D	scripts/setup	
-M	tests/block/block.test	23974406ab54aca4d4c081811db43f96
-M	tests/block/block.yaml	488c9a9480a76776582ba6a7b4d396ee
-M	tests/block/block_delete.yaml	9d936ab663e3dec4da45651d045d0b33
-M	tests/block/block_modify.yaml	d281fc4a7227d18fe292a3e2e37fc834
-M	tests/field/date_field_create.yaml	5bd8b564b1fef71fa3aa920c854a3171
-M	tests/field/date_field_delete.yaml	4a4e4a968d8def1d5136d36e39516abe
-M	tests/field/date_field_modify.yaml	bc6286fc61438b2282b14735c9f0c5ca
-M	tests/field/field.test	79c6c282dc3194509d8359848fd6f09e
-M	tests/field/field_field_modify.yaml	3f14d3ed07fca84d3157cff4061a2bab
-M	tests/field/field_instance_create.yaml	0794f8cb28f3931e4038417497fd99ea
-M	tests/field/field_instance_delete.yaml	12e520900278c8644f91b0a8709a6cd6
-M	tests/field/field_instance_modify.yaml	4ff51231d6c28ccdebc3f8d06bd3a806
-M	tests/parser/parser.test	77b5cf232a08338e318d621ce37046eb
-D	tests/parser/valid_semantics/taxonomy_vocabulary_add.yaml	
-M	tests/pathauto/path_auto.yaml	49004008d4b419dd8c5a67ebef6ce562
-M	tests/pathauto/pathauto.test	e08ab181570cff89a2f010715f088a71
-M	tests/patterns.test	f1018b59115103ebe442a6bc461c2f47
-M	tests/system/modules.yaml	6e044afec1e82f868b4eff024058f93d
-M	tests/system/system.test	47a24fa9277f21b9703fd2491fff0c64
-M	tests/system/theme.yaml	3a687ece891d234a9a7cab8cb800fead
-M	tests/system/variables.yaml	69cf9d71278b14323bc817597e021b81
-M	tests/taxonomy/taxonomy.test	a61877e5eabb288c5b72eeb825e037b9
-M	tests/user/user.test	6dcbad7057f3c611fa69bfa7e7dbe366
-M	tests/user/user_create.yaml	b0690fd2c0679bb7712dba1e3e2050a7
-A	tests/user/user_permission_create.yaml	38b82d043dc2e7013807171e6b87068a
-A	tests/user/user_permission_delete.yaml	4867feddf179982d018f66a9d4f52661
-M	tests/user/user_permission_modify.yaml	99af74be64b08b63b49539f3338bc549
-D	tests/user/user_permission_modify_user_create.yaml	
-M	tests/user/user_role_create.yaml	2e0761c147a46a420b018ebec3b3bdb1
-M	tests/user/user_role_delete.yaml	270b10cbfb49a6534918303883219567
-M	tests/user/user_role_modify.yaml	cf7ac6d4775041f2ecb78857d926e53c
-M	theme/common.inc	a15dbf7eac391a37406ca893666b4d09

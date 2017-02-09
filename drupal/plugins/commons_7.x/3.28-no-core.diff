@@ -1,3 +1,4 @@
+D	LICENSE.txt	
 M	commons.info	e2a0ff1358e5d350ac8f11907e6f84e4
 M	drupal-org.make	077b636f0b2ddacfa18b68894a952eab
 A	libraries/backbone/.gitignore	8a604122d1059f0a137342dc5d90c0de
@@ -771,6 +772,7 @@ M	modules/commons/commons_utility_links/commons_utility_links.info	f96e709099daf
 M	modules/commons/commons_wikis/commons_wikis.info	e806475fe9376bd844cb81d6fe64740c
 M	modules/commons/commons_wikis/modules/commons_wikis_pages/commons_wikis_pages.info	4bc7df07cc9b62772cc33eb6dd4ee61e
 M	modules/commons/commons_wysiwyg/commons_wysiwyg.info	00836f7d51159fc26d8d3d1a23874834
+A	modules/contrib/acquia_connector/LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	modules/contrib/acquia_connector/PATCHES.txt	e683e7aa5b2d0efac134890ab16ac084
 A	modules/contrib/acquia_connector/README.txt	f8fc378ae8e4f948bf16e542f813176c
 A	modules/contrib/acquia_connector/acquia_agent/acquia.ico	9b6e6eb1392cb22c5cae359fd68c6dd5

@@ -1,9 +1,5 @@
-M	INSTALL.TXT	1fcfd647e854345073163af786524c05
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	comment_notify-rtl.css	
-D	comment_notify.css	
-M	comment_notify.info	c13c60007ef9f83ee13fe51f60051fdb
-M	comment_notify.install	e451b462ac58591d3f71cdeadd68bb3f
-D	comment_notify.js	
-M	comment_notify.module	91cc6a76771dde34e28667c873754f2e
-D	comment_notify.test	
+A	INSTALL.TXT	1fcfd647e854345073163af786524c05
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	comment_notify.info	c13c60007ef9f83ee13fe51f60051fdb
+A	comment_notify.install	e451b462ac58591d3f71cdeadd68bb3f
+A	comment_notify.module	91cc6a76771dde34e28667c873754f2e

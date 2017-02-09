@@ -1,3 +1,4 @@
+D	config/install/migrate.migration.disqus_comment_import.yml	
 M	disqus.info.yml	8ee604c45c68b9631fa55634df8bc5fe
 M	disqus.module	417a13177340a6afdfd2f965335233ff
 M	disqus.services.yml	16608bdebcb17a6626d7b1407b48e1e4
@@ -8,6 +9,7 @@ A	migration_templates/d7_disqus_entity_form_display.yml	f04fc90c7551073c5174504a
 A	migration_templates/d7_disqus_field.yml	abe9770e7026ee346a4d7c0e5a55f443
 A	migration_templates/d7_disqus_field_storage.yml	b07611cd254779d70a9fd4393fc7a6e8
 A	migration_templates/d7_disqus_settings.yml	9e1d066b43f0e3a250a7ec69fae16c87
+A	migration_templates/disqus_comment_import.yml	3542cd0e10c197c2cc9cf1ebdee80b62
 M	src/Controller/DisqusController.php	0a8a951b8cb058c33bf1b0f4babacee4
 M	src/DisqusCommentManager.php	c71f3672b840e0f803b4e36b50148e99
 M	src/DisqusCommentManagerInterface.php	58a20516c1e4ba49d923fd4c06ed0c22

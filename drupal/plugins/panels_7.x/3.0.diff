@@ -50,6 +50,10 @@ M	plugins/display_renderers/panels_renderer_standard.class.php	8fbc7362734832db0
 M	plugins/export_ui/panels_layouts_ui.class.php	ae73c21cdb2378c49cbe8dbe49978d8b
 M	plugins/layouts/flexible/flexible-admin.js	2a3b950150858d7cef7eb2245043ee21
 M	plugins/layouts/flexible/flexible.inc	5d9eb140abd663f6f9746b5cdd4be5e1
+D	plugins/layouts/onecol/panels-onecol.html.twig	
+A	plugins/layouts/onecol/panels-onecol.tpl.php	aea9327d912203cebb30dcb1625884d2
+A	plugins/layouts/twocol/panels-twocol.tpl.php	2d2d571d8b1a06e16d19a0771fe58d19
+D	plugins/layouts/twocol_panels-twocol.html.twig	
 M	plugins/styles/block.inc	8775b10acef24f181cb243ddec23efba
 M	plugins/styles/corners/rounded_corners.inc	2bc042c5235c3d4f55392e91e0964138
 M	plugins/styles/stylizer.inc	3f10d616fa1b9ad5e802212e8d7add18

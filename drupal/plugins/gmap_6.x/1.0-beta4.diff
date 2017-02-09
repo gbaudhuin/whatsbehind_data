@@ -1,3 +1,4 @@
+A	API.txt	1ae65f1f30c653e07ba40f22eae845da
 A	GMAP-ARRAY-DICTIONARY.txt	f90857131246a5d11bea67aa1f213a99
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 M	NOTES.txt	11fd4c73084927b0e85d050234fe05cf
@@ -29,6 +30,7 @@ M	gmap_taxonomy.module	5d9a5d88b85094f5f67b4efa5faf0326
 D	gmap_taxonomy.views.inc	
 A	gmap_views.info	1e407d7b16bec4bf49b0fd72b77fe78d
 A	gmap_views.module	c2222df90fdbca2bc7cf35c9acbfae4a
+D	help/api.html	
 D	help/array.html	
 D	help/extending.html	
 D	help/filter.html	

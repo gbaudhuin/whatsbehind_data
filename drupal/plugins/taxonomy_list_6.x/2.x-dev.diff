@@ -1,5 +1,6 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 M	taxonomy_list.css	bcf0f2df4e0fcd8fa208d6fb7281924f
 M	taxonomy_list.info	5915b9c3bbedb679ca18eb6336a461f5
 M	taxonomy_list.install	6431209b0e31cfb337018d49cf7536e4
 M	taxonomy_list.module	c609e00e427701071421df3011286451
-A	taxonomy_list_nancy.tpl.php	065082927e4d7b311a544365069eeb77
+M	taxonomy_list_nancy.tpl.php	065082927e4d7b311a544365069eeb77

@@ -1,12 +1,8 @@
 M	README.md	d723beb5c381379086f48b11db8519e3
-M	includes/videojs.admin.inc	294c2128901850100a804ad2af590a29
 M	includes/videojs.theme.inc	0b265a31850f783338b4e46cf74df596
-A	includes/videojs.utility.inc	893ec199dadea8c139293847a87a084c
-D	includes/videojs.views.inc	
+M	includes/videojs.utility.inc	893ec199dadea8c139293847a87a084c
 M	modules/videojs_hls/videojs_hls.info	bb7fe6b2b39c0e2146a2ecf4a8b67642
 A	theme/videojs-media-wysiwyg-preview.tpl.php	1245f8e66572d2cf37df0c3bdeb64d5f
 M	theme/videojs.tpl.php	d4bf048a539aac43df7c530b636de2f0
 M	videojs.info	2ad46146a4b2365dddb8b3f7605816da
-M	videojs.install	d446401cba3fe2afa477a5acd78dfb7d
-M	videojs.make.sample	7f35ef91d44e77886cb454d99a7fcbbf
 M	videojs.module	f8cc1426780ee0e7e0018cc21766121c

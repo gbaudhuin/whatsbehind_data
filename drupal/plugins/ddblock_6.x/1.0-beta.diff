@@ -1,23 +1,15 @@
-M	CHANGELOG.txt	60dbecc20d1ffd8f9b9cdebe51110ac8
-M	INSTALL.txt	062b2ef6c35a136f75b0c512f86976c9
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	947cd974c85adacda701fbf7b316e9e2
+A	CHANGELOG.txt	60dbecc20d1ffd8f9b9cdebe51110ac8
+A	INSTALL.txt	062b2ef6c35a136f75b0c512f86976c9
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	947cd974c85adacda701fbf7b316e9e2
 A	ddblock-block-content-array.tpl.php	2f9fdef977071cb3024a5e31e1cc65f3
 A	ddblock-block-content.tpl.php	a10a08b5805f4ddac2832b722741b1e5
 A	ddblock-block-headerimage.tpl.php	17bedfe7a5381dcaac0271c2b4c0a166
 A	ddblock-block-images.tpl.php	ecf8adeaffd72877f5a50d0e1e57a548
-D	ddblock-cycle-block-content.tpl.php	
-D	ddblock-cycle-pager-content.tpl.php	
-M	ddblock.admin.inc	0189e396ea9574275708e156cd46a593
-M	ddblock.css	c8718c0ef5b37a8db522afe6858e3c17
-M	ddblock.info	48f9b65955c9265475d97a81c3957d4c
-M	ddblock.install	150d9b34dce648885cfb1161c04094bd
-M	ddblock.module	935092ea66f4d2a20a9b7581acabe3d5
+A	ddblock.admin.inc	0189e396ea9574275708e156cd46a593
+A	ddblock.css	c8718c0ef5b37a8db522afe6858e3c17
+A	ddblock.info	48f9b65955c9265475d97a81c3957d4c
+A	ddblock.install	150d9b34dce648885cfb1161c04094bd
+A	ddblock.module	935092ea66f4d2a20a9b7581acabe3d5
 A	jquery.cycle.all.pack.js	db8db3491ba572d5e4117f54291016a7
-D	js/ddblock.admin.js	
-D	js/ddblock.js	
-D	js/jquery.cycle.all.min.js	
-D	js/jquery.selectboxes.js	
-D	js/json2.pack.js	
-D	js/tools.scrollable-1.0.5.min.js	
 A	po/ddblock.pot	614e891e3a14bf668c88eef60b28a468

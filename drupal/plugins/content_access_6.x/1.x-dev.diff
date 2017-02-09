@@ -1,12 +1,13 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	56c1ca34d01c14ea4bd82ef81aa63855
-A	UPGRADE.txt	d29d624e48426040a1a6c64e5fc62ddc
-A	content_access.admin.inc	42b7327c0d221980658099849d07dd49
-A	content_access.css	c83440117d69c00a02a3db28e14df0c6
-A	content_access.info	b9fe41b249b24669f1c94e14e7bd79d0
-A	content_access.install	203c231d4bb283d17e34ba3d2968f8a7
-A	content_access.module	8b759c41b27efaa9c803cf4ec2bd24aa
-A	content_access.rules.inc	ca93a6865960ed3cd54157f8e0f8c290
-A	tests/content_access.test	4d430c0696856c7aaaa9ef21a554edfa
-A	tests/content_access_acl.test	2db904058b484181f2366acd951a4bb8
-A	tests/content_access_test_help.php	58e986388004da04796f655a9fc3ef77
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	56c1ca34d01c14ea4bd82ef81aa63855
+M	UPGRADE.txt	d29d624e48426040a1a6c64e5fc62ddc
+M	content_access.admin.inc	42b7327c0d221980658099849d07dd49
+M	content_access.info	b9fe41b249b24669f1c94e14e7bd79d0
+M	content_access.install	203c231d4bb283d17e34ba3d2968f8a7
+M	content_access.module	8b759c41b27efaa9c803cf4ec2bd24aa
+M	tests/content_access.test	4d430c0696856c7aaaa9ef21a554edfa
+M	tests/content_access_acl.test	2db904058b484181f2366acd951a4bb8
+M	tests/content_access_test_help.php	58e986388004da04796f655a9fc3ef77
+D	translations/content_access.pot	
+D	translations/de.po	
+D	translations/sv.po	

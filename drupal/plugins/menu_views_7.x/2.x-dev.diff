@@ -1,11 +1,1 @@
-D	css/menu_views.css	
-D	includes/form.inc	
-D	includes/menu_views.class.inc	
-D	includes/theme.inc	
-D	includes/tokens.inc	
-A	menu_views.admin.css	8265edc935ff82b4c5f0d5f01604fdab
-A	menu_views.admin.inc	6c052786e161729abc5073a172de7834
-A	menu_views.admin.js	05deb4939bd37a4f6d9ab4a6e6653c43
 M	menu_views.info	f823fddf7014be50ecf9aada12d6a0fb
-M	menu_views.install	4fb500541d86f36b90ba2545902897c4
-M	menu_views.module	c3cc072a6d56b5c492103b20222b60af

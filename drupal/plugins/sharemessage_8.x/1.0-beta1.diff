@@ -10,12 +10,16 @@ M	config/schema/sharemessage.schema.yml	838b2b332e4b64a490acf608d23d4cac
 M	js/addthis.js	6e439f361c82da6a552e216854d5b226
 M	js/sharrre.js	18583e8655b27c90c74579fb3835311b
 M	modules/sharemessage_demo/config/install/node.type.sharecontent.yml	835bccfff34e369fdb71bb2bdd33f38c
+A	modules/sharemessage_demo/config/install/sharemessage.sharemessage.share_message_addthis_demo.yml	bad4303148a7223afd66b24d1e2a0064
+D	modules/sharemessage_demo/config/install/sharemessage.sharemessage.share_message_demo.yml	
 A	modules/sharemessage_demo/config/install/sharemessage.sharemessage.sharrre_message_sharrre_demo.yml	711006aa6b733fbfc12d19ffd435b676
+D	modules/sharemessage_demo/config/optional/block.block.sharemessage.yml	
+A	modules/sharemessage_demo/config/optional/block.block.sharemessage_addthis.yml	3b66bd7cfb3d34ffffc76f1745168f14
 A	modules/sharemessage_demo/config/optional/block.block.sharemessage_sharrre.yml	b91586a50f15b3d296cfcfb92ae64efc
 M	modules/sharemessage_demo/config/optional/filter.format.basic_html.yml	09170586b1697a36b8ff1e9baeb228ea
 M	modules/sharemessage_demo/sharemessage_demo.info.yml	22a195e1e0a37b048568c3fd45ca0192
 M	modules/sharemessage_demo/sharemessage_demo.install	af5cd139a0f7a0cf6dd33f7f0bac1be8
-M	modules/sharemessage_demo/src/Tests/ShareMessageDemoTest.php	1d35dc3482171acb7b695ae3c5748603
+M	modules/sharemessage_demo/src/Tests/SharemessageDemoTest.php	1d35dc3482171acb7b695ae3c5748603
 M	sharemessage.api.php	e83bf516f48ab153e608ca9f7d1dd03a
 M	sharemessage.info.yml	6ab41bbbf6d1329a7fce426add2c764a
 M	sharemessage.install	c73447ed4f23b888d77df738e983edff

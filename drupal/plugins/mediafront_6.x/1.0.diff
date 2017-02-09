@@ -11,6 +11,9 @@ D	players/osmplayer/player/flash/mediafront.swf
 D	players/osmplayer/player/flash/plugins/controlBar/controlBar.swf	
 D	players/osmplayer/player/flash/plugins/mediaPlayer/mediaPlayer.swf	
 D	players/osmplayer/player/flash/plugins/playLoader/playLoader.swf	
+D	players/osmplayer/player/flash/skins/default/controlBar.swf	
+D	players/osmplayer/player/flash/skins/default/mediaPlayer.swf	
+D	players/osmplayer/player/flash/skins/default/playLoader.swf	
 M	players/osmplayer/player/js/compressed/jquery.media.file.js	a5b3366f1d11e6a34430807664ea6723
 M	players/osmplayer/player/js/compressed/jquery.media.html5.js	bd9a32c97635c54af3885e7286288755
 M	players/osmplayer/player/js/compressed/jquery.media.links.js	4ff4a540ea13b50c133d555089713338
@@ -80,10 +83,13 @@ A	players/osmplayer/player/minplayer/skins/default/controlBar.fla	3b80295da94d64
 A	players/osmplayer/player/minplayer/skins/default/controlBar.swf	86958bb4af8bb6083c03ae50d5407003
 A	players/osmplayer/player/minplayer/skins/default/mediaPlayer.as	0ecb4346bad7c8933773edfa610694ab
 A	players/osmplayer/player/minplayer/skins/default/mediaPlayer.fla	7980522a0b471dfcd12c08430bedb003
+A	players/osmplayer/player/minplayer/skins/default/mediaPlayer.swf	89c2281d0b209b892effe69472537a3e
 A	players/osmplayer/player/minplayer/skins/default/playLoader.as	c32442fbfea5b5843fdde6e16a78ce46
 A	players/osmplayer/player/minplayer/skins/default/playLoader.fla	2f65eafafd22ac2197be0175547b4014
+A	players/osmplayer/player/minplayer/skins/default/playLoader.swf	b5c3da0bf3ed5510548a3194f49d8221
 A	players/osmplayer/player/minplayer/skins/goldstandard/controlBar.as	0e6e30ea9ac8ff5210a5fe67cae05abf
 A	players/osmplayer/player/minplayer/skins/goldstandard/controlBar.fla	288baa0dfdcfaa12c9425d7291cdf636
+A	players/osmplayer/player/minplayer/skins/goldstandard/controlBar.swf	e8053d3297a5ba94f2d7ca078a7c260c
 A	players/osmplayer/player/minplayer/skins/goldstandard/mediaPlayer.as	7858e7198302503833615d7ef8622232
 A	players/osmplayer/player/minplayer/skins/goldstandard/mediaPlayer.fla	7980522a0b471dfcd12c08430bedb003
 A	players/osmplayer/player/minplayer/skins/goldstandard/mediaPlayer.swf	89c2281d0b209b892effe69472537a3e

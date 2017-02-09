@@ -1,5 +1,7 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	0206a5368613af8e2b18350f435b24a4
-A	backup_migrate.info	05a5fba1b0a94e9fdb25ec069473b9cd
-A	backup_migrate.install	b4f6fb73576c859344a711e8ce39c21f
-A	backup_migrate.module	3f48df21ed3b9792253c2cff66d87b9f
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	backup_migrate.info	05a5fba1b0a94e9fdb25ec069473b9cd
+M	backup_migrate.install	b4f6fb73576c859344a711e8ce39c21f
+M	backup_migrate.module	3f48df21ed3b9792253c2cff66d87b9f
+D	po/de.po	
+D	po/fr.po	
+D	po/sk.po	

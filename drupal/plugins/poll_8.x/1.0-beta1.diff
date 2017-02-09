@@ -1,4 +1,6 @@
+D	config/install/views.view.list_polls.yml	
 M	config/install/views.view.poll_admin.yml	ce0aa83f84c3a36079ec8aa240ea4002
+A	config/install/views.view.poll_list.yml	f44924f231f8ab4e0164196164df3b35
 M	poll.info.yml	e70b674e502b91ce5bb35666f78795e2
 M	poll.links.task.yml	da190bb00eadb8aefc0097d80821be84
 M	poll.module	e87578a95aa50b684a539bbd69e8134a

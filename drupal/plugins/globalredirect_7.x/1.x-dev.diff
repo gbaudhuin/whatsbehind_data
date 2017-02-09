@@ -1,6 +1,4 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	globalredirect.admin.inc	c7d977a79db51b583b58363f50ca77a5
-A	globalredirect.info	b7e87c5211b36fa525f9b02c8d1cded8
-A	globalredirect.install	e3da72bb6ed4188f6c2096aa3c89b669
-A	globalredirect.module	051a4f744a066f34dcafac83dc37fd5e
-A	globalredirect.test	776ed7fa0b1e8665f1e740885e508886
+M	globalredirect.admin.inc	c7d977a79db51b583b58363f50ca77a5
+M	globalredirect.info	b7e87c5211b36fa525f9b02c8d1cded8
+M	globalredirect.module	051a4f744a066f34dcafac83dc37fd5e
+M	globalredirect.test	776ed7fa0b1e8665f1e740885e508886

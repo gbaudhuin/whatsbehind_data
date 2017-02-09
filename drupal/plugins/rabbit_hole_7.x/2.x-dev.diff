@@ -1,16 +1,7 @@
-A	README.txt	0cd7030f1b2d48a05213b0fc6b0895cd
-A	modules/rh_file/rh-file.js	287caddc1bfc0e1f842800e6e63bcb98
-A	modules/rh_file/rh_file.info	e6e0ca0dfdbd7be008aa920c4804a7bc
-A	modules/rh_file/rh_file.module	c0f18c29680452bda09dbc37c3320851
-A	modules/rh_node/rh-node.js	f03e42463baef573148d014ef00c6120
-A	modules/rh_node/rh_node.info	3da9c2ea2faff8abaed1421caa2f1c47
-A	modules/rh_node/rh_node.module	748915f8b0217101435b731c95dfbb0a
-A	modules/rh_taxonomy/rh_taxonomy.info	48f886a77b516b6bab04b564168cfecd
-A	modules/rh_taxonomy/rh_taxonomy.install	119888589d415e159edfee78ac3ac61c
-A	modules/rh_taxonomy/rh_taxonomy.module	096172420bf54dba238a225f50103845
-A	modules/rh_user/rh_user.info	310847d9a24549f0f4dc3a6be10b1b1b
-A	modules/rh_user/rh_user.module	1b03e9c1fb09a93787d53dbe122667fb
-D	rabbit-hole.js	
+M	modules/rh_file/rh_file.info	e6e0ca0dfdbd7be008aa920c4804a7bc
+M	modules/rh_file/rh_file.module	c0f18c29680452bda09dbc37c3320851
+M	modules/rh_node/rh_node.info	3da9c2ea2faff8abaed1421caa2f1c47
+M	modules/rh_node/rh_node.module	748915f8b0217101435b731c95dfbb0a
+M	modules/rh_taxonomy/rh_taxonomy.info	48f886a77b516b6bab04b564168cfecd
+M	modules/rh_user/rh_user.info	310847d9a24549f0f4dc3a6be10b1b1b
 M	rabbit_hole.info	1b296cbbe3bbb2c05cf8139cb65b03ca
-M	rabbit_hole.install	19f180fac438070965bd74bfc2d4d0de
-M	rabbit_hole.module	c16c3b435929b7e3c08dadf499d2999e

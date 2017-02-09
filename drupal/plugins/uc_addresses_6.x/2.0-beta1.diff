@@ -7,6 +7,8 @@ M	class/UcAddressesSchemaAddress.class.php	e55806b90a8159680a7bed5f26ead2ad
 M	handlers/ubercart.handlers.inc	a2e3693e94152d7450b1b95b2c6c811e
 M	handlers/uc_addresses.handlers.inc	31f5e8a2d591f301cc273454eca7b137
 M	templates/uc-addresses-list-address.tpl.php	e7282c2325d87398909b82edf2d3205d
+D	tests/UcAddressesTestCase.class.php	
+A	tests/UcAddressesTestCase.test	6b8436795bce203d95bc27349c238b4b
 A	tests/handlers/uc_addresses.handlers.inc	b5c304fe1daa1b1a7743c5a9141e4c4d
 M	tests/uc_addresses.addressbook.test	1a07138c41c6704b09aa73448d6b653a
 M	tests/uc_addresses.api.test	223b6869272bec341afbac1f38d41b77

@@ -1,28 +1,6 @@
-A	CHANGELOG.txt	d41d8cd98f00b204e9800998ecf8427e
-M	INSTALL.txt	3ff488c28914678a50f233f32d459898
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	c9c4d1265272277f726e36ab927eb232
-A	contrib/mt_browscap/mt_browscap.info	12526716a0c87498445bf6f3f9fcb6a9
-A	contrib/mt_browscap/mt_browscap.module	d414317a743124d601f771aadd6e7685
-M	mobile_tools.admin.inc	65de8e6fc406344f7637a70ccf9951eb
-D	mobile_tools.api.php	
+M	contrib/mt_browscap/mt_browscap.info	12526716a0c87498445bf6f3f9fcb6a9
+A	mobile_tools.admin.inc	65de8e6fc406344f7637a70ccf9951eb
 M	mobile_tools.info	758b105f968ae528748ad7c05d6966ae
 M	mobile_tools.install	9c69b346c6ef2e346fff92f7862d83dc
 M	mobile_tools.module	57881c2085231f8bf5777ebf01b33fff
-M	mobile_tools_cache.inc	4d063a2c41379e7f34408d66bb361899
-A	mobile_tools_roles.inc	310ce26752cc823f52785bcc07399d29
-D	modules/mobile_device_tester/mobile-device-test.tpl.php	
-D	modules/mobile_device_tester/mobile_device_tester.info	
-D	modules/mobile_device_tester/mobile_device_tester.module	
-D	modules/mobile_tools_detection/mobile_tools_detection.info	
-D	modules/mobile_tools_detection/mobile_tools_detection.module	
-D	modules/mobile_tools_roles/mobile_tools_roles.admin.inc	
-D	modules/mobile_tools_roles/mobile_tools_roles.info	
-D	modules/mobile_tools_roles/mobile_tools_roles.install	
-D	modules/mobile_tools_roles/mobile_tools_roles.module	
-D	modules/mt_browscap/mt_browscap.info	
-D	modules/mt_browscap/mt_browscap.module	
-M	plugins/access/is_mobile.inc	aa9e617642c27efc8f3addfd58789898
-D	plugins/mobile_tools_context_condition_mobile.inc	
-D	views/mobile_tools.views.inc	
-D	views/plugins/mobile_tools_plugin_access_mobile.inc	
+M	mobile_tools_roles.inc	310ce26752cc823f52785bcc07399d29

@@ -16,8 +16,14 @@ M	modules/friendlist_activity/friendlist_activity.info	68fe4119237be8a30d5fc26be
 M	modules/friendlist_activity/friendlist_activity.install	8de4d9d82d2f30571b0b492a810ab48e
 M	modules/friendlist_activity/friendlist_activity.module	eb07579db735518254186a9bd50e6b4a
 M	modules/friendlist_activity/friendlist_activity.rules_defaults.inc	5c89489c1d772df3a5ca177e9aeb3971
+A	modules/hds/ds-message.tpl.php	a330e88bc1d1def5a3483d34f3f97e15
+A	modules/hds/hds-full.tpl.php	a330e88bc1d1def5a3483d34f3f97e15
 M	modules/hds/hds.info	3ccdb1c37e4bd350ca2e83f430044b2d
 M	modules/hds/hds.module	85844237c9814de0b785ef77316e8a10
+A	modules/hds/hds.tpl.php	36a4c266737f80495d766405cc9b690f
+D	modules/hds/heartbeat-message-row.tpl.php	
+D	modules/hds/heartbeat-row-full.tpl.php	
+D	modules/hds/heartbeat-row-message.tpl.php	
 M	modules/heartbeat_comments/heartbeat_comments.info	3f8c4606741aeb8ba62ea7f7fe7db110
 M	modules/heartbeat_comments/heartbeat_comments.install	05bfef43ce9868b6704e141c326dd2e9
 M	modules/heartbeat_comments/heartbeat_comments.module	b847c541e8267c792b8af141fbfc6e68

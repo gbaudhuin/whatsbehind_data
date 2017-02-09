@@ -2,18 +2,32 @@ M	CHANGELOG.txt	19148bdf5d1153ffe4d640e8f2382bea
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 M	README.txt	97bc3846d70d13be9d2109e401bbe97f
 M	UPGRADE.txt	a184f693e7032660c702f938bf9e2c79
+D	arrow-down.png	
+D	arrow-left.png	
+D	arrow-right.png	
+A	css/nice_menus.css	4b0db46ec4eda19a95dbac6357f1317e
 A	css/nice_menus_default-rtl.css	aa29e06d37d6ca56e024af86165032a1
+A	css/nice_menus_default.css	fdeac158ca7bbb024a7dff92270aa5fe
+A	images/arrow-down.png	6d7af59e61494dec44adf48bbe0c0ce1
+A	images/arrow-left.png	53dd039831da600f444f9c129849396b
+A	images/arrow-right.png	715ed06b2d606cda88abefc34f009a36
+A	images/screenshot-drupal.org.png	2a90357331d21dac5d12f447c556807c
 A	js/jquery.bgiframe.min.js	6d3777ab2be264f2cd5424af32a15841
 A	js/jquery.hoverIntent.minified.js	015bbbd01da16828e415247b665a3cb7
 A	js/nice_menus.js	a3a2eeebf1f1b77688d5c29dd833245f
 A	js/superfish.js	ffc3a0cd293ca96904e0db8a89d78649
 A	nice_menus.admin.inc	e2ff4c51a31f07b970ecd30018b1710e
+D	nice_menus.css	
 M	nice_menus.info	523a527cff6266cd31d91fefbf9b31bc
 M	nice_menus.install	9cfd35955659cc412251cf34db0e117c
 D	nice_menus.js	
 M	nice_menus.module	2280e4df598c76b271dd408e38dfb9eb
-D	po/ja.po	
-D	po/nice_menus.pot	
+D	nice_menus_default-rtl.css	
+D	nice_menus_default.css	
+D	screenshot-drupal.org.png	
+D	superfish/js/jquery.bgiframe.min.js	
+D	superfish/js/jquery.hoverIntent.minified.js	
+D	superfish/js/superfish.js	
+D	translations/de.po	
 D	translations/nice_menus.pot	
-D	translations/sk.po	
 D	translations/sv.po	

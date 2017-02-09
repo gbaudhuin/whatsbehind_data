@@ -1,4 +1,6 @@
 A	.travis.yml	00b7f3afc5d814aba5ef33f50f2f079f
+A	README.md	da5e562f9dbcc8be350e782364c52f21
+D	README.txt	
 M	includes/migrate/7200/og_og_membership.migrate.inc	df77624a7c21e8dea9aa3fca25569950
 M	includes/migrate/7200/og_roles.migrate.inc	121ba463bdf9490749093b6c9e60f96a
 M	includes/views/handlers/og_handler_field_og_membership_link_delete.inc	ecc04668bdf52ed6db39cc8ca120c4c4

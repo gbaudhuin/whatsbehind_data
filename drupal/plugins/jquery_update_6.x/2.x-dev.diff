@@ -5,16 +5,14 @@ A	jquery_update.api.php	fe5d580a70ca41f549eb705c1cb88f37
 M	jquery_update.info	47bc4494654c7fce4d0ad06f2be86d22
 M	jquery_update.install	97b44c6decf559909d796f311c485dae
 M	jquery_update.module	8c7489b09dab2b5635e5d13affd8c626
-A	replace/ahah.js	15c0bcb0994e2c7087f589bc5fde6c4a
+M	replace/ahah.js	15c0bcb0994e2c7087f589bc5fde6c4a
 M	replace/farbtastic.js	8c239f2305be545bf88555b8150c7a33
-A	replace/jquery.form.js	80b1cb9135132b9ecfbf4e22ccea9354
 D	replace/jquery.js	
 D	replace/jquery.min.js	
-D	replace/jquery.packed.js	
 A	replace/jquery/1.3/jquery.js	e4af2b4805203f1ac490ad67531b848b
 A	replace/jquery/1.3/jquery.min.js	bb381e2d19d8eace86b34d20759491a5
 A	replace/jquery/1.7/jquery.js	273e017fd0bef143258516bdee173a1e
 A	replace/jquery/1.7/jquery.min.js	ddb84c1587287b2df08966081ef063bf
-A	replace/tabledrag.js	7f7acd03101018f4472667f0da43cc04
-A	replace/teaser.js	a067c20d13ffec2a719e7e7e255d8f95
+M	replace/tabledrag.js	7f7acd03101018f4472667f0da43cc04
+M	replace/teaser.js	a067c20d13ffec2a719e7e7e255d8f95
 D	translations/ja.po	

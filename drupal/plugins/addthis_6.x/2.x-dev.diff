@@ -1,9 +1,9 @@
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	660f50564ee921a5a3a4172a8f249e7b
-A	addthis.admin.inc	f5070921f63dca6115c6f94aa28b68e3
+M	README.txt	660f50564ee921a5a3a4172a8f249e7b
+M	addthis.admin.inc	f5070921f63dca6115c6f94aa28b68e3
 M	addthis.css	96d8cbff3ed41704eaa707bcdc4dc9f6
 M	addthis.info	6ff6f676fb9fe24559d16e98524e8656
-A	addthis.install	807854c9de35e6a80ce9fb372d091883
+M	addthis.install	807854c9de35e6a80ce9fb372d091883
 M	addthis.module	d40fd15e7365f0bd3735ad9a667d1b81
-A	addthis.views.inc	dada68a70fd3d2dccb5481ee1f3c7372
-A	addthis_handler_field_service_links.inc	08a56f73c996e9560ca78820f112c12f
+M	addthis.views.inc	dada68a70fd3d2dccb5481ee1f3c7372
+M	addthis_handler_field_service_links.inc	08a56f73c996e9560ca78820f112c12f

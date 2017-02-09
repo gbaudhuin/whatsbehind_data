@@ -1,7 +1,7 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	8ad2dc4c0a4b95db03e030165b09e137
-M	block-og_menu-1.tpl.php	16394a6a8caf098f182f13433904511a
-M	og_menu.info	d7f31cfd13dcbc8f09f5aea6ba91816c
-M	og_menu.install	f8fe45972c3972b4fb1507ceef9731cd
-M	og_menu.js	e8e67f6d0e1a01b231d0c2b9d1aeb07c
-M	og_menu.module	0e442b0bc5c7dc1930dc7b122a79d90d
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.TXT	8ad2dc4c0a4b95db03e030165b09e137
+A	block-og_menu-1.tpl.php	16394a6a8caf098f182f13433904511a
+A	og_menu.info	d7f31cfd13dcbc8f09f5aea6ba91816c
+A	og_menu.install	f8fe45972c3972b4fb1507ceef9731cd
+A	og_menu.js	e8e67f6d0e1a01b231d0c2b9d1aeb07c
+A	og_menu.module	0e442b0bc5c7dc1930dc7b122a79d90d

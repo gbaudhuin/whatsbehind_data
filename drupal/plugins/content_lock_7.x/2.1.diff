@@ -2,6 +2,8 @@ D	API.txt
 M	README.txt	232108e17930fd4b65b04c6107b86bcd
 M	content_lock.admin.inc	970f26f094f1ec95ef53246ba27a7cdd
 M	content_lock.admin.js	a48786b08b262e32ed18cd6ad807c99e
+D	content_lock.api.inc	
+A	content_lock.api.php	3414c0711526bd49bda85fe22855273f
 M	content_lock.info	33168c7cb80752b5dc3f09fa34fa03cc
 M	content_lock.install	de3c23bbd4b189e82d9b888228f9cb4d
 M	content_lock.module	a3426f5f45a164e62ee76580e3344ebb
@@ -12,8 +14,10 @@ M	modules/content_lock_timeout/content_lock_timeout.info	610cb3260ea227df874580b
 M	modules/content_lock_timeout/content_lock_timeout.install	785fc12cf10857eb640707fd49e3eab4
 M	modules/content_lock_timeout/content_lock_timeout.module	dae84f2dbbcf20ee728abb0b394ec8ff
 A	plugins/access/node_lock.inc	7f37569fec20b7a7e0e6ff2e838a902e
+A	views/ContentLockViewsHandlerFieldLocked.inc	8519d7717b91f83054dad1fe8aba7f4b
 A	views/ContentLockViewsHandlerFilterLocked.inc	7249e1900d45ab30eeb131ae8edc4304
 A	views/ContentLockViewsHandlerSortLocked.inc	1fe150a346527e094a07bb863f740df9
 M	views/content_lock.views.inc	fd1ef8040965b83e37c0070982b9bbb4
+D	views/views_handler_field_is_locked.inc	
 D	views/views_handler_filter_is_locked.inc	
 D	views/views_handler_sort_is_locked.inc	

@@ -1,7 +1,5 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	62c3c9691f7f4c95b6cf8ba6de4f2c66
-A	todo_filter.css	ee1eaa17a5c134050b108f605f40e4e8
-A	todo_filter.info	79c295f0fa105ce458b371e31100490a
+M	todo_filter.css	ee1eaa17a5c134050b108f605f40e4e8
+M	todo_filter.info	79c295f0fa105ce458b371e31100490a
 A	todo_filter.install	4e1c15a6263baee1ea77799687a1cdad
-A	todo_filter.js	fccba1a74da34d4f268d72365612fa99
-A	todo_filter.module	76b8086f7bf277771ff5fc4e9931a37a
+M	todo_filter.js	fccba1a74da34d4f268d72365612fa99
+M	todo_filter.module	76b8086f7bf277771ff5fc4e9931a37a

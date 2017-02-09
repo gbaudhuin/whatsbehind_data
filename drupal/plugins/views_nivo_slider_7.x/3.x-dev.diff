@@ -1,20 +1,2 @@
-A	.gitignore	d476d483362c1701bcf9109c09a384df
-D	js/jquery.nivo.slider.pack.js	
-D	js/license.txt	
-D	js/nivo-slider.css	
-D	styles/default/arrows.png	
-D	styles/default/bullets.png	
-D	styles/default/custom-nivo-slider.css	
-A	tests/vns.test	2f1b88f2157bb3991d62e6eeb5ddb15b
-M	views-nivo-slider-view.tpl.php	fa172acb326da63c416f40bf03d89dbc
-M	views_nivo_slider.css	66c837622b8d04eaf960a7d6baaa98fd
 M	views_nivo_slider.info	e68e551f801d142c2d7d6e94a3a8a6cd
-M	views_nivo_slider.js	903fd133334ef34e0fff3e6f2ac22c20
-M	views_nivo_slider.module	708ebde9e0aba815036573d48e2b0792
-M	views_nivo_slider.views.inc	72548ae2a5dc20eb1e434c058d286e1f
-M	views_nivo_slider_plugin_row_nivo_sliderfields.inc	7533f89cbc541e63fa4db1018a033d24
-M	views_nivo_slider_style_plugin.inc	5fa3844aa49eade25707b5228392be83
-A	views_nivo_slider_test/views_nivo_slider_test.features.inc	c5c69dbb9f29978b33dfedc65bd8b094
-A	views_nivo_slider_test/views_nivo_slider_test.info	ef81feb2c99537dd34430617d171de39
-A	views_nivo_slider_test/views_nivo_slider_test.module	bcbcc80181a69d437bfc92659360dc44
-A	views_nivo_slider_test/views_nivo_slider_test.views_default.inc	b44696980f4573db7187c545d9eb5870
+M	views_nivo_slider_test/views_nivo_slider_test.info	ef81feb2c99537dd34430617d171de39

@@ -1,47 +1,16 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	64e53e7760e15aaa5cb64b3c2227fed2
-D	data.api.php	
-M	data.info	18522ce28643e6e7d81f7b13c204bc6e
-M	data.install	912a12eba872d2bb5321be5fa3d06c3a
-M	data.module	6fb1518a32f82c9eb905238b13e28ada
-M	data.views.inc	f73cc6e802951e0f8152e4a295eb0bfb
-D	data_node/data_node.admin.inc	
-D	data_node/data_node.css	
-D	data_node/data_node.info	
-D	data_node/data_node.install	
-D	data_node/data_node.js	
-D	data_node/data_node.module	
-D	data_node/data_node.theme.inc	
-D	data_node/views/data_node.views.inc	
-D	data_node/views/data_node_views_handler_field_add_remove.inc	
-D	data_node/views/data_node_views_handler_field_item_count.inc	
-D	data_node/views/data_node_views_handler_field_node_list.inc	
-D	data_search/data_search.admin.inc	
-D	data_search/data_search.info	
-D	data_search/data_search.install	
-D	data_search/data_search.module	
-D	data_taxonomy/data_taxonomy.admin.inc	
-D	data_taxonomy/data_taxonomy.info	
-D	data_taxonomy/data_taxonomy.install	
-D	data_taxonomy/data_taxonomy.module	
-D	data_taxonomy/theme/data-taxonomy-tagging-form.tpl.php	
-D	data_taxonomy/theme/data_taxonomy.css	
-D	data_taxonomy/theme/data_taxonomy.js	
-D	data_taxonomy/views/data_taxonomy.views.inc	
-D	data_taxonomy/views/data_taxonomy_views_handler_field_form.inc	
-D	data_taxonomy/views/data_taxonomy_views_handler_field_item_count.inc	
-M	data_ui/data_ui.admin.inc	09d0e6b24cc1fe86161870dcbbabc672
-M	data_ui/data_ui.info	55c2186fc429a9472c3d63b3ea8a531f
-M	data_ui/data_ui.module	e23a3d9c00c275cc84ead835adb43210
-M	data_ui/data_ui.views_default.inc	a8c9d30b1e703dad94f9da8d8a0442f0
-M	data_ui/tests/data_ui.test	6001f38f1ddb0b5658add34627e234be
-M	data_ui/tests/data_ui_test.info	eedd549da908a156e17fe571e28947af
-D	data_ui/tests/data_ui_test.install	
-M	data_ui/tests/data_ui_test.module	775812121a1814d6289317348dd7ab50
-D	data_vbo/data_vbo.info	
-D	data_vbo/data_vbo.module	
-D	includes/DataHandler.inc	
-M	tests/data.test	61f250b2419ea34309a824c693076e6b
-M	tests/data.test.inc	5dafd7931ae736500c232bec17154d2b
-D	views/views_handler_field_data_markup.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	64e53e7760e15aaa5cb64b3c2227fed2
+A	data.inc	2dcf1f4316efd35af6e5ad075d52f155
+A	data.info	18522ce28643e6e7d81f7b13c204bc6e
+A	data.install	912a12eba872d2bb5321be5fa3d06c3a
+A	data.module	6fb1518a32f82c9eb905238b13e28ada
+A	data.views.inc	f73cc6e802951e0f8152e4a295eb0bfb
+A	data_ui/data_ui.admin.inc	09d0e6b24cc1fe86161870dcbbabc672
+A	data_ui/data_ui.info	55c2186fc429a9472c3d63b3ea8a531f
+A	data_ui/data_ui.module	e23a3d9c00c275cc84ead835adb43210
+A	data_ui/data_ui.views_default.inc	a8c9d30b1e703dad94f9da8d8a0442f0
+A	data_ui/tests/data_ui.test	6001f38f1ddb0b5658add34627e234be
+A	data_ui/tests/data_ui_test.info	eedd549da908a156e17fe571e28947af
+A	data_ui/tests/data_ui_test.module	775812121a1814d6289317348dd7ab50
+A	tests/data.test	61f250b2419ea34309a824c693076e6b
+A	tests/data.test.inc	5dafd7931ae736500c232bec17154d2b

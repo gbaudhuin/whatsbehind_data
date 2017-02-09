@@ -1,5 +1,1 @@
-A	CHANGELOG.txt	601c0c9688c8519ca87604fa73554440
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	bundle_copy.api.php	eeec5487faaaefff12c56fa9204ba4e8
-A	bundle_copy.info	96d773d7681ee7fc7435ad3f4ef56bc0
-A	bundle_copy.module	b03f3a54ea3101cc7abac3637db652dd
+M	bundle_copy.info	96d773d7681ee7fc7435ad3f4ef56bc0

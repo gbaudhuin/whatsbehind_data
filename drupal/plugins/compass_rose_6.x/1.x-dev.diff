@@ -1,14 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	compass_rose.info	82dccfd70a29f56c948bde22ede82214
-A	compass_rose.install	d6501a1ca2c5878956e743b5f6d39279
-A	compass_rose.module	d34e0cb59d748b70ae53c7de4df77120
-A	css/compass_rose.css	024d464b61afcc6f9bef3cf88d1cb1e9
-A	img/compass_rose0.png	aeb8a6f0e0b52f9c4be15d18cbf8a842
-A	img/compass_rose1.png	c498d31dbcc18d022d16c586d458abbf
-A	img/compass_rose2.png	91f6526e08355b2de95f13dc89b8b8ae
-A	img/compass_rose3.png	d8f0288f94c6b8893002b935d2c413cb
-A	img/compass_rose4.png	303d51f7e387220e12f4b4e1436e9218
-A	img/compass_rose5.png	52ef2e25414d990bbdfbb24b7b630f42
-A	img/compass_rose6.png	7fed99ba240ba1a48ecb8eaf770e3a5e
-A	img/compass_rose7.png	e4c5c2a04d74a6c4c9c049cf987bcfaa
-A	js/compass_rose.js	96b4ca9548b4ecd24d53bea5be530b0a
+D	README.txt	
+M	compass_rose.info	82dccfd70a29f56c948bde22ede82214

@@ -1,0 +1,12 @@
+M	README.txt	8258ac3e9ebba86da000cb8dd4fb8f4b
+M	config/install/mathjax.settings.yml	957e0aa828b1231987c81019a616c33e
+M	config/schema/mathjax.schema.yml	dd8cd2b4263b1b9af1736260eff102f9
+M	js/config.js	871cf2931272bc5eb435ce63af8a638b
+M	js/setup.js	e1dc22e0cdbe1d806c61e355e6641ceb
+M	mathjax.info.yml	9ee5ffcc9b1fe4b190b32c511fb50e86
+M	mathjax.install	ff50487c664c7fb8c1e6f987d6ed8714
+M	mathjax.libraries.yml	6751c06ea26c108e6aaf628b1f7f0454
+M	mathjax.module	b4e4035d6d5a43ae591adb856a92775d
+M	src/Form/MathjaxSettingsForm.php	dc8a28ece91d65a7ef0ceddb51a27900
+M	src/Plugin/Filter/MathjaxFilter.php	fde9a81e07174c786e3495aa90bd2747
+M	src/Tests/MathjaxWebTest.php	87229d2008cbe55cef3b0ac8efc14c63

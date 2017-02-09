@@ -1,47 +1,12 @@
-D	.gitignore	
-M	CHANGELOG.txt	56950d2003fe5c88ea31fafeb8882d45
-M	INSTALL.txt	e5643176f134e98c8726076c6591339d
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	MAIL.txt	738c86efc717c0af42aed5873f079794
-M	UPGRADE_FROM_JOBTRACK.txt	792f1a8500257918f42dca33b8fc8a19
+A	CHANGELOG.txt	56950d2003fe5c88ea31fafeb8882d45
+A	INSTALL.txt	e5643176f134e98c8726076c6591339d
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	MAIL.txt	738c86efc717c0af42aed5873f079794
+A	UPGRADE_FROM_JOBTRACK.txt	792f1a8500257918f42dca33b8fc8a19
 A	comment.module.patch	9be4e3e92fc7bfe34f72a549a31b8f35
-M	support-tickets.css	e436868b3d81aa2132db91638a297429
-M	support.admin.inc	6de1cae3a283b7172e5caa9c6f066de5
-M	support.info	c87ec656ad0097c08b571440def57a94
-M	support.install	774f842d58f6d04c8fad3455def914ee
-M	support.module	95647201f891a25420ab3b9b0ec684a1
-M	support.user.inc	f4185d043c8b19bf5c315dda83bd81fe
-D	support_charts/INSTALL.txt	
-D	support_charts/support_charts.css	
-D	support_charts/support_charts.info	
-D	support_charts/support_charts.module	
-D	support_mailcmd/support_mailcmd.info	
-D	support_mailcmd/support_mailcmd.module	
-D	support_overview/support-overview.css	
-D	support_overview/support_overview.info	
-D	support_overview/support_overview.module	
-D	support_pm/INSTALL.txt	
-D	support_pm/support_pm.admin.inc	
-D	support_pm/support_pm.info	
-D	support_pm/support_pm.install	
-D	support_pm/support_pm.js	
-D	support_pm/support_pm.module	
-D	support_reference/jquery-autocomplete/changelog.txt	
-D	support_reference/jquery-autocomplete/jquery.autocomplete.css	
-D	support_reference/jquery-autocomplete/jquery.autocomplete.js	
-D	support_reference/jquery-autocomplete/lib/jquery.ajaxQueue.js	
-D	support_reference/jquery-autocomplete/lib/jquery.bgiframe.min.js	
-D	support_reference/jquery-autocomplete/todo	
-D	support_reference/support_reference.css	
-D	support_reference/support_reference.info	
-D	support_reference/support_reference.install	
-D	support_reference/support_reference.js	
-D	support_reference/support_reference.module	
-D	support_solr/support_solr.info	
-D	support_solr/support_solr.module	
-D	support_substatus/INSTALL.txt	
-D	support_substatus/support_substatus.admin.inc	
-D	support_substatus/support_substatus.info	
-D	support_substatus/support_substatus.install	
-D	support_substatus/support_substatus.js	
-D	support_substatus/support_substatus.module	
+A	support-tickets.css	e436868b3d81aa2132db91638a297429
+A	support.admin.inc	6de1cae3a283b7172e5caa9c6f066de5
+A	support.info	c87ec656ad0097c08b571440def57a94
+A	support.install	774f842d58f6d04c8fad3455def914ee
+A	support.module	95647201f891a25420ab3b9b0ec684a1
+A	support.user.inc	f4185d043c8b19bf5c315dda83bd81fe

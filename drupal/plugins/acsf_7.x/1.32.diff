@@ -1,7 +1,9 @@
 M	acsf.info	d8c137590a1860d3f381fdb895766387
 M	acsf_duplication/acsf_duplication.info	944f922fe576a7190f2ce5fe62cb5ec6
 M	acsf_init/acsf_init.drush.inc	a2a64e0bde9557511dc8f45e0739254f
+A	acsf_init/lib/sites/default/acsf.legacy.default.settings.php	ab4d935933395cfba56a89ad0c31b918
 A	acsf_init/lib/sites/default/acsf.settings.php	fc75aef2d19fabc1ae7d50eaf013402b
+D	acsf_init/lib/sites/default/settings.php	
 D	acsf_init/lib/sites/g/.htaccess	
 M	acsf_openid/acsf_openid.info	1ff88b1040595510fa1f34c2c343e1c7
 M	acsf_pingdom/acsf_pingdom.info	1eae6e83c10a10b2d2ddfd123edfe022

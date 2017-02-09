@@ -12,6 +12,8 @@ M	krumo/README	81de8eee92aee8b277291280d3197ba7
 M	krumo/TODO	55f133f98e689b40b57240c614615a6d
 M	krumo/VERSION	f9b7c0927d841f33c8708e7250892707
 M	krumo/class.krumo.php	c8e253119063ef450070e396650dd635
+A	krumo/docs/Krumo/_class.krumo.php.html	4fd107e8dc0b0bdf4c626a3270596b87
+D	krumo/docs/Krumo/_class_krumo_php.html	
 M	krumo/docs/Krumo/krumo.html	e6b748064cf86197a925369955bafac1
 M	krumo/docs/blank.html	76ba90ea34835aece2b471ce07fd4c84
 M	krumo/docs/classtrees_Krumo.html	8f6d6822e95cdd9faf5a77d306576822

@@ -1,3 +1,23 @@
+D	po/de.po	
+D	po/es.po	
+D	po/fr.po	
+D	po/gl.po	
+D	po/he.po	
+D	po/hu.po	
+D	po/ja.po	
+D	po/nl.po	
+D	po/ru.po	
+D	po/tagadelic.pot	
 M	tagadelic.info	58f75410f3938b1cedc62fdb639c1ae6
 M	tagadelic.module	041413b020033205021ba6cea9cf272a
+A	translations/de.po	b70eafadf98f3c50852bb097245e43e5
+A	translations/es.po	c76c4939efbbe8ec6f86125ec1c6228b
+A	translations/fr.po	33b552f358a59cda7e305387a5bf4b05
+A	translations/gl.po	91ce8a116d4282ac8d5c3657666e259d
+A	translations/he.po	525826f096f8ba17a7ee4f80e624d994
+A	translations/hu.po	6afd2d93e5627b03cb8cf89ba1d99b20
+A	translations/ja.po	26b46fda0b527c3efbc52982c376cbcf
+A	translations/nl.po	ee55539eb79d505ee3d9c29997c211f1
+A	translations/ru.po	01d43e62d0e14c3efc3364b4899cca4a
+A	translations/tagadelic.pot	a186a5cafaf52853cde256f3b57ac017
 A	translations/zh-hans.po	ad97b3eb6d4b3b3fbf5d4080673411c1

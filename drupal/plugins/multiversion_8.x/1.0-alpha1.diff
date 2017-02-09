@@ -1,20 +1,17 @@
-M	.travis.yml	7b24453b107253a307366da715f692f0
-D	.travis/drupal-8.1.x.make.yml	
-D	.travis/drupal-8.2.x.make.yml	
-D	.travis/drupal-8.3.x.make.yml	
+A	.travis.yml	7b24453b107253a307366da715f692f0
 A	.travis/drupal.make.yml	b3062251f1f88e7baf7f5e12955cfc3c
-M	README.md	f0e6ba78c9f63ca497068d6d48e53241
-M	composer.json	223af6cb1111af8b5394300e60829a85
-D	config/install/multiversion.type.basic.yml	
+A	.travis/nginx.conf	e6215f14c52a3d52e19b00761d6189bf
+A	.travis/php-fpm.conf	0c169fb5ca222f9719e0b33915245aac
+A	.travis/php.ini	803f1fa8fa8de96d2cd8995f02563164
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	f0e6ba78c9f63ca497068d6d48e53241
+A	composer.json	223af6cb1111af8b5394300e60829a85
 A	config/install/multiversion.workspace.default.yml	4a852e60b6eb35de56f81ef8bbd1fd8f
 A	config/schema/multiversion.schema.yml	5f9a88c285840b63245e485d5878194b
-D	config/schema/workspace_type.schema.yml	
-D	multiversion.drush.inc	
-M	multiversion.info.yml	56a0d06a0a4bf0f7cdf06a7655192bf7
-M	multiversion.install	f74251f5731d103323c602091b2c6c85
-M	multiversion.module	c0e8024e62dd6358fa6850e03c0c9ed8
-D	multiversion.permissions.yml	
-M	multiversion.services.yml	d76b3a3597ac72f4ab7cb206554e1a3d
+A	multiversion.info.yml	56a0d06a0a4bf0f7cdf06a7655192bf7
+A	multiversion.install	f74251f5731d103323c602091b2c6c85
+A	multiversion.module	c0e8024e62dd6358fa6850e03c0c9ed8
+A	multiversion.services.yml	d76b3a3597ac72f4ab7cb206554e1a3d
 A	multiversion_ui/css/multiversion_ui.admin.css	00a3302d925874c4ba5ec5968ddd4c22
 A	multiversion_ui/multiversion_ui.info.yml	36a53cb7666b74c99c9ba0a9cbaa607b
 A	multiversion_ui/multiversion_ui.libraries.yml	84f215b46959aa58d54795c115017318
@@ -31,103 +28,84 @@ A	multiversion_ui/src/Plugin/Derivative/RevisionsContextual.php	4c5babd7dd8ea256
 A	multiversion_ui/src/Plugin/Derivative/RevisionsLocalTask.php	641a20f2846994ef03139a61cb367433
 A	multiversion_ui/src/Routing/RouteSubscriber.php	da49f43273bed880a3aedd56d28d6e02
 A	multiversion_ui/templates/multiversion-rev.html.twig	7a5babd3aae76189250edbdbf96008ec
-M	src/CacheBackendDecorator.php	cf440e57c0388e0d0228f243327f6ab3
-M	src/CommentStatistics.php	d1eef87700f10937237c23eb2f6bd67b
-D	src/Entity/Index/ComplexLcaResolver.php	
-M	src/Entity/Index/EntityIndex.php	ff2c1419895880bfb0567ec4d4bb0fcc
-M	src/Entity/Index/EntityIndexInterface.php	d7482e0b287de9618776d1a0341320b1
-D	src/Entity/Index/IndexInterface.php	
-D	src/Entity/Index/MultiversionIndexFactory.php	
-M	src/Entity/Index/RevisionIndex.php	f9e78f46d40c5f91e738f9e21347bec5
-M	src/Entity/Index/RevisionTreeIndex.php	8e904868f0e1090ba50278d5f47d009d
-M	src/Entity/Index/RevisionTreeIndexInterface.php	6dddeaecb87052ef90be491a18e1d473
-M	src/Entity/Index/SequenceIndex.php	d2026f831650187d3d8034858c90c6f8
-M	src/Entity/Index/SequenceIndexInterface.php	477ddd2c9c8ef91beac6a64f82a60308
-M	src/Entity/Index/UuidIndex.php	b545be4305b809be4bb1628e8ce710f1
-D	src/Entity/MenuLinkContent.php	
-M	src/Entity/Query/QueryInterface.php	50c71037406d4c0bccd3a05c400bde08
-M	src/Entity/Query/QueryTrait.php	1a7a38c255d7bd8bfd0fa32bcefe7f87
-M	src/Entity/Storage/ContentEntityStorageInterface.php	6c3ab9ed818a30f4498f608a3fbca2da
-M	src/Entity/Storage/ContentEntityStorageTrait.php	11afd48cc25b90bb60e21f772712f797
-M	src/Entity/Storage/Sql/CommentStorage.php	3663518663568eff240f78c0bfa8871e
-D	src/Entity/Storage/Sql/CommentStorageSchema.php	
-D	src/Entity/Storage/Sql/ContentEntityStorageSchema.php	
-D	src/Entity/Storage/Sql/FileStorageSchema.php	
-D	src/Entity/Storage/Sql/MediaStorage.php	
-M	src/Entity/Storage/Sql/MenuLinkContentStorage.php	f008c028d59158e666e2c07d93cc7e1d
-D	src/Entity/Storage/Sql/MenuLinkContentStorageSchema.php	
-M	src/Entity/Storage/Sql/NodeStorage.php	0038a4f14f95d8af194b5ddfdf022f16
-D	src/Entity/Storage/Sql/NodeStorageSchema.php	
-M	src/Entity/Storage/Sql/TermStorage.php	eaa48ef5fdd3d0b37c7a21c97ae20cfd
-D	src/Entity/Storage/Sql/TermStorageSchema.php	
-M	src/Entity/Workspace.php	e4b8157238aac6525e8501d257d956e9
-M	src/Entity/WorkspaceInterface.php	84b180ea0c7b097bebec2f09053ad122
-D	src/Entity/WorkspaceType.php	
-D	src/Entity/WorkspaceTypeInterface.php	
-D	src/EntityReference.php	
-D	src/EntityReferenceFieldTrait.php	
-D	src/EntityReferenceItem.php	
-D	src/Field/RevisionsProperty.php	
-D	src/Field/UuidItem.php	
-D	src/FileItem.php	
-D	src/ImageItem.php	
-M	src/IsStub.php	a73eecacc8683bbbbeaf2c4d5a4a7a66
-M	src/MenuTreeStorage.php	aace09944f6fe1ae2257dd54e0ffc967
+A	src/CacheBackendDecorator.php	cf440e57c0388e0d0228f243327f6ab3
+A	src/CommentStatistics.php	d1eef87700f10937237c23eb2f6bd67b
+A	src/Entity/Exception/ConflictException.php	89c5aa221bf1863079135c70400236e3
+A	src/Entity/Exception/MultiversionException.php	78b42b41038ebc946a068a7cdd706587
+A	src/Entity/Exception/MultiversionExceptionInterface.php	9daba24605353f52061aee4cdc2b6a46
+A	src/Entity/Index/EntityIndex.php	ff2c1419895880bfb0567ec4d4bb0fcc
+A	src/Entity/Index/EntityIndexInterface.php	d7482e0b287de9618776d1a0341320b1
+A	src/Entity/Index/RevisionIndex.php	f9e78f46d40c5f91e738f9e21347bec5
+A	src/Entity/Index/RevisionIndexInterface.php	2a04914cb9b8d3a2a2d1282e05c0f9f8
+A	src/Entity/Index/RevisionTreeIndex.php	8e904868f0e1090ba50278d5f47d009d
+A	src/Entity/Index/RevisionTreeIndexInterface.php	6dddeaecb87052ef90be491a18e1d473
+A	src/Entity/Index/SequenceIndex.php	d2026f831650187d3d8034858c90c6f8
+A	src/Entity/Index/SequenceIndexInterface.php	477ddd2c9c8ef91beac6a64f82a60308
+A	src/Entity/Index/UuidIndex.php	b545be4305b809be4bb1628e8ce710f1
+A	src/Entity/Index/UuidIndexInterface.php	ded8ef315ad67289ccae1af682f66743
+A	src/Entity/Query/QueryInterface.php	50c71037406d4c0bccd3a05c400bde08
+A	src/Entity/Query/QueryTrait.php	1a7a38c255d7bd8bfd0fa32bcefe7f87
+A	src/Entity/Query/Sql/Query.php	903f7b926314e76dc042cc6ac1a431a8
+A	src/Entity/Query/Sql/QueryFactory.php	579a47176cb18c1b701e6fd594173eaf
+A	src/Entity/Storage/ContentEntityStorageInterface.php	6c3ab9ed818a30f4498f608a3fbca2da
+A	src/Entity/Storage/ContentEntityStorageTrait.php	11afd48cc25b90bb60e21f772712f797
+A	src/Entity/Storage/Sql/CommentStorage.php	3663518663568eff240f78c0bfa8871e
+A	src/Entity/Storage/Sql/ContentEntityStorage.php	26fcf6ab078b05f1b92aafd44571de60
+A	src/Entity/Storage/Sql/MenuLinkContentStorage.php	f008c028d59158e666e2c07d93cc7e1d
+A	src/Entity/Storage/Sql/NodeStorage.php	0038a4f14f95d8af194b5ddfdf022f16
+A	src/Entity/Storage/Sql/TermStorage.php	eaa48ef5fdd3d0b37c7a21c97ae20cfd
+A	src/Entity/Storage/Sql/UserStorage.php	26f180e9033083ab7c6e5a3e161b49e8
+A	src/Entity/Workspace.php	e4b8157238aac6525e8501d257d956e9
+A	src/Entity/WorkspaceInterface.php	84b180ea0c7b097bebec2f09053ad122
+A	src/IsStub.php	a73eecacc8683bbbbeaf2c4d5a4a7a66
+A	src/MenuTreeStorage.php	aace09944f6fe1ae2257dd54e0ffc967
 A	src/MigratePassword.php	8d1283de55993328fe1ecc6063d3d9cd
-M	src/MultiversionManager.php	e784dc79aeef3dbde2e77a7965f011d6
-M	src/MultiversionManagerInterface.php	72782812c8859334e17ff25111db2a82
-M	src/MultiversionMigration.php	383b5c2aaad2f781fb477fe427fe4c3d
-M	src/MultiversionMigrationInterface.php	ba3310067988b7b96627d04314569c2d
-M	src/MultiversionServiceProvider.php	64d3bf88cc70ab85c1b8c238c0f4c8f3
-M	src/NewEdit.php	f44d1084a3ac19146cc62fda66aab2b4
+A	src/MultiversionManager.php	e784dc79aeef3dbde2e77a7965f011d6
+A	src/MultiversionManagerInterface.php	72782812c8859334e17ff25111db2a82
+A	src/MultiversionMigration.php	383b5c2aaad2f781fb477fe427fe4c3d
+A	src/MultiversionMigrationInterface.php	ba3310067988b7b96627d04314569c2d
+A	src/MultiversionServiceProvider.php	64d3bf88cc70ab85c1b8c238c0f4c8f3
+A	src/NewEdit.php	f44d1084a3ac19146cc62fda66aab2b4
 A	src/Plugin/Block/WorkspaceBlock.php	a905bf3f72501a14013efb33c78065fe
-M	src/Plugin/Field/FieldType/RevisionItem.php	a123b4bc3df87db68da262f912e43215
-M	src/Plugin/Field/FieldType/WorkspaceReferenceItem.php	7d7ea914c75ce84ef12bb5e28dd177dc
-M	src/Plugin/migrate/destination/ContentEntityBase.php	d532fcd5b4387ca9df946ab62ceffdd6
-M	src/Plugin/migrate/destination/TempStore.php	59758b3310d4b20490fb580912c05bc1
-D	src/Plugin/migrate/process/TextFieldProcess.php	
-M	src/Plugin/migrate/source/ContentEntityBase.php	6231748409379235c8ede2270e03e263
-M	src/Plugin/migrate/source/SourcePluginBase.php	37d66620565e20652b4582f4670e4453
-M	src/Plugin/migrate/source/TempStore.php	57deebba533140743b5a4fd781dc7b57
-M	src/Plugin/views/filter/CurrentWorkspace.php	2b56ca2eb032a9ccb8b20b3a459ff43c
-D	src/StreamWrapper/MigrateStream.php	
-M	src/Tests/CommentStatisticsTest.php	73c73518039e792fa567972ae6320168
-D	src/Tests/ComplexLcaResolverTest.php	
-D	src/Tests/ConflictTrackerTest.php	
-M	src/Tests/EntityQueryTest.php	9dda7b04b6d3d335a80a2eed17340fa8
-M	src/Tests/EntityStorageTest.php	641f26793114c8b49269ec75e14f3d85
-M	src/Tests/FieldTestBase.php	afe97f584cdb4bc6f067b15e01d75eec
-D	src/Tests/GraphCreationTest.php	
-M	src/Tests/MenuLinkTest.php	171f77bdfc0b2c188907b86800502748
+A	src/Plugin/Field/FieldType/RevisionItem.php	a123b4bc3df87db68da262f912e43215
+A	src/Plugin/Field/FieldType/WorkspaceReferenceItem.php	7d7ea914c75ce84ef12bb5e28dd177dc
+A	src/Plugin/migrate/destination/ContentEntityBase.php	d532fcd5b4387ca9df946ab62ceffdd6
+A	src/Plugin/migrate/destination/TempStore.php	59758b3310d4b20490fb580912c05bc1
+A	src/Plugin/migrate/source/ContentEntityBase.php	6231748409379235c8ede2270e03e263
+A	src/Plugin/migrate/source/SourcePluginBase.php	37d66620565e20652b4582f4670e4453
+A	src/Plugin/migrate/source/TempStore.php	57deebba533140743b5a4fd781dc7b57
+A	src/Plugin/views/filter/CurrentWorkspace.php	2b56ca2eb032a9ccb8b20b3a459ff43c
+A	src/Tests/CommentStatisticsTest.php	73c73518039e792fa567972ae6320168
+A	src/Tests/EntityQueryTest.php	9dda7b04b6d3d335a80a2eed17340fa8
+A	src/Tests/EntityStorageTest.php	641f26793114c8b49269ec75e14f3d85
+A	src/Tests/FieldTestBase.php	afe97f584cdb4bc6f067b15e01d75eec
+A	src/Tests/MenuLinkTest.php	171f77bdfc0b2c188907b86800502748
 A	src/Tests/MigratePasswordTest.php	a9a82842d011f65d516b6b55c9a4a6c7
-M	src/Tests/MigrationTest.php	fa11c5bdfe22166e37f9fe08e1dfa5c1
-M	src/Tests/MultiversionManagerTest.php	32803efb4e3f8d5227979b602c3827ea
-M	src/Tests/MultiversionWebTestBase.php	3806937212b0dc20cdc577f8bc140506
-M	src/Tests/RevisionFieldTest.php	9c9ac48721df828b077af73880ae24a6
-M	src/Tests/RevisionTreeIndexTest.php	0c8f1e14366e0e7a3e0e3838ed6891bf
-M	src/Tests/SequenceIndexTest.php	b420ce8bb4d3b241b638e703bf43a6c7
-D	src/Tests/UninstallTest.php	
-M	src/Tests/UuidIndexHooksTest.php	63a747a6f791a2c26753c0c553a8530f
-M	src/Tests/UuidIndexTest.php	073bc0913bae8fd249e285fc2ecd8bac
-M	src/Tests/Views/DeletedTest.php	6270a85a5ccc298dbfa9365c50cb3a7f
-M	src/Tests/Views/MultiversionTestBase.php	753e1824b185e151aa801bc871fc2d91
-M	src/Tests/Views/WorkspaceTest.php	01a2756e9ca92f40e32bebb9ad132582
+A	src/Tests/MigrationTest.php	fa11c5bdfe22166e37f9fe08e1dfa5c1
+A	src/Tests/MultiversionManagerTest.php	32803efb4e3f8d5227979b602c3827ea
+A	src/Tests/MultiversionWebTestBase.php	3806937212b0dc20cdc577f8bc140506
+A	src/Tests/RevisionFieldTest.php	9c9ac48721df828b077af73880ae24a6
+A	src/Tests/RevisionTreeIndexTest.php	0c8f1e14366e0e7a3e0e3838ed6891bf
+A	src/Tests/SequenceIndexTest.php	b420ce8bb4d3b241b638e703bf43a6c7
+A	src/Tests/UuidIndexHooksTest.php	63a747a6f791a2c26753c0c553a8530f
+A	src/Tests/UuidIndexTest.php	073bc0913bae8fd249e285fc2ecd8bac
+A	src/Tests/Views/DeletedTest.php	6270a85a5ccc298dbfa9365c50cb3a7f
+A	src/Tests/Views/MultiversionTestBase.php	753e1824b185e151aa801bc871fc2d91
+A	src/Tests/Views/WorkspaceTest.php	01a2756e9ca92f40e32bebb9ad132582
 A	src/Tests/WorkspaceBlockTest.php	ff05de5fd4585387dabe9cbf439af252
-M	src/Tests/WorkspaceTest.php	91cea878e7497f7e6e680505280c35bb
-D	src/Workspace/ConflictTracker.php	
-D	src/Workspace/ConflictTrackerInterface.php	
-M	src/Workspace/DefaultWorkspaceNegotiator.php	b22671338018a24ba149de3d9eae666c
-M	src/Workspace/SessionWorkspaceNegotiator.php	3d2a646e6fbecdba8e4ec4e19ee77a11
-D	src/Workspace/WorkspaceAccessException.php	
-M	src/Workspace/WorkspaceManager.php	f82c66eb2a244a6db7c6c65f31d340b6
-M	src/Workspace/WorkspaceManagerInterface.php	905d0af0a1a8f9a245d4e6946ee7ac17
-M	src/Workspace/WorkspaceNegotiatorBase.php	aabeab151d7ea5bef57dec03e20d8059
-M	src/Workspace/WorkspaceNegotiatorInterface.php	39e2a6d6ee7102a6466c995b8521d039
+A	src/Tests/WorkspaceTest.php	91cea878e7497f7e6e680505280c35bb
+A	src/Workspace/DefaultWorkspaceNegotiator.php	b22671338018a24ba149de3d9eae666c
+A	src/Workspace/SessionWorkspaceNegotiator.php	3d2a646e6fbecdba8e4ec4e19ee77a11
+A	src/Workspace/WorkspaceManager.php	f82c66eb2a244a6db7c6c65f31d340b6
+A	src/Workspace/WorkspaceManagerInterface.php	905d0af0a1a8f9a245d4e6946ee7ac17
+A	src/Workspace/WorkspaceNegotiatorBase.php	aabeab151d7ea5bef57dec03e20d8059
+A	src/Workspace/WorkspaceNegotiatorInterface.php	39e2a6d6ee7102a6466c995b8521d039
 A	src/Workspace/WorkspaceSwitcherInterface.php	9d764145365aefd7a87583aae00bf135
-M	src/WorkspaceCacheContext.php	2bf37b1d96e6b370cbd6c60e68f90671
-M	tests/modules/multiversion_test_views/multiversion_test_views.info.yml	ad5a7f3d14ddb8eec125e9429fe7d7cd
-D	tests/src/Functional/ViewsUiTest.php	
-D	tests/src/Kernel/MultiversionIndexFactoryTest.php	
-M	tests/src/Unit/DefaultWorkspaceNegotiatorTest.php	eac3a001139c33977231576b7750d72c
+A	src/WorkspaceCacheContext.php	2bf37b1d96e6b370cbd6c60e68f90671
+A	tests/modules/multiversion_test_views/multiversion_test_views.info.yml	ad5a7f3d14ddb8eec125e9429fe7d7cd
+A	tests/modules/multiversion_test_views/test_views/views.view.test_current_workspace.yml	c8fb6b5998cc042c1e7c3975e5496fe9
+A	tests/modules/multiversion_test_views/test_views/views.view.test_deleted.yml	a8aab3395bb141de67c62f0e5c43b19b
+A	tests/modules/multiversion_test_views/test_views/views.view.test_not_deleted.yml	c8a3726ae303d966ec25fbdb8eb3002a
+A	tests/src/Unit/DefaultWorkspaceNegotiatorTest.php	eac3a001139c33977231576b7750d72c
 A	tests/src/Unit/SessionWorkspaceNegotiatorTest.php	ea6f397bb842192479d71d1fc85a21be
-M	tests/src/Unit/WorkspaceManagerTest.php	6626238663b9f2a3e5ca3680a4becdbf
+A	tests/src/Unit/WorkspaceManagerTest.php	6626238663b9f2a3e5ca3680a4becdbf

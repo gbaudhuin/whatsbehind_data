@@ -1,7 +1,8 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	ca9dd1c0d252d2d44db412f01a245b57
-A	statistics_advanced.admin.inc	98c5a844206649d49752db2be51249ed
-A	statistics_advanced.info	8f086d8e782f2ca3b12fa46e47b6c57d
-A	statistics_advanced.install	eb0e642dfb27cf2aa7df2402fc35d04b
-A	statistics_advanced.module	27f2ae5b4545fa24f4e4bb6ea39d3e61
-A	statistics_advanced.test	f4b7973dbd3b630b29ca4edf132b3d0e
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	ca9dd1c0d252d2d44db412f01a245b57
+M	statistics_advanced.admin.inc	98c5a844206649d49752db2be51249ed
+M	statistics_advanced.info	8f086d8e782f2ca3b12fa46e47b6c57d
+M	statistics_advanced.install	eb0e642dfb27cf2aa7df2402fc35d04b
+M	statistics_advanced.module	27f2ae5b4545fa24f4e4bb6ea39d3e61
+M	statistics_advanced.test	f4b7973dbd3b630b29ca4edf132b3d0e
+D	translations/statistics_advanced.pot	

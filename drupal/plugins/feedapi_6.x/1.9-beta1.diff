@@ -9,6 +9,7 @@ M	feedapi_node/feedapi_node.info	cd8a86b9eeaaed4247ffc2aabe195ee1
 M	feedapi_node/feedapi_node.module	a8780eb08cf1d83f84ab3dacdc395868
 D	feedapi_node/tests/feedapi_node.module.test	
 A	feedapi_node/tests/feedapi_node.test	8638c08212eac694cbc12f7c39535851
+D	feedapi_node/tests/files/feed	
 A	feedapi_stat/feedapi_stat.css	8bc85d878382e85c17417d94ba082f2a
 A	feedapi_stat/feedapi_stat.info	93b4c3b50c62c04e966ca180933ddd5e
 A	feedapi_stat/feedapi_stat.module	d9bcfa35e51686c01a54ac4af1356ffd
@@ -24,3 +25,4 @@ A	tests/feedapi_revision.test	acc5150e5f10cc91120b8d476e3e2008
 A	tests/feedapi_test_case.tinc	aa57480dacdd23775e91f0f880720129
 A	tests/feedapi_type.test	de19a3f72386a7826a9ba326b4d66404
 A	tests/feedapi_upload.test	87a7154f723bd9520dc45e053dff7ff5
+A	tests/files/feed	326313e008f4e2f7536968a05f9d8cde

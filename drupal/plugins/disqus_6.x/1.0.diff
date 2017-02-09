@@ -1,16 +1,4 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
-D	disqus.admin.inc	
-M	disqus.info	7b0f5e6199c273860186a3197c9a30d0
-D	disqus.install	
-D	disqus.js	
-M	disqus.module	4b0b235dfc7ae9f2d6c047e48ee8237c
-D	disqus.views.inc	
-D	disqus_migrate.info	
-D	disqus_migrate.install	
-D	disqus_migrate.module	
-D	include/disqus_migrate.export.inc	
-D	include/disqus_migrate.export.inc.orig	
-D	include/disqus_migrate.import.inc	
-D	include/views_handler_field_node_disqus_comments.inc	
+A	.cvsignore	4586f6c028b8c68b87dfbf66b3574e37
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	disqus.info	7b0f5e6199c273860186a3197c9a30d0
+A	disqus.module	4b0b235dfc7ae9f2d6c047e48ee8237c

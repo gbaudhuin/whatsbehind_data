@@ -3,8 +3,10 @@ M	INSTALL.txt	613d02f52a95cfee0c4020b8bcb4e8c7
 M	README.txt	e0c8c96830f01ed58ae8069f3a2a2598
 D	ddblock-block-content-array.tpl.php	
 D	ddblock-block-content.tpl.php	
+D	ddblock-block-images.tpl.php	
 A	ddblock-cycle-block-content-array.tpl.php	6dc67f136c2c6ea0150f3a8f33a88b70
 A	ddblock-cycle-block-content.tpl.php	a01775d5eb1ac899bb89951677e3fda9
+A	ddblock-cycle-block-images.tpl.php	bfb59bd2cbce50abdc2b242491c98c74
 A	ddblock-cycle-pager-content.tpl.php	6436dac1d4da55377fc753dce2ecdf9c
 M	ddblock.css	7cf4754e6acc6d8cc0a57a1ab5c39a8b
 M	ddblock.info	3a1c4ab6a9c15418928d35df885bf057

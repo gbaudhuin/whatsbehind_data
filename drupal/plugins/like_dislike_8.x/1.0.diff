@@ -1,2 +1,13 @@
-M	Tests/Controller/LikeDislikeControllerTest.php	ee554c50ecd729ea0f359e0bd4d01b99
-M	like_dislike.info.yml	ccba255e61688e84e37d64e6b962153b
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	0331d008ba741e40a3bdf33f53e91d58
+A	Tests/Controller/LikeDislikeControllerTest.php	ee554c50ecd729ea0f359e0bd4d01b99
+A	css/like_dislike.css	0b55e733ae7213b0c047e9bdca98c1af
+A	like_dislike.info.yml	ccba255e61688e84e37d64e6b962153b
+A	like_dislike.libraries.yml	5ac1f7a353ac31245390873476ba7bd5
+A	like_dislike.module	c9707bf5e517db30cb25882ef92a192e
+A	like_dislike.routing.yml	bc25914938ece657073e76e45f90ea11
+A	src/Controller/LikeDislikeController.php	fcaec2716125cb644fb54fe8b7271e7e
+A	src/Plugin/Field/FieldFormatter/LikeDislikeFormatter.php	abf12fa073ad3ab306d86c70799a476c
+A	src/Plugin/Field/FieldType/LikeDislikeField.php	c08472646654bff47366164f5ca22fe9
+A	src/Plugin/Field/FieldWidget/LikeDislikeWidget.php	5edbedbfaf8fff085ac518d727e76976
+A	templates/like-dislike.html.twig	ec2ffaf316d1b7e419cc4621e6b1bb44

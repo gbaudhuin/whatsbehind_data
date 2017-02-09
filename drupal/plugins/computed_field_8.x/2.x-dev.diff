@@ -1,0 +1,25 @@
+A	README.md	df927e66aaab2a9f79a61a73c90f7042
+M	computed_field.info.yml	ae6e52f90ae3a43f51b41e5a4a98c469
+A	computed_field_example_formatter/computed_field_example_formatter.info.yml	95cf8f17e0a4a287d0a2b164f89032e6
+A	computed_field_example_formatter/src/Plugin/Field/FieldFormatter/ComputedPhpFormatterExample.php	ca1f1f5e36681f231296f01637717a7f
+A	computed_field_php_formatter/computed_field_php_formatter.info.yml	b69ccac47fb3de34a47be11c0730fe12
+A	computed_field_php_formatter/src/Plugin/Field/FieldFormatter/ComputedPhpFormatterPhp.php	f29032f1059c06c2f30209f26347a98c
+A	src/Plugin/Field/FieldFormatter/ComputedCacheFormatterTrait.php	06342d7f449a3d150b187dcd9b483fec
+A	src/Plugin/Field/FieldFormatter/ComputedDecimalFormatter.php	5ee4c4d3f42420c8366ee4f9464cd3fa
+D	src/Plugin/Field/FieldFormatter/ComputedFormatter.php	
+A	src/Plugin/Field/FieldFormatter/ComputedFormatterBase.php	6e27fa58103731ef1208d378c8572ac9
+A	src/Plugin/Field/FieldFormatter/ComputedIntegerFormatter.php	9dc5da251987fd3584df6c6cbb742252
+A	src/Plugin/Field/FieldFormatter/ComputedNumericFormatterTrait.php	ee06e81775488a32b15041bfbbefae3b
+A	src/Plugin/Field/FieldFormatter/ComputedNumericUnformattedFormatter.php	5680fe5d261e4a7e385259f75149863c
+A	src/Plugin/Field/FieldFormatter/ComputedPhpFormatterBase.php	463be4e8f6cd2e61794adb02a8908210
+D	src/Plugin/Field/FieldFormatter/ComputedRawFormatter.php	
+A	src/Plugin/Field/FieldFormatter/ComputedStringFormatter.php	b31fcbef007c657213f32a5f80336e90
+A	src/Plugin/Field/FieldType/ComputedDecimalItem.php	8fbfb25874110f895da356cce411d02c
+D	src/Plugin/Field/FieldType/ComputedFieldItem.php	
+A	src/Plugin/Field/FieldType/ComputedFloatItem.php	dab2fdb5296d88b5aad1ebe4ad6783ae
+A	src/Plugin/Field/FieldType/ComputedIntegerItem.php	d811203da2d45dd97eb2961cfee710f9
+A	src/Plugin/Field/FieldType/ComputedStringItem.php	f32b3f1468c2576c8c79115cfe2870dd
+A	src/Plugin/Field/FieldType/ComputedStringLongItem.php	cb3cd905a27b84db134c845d8d1ea14d
+A	src/Plugin/Field/FieldWidget/ComputedNumberWidget.php	f633b084e1d554ba320e91e6e4d63b60
+A	src/Plugin/Field/FieldWidget/ComputedStringWidget.php	6a7e4b126d2526cf2330dc4f62963b09
+A	src/Plugin/Field/FieldWidget/ComputedWidgetBase.php	6320be74cd33bb2625c906f2f83097c2

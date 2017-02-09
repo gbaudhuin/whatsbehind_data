@@ -1,12 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	e47cd4e76b5d9cd8e5bad335a5706d38
-A	composer.json	e2800ac77de4f81cc098f360a0e975d5
-A	config/install/markdown.settings.yml	e8d996f6591b43778cf21816b6ba4305
-A	config/schema/markdown.schema.yml	fa7ad0c6f2b7244c33677f7dc96a67f5
-A	drush/markdown.drush.inc	2e0bc42c512b19a481385384098d7f9a
-A	markdown.info.yml	eec3acdd9bd2408dfd12b09c9e2b5984
-A	markdown.install	0340b97ad381db547a1df246a7f34574
-A	markdown.libraries.yml	3ce59918225b4e6508c1991b0f7706b4
-A	markdown.module	d0e8b47b52ae565f6e9388c419b199d3
-A	src/Plugin/Block/MarkdownHelp.php	f327e9e70e4512de96e982749d81db6d
-A	src/Plugin/Filter/Markdown.php	a214a31f84fcb67d1dd17595339b646d
+M	markdown.info.yml	eec3acdd9bd2408dfd12b09c9e2b5984

@@ -128,7 +128,11 @@ M	uc_file/uc_file.pages.inc	7976b1a9a3d085c858575d78da56f3e9
 A	uc_googleanalytics/translations/uc_googleanalytics.de.po	f0dcdd406381b19cbc4aac7905453e4a
 M	uc_googleanalytics/uc_googleanalytics.info	a665fdf4e87181bb02e3c22508a94e95
 M	uc_googleanalytics/uc_googleanalytics.module	f783149698ec2dc1207d3662f0056e45
+D	uc_order/templates/admin.itpl.php	
+D	uc_order/templates/customer.itpl.php	
 A	uc_order/templates/translations/uc_order-templates.de.po	37584db03a86eff86d0c75d253e0168a
+A	uc_order/templates/uc_order-admin.tpl.php	ed56e9a68af28ba245d4a71fec008745
+A	uc_order/templates/uc_order-customer.tpl.php	4392a48f588c14fd7b569daeda42bd61
 A	uc_order/templates/uc_order.tpl.php	7968256cb74768ec6cdb2da1fe71ee48
 A	uc_order/translations/uc_order.de.po	2a25977db7a9130319432a3cc3fe8831
 A	uc_order/translations/uc_order.ja.po	9a982e9d59f301959e08236572146046
@@ -225,6 +229,8 @@ M	uc_store/countries/iran_364_1.cif	3d14c4c809a051dadafd48aa6b2f2bc4
 M	uc_store/countries/ireland_372_2.cif	566143432adc82a5dbe3312c61cb257b
 M	uc_store/countries/isle_of_man_833_1.cif	c1e8d11fa6db301299165147024fba31
 M	uc_store/countries/israel_376_1.cif	3cf188f4a6f4089ee5c7636984f387c9
+D	uc_store/countries/italy_380_1.cif	
+A	uc_store/countries/italy_380_2.cif	ed95888f62f3d100a20bc0f65ace072f
 M	uc_store/countries/jamaica_388_1.cif	5cbfba077351bddf4d02a64fda4e99ca
 M	uc_store/countries/japan_392_1.cif	237f87ba600d677fdb091cefcfa82cef
 M	uc_store/countries/kazakhstan_398_1.cif	68fd29b770d19b714eb7c1b0c4a6df10

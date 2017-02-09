@@ -1,32 +1,19 @@
-M	README.txt	37b6208555469bef2db59ada2a020ae0
-M	course.api.php	035f72353ac800d9d9729b227da96960
-D	course.doxy	
-M	course.info	89c1b6b4c73626d97bf947b23fd2fa73
-M	course.install	fa82043f82880f9898363fe6a1b71bfb
-M	course.module	549fa2da87afd8ad36cbce0fc8271be2
-D	css/admin.css	
-M	includes/course.block.inc	8af573c275e211dae096f87eefe80139
-M	includes/course.core.inc	79561b748cf9395345059b6e58d75267
+A	.gitignore	db492696ce9dd098dbf55978cba1625b
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	37b6208555469bef2db59ada2a020ae0
+A	course.api.php	035f72353ac800d9d9729b227da96960
+A	course.info	89c1b6b4c73626d97bf947b23fd2fa73
+A	course.install	fa82043f82880f9898363fe6a1b71bfb
+A	course.module	549fa2da87afd8ad36cbce0fc8271be2
+A	includes/course.block.inc	8af573c275e211dae096f87eefe80139
+A	includes/course.core.inc	79561b748cf9395345059b6e58d75267
 A	includes/course.drupal.inc	7573b62c70cfcdf20c83297dc210fc68
-D	includes/course.exporting.inc	
-M	includes/course.outline.inc	727ce553fa8964c3a592e865ee4ed0cd
-D	includes/course.reports.inc	
-D	includes/course.settings.inc	
-M	includes/course_object.core.inc	bdc8f908bd83c4ba2f87dca237a3899d
-D	js/nav.js	
-D	js/resizeframe.js	
-D	modules/course_book/course_book.classes.inc	
-D	modules/course_book/course_book.info	
-D	modules/course_book/course_book.module	
-D	modules/course_book/course_book.test	
-D	modules/course_certificate/course_certificate.classes.inc	
-M	modules/course_certificate/course_certificate.info	e7d1a338b459935916b43bec75024656
-D	modules/course_certificate/course_certificate.install	
-M	modules/course_certificate/course_certificate.module	677569c1872863b612fe3a68fdb4a98a
-D	modules/course_content/course_content.classes.inc	
-M	modules/course_content/course_content.info	622fbefdfeccd2d57f316f472fedbe59
-M	modules/course_content/course_content.module	69a7d65d3889bf80c35f62cfdeadac12
-D	modules/course_content/course_content.test	
+A	includes/course.outline.inc	727ce553fa8964c3a592e865ee4ed0cd
+A	includes/course_object.core.inc	bdc8f908bd83c4ba2f87dca237a3899d
+A	modules/course_certificate/course_certificate.info	e7d1a338b459935916b43bec75024656
+A	modules/course_certificate/course_certificate.module	677569c1872863b612fe3a68fdb4a98a
+A	modules/course_content/course_content.info	622fbefdfeccd2d57f316f472fedbe59
+A	modules/course_content/course_content.module	69a7d65d3889bf80c35f62cfdeadac12
 A	modules/course_credit/course_credit.info	60fb56977794a399b75df4b7d48645e4
 A	modules/course_credit/course_credit.install	e0fabe71d0fe5553072e8bc07ad5beb4
 A	modules/course_credit/course_credit.module	67ca4c127a6d3f9533f39c075124f4ea
@@ -38,70 +25,30 @@ A	modules/course_credit/includes/views_handler_field_course_credit_title.inc	4ae
 A	modules/course_credit/includes/views_handler_filter_course_credit_type.inc	4b0a964df0f552d7578f35575ecf8072
 A	modules/course_credit/includes/views_join_course_credit.inc	884d5b17d54175ae0667887d9cd189eb
 A	modules/course_credit/plugins/content_types/course_credit.inc	2f2227d8bd30d9c221c5ad3d32d6213b
-D	modules/course_object_manual/course_object_manual.classes.inc	
-D	modules/course_object_manual/course_object_manual.info	
-D	modules/course_object_manual/course_object_manual.module	
-D	modules/course_poll/course_poll.classes.inc	
-M	modules/course_poll/course_poll.info	3b6fcc357444400ea7d5a728eed0bca8
-M	modules/course_poll/course_poll.module	d862cdc6a6d910fb8841a66c4b4b69d4
+A	modules/course_poll/course_poll.info	3b6fcc357444400ea7d5a728eed0bca8
+A	modules/course_poll/course_poll.module	d862cdc6a6d910fb8841a66c4b4b69d4
 A	modules/course_quiz/course_object.quiz.inc	afb713ee69cfc0703128d40cc7adf462
-D	modules/course_quiz/course_quiz.classes.inc	
-M	modules/course_quiz/course_quiz.info	df0d5b861c6d8c6865ecab1224c3135c
-M	modules/course_quiz/course_quiz.module	071bcdd27749ee5edcff487e9ba9fb09
-D	modules/course_quiz/course_quiz.test	
+A	modules/course_quiz/course_quiz.info	df0d5b861c6d8c6865ecab1224c3135c
+A	modules/course_quiz/course_quiz.module	071bcdd27749ee5edcff487e9ba9fb09
 A	modules/course_requirements/course_requirements.info	91ea7dcfc3aff5ba6a49d68a00f7ca34
 A	modules/course_requirements/course_requirements.module	e2c30bc24019c049237693ada7d585ba
 A	modules/course_restrict_credit/course_restrict_credit.info	61245297fc45f5b6d35a64746a04cc5e
 A	modules/course_restrict_credit/course_restrict_credit.module	cf7d9a82374233b0ee1a138d66258e59
-D	modules/course_scorm/course_scorm.classes.inc	
-D	modules/course_scorm/course_scorm.info	
-D	modules/course_scorm/course_scorm.module	
-D	modules/course_signup/course_signup.classes.inc	
-M	modules/course_signup/course_signup.info	e680d2875fb2a1022b6ecbfeecb708b3
-M	modules/course_signup/course_signup.install	22f2195e07f022a20bdb079d2e3bc916
-M	modules/course_signup/course_signup.module	33bf9232d887b3af62cdb07f04eb2a1a
-D	modules/course_signup/course_signup.test	
-M	modules/course_signup/course_signup.views_default.inc	ffb0d2d8da24fc0ffb630a88f8d64f41
-D	modules/course_uc/course_uc.classes.inc	
-M	modules/course_uc/course_uc.info	d417ef067dcda7043f99dae373bde015
-M	modules/course_uc/course_uc.module	ec3b47115c314e6e052e02f2d6dd6147
-D	modules/course_uc/course_uc.test	
+A	modules/course_signup/course_signup.info	e680d2875fb2a1022b6ecbfeecb708b3
+A	modules/course_signup/course_signup.install	22f2195e07f022a20bdb079d2e3bc916
+A	modules/course_signup/course_signup.module	33bf9232d887b3af62cdb07f04eb2a1a
+A	modules/course_signup/course_signup.views_default.inc	ffb0d2d8da24fc0ffb630a88f8d64f41
+A	modules/course_uc/course_uc.info	d417ef067dcda7043f99dae373bde015
+A	modules/course_uc/course_uc.module	ec3b47115c314e6e052e02f2d6dd6147
 A	modules/course_uc/plugins/content_types/addtocart.inc	9dcfea4152115bd85c1d4033abdc63cc
-D	modules/course_webform/course_webform.classes.inc	
-M	modules/course_webform/course_webform.info	e68d8c8f43b1b1e72bd526bcc479b608
-M	modules/course_webform/course_webform.module	5b21caf26908ee47760aa079f3b87597
-D	modules/course_webform/course_webform.test	
-M	plugins/content_types/course_take_course_button.inc	5605f7647fae77e1d2ae2c33286b3842
-D	plugins/course/access/conditional.inc	
-D	plugins/course/access/grade.inc	
-D	plugins/course/access/timing.inc	
-D	services/course_enrollment_resource.inc	
-D	services/course_report_resource.inc	
-D	tests/CourseAccessTestCase.test	
-D	tests/CourseContextTestCase.test	
-D	tests/CourseEnrollmentTestCase.test	
-D	tests/CourseGradeTestCase.test	
-D	tests/CourseObjectAccessConditionalTestCase.test	
-D	tests/CourseObjectAccessTestCase.test	
-D	tests/CourseObjectAccessTimeTestCase.test	
-D	tests/CourseObjectNodeTestCase.test	
-D	tests/CourseObjectTestCase.test	
-D	tests/CourseOutlineUiTestCase.test	
-D	tests/CourseTestCase.test	
-D	tests/course_test/course_test.classes.inc	
-D	tests/course_test/course_test.info	
-D	tests/course_test/course_test.install	
-D	tests/course_test/course_test.module	
-M	views/course.views.inc	9769f1b27bddac59081a1200c1ec7b3a
-M	views/course.views_default.inc	939dfd87d612dffe292378a0cda62a9d
-D	views/default/course.course_report.view.inc	
-D	views/default/course.course_report_select.view.inc	
-D	views/default/course.transcript.view.inc	
-D	views/default/course_enrollments.view.inc	
-D	views/default/course_enrollments_add.view.inc	
-M	views/handlers/course_views_handler_relationship_ce_cr.inc	7f7ec23876059ae2f2e87a1bcebbc389
-M	views/handlers/course_views_handler_relationship_ce_sl.inc	1f80149a79412a202d4b20ad0ca65012
-M	views/handlers/views_handler_filter_course.inc	6654402f9cda4deac52b7c850b474c7d
-M	views/handlers/views_handler_filter_course_type.inc	93e7ae8c604785626f69927cd2a81636
-M	views/handlers/views_join_course.inc	d40bdb78e04f61331e696974e57f0e53
-M	views/plugins/views_plugin_argument_validate_course.inc	2567ca68f56e191c56e1348b82759c7f
+A	modules/course_webform/course_webform.info	e68d8c8f43b1b1e72bd526bcc479b608
+A	modules/course_webform/course_webform.module	5b21caf26908ee47760aa079f3b87597
+A	plugins/content_types/course_take_course_button.inc	5605f7647fae77e1d2ae2c33286b3842
+A	views/course.views.inc	9769f1b27bddac59081a1200c1ec7b3a
+A	views/course.views_default.inc	939dfd87d612dffe292378a0cda62a9d
+A	views/handlers/course_views_handler_relationship_ce_cr.inc	7f7ec23876059ae2f2e87a1bcebbc389
+A	views/handlers/course_views_handler_relationship_ce_sl.inc	1f80149a79412a202d4b20ad0ca65012
+A	views/handlers/views_handler_filter_course.inc	6654402f9cda4deac52b7c850b474c7d
+A	views/handlers/views_handler_filter_course_type.inc	93e7ae8c604785626f69927cd2a81636
+A	views/handlers/views_join_course.inc	d40bdb78e04f61331e696974e57f0e53
+A	views/plugins/views_plugin_argument_validate_course.inc	2567ca68f56e191c56e1348b82759c7f

@@ -1,0 +1,34 @@
+M	CHANGELOG.txt	5b6737738677d011fa7f80842837467d
+M	DEVELOPERS.txt	2fd04b5971cd46d51abda94c332ffec6
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	ff78c6b2d6b98b6bffbbf7dc6f3913d4
+M	custom_formatters.admin.inc	f7d9151ca07bf468bd9579a1d7b43274
+M	custom_formatters.info	1caef57bd5d84af8c7ec6ef23e962517
+M	custom_formatters.install	85009e63b5f827bca9a4a76671de88ed
+M	custom_formatters.module	c24098f217ad770d70fa2adb8eb54550
+A	includes/content.inc	ca9ed225b045f3318b101e297391bd1e
+A	includes/content_multigroup.inc	e70f038b6cc95560176e6961c299b817
+A	includes/custom_formatters.inc	5c341a6753a3852f4a6bf28abbb8d968
+A	includes/ds.inc	72990707bed3b84b4c1066e318c58d7c
+A	includes/features.inc	d10e330c3848e60ba2a1648f6c9d43ae
+A	includes/fieldgroup.inc	f8083f16106b052307917a7b011bb4eb
+A	includes/filefield.inc	9686d7ea855d7131ace7dff1fe9fa8d8
+A	includes/help.inc	20e93b724f87b539430a72fe0533fbea
+A	includes/insert.inc	15b0634e56f1af8fa24c1aff87a8393b
+A	includes/libraries.inc	bde5c01f5c439a2af06dff70ecda789c
+A	includes/nd.inc	4b4391dc73413c0433449f58dec688c6
+A	includes/token.inc	e896150a9bb0ce17f3d5910cc6367a71
+A	includes/ud.inc	516f299b29a8ff9398e45e42c38b21a6
+A	includes/vd.inc	0bc1e3293dca15b6c3f733b56873b8a9
+D	modules/content.inc	
+D	modules/content_multigroup.inc	
+D	modules/features.inc	
+D	modules/fieldgroup.inc	
+D	modules/filefield.inc	
+D	modules/insert.inc	
+D	modules/nd.inc	
+D	modules/token.inc	
+A	scripts/custom_formatters.admin.js	40d8237dc7ef2b9975e7a0f8ecdf7d86
+M	templates/custom_formatters_convert.tpl.php	7cfd1539ff089c251eb7fdad2cbe6da8
+M	templates/custom_formatters_export_info.tpl.php	e3522b0ae5db98c345b58f46d11a3c3e
+M	templates/custom_formatters_export_module.tpl.php	32d9a696f82a4a2546ebce6cc4dd37de

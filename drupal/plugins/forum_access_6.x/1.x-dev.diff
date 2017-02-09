@@ -1,11 +1,5 @@
-A	CHANGELOG.txt	1a146d10e848dd551f876a0140b7127e
-A	INSTALL.txt	e64b2bc0b638b3a8a34e7dbb5055c7d6
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	6ba7427a1ba2214fb63cf25974ae9712
-A	forum_access.admin.inc	08a74b919283d8e9177b435d84936901
-A	forum_access.css	686a21332254ae104b3cb02641db8ce1
-A	forum_access.info	caf1a7d62a6a8d114c2c4e32eddaaaba
-A	forum_access.install	d622de99b12f9b23ee6d01882d2cc659
-A	forum_access.module	133810d8763b05e8f3fd165dca49e60d
-A	forum_access.node.inc	4515ad53ebd6000224b8a5d1eeb4b66a
-A	forum_access.test	0bd6e4719667cf20175e676b1935b58e
+M	CHANGELOG.txt	1a146d10e848dd551f876a0140b7127e
+M	README.txt	6ba7427a1ba2214fb63cf25974ae9712
+M	forum_access.admin.inc	08a74b919283d8e9177b435d84936901
+M	forum_access.info	caf1a7d62a6a8d114c2c4e32eddaaaba
+M	forum_access.module	133810d8763b05e8f3fd165dca49e60d

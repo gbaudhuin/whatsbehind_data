@@ -1,5 +1,7 @@
-A	CHANGELOG.txt	b5fbb67bfa91be06e15e2113c4b3eb64
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	a1ab606c23d1e99368d22a1c540bf6bc
-A	module_grants.info	ff850bf350a0f923d08c5bfef0adf395
-A	module_grants.module	4eddc8799d078a8121488ac7e28f60fe
+M	CHANGELOG.txt	b5fbb67bfa91be06e15e2113c4b3eb64
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	a1ab606c23d1e99368d22a1c540bf6bc
+M	module_grants.info	ff850bf350a0f923d08c5bfef0adf395
+M	module_grants.module	4eddc8799d078a8121488ac7e28f60fe
+D	translations/de.po	
+D	translations/module_grants.pot	

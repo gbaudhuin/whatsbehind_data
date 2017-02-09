@@ -21,6 +21,8 @@ M	plugins/views_plugin_query_default.inc	8a61ae4187ce21deb85f1211796b1c23
 M	plugins/views_plugin_style.inc	057fb0e197e75367b8f89e6f56caa521
 M	plugins/views_plugin_style_rss.inc	eeb9254a2316d42d02a916ddb377f7f5
 A	test_templates/README.txt	e4d3b872d6ca1cd9b698751f2518aef9
+A	test_templates/views-view--frontpage.tpl.php	bb1799e1076c1d29c1cc51da8b99e609
+D	tests/templates/views-view--frontpage.tpl.php	
 M	tests/views_test.info	bedfe2e59db1c2c495663d35bcdaa8a5
 M	tests/views_test.module	22ba3c43b746fdfee01eed4331271186
 M	theme/views-view-table.tpl.php	814fa8ca1849179a5f4e29d4e6be85dd

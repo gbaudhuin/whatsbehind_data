@@ -1,8 +1,7 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	2d195da9cefc892ba37800d9bcce86a3
-A	includes/tagadelic_views.views.inc	119b25d81ffd262ef2dbf18d8821a11b
-A	includes/views_plugin_style_tagadelic.inc	25bff4d933bfcb1354b20af56ac718fa
-A	tagadelic_views.info	83f285991a21cc9ec4647380d6a64844
-A	tagadelic_views.module	3b08ca0908aa113e9a52565e06477a75
-A	theme/theme.inc	a81cad489a71ef42587f3ce95669be64
-A	theme/views-view-tagadelic.tpl.php	788705bf74cc0b636a91bdb2976ee332
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	2d195da9cefc892ba37800d9bcce86a3
+M	includes/tagadelic_views.views.inc	119b25d81ffd262ef2dbf18d8821a11b
+M	includes/views_plugin_style_tagadelic.inc	25bff4d933bfcb1354b20af56ac718fa
+M	tagadelic_views.info	83f285991a21cc9ec4647380d6a64844
+M	tagadelic_views.module	3b08ca0908aa113e9a52565e06477a75
+M	theme/theme.inc	a81cad489a71ef42587f3ce95669be64

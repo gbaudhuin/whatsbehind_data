@@ -1,13 +1,4 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	commerce_checkout_panes.features.inc	
-D	commerce_coupon_type.features.inc	
-D	commerce_customer.features.inc	
-M	commerce_features.info	5411c4dee7bd158e5802196fbd094cba
-M	commerce_features.module	e1cc6448ed9d6bd0c8a93813fb18d038
-D	commerce_flat_rate_services.features.inc	
-D	commerce_line_item_type.features.inc	
-D	commerce_order_type.features.inc	
-D	commerce_payment_method.features.inc	
-M	commerce_product_type.features.inc	593251a48902dad9a2e2b9944baa19a7
-D	commerce_tax_rate.features.inc	
-D	commerce_tax_type.features.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	commerce_features.info	5411c4dee7bd158e5802196fbd094cba
+A	commerce_features.module	e1cc6448ed9d6bd0c8a93813fb18d038
+A	commerce_product_type.features.inc	593251a48902dad9a2e2b9944baa19a7

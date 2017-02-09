@@ -1,6 +1,8 @@
 M	.gitignore	c1a13f0f84825301b0ead62553e4d978
 A	.travis.yml	3de5512ed45a1a63e33bd8a1ccf23db6
 M	CHANGELOG.txt	015846b419f1d8db2c266ae7c0c39224
+A	README.md	33526268bddf3b9a98cab07d2b85e3f2
+D	README.txt	
 M	includes/marketo_ma.soap.inc	02a84469fb74e1081b61b20462ca2662
 M	marketo_ma.drush.inc	590e9907bd33a92fe93ac6c8f72e178e
 M	marketo_ma.info	783b4f7518d25b8f0926346214f8bb25

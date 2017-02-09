@@ -10,6 +10,8 @@ M	filedepot.module	2fe7c128d377f9abd6f6edf42d201712
 A	filedepot_secissue_71974.patch	44a5d46224f6f3b78249d6cca9f1f155
 M	js/common.js	db6e372313f0e74f43601ba1630f7416
 M	js/initapplication.js	32c0ac5c2e49b2698e03ba8da40d2efb
+A	js/lib-nextide.js	b074b02a54f65b3df4fb7d1d3f67352f
+D	js/nexpro.js	
 M	lib-ajaxserver.php	07c56d8c14e2d4c12a82b786e72549c0
 M	lib-common.php	f107032ad3ed0fabb29cfef64cde122a
 M	theme/filedepot-mainpage.tpl.php	74bbfa15005d362cec0b6b8871396354

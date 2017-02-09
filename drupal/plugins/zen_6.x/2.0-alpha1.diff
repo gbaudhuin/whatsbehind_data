@@ -1,138 +1,70 @@
 D	CHANGELOG.txt	
-D	README-FIRST.txt	
-A	README.txt	07ac20d4724cf35a25c503e9425e6163
-D	STARTERKIT/README.txt	
+M	README.txt	07ac20d4724cf35a25c503e9425e6163
 D	STARTERKIT/STARTERKIT.info.txt	
-D	STARTERKIT/css/README.txt	
-D	STARTERKIT/css/blocks.css	
-D	STARTERKIT/css/comments.css	
-D	STARTERKIT/css/fields.css	
-D	STARTERKIT/css/ie6.css	
-D	STARTERKIT/css/layout-fixed-rtl.css	
-D	STARTERKIT/css/layout-fixed.css	
-D	STARTERKIT/css/layout-liquid-rtl.css	
-D	STARTERKIT/css/layout-liquid.css	
-D	STARTERKIT/css/pages-rtl.css	
-D	STARTERKIT/css/pages.css	
-D	STARTERKIT/css/panels-styles.css	
-D	STARTERKIT/css/print.css	
-D	STARTERKIT/css/wireframes.css	
-D	STARTERKIT/images-source/panels-layouts.psd	
-D	STARTERKIT/images/messages-error-ie6.png	
-D	STARTERKIT/images/messages-error.png	
-D	STARTERKIT/images/messages-status-ie6.png	
-D	STARTERKIT/images/messages-status.png	
-D	STARTERKIT/images/messages-warning-ie6.png	
-D	STARTERKIT/images/messages-warning.png	
-D	STARTERKIT/images/tab-bar.png	
-D	STARTERKIT/images/tab-left-ie6.png	
-D	STARTERKIT/images/tab-left.png	
-D	STARTERKIT/images/tab-right-ie6.png	
-D	STARTERKIT/images/tab-right.png	
-D	STARTERKIT/images/tab-secondary-bg.png	
-D	STARTERKIT/images/tab-secondary.png	
-D	STARTERKIT/js/README.txt	
+M	STARTERKIT/drupal6-reference.css	96182a837905813435287fd0af605a7c
+D	STARTERKIT/favicon.ico	
 D	STARTERKIT/logo.png	
 D	STARTERKIT/screenshot.png	
 D	STARTERKIT/template.php	
-D	STARTERKIT/templates/README.txt	
 D	STARTERKIT/theme-settings.php	
-D	layouts/README.txt	
-D	layouts/one_sidebar_first/one-sidebar-first-admin.css	
-D	layouts/one_sidebar_first/one-sidebar-first.css	
-D	layouts/one_sidebar_first/one-sidebar-first.png	
-D	layouts/one_sidebar_first/one_sidebar_first.inc	
-D	layouts/one_sidebar_first/zen-one-sidebar-first-admin.tpl.php	
-D	layouts/one_sidebar_first/zen-one-sidebar-first.tpl.php	
-D	layouts/one_sidebar_second/one-sidebar-second-admin.css	
-D	layouts/one_sidebar_second/one-sidebar-second.css	
-D	layouts/one_sidebar_second/one-sidebar-second.png	
-D	layouts/one_sidebar_second/one_sidebar_second.inc	
-D	layouts/one_sidebar_second/zen-one-sidebar-second-admin.tpl.php	
-D	layouts/one_sidebar_second/zen-one-sidebar-second.tpl.php	
-D	layouts/two_sidebars/two-sidebars-admin.css	
-D	layouts/two_sidebars/two-sidebars.css	
-D	layouts/two_sidebars/two-sidebars.png	
-D	layouts/two_sidebars/two_sidebars.inc	
-D	layouts/two_sidebars/zen-two-sidebars-admin.tpl.php	
-D	layouts/two_sidebars/zen-two-sidebars.tpl.php	
-D	layouts/two_sidebars_first/two-sidebars-first-admin.css	
-D	layouts/two_sidebars_first/two-sidebars-first.css	
-D	layouts/two_sidebars_first/two-sidebars-first.png	
-D	layouts/two_sidebars_first/two_sidebars_first.inc	
-D	layouts/two_sidebars_first/zen-two-sidebars-first-admin.tpl.php	
-D	layouts/two_sidebars_first/zen-two-sidebars-first.tpl.php	
-D	layouts/two_sidebars_second/two-sidebars-second-admin.css	
-D	layouts/two_sidebars_second/two-sidebars-second.css	
-D	layouts/two_sidebars_second/two-sidebars-second.png	
-D	layouts/two_sidebars_second/two_sidebars_second.inc	
-D	layouts/two_sidebars_second/zen-two-sidebars-second-admin.tpl.php	
-D	layouts/two_sidebars_second/zen-two-sidebars-second.tpl.php	
-D	logo.png	
-D	template.php	
-D	templates/block.tpl.php	
-D	templates/comment.tpl.php	
-D	templates/maintenance-page.tpl.php	
-D	templates/node.tpl.php	
-D	templates/region-sidebar.tpl.php	
-D	templates/region.tpl.php	
-D	templates/views-view.tpl.php	
-D	zen-internals/TODO.txt	
-D	zen-internals/css/generate.sh	
-D	zen-internals/css/ie.css	
-D	zen-internals/css/ie6-rtl.css	
-D	zen-internals/css/zen-fixed-rtl.css	
-D	zen-internals/css/zen-fixed.css	
-D	zen-internals/css/zen-liquid-rtl.css	
-D	zen-internals/css/zen-liquid.css	
-D	zen-internals/images/messages-error-ie6.png	
-D	zen-internals/images/messages-error.png	
-D	zen-internals/images/messages-status-ie6.png	
-D	zen-internals/images/messages-status.png	
-D	zen-internals/images/messages-warning-ie6.png	
-D	zen-internals/images/messages-warning.png	
-D	zen-internals/images/tab-bar.png	
-D	zen-internals/images/tab-left-ie6.png	
-D	zen-internals/images/tab-left.png	
-D	zen-internals/images/tab-right-ie6.png	
-D	zen-internals/images/tab-right.png	
-D	zen-internals/images/tab-secondary-bg.png	
-D	zen-internals/images/tab-secondary.png	
-D	zen-internals/screenshot.png	
-D	zen-internals/template.theme-registry.inc	
-D	zen-internals/template.zen.inc	
-D	zen.info	
-A	zen/block.tpl.php	89ec5e7e57bca39006c200426b2f3ada
+A	zen/backgrounds.css	71d4f9f1b51cca4958256612bbb397ef
+A	zen/block-editing-rtl.css	6fd44d4fec60cae4088d3efb58e743d0
+M	zen/block-editing.css	5697c80e5993db030c75f0761061031e
+M	zen/block.tpl.php	89ec5e7e57bca39006c200426b2f3ada
 A	zen/blocks.css	a5264f119f46161d09db44c7feceab8d
-A	zen/box.tpl.php	d5c6c8c151b54e2ebca51cb62d4476f8
-A	zen/comment.tpl.php	6eaac9766251d9d9897d54bcb5a88d43
+M	zen/box.tpl.php	d5c6c8c151b54e2ebca51cb62d4476f8
+M	zen/comment-wrapper.tpl.php	fbe3a638cec69cd797b2fbeecca371b3
+M	zen/comment.tpl.php	6eaac9766251d9d9897d54bcb5a88d43
 A	zen/comments.css	57393e47c5ba62c71882db93c6b494f2
 A	zen/fields.css	73cfb03e5877de2d8a9b21f1e7aa7244
+A	zen/forms-rtl.css	4d6fa28c76847dc99426c15305ef8811
+A	zen/forms.css	f80dcd4f566210c2f255e28ab289b84d
+A	zen/html-elements-rtl.css	e4dc1e9bee308cf69bb406d2c5c6eded
+M	zen/html-elements.css	a9563e5c758fb8e2a097047d61146ab6
+M	zen/ie.css	54f91d525c22da95f7d680c5cba01bcf
 A	zen/ie5.css	799458c0c291b34c90821eef2b62df11
-A	zen/images/messages-error-ie6.png	5158fea9cea0656c7b5ccb0dc6a07b74
-A	zen/images/messages-error.png	a3d46c891fa19c2de75362b370ae30e9
-A	zen/images/messages-status-ie6.png	c73ecff583db00fdb8b53f4b7576209b
-A	zen/images/messages-status.png	dbf6293dfdf81ce32372ebb24c04a71e
-A	zen/images/messages-warning-ie6.png	2cec6789810fc01651da7f926bbfea06
-A	zen/images/messages-warning.png	aa1c9a1361ba7191080d7e32a61150ab
-A	zen/images/tab-bar.png	e42804fe3d61145627d826603d454913
-A	zen/images/tab-left-ie6.png	b9685bd4d9c86c51848d795f984d168b
-A	zen/images/tab-left.png	9ecd446c28ba5fffdbe0af2bd5ac37d2
-A	zen/images/tab-right-ie6.png	d1e39633cae3857e174749bc22ea3c96
-A	zen/images/tab-right.png	15d64213a10c656946297030329fd980
-A	zen/images/tab-secondary-bg.png	85c9380e7ef035df5b17dfc31b148ea3
-A	zen/images/tab-secondary.png	1aeca372cb88c1620f27b6d9b938f800
+A	zen/ie6-rtl.css	b8e3b4d5eb3e1c4d32f374d42ee4903a
+A	zen/ie6.css	b653367dfb79e469dc84b8dd6d14d2bf
+M	zen/images/messages-error-ie6.png	5158fea9cea0656c7b5ccb0dc6a07b74
+M	zen/images/messages-error.png	a3d46c891fa19c2de75362b370ae30e9
+M	zen/images/messages-status-ie6.png	c73ecff583db00fdb8b53f4b7576209b
+M	zen/images/messages-status.png	dbf6293dfdf81ce32372ebb24c04a71e
+M	zen/images/messages-warning-ie6.png	2cec6789810fc01651da7f926bbfea06
+M	zen/images/messages-warning.png	aa1c9a1361ba7191080d7e32a61150ab
+M	zen/images/tab-bar.png	e42804fe3d61145627d826603d454913
+M	zen/images/tab-left-ie6.png	b9685bd4d9c86c51848d795f984d168b
+M	zen/images/tab-left.png	9ecd446c28ba5fffdbe0af2bd5ac37d2
+M	zen/images/tab-right-ie6.png	d1e39633cae3857e174749bc22ea3c96
+M	zen/images/tab-right.png	15d64213a10c656946297030329fd980
+M	zen/images/tab-secondary-bg.png	85c9380e7ef035df5b17dfc31b148ea3
+M	zen/images/tab-secondary.png	1aeca372cb88c1620f27b6d9b938f800
 A	zen/layout-fixed-rtl.css	3a96ff6dbf78ad84f8fb97e28d7c9093
-A	zen/layout-fixed.css	6f6806b4fbabba88685e6c3b1da333c0
+M	zen/layout-fixed.css	6f6806b4fbabba88685e6c3b1da333c0
 A	zen/layout-liquid-rtl.css	e00891963f8016fa6fe3021069f715de
-A	zen/layout-liquid.css	915e323a1477311e7f2fedf5f077cd0f
-A	zen/logo.png	1b8879c68022f5fa0cb675d8cd0c6997
-A	zen/maintenance-page.tpl.php	42901dac0582cbbf432e7a232b463354
-A	zen/node.tpl.php	956f381a4a1f9fa5c1292b2194f9bd91
+M	zen/layout-liquid.css	915e323a1477311e7f2fedf5f077cd0f
+M	zen/logo.png	1b8879c68022f5fa0cb675d8cd0c6997
+M	zen/maintenance-page.tpl.php	42901dac0582cbbf432e7a232b463354
+A	zen/messages-rtl.css	e7cb911fbc7d28beb1de810be90dc011
+M	zen/messages.css	50dc6b122f140020d65225b5ea503818
+A	zen/navigation.css	55fcdf8f824b8571540bca24ad08fdee
+M	zen/node.tpl.php	956f381a4a1f9fa5c1292b2194f9bd91
+A	zen/nodes.css	6374a5fb06023b7ab6f230aa80b04e0c
+M	zen/page.tpl.php	5ce4030ebd391f2378e65c67570d3a6f
 A	zen/pages-rtl.css	b59fc66b971a77929ac2c94b9a0452f4
 A	zen/pages.css	667971889b90ab60a2e4f2187f7fd6d9
-A	zen/screenshot.png	f90ca8ee5d19fbd861d4a42e1386ba57
-A	zen/template.php	fbd4c8b87e6aca483d4435f5d66ba05d
-A	zen/template.theme-registry.inc	dd828242eeccf6659612a20feab57710
-A	zen/wireframes.css	86b0384367d92444fbdb4251f3b611c6
-A	zen/zen.info	a1587a87979a02bac46aa81633c260ac
+M	zen/print.css	07c6c844d89efb5126f87edf3e7bf7ff
+M	zen/screenshot.png	f90ca8ee5d19fbd861d4a42e1386ba57
+A	zen/tabs-rtl.css	14d00ab3ad43151d70e3203bacc5927b
+M	zen/tabs.css	1f025f65795459f4aca436284ed5d9e1
+M	zen/template.block-editing.inc	a617c9f092e93734f49f284ffab5ce8e
+M	zen/template.comment.inc	84358b3bb1526950c7e8de74f052e1ab
+M	zen/template.conditional-styles.inc	a990fc84e0dd3147e68ed855b05115a7
+M	zen/template.php	fbd4c8b87e6aca483d4435f5d66ba05d
+M	zen/template.theme-registry.inc	dd828242eeccf6659612a20feab57710
+A	zen/theme-settings-rtl.css	1f4cf4c23d60b4f2b56ae7234ad5eee4
+M	zen/theme-settings.css	639b11178892fbca01253987e4de927c
+M	zen/theme-settings.php	b86fb0fda7d404720ba1c80afba6af4c
+A	zen/views-styles.css	239d11896b553ad367d71d25ff164d97
+M	zen/wireframes.css	86b0384367d92444fbdb4251f3b611c6
+D	zen/zen.css	
+M	zen/zen.info	a1587a87979a02bac46aa81633c260ac

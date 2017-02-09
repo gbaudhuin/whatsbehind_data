@@ -1,3 +1,10 @@
+D	css/images/reset_timer_button.png	
+D	css/images/reset_timer_button_full.png	
+D	css/images/resume_timer_button.png	
+D	css/images/start_timer_button.png	
+D	css/images/stop_timer_button.png	
+D	css/images/time_tracker_stopwatch_icon_grey.png	
+D	css/images/time_tracker_stopwatch_icon_white.png	
 D	css/time_tracker.css	
 M	modules/time_estimate/time_estimate.info	97bc1aeb85a9c7cdded49abf7e32305c
 M	modules/time_estimate/time_estimate.module	beaf46436a944b1859c5f24a15efce5c
@@ -8,6 +15,13 @@ M	modules/time_sheet/time_sheet.info	7c356074b2f3d639565ffbb4808720f6
 M	modules/time_sheet/time_sheet.module	31857bf0974d3c12143c549b21a65024
 A	modules/time_sheet/time_sheet.theme.inc	0256182952132c062ac9438c154077e1
 M	modules/time_tracker_timer/css/time_tracker_timer.css	5d6ba427132da49db113657d1b0e7fbf
+A	modules/time_tracker_timer/images/reset_timer_button.png	efeacc8149134918abdf066c4bec250d
+A	modules/time_tracker_timer/images/reset_timer_button_full.png	9d3627d34663811ea2499528eb5cd929
+A	modules/time_tracker_timer/images/resume_timer_button.png	a0b1ae2eb7911ad7d6c5d2f01911dcb7
+A	modules/time_tracker_timer/images/start_timer_button.png	659a1fd0a21b5682962ecb11efdbdf24
+A	modules/time_tracker_timer/images/stop_timer_button.png	c51b8bc7e793fc5a47133d8e5a0ee980
+A	modules/time_tracker_timer/images/time_tracker_stopwatch_icon_grey.png	595ece9bceb07029d99af60230a4fadf
+A	modules/time_tracker_timer/images/time_tracker_stopwatch_icon_white.png	7126b59b8ee7536a544d8f65436ecb24
 M	modules/time_tracker_timer/js/time_tracker_timer.js	b7f1b24f27db17ba33ae2cc57a5a4b20
 M	modules/time_tracker_timer/time_tracker_timer.info	878629534101245e68c9e6ea8fc4bb93
 M	modules/time_tracker_timer/time_tracker_timer.module	194ab7d11101cc3409aed39c6e3b4923

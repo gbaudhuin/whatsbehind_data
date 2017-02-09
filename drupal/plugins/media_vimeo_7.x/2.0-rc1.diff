@@ -1,13 +1,7 @@
-M	README.txt	04ebbb9b811cde5668840e17dc06012a
-A	css/media_vimeo.wysiwyg.css	af2a37f89b755a629794c86727d00c23
-A	images/stream-vimeo.png	b70d69121318d69f727fc798f12d70e9
-M	includes/MediaInternetVimeoHandler.inc	cd4bc895c1fd3be73045665badf92ffc
-M	includes/MediaVimeoStreamWrapper.inc	b91546f39b90cf96d22419fd36f19998
+D	includes/MediaVimeoStyles.inc	
 M	includes/media_vimeo.formatters.inc	1119ff902ee03fbcdf2f3a78902e676c
-A	includes/media_vimeo.variables.inc	c79336cd1565ac0c7d71fd44e68020e7
-A	js/media_vimeo.fromurl.js	dbb9f26674a477fa551d23c1b044a087
-D	media_vimeo.file.inc	
-D	media_vimeo.file_default_displays.inc	
+D	includes/media_vimeo.styles.inc	
+M	includes/themes/media_vimeo.theme.inc	11438643f6ea5e0d72860e072c1763b3
 M	media_vimeo.info	5ffde9131d393e484a47a08462c9390c
 M	media_vimeo.install	e2ce8acd1b72851e4c1dcd8f32ba1614
 M	media_vimeo.module	3e1d5f35f2a879de923c63bb7f6e0cb9

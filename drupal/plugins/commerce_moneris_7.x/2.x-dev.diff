@@ -1,18 +1,5 @@
-A	CHANGELOG.txt	50be86068f9a7384a0a23b9809044d4b
-M	README.txt	b1634f8cab0630f9cf51be784150b93b
-D	commerce_moneris.admin.inc	
-D	commerce_moneris.inc	
 M	commerce_moneris.info	393d5b83f413ea7e549dd39b1d525f3d
-D	commerce_moneris.install	
-M	commerce_moneris.module	5db0ed4e02e8f750837c6fc7b00cc756
-A	modules/api/README.txt	6ae1cfc65645ff1320ed972a055e973f
-A	modules/api/commerce_moneris_api.admin.inc	a47ca13bd66b0d399cdc44f6b7abbe40
-A	modules/api/commerce_moneris_api.api.php	9a0695c254fc15c691126fc57bf63330
-A	modules/api/commerce_moneris_api.info	08deb27820c2d8245d157e3526de4053
-A	modules/api/commerce_moneris_api.install	6d8eb82d8dcb3d5ade4de438ac97ca8b
-A	modules/api/commerce_moneris_api.module	690f047296f0cbc2d8a1778f5bd26f6b
-A	modules/api/drush/commerce_moneris_api.drush.inc	cb94eefeb7905a2dc8b1e4838bc9e66e
-A	modules/hpp/README.txt	62a0e2fdfb7459bb1132b7d7d7fa5abc
-A	modules/hpp/commerce_moneris_hpp.api.php	768b236bd0b9175c6081c05e473eabda
-A	modules/hpp/commerce_moneris_hpp.info	764fe266753359927d5c542ae19d30f9
-A	modules/hpp/commerce_moneris_hpp.module	1164e6a316aca7658026f331867ab608
+M	modules/api/commerce_moneris_api.info	08deb27820c2d8245d157e3526de4053
+M	modules/api/commerce_moneris_api.module	690f047296f0cbc2d8a1778f5bd26f6b
+M	modules/hpp/commerce_moneris_hpp.info	764fe266753359927d5c542ae19d30f9
+M	modules/hpp/commerce_moneris_hpp.module	1164e6a316aca7658026f331867ab608

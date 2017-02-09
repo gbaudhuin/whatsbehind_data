@@ -4,7 +4,7 @@ M	README.txt	94d9b2ac2daad989e9be431eae51229a
 D	TODO.txt	
 M	botcha.info	085df97f801fa8946966a9e5d6b7232f
 M	botcha.install	fcac000512d13ae6ffaf4e3476fbf210
-A	botcha.make	32493c84ccdf932f8369fdd3ee4272ee
+M	botcha.make	32493c84ccdf932f8369fdd3ee4272ee
 M	botcha.module	c31ac294c52e4669e72eee029f1bc8f6
 D	botcha.rules.inc	
 D	controller/application/botcha.application.controller.inc	

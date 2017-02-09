@@ -1,25 +1,2 @@
-M	CHANGELOG.txt	a6464fae5920586094f74743cdcf6ebe
-A	css/ds-multigroup.css	7f0af8bc4d1e66da627e20fcc9b95587
-M	css/ds.css	399f36336355f4fdee3bc64ac18d9e08
 M	ds.info	64a6cd7971cb0e196dde1c218d727278
-M	ds.install	8501cf0f6315b9af3272158e4a7143c5
-M	ds.module	01978eb079e1b18c9aea14cd2708a606
 M	ds_ui.info	40985f2fe7c796a0df53453e969bd3b8
-M	includes/ds.admin.inc	db0f9224ab2f3c0620f184355fffe4ce
-M	includes/ds.buildmodes.inc	1d31fb9bc023acc5a449b43f959733d1
-M	includes/ds.display.inc	9ab88bdceca36794741ad398c95c7c12
-M	includes/ds.features.inc	701f6db42ce8274d69df7ea5de635c8b
-M	includes/ds.fields.inc	8e136b86e6ba99cadfb51fbd9a08479b
-M	includes/ds.groups.inc	a6756699615e6492b46458895b8c1dc9
-D	includes/ds.info.inc	
-A	includes/ds.modules.inc	3833d9972a51f5d34a246325fc34186c
-M	includes/ds.plugins.inc	ab2e406d295733b0c37706a934b41962
-M	includes/ds.registry.inc	95f0f88ba745e9caf056c2a4be99e9f3
-M	includes/ds.tools.inc	3d437449c0a3384b5ce433dbfb9c6b53
-M	js/ds.js	5efacd1c9b2b98be18f0bf6e42c7e08a
-M	plugins/ds_cssoverrider.inc	aec155bedc09b7f915bc300803c36e6c
-M	plugins/ds_emptyregionrender.inc	7929b46984e01b18537064c3fbd85930
-M	plugins/ds_regiontoblock.inc	82ce568f772111d6f0d43b044c9e19c9
-M	theme/ds-display-overview-form.tpl.php	d7715df476d834de4ad0428580a85f89
-M	theme/theme.inc	a6d7b450fff9e8cc596e26f7ac0c1052
-M	theme/theme_ui.inc	b944ca1e834430e61e99e5b4d6820aa6

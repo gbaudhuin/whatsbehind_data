@@ -1,13 +1,13 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	2cd8e547c887daaa95b82b2fa2c93b78
-M	corner-admin.css	c7ba3ddb56f689eb76b60cf561893626
-M	corner.admin.inc	66dba2eeea035c6850ccb2adfd1d21b3
-M	corner.css	744c231fca0f57aa4b2b868f1576a02d
-M	corner.info	23233d580030d4090135c605bff97e83
-M	corner.install	d4748960978d59e3383d95d869eb46e5
-M	corner.module	1663a17a777d8563235a6f7be712e292
-M	corner.tpl.php	8d1f888c589932e24ebf4928d7bf59b9
-D	images/rss-top-left.png	
-D	images/rss-top-right.png	
-M	tests/corner.test	767970c9126169dc0deab9db17d171e7
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	2cd8e547c887daaa95b82b2fa2c93b78
+A	corner-admin.css	c7ba3ddb56f689eb76b60cf561893626
+A	corner.admin.inc	66dba2eeea035c6850ccb2adfd1d21b3
+A	corner.css	744c231fca0f57aa4b2b868f1576a02d
+A	corner.info	23233d580030d4090135c605bff97e83
+A	corner.install	d4748960978d59e3383d95d869eb46e5
+A	corner.module	1663a17a777d8563235a6f7be712e292
+A	corner.tpl.php	8d1f888c589932e24ebf4928d7bf59b9
+A	images/drupal-love-right.png	ec2bf2ffdd3bf6d7fc4e4b5fcc70b0d3
+A	images/pagepeel-drupalicon-200px-left.png	a333d90ec4d7d66b61a276668968f90a
+A	images/pagepeel-red-200px-left.png	0de92d83d8b7b85a4141b1d295280489
+A	tests/corner.test	767970c9126169dc0deab9db17d171e7

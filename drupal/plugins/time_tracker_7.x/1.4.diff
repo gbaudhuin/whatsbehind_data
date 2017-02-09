@@ -1,10 +1,13 @@
 D	CHANGELOG.txt	
 M	css/time_tracker.css	440281683102f6755fcf9d6ccee03ba2
+D	css/time_tracker_timer.css	
 D	js/datepicker.settings.js	
 M	time_estimate/time_estimate.info	4ef6c507cbf13e05a8b2bbe3a8ceb6ad
 M	time_estimate/time_estimate.install	2d35b9510dcfac338877d42af01f780a
 M	time_estimate/time_estimate.module	d96d7a0497584ce92b0b523440e2322e
 M	time_estimate/views/time_estimate.views.inc	438361ce5ddc41d887d520be0bf3e536
+D	time_estimate/views/time_estimate_remaining_time.inc	
+A	time_estimate/views/time_estimate_views_handler_field_remaining_time.inc	9b4de246db637c7e314f2169f2903834
 M	time_sheet/time_sheet.admin.inc	82fc12008670cb6f29f1cec22cab0dda
 M	time_sheet/time_sheet.info	3fc31b7bb772066df010a4b6f3691354
 M	time_sheet/time_sheet.install	59b1709b086adea75cb7f3ec566a404b
@@ -15,8 +18,11 @@ M	time_tracker.info	e3208caa485d3edcc3d1d2580b7f1935
 M	time_tracker.install	3f20d7941aa44518ea33e4a79c1627eb
 M	time_tracker.module	acbbc7768eaa95dc75458045bcae555b
 M	time_tracker.theme.inc	f678c05ec40e253983873e0c3f312d99
+A	timer/css/time_tracker_timer.css	e5bdd4cf3c2d66ee12ac7f62a5234ec9
+A	timer/js/time_tracker_timer.js	df41ff2fa1f7dbeb5e4e2a031911a99f
 M	timer/time_tracker_timer.info	13096a1f041c09e5e1ba7f4d265c3c47
 M	timer/time_tracker_timer.install	968793e9760a9cda2eeda652881f63d4
+D	timer/time_tracker_timer.js	
 M	timer/time_tracker_timer.module	ecb5904db61b811849c208870c436d49
 M	views/time_tracker.views.inc	5407c90d599f4833efa8d9891c742500
 M	views/time_tracker.views_default.inc	7caff911154b18c6b03ee11b0e7edc0b

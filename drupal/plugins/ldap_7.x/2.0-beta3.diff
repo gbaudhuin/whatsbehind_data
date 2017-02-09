@@ -21,7 +21,9 @@ M	ldap_authorization/ldap_authorization_og/LdapAuthorizationConsumerOG.class.php
 M	ldap_authorization/ldap_authorization_og/ldap_authorization_og.info	3bcd2f4b638693b6322e475c721659db
 M	ldap_authorization/ldap_authorization_og/ldap_authorization_og.module	3ddd29bb9fb92aeac58e62588c37d92a
 M	ldap_authorization/tests/BasicTests.test	50afb45980c142ff222c6f063e46fee2
+A	ldap_authorization/tests/Og1Tests.test	5e25dcb8206e571dd6bb39f501ffb444
 A	ldap_authorization/tests/Og2Tests.test	6de5488684c2399aa849559d7fc382b1
+D	ldap_authorization/tests/OgTests.test	
 D	ldap_authorization/tests/OtherAuthenticationIntegrationTests.test	
 M	ldap_feeds/ldap_feeds.info	ad5b9e1a8bdea073c255ce971ca7ca22
 A	ldap_help/example_features/ldap_ad_basic-7.x-2.0/ldap_ad_basic/ldap_ad_basic.features.inc	318788b35e5a43e55b187ecdb8b1d16d

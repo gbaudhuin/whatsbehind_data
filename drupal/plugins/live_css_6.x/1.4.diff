@@ -1,4 +1,5 @@
 A	ace/ChangeLog.txt	ef71fbe0535437cb550a937f70c158a8
+A	ace/LICENSE	62ebb1fac1159027deb7653046adc74b
 A	ace/Readme.md	2715a9ee5e2ca7171329af6b69912203
 A	ace/editor.html	1721f4ba2b279e9c98a11fae73565eca
 A	ace/src/ace-uncompressed.js	f2592930899ecdb2f7db667c54b2ab1a
@@ -29,6 +30,7 @@ A	ace/src/theme-monokai.js	57a970f833bf9f0637b79b53e3ca33e4
 A	ace/src/theme-pastel_on_dark.js	71b075339a3b3b8bdbdf414898b6cbd2
 A	ace/src/theme-twilight.js	ad5b3bdaadb2a258e724a9e7cfdc18d5
 A	ace/src/worker-javascript.js	5d3c5c1d985919964380bbbe14936967
+D	bespin/LICENSE.txt	
 D	bespin/README.txt	
 D	bespin/prebuilt/BespinEmbedded.css	
 D	bespin/prebuilt/BespinEmbedded.js	

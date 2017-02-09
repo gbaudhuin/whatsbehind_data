@@ -4,6 +4,7 @@ M	course.module	39fedbebf22e739b2bf5bc0cbf197b27
 A	includes/Course.inc	a9a4859e679696c44baa5e31f115b1a2
 A	includes/CourseController.inc	78fb24a0ad6b515d5cde1ca242ad582b
 A	includes/CourseHandler.inc	540baa01b6f70547986d28f2c299987c
+A	includes/CourseObject.inc	3842bac88a8abba12fa32b0bac73c8a3
 A	includes/CourseObjectAccess.inc	d584bc605e71c719d0aae9f11f29092d
 A	includes/CourseObjectBroken.inc	628b63b5dba88901f60ebbb12ab5290b
 A	includes/CourseObjectController.inc	bdaf206caf55edf07cf5faf6aaf22d7a
@@ -18,6 +19,7 @@ M	includes/course.outline.inc	411048b55a9009bcea8c4b2d35b24bf3
 M	includes/course.reports.inc	a8b3b78abd8324079ac684f3141116ac
 M	includes/course.settings.inc	4f239f4847addd7056eb266c5aed883c
 M	includes/course.theme.inc	da76eeaaea6d5fb1b214e0fca5438b37
+D	includes/course_object.core.inc	
 M	modules/course_book/course_book.classes.inc	704e2f5fc62cb9e53e2027ddb1e240c2
 M	modules/course_book/course_book.info	93eab723cd388ce39c59d82002980368
 M	modules/course_book/course_book.module	832735723ccb63c77f1577e5c0c13712

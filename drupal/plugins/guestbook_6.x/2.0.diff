@@ -4,7 +4,7 @@ M	README.txt	907bf08171b76f8ceea879d4961d24da
 M	guestbook.info	a21e78b0fb6c9dd75e94fd3884eac791
 M	guestbook.install	2d299820539a74f40502e29bd25a3c5d
 M	guestbook.module	88b3e289b1a558b8799caba294335e61
-M	panels/guestbook_user.inc	a2d656caecf4bdc592ec4d29772643ac
+A	panels/guestbook_user.inc	a2d656caecf4bdc592ec4d29772643ac
 A	translations/cs.po	8553fde91fbc7a3764d9510b0bb4ffe2
 A	translations/de.po	1aadf422e66daef49c981cd19dbd45aa
 A	translations/es.po	857653008f4fa156ded7e04030f04255

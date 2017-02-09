@@ -1,8 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	cc448f6f94ff326dcfa50448b05b9b84
-A	menu_reference.info	7a272f610195bbb3721178679e30e9a8
-A	menu_reference.install	4b42ae7c167563280a8ea967a100c412
-A	menu_reference.module	771ff5d2524d0632c4b06195b1e9f1a7
-A	views/handlers/menu_references_filter_handler.inc	57f2beb08ef56c8533d2b98e74b29f09
-A	views/menu_reference.views.inc	3068f4ea04de8963720091d8c77aeff4
-A	views/plugins/menu_reference_plugin_argument_default_menu_trail.inc	20c45176f98ff159e829672c39a97b1b
+M	menu_reference.info	7a272f610195bbb3721178679e30e9a8
+M	menu_reference.module	771ff5d2524d0632c4b06195b1e9f1a7

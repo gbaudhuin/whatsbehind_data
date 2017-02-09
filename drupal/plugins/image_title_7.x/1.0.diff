@@ -1,2 +1,7 @@
-M	image_title.info	798c3a5f44e4e91049e0ae235fff701a
-M	image_title.module	71e3f029daf70b1a188e774354374e05
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	image_title.admin.inc	137b70a5f3b765bf1e52660d05bcf4e1
+A	image_title.css	8e4041ea3848e16041a6a9eae3e9b3de
+A	image_title.info	798c3a5f44e4e91049e0ae235fff701a
+A	image_title.install	8602f9f4982d2e955f33ab367abd42dc
+A	image_title.module	71e3f029daf70b1a188e774354374e05
+A	readme.txt	f7aa36759a850bb492e2533183a4ee12

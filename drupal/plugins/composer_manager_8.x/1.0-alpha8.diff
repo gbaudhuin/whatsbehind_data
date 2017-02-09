@@ -18,5 +18,7 @@ M	src/ComposerManager.php	db7e704a7f6f3da85101b872607e9b42
 M	src/ComposerManagerInterface.php	9d2d0ec1b2bc5fe90fe68753ba798d2e
 M	src/ComposerPackages.php	ade61c795e4ffc5c7eebbd72f0805bcd
 M	src/ComposerPackagesInterface.php	66bb6994b2ff4a5500d782d7966b0ced
+A	src/Controller/PackageController.php	5701a5d07b7922f6d38b6cd87fd7fcf2
+D	src/Controller/Packages.php	
 M	src/Form/RebuildForm.php	87524948699fb1a6ad6f0b7a9f298704
 M	src/Form/SettingsForm.php	aa40e1a30a6c38c178ab7beab61a5406

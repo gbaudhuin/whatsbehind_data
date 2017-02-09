@@ -1,10 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.md	58fd00084bebd24b26977d4ad2e5de9c
-A	css/inline_conditions.css	cbe0d5cbb3f062943613c96abee8e85f
-A	inline_conditions.api.php	ba2cda3f8e39b12b1d147f20539cb471
-A	inline_conditions.field.inc	479d8c5027b2bb47c6c823b6559c9f41
-A	inline_conditions.info	9a4d94c370b59ed3ec469c6b6580b361
-A	inline_conditions.inline_conditions.inc	3e27be78aa4cefd1f0766e28db169dfc
-A	inline_conditions.install	8f11b22e3be027e8c6a74c1f955da8e1
-A	inline_conditions.module	ee119e424d5dea0adb3613e4a14413b0
-A	inline_conditions.rules.inc	bd6aacaabdd7bb3664769ed2b30c0dfc
+M	inline_conditions.info	9a4d94c370b59ed3ec469c6b6580b361

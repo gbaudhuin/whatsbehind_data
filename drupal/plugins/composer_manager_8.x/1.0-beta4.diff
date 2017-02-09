@@ -3,6 +3,8 @@ M	composer_manager.drush.inc	300012b6ece8a2172b5cf34ed197fe72
 M	composer_manager.info.yml	c519eff864ddec99b0a4c46fa5e9e262
 M	composer_manager.install	a90ea62b5bcc1b5cd0637bbd654d295c
 M	composer_manager.module	52a2e5a0cb649de46855380784cbbf02
+A	scripts/init.php	dba9f07390d7233f126f5d0b6f0bc03f
+D	scripts/init.sh	
 M	src/Composer/Command.php	e776c62fb181efad60ebce0027f4054c
 M	src/Controller/PackageController.php	df7bbd66a8282b65e4b64055a3c34cfd
 M	src/ExtensionDiscovery.php	5b462955136c0c7c513d967133199e49

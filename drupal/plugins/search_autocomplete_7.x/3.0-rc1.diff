@@ -2,6 +2,9 @@ M	README.txt	5fa963a979b341d38cdaf59be75c0bb9
 A	css/MAKE YOUR THEME.css_	7974ff4b4af7a4e7f2c07544940277d3
 A	css/classic.css	d5ecff9a63498a8c2d0b0def51a36dfc
 A	css/full paper brown.css	001a61952b573b9090360d714bb453a5
+D	css/help.png	
+A	css/images/help.png	48552cd3deea99972233fa537040df43
+A	css/images/throbber.gif	ae6ffc909fc0deb781b3775e4cf517e7
 A	css/images/ui-bg_fine-grain_10_eceadf_60x60.png	e7fdb2faea2f5928d17adac5045b46ed
 A	css/images/ui-bg_fine-grain_65_654b24_60x60.png	75fdf01e0105dc30796eb1f27092e496
 A	css/images/ui-bg_glass_100_fdf5ce_1x400.png	d26e8f463195a7b86f86b7d550cfc114
@@ -15,6 +18,7 @@ A	css/nice black.css	eaf514921063cd6b5c41f28326ce0651
 A	css/nice blue.css	2a5cfebbdad82e0f35a8e6051871dc83
 A	css/nice green.css	c02dbf1757fe101c776b0dbbaee3eac9
 A	css/nice orange.css	696ed532d9da24d2c35ba31044e2f0ab
+D	css/throbber.gif	
 M	js/jquery.autocomplete.js	b178002255bac937ec8ed7727ed9ccb0
 M	search_autocomplete.admin.inc	585e66e6a051e251f1b6ff44ddb84eb7
 M	search_autocomplete.form.add.inc	59b1077d7f669edf0821b62d74eec28c

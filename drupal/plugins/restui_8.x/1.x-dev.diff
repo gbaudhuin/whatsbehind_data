@@ -1,12 +1,8 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	ff6a731c0122bc0a5619f8d549812f76
-A	composer.json	02fb06c673d9f959aeb8719d63b064f4
-A	restui.info.yml	77b8077a62039d0833affe58f5363f26
-A	restui.links.menu.yml	ec83ffe2c2c7ead4d3ba5ec6a2d035cd
-A	restui.module	6d6c107e118b861f9941f6209825243a
-A	restui.permissions.yml	df8a639cd77522906d0153cb12b508a0
-A	restui.routing.yml	8c0a8b34324f0f94dd2daf9bcdeb5f7d
-A	src/Controller/RestUIController.php	c52fdb7629f8d99a14e28a80ad95da76
-A	src/Form/RestUIForm.php	06e66e8303dddc8afcb9c3f8f93eea37
-A	src/Tests/RestUITest.php	80eae5c91490aa57549b79804bb414df
-A	templates/restui-resource-info.html.twig	fa8be643de14d0b788d65c1725ebc244
+A	.gitignore	95b55b1e3a304f4e340394a679893575
+M	README.txt	861abda78a442d06e2ecfd8d669ca300
+M	restui.info.yml	37f7c423928a0848938fe4df348cced3
+M	restui.module	15c999b720bcd2da847f4d344499240c
+M	src/Controller/RestUIController.php	c0079df59ac40d443752e997afc3fd91
+M	src/Form/RestUIForm.php	17e5ef17c41b7836d0b54bd3c395305c
+D	src/Tests/RestUITest.php	
+A	tests/src/Functional/RestUITest.php	246ffee4e4235e9d20dfd0c4bfce0048

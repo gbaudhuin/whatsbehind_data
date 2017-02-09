@@ -1,17 +1,5 @@
-M	CHANGELOG.txt	858f47860ada10622812f3eda2a9f14b
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	03946c1e8c8484fd2f4d3ab4e191e271
-D	help/hide_submit.help.ini	
-D	help/using-hide-submit.html	
-M	hide_submit.info	395ed4375ef954108b04ed45f8b08e8c
-D	hide_submit.install	
-D	hide_submit.js	
-M	hide_submit.module	5db1cc2dedd500832bf9e6990d672530
-D	hide_submit_admin.inc	
-D	hide_submit_admin_settings.js	
-D	images/clock.gif	
-D	images/cogwheel.gif	
-D	images/hourglass .gif	
-D	images/loader.gif	
-D	images/radioactive.gif	
-D	images/squares.gif	
+A	CHANGELOG.txt	858f47860ada10622812f3eda2a9f14b
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	03946c1e8c8484fd2f4d3ab4e191e271
+A	hide_submit.info	395ed4375ef954108b04ed45f8b08e8c
+A	hide_submit.module	5db1cc2dedd500832bf9e6990d672530

@@ -1,10 +1,12 @@
-M	.travis.yml	51eed1ef028c1b4d40761fa1f59792c8
-M	README.md	58c132c6c648f0ec6d1518d1a2ac8e2b
-M	composer.json	1e6f4821bd8cc8cc91bd8f62efa1e89b
-M	flysystem_s3.info.yml	09b95e2dc1f56e28d3b827c5b5c8fd6b
-D	src/AwsCacheAdapter.php	
-M	src/Flysystem/Adapter/S3Adapter.php	3f6178ddd3fec56a39d3bc038748241a
-M	src/Flysystem/S3.php	026e9b0adaf8c5acb3845aec38903619
-M	src/Tests/ModuleInstallUninstallWebTest.php	7e1272b2fd51440a28a8da615835a2da
-D	tests/src/Unit/AwsCacheAdapterTest.php	
-M	tests/src/Unit/Flysystem/S3Test.php	05552c9cc4bf1d0aefc1c3c6b66f8545
+A	.gitignore	cd9b6943fc8fe58cdccef0b0215bf6bb
+A	.travis.yml	51eed1ef028c1b4d40761fa1f59792c8
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	58c132c6c648f0ec6d1518d1a2ac8e2b
+A	composer.json	1e6f4821bd8cc8cc91bd8f62efa1e89b
+A	flysystem_s3.info.yml	09b95e2dc1f56e28d3b827c5b5c8fd6b
+A	phpunit.xml.dist	0e87120cd640bff8d7a5b8e0b7216c0c
+A	src/Flysystem/Adapter/S3Adapter.php	3f6178ddd3fec56a39d3bc038748241a
+A	src/Flysystem/S3.php	026e9b0adaf8c5acb3845aec38903619
+A	src/Tests/ModuleInstallUninstallWebTest.php	7e1272b2fd51440a28a8da615835a2da
+A	tests/bootstrap.php	3b979d155c3d6008fec5cbec557909e2
+A	tests/src/Unit/Flysystem/S3Test.php	05552c9cc4bf1d0aefc1c3c6b66f8545

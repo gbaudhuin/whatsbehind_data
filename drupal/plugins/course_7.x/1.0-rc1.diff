@@ -22,6 +22,7 @@ M	modules/course_scorm/course_scorm.info	cdf08e7650a965f5b7e23bfca341f84a
 M	modules/course_signup/course_signup.info	e90f33345df41ec5fe702abc9b7da112
 M	modules/course_signup/course_signup.module	6383d4173caa20babd18249033fc5b31
 A	modules/course_signup/course_signup.views.inc	57e13cd6d60f6a70b94a0ed77f3c8fc8
+A	modules/course_signup/course_signup_views_handler_relationship_ce_sl.inc	0c944c11cb7ce512b1f57fa3f2bd6d1f
 A	modules/course_signup/course_signup_views_handler_relationship_sl_ce.inc	1e9f76e20228c0d229b481a2edc4fae5
 M	modules/course_uc/course_uc.info	0c3d8b2cefc27a3c37df113217548b1d
 M	modules/course_webform/course_webform.classes.inc	2124f88a5f2a1c5b25d7831ca8c4295a
@@ -34,4 +35,5 @@ M	tests/course_test/course_test.info	c538635397b36b78dfa51cad009ec5a0
 M	tests/course_test/course_test.install	d24e5a70c799a963303eb15e7e04bf77
 M	views/course.views.inc	a14616554eb89e3d05bfbea90bafaba7
 M	views/handlers/course_views_handler_relationship_ce_cr.inc	611ace319691fad7956194894db4b4b6
+D	views/handlers/course_views_handler_relationship_ce_sl.inc	
 M	views/handlers/views_join_course.inc	13e51a32143815b0cb3bbfd9754887ef

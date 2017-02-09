@@ -1,10 +1,12 @@
 M	README.txt	0a97959e7598933005d4f059084ca6da
+A	tests/core.test	6d354e239837a6450143258b26de1e1c
 A	tests/input_filters.test	b8ba28e425f91b4719e9a2508079a826
 M	twitter.inc	8a132d0a666976792a3ec663f9bd426a
 M	twitter.info	2f213328a6d6bf8ea6d8b9a680d32646
 M	twitter.install	132d65fb5a385519af2135e5ef7b496c
 M	twitter.module	d0df12eefdb3d481a01b741da9aad61f
 M	twitter.pages.inc	195398d9fb412a38d6eaedc0eb18a9c2
+D	twitter.test	
 M	twitter_actions/twitter_actions.info	7fcd9a7078a8bc5f357515a4eec26343
 M	twitter_post/twitter_post.info	84a892070d11826adbac7037b1c9847c
 M	twitter_signin/twitter_signin.info	af2abf7423d66f1f2e481f3bee9e44c7

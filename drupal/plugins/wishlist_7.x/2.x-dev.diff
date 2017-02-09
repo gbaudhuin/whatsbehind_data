@@ -1,14 +1,3 @@
-A	INSTALL.txt	011c2f269331010428d03b252f5d8b12
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	includes/views/handlers/views_handler_argument_wishlist_giftee_user_uid.inc	0869ab6efc41ed0261b9f65baabb6485
-A	includes/views/handlers/views_handler_filter_wishlist_giftee_user_uid.inc	5fec4b05e482fe093a6a25b2a012439d
-A	includes/views/handlers/views_handler_relationship_wishlist_total_purchased.inc	e2b97b55d678cc8fd2da42927b346b47
-A	includes/views/wishlist.views.inc	1d094e3717c4d471faad4c51299010e4
-A	includes/views/wishlist.views_default.inc	b80712e6c7c1e8f237a388ff24b33ff2
-A	wishlist-content--node.tpl.php	e61dda3a0cedc5930724f328d6b3d261
-A	wishlist.admin.inc	2a55a0fdce1f0b49e730eb8f23d43c6c
-A	wishlist.css	d27cd482ab7612431e0e31f790e988b2
-A	wishlist.info	3dd51cae203166a399761da6423df360
-A	wishlist.install	16eea4a8a40ae941daee46f88404aca0
-A	wishlist.module	9ac61bdf500e2e42b3e33168efaad84a
-A	wishlist.page.inc	e9d112178b4893eaa62dbbef2a27eab9
+M	wishlist.info	b614d0ee7ed61e2ba54d94747ea7c6a6
+M	wishlist.module	4cf7b0dca15584ab9c52dd1eebf78b56
+M	wishlist.page.inc	e9d112178b4893eaa62dbbef2a27eab9

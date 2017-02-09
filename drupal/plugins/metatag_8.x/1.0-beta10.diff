@@ -173,8 +173,14 @@ M	templates/group.php.twig	b868b9a42b4c8f21e444fbf444486b79
 A	templates/metatag_tag.schema.yml.twig	67b798154229804e463dfa90798be43e
 M	templates/tag.php.twig	7744b5000d93c14a3e713737e8445671
 D	tests/modules/metatag_test/metatag_test.info.yml	
+D	tests/modules/metatag_test/metatag_test.metatag_tag.schema.yml	
+D	tests/modules/metatag_test/metatag_test.module	
+D	tests/modules/metatag_test/src/Plugin/metatag/Tag/MetatagTestTag.php	
 A	tests/modules/metatag_test_custom_route/metatag_test_custom_route.info.yml	11f991e2ca1953d3593cdff09cd0a481
 A	tests/modules/metatag_test_custom_route/metatag_test_custom_route.module	e7a50492692d2ab52f97aa5575c39632
 A	tests/modules/metatag_test_custom_route/metatag_test_custom_route.routing.yml	93324ab039b6ad082245a65d1285f9e5
 A	tests/modules/metatag_test_custom_route/src/Controller/MetatagTestCustomRouteController.php	9021a3f67a6631c63faa0fa50b1b9bbc
 A	tests/modules/metatag_test_tag/metatag_test_tag.info.yml	d6be0f403054cb7f218572fe51a7a30e
+A	tests/modules/metatag_test_tag/metatag_test_tag.metatag_tag.schema.yml	fbe588e98155fdc3df64d0ffb420ab3d
+A	tests/modules/metatag_test_tag/metatag_test_tag.module	ce407ff5715c837d02b1aba7975bf512
+A	tests/modules/metatag_test_tag/src/Plugin/metatag/Tag/MetatagTestTag.php	afa3dbe36734f8331768716144ba696c

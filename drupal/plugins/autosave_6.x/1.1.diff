@@ -1,5 +1,9 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	autosave.info	b677d9698e9c48f6bbbe30b474ecb0b5
-M	autosave.install	5455bc6bee08872c67340121e4c7a311
-M	autosave.module	0680ffbc39451e361adb16e10bff4d75
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	a6c614a9fe466ffcbcfc1e60869aa9f2
+A	autosave.css	fff527629f0015dc1ccc98aca74e684d
+A	autosave.info	b677d9698e9c48f6bbbe30b474ecb0b5
+A	autosave.install	5455bc6bee08872c67340121e4c7a311
+A	autosave.js	d4d8dd35af9e49f13b83067d0e330348
+A	autosave.module	0680ffbc39451e361adb16e10bff4d75
+A	jquery.field.js	847b4105727057fff33603d5f3cdab44
 A	po/ja.po	ae231548582a499d8ec4db1df0b701c6

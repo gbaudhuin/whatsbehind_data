@@ -1,42 +1,7 @@
-D	.buildpath	
-D	.project	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	d3c0293007a5f045412615cc3a950e23
-D	theme/views-views-json-style-exhibit.tpl.php	
-D	theme/views-views-json-style-simple.tpl.php	
-D	theme/views-views-json-style.tpl.php	
-D	theme/views-views-rdf-style-doap.tpl.php	
-D	theme/views-views-rdf-style-foaf.tpl.php	
-D	theme/views-views-rdf-style-sioc.tpl.php	
-D	theme/views-views-rdf-style.tpl.php	
-D	theme/views-views-xhtml-style-hcalendar.tpl.php	
-D	theme/views-views-xhtml-style-hcard.tpl.php	
-D	theme/views-views-xhtml-style.tpl.php	
-D	theme/views-views-xml-style--singles-xml.tpl.php	
-D	theme/views-views-xml-style-atom.tpl.php	
-D	theme/views-views-xml-style-opml.tpl.php	
-D	theme/views-views-xml-style-raw.tpl.php	
-D	theme/views-views-xml-style.tpl.php	
-D	theme/views_views_json_style.theme.inc	
-D	theme/views_views_rdf_style.theme.inc	
-D	theme/views_views_xhtml_style.theme.inc	
-D	theme/views_views_xml_style.theme.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	d3c0293007a5f045412615cc3a950e23
 A	views-view-json.tpl.php	ac05c5c602b98f22b1dc8e054e1e0589
 A	views-view-row-unformatted.tpl.php	c696c2b904abc7195c9f273414a2577c
-M	views_json.info	171be70d9bcaedee3621a7751af9ec66
-M	views_json.module	2bff5aa2dcd1435cec275aed469c42bc
-M	views_json.views.inc	ccd0947152a351c33149e92b25a7f186
-D	views_plugin_style_json.inc	
-D	views_plugin_style_rdf.inc	
-D	views_plugin_style_xhtml.inc	
-D	views_plugin_style_xml.inc	
-D	views_plugin_style_xml_test.inc	
-D	views_rdf.info	
-D	views_rdf.module	
-D	views_rdf.views.inc	
-D	views_xhtml.info	
-D	views_xhtml.module	
-D	views_xhtml.views.inc	
-D	views_xml.info	
-D	views_xml.module	
-D	views_xml.views.inc	
+A	views_json.info	171be70d9bcaedee3621a7751af9ec66
+A	views_json.module	2bff5aa2dcd1435cec275aed469c42bc
+A	views_json.views.inc	ccd0947152a351c33149e92b25a7f186

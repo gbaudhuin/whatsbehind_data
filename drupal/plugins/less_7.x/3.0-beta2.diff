@@ -11,4 +11,6 @@ M	less.watch.js	f1f25fa6c6566cabe85e6fc4c567c6e8
 M	less.wysiwyg.inc	1940dfcdb6f3349e98856170d2080de8
 M	less_demo/less_demo.info	eee6ce31764c885b4fd80be2af507a7a
 M	less_demo/less_demo.module	72e4e062b57c0367a6d7901a4cf9ed01
+D	less_demo/styles/less_demo.css.less	
 A	less_demo/styles/less_demo.drupal_add_css.css.less	594477a994783367f211cae289e26a92
+A	less_demo/styles/less_demo.info.css.less	29060e0e9b68fdbf65dbfa8f7fea03d3

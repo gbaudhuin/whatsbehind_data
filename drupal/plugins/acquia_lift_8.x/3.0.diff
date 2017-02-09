@@ -1,0 +1,17 @@
+M	.travis.yml	7c79f0a2da4567cbfbd24fb455f1a766
+M	README.md	8d33779daeb409c07047feeab8ca3a65
+M	acquia_lift.info.yml	47c31e477dc876770603d3e0483feaaf
+A	acquia_lift.libraries.yml	e633b7ac1ed3428f37443b8632d5f9ad
+M	acquia_lift.module	00ddd570cc79e69dd78083b20e8d2ef7
+A	assets/acquia_lift.css	163cfe8fbb5593731cceca00ad82edd3
+M	config/schema/acquia_lift.settings.yml	856bb212f8bc9410d24114737cede8c3
+M	src/Form/AdminSettingsForm.php	1146ddea3764837dfb490e7801ceb372
+M	src/Service/Context/PageContext.php	fd0b25d72e68019f8d6d9b2f166014ec
+M	src/Service/Helper/NodeTypeThumbnailFormHelper.php	bccb6f2cdbc273f4111df54c5cdcd741
+M	src/Service/Helper/SettingsHelper.php	1203ffda276e54f6bec244fa0c8ef499
+M	src/Tests/SettingsDataTrait.php	d55e1ca4a39b445c9aab064b10387ea4
+M	src/Tests/SettingsTest.php	c40d7e0f2a67070d2bdd15b52b920a14
+M	tests/src/Unit/Polyfill/Drupal.php	9bbc63a0d148b343ed2a16ebbf66210b
+M	tests/src/Unit/Service/Context/PageContextTest.php	9a8a969bc88c72ffafbc93f8cb79b887
+M	tests/src/Unit/Service/Helper/SettingsHelperTest.php	dc8ece6a4c846572b926cd0c762670d4
+M	tests/src/Unit/Traits/SettingsDataTrait.php	a8703139052c1b93c86461bf5d5aac66

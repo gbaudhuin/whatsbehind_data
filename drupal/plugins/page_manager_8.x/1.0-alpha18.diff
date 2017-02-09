@@ -15,8 +15,12 @@ M	src/EventSubscriber/RouteParamContext.php	118015c69489c1bdac04a21ca45790b6
 M	src/EventSubscriber/StaticContext.php	7a8fd9210019d80430c7141e0d107192
 M	src/Form/AccessConditionFormBase.php	7c7d95f26c3f2657f29cbdb156d04496
 M	src/Form/ConditionFormBase.php	6eef08ca73bfefd49b6d94f2fea3404b
+D	src/Form/DisplayVariantAddBlockForm.php	
 D	src/Form/DisplayVariantAddForm.php	
+D	src/Form/DisplayVariantConfigureBlockFormBase.php	
+D	src/Form/DisplayVariantDeleteBlockForm.php	
 D	src/Form/DisplayVariantDeleteForm.php	
+D	src/Form/DisplayVariantEditBlockForm.php	
 D	src/Form/DisplayVariantEditForm.php	
 D	src/Form/DisplayVariantFormBase.php	
 D	src/Form/DisplayVariantFormInterface.php	
@@ -29,6 +33,10 @@ M	src/Form/SelectionConditionDeleteForm.php	14336733e705ba54569d8f13c1ad4927
 M	src/Form/SelectionConditionEditForm.php	dd01c0cf08a5d2a0b9ca4c51c14df4c2
 M	src/Form/SelectionConditionFormBase.php	39a2e8d1cc71e66ef81cff7c8ba2167d
 M	src/Form/StaticContextFormBase.php	502ea0756b634eabd97206a590239e13
+A	src/Form/VariantPluginAddBlockForm.php	4bd8e5388dfdced3d467193e319afdd6
+A	src/Form/VariantPluginConfigureBlockFormBase.php	0e9e1103438a2f683087275c38fb7f6f
+A	src/Form/VariantPluginDeleteBlockForm.php	7429b7cab5379f9fb9d22fcebb0c0ee0
+A	src/Form/VariantPluginEditBlockForm.php	c083ae4078afcf70174a3db98e355015
 M	src/PageExecutable.php	5ec66cf6a6a933da778447e8e2870fee
 M	src/PageExecutableInterface.php	fdd3fa8c2fcf1a55163f5b076b70b290
 M	src/PageInterface.php	cff7c92b284e78445edb090254928469

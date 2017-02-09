@@ -1,15 +1,2 @@
-A	CHANGELOG.txt	00a39c0a33de2e0e296d55d4f2ae1e68
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	cc6c8dde8b2a60ffc0a139a15d9e61e7
-A	opengraph_meta.admin.inc	649eddc583dee6d4952fe2ee382e6ba8
-A	opengraph_meta.common.inc	931b69c3ebded4d9226b7087de88f415
-A	opengraph_meta.drupal6-hooks.inc	bce91bd00681484502903e2976fb2f16
-A	opengraph_meta.drupal7-hooks.inc	1d2b1b77dd886f6f7da0b3d771f962ea
-A	opengraph_meta.info	b3e5d52e58f732711e5a90ec9789ee1f
-A	opengraph_meta.install	af03f2e3aaf900d7cc3103aa892890b9
-A	opengraph_meta.module	c3cfa8cc137f879413a07f4f4adce6aa
-A	tests/Basic.test	067862d2843bfab596e1e4b6a2df53cd
-A	tests/Hooks.test	133f7fe60e84016e53672f6bf9322ed5
-A	tests/TestBase.inc	1ca6a84d14a18e33ad819a86c1f54e32
-A	tests/opengraph_meta_test_module/opengraph_meta_test_module.info	1da575dfe953c691fb41f73d40d62f9d
-A	tests/opengraph_meta_test_module/opengraph_meta_test_module.module	5ea0458ab6a7374534c3a54b362afa84
+M	opengraph_meta.info	b3e5d52e58f732711e5a90ec9789ee1f
+M	tests/opengraph_meta_test_module/opengraph_meta_test_module.info	1da575dfe953c691fb41f73d40d62f9d

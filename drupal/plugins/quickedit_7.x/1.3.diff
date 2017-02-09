@@ -9,4 +9,6 @@ M	quickedit.info	82e10025939d17eb3a58ae2f5539a497
 M	quickedit.install	b8ab7f297cb3f25c82b98f1efe96f55b
 M	quickedit.module	c542140f2902bc07b1f67ac4756a590d
 A	quickedit.quickedit.inc	81ef9dd0a68853c5782039dab71a3301
+A	quickedit.test	6eb581d8348a41047e5cd13624565bf5
+D	tests/quickedit_loading.test	
 M	tests/quickedit_test.info	96e3e1eba36d0a2a8c92837dab095fe3

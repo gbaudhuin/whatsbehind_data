@@ -1,0 +1,9 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+D	translations/it.po	
+D	translations/uc_extra_fields_pane.pot	
+M	uc_extra_fields_pane.info	4d4b990c1cac10fec1819c4c6be76688
+M	uc_extra_fields_pane.install	3891fef1f056531ebc68ed5a474766a0
+M	uc_extra_fields_pane.module	8fe1469cf0a63de92c63a8b929af027c
+M	uc_extra_fields_pane_views/uc_extra_fields_pane_views.info	e8b4020b0b31c59cc40e7027ad3f30e0
+M	uc_extra_fields_pane_views/uc_extra_fields_pane_views.module	cc2d22b017fd21ac3e0f838d6d1b11a6
+M	uc_extra_fields_pane_views/uc_extra_fields_pane_views.views.inc	4a5d9f2827f04e3f15cc5c7ba43808c0

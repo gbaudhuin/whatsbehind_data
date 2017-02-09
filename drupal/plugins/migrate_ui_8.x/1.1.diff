@@ -1,0 +1,7 @@
+M	migrate_ui.info.yml	d3ff11c1abcadf7bba4d9599e1f50177
+M	modules/migrate_ui_templates/migrate_ui_templates.info.yml	2bb6e50543567526658f16d209c08092
+M	modules/migrate_ui_templates/tests/migrate_ui_templates_test/migrate_ui_templates_test.info.yml	e848bf4b92b36483a8be01197c1c102f
+M	src/Form/CreateMigrationForm.php	213376ac5593884c0f18de1540a90821
+M	src/Form/MigrationEntityFormBase.php	854431f3fa1959b93edc4b090a835d5d
+M	src/Form/ProcessMigrationForm.php	2831dd2b6e1ff59b811b11f29adb943c
+M	tests/migrate_ui_test_source/migrate_ui_test_source.info.yml	6dac00a90f94aa41e1a9740f3ec800d9

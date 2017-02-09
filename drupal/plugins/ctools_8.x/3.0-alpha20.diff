@@ -9,6 +9,10 @@ A	src/Form/RelationshipConfigure.php	4acb3f2868ceb3209604e6fae18d3cff
 A	src/Form/RelationshipDelete.php	c8fe88950d689da369369f19f85461af
 M	src/Form/RequiredContext.php	f87a200722e4154c175e410267ccba92
 M	src/Form/RequiredContextDelete.php	efa57e8c2b44f477f44d6b80f93d434d
+A	src/Plugin/Condition/EntityBundle.php	386e7c5ae8a30ec19a4a46a840592de1
+D	src/Plugin/Condition/EntityType.php	
+A	src/Plugin/Deriver/EntityBundle.php	fecc43681cb4b015e7c1eee66980cb88
+D	src/Plugin/Deriver/EntityType.php	
 A	src/Plugin/PluginWizardInterface.php	77aa07dca9ca3691e3abe6ab6a598905
 M	src/Plugin/VariantPluginCollection.php	5828a75ef85c9fbb78d18d5e4b07e34e
 M	src/Tests/Wizard/CToolsWizardTest.php	fca8c554623d344cd0ae478e151d3ef2

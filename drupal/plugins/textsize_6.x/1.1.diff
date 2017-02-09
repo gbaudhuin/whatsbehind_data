@@ -1,0 +1,9 @@
+M	README.txt	b03d70254e720290bf9de07d33eb4f5d
+A	includes/textsize.admin.inc	f68830b6ec9f1589e1907c0662468fb6
+A	includes/textsize.block.inc	97f9209dd43e64271da16d32296d6341
+D	po/de.po	
+D	po/textsize.pot	
+M	textsize.info	61e6f6fb1467fb2833ceb6544a5920f3
+M	textsize.module	1ac37dbdb92fda8eebe1455aa7d70431
+M	translations/de.po	540d3d746a5f9b76865189c8d6973b90
+M	translations/textsize.pot	99b06cf10de9006551d2a7ed81a4a91d

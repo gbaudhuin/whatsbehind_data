@@ -12,6 +12,8 @@ M	src/Tests/IntegrationTest.php	8fcbc4ad5fe8ba4ed7dfa906667f9174
 A	src/Tests/ViewsTest.php	d3cd6572444d793bcb2c39607e8a2425
 M	tests/modules/search_api_solr_test/config/install/search_api.index.solr_search_index.yml	b7e7e46cb8c9f166e444d46d2243677c
 D	tests/modules/search_api_solr_test/config/optional/search_api.index.multi_datasource_solr_search_index.yml	
+D	tests/modules/search_api_solr_test/config/optional/views.view.search_api_test_views_fulltext.yml	
 M	tests/modules/search_api_solr_test/search_api_solr_test.info.yml	d21c761aca9f97a03a41d09cda2184f9
+A	tests/modules/search_api_solr_test_facets/config/install/views.view.search_api_test_view.yml	9cd22f3de1d7a25915a9303230018522
 A	tests/modules/search_api_solr_test_facets/search_api_solr_test_facets.info.yml	806d1ae09c21042b0658f1bb60366a43
 M	tests/src/Kernel/SearchApiSolrTest.php	15c5783bc28844230347d0f7b35f278e

@@ -1,6 +1,0 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	filter_perms.info.yml	9260c1b2df902dfc2fcc7d69de9a8fb2
-A	filter_perms.services.yml	06f7e584fb0bd4fd4f137a5ed558401e
-A	src/Form/PermissionsForm.php	81eeef604fb203dbcdfc984f96768ec1
-A	src/Form/PermissionsRoleSpecificForm.php	cceb62784a8701df45c6277133fc8794
-A	src/Routing/RouteSubscriber.php	792c2e15a88802b80ed37407e7b79957

@@ -1,8 +1,29 @@
+A	.gitignore	426bc24de380d74320ab4537027859b2
 M	CHANGELOG.txt	7e8102a85518b5d184ac1fe2cdcb6695
+M	README.txt	e49c946204353d867edc247635a4bb91
+D	classes/mm-basic/css/mm-basic.css	
+D	classes/mm-fresh/css/mm-fresh.css	
+D	examples/css/mmenu_example.custom.css	
+D	examples/js/mmenu_example.custom.js	
+D	icons/mmenu/Read Me.txt	
+D	icons/mmenu/demo-files/demo.css	
+D	icons/mmenu/demo-files/demo.js	
+D	icons/mmenu/demo.html	
+D	icons/mmenu/fonts/mmenu.eot	
+D	icons/mmenu/fonts/mmenu.svg	
+D	icons/mmenu/fonts/mmenu.ttf	
+D	icons/mmenu/fonts/mmenu.woff	
+D	icons/mmenu/mmenu.css	
+D	icons/mmenu/selection.json	
+D	icons/mmenu/style.css	
+A	js/mmenu.js	e166375ade1fcbfd8115f4905d6d55f8
+M	mmenu.admin.inc	34a621d1f00d0e6b59297e4560c06812
+M	mmenu.api.php	1d5138d0de29a264b4ed491f365520ed
 M	mmenu.info	6acf197e29677b9a54b998c371e9caab
+M	mmenu.install	190f4fa2e3eae4b749d69f0c404b58b1
 M	mmenu.module	519417b38d88f477c92b120de5e80194
-M	themes/mm-basic/styles/mm-basic.css	be94520d17d90d3e8833238a0cb39a1a
-M	themes/mm-basic/styles/mm-basic.scss	09764f787f7008a474ccb9043d3608b3
-M	themes/mm-fresh/styles/mm-fresh.css	19623984f50bcdeb7044ebe3c8a055c2
-M	themes/mm-fresh/styles/mm-fresh.scss	dda0f43d4f9d976632f3e7134f75576c
+A	themes/mm-basic/styles/mm-basic.css	be94520d17d90d3e8833238a0cb39a1a
+A	themes/mm-basic/styles/mm-basic.scss	09764f787f7008a474ccb9043d3608b3
+A	themes/mm-fresh/styles/mm-fresh.css	19623984f50bcdeb7044ebe3c8a055c2
+A	themes/mm-fresh/styles/mm-fresh.scss	dda0f43d4f9d976632f3e7134f75576c
 M	tpl/mmenu.tpl.php	2c45b4ce7a58e0bf13a69802122d3b3d

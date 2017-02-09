@@ -1,18 +1,6 @@
 M	CHANGELOG.txt	c44543954ce70fb6e3b292555d52dd72
-M	README.txt	7fd29eeff868e1f830b9577dce025fdf
-A	botcha.admin.inc	5bb9caf3f7fc38788605b8c347ddfeaf
-D	botcha.botcha.inc	
-M	botcha.inc	4294b06cbbedaa55fc1bb5253c0c97d2
 M	botcha.info	482effb9a3063c7f4f32edaf83b9a20c
 M	botcha.install	eff2ef9e0d80a2771ad03466d4c9d3c3
 M	botcha.module	e0ca31ae5832a98f40b5226fc6dc91c8
-D	botcha.pages.inc	
 M	botcha.test	40189e3178d58df02f3f118019342f29
-A	controller/botcha.controller.inc	3a84564d9753e471c9c6066bca1f9f5e
-A	controller/botcha_form.controller.inc	bb4b418366d5b6d902bf050d09df1046
-A	controller/botcha_recipe.controller.inc	0fefa37b30167bc9ba39db6483dee95c
-A	controller/botcha_recipebook.controller.inc	6712082bc3edfa703418109bd4b721b7
-A	model/botcha.model.inc	3120be488b00edb9335456275bb025d7
-A	model/botcha_form.model.inc	56936760a5b745e41815c440bacd00f0
-A	model/botcha_recipe.model.inc	77a667cc91509c4241e6c55aaa7170e6
-A	model/botcha_recipebook.model.inc	86d00501dc77f567b78e796a7b1a8448
+M	controller/botcha_recipe.controller.inc	0fefa37b30167bc9ba39db6483dee95c

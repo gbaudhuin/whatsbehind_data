@@ -1,26 +1,23 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	advanced-help-popup.tpl.php	c26256c2fe4fe8cd680a386974b7abce
-M	advanced_help.info	ca5b6deb472605481b16d253cab76c04
-M	advanced_help.install	d8403529f415cfc518eb772099cea916
-M	advanced_help.module	0c9ec87d3fd9ff702d29f853064cd409
-M	help-icon.css	41ff7b957792ff7c210f9819b43e69d0
-M	help-popup.css	a87ff4d3c60153b6b01db4351147c3a6
-M	help.css	26d5f1c325264e9a18eaa315b078a493
-M	help.png	effd0887e43ef00768ff5dd732c9ec5a
-D	help/.htaccess	
-M	help/advanced_help.help.ini	206b2de54bf31d2e8b4796de81360fc0
-D	help/click_icon.png	
-D	help/ini-file.html	
-D	help/readme.html	
-M	help/translation.html	fedfc54b487e46417b270dfe8b6f6cb1
-M	help/using-advanced-help.html	dabe8bca28e28afbc0097c8f09b86424
-D	help/why-advanced-help.html	
-D	help_example/help/.htaccess	
-M	help_example/help/about-php.html	41995488b31cbddf1d09fad999ca7427
-M	help_example/help/help_example.help.ini	4cc53b70a6685d926475b93c8bff394d
-M	help_example/help/history.html	6c647709c4313c95fc9646a52701af90
-M	help_example/help/security.html	4a2fc243304cbeeec4106738e39624fb
-M	help_example/help/syntax.html	5d6a927e4e50af41e46612b58c93059f
-M	help_example/help/usage.html	7bcb495d59ef51c0efa16d50f475b196
-M	help_example/help_example.info	b551794c514012167b9c97832b90c56d
-M	help_example/help_example.module	35379368c3891493007df436224da246
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	advanced-help-popup.tpl.php	c26256c2fe4fe8cd680a386974b7abce
+A	advanced_help.info	ca5b6deb472605481b16d253cab76c04
+A	advanced_help.install	d8403529f415cfc518eb772099cea916
+A	advanced_help.module	0c9ec87d3fd9ff702d29f853064cd409
+A	help-icon.css	41ff7b957792ff7c210f9819b43e69d0
+A	help-popup.css	a87ff4d3c60153b6b01db4351147c3a6
+A	help.css	26d5f1c325264e9a18eaa315b078a493
+A	help.png	effd0887e43ef00768ff5dd732c9ec5a
+A	help/advanced_help.help.ini	206b2de54bf31d2e8b4796de81360fc0
+A	help/translation.html	fedfc54b487e46417b270dfe8b6f6cb1
+A	help/using-advanced-help.html	dabe8bca28e28afbc0097c8f09b86424
+A	help_example/help/180px-Andi_Gutmans_1.jpg	2afc36234d3391523a7ccb5cfa395352
+A	help_example/help/180px-Lerdorf.jpg	69fbdf0b6f80cc8113879c20d319a842
+A	help_example/help/180px-PHP_Hello_World_screenshot.png	3941ad32b9108e59d01093c510cbf728
+A	help_example/help/about-php.html	41995488b31cbddf1d09fad999ca7427
+A	help_example/help/help_example.help.ini	4cc53b70a6685d926475b93c8bff394d
+A	help_example/help/history.html	6c647709c4313c95fc9646a52701af90
+A	help_example/help/security.html	4a2fc243304cbeeec4106738e39624fb
+A	help_example/help/syntax.html	5d6a927e4e50af41e46612b58c93059f
+A	help_example/help/usage.html	7bcb495d59ef51c0efa16d50f475b196
+A	help_example/help_example.info	b551794c514012167b9c97832b90c56d
+A	help_example/help_example.module	35379368c3891493007df436224da246

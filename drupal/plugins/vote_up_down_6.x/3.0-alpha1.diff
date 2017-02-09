@@ -2,6 +2,7 @@ A	.cvsignore	d0b8423045a0917e4bd5eaef9b71f235
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 M	README.txt	1e6186a77cb45001ad3e1fac7c504099
 M	WIDGETAPI.txt	8d7dc0b597ef5b83ca9e0b5c22b9fe09
+M	hook_vud.php	2a6fd69d7456b75ab947edde0ad10a37
 A	translations/es.po	769a95f421bc7f5e4bdda937cebcc840
 A	translations/vote_up_down.pot	05a5a4758e54a9c66339b643a561c1a2
 M	vud.info	58198048f4d89c252bdee9633b30cda7
@@ -18,7 +19,6 @@ M	vud_comment/vud_comment.module	a64a4879968217d2200489ad6c7d76e1
 M	vud_comment/vud_comment.test	a9e93035e69d3d8789eca50e80b93d3e
 M	vud_node/views/vud_node.views.inc	4090413365eb4a2d71853b88ddf0a48d
 M	vud_node/views/vud_node_handler_field_widget.inc	c77b7654389b8915c6bc5da3485c097a
-D	vud_node/vud_node.api.php	
 M	vud_node/vud_node.info	f57490e9e23858c1ce42361fed259118
 M	vud_node/vud_node.install	cfcba04cbe6892539a3758d5371557ea
 M	vud_node/vud_node.module	91d50351b0b9c789769703423946dbfe
@@ -31,18 +31,17 @@ M	vud_term/vud_term.module	20e7448076d699c5fb557813c263d377
 M	vud_term/vud_term.test	8935d69b326aeb00e54f599d3b53a57d
 M	widgets/alternate/alternate.css	0fdaeedca93d4ebdf0e809f5be5861c5
 M	widgets/alternate/alternate.inc	a006220cd5d64f70500c15acaae9c978
+M	widgets/alternate/plus.png	a08c8edf4412c30866074edb1b6ccc95
+A	widgets/alternate/plus.svg	90093631dec3b4e78808d2b249301273
 M	widgets/alternate/widget.tpl.php	3d70643107c2115ee546480ec6ee4423
+M	widgets/plain/arrows.png	2145706b2870a248970f13684f62420f
+A	widgets/plain/arrows.svg	ac2898fdd9f83c67ddc68e81f7aaf361
 M	widgets/plain/plain.css	4ea48e89d9324658b5836cfcf25650f8
 M	widgets/plain/plain.inc	e19f3d3316f5048690e36abbbbb7565f
 M	widgets/plain/votes.tpl.php	6a6e0573bd6eabf6cd0bafae304e3a6b
 M	widgets/plain/widget.tpl.php	f57ce83b1e2e793154f2a0fe9fa94b13
-D	widgets/thumbs/status-active.gif	
-D	widgets/thumbs/thumbs.css	
-D	widgets/thumbs/thumbs.inc	
-D	widgets/thumbs/thumbs.js	
-D	widgets/thumbs/thumbs.png	
-D	widgets/thumbs/thumbs.svg	
-D	widgets/thumbs/widget.tpl.php	
+M	widgets/upanddown/arrows.png	e5f2df6fee106e60be541856b994b614
+M	widgets/upanddown/arrows.svg	8126aaf2cc529ea15122c8aaff9fc53d
 M	widgets/upanddown/upanddown.css	ee4b6d70d3309a0bfce39a7edb4408c1
 M	widgets/upanddown/upanddown.inc	0e34e2304a04d5ce494e912647a9f16b
 M	widgets/upanddown/widget.tpl.php	c95c84f47257ca7b853a46447b42e1e6

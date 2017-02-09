@@ -1,23 +1,11 @@
-D	CHANGELOG.txt	
-M	INSTALL.txt	ec4c847da96506d8e45b8974b8047c2b
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	73043ac12162a7779496e548fdb136c1
-M	UPDATE.txt	166087571ac0c9b0c1c51fb7293fd1f0
-M	admin.css	19345968b1fca45356e44a4b824341a9
-D	includes/taxonomy_access.views.inc	
-D	includes/taxonomy_access_handler_filter_create.inc	
-D	includes/taxonomy_access_handler_filter_delete.inc	
-D	includes/taxonomy_access_handler_filter_list.inc	
-D	includes/taxonomy_access_handler_filter_update.inc	
-D	includes/taxonomy_access_handler_filter_view.inc	
-D	tac_fields/tac_fields.admin.inc	
-D	tac_fields/tac_fields.info	
-D	tac_fields/tac_fields.install	
-D	tac_fields/tac_fields.module	
-D	taxonomy_access.admin.inc	
-M	taxonomy_access.info	da1910e5a94425031f32ac00c8e18b9b
-M	taxonomy_access.install	57b2ff2576b1bde31b6ad8257ec02e04
-M	taxonomy_access.module	39c81bed1f207e293a4de8931dcb85d6
+A	INSTALL.txt	ec4c847da96506d8e45b8974b8047c2b
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	73043ac12162a7779496e548fdb136c1
+A	UPDATE.txt	166087571ac0c9b0c1c51fb7293fd1f0
+A	admin.css	19345968b1fca45356e44a4b824341a9
+A	taxonomy_access.info	da1910e5a94425031f32ac00c8e18b9b
+A	taxonomy_access.install	57b2ff2576b1bde31b6ad8257ec02e04
+A	taxonomy_access.module	39c81bed1f207e293a4de8931dcb85d6
 A	taxonomy_access_admin.inc	440c61c2351ca88bbe3af88cdbaeabd6
 A	translations/de.po	f4ada92500640c4902c9ae7f4ed82630
 A	translations/old/IT.po	89bd3605083501dcdbb342f3400b1c26

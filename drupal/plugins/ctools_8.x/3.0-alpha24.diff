@@ -14,7 +14,9 @@ A	src/Form/ContextDelete.php	459f4e060a044ac554012228f5444318
 M	src/Form/ManageContext.php	1f6fce7e35cf19a40085d76f8da723ff
 A	src/Form/ManageResolverRelationships.php	df52f5cc396ce74e16558522f094cb57
 M	src/Form/RelationshipConfigure.php	35691ee62e22742221ed53f557e53959
+D	src/Form/RelationshipDelete.php	
 A	src/Form/ResolverRelationshipConfigure.php	465b8ceb75b673673ec9f55810bc20c0
+A	src/Form/ResolverRelationshipDelete.php	815faf2a49a0d57f91dde22d72c75374
 A	src/Plugin/Deriver/TypedDataEntityRelationshipDeriver.php	6271cb37de385a556f1e042a017aed39
 A	src/Plugin/Deriver/TypedDataLanguageRelationshipDeriver.php	92499f9a89f82af8840e381694f2ab0e
 A	src/Plugin/Deriver/TypedDataPropertyDeriverBase.php	60255f404476821f6ee3550521fff37e
@@ -33,4 +35,6 @@ A	tests/src/Kernel/RelationshipsTestBase.php	62e257cfb60c18b2547fb4f4541d069a
 A	tests/src/Kernel/TypedDataEntityRelationshipPluginTest.php	a8d51cac60debd192c79713f5011937d
 A	tests/src/Kernel/TypedDataLanguageRelationshipPluginTest.php	434531e86e28f0d021956056b23b3480
 A	tests/src/Kernel/TypedDataRelationshipPluginTest.php	626b7e8e7898678a5b7462360ea1f847
+A	tests/src/Kernel/TypedDataResolverTest.php	31b9523fcadafd989b5e5de60c718d13
+D	tests/src/KernelTests/TypedDataResolverTest.php	
 A	tests/src/Unit/ContextMapperTest.php	7d98c28511194ae1f77af1268439a4b7

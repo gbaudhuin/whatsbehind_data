@@ -427,6 +427,8 @@ D	translations/views.pot
 M	views.info	5e618d1f9d9503cd7cbf829ca7f894fa
 M	views.install	f11e4e78c7e7730911322815c840937a
 M	views.module	18bca1c6fd568e77f5984300dd4f109a
+D	views2.doxy	
+A	views3.doxy	347f28336301912468dc3ec04724912b
 M	views_export/views_export.css	5fe14938788f2a803ab9898df7c4c841
 M	views_export/views_export.info	72f5dd36c5f04e9468c475189c330277
 M	views_export/views_export.module	68659900447d36d3b17be0d4f0789153

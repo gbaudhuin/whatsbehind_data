@@ -1,10 +1,8 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	862952e3b8b527994b741b2cc6b83a43
-A	lang_dropdown.css	ca1f61e1c13396ed234a1aa53eacf664
-A	lang_dropdown.info	4b909e13890c1b02d255739b69d3f05c
-A	lang_dropdown.install	cd702f7c1c7d22237f306a2fc249270a
-A	lang_dropdown.js	d9e7f6951b5db30f3dc8c55e7c8716d3
-A	lang_dropdown.module	6b261724aed05030f5eb3c879797b90e
+M	lang_dropdown.css	ca1f61e1c13396ed234a1aa53eacf664
+M	lang_dropdown.info	4b909e13890c1b02d255739b69d3f05c
+M	lang_dropdown.install	cd702f7c1c7d22237f306a2fc249270a
+M	lang_dropdown.js	d9e7f6951b5db30f3dc8c55e7c8716d3
+M	lang_dropdown.module	6b261724aed05030f5eb3c879797b90e
 A	msdropdown/Readme.md	ef9280c93620edd3918ddfe0335231dc
 A	msdropdown/Readme.txt	39034d94c829776c78f05e6bf3156416
 A	msdropdown/css/msdropdown/dd.css	c3f8ef902e849f9d3891450be06a30d6
@@ -14,6 +12,9 @@ A	msdropdown/css/msdropdown/ldsDark.css	0cc46978af5e64379a39bfae7e1d9b57
 A	msdropdown/css/msdropdown/ldsSkin.css	6d9c22d589b93aa3cb1c6f6d83db1ac1
 A	msdropdown/css/msdropdown/skin2.css	4987d035f7942d5d8f7a97ee143772ac
 A	msdropdown/css/msdropdown/sprite.css	f36b747750eb34d396a791a3dde2a8de
+D	msdropdown/dd.css	
+D	msdropdown/dd_after.css	
+D	msdropdown/dd_arrow.gif	
 A	msdropdown/examples/byjson.html	6fb1e6c2e08c1080cade14d8bd6da53a
 A	msdropdown/examples/css-sprite.html	71c60db92eb171cc54aadfe3567a5658
 A	msdropdown/examples/css/sample.css	bf3321d1b59530715b0b4b30e3ea0d2d
@@ -25,13 +26,13 @@ A	msdropdown/examples/object-oriented-approach-more.html	133cd97bc3069c8c20a3d94
 A	msdropdown/examples/object-oriented-approach.html	82356c5b156675c06d9af7d5b8919267
 A	msdropdown/examples/submitdata.php	ddac62a85ad5284613f52e59e2ef7f9c
 A	msdropdown/examples/use-checkbox.html	ccda72ab9989647daaf078ad2ad89586
+D	msdropdown/icon-arrow.gif	
 A	msdropdown/images/msdropdown/icons/1273404841_tick_16.png	a774094920141b8443401567af149de2
 A	msdropdown/images/msdropdown/icons/Amex-56.png	d6568776a1ffddad9095924a67d9b249
 A	msdropdown/images/msdropdown/icons/Cash-56.png	053e05fd5acb1753cefe33d9494b5195
 A	msdropdown/images/msdropdown/icons/Discover-56.png	7fbd5bcf70a83af103de66efd0dc80c0
 A	msdropdown/images/msdropdown/icons/Mastercard-56.png	61219245f5834aa40bc53b5fe8040585
 A	msdropdown/images/msdropdown/icons/Paypal-56.png	c85a5ae5b9d76e1f423ea800f7539e5d
-A	msdropdown/images/msdropdown/icons/Thumbs.db	5d47b98f2ce69f3314296859ee77c4ad
 A	msdropdown/images/msdropdown/icons/Visa-56.png	2c49e7cf664ebc7e16f9f00771d26f1a
 A	msdropdown/images/msdropdown/icons/blank.gif	5f2a55134fedb3985ac4c066e4f263bc
 A	msdropdown/images/msdropdown/icons/browser-chrome.png	dff2385f5c2bec81804b33586cf6a143
@@ -75,7 +76,9 @@ A	msdropdown/images/msdropdown/skin2/dd_arrow.gif	90cac7ff09c130d6c4e5c4d626df51
 A	msdropdown/images/msdropdown/skin2/icon-ok.gif	295e3c60716a71d956a89d802f9e80a6
 A	msdropdown/images/msdropdown/skin2/title-bg.gif	d766c4c8afef75c69a327c220d506a47
 A	msdropdown/index.html	769a240072d3de86bdeec32c6f025f76
+D	msdropdown/jquery.dd.js	
 A	msdropdown/js/jquery/jquery-1.9.0.min.js	0652da382b6fceb033dfe2b6c06d4d11
 A	msdropdown/js/jquery/tester.js	5c36a6db708b2f54c6c539aa3b93bb30
 A	msdropdown/js/msdropdown/jquery.dd.js	d8175433754a1123c43ce3a322f64680
 A	msdropdown/js/msdropdown/jquery.dd.min.js	343d2d60b986c216239aacd940ccd1fd
+D	msdropdown/msDropDown.gif	

@@ -1,2 +1,5 @@
-M	node_basket.info	2add21bfcc12f853e7b3222b9f204c8b
-M	node_basket.module	90ff2716f7e6926b0533b58c65eaedd4
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	f09ddb24245bca95b7c939220f06555e
+A	node_basket.api.php	1d4ba0ed63f92c2c44fc15ace77b2291
+A	node_basket.info	2add21bfcc12f853e7b3222b9f204c8b
+A	node_basket.module	90ff2716f7e6926b0533b58c65eaedd4

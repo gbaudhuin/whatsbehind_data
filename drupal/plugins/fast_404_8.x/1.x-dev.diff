@@ -1,7 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	02975a0ae3d8113a278ea98f1bb2cd6b
-A	fast404.inc	2fd01ed2b7ae2ff0766854a8ebd610ef
-A	fast404.info.yml	2590508c396ba04672eb9ae733221a02
-A	fast404.services.yml	20c1b40f816fb3bec4db755b5f48a521
-A	src/EventSubscriber/Fast404EventSubscriber.php	02295ed1c8ce5e3bc5bbe291e600abc1
-A	src/Fast404.php	8f007ebf3a97f0926918507c3c00c10a
+M	fast404.info.yml	2590508c396ba04672eb9ae733221a02

@@ -9,7 +9,9 @@ M	modules/cart/commerce_cart.module	e5499f0179287ed73b64011a4311b744
 A	modules/cart/commerce_cart.views_execution.inc	9e50f201cf99390592c6f4b750e5da58
 M	modules/cart/config/install/views.view.commerce_cart_form.yml	e23c421f48e1dfd0da0956d1cb2d0626
 A	modules/cart/config/install/views.view.commerce_carts.yml	90f1cff798cc57ac64f6c10d015d3685
-M	modules/cart/src/Plugin/views/field/EditQuantity.php	8492442849b09bc3b004da1b8a25e714
+M	modules/cart/src/Plugin/views/Field/EditQuantity.php	8492442849b09bc3b004da1b8a25e714
+D	modules/cart/src/Plugin/views/Field/EditRemove.php	
+A	modules/cart/src/Plugin/views/field/RemoveButton.php	1609ca221d065d6adf8a329e3b19bf1a
 M	modules/cart/src/Tests/CartRefreshTest.php	dc66f64e8f701136266d39371d0e7cb1
 A	modules/cart/src/Tests/CartTest.php	3ca9fbd25081c59410e01e1206d34c17
 M	modules/order/commerce_order.info.yml	8284cd3b59683a96ffb1bf53790a2804
@@ -80,6 +82,10 @@ M	modules/product/commerce_product.module	701685e28af723f04e7dd5548741bde0
 M	modules/product/config/install/core.entity_form_display.commerce_product.default.default.yml	cecd1aa2d2bf2a77abad0f19b2a64bfe
 M	modules/product/config/install/core.entity_form_display.commerce_product_variation.default.default.yml	a6757fc89a13fb536f1ab16903094528
 M	modules/product/config/install/core.entity_view_display.commerce_product.default.default.yml	f95419f54c798ee49794a5b9b7eaf480
+A	modules/product/config/install/system.action.commerce_publish_product.yml	e5c0a07c10e55e1db2b4bdb851327b18
+A	modules/product/config/install/system.action.commerce_unpublish_product.yml	ad468a7397eb0f67516b20bd39133f90
+D	modules/product/config/install/system.action.publish_product_action.yml	
+D	modules/product/config/install/system.action.unpublish_product_action.yml	
 M	modules/product/config/install/views.view.commerce_products.yml	ed0f9b13778dbacc2991791e60b69640
 M	modules/product/config/optional/core.entity_form_display.commerce_line_item.product_variation.default.yml	7adcd65e6b44154a3cc889d6d25cc44c
 M	modules/product/config/optional/core.entity_view_display.commerce_line_item.product_variation.default.yml	2f7374d323eea56a88e71cb6ee7e5099

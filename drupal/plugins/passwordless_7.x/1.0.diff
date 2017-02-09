@@ -1,5 +1,6 @@
-M	README.txt	e0d411261fda00419b1277ce5219050c
-D	passwordless.api.php	
-M	passwordless.info	b5a42d5857bca1d848c007f6d7e355f4
-M	passwordless.install	41d642ef98a0ca061a1c2874dfbcf90f
-M	passwordless.module	90a780c09c5f54dd551de3ee97e712d6
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	e0d411261fda00419b1277ce5219050c
+A	passwordless.css	cbf1276a7f34bb274f6b81e711b3b0fb
+A	passwordless.info	b5a42d5857bca1d848c007f6d7e355f4
+A	passwordless.install	41d642ef98a0ca061a1c2874dfbcf90f
+A	passwordless.module	90a780c09c5f54dd551de3ee97e712d6

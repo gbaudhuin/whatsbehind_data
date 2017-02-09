@@ -1,16 +1,54 @@
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	rpx_core.info	cb3d7744bf6a7d85378ad4ab93db3822
-D	rpx_core.install	
-M	rpx_core.module	4572278d3419b4f1478535b04bb30ebb
-M	rpx_core.pages.inc	f0feaca77ba647527412439f71f92bb5
-M	rpx_core.webapi.inc	3502b10cbe06b792416f55dbce83660d
-M	rpx_rules.info	878642cb97c05bdc7947ea9b4d68b42e
-M	rpx_ui.admin.inc	060495775c169b7b327ad0bb7e0e120d
-M	rpx_ui.info	a6d3c89c6aca944efa2f02618bc0e6d1
-M	rpx_ui.install	ee8d162a8dec43fc96d3b0241d8235a8
-M	rpx_ui.module	a6dbb68b913cac7c0db85f2a28e3604d
-M	rpx_ui.pages.inc	35ee98822055a103749865770f964a50
-M	rpx_ui.paths.inc	ae715036c3a9d14ca46e6b1d87c00bf6
-M	rpx_widgets.css	4cf7e73130be58dff0988b75a37052f4
-M	rpx_widgets.info	d43caf8bb0d80466603c20d5279fbea5
-M	rpx_widgets.module	801ee01cced4df9ea630fabcc3821d87
+M	README.txt	e786ff246e3f82492f93c158877f7894
+D	images/aol.png	
+D	images/blogger.png	
+D	images/facebook.png	
+D	images/flickr.png	
+D	images/google.png	
+D	images/hyves.png	
+D	images/linkedin.png	
+D	images/live_id.png	
+D	images/livejournal.png	
+D	images/myopenid.png	
+D	images/myspace.png	
+D	images/netlog.png	
+D	images/openid.png	
+D	images/provider-icons.png	
+A	images/providers_icons16.png	2baae6d1164b083e7bbb9778e5b05d74
+A	images/providers_icons32.png	6104fb3c31fc14e928b6e8e15159b418
+D	images/twitter.png	
+D	images/verisign.png	
+D	images/wordpress.png	
+D	images/yahoo.png	
+D	rpx.admin.inc	
+D	rpx.class.php	
+D	rpx.css	
+D	rpx.info	
+D	rpx.install	
+D	rpx.module	
+A	rpx_core.info	cb3d7744bf6a7d85378ad4ab93db3822
+A	rpx_core.module	4572278d3419b4f1478535b04bb30ebb
+A	rpx_core.pages.inc	f0feaca77ba647527412439f71f92bb5
+A	rpx_core.webapi.inc	3502b10cbe06b792416f55dbce83660d
+A	rpx_rules.info	878642cb97c05bdc7947ea9b4d68b42e
+A	rpx_rules.module	c90ba2ca860ae585c77b2b72980f26fb
+A	rpx_rules.rules.inc	18ab9585a5556b59492e71d1daf4758c
+A	rpx_ui.admin.inc	060495775c169b7b327ad0bb7e0e120d
+A	rpx_ui.css	595661e2f676837d862021d262714308
+A	rpx_ui.info	a6d3c89c6aca944efa2f02618bc0e6d1
+A	rpx_ui.install	ee8d162a8dec43fc96d3b0241d8235a8
+A	rpx_ui.js	59edd28a87dcf3514b6c26821af2186b
+A	rpx_ui.module	a6dbb68b913cac7c0db85f2a28e3604d
+A	rpx_ui.pages.inc	35ee98822055a103749865770f964a50
+A	rpx_ui.paths.inc	ae715036c3a9d14ca46e6b1d87c00bf6
+A	rpx_widgets.css	4cf7e73130be58dff0988b75a37052f4
+A	rpx_widgets.info	d43caf8bb0d80466603c20d5279fbea5
+A	rpx_widgets.js	aad4228a8049bf9b21fb2960db9ff3aa
+A	rpx_widgets.module	801ee01cced4df9ea630fabcc3821d87
+M	rpx_xdcomm.html	9b9130d8aafb8a4be6b36b18c3db1035
+A	token_rpx_ui.inc	9291396cca512b675d30dc9910aea3db
+A	views/rpx_ui.views.inc	47346751d907e4d8fb5dab4b8fe843b8
+A	views/rpx_ui_handler_field_delete_link.inc	bcb8ddfae7c7d920138500eba9043982
+A	views/rpx_ui_handler_field_provider_icon.inc	02dedb589d9059ebe64509407470c7a2
+A	views/rpx_ui_handler_filter_provider_name.inc	213ba96b8297c440d302981115301850
+A	views/rpx_ui_handler_filter_provider_title.inc	984c1a76445cd773f473f6f846f937da

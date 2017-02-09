@@ -1,9 +1,9 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	89a39369f5f0bfaee8e06bd8d9e99420
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	89a39369f5f0bfaee8e06bd8d9e99420
 A	views-attach-node-content-view.tpl.php	b5f000af1992b2d0601c7cd398fc487e
-A	views_attach.info	afa61d1e76d4a81a835e0be770ec0238
-A	views_attach.module	e81a64c5d3eba1481142c91b50e053a4
+M	views_attach.info	afa61d1e76d4a81a835e0be770ec0238
+M	views_attach.module	e81a64c5d3eba1481142c91b50e053a4
 A	views_attach.theme.inc	ddeb90fb16d6244ecb16e4f5fa40b779
-A	views_attach.views.inc	905ab43514f37ae514c720105104bf86
-A	views_attach_plugin_display_node_content.inc	9e48c260916af31dfd6541392ad3478f
-A	views_attach_plugin_display_profile.inc	2b9e176073950298da2f4465c49e9129
+M	views_attach.views.inc	905ab43514f37ae514c720105104bf86
+M	views_attach_plugin_display_node_content.inc	9e48c260916af31dfd6541392ad3478f
+M	views_attach_plugin_display_profile.inc	2b9e176073950298da2f4465c49e9129

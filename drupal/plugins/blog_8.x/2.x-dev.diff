@@ -1,7 +1,7 @@
 A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	blog.info.yml	9621d1e8cfd1e6964d709d4bcfc28376
+A	blog.info.yml	a40e93eec0e551fa8c8ffae2c94fec9c
 A	blog.links.action.yml	c54f73b2af46a89812bde8cdfe9bb69a
-A	blog.module	f04f95bffd86dec3330cc726527c908c
+A	blog.module	31f123e690a472e30b4fbf1c6466b9c6
 A	blog.services.yml	0d94103786a965044a1dd7d1d58177bd
 A	config/install/core.entity_form_display.node.blog_post.default.yml	27d6f66fe170ab3ddf9c1e1b26c2757e
 A	config/install/core.entity_view_display.node.blog_post.default.yml	65ede4240390626c45806d8626611aeb

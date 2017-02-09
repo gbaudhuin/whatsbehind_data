@@ -14,7 +14,6 @@ D	uuid_default_entities_example/uuid_default_entities_example.info
 D	uuid_default_entities_example/uuid_default_entities_example.module	
 M	uuid_path/uuid_path.info	c160825c4e3ee289943103b60c2af6fe
 M	uuid_services/resources/field_collection.resource.inc	ca76a7be153efa55c4c736c4b5b2e3cb
-A	uuid_services/uuid_services.admin.inc	db0732abe4e3665fb7e01f62a6985cd5
 M	uuid_services/uuid_services.info	8524425dc343b906e9f91d23078a2a98
 M	uuid_services/uuid_services.module	e6570753392a1aa2fd518c596156f207
 M	uuid_services_example/uuid_services_example.info	dc55544fb8f24641c2142e13b022c019

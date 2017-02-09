@@ -1,14 +1,7 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
-M	apachesolr_autocomplete.css	a521027b67803416d0f504c484e3dfc9
-M	apachesolr_autocomplete.info	8be81a5a4dc75b354f6cf4506e6d0bb5
-D	apachesolr_autocomplete.install	
-D	apachesolr_autocomplete.js	
-M	apachesolr_autocomplete.module	5db3d5ea3b4189e512fb50d7f9a0048e
-D	jquery-autocomplete/changelog.txt	
-D	jquery-autocomplete/jquery.autocomplete.css	
-D	jquery-autocomplete/jquery.autocomplete.js	
-D	jquery-autocomplete/todo	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	apachesolr_autocomplete.css	a521027b67803416d0f504c484e3dfc9
+A	apachesolr_autocomplete.info	8be81a5a4dc75b354f6cf4506e6d0bb5
+A	apachesolr_autocomplete.module	5db3d5ea3b4189e512fb50d7f9a0048e
 A	translations/de.po	2772462494c4160f955c412abc6baa02
 A	translations/es.po	c18306d62d6d8b5849187f8ccb37894d
 A	translations/general.pot	72566f7b9fef143c748c40b3e230ea46

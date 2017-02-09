@@ -1,13 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	01b852108e761a41b214416af80d7b9a
-A	composer.json	3d0635f833e4db71725e66240000f091
-A	help/theming-views-accordion.html	364fd68702a72e389743a8eff959376b
-A	help/using-views-accordion.html	1023c21eeed2b2f03231f78b63b7f9ec
-A	help/views-accordion-style.html	bcd872dce6b5d2314c3a4b12d92059cd
-A	help/views_accordion.help.ini	a52955c19a546b39a14fa0d8b7c4eed7
-A	src/Plugin/views/style/ViewsAccordion.php	974462ce3b6c04a14dd480e73d8fa8ad
-A	templates/views-accordion-view.html.twig	5e467cec45199dc21016aae98f535d5f
-A	views-accordion.js	1f0a6c27f49d1478ec1fbbc419e3f8e6
-A	views_accordion.info.yml	f540144238429784108a638c3f769db9
-A	views_accordion.libraries.yml	2f48846f3de6226519d098e97e6131a3
-A	views_accordion.module	25588a341bfa7ac6c1784ccce8acc4b8
+M	views_accordion.info.yml	a70b1764ba47d0ba52b252d67c209801

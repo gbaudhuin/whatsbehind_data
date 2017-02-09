@@ -1,5 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	de0ce8caa1cd2c4f05e0a3172c61c549
-A	security_questions.info	de40932cf03e71f3f67217c80b73e3e3
-A	security_questions.install	ee39f32dedd9a76ff512e100fdf13096
-A	security_questions.module	7ea79f5ee8dd872d7f0bcb5ddcdda205
+M	security_questions.info	de40932cf03e71f3f67217c80b73e3e3
+M	security_questions.module	7ea79f5ee8dd872d7f0bcb5ddcdda205

@@ -173,6 +173,9 @@ M	src/Tests/IntegrationTest.php	2702380b9636c550bd8bddfba50c403a
 M	src/Tests/LanguageIntegrationTest.php	bf7ba1f3287a5dec4b4cccdab33239da
 M	src/Tests/LocalActionsWebTest.php	e505b1595354abf989678525d19e4b7c
 M	src/Tests/OverviewPageTest.php	6004e4673804740804ab39d3f098f89a
+D	src/Tests/Processor/ProcessorIntegrationTest.php	
+D	src/Tests/Processor/TestItemsTrait.php	
+A	src/Tests/ProcessorIntegrationTest.php	cef042650d6c92251d52c982e3b51de0
 M	src/Tests/ViewsTest.php	8eeb93b05c20aaaa112815345a7ee478
 M	src/Tests/WebTestBase.php	d529a49261302250051b45d135ebfffd
 M	src/Tracker/TrackerInterface.php	ab72cf84fe035b3b2a7e334533d031e1
@@ -235,5 +238,6 @@ M	tests/src/Unit/Plugin/Processor/ProcessorTestTrait.php	5eac378a0f199e4b6cea463
 M	tests/src/Unit/Plugin/Processor/RoleFilterTest.php	f5e0bb50f821992570b7f285a1ec55b6
 M	tests/src/Unit/Plugin/Processor/StopwordsTest.php	8e1ffe192d1aebeb6ec19c0bde9fe860
 M	tests/src/Unit/Plugin/Processor/TestFieldsProcessorPlugin.php	fb99a71029a2b409ffa5dde4af6c44d7
+A	tests/src/Unit/Plugin/Processor/TestItemsTrait.php	800d1a087915860e2e94557643bf0325
 M	tests/src/Unit/Plugin/Processor/TokenizerTest.php	eab0f3aa7f24cdec69d03ff16e33c5fc
 M	tests/src/Unit/Plugin/Processor/TransliterationTest.php	3ab2992a0f8f97bc954b28ba0d46da9f

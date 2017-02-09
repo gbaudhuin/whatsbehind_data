@@ -1,4 +1,6 @@
 M	README.txt	d76dc77956ddc011146271efbe86ead0
+D	css/content.css	
+A	css/imce-content.css	de3f2c49df34a25ced3a3350f66e0a73
 M	imce.info	369e7025ae7706b8e674366cabc574da
 M	imce.module	3c626ccd22eb0c93aea5ffd7e0614dc5
 M	inc/admin.inc	fcd9ae8084343ddbdcba645246af322c

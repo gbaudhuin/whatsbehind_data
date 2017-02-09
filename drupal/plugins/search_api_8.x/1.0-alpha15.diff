@@ -70,9 +70,33 @@ M	src/Utility.php	c18e652243e6b0b60052c0df3469cba2
 M	tests/search_api_test_backend/search_api_test_backend.info.yml	856c41e18bbdbfe500540e92696cd902
 M	tests/search_api_test_backend/src/Plugin/search_api/backend/TestBackend.php	27fa3b6bdbd615c61124e4b9cb580e52
 M	tests/search_api_test_backend/src/Plugin/search_api/tracker/Test.php	81ac0ac5aa55d2b80bd2016a6b4b5384
+D	tests/search_api_test_db/config/install/field.field.entity_test.article.body.yml	
+D	tests/search_api_test_db/config/install/field.field.entity_test.article.category.yml	
+D	tests/search_api_test_db/config/install/field.field.entity_test.article.keywords.yml	
+D	tests/search_api_test_db/config/install/field.field.entity_test.article.width.yml	
+D	tests/search_api_test_db/config/install/field.field.entity_test.item.body.yml	
+D	tests/search_api_test_db/config/install/field.field.entity_test.item.category.yml	
+D	tests/search_api_test_db/config/install/field.field.entity_test.item.keywords.yml	
+D	tests/search_api_test_db/config/install/field.field.entity_test.item.width.yml	
+D	tests/search_api_test_db/config/install/field.storage.entity_test.body.yml	
+D	tests/search_api_test_db/config/install/field.storage.entity_test.category.yml	
+D	tests/search_api_test_db/config/install/field.storage.entity_test.keywords.yml	
+D	tests/search_api_test_db/config/install/field.storage.entity_test.width.yml	
 M	tests/search_api_test_db/config/install/search_api.index.database_search_index.yml	b561cf7bae024b7cd0cd2600918cd7ec
 M	tests/search_api_test_db/search_api_test_db.info.yml	06f7ee7c82bab165a57bcd64f1a2a145
 M	tests/search_api_test_dependencies/search_api_test_dependencies.info.yml	450f60b213c932b19cb6c99753620ad1
+A	tests/search_api_test_example_content/config/install/field.field.entity_test.article.body.yml	82791a0f23ec4da2eb09acf8bf6522d9
+A	tests/search_api_test_example_content/config/install/field.field.entity_test.article.category.yml	3a3933f6c685e1aad4547a4711036757
+A	tests/search_api_test_example_content/config/install/field.field.entity_test.article.keywords.yml	cb283d4efc99fe72c52e186ed4ee0544
+A	tests/search_api_test_example_content/config/install/field.field.entity_test.article.width.yml	d4c1d346a6e62efe21138ec8f9f7abe2
+A	tests/search_api_test_example_content/config/install/field.field.entity_test.item.body.yml	9524255b57b5743773ccb829f7fe8198
+A	tests/search_api_test_example_content/config/install/field.field.entity_test.item.category.yml	677efcc676db777f955cd1db94b8f563
+A	tests/search_api_test_example_content/config/install/field.field.entity_test.item.keywords.yml	5da5c29bd26c50641cc66ee9b834dc23
+A	tests/search_api_test_example_content/config/install/field.field.entity_test.item.width.yml	e9bf7ac60c7cb02e6993ea18446e4608
+A	tests/search_api_test_example_content/config/install/field.storage.entity_test.body.yml	957650c2e4711154be0a7d9d500eff01
+A	tests/search_api_test_example_content/config/install/field.storage.entity_test.category.yml	0d727c3e6b228d96e4153dd91b7e5227
+A	tests/search_api_test_example_content/config/install/field.storage.entity_test.keywords.yml	c6a1f5c77a49dacf2facefb0b915ef63
+A	tests/search_api_test_example_content/config/install/field.storage.entity_test.width.yml	0fc784dd21a4fdef9606dfdc7aaaf3cd
 A	tests/search_api_test_example_content/search_api_test_example_content.info.yml	5b9b3d51c4d933476c70c63cded82b1f
 M	tests/search_api_test_extraction/search_api_test_extraction.info.yml	5ea9f5f0aa2f4444270c8a9131a086d0
 M	tests/search_api_test_hooks/search_api_test_hooks.info.yml	222e5ccdebb24f3ad2a10b33f48c8054

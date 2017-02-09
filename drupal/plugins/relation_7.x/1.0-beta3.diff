@@ -4,6 +4,9 @@ A	UNINSTALL.txt	0e8e493a41278798e7471862942e08e6
 A	relation.admin.css	2dea2abc4af99a8e2ceaa9bc7067ab26
 M	relation.admin.inc	c997e75b2da00dd1fd8105fa33204c33
 A	relation.ctools.inc	2813fd899fdc0bc1ebddd8b07721b215
+D	relation.devel.inc	
+A	relation.drush.inc	55e8e4019e60353171a5207cd7a78ef7
+D	relation.field.inc	
 M	relation.info	95750e6ec300bfea0c43ee0c0fe25c7e
 M	relation.install	c94aaade515863b2cc0bedd36091b995
 M	relation.module	f4887db194cfc044e5f4ae19f024afc7
@@ -16,6 +19,7 @@ M	relation_dummy_field/relation_dummy_field.info	712f16097596a8fc9e46915cbbe273d
 M	relation_dummy_field/relation_dummy_field.module	4bac68098ba56e45f54ce2306c4e32e2
 A	relation_endpoint.info	3712fc3f62fa5caa239af08e5626a028
 A	relation_endpoint.install	ab4bf971a0908ead7515d4a072310876
+A	relation_endpoint.module	580960775beaad66b9242a92494de2b3
 M	relation_entity_collector/relation_entity_collector.info	18498c77baca61925f8a0a44f06dd999
 D	relation_entity_collector/relation_entity_collector.install	
 M	relation_entity_collector/relation_entity_collector.module	28747d2c205b083b0a3d9f737502ae50

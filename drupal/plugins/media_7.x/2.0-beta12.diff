@@ -1,0 +1,10 @@
+M	media.info	7722eadc40e6be49c6d72eeb6c2ff7f5
+M	modules/media_bulk_upload/media_bulk_upload.info	1d4e66936beb168e7a78ffd0d1230eca
+M	modules/media_internet/media_internet.info	f38ae6e287f0c2359ca53cc31bebb60a
+M	modules/media_internet/tests/media_internet_test.info	547ed73b637c572790290ecfafddb10e
+M	modules/media_migrate_file_types/media_migrate_file_types.info	993a9a28a67b1bd41e6ed2229a6e025c
+M	modules/media_wysiwyg/includes/media_wysiwyg.pages.inc	c10e344a66217804e63f2acb29d59ca5
+M	modules/media_wysiwyg/media_wysiwyg.info	cf242f3cfa07884fd734b0d7817b180d
+M	modules/media_wysiwyg_view_mode/media_wysiwyg_view_mode.info	d8c2bb90d9f010aaca1c5d9b295b3c60
+M	modules/mediafield/mediafield.info	56707db0dbf2e0fad18a6832701ba4e4
+M	tests/media_module_test.info	6b907f0ecea38fcf29b9cabbc2e1f168

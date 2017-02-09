@@ -23,7 +23,9 @@ D	src/Plugin/Field/FieldFormatter/ColorFieldSwatchFormatter.php
 D	src/Plugin/Field/FieldFormatter/ColorFieldTextFormatter.php	
 D	src/Plugin/Field/FieldType/ColorFieldItem.php	
 A	src/Plugin/Field/FieldType/ColorFieldType.php	9f97f7bd25142bb87ee4803ef58a7cd3
+D	src/Plugin/Field/FieldWidget/ColorFieldDefaultWidget.php	
 A	src/Plugin/Field/FieldWidget/ColorFieldWidgetBox.php	3687d5414054ce4f2c4d74042d1c02a3
+A	src/Plugin/Field/FieldWidget/ColorFieldWidgetDefault.php	ba432eee23e064d6f9afea152a80e795
 A	src/Plugin/Field/FieldWidget/ColorFieldWidgetSimple.php	7f0575bd7eff4c709f42009fe9da8eab
 A	src/Plugin/Field/FieldWidget/ColorFieldWidgetSpectrum.php	5d2ef2b632ffa236378149dbdf25a6da
 A	templates/color-field-formatter-swatch.html.twig	b840c172ef24e28e079f2909fb0eaee4

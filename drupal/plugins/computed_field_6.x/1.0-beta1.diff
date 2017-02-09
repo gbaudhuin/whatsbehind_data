@@ -1,7 +1,8 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	61e1e5e4e773b2f224d5b812c92d07e3
-M	computed_field.info	f9a5fadc1bbe205be37321d158303343
-M	computed_field.install	74e289b3cc87882e8cf8760c3738e6f8
-M	computed_field.module	8727f7e60d52ec66cc018aaebb298f11
+A	CHANGELOG.txt	15905b8ae17f9571e39cd1b17d977cb7
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	61e1e5e4e773b2f224d5b812c92d07e3
+A	computed_field.info	f9a5fadc1bbe205be37321d158303343
+A	computed_field.install	74e289b3cc87882e8cf8760c3738e6f8
+A	computed_field.module	8727f7e60d52ec66cc018aaebb298f11
 A	translations/computed_field.pot	17151e6127471d8375dcb5e01d2bc7e4
 A	translations/de.po	3676cebe5bf8b0781f8be8ef8262a7d0

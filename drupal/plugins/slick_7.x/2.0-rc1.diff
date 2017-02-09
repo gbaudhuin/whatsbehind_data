@@ -11,8 +11,11 @@ M	css/theme/slick.theme--fullwidth.css	a6dac7fc3438c4fc2856e9b979f1953f
 M	css/theme/slick.theme.css	ce24c0e5a02df4c33c160519c05de631
 M	includes/slick.admin.inc	169f1eb2b42937f3945b4eb2c7b9f1ec
 M	includes/slick.extras.inc	7b1ba47e02dab84f1a3bb4c5d6d15c38
+A	includes/slick.field_collection.inc	0b621ffb9718e29f17985aa5e36ed4ae
 M	includes/slick.fields.inc	61d95466c196440809183bc2888a270b
 A	includes/slick.global.inc	7e79d41ff66a20da279ae36fb6009c3a
+A	includes/slick.image.inc	e559d1691c53e69af1ba34315fccb769
+A	includes/slick.media.inc	e52bff0772abb4aa45f7a4ad5e8d020b
 M	js/slick.admin.ui.min.js	b39e4479f5e0ccb7b13e582856992e0c
 M	js/slick.colorbox.js	ff28d2057d7e70a78da6688253643cd7
 M	js/slick.colorbox.min.js	eddeb40c24e41db597105d7bdec0f738
@@ -27,6 +30,9 @@ M	slick.install	b2d20009c9ad75ede93ec34ce6dab817
 M	slick.module	efb2e5ed82db5a596c59a03d76a1446a
 M	slick.slick.inc	2f9b78f95b50db441c25d8c7aedcbea2
 M	slick_fields/includes/slick_fields.formatters.admin.inc	bfec1311bd16fb1e9999e7017e52e2f3
+D	slick_fields/includes/slick_fields.formatters.field_collection.inc	
+D	slick_fields/includes/slick_fields.formatters.image.inc	
+D	slick_fields/includes/slick_fields.formatters.media.inc	
 M	slick_fields/slick_fields.info	cb580cf3e5d1e6d5fccd1f2ece09bfeb
 M	slick_fields/slick_fields.module	ace25933d1195592464434e8b684be71
 M	slick_ui/plugins/export_ui/SlickUi.class.php	0af2ffbec3bc2925b1e16d8bfe0dc734

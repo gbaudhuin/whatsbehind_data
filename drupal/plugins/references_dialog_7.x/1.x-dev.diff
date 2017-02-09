@@ -1,16 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	css/references-dialog-admin.css	0de3a758ef5019ea8e378f73e6c59c77
-A	css/references-dialog-search.css	9d0185ec24684ca677eb83d886079515
-A	img/cancel.png	5a3d969c21d20b146fbd461f4045f7ba
-A	img/edit.png	65a9c819384152ffc2509da6776cd485
-A	img/plus.png	ae8d1c50fd6a2d0730f40cb994566f41
-A	img/search.png	54a7b243f280b2f6df69a5b3f9ae0a9c
-A	js/references-dialog-child.js	0d6ee779a9979245cc01dfdb6a502416
-A	js/references-dialog.js	d62b622fef4f450216e58a6d68ab3a27
-A	js/search-reference.js	19e22c458cc1c25957f1f58577912c9f
-A	references-dialog-page.tpl.php	85262b0eb6deec23a971419d5e1d54d5
-A	references_dialog.api.php	15339853609fb43c93cb587a97d3bfc0
-A	references_dialog.dialog_widgets.inc	054976b786a5b4251553d6ed55c4375f
-A	references_dialog.info	8ddbe3fb476efe2f6e7f54fe3ee6d465
-A	references_dialog.module	8de9bd9c577c60f01c17078be36a5924
-A	views/references_dialog_plugin_display.inc	74522aef5cda188409df9eb1db80b0f4
+M	references_dialog.info	8ddbe3fb476efe2f6e7f54fe3ee6d465

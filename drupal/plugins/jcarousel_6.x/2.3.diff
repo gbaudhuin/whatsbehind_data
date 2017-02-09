@@ -1,5 +1,7 @@
+A	includes/jcarousel-view.tpl.php	fbdfe05e08d800fd187f92f337163b6f
 M	includes/jcarousel.views.inc	b477a10aab39d8b25ef3ed89cf758c9c
 M	includes/jcarousel_style_plugin.inc	a4b4fe6cfd245fbfadc04f8366eeb6b7
+D	jcarousel-view.tpl.php	
 M	jcarousel.info	9c7216b90927f6e1552893be73282df9
 M	jcarousel.module	de7792329cc818cd7c7e4d7b3ff45d64
 M	js/jcarousel.js	f4c9d09ed9ef1fce37bcc8948a780b95

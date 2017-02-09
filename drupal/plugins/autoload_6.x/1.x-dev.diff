@@ -1,7 +1,8 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	0ce562cbd7d7953441848ffac3c78a18
-A	autoload.info	a065e74f258d8a3dfc052140a41bff25
-A	autoload.install	91d14eade3a1b398b65ebd71fb52e9ba
-A	autoload.module	5a17e99c8e1ab99d6f807f8acaf734e2
-A	autoloadtest/autoloadtest.classes.inc	960daaf4b88e98273f595f135c6d3a5d
-A	autoloadtest/autoloadtest.module	af71490ffaa3d1a5a4f5f6344aaff1d7
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	0ce562cbd7d7953441848ffac3c78a18
+M	autoload.info	a065e74f258d8a3dfc052140a41bff25
+M	autoload.install	91d14eade3a1b398b65ebd71fb52e9ba
+M	autoload.module	5a17e99c8e1ab99d6f807f8acaf734e2
+M	autoloadtest/autoloadtest.classes.inc	960daaf4b88e98273f595f135c6d3a5d
+M	autoloadtest/autoloadtest.module	af71490ffaa3d1a5a4f5f6344aaff1d7
+D	translations/hu.po	

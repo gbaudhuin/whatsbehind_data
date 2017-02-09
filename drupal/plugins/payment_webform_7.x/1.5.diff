@@ -1,6 +1,8 @@
 M	payment_webform.info	3625436f11c589d0b59bda0cd93c79e4
 M	payment_webform.module	dd455b2234d8ccd7cc608e70b0333aa1
 M	payment_webform.webform.inc	c098cd1aea52d13d7a286e62dba4a228
+A	tests/PaymentWebformTestQueueWebTestCase.test	61edc058707a847e802985f7a98f8425
 D	tests/payment_webform_test/payment_webform_test.info	
 D	tests/payment_webform_test/payment_webform_test.module	
 D	tests/payment_webform_test/tests/PaymentWebformTestCallablesWebTestCase.test	
+D	tests/payment_webform_test/tests/PaymentWebformTestQueueWebTestCase.test	

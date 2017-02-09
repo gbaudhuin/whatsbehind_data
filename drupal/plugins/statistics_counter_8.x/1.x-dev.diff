@@ -1,11 +1,1 @@
-A	.gitignore	d41d8cd98f00b204e9800998ecf8427e
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	2e4266ec6c252164c571aacffe76fb5d
-A	config/install/statistics_counter.settings.yml	216174232de39f8ed301c4066b769a80
-A	config/schema/statistics_counter.schema.yml	7ea3802b864739f40ece2bada25b8a5d
-A	src/EventSubscriber/StatisticsCounterSubscriber.php	995fe0a3de72125c8656381a1e4760e5
-A	statistics_counter.info.yml	d3617581c52563a37ff1edda09196c15
-A	statistics_counter.install	0a8ad5cc413884c09aed2dab85b6b8dd
-A	statistics_counter.module	320703454ad7bb6e0087dc8c9f654b50
-A	statistics_counter.services.yml	d47795635a4e768c409462faf3fa71b0
-A	statistics_counter.views.inc	4a4d40e0646beb751134becb5b4facc3
+M	statistics_counter.info.yml	d3617581c52563a37ff1edda09196c15

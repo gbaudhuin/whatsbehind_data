@@ -1,23 +1,7 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	9735abbabe04bc7f247749b955b232f9
-D	help/term_merge.help.ini	
-D	help/term_merge.html	
-D	help/term_merge_duplicate_suggestion.html	
-D	includes/EntityReferenceTermMergeSynonymsBehavior.class.inc	
-D	includes/TaxonomyTermReferenceTermMergeSynonymsBehavior.class.inc	
-D	includes/TermMergeSynonymsBehavior.interface.inc	
-D	includes/TextTermMergeSynonymsBehavior.class.inc	
-D	js/duplicate.form.js	
-D	plugins/behavior/term_merge.inc	
-D	plugins/duplicate_suggestion/description.inc	
-D	plugins/duplicate_suggestion/name.inc	
-D	plugins/duplicate_suggestion/parent.inc	
-D	term_merge.api.php	
-D	term_merge.batch.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	9735abbabe04bc7f247749b955b232f9
 A	term_merge.css	f8df8ef233c3ae8465dc95c616ae6ab4
-M	term_merge.info	eda043f36cf361d7456cdb8e18909b6c
+A	term_merge.info	eda043f36cf361d7456cdb8e18909b6c
 A	term_merge.js	092cc726e3b6947d199fe5a1b515e47a
-M	term_merge.module	ab0941988de2eee3dc7b747e2aa38d30
-D	term_merge.pages.inc	
-D	term_merge.test	
+A	term_merge.module	ab0941988de2eee3dc7b747e2aa38d30
 A	term_merge_deletion.js	81d7329ee506d046dd60b4831704f34e

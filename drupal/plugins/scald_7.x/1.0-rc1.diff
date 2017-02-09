@@ -28,9 +28,13 @@ M	modules/library/dnd/css/editor.css	83bcf62fc7ec1af4dfef8b7f754334a3
 M	modules/library/dnd/dnd.admin.inc	d800c234457a3eee234abb7ef6a34f6e
 M	modules/library/dnd/dnd.info	435cf3565e6ef5d3515021d040b0ce90
 M	modules/library/dnd/dnd.module	1810dcb48161f43d23b1fab8a73a2819
+D	modules/library/dnd/icons/flash-large-color.png	
+D	modules/library/dnd/icons/flash-large-inverted.png	
+D	modules/library/dnd/icons/flash-large.png	
 M	modules/library/dnd/js/dnd-library.js	2e914e6f6998d30a3ea2383193f4ea84
 D	modules/library/dnd/js/jquery.fieldselection.js	
 D	modules/library/dnd/js/jquery.url.packed.js	
+D	modules/library/dnd/js/tinymce/forcecontainer/editor_plugin_src.js	
 D	modules/library/dnd/modules/dnd_test/dnd-editor-item.tpl.php	
 D	modules/library/dnd/modules/dnd_test/dnd-library-footer.tpl.php	
 D	modules/library/dnd/modules/dnd_test/dnd-library-header.tpl.php	
@@ -62,6 +66,7 @@ A	modules/library/dnd/plugins/ckeditor/dialogs/dnd.js	38232286f691372775a7679516
 A	modules/library/dnd/plugins/ckeditor/icons/atom.png	29802e8f735dd216b2de54b9565d12c3
 A	modules/library/dnd/plugins/ckeditor/lang/en.js	f5db59fb9a0596c00976600017946537
 A	modules/library/dnd/plugins/ckeditor/plugin.js	5c343c353e3420c2a8ba9d1236fad32a
+A	modules/library/dnd/plugins/forcecontainer/editor_plugin_src.js	3b85f9340c5cba03d2f354ebca9d2e5d
 M	modules/library/scald_dnd_library/includes/scald_dnd_library.views.inc	58f8352dceaccee492e2b9a4b3049815
 M	modules/library/scald_dnd_library/includes/scald_dnd_library.views_default.inc	c993f9892d5dc02137141f0d16301626
 M	modules/library/scald_dnd_library/includes/scald_plugin_display_library.inc	67e1e6d0f9a3be49354234e00f7b3056
@@ -80,6 +85,9 @@ M	modules/providers/scald_dailymotion/scald_dailymotion.install	f1cb733665da20a4
 M	modules/providers/scald_dailymotion/scald_dailymotion.module	6bc1511c9bde0222cb9c58b4597a8d97
 M	modules/providers/scald_dailymotion/scald_dailymotion.pages.inc	0f2e6c51fb83cce7cb008d5b75a9a10e
 M	modules/providers/scald_dailymotion/scald_dailymotion_player.tpl.php	06bb53ca07d6b1475943927f101725ba
+A	modules/providers/scald_flash/icons/flash-large-color.png	41dabda7076c5c45d324d3ced187ee04
+A	modules/providers/scald_flash/icons/flash-large-inverted.png	f48a36b6bb568953c63276d8e3223a2f
+A	modules/providers/scald_flash/icons/flash-large.png	d23681a6be0327ebdf92205d6fac7ff1
 A	modules/providers/scald_flash/icons/flash.png	3af2eb795999a0e8cbf6525f125170d3
 A	modules/providers/scald_flash/scald_flash.css	c293a9322957b706f238727abc37ab51
 A	modules/providers/scald_flash/scald_flash.info	6bc382853fddf4ae333c2dd23c5f498f

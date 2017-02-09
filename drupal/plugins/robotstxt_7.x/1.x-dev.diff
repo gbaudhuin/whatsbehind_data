@@ -1,12 +1,6 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	a8240f5366065de98b8e26608efbd858
-A	robots.txt	301f7ecc36e969e649a9152bc9e24172
-A	robotstxt.admin.inc	ccb503d5bb92432683057bab11eadcd3
-A	robotstxt.api.php	cb7bc3d74a3ef0e9d02da0e66fece626
-A	robotstxt.info	a9e26e870aca0f279ad5db6d3c72fe83
-A	robotstxt.install	40d4612c69994523c9b55638087323ca
-A	robotstxt.module	fcb279a3ce4eabce3c4fe7961d351bc1
+M	README.txt	a8240f5366065de98b8e26608efbd858
+M	robots.txt	301f7ecc36e969e649a9152bc9e24172
+M	robotstxt.info	a9e26e870aca0f279ad5db6d3c72fe83
 A	robotstxt.test	175f99b645349b32072fd413eeae2f19
-A	robotstxt.variable.inc	c9436f4f43a0d6deb1db837cdb074836
 A	tests/robotstxt_test.info	58f46d5efb8a96270765441fe1fd1879
 A	tests/robotstxt_test.module	903f4195dc2f1358587e952d25f4af49

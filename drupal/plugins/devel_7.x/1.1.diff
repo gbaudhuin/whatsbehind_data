@@ -35,6 +35,16 @@ M	krumo/skins/blue/skin.css	41f9a5d278b414e68740154b072f09a5
 M	krumo/skins/default/skin.css	cbf1c8ad09c2daea3ce833cbfb3ab55e
 M	krumo/skins/green/skin.css	57afcf4788a000138a5a196aab2fb7ea
 M	krumo/skins/orange/skin.css	4ef0f4dfc60495ea2b9f786770de5e13
+D	krumo/skins/schablon.com/collapsed.gif	
+D	krumo/skins/schablon.com/dotted.gif	
+D	krumo/skins/schablon.com/empty.gif	
+D	krumo/skins/schablon.com/expanded.gif	
+D	krumo/skins/schablon.com/skin.css	
+A	krumo/skins/white/collapsed.gif	9f822be4370c2c85b107a2a5a4b481a5
+A	krumo/skins/white/dotted.gif	4bd0b101111a2679522ab9ea30e51fba
+A	krumo/skins/white/empty.gif	f06a9516fc45296d03901eeac555ca36
+A	krumo/skins/white/expanded.gif	115925f46a969d6e915e79f6d20c8955
+A	krumo/skins/white/skin.css	083981dce3e4d373b5ac5317fa9df238
 D	performance/README.txt	
 D	performance/performance.info	
 D	performance/performance.install	

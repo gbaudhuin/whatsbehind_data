@@ -1,35 +1,17 @@
-A	CHANGELOG.txt	cd0cd4cdb99ef6ed615db3cda060dc1c
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+D	.gitignore	
+M	CHANGELOG.txt	ddb384e7ebf7ed60fc6dd4a968a822e2
 A	README.md	c928b0f89140af05aa168f5fe737f09e
 D	README.txt	
-A	TODO.txt	e3ad4ff4bea28c394c89145077750cf4
-A	addthis.addthis.inc	e6f370190eb4fe400286cb048388d105
-A	addthis.admin.css	b850ad566804cc32b718ec0abe786097
-D	addthis.admin.inc	
-A	addthis.api.php	dca09f404edefb79e0366e5664efe027
-D	addthis.css	
-A	addthis.example.php	8cc6c8f8dbd0d6e18e236d1e3ef8c64d
-M	addthis.info	2ef9c33b15ecdc94b42c22418e5ace5f
-A	addthis.install	c20bce773c5aaa084b776a51f23c69a9
-A	addthis.js	82f7ee92f70c33af0d41bfa1d5b58a6d
+M	TODO.txt	327456250ffbde501b365080c2a4d88a
+M	addthis.example.php	8cc6c8f8dbd0d6e18e236d1e3ef8c64d
+M	addthis.info	497bdda9dd15e45e5db646c203c29bc6
+M	addthis.install	c20bce773c5aaa084b776a51f23c69a9
+M	addthis.js	39187111614e0916b20addf3573e58a9
 M	addthis.module	cebe245c99f4b2bc035acc47b558ad94
-D	addthis.views.inc	
-A	addthis_displays/addthis_displays.addthis.inc	80cb85e31aeec3f1419bdd497705fcfa
-A	addthis_displays/addthis_displays.field.inc	b354b5c35386ace4c3f23236bcd22de5
-A	addthis_displays/addthis_displays.info	3b0daa4afcdea37dc5d39ac1de426342
-A	addthis_displays/addthis_displays.module	9c58c0510deea733ea5640d1a13e431a
-D	addthis_handler_field_service_links.inc	
-A	addthis_test/addthis_test.info	27768cf592ccc2b55a5a5e893260b285
-A	addthis_test/addthis_test.module	f4e05c1bcb2d49a7f4653e2a25e05991
-A	addthis_test/includes/addthis.test_pages.inc	f954a1bed55e55d76b8d325a5e8bdff7
-A	classes/AddThis.php	48c7c5a66f23cacd389e22417534dad6
-A	classes/Services/AddThisScriptManager.php	404f237782696296d5e237afbae07d6f
-A	classes/Util/AddThisJson.php	9eb4625dd90590a888ad37e15f9d88b0
-A	classes/Util/AddThisWidgetJsUrl.php	8e41bf940920c29d68ff4d5618bb7e54
-A	includes/addthis.admin.inc	8d757df7398397ab1961068ffcc04b01
-A	includes/addthis.block.inc	2f1ac4f0ec90383f9fd079a4da217b0c
-A	includes/addthis.field.inc	92adf2f471af25d2b45a55400fbf77aa
-A	tests/AddThisFunctionalityTestCase.test	351deb9c27389d550f2240ceb9cf2a88
-A	tests/AddThisJsTest.test	7476ca4f170d2add6ffc7c1269c78158
-A	tests/AddThisPermissionsTestCase.test	1524a7e4e2eda77a944f0b1423905a6e
-A	tests/AddThisTestHelper.php	0fa9405562b148bec9f43fb4ae2eee20
+M	addthis_displays/addthis_displays.addthis.inc	80cb85e31aeec3f1419bdd497705fcfa
+M	addthis_displays/addthis_displays.field.inc	b354b5c35386ace4c3f23236bcd22de5
+M	addthis_displays/addthis_displays.info	40d989353de853d5cbb8540df33f2df3
+M	addthis_test/addthis_test.info	ca24dfb27f39159c352e92fde076866b
+M	classes/AddThis.php	48c7c5a66f23cacd389e22417534dad6
+M	classes/Services/AddThisScriptManager.php	76cbc696201730c5dc8aa621a8de3e69
+M	includes/addthis.admin.inc	8d757df7398397ab1961068ffcc04b01

@@ -15,6 +15,7 @@ D	includes/slick.elements.inc
 M	includes/slick.extras.inc	4e78f72c9eeb99812af142d33b15bba9
 M	js/slick.load.js	8e5dc28915ffec5f36de3db6249fed83
 M	js/slick.load.min.js	f00bfdab28a21aaa9bb883723f14f66d
+D	plugins/export_ui/SlickOptionsetUi.class.php	
 M	plugins/export_ui/slick_optionset_ui.inc	44a5111dd7bc2bca65ff19e7fe8d6c73
 D	sass/_globals.scss	
 D	sass/abstractions/_css3.scss	
@@ -101,6 +102,7 @@ M	slick_fields/includes/slick_fields.formatters.image.inc	c63ae0967b7592c0f352fb
 M	slick_fields/includes/slick_fields.formatters.media.inc	1bf432cecd14421f7c1813bf89ab80bc
 M	slick_fields/slick_fields.info	f2707dd578718752cc1c4a2db4cc98a4
 M	slick_fields/slick_fields.module	1022895077f275fef3dee65945c6ff4b
+A	slick_ui/plugins/export_ui/SlickUi.class.php	eb771ab8c0722acbd46ccee3e500d578
 A	slick_ui/plugins/export_ui/slick_ui.inc	2a898249d9ee7085ebb866a46f4f1f28
 A	slick_ui/slick_ui.info	5000e7c563d6561d06b1b583f64a40bb
 A	slick_ui/slick_ui.module	5071f771312b0a11bf816ace3f75043f

@@ -1,3 +1,4 @@
+D	LICENSE.txt	
 M	commons.info	683581bc21ec2ab9902bb1422a1fc00d
 M	drupal-org-core.make	92208f965dc01adc768502adaaf514e1
 M	drupal-org.make	bddab40d206269d6b2303c23d2115281
@@ -769,6 +770,7 @@ M	modules/commons/commons_utility_links/commons_utility_links.info	018ccce2e40d5
 M	modules/commons/commons_wikis/commons_wikis.info	bddddc88cb2b36e9f067ee816901bcb5
 M	modules/commons/commons_wikis/modules/commons_wikis_pages/commons_wikis_pages.info	b5da56495cdac74383fd0425ce97f721
 M	modules/commons/commons_wysiwyg/commons_wysiwyg.info	3e0498933892e56c5a2198fb0351e525
+A	modules/contrib/acquia_connector/LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	modules/contrib/acquia_connector/README.txt	f8fc378ae8e4f948bf16e542f813176c
 A	modules/contrib/acquia_connector/acquia_agent/acquia.ico	9b6e6eb1392cb22c5cae359fd68c6dd5
 A	modules/contrib/acquia_connector/acquia_agent/acquia_agent.info	12365cc8e0d36f2ea48d6e58b87dd512

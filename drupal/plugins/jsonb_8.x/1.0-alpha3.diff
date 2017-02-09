@@ -1,0 +1,5 @@
+M	jsonb.info.yml	cfbf32cbd87955de07598c18a0e54ce7
+M	jsonb.install	72569a330e0aa929e05dcbb0722ca5e0
+M	src/Plugin/Field/FieldFormatter/JsonbDefaultFormatter.php	27a4bab959b4a9774623037df6892415
+M	src/Plugin/Field/FieldType/JsonItem.php	e41708ea151023c2402638a9c5f6dc10
+M	src/Plugin/Field/FieldType/JsonbItem.php	0ccd2e316e38c093f1a88c240ec83764

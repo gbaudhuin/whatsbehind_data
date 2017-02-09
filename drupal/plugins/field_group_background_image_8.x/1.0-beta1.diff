@@ -1,1 +1,6 @@
-M	field_group_background_image.info.yml	57250ea955e20f7a3b6f59908dc221ef
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	composer.json	c30aaf16244bd1fbf885935cbed87d68
+A	config/schema/field_group_background_image.field_group_formatter_plugin.schema.yml	267a2a34b58fd02689adda89a27f6f9c
+A	field_group_background_image.info.yml	57250ea955e20f7a3b6f59908dc221ef
+A	field_group_background_image.module	033affd6ddec876bce7d9f909f91705a
+A	src/Plugin/field_group/FieldGroupFormatter/BackgroundImage.php	e3b92a4aa75cb22b9fa9900733adec06

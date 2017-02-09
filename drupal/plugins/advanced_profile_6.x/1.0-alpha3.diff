@@ -8,7 +8,11 @@ M	includes/panels/panels.inc	3edc1299cb73cdced134eebda4ba8a46
 D	includes/panels/panels.pages.inc	
 D	includes/panels/panels.views.inc	
 M	includes/theme.inc	ee7ef7e89e11b875c1a2913b3f82db18
+A	includes/views/apk.apk_ur_friends_gallery.view	bdb36ac7907a2a540f2c6c4c08b3ddc0
+A	includes/views/apk.apk_user_posts.view	ab03f16c25fceafc659361e669ee0003
 M	includes/views/views.inc	388bce23d32301185a8b31745b578676
 D	includes/views/views.user-list.inc	
+D	includes/views/views.user-relationships-grid.inc	
+D	includes/views/views.user-tracker.inc	
 M	theme/advanced_profile.css	cf06d707c9184d26d79df6d470b1800b
 M	theme/advanced_profile_author-pane.tpl.php	2c47a0a35e42665dd9fb72c46535b9cb

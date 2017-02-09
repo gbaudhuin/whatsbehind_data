@@ -1,6 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	75df530ae7b54f6cb144ffb2e9441a97
-A	masquerade.info	68582dca7cdc2e5fac2556e2296bb5d9
-A	masquerade.install	c4dd7eae9941d67d3c02897641cfede3
-A	masquerade.module	b8b50a572edfd214e093cd1e4e490f6a
-A	masquerade.test	9227a6017e5d0e4cc14b1eb410b9edb2
+M	masquerade.info	68582dca7cdc2e5fac2556e2296bb5d9
+M	masquerade.module	b8b50a572edfd214e093cd1e4e490f6a

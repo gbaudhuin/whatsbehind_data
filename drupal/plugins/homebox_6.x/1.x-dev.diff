@@ -1,44 +1,31 @@
-A	CHANGELOG.txt	229d6ac417030cf96840383b55838117
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	4769a7d98f5bcfa20fff15fdfe285b01
-A	help/default-layout.html	94447b858021e6b2a10e56675be250fb
-A	help/homebox.help.ini	c2e67f5c79080d96599ec65bd893dd13
-A	help/images/block-options.png	be1ef81a0e8a5f6be71827091dbc7556
-A	help/images/edit-form.png	d77a18f0b1b540f0d7b6b3fb73f4351d
-A	help/images/edit-go.png	cde2b601f70c4f0fb3eb66dac76b37e6
-A	help/images/homebox-screenshot.png	f1b19810892434a1b0a8e00094310979
-A	help/images/layout-assign.png	48adaaae98cf545bf6f328daeb4670ab
-A	help/images/layout-form-overview.png	fcf65e0cbbaf5eb1a9c5cb4d639236ae
-A	help/images/layout-go.png	5fb83525a5c38e074c25df9989f67d48
-A	help/images/new-page.png	34bdf6e40254c6dbf135f1c087bd9f90
-A	help/images/permissions.png	568329a8b741c139f9bd8fa79f6f49cc
-A	help/images/settings-color.png	0a51ceeef0c204154df90f0a543622b7
-A	help/images/settings-colorpicker.png	3e9fecd517b2d972200b1c4bf2ee4993
-A	help/images/settings-columns.png	1ae16409db69ce442d0db030f564e4fa
-A	help/images/settings-go.png	09312e4c86b40b21668ac1f415de9de0
-A	help/images/views-basic-settings.png	b713aed3e5a57a73f603a5cf94b39da2
-A	help/images/views-expose-button.png	e781b6303215385ef58a4f1589e60255
-A	help/images/views-expose-config.png	fd4b9e17fdbdbb4c67e3943415b174f8
-A	help/images/views-exposed-filter.png	8f7db838d0d63222dab1a0675673b210
-A	help/images/views-pagination.png	999643a5a2fdacd0c5ea607ed5c09fc8
-A	help/introduction.html	b826ed296049bd9239f36258fad8c82d
-A	help/new-page.html	be0c44fb6556fab9bca5c9f60ae4bf90
-A	help/permissions.html	e1307074649efe791808a0ffdfb728e3
-A	help/settings.html	e7430731ed2270822f1eec74d269bb6f
-A	help/style.css	14c1fd376798ca17c9fb5c9d82d2bf98
-A	help/to-know.html	6ad627445c2706b5f950febe0b8cdb75
-A	help/views.html	ba2a5bbbcd4e44eba399680c41ecc679
-A	homebox-admin-display-form.tpl.php	281fef0b58aa1ddc0231883278ab8fc9
-A	homebox-block.tpl.php	6dca8d9f3eba0abd8d6c9121dce3f2a9
-A	homebox.admin.inc	2d64a5a99aaaf06275e90ca219f5c70b
-A	homebox.css	1517bf561ad55bba5bad12530cca99fc
-A	homebox.info	ff9563090fedea0c41a933a5eb0695e4
-A	homebox.install	f9798bc134ccb3c98621bca377c1c50f
-A	homebox.js	e25763346141b146c16b0c939b65568f
-A	homebox.module	d1b49736ecceb42d2b4da5c7c172ae00
-A	homebox.tpl.php	08140d1f33f78171f691a5ca7c0cb3fe
-A	images/close.gif	271bed80a2acc8eed59b40d63e88db5a
-A	images/minus.gif	401cd7e653132bc957a75a4cda72364f
-A	images/plus.gif	6b3b5a27a12e7060f30d87c7521bfd4a
-A	images/settings.gif	88a753b916bc01d78c761a284f021fd0
-A	images/stripe.png	9af66d817e732a67ba60700551c5d05c
+M	CHANGELOG.txt	229d6ac417030cf96840383b55838117
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	4769a7d98f5bcfa20fff15fdfe285b01
+M	help/default-layout.html	94447b858021e6b2a10e56675be250fb
+M	help/homebox.help.ini	c2e67f5c79080d96599ec65bd893dd13
+M	help/introduction.html	b826ed296049bd9239f36258fad8c82d
+M	help/new-page.html	be0c44fb6556fab9bca5c9f60ae4bf90
+M	help/permissions.html	e1307074649efe791808a0ffdfb728e3
+M	help/settings.html	e7430731ed2270822f1eec74d269bb6f
+M	help/to-know.html	6ad627445c2706b5f950febe0b8cdb75
+M	help/views.html	ba2a5bbbcd4e44eba399680c41ecc679
+M	homebox-admin-display-form.tpl.php	281fef0b58aa1ddc0231883278ab8fc9
+M	homebox-block.tpl.php	6dca8d9f3eba0abd8d6c9121dce3f2a9
+M	homebox.admin.inc	2d64a5a99aaaf06275e90ca219f5c70b
+M	homebox.css	1517bf561ad55bba5bad12530cca99fc
+M	homebox.info	ff9563090fedea0c41a933a5eb0695e4
+M	homebox.install	f9798bc134ccb3c98621bca377c1c50f
+M	homebox.js	e25763346141b146c16b0c939b65568f
+M	homebox.module	d1b49736ecceb42d2b4da5c7c172ae00
+M	homebox.tpl.php	08140d1f33f78171f691a5ca7c0cb3fe
+D	translations/fr.po	
+D	translations/help/fr/default-layout.html	
+D	translations/help/fr/homebox.help.ini	
+D	translations/help/fr/introduction.html	
+D	translations/help/fr/new-page.html	
+D	translations/help/fr/permissions.html	
+D	translations/help/fr/settings.html	
+D	translations/help/fr/style.css	
+D	translations/help/fr/to-know.html	
+D	translations/help/fr/views.html	
+D	translations/homebox.pot	

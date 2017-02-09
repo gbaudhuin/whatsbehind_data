@@ -1,9 +1,6 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	composer.json	652074af776a48be400d7d19491ae905
-A	config/schema/media_entity_document.schema.yml	813f8dd705da6869894e6a041ca60cfc
-A	images/icons/document.png	80c465cbfc9eb35a94c67ae2bada355e
-A	media_entity_document.info.yml	4fa255df395981677ae7a7b742d551d7
-A	media_entity_document.install	4cf1f305b6930891d3a3a9f28372bb35
-A	media_entity_document.module	ce407ff5715c837d02b1aba7975bf512
-A	src/Plugin/EntityBrowser/Widget/Upload.php	7030697755c74b66fd4316885bfd452e
-A	src/Plugin/MediaEntity/Type/Document.php	ce7fc6434b57c090b9f0cd91006d5704
+M	composer.json	b604ef43e03ea9439b206d6fcc072fd6
+M	media_entity_document.info.yml	5e08144b63d0af7f17ddc50668786562
+M	media_entity_document.install	1a3722cb6476ee3845363fd996c9e078
+M	media_entity_document.module	74131604ea755a63ebac1008c9ae8721
+M	src/Plugin/EntityBrowser/Widget/Upload.php	f86503c7435f8152c9242d83d2d2fa88
+M	src/Plugin/MediaEntity/Type/Document.php	485c095a18eeb257b3275b90eee21eb7

@@ -1,7 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.md	9803db1c3da637451308276b39e3d5ca
-A	config/schema/views_advanced_routing.schema.yml	8ee702ff5da8ba909219cbb3e9b224d2
-A	src/Plugin/views/display_extender/AdvancedRouting.php	195feb57e6f79f7a91d3636b32b1e6fb
-A	src/Routing/RouteSubscriber.php	1c6488bbf7026b5e807f90d0066767b2
-A	views_advanced_routing.info.yml	c4cc4236eeeb235769c7d9caf71afb2f
-A	views_advanced_routing.services.yml	73c1f5c5cdecc54eabf6d63ef93bb8f0
+M	views_advanced_routing.info.yml	c4cc4236eeeb235769c7d9caf71afb2f

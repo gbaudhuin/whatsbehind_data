@@ -18,6 +18,10 @@ M	includes/eck.drush.inc	976803171c8025ae1b7366575ef82f68
 M	includes/eck.references_dialog.inc	408bf187a55932e06dd5252b28a8bd3b
 M	modules/eck_entitycache/eck_entitycache.info	fb2eb197d9f6dfa07666ec4157b855e2
 M	modules/eck_entitycache/eck_entitycache.install	45c26c8887e7b8e6e87db82936185730
+D	modules/eck_services.info	
+D	modules/eck_services.module	
+A	modules/eck_services/eck_services.info	668759a26bb43635fc420b6e1297f047
+A	modules/eck_services/eck_services.module	1bc8187fdbee7dd6feabd19b73461935
 M	plugins/property_behavior/author.inc	867ffbd8cbfab0b2966fb536d11f4b2a
 M	plugins/property_behavior/changed.inc	190b80b4cfece3ac8e0f40fb52fe3882
 M	plugins/property_behavior/created.inc	d8a89b9e53f8b28e47714684bec0324c

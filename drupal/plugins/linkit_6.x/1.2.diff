@@ -1,9 +1,11 @@
 M	CHANGELOG.txt	3a157f86703ef3a641ae591ea968790c
 D	editors/linkit.inc	
+D	editors/linkit_tinymce/images/linkit.png	
 D	editors/linkit_tinymce/langs/en.js	
 D	editors/linkit_tinymce/linkit_tinymce.js	
 D	editors/linkit_tinymce/linkit_tinymce_dialog.js	
 A	editors/tinymce/editor_plugin.js	1c7a5e1166f8afea69d59614cd9469f7
+A	editors/tinymce/images/linkit.png	699178e2dd296763899022ff2b52158d
 A	editors/tinymce/linkit.js	b8be3663943682c4084f38d013ff7cf4
 M	linkit.info	bf82337531c6ced246e985f9c335a057
 M	linkit.module	020a6e8ebf7db60f8671f2eb013eca6b

@@ -8,4 +8,6 @@ M	field_collection.install	3c76b4be48bc5199e6d059fbd7d614a2
 M	field_collection.module	1048e8966233cdb5657a6178e7e577e7
 M	field_collection.pages.inc	c07721b34b3e72c4f1d112fa2a6a02df
 M	field_collection.test	823587f07a06e4f21686822f3785fb1c
+A	field_collection.theme.css	fc762fd5bf14d882ce4872ea346a636d
+D	field_collection_view.css	
 M	views/field_collection.views.inc	5ca5fa1b3f6ebf7f47f34d366f4f86fa

@@ -17,5 +17,7 @@ M	includes/webform.options.inc	d84473091da0c78f49af40478e670c72
 M	includes/webform.pages.inc	6c30c60b753f8669edd84d5881409eed
 M	includes/webform.submissions.inc	df8b2f91db34bfa881031e0fddcb022c
 M	js/webform-admin.js	0f7ee9928925f46d2d1ae2423c179da7
+A	webform.api.php	06046e46ded67e5ad5f023bfc0062928
 M	webform.info	d520d0db6a2ed6a74cd2f57279200058
 M	webform.module	0da2194119b7321bcf78756c36867c8f
+D	webform_hooks.php	

@@ -1,7 +1,7 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 A	TODO.txt	6947ea7bf0952174edc937e26a42aa43
-M	contact_save.admin.inc	418cab447d7b0a3720d3eb519b25c713
-M	contact_save.css	2f9ff067b37cae0d2011631383658a79
-M	contact_save.info	450669bd1517547b4aa5d269119e55a6
-M	contact_save.install	e644d1d3c35be606f67542f73682b1a8
-M	contact_save.module	a5cf0328a5d650c11a711f1c75eeac27
+A	contact_save.admin.inc	418cab447d7b0a3720d3eb519b25c713
+A	contact_save.css	2f9ff067b37cae0d2011631383658a79
+A	contact_save.info	450669bd1517547b4aa5d269119e55a6
+A	contact_save.install	e644d1d3c35be606f67542f73682b1a8
+A	contact_save.module	a5cf0328a5d650c11a711f1c75eeac27

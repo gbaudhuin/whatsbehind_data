@@ -1,6 +1,16 @@
-M	multifile.inc	332a92b91f324ca29cdccabf7ff35bda
-D	safe_unserialize.inc	
-M	webform_multifile.info	2486aa36045b8298ea1e49ec4dc813b0
-D	webform_multifile.install	
-M	webform_multifile.js	be8acffc1db31ab8fc18ebcc0994fe7f
-M	webform_multifile.module	b32691df2b0794a975f07e4be928b65e
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	multifile.inc	332a92b91f324ca29cdccabf7ff35bda
+A	multifile/documentation.css	55d5f81e20f6e0e791ceadd368cd6268
+A	multifile/documentation.html	89caa62b651eff64b480133383fa0f71
+A	multifile/documentation.js	09e227ad15974673bd2e8dcd1fa1c9fb
+A	multifile/index.asp	958880db567c568a2737cafbdb9640d6
+A	multifile/index.html	90a266e1e3489226a1ce5b257f7c3c94
+A	multifile/jquery.MetaData.js	0941d1ca7f898ebedcda79faf694693e
+A	multifile/jquery.MultiFile.js	e88a59468e136078554b018e3743f9d0
+A	multifile/jquery.MultiFile.pack.js	7005de2c1397a49c91708f91fa6a5738
+A	multifile/jquery.blockUI.js	e3bd3122d250d3c7791e03edfd9588cf
+A	multifile/jquery.form.js	922d9727fefeeb80320de20981a32d18
+A	multifile/jquery.js	3c77cd6acff8abb3559d161741ddb5d1
+A	webform_multifile.info	2486aa36045b8298ea1e49ec4dc813b0
+A	webform_multifile.js	be8acffc1db31ab8fc18ebcc0994fe7f
+A	webform_multifile.module	b32691df2b0794a975f07e4be928b65e

@@ -1,5 +1,8 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	6909f55e4356abfd980af8d406c07aa4
-A	auto_nodetitle.info	58c3c343fad5d6414eb940642a3d24cb
-A	auto_nodetitle.install	e5fdc5da9b29a275048a0166201b6546
-A	auto_nodetitle.module	4f2b465a315cbc0d36cf13ecdb938104
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	6909f55e4356abfd980af8d406c07aa4
+M	auto_nodetitle.info	58c3c343fad5d6414eb940642a3d24cb
+M	auto_nodetitle.install	e5fdc5da9b29a275048a0166201b6546
+M	auto_nodetitle.module	4f2b465a315cbc0d36cf13ecdb938104
+D	translations/fr.po	
+D	translations/hu.po	
+D	translations/ja.po	

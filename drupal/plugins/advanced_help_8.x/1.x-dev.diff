@@ -1,5 +1,6 @@
 A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	advanced_help.info.yml	50b7b60b2d8157580fa4ed33b671a540
+A	README.txt	9252a225a9a3aed9f4ce85eb6e71ad76
+A	advanced_help.info.yml	4e73a1348fa2ca00899cc43067604d89
 A	advanced_help.install	04914d2cfcf459a50156c7d58f0e0dcc
 A	advanced_help.libraries.yml	4afa58b14ec795f74510ad9d1bf116ab
 A	advanced_help.links.menu.yml	bd22b369353f89413ab0c3e2212b0c63
@@ -8,6 +9,7 @@ A	advanced_help.module	1a79b51b4f59880ea7980f220b37b835
 A	advanced_help.permissions.yml	5c92bdf29d7ff7d461a8b22879424ee2
 A	advanced_help.routing.yml	efdfc175309db53067651b94d4934dfb
 A	advanced_help.services.yml	b95067f507f1e710100113bc2ead57c7
+A	composer.json	a5ed2456611bb1f09d8f53db1e9fee70
 A	css/help-icon.css	61c689bd8cb8f06a9d354837eb1d5147
 A	css/help.css	bd502998e10cd71c6305558c2d606822
 A	help/advanced_help.help.yml	5993c788240f25fc5f9451582a901270
@@ -27,12 +29,12 @@ A	help_example/help/history.html	1074fbc5e72dff12e5979c8db5f8208c
 A	help_example/help/security.html	67b66f69ba1846508b702bace9ea083c
 A	help_example/help/syntax.html	ffaa79d96ed25887ad9ec32116a3e8c9
 A	help_example/help/usage.html	55942905c62d1adee7c9c6bdf053a260
-A	help_example/help_example.info	4cd3b2206d1b8fe14b92c0f73054f6fa
+A	help_example/help_example.info	0f34d8b06c8b188c5a27cd51dd1dcaa7
 A	help_example/help_example.module	25bb15907a1e16ca067728b4985eaa8c
 A	images/help.png	3f78c4ce99b3f15df1af4b65690f747f
-A	src/AdvancedHelpManager.php	a149d9cb8ecba627b5e929dc66fd0e96
-A	src/Controller/AdvancedHelpController.php	0ad444ccc3033084024626b589be8aeb
-A	src/HelpInterface.php	8d7007795605a37e897d68fbc1957943
-A	src/Plugin/Derivative/DynamicLocalTasks.php	8bb04fb8cd85758c38d5a7f84fbb03ca
-A	src/Plugin/Search/AdvancedHelpSearch.php	03be2bbeaa3715c264c5ea4b66d0c1a4
+A	src/AdvancedHelpManager.php	bc959fdc8cf039b95df2c542b4487ddf
+A	src/Controller/AdvancedHelpController.php	f505e992c4820bfb1b3a4285c99dbc7b
+A	src/HelpInterface.php	37c4d9354d659af52035bdd4201039be
+A	src/Plugin/Derivative/DynamicLocalTasks.php	3075583f2c6448561df6f18a6f907ccc
+A	src/Plugin/Search/AdvancedHelpSearch.php	f31afe8e4c26add972d8324a223a5ae4
 A	templates/advanced-help-topic.html.twig	f4cbcfd5463faf005dd46f8b20a96f76

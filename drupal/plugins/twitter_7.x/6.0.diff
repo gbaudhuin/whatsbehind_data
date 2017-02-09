@@ -4,6 +4,7 @@ M	tests/core.test	94c0381f4a537bb9be87c88059eca4de
 M	tests/input_filters.test	d507f4ca7066f6b339ba4f63c46b32d7
 M	tests/twitter_mock.info	ce692d99e2e0920e0fc634f0654d7584
 M	tests/twitter_mock.module	4184f5aa384091a5016ad7e65fddac01
+D	tweet.tpl.php	
 M	twitter.api.php	84d5cb18951966c5314fe007e71868e6
 M	twitter.drush.inc	68c52ee523a84fed21c4c05e425d17a9
 M	twitter.inc	c23153dec129758da4da296f377640b0
@@ -28,4 +29,5 @@ M	twitter_signin/twitter_signin.info	9d74e278c927137d7520a85c338dfca1
 A	twitter_signin/twitter_signin.install	34545e84f66b2bbb6c938ad5beb15238
 M	twitter_signin/twitter_signin.module	b572e5ceb991087c7b45fd814b3396b7
 M	twitter_signin/twitter_signin.pages.inc	fe7896d910e44b8f6a36eadb1b47ffce
+A	twitter_status.tpl.php	e5b768b8b56b8629dcc3ce77ea5602e3
 M	twitter_views_field_handlers.inc	57859e40925058ee0996152ed960c508

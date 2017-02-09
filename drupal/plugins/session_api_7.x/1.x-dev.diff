@@ -1,10 +1,7 @@
-A	CHANGELOG.txt	ecaa838a2d828b5a4ed6b2841b8cbd55
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	session_api.admin.inc	70e40812c824a157d099c8ffc28fa927
+M	session_api.admin.inc	70e40812c824a157d099c8ffc28fa927
 A	session_api.api.php	6f2e4ed6bb4e2ca5f1905b5475c8c139
-A	session_api.info	635e2bd1ec507b37af063f0d3355a81a
-A	session_api.install	23ab12223a61b74eec066c94d93b8bcd
-A	session_api.module	8154425ca28e88055dbe125d0b980448
-A	session_api.test	3f6e0523832918a11661e532555319c0
-A	tests/session_api_test.info	961500c94379ad1ea377e7f986cf382c
-A	tests/session_api_test.module	b1fd98db83d74f1159aa63d0e46e2a6d
+M	session_api.info	635e2bd1ec507b37af063f0d3355a81a
+M	session_api.install	23ab12223a61b74eec066c94d93b8bcd
+M	session_api.module	8154425ca28e88055dbe125d0b980448
+M	session_api.test	3f6e0523832918a11661e532555319c0
+M	tests/session_api_test.info	961500c94379ad1ea377e7f986cf382c

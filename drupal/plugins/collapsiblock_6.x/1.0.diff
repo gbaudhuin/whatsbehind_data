@@ -1,4 +1,11 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	collapsiblock.info	840b3bbf71007f422a5337c436f643ba
-M	collapsiblock.js	06d6d11f070e77acf4d5196324be6b74
-M	collapsiblock.module	4afa992a64afc26c8450e976d2ea24f9
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	c56d26929795fdaa38082d4bce1fda86
+A	collapsed-rtl.png	c635c89ab57eeee1bb1663f6cd1a7c1a
+A	collapsed.png	e49c5b8ef552d6b6f04bcef04f38b4d2
+A	collapsiblock-rtl.css	2abba8885809061b945de3942405873c
+A	collapsiblock.css	27ed98a8227921c4c27c93eef97bc081
+A	collapsiblock.info	840b3bbf71007f422a5337c436f643ba
+A	collapsiblock.install	1e90f1a996ad551d2fa31c3aba3d74db
+A	collapsiblock.js	06d6d11f070e77acf4d5196324be6b74
+A	collapsiblock.module	4afa992a64afc26c8450e976d2ea24f9
+A	expanded.png	d2d5438d897dcf8bd12fd05a98bd627d

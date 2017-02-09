@@ -1,8 +1,11 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	imceimage.info	fb70907d9cd27bce256fe4377f8bd57e
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+D	add-image.jpg	
+M	imceimage.info	fb70907d9cd27bce256fe4377f8bd57e
 A	imceimage.install	3a7c1c7d386c50dae99e744e8b59e1d4
-A	imceimage.module	25fdce7c6a25d8aff254ae58c36e0749
+D	imceimage.js	
+M	imceimage.module	25fdce7c6a25d8aff254ae58c36e0749
 A	includes/images/1x1.png	71a50dbba44c78128b221b7df7bb51f1
 A	includes/images/add-image.jpg	2056537216b67e2e65cef7bf19477dfa
 A	includes/images/warning.png	02c17eea619991ce83aa20c5fb93e988
 A	includes/js/imceimage.js	a4356de12029649e9759adde89a35f4a
+D	translations/hu.po	

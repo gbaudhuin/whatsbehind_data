@@ -4,6 +4,14 @@ M	includes/quiz_stats/quiz_stats.info	889d4663d979c6ca06273820c04655e2
 M	includes/quiz_stats/quiz_stats.module	5df853f4197cf9d8f92152023f0286bb
 M	includes/quiz_stats/theme/quiz_stats_charts.tpl.php	56b57fb47a1a05c16e20c40cf68b3673
 M	includes/quiz_stats/theme/quiz_stats_revision_selector.tpl.php	8b91e388513905b785ebee45ce634878
+D	includes/views/defaults/questions_by_quiz.view	
+A	includes/views/defaults/questions_by_quiz.view.inc	a1b6e2ea817ca00ae02da7c62bb0e508
+D	includes/views/defaults/questions_by_quiz_version.view	
+A	includes/views/defaults/questions_by_quiz_version.view.inc	22f4244335d3932c73259a7b2a7e5f02
+D	includes/views/defaults/quiz_by_author.view	
+A	includes/views/defaults/quiz_by_author.view.inc	d5c630fecd366262e5b051e3841fdc17
+D	includes/views/defaults/quiz_by_taker.view	
+A	includes/views/defaults/quiz_by_taker.view.inc	5923233a2a7dc1d3639134b86662ce7c
 M	includes/views/handlers/quiz_views_handler_argument_quiz_nid.inc	0d8b0784f1d0e8c21514c1694fd645dc
 M	includes/views/handlers/quiz_views_handler_field_time.inc	dc30eeccf49435fb1ddfb9c1f48d4ea4
 M	includes/views/quiz.views.inc	3fffb45ad091cce1af8d0718f029e5ec

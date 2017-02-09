@@ -1,11 +1,14 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	feeds/TermFieldsTermProcessor.inc	8ce73c58579357cc0eed7ea1f2df682c
-A	term_fields.admin.inc	a9b1630bd4c306f4ed222ef890ba4ade
-A	term_fields.info	cc785c5dc1d0761295a463d91d6baa06
-A	term_fields.install	3fe956a9ff44fcb766cb699a63396a73
-A	term_fields.module	825602ad347b0ce7a07e4fce85c74346
-A	views/term_fields.views.inc	89b1e53fd616763041088bd5e7a255f3
-A	views/term_fields_handler_field.inc	b99bb82d5f13a554e6c7754431ebfe19
-A	views/term_fields_handler_field_date.inc	61bc6cddb41c595a66394444ef360f63
-A	views/term_fields_handler_field_numeric.inc	5e801b660522c288276b8c91f475219d
-A	views/term_fields_handler_field_textarea.inc	f75a5b6ce36a2242c5aabcfe0c821d38
+M	term_fields.admin.inc	a9b1630bd4c306f4ed222ef890ba4ade
+M	term_fields.info	cc785c5dc1d0761295a463d91d6baa06
+M	term_fields.install	3fe956a9ff44fcb766cb699a63396a73
+M	term_fields.module	825602ad347b0ce7a07e4fce85c74346
+D	translations/term_fields.de.po	
+D	translations/term_fields.fr.po	
+D	translations/term_fields.pot	
+M	views/term_fields.views.inc	89b1e53fd616763041088bd5e7a255f3
+M	views/term_fields_handler_field.inc	b99bb82d5f13a554e6c7754431ebfe19
+M	views/term_fields_handler_field_date.inc	61bc6cddb41c595a66394444ef360f63
+M	views/term_fields_handler_field_numeric.inc	5e801b660522c288276b8c91f475219d
+M	views/term_fields_handler_field_textarea.inc	f75a5b6ce36a2242c5aabcfe0c821d38

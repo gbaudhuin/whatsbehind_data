@@ -1,18 +1,21 @@
-M	README.txt	afaaa668ed3e2cccef9d48ea353f979e
-M	includes/survey_builder.admin.inc	c55466043f719bb383556eba9d9d7c76
-D	includes/survey_builder.entity.inc	
-M	includes/survey_builder.question.inc	fe79afb8922fca1268eb8c440dfbd929
-M	includes/survey_builder.survey.inc	f28ccf4f8e109d998a7f7e41b8a1c8d4
-M	includes/views/views_handler_field_link.inc	8348e03980f012485e3612d2f7ae3c18
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	afaaa668ed3e2cccef9d48ea353f979e
+A	includes/survey_builder.admin.inc	c55466043f719bb383556eba9d9d7c76
+A	includes/survey_builder.question.inc	fe79afb8922fca1268eb8c440dfbd929
+A	includes/survey_builder.survey.inc	f28ccf4f8e109d998a7f7e41b8a1c8d4
+A	includes/views/views_handler_field_link.inc	8348e03980f012485e3612d2f7ae3c18
 A	includes/views/views_plugin_row_question.inc	1da262ed5dd2dc60fba955307902b6a2
-D	survey_builder.api.php	
-M	survey_builder.info	26e2cdc334f65c93e0271073e8f5d960
-M	survey_builder.install	09f82c4a2f1617c69d03912c0e5915c8
-M	survey_builder.module	5aa0f6656b6957e5f65cb6c86517a041
+A	survey_builder.info	26e2cdc334f65c93e0271073e8f5d960
+A	survey_builder.install	09f82c4a2f1617c69d03912c0e5915c8
+A	survey_builder.module	5aa0f6656b6957e5f65cb6c86517a041
 A	survey_builder.views.inc	b4822b26c1343bb3eb76ce6fd29f60df
-M	survey_builder.views_default.inc	f72ead3ab8eff80ecf9a2fe16cc45bf9
-M	survey_builder_ui/survey_builder_ui.info	d0d612e99819968dd8dd1b3ac7eb857e
-D	survey_builder_ui/survey_builder_ui.install	
-M	survey_builder_ui/survey_builder_ui.views_default.inc	281f1334eb920d159de9f9d8d263401c
-M	theme/css/survey.css	86502f06237e110dd3caf7068f2ccc65
-M	theme/js/survey.js	9ee49b2841610c98092adf0fcc76de98
+A	survey_builder.views_default.inc	f72ead3ab8eff80ecf9a2fe16cc45bf9
+A	survey_builder_ui/survey_builder_ui.features.inc	adbc6b567918ac21f4f6ee59f3caebfb
+A	survey_builder_ui/survey_builder_ui.features.menu_links.inc	4ce699aa4ea78b1316ab825ad380ad22
+A	survey_builder_ui/survey_builder_ui.info	d0d612e99819968dd8dd1b3ac7eb857e
+A	survey_builder_ui/survey_builder_ui.module	39e1265b627cc1ed264a18f827d417d6
+A	survey_builder_ui/survey_builder_ui.views_default.inc	281f1334eb920d159de9f9d8d263401c
+A	theme/css/survey.css	86502f06237e110dd3caf7068f2ccc65
+A	theme/img/close.png	2fc50a3db151ae287c105a5073a95c98
+A	theme/js/jquery.tools.min.js	2bb4c5b6b7d1b38196da84b1cf434f49
+A	theme/js/survey.js	9ee49b2841610c98092adf0fcc76de98

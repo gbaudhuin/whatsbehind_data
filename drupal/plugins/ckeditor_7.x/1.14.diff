@@ -3,12 +3,16 @@ M	CHANGELOG.txt	a9b204d7b2f3faf69cfdc0a7203c4957
 M	README.txt	aafe4fcafa8c21ebfb3a33cdf0ec27c2
 D	TROUBLESHOOTING.txt	
 D	UPGRADE.txt	
+D	ckeditor-rtl.css	
 M	ckeditor.api.php	29d54f251a16afd0cf6500b842d3a6d0
 M	ckeditor.config.js	bb772bf0a57b9e1dcf5a0540f9c22c31
+D	ckeditor.css	
 M	ckeditor.info	ab5f46f0bda82757f5f5950930419474
 M	ckeditor.install	052dbb21d7983d257211e68a1de58c03
 A	ckeditor.make	eaaa1c8ef842cb518cfcf140cd5d95dd
 M	ckeditor.module	2ecbedd88ece81203d5f675e1f6e3b87
+A	css/ckeditor-rtl.css	3a87ff4cd70f9113aa95173fdfa12a81
+A	css/ckeditor.admin.css	e5980a6269c6b37dfb9acfa05132dfed
 A	css/ckeditor.css	ea5336b4064e6edb916b3da3c8f8a0be
 A	css/ckeditor.editor.css	80c45c10628c1e62cd1a8aba21be98f7
 M	images/buttons/about.png	20e8096a0c96d4d714a8c7b0812df9ec

@@ -1,7 +1,0 @@
-A	CHANGELOG.txt	89b89f5324d4de41364868e787a672f0
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	db631742e3281355520d7f513372d203
-A	config/schema/slick_video.schema.yml	4d842e4aaf235d73c325f38cb12f9b72
-A	slick_video.info.yml	a80dac40a6ff203624e0cf6d5b89de2b
-A	slick_video.module	a46d4837b20dd611ddef19698688d721
-A	src/Plugin/Field/FieldFormatter/SlickVideoFormatter.php	59a7af5a0b6c8e38022a3f15bfbff7cf

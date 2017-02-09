@@ -1,27 +1,13 @@
 M	CHANGELOG.txt	360576f2008e5c0df613e78d3aac136c
-M	INSTALL.txt	4193969fbef40cf06714898d7aee056c
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-M	README.txt	753ea5d4c28b49c6f0af38560ff1ee3d
-A	TECHINFO.txt	c6abd5f3317a7d63d99ff8a4e122a1b6
-M	TODO.txt	db159cf95de4155c04664b2d819be47c
-A	export/taxonomy_csv.export.admin.inc	f69c832a20a802c3243fee401f3e520e
-A	export/taxonomy_csv.export.api.inc	5ea163e6ef5e4dd7074fc941ee7ee19a
-A	export/taxonomy_csv.export.result.inc	dd281c6a5da7223f4156522668b97523
-A	import/taxonomy_csv.import.admin.inc	e5775ea892027bd570b6b253f75feb33
-A	import/taxonomy_csv.import.api.inc	0449fb9fcc27e97f9345ac19f7764f1d
-A	import/taxonomy_csv.import.line.api.inc	19f81d5c5e1e329d194999ea07b95acc
-A	import/taxonomy_csv.import.result.inc	20305d53f4da241a140cbfd8bcac1fd9
+M	export/taxonomy_csv.export.api.inc	5ea163e6ef5e4dd7074fc941ee7ee19a
+M	export/taxonomy_csv.export.result.inc	dd281c6a5da7223f4156522668b97523
+M	import/taxonomy_csv.import.admin.inc	e5775ea892027bd570b6b253f75feb33
+M	import/taxonomy_csv.import.api.inc	0449fb9fcc27e97f9345ac19f7764f1d
+M	import/taxonomy_csv.import.line.api.inc	19f81d5c5e1e329d194999ea07b95acc
 M	taxonomy_csv.api.inc	48b5393a71975adae203c17dc2f969c6
-D	taxonomy_csv.css	
-A	taxonomy_csv.drush.inc	50155f78cd2d3c9d0554886cd7f7febe
+M	taxonomy_csv.drush.inc	50155f78cd2d3c9d0554886cd7f7febe
 M	taxonomy_csv.help.html	d34a9f9595fc2a8e7310169516035deb
 M	taxonomy_csv.info	f4a2b1284b80a415c0afee0840e1fd04
-M	taxonomy_csv.install	7ef0a795587864cb10e5bf421cd6c4c4
-D	taxonomy_csv.js	
 M	taxonomy_csv.module	1d57b770a4b160aa167b1c4583b06262
-A	taxonomy_csv.result.inc	8fa2fb4b61c91a7227a8dc7cbb3fb5b9
-A	taxonomy_csv.term.api.inc	911c34506a778b847cd8ccc8884130c0
-A	taxonomy_csv.vocabulary.api.inc	6bde9ee07723386d669aaf3c4e1ecba0
-D	translations/taxonomy_csv.fr.po	
-D	translations/taxonomy_csv.help.fr.html	
-D	translations/taxonomy_csv.pot	
+M	taxonomy_csv.result.inc	8fa2fb4b61c91a7227a8dc7cbb3fb5b9
+M	taxonomy_csv.term.api.inc	911c34506a778b847cd8ccc8884130c0

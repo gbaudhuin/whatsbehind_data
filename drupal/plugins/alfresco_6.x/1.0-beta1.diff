@@ -1,8 +1,10 @@
 A	.cvsignore	4586f6c028b8c68b87dfbf66b3574e37
-M	CHANGELOG.txt	4f4375f128b76ad6a7b9dcfa76004bd5
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	72d1f07fc8472307db14198f1849d654
+A	CHANGELOG.txt	4f4375f128b76ad6a7b9dcfa76004bd5
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	72d1f07fc8472307db14198f1849d654
+A	alfresco-php-sdk/Alfresco/Service/Association.php	6cd4a86fc3372709edb66a22931e5ca0
 A	alfresco-php-sdk/Alfresco/Service/BaseObject.php	2eb0833bed1a9166c325ec569e2c95e9
+A	alfresco-php-sdk/Alfresco/Service/ChildAssociation.php	b578996d47a749d6dd1c4fd5eec76a1a
 A	alfresco-php-sdk/Alfresco/Service/ContentData.php	21d1023665b8c5ff61161bd939159693
 A	alfresco-php-sdk/Alfresco/Service/Functions.php	b23c77f0c8f71e12e1ebc3a80b0e0d9f
 A	alfresco-php-sdk/Alfresco/Service/Logger/Logger.php	356facf0e471cd16dea9eadff02383d8
@@ -11,6 +13,7 @@ A	alfresco-php-sdk/Alfresco/Service/NamespaceMap.php	1217ed1d4ebb9c789449648a685
 A	alfresco-php-sdk/Alfresco/Service/Node.php	0d40c7009318083f99c17b8c197d426b
 A	alfresco-php-sdk/Alfresco/Service/Repository.php	eeefc22e93ea8d895fe445abccc2fc30
 A	alfresco-php-sdk/Alfresco/Service/Session.php	03e09fb8c4a9b4699eda99419ed88a90
+A	alfresco-php-sdk/Alfresco/Service/SpacesStore.php	e4016969bb48eeceaa5127acd3b9455f
 A	alfresco-php-sdk/Alfresco/Service/Store.php	4e9c31b0e44f5c66df24fd19b1054a9d
 A	alfresco-php-sdk/Alfresco/Service/Version.php	db84cc0945147d875281b6117fa811f8
 A	alfresco-php-sdk/Alfresco/Service/VersionHistory.php	47d292574c24cf19a99d94581304cbf6
@@ -20,6 +23,10 @@ A	alfresco-php-sdk/Examples/Common/Images/AlfrescoFadedBG.png	7e6db0e01a91381a0d
 A	alfresco-php-sdk/Examples/Common/Images/AlfrescoLogo200.png	99fe5fc171a344f948dac197b2fcf957
 A	alfresco-php-sdk/Examples/Common/Images/AlfrescoLogo32.png	cc9aef885d192a26c0974bc99b6cebe4
 A	alfresco-php-sdk/Examples/Common/Images/add_user.gif	5de613bb69d18c2afdb437de23f6847a
+A	alfresco-php-sdk/Examples/Common/Images/blue_01.gif	0fc0c6b2d3ba2997160e964a2338c9fb
+A	alfresco-php-sdk/Examples/Common/Images/blue_02.gif	5227355d68228198b24945e20267f51a
+A	alfresco-php-sdk/Examples/Common/Images/blue_03.gif	d750f7ac8f0b2762a57cdef7ef341d36
+A	alfresco-php-sdk/Examples/Common/Images/blue_04.gif	d1c0dc922d57f9b85b7be097ca9720b0
 A	alfresco-php-sdk/Examples/Common/Images/blue_06.gif	2e2a98144a8b62cdeef28095ee0992a6
 A	alfresco-php-sdk/Examples/Common/Images/blue_07.gif	4c7b0cefdfad40c8f589eb9e5a187f4c
 A	alfresco-php-sdk/Examples/Common/Images/blue_08.gif	e4630594c9007e732f40bf21f8d14be1
@@ -29,6 +36,7 @@ A	alfresco-php-sdk/Examples/Common/Images/blue_white_09.gif	7573c6d2d3d7db882d1b
 A	alfresco-php-sdk/Examples/Common/Images/logout.gif	9a272fd609e525177bb2ffbeb6fe24a4
 A	alfresco-php-sdk/Examples/Common/Images/person.gif	f9f8a0d4d9fe71d49172596a21f735b0
 A	alfresco-php-sdk/Examples/Common/Images/post.gif	4934f4f58b97108adef505e7f6cdf17e
+A	alfresco-php-sdk/Examples/Common/Images/space_small.gif	ed56e2028243b72abca896c2913f8080
 A	alfresco-php-sdk/Examples/Common/Images/titlebar_begin.gif	96ee660762232f7964983b8ce2d0013c
 A	alfresco-php-sdk/Examples/Common/Images/titlebar_bg.gif	69393e73b6798de4bc974325393c6e27
 A	alfresco-php-sdk/Examples/Common/Images/titlebar_end.gif	bb8353ca8164417d76aa550853ea6736
@@ -88,118 +96,22 @@ A	alfresco-php-sdk/Tests/views/testResults.php	72370124e44f46ec5cb00d89dcb9276c
 A	alfresco-php-sdk/Tests/views/welcome.php	afabf9b6bf4ee3daeabd4c8d7f56de71
 A	alfresco-php-sdk/Tests/views/wrapper.php	67c09fd68bae809a4a674211976a81e0
 A	alfresco-php-sdk/readme.txt	fc0b74ae86d714a8bb6a7e2c89bf0158
-M	alfresco.admin.inc	380106a79756eba5a792659c524d0f2f
+A	alfresco.admin.inc	380106a79756eba5a792659c524d0f2f
 A	alfresco.content.inc	e6f1ab9541d3d2800a3fa8d005f72123
-D	alfresco.css	
-M	alfresco.info	06397ed491465a5d1cc46a5b64fc76b0
-M	alfresco.install	2c402c54de8538a7f7102dc45f8e4c6c
-M	alfresco.js	fd2d9f4c0ebf8607b8e89e7395bad265
-M	alfresco.module	06b75533888d4b1f7f4cabb1bdd41214
-M	alfresco.pages.inc	1f752aa5452985cea53e4b6194901def
-M	alfresco.theme.inc	2d0a0f5ff1e7845a3b5ce9fa47450bdb
+A	alfresco.info	06397ed491465a5d1cc46a5b64fc76b0
+A	alfresco.install	2c402c54de8538a7f7102dc45f8e4c6c
+A	alfresco.js	fd2d9f4c0ebf8607b8e89e7395bad265
+A	alfresco.module	06b75533888d4b1f7f4cabb1bdd41214
+A	alfresco.pages.inc	1f752aa5452985cea53e4b6194901def
+A	alfresco.theme.inc	2d0a0f5ff1e7845a3b5ce9fa47450bdb
 A	alfresco.views.inc	8d31334547557970e52f4880432f21a0
 A	alfresco.ws.inc	8b278b9734f36ad7d1b173488f9e6c0d
-M	alfresco_attach/alfresco_attach.info	7cd123b9e7e06439f6328a4f7bc4a1ee
-M	alfresco_attach/alfresco_attach.install	fe03f7a70901f989a2c337dcf3328af9
-D	alfresco_attach/alfresco_attach.js	
-M	alfresco_attach/alfresco_attach.module	39a218cf8d4218ba4931e185d0ddb1d0
-D	alfresco_browser/alfresco-browser-page.tpl.php	
-D	alfresco_browser/alfresco_browser.admin.inc	
-D	alfresco_browser/alfresco_browser.css	
-D	alfresco_browser/alfresco_browser.info	
-D	alfresco_browser/alfresco_browser.install	
-D	alfresco_browser/alfresco_browser.js	
-D	alfresco_browser/alfresco_browser.module	
-D	alfresco_browser/alfresco_browser.pages.inc	
-D	alfresco_browser/css/browser.css	
-D	alfresco_browser/images/add.gif	
-D	alfresco_browser/images/alfresco.gif	
-D	alfresco_browser/images/create_space.gif	
-D	alfresco_browser/images/details.gif	
-D	alfresco_browser/images/download.gif	
-D	alfresco_browser/images/drupal.gif	
-D	alfresco_browser/images/loading.gif	
-D	alfresco_browser/images/view.gif	
-D	alfresco_browser/js/AlfrescoBrowser.js	
-D	alfresco_browser/js/FileUploadField.js	
-D	alfresco_field/alfresco_field.css	
-D	alfresco_field/alfresco_field.info	
-D	alfresco_field/alfresco_field.install	
-D	alfresco_field/alfresco_field.module	
-M	alfresco_import/alfresco_import.info	54515a66afd952c7811e660e771a3791
-M	alfresco_import/alfresco_import.module	e457b5b22ce25688b33a0d01291d7db0
-M	alfresco_import/alfresco_import.pages.inc	61d8463b6b3dd650e74d251acfcc2611
-D	images/download.gif	
-D	images/filetypes/_default.gif	
-D	images/filetypes/acp.gif	
-D	images/filetypes/asf.gif	
-D	images/filetypes/avi.gif	
-D	images/filetypes/bmp.gif	
-D	images/filetypes/csv.gif	
-D	images/filetypes/doc.gif	
-D	images/filetypes/docx.gif	
-D	images/filetypes/exe.gif	
-D	images/filetypes/ftl.gif	
-D	images/filetypes/gif.gif	
-D	images/filetypes/htm.gif	
-D	images/filetypes/html.gif	
-D	images/filetypes/jpg.gif	
-D	images/filetypes/js.gif	
-D	images/filetypes/lnk.gif	
-D	images/filetypes/mp4.gif	
-D	images/filetypes/mpeg.gif	
-D	images/filetypes/mpg.gif	
-D	images/filetypes/msg.gif	
-D	images/filetypes/odf.gif	
-D	images/filetypes/odg.gif	
-D	images/filetypes/odp.gif	
-D	images/filetypes/ods.gif	
-D	images/filetypes/odt.gif	
-D	images/filetypes/pdf.gif	
-D	images/filetypes/png.gif	
-D	images/filetypes/ppt.gif	
-D	images/filetypes/pptx.gif	
-D	images/filetypes/psd.gif	
-D	images/filetypes/rtf.gif	
-D	images/filetypes/shtml.gif	
-D	images/filetypes/swf.gif	
-D	images/filetypes/tif.gif	
-D	images/filetypes/tiff.gif	
-D	images/filetypes/txt.gif	
-D	images/filetypes/url.gif	
-D	images/filetypes/wmv.gif	
-D	images/filetypes/wpd.gif	
-D	images/filetypes/xls.gif	
-D	images/filetypes/xlsx.gif	
-D	images/filetypes/xml.gif	
-D	images/filetypes/xsd.gif	
-D	images/filetypes/xsl.gif	
-D	images/filetypes/xslx.gif	
-D	images/filetypes/zip.gif	
-D	includes/alfresco.search.inc	
-D	includes/alfresco.soap.inc	
-D	includes/alfresco.user.inc	
-D	lib/Alfresco/Service/BaseObject.php	
-D	lib/Alfresco/Service/ContentData.php	
-D	lib/Alfresco/Service/ContentType.php	
-D	lib/Alfresco/Service/Functions.php	
-D	lib/Alfresco/Service/NamespaceMap.php	
-D	lib/Alfresco/Service/Node.php	
-D	lib/Alfresco/Service/Repository.php	
-D	lib/Alfresco/Service/Session.php	
-D	lib/Alfresco/Service/Store.php	
-D	lib/Alfresco/Service/Version.php	
-D	lib/Alfresco/Service/VersionHistory.php	
-D	lib/Alfresco/Service/WebService/AlfrescoWebService.php	
-D	lib/Alfresco/Service/WebService/WebServiceFactory.php	
-D	lib/CHANGELOG.txt	
-D	lib/README.txt	
-D	misc/update-pot.bat	
-D	misc/wsdl/dictionary-service.wsdl	
-D	misc/wsdl/types.xsd	
-D	tests/alfresco.test	
+A	alfresco_attach/alfresco_attach.info	7cd123b9e7e06439f6328a4f7bc4a1ee
+A	alfresco_attach/alfresco_attach.install	fe03f7a70901f989a2c337dcf3328af9
+A	alfresco_attach/alfresco_attach.module	39a218cf8d4218ba4931e185d0ddb1d0
+A	alfresco_import/alfresco_import.info	54515a66afd952c7811e660e771a3791
+A	alfresco_import/alfresco_import.module	e457b5b22ce25688b33a0d01291d7db0
+A	alfresco_import/alfresco_import.pages.inc	61d8463b6b3dd650e74d251acfcc2611
 A	translations/alfresco.pot	3994c81107ff9926544bdc654f3274a9
 A	translations/es.po	04cce4a8a967ed6ae71e31ae88248202
-D	views/alfresco.views.inc	
-D	views/alfresco.views_default.inc	
-M	views/alfresco_handler_field_url_download.inc	67eb41df80bfe6a2fe5c12cc9d8005f0
+A	views/alfresco_handler_field_url_download.inc	67eb41df80bfe6a2fe5c12cc9d8005f0

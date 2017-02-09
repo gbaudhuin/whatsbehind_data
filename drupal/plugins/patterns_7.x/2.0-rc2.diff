@@ -70,7 +70,9 @@ M	tests/field/field_instance_create.yaml	9d388d9210d3e0eb19bf600a576edadd
 M	tests/field/field_instance_delete.yaml	6967e6537f065a41a70411b1d61da3f5
 M	tests/field/field_instance_modify.yaml	dea024b1dc2c7b51f9573c3c8069b8c6
 M	tests/parser/parser.test	0c994d38baeadd5277dffe0df0e57e1d
+D	tests/parser/valid/patterns.parser_ok.yaml	
 A	tests/parser/valid_semantics/taxonomy_vocabulary_add.yaml	b83927772403ae330a0e70561d5c6abe
+A	tests/parser/valid_syntax/patterns.parser_ok.yaml	14847f5a420735ed669c176aaf2b62f3
 M	tests/pathauto/path_auto.yaml	e424b590a50e0b43cfdb27b2e8b93a3e
 M	tests/pathauto/pathauto.test	caff1d102147e282af33e3ec31c5da27
 M	tests/patterns.test	762fa296444a0df3ed4e8f0896da32d0

@@ -1,3 +1,4 @@
+D	LICENSE.txt	
 M	db/openatrium.mysql	5e49a1fc5f1e4173648a85e574fc0973
 M	drupal-org.make	8d8f961e99af93fece7379215b395087
 A	libraries/SolrPhpClient/Apache/Solr/Document.php	87f49d1085c86c287eadf09bfa181b89
@@ -878,6 +879,7 @@ A	libraries/underscore/test/vendor/runner.js	fda9c2ddbf4cd486a46054ec6cf70244
 A	libraries/underscore/underscore-min.js	ca26dc8cdf5d413cd8d3b62490e28210
 A	libraries/underscore/underscore-min.map	938ebac25c016fc3303a749cbae1efec
 A	libraries/underscore/underscore.js	1d4e786b5e92a3c936043bd5d0981000
+A	modules/apps/oa_admin/LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	modules/apps/oa_admin/README.md	9dfa4acfc98e317a3fa289d94e5b1d73
 A	modules/apps/oa_admin/app/logo.png	031e6d7b3e8240d5920ee4b6ef939ef1
 A	modules/apps/oa_admin/app/screenshot.png	f89c5a3c7722c80fc61899315e8abe30

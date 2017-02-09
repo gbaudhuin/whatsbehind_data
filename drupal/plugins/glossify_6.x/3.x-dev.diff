@@ -1,7 +1,3 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	e1db3b0bb4b880b491e88109e7dec19b
-A	glossify.admin.inc	1c9a7b86304c68c446fcee3c2af756dc
-A	glossify.css	d41d8cd98f00b204e9800998ecf8427e
-A	glossify.info	97977f4131e8183a439e13004515370e
-A	glossify.install	fb5be50d0edf8ee5fa52b7f40c1b1aea
-A	glossify.module	dffb99adca65ecd7909504c5745d44b7
+M	glossify.admin.inc	1c9a7b86304c68c446fcee3c2af756dc
+M	glossify.info	97977f4131e8183a439e13004515370e
+M	glossify.module	dffb99adca65ecd7909504c5745d44b7

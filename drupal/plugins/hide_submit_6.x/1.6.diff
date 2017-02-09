@@ -8,6 +8,8 @@ M	hide_submit_admin_settings.js	df2c2759de9e73b420b718823139427e
 A	images/clock.gif	0e500031c381df6c81ddfa6e66943f3d
 A	images/cogwheel.gif	c52a83edf110a7b71f725492a1f5b0b3
 A	images/hourglass .gif	f92e8b2eba29f34f05515e66e37b35d5
+A	images/loader.gif	0cc3cc16ccf0d45f48048784a6bdf1b9
 A	images/radioactive.gif	804225d29b8c55213d5554cf484e7337
 A	images/squares.gif	d292fd2dd33d524dcf62824c35e6af01
+D	loader.gif	
 M	translations/hide_submit.he.po	f9e57fa2f84542cddca8ad21d17df18a

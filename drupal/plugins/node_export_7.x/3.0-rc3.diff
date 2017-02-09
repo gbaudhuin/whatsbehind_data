@@ -2,6 +2,7 @@ A	formats/drupal.inc	aeb2e5e46fb03c4cef5d8c83fd597405
 A	formats/dsv.inc	c1786bf24b18b6d8b60b7c9e7c89a379
 A	formats/json.inc	b3034860652242ee932dca236c77d09c
 A	formats/serialize.inc	fe432996f4ff96f3f9efce8f8f73813a
+A	formats/xml.inc	62400d65fbdb618394ffe4d80e35f42d
 D	modules/node_export_csv/node_export_csv.info	
 D	modules/node_export_csv/node_export_csv.module	
 M	modules/node_export_features/node_export_features.info	534719e3619bc7e803d08d5513f7b72c
@@ -15,6 +16,7 @@ M	modules/node_export_relation/node_export_relation.node_reference.inc	835aed49d
 D	modules/node_export_serialize/node_export_serialize.info	
 D	modules/node_export_serialize/node_export_serialize.module	
 D	modules/node_export_xml/node_export_xml.info	
+D	modules/node_export_xml/node_export_xml.module	
 M	node_export.api.php	4e928a298386b3f2796dcc7d4755e53b
 A	node_export.formats.inc	284666ddbb1316d80e4d9a6bb14edfe8
 M	node_export.info	ada5f5024c1b124f34299f965ab448d7

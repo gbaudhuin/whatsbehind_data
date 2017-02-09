@@ -1,6 +1,5 @@
-M	CHANGELOG.txt	8a7b460c02bc91573ebf23328c79e87e
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	ac00d534abfc125aca6667a298d24ba3
-M	imagefield_tokens.info	4570505244bc1e9a8bfa69e7b5c9218f
-M	imagefield_tokens.module	76900cb475059ca18be4e6dd5f35aeed
-D	tests/imagefield_tokens.test	
+A	CHANGELOG.txt	8a7b460c02bc91573ebf23328c79e87e
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	ac00d534abfc125aca6667a298d24ba3
+A	imagefield_tokens.info	4570505244bc1e9a8bfa69e7b5c9218f
+A	imagefield_tokens.module	76900cb475059ca18be4e6dd5f35aeed

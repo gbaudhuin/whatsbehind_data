@@ -4,6 +4,8 @@ A	includes/migrate/7000/og_group.inc	06d11e60e7a06a2c69a64d4aced618ae
 A	includes/migrate/7000/og_user.inc	7fc095f222bb78dfe57bf967b196f4d1
 A	includes/migrate/7200/og_group_audience.migrate.inc	7ee4ea3b4c7c00122fd5494a09f562b8
 A	includes/migrate/7200/og_og_membership.migrate.inc	aa6fd2fef16c1223b0b6d9e7ea5fbd5a
+A	includes/migrate/7200/og_ogur.migrate.inc	bdec49b638fd6386fdb6d94a24b39f8a
+A	includes/migrate/7200/og_ogur_permissions.migrate.inc	eea79f8cb5b915d3c46b3b017f2be9d8
 A	includes/migrate/7200/og_roles.migrate.inc	876ad68e5b39bc27cc98ff977de6f6a2
 A	includes/migrate/7200/og_user_roles.migrate.inc	bcbf71f02c365b86f4ba7811e38f84fd
 A	includes/migrate/og.migrate.inc	f48dc10a8d1833f68838145b18ebc9cc
@@ -50,9 +52,13 @@ A	plugins/entityreference/behavior/OgWidgetHandler.class.php	7f95273aff8d19bf085
 A	plugins/entityreference/behavior/og_widget.inc	06422e07eb502503d9ff3b7fdf9fc45d
 M	plugins/entityreference/selection/OgSelectionHandler.class.php	ecf3debcaf6b249688309cd67a6ae3ca
 D	plugins/og_migrate/7200/og_7200_og_membership.inc	
+D	plugins/og_migrate/7200/og_7200_ogur.inc	
+D	plugins/og_migrate/7200/og_7200_ogur_permissions.inc	
 D	plugins/og_migrate/7200/og_7200_remove_global_roles.inc	
 M	plugins/og_migrate/7200/og_7200_roles.inc	9a9e1c00976d3de28cf857afc9040c0f
 M	plugins/og_migrate/7200/og_7200_user_roles.inc	7e1fdf16d955f5d4a32bf58215f240d3
+D	tests/drupal-7.og.update_7001.database.php	
+A	tests/og-7.x-1.x.database.php	486c1f6fd809eec93bc6c8e91e4a5a0a
 D	tests/og_test.info	
 D	tests/og_test.module	
 D	tests/upgrade/og.upgrade.test	

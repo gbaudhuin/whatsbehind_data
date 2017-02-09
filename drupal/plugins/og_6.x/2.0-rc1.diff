@@ -1,126 +1,14 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	a8d14ed2941e17fbd42d74f4adf63a5f
-D	includes/og.activity.inc	
-M	includes/og.admin.inc	7311ab87f847590678116a67d8386d29
-A	includes/og.panelscontent.inc	0ea7f044fd405d8b3c90f4b181e26747
-A	includes/og.panelscontext.inc	8575a6a111790d86cc28d8aacf2ce296
-A	includes/og.panelsrelationships.inc	5d9db5ac86f4e5a12b9de84f827b42b9
-M	includes/og.rules.inc	9bb34352d2a0a0558ef6c43629d63a1c
-D	modules/og_access/og_access.api.php	
 M	modules/og_access/og_access.info	1c6d8b10ad603f160320d1b9d4abca8e
 M	modules/og_access/og_access.install	f6216c8fefc500394814f5efd6035926
-M	modules/og_access/og_access.js	3e6053959ebdbb9bc5877d5bccc375db
 M	modules/og_access/og_access.module	bbd44e3715649674903a81a6c3f16d04
-A	modules/og_access/translations/modules-og_access.de.po	147f406aea02b7c8e38da977d572a946
-A	modules/og_access/translations/modules-og_access.ja.po	f5d411feaf14f5491718c1bec3fb19e2
-A	modules/og_access/translations/modules-og_access.pot	a358ac233448ba426ac898994298d3d1
-A	modules/og_access/translations/modules-og_access.ru.po	dd6af0f54288b63bdc4132e30329f3e8
-M	modules/og_actions/README.txt	a89391bb7677ca921f8ceca430eec3f5
 M	modules/og_actions/og_actions.info	2596015d11939513a4e07b32000cd021
-M	modules/og_actions/og_actions.install	3b8984a57b7f9dd1b29b8917127b1611
-M	modules/og_actions/og_actions.module	32fbd882fd2f3879688852facf4d60d2
-A	modules/og_actions/translations/modules-og_actions.de.po	614dc2d5da32474aabd67944f0e71c36
-A	modules/og_actions/translations/modules-og_actions.ja.po	62c50bb0fb4548c41155491f93ac61c9
-A	modules/og_actions/translations/modules-og_actions.pot	b85ff047dcb1ca48d200389908219939
-A	modules/og_actions/translations/modules-og_actions.ru.po	e09e749ce70fe039c8fc33c75b7e4bd7
-M	modules/og_notifications/README.txt	cb4e10dc141567eaf197645df4349513
 M	modules/og_notifications/og_notifications.info	91897cf6dde80fb227b5995578c9f9ae
-M	modules/og_notifications/og_notifications.install	4b7d6c7197782e55c904434ff7a5572f
-M	modules/og_notifications/og_notifications.module	8ce55e31c0ae2d5f640111eac893279e
-D	modules/og_notifications/og_notifications.pages.inc	
-A	modules/og_notifications/translations/modules-og_notifications.de.po	b29a489478fc01a78e56e047bfb2aebc
-A	modules/og_notifications/translations/modules-og_notifications.ja.po	c485fef8ff9c7ecc298d59ace96fdf25
-A	modules/og_notifications/translations/modules-og_notifications.pot	958430b13cf6fdf99b4d95440606d3ee
-A	modules/og_notifications/translations/modules-og_notifications.ru.po	f486a56e3b879434b9be43ada1175bb4
-A	modules/og_panels/og_panels.info	6e5901bb1292a23aa80ed6c2c26d4244
-A	modules/og_panels/og_panels.install	d91766730a49c7425c29cbb1448a3bd7
-A	modules/og_panels/og_panels.module	b7d683466f3e7a6dac6d1d0a795bf156
-A	modules/og_panels/translations/modules-og_panels.de.po	7fcadbfc6c143cc4bd0416eedc228391
-A	modules/og_panels/translations/modules-og_panels.pot	2a4232ca87cc81d84fd296bd4ed94ca3
-A	modules/og_panels/translations/modules-og_panels.ru.po	9316fb6ef693313cc7b29c3db7a61548
-M	modules/og_views/includes/og_views_handler_argument_og_uid_nid.inc	7fe6dd67f692562b169e78f2d18b4ccb
-D	modules/og_views/includes/og_views_handler_field_autosubscribe.inc	
-D	modules/og_views/includes/og_views_handler_field_boolean_og_private.inc	
-M	modules/og_views/includes/og_views_handler_field_og_group_nids.inc	dbd8ac3c4804d1e89626393d61055739
-D	modules/og_views/includes/og_views_handler_field_og_invite.inc	
-M	modules/og_views/includes/og_views_handler_field_og_is_active.inc	c3fe9bcf20092e19a91a81b0171e8c1b
-M	modules/og_views/includes/og_views_handler_field_og_is_admin.inc	1b28f561bc74e0c95513195dce952bcd
-M	modules/og_views/includes/og_views_handler_field_og_is_manager.inc	d1bc89b12aad4db3293f58fafc129e14
-M	modules/og_views/includes/og_views_handler_field_og_managelink.inc	c0b4e1908e6e75bfc5750d3d58dccb36
-M	modules/og_views/includes/og_views_handler_field_og_managelinkadmin.inc	268cb09b1085bf86073a9edea83c3fc3
-M	modules/og_views/includes/og_views_handler_field_og_managelinkmy.inc	420998ba14d13c0abc994b3949ff93a9
-M	modules/og_views/includes/og_views_handler_field_og_member_count.inc	37b613c9cbcacc0355bae34611426f17
-M	modules/og_views/includes/og_views_handler_field_og_subscribe.inc	c6de6a2462934f8701d00a8851705294
-D	modules/og_views/includes/og_views_handler_field_og_uid.inc	
-D	modules/og_views/includes/og_views_handler_filter_autosubscribe.inc	
-M	modules/og_views/includes/og_views_handler_filter_og_group_nid.inc	14f987a38d65f4dcf2d43025de2e5168
-M	modules/og_views/includes/og_views_handler_filter_og_is_admin.inc	a3d73957d9f4ba7b3fa919e8d6357566
-D	modules/og_views/includes/og_views_handler_filter_og_uid_nid.inc	
-D	modules/og_views/includes/og_views_plugin_argument_default_og_group_node.inc	
-M	modules/og_views/includes/og_views_plugin_argument_validate_og_group_types.inc	ca30a4efbbdfe748cee72e0c32a3cb64
+M	modules/og_panels/og_panels.info	6e5901bb1292a23aa80ed6c2c26d4244
 M	modules/og_views/og_views.info	b788d28c6663df0edf4c57181d684ae1
 M	modules/og_views/og_views.module	96458bd0203073adddbb8a4e9883d63b
 M	modules/og_views/og_views.views.inc	65186b75b476679880d22eff6ef6e03f
-D	modules/og_views/og_views.views_convert.inc	
-M	modules/og_views/og_views.views_default.inc	d7cf62652269d4dc06dbe5e5ac28474e
-A	modules/og_views/translations/modules-og_views-includes.de.po	dd136a03dc8fd7d95a8d849648c0463f
-A	modules/og_views/translations/modules-og_views-includes.pot	2f21ea84e4281f26b1f31071b4496fde
-A	modules/og_views/translations/modules-og_views-includes.ru.po	29bef72882be5c19ca44e293b192b98b
-A	modules/og_views/translations/modules-og_views.de.po	d5aec5de8f5755de47161731e33090ac
-A	modules/og_views/translations/modules-og_views.ja.po	687247caa137c9c41e862e88e53e56a0
-A	modules/og_views/translations/modules-og_views.pot	bf53ce294dcdb62af904d115e7dd0b75
-A	modules/og_views/translations/modules-og_views.ru.po	5f6ea9bea4ab9a585e0befe19b4a9eae
-A	modules/og_views/views/og.og.view	6920307285447d8edd74930a7c9d37b6
-A	modules/og_views/views/og.og_files.view	d7f02b145cfee26ff91533643b65c2c3
-A	modules/og_views/views/og.og_ghp_ron.view	f984b33c1930281d4f03c15a4600d578
-A	modules/og_views/views/og.og_members.view	6d3b54e073fe04ddd1f8cbff7a88f497
-A	modules/og_views/views/og.og_members_block.view	852d05816a91ffdac5a6dc367c33fb35
-A	modules/og_views/views/og.og_members_faces.view	5a4bfe4945bbf62fa9630ea43e249e53
-A	modules/og_views/views/og.og_my.view	15074f168efcf733480e5cdef86c4aa4
-A	modules/og_views/views/og.og_mytracker.view	3f6440b1bbf1de7b7f77dc7f481c8d13
-A	modules/og_views/views/og.og_recent_type_term.view	ef2d99c8c63f373d1ff73e125d8206db
-A	modules/og_views/views/og.og_search.view	ec65dec8f9387cbc745cd641b887663d
-A	modules/og_views/views/og.og_tracker.view	654320756e9df84c1ec271847afcb9d4
-A	modules/og_views/views/og.og_unread.view	282eed35ae790675044d87587905d0e5
-A	modules/og_views/views/og.posts_by_term.view	f0274756d1fcd041846cf0575368d2f0
-D	og.api.php	
+M	modules/og_views/views/og.og_members.view	6d3b54e073fe04ddd1f8cbff7a88f497
 M	og.info	40650213941fb5b73fa6e6869f9d6199
 M	og.install	8ee7570636bcf4c8dbf7c42221f391d6
-D	og.js	
 M	og.module	5da9b6188e7cda4320b91ca97bfb043b
-D	og.pages.inc	
-M	tests/og.context.test	0f3fe16306c9cd20c1595c1abcf9078f
-D	tests/og.language.test.disabled	
-M	tests/og.post.test	63a0326f98b603b66a414cc0f18e776b
-M	tests/og.subscribe.test	b98670e0ac427a465da758b5b4ed3fb7
 M	tests/og_testcase.php	5f5c4c2de302035836ce42aaa24dfab2
-M	tests/og_wiki.test	5c803712f0b819d73ab031b01a29a9f4
-M	theme/node-og-group-post.tpl.php	02df3f9de64eb4efb637d2f23d9c9114
-M	theme/node-og-group.tpl.php	ef6caa78fe073cc22bdb593f8e6a59a2
-M	theme/og.css	1df1407b299eec0d3e817d06ca0b919b
-A	translations/ca.po	11eb41bde143ee1cd4908e633b7ac041
-A	translations/da.po	9c89036c18b841dc29625d4b6a603ea9
-A	translations/el.po	37e3086481d77f59c4b61bde7a90dd4f
-A	translations/eo.po	cb9dc1d3027f4cfa2fd087058eadfe4e
-A	translations/es.po	131b143bea862542c3d29b37607e7b26
-A	translations/fr-CA.po	efc8c7282fab4eacb1b5ef446be7dc65
-A	translations/fr-FR.po	60051d2a624c79d28566bc5dbd0fc3e6
-A	translations/general.de.po	9f08daefa51b1344018c2cb1cc31bc99
-A	translations/general.he.po	82fb7f4d82ecb1df8bd54356a99fd406
-A	translations/general.pot	eb9e98342807e0f6a8c3e5edfd7aa1f0
-A	translations/general.ru.po	fd25488d87ab0417cf3bf1fd44919401
-A	translations/he.po	e1ea22ba799c43bf78190217a82ad7a8
-A	translations/includes.de.po	38d8bc125370fa1819ae7154151dab2b
-A	translations/includes.pot	787fcc225f262ce2f25a04ee852523e4
-A	translations/includes.ru.po	ad34858792fbc3a467027c10b7b2483e
-A	translations/it.po	17e300cc827d0a3883c243bf43d81eb8
-A	translations/nl.po	032508539c31caf1a49f144319f232e6
-A	translations/og-module.he.po	576f8b3941bda8987c485bdd7ba14e26
-A	translations/og-views-inc.he.po	2d542c7363ed7e860bdf0db4a5a1cfcb
-A	translations/og.de.po	3981820eb210a2e0aa7f826d939b6010
-A	translations/og.ja.po	a5c565eac99f5d2d6dddbdf5baaf7a4d
-A	translations/og.pot	bcb5359986fccdaef480631c2ae9798c
-A	translations/og.ru.po	c1291a44322ab660e95173d2480ef951
-A	translations/tests.de.po	7288e5ec71492168f717e6aa764cc3ef
-A	translations/tests.pot	21425937ba025439249ea74b0c8a9141

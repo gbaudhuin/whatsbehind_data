@@ -1,5 +1,5 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	c7970bb34f1243a9e5c1081d678c0571
-A	session_expire.info	75a10282c92053aef697fa9f63b4f1f7
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	c7970bb34f1243a9e5c1081d678c0571
+M	session_expire.info	75a10282c92053aef697fa9f63b4f1f7
 A	session_expire.install	4e8dc17b81e79ba57dedb6975523e3eb
-A	session_expire.module	035da2c4ea36d0255e977c9e0f437ec8
+M	session_expire.module	035da2c4ea36d0255e977c9e0f437ec8

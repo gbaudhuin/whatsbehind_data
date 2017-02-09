@@ -19,7 +19,6 @@ M	src/Plugin/Field/FieldWidget/VideoTextfield.php	fbcef141f70415065d6c3b9fcbe82e
 M	src/Plugin/video_embed_field/Provider/Vimeo.php	0516cf6205440b2aa678b4cb5aa5f400
 M	src/Plugin/video_embed_field/Provider/YouTube.php	2a91d2312f2f06c292abdf9d47ffb450
 M	src/Tests/Kernel/FieldOutputTest.php	b622ebc8ba1e05ae4a080a212ee58d80
-A	src/Tests/Kernel/VideoEmbedIFrameTest.php	70e3e857faaefa0d7cbbfb0ef219fb25
 A	src/Tests/StripWhitespaceTrait.php	1e68a5d411679da6c93f89117c855ba5
 M	src/Tests/Web/WidgetTest.php	3bba4cca2b70b667176a5c0771c9ca43
 M	src/Tests/WebTestBase.php	2ad10adc62aa982ee7c631e9dcb06c38

@@ -1,10 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	ba6d346c1f233a05465b01a1d82c5c8c
-A	src/Plugin/views/filter/NodeStatus.php	bbcc944eb12a35889bdf669586a8c17e
-A	src/ViewUnpublishedPermissions.php	9539b54404e8627b5e95acf75a02ad3f
-A	view_unpublished.info.yml	9274cd431d0ada27c41b85d1d3f43a3c
-A	view_unpublished.install	5673f3bd0bb52029850546fda4ff9877
-A	view_unpublished.module	df6f567d0198c166dc0a418d4c95ed71
-A	view_unpublished.permissions.yml	d99679ac1cedbb9ce3ea65580cf5392b
-A	view_unpublished.views.inc	7b2a3a3064f3363e199838470a3f92b9
-A	view_unpublished.views_execution.inc	ddaa8f444d42be9e9baead329d742352
+M	view_unpublished.info.yml	20c725636af50ba8a569532fd3df1f07

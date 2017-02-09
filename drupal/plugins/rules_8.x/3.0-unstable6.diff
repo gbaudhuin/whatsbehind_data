@@ -3,10 +3,17 @@ M	README.md	d6c1dbd425cc0d4364abed8f9d3278b7
 M	config/schema/rules.schema.yml	88c7dc683abdaac23dc237bd0a8a1b23
 M	d7-tests/rules.test	7dcadc2d3277bfdeb0930061f1ca7fde
 D	modules/rules_ui/rules_ui.info.yml	
+D	modules/rules_ui/rules_ui.links.action.yml	
+D	modules/rules_ui/rules_ui.links.menu.yml	
+D	modules/rules_ui/rules_ui.links.task.yml	
 D	modules/rules_ui/rules_ui.module	
 D	modules/rules_ui/rules_ui.routing.yml	
+D	modules/rules_ui/src/Controller/RulesUiController.php	
 A	phpcs.xml	f0d3864667fb26e4d65f15acb5e7684c
 M	rules.info.yml	7ddad5300bd6c01fe8a7ace1a97ec506
+A	rules.links.action.yml	db650455f1ab766c347f6ccee2e822f2
+A	rules.links.menu.yml	6d844846e5065ddf3838fe38836936cc
+A	rules.links.task.yml	1ab52edb587e09281905bbfd7ffc8dce
 M	rules.module	66bc0842fd33ce2bbc6612df49b38bd3
 M	rules.permissions.yml	e29bc017eebacebda51dbc8406fffa3d
 M	rules.routing.yml	b235ba7fe2077c63eb060d6b7556fdc7
@@ -22,6 +29,7 @@ M	src/Context/ContextHandlerTrait.php	966f9992bedd43c650f2c55b31162a20
 M	src/Context/ContextProviderInterface.php	b8a226da3d6f3b1ab959e63ed9d1ea46
 M	src/Context/ContextProviderTrait.php	d8fabb0b923509101a154dbb1cf6fd81
 M	src/Context/DataProcessorInterface.php	9e2bfcb124db18fae03cb9fe9895c834
+A	src/Controller/RulesController.php	136b7330032bb99916cf2b9f118b9921
 A	src/Core/Annotation/Condition.php	36a30e8d0ef98caa2d6d3218507427be
 M	src/Core/Annotation/RulesAction.php	61171d1a117aecf18b9e89ae1fb1f278
 A	src/Core/ConfigurationAccessControlInterface.php	9ba1a1f20e2cfa4b9021f53b41fe2510
@@ -31,6 +39,8 @@ M	src/Core/RulesActionInterface.php	2784184b34b025d5e34b323c0adbedf2
 M	src/Core/RulesConditionBase.php	b465d00e75eab9ffc0b17358e2d70062
 M	src/Core/RulesConditionInterface.php	2d7a3c507dcbd45783cdbb371923430c
 M	src/Engine/ConditionExpressionContainer.php	fa134bf31a441ba567c0ab11fa20b9ab
+A	src/Engine/ExecutionState.php	82be510e4532a42deba02c2ee18c41a8
+A	src/Engine/ExecutionStateInterface.php	854fb85aa2dabf1191949a20fb1470fd
 M	src/Engine/ExpressionBase.php	53dbebf4e0701b59795dcdffb4aea832
 M	src/Engine/ExpressionContainerInterface.php	df2331b686c84ed5daf8ba872b46ad12
 M	src/Engine/ExpressionInterface.php	273c0f67ef20c7cf4c50b554d7eb7c23
@@ -38,11 +48,17 @@ M	src/Engine/ExpressionManager.php	6d7c9af89aaa90a23c99cd6cc33a08b9
 M	src/Engine/ExpressionManagerInterface.php	021a3b7da73d09289ccb13cb4abb67e3
 A	src/Engine/RulesComponent.php	cf539d0f5c172f0d061bcf4df4f2d8e3
 M	src/Engine/RulesEventManager.php	5a19004a6bdf5cd9cd79cdd7f0b171c0
+D	src/Engine/RulesState.php	
+D	src/Engine/RulesStateInterface.php	
 M	src/Entity/Controller/RulesComponentListBuilder.php	db5c11f95f701a9446cbc8ea54e2b499
 M	src/Entity/Controller/RulesReactionListBuilder.php	a95f26645609b9d9cf7aa3267797a136
+D	src/Entity/ReactionRule.php	
 M	src/Entity/ReactionRuleAddForm.php	2791d413be500d79c22f3afa4c8ba459
+A	src/Entity/ReactionRuleConfig.php	b8897c517dd712f6380f64401d89c58b
 M	src/Entity/ReactionRuleEditForm.php	bb34ec7e1387e6513bb9c788a655d88b
 M	src/Entity/ReactionRuleStorage.php	f6fad6186005362546b70481baf4c759
+D	src/Entity/RulesComponent.php	
+A	src/Entity/RulesComponentConfig.php	0ea1e5141abde31a247e90dc7ec8e6b9
 M	src/Entity/RulesComponentEditForm.php	88e0dd9a9b07a80d50c04255f73c04f3
 M	src/Entity/RulesComponentFormBase.php	62a18bea7ee8a06c3b7043654bffa7a6
 A	src/Event/SystemCronEvent.php	31237e8776b490dcfa2fac2b9d2c9faf

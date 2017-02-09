@@ -1,6 +1,5 @@
-M	CHANGELOG.txt	d998b5e07428e7a315a060ffbf581ab0
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
+A	CHANGELOG.txt	d998b5e07428e7a315a060ffbf581ab0
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 A	css/extra/blue.css	e6533b842e7895380d66f07c13ece0dd
 A	css/extra/coffee.css	e4ea2a078ebc43689ad306588e16f3ec
 A	css/extra/light-blue.css	0da671b8b20a8802ba65c58eecda5c30
@@ -22,10 +21,6 @@ A	js/jquery.bgiframe.min.js	6b182ecc4bd31dd833b3d1c35d476468
 A	js/jquery.hoverIntent.minified.js	51a5512f64065f89e8f05474b7a97442
 A	js/superfish.js	a2c30dead3e53be4cc2533be516b9368
 A	js/supersubs.js	c3b03fb6b9f0011f3f6df547b4831889
-M	superfish.admin.inc	06aa30df78b2b42609b4d280d3ffcd06
-D	superfish.drush.inc	
-M	superfish.info	c83311d4a01c4939ab7b09e120abc915
-D	superfish.install	
-D	superfish.js	
-D	superfish.make	
-M	superfish.module	199f2f99f13b12355125655d739fa651
+A	superfish.admin.inc	06aa30df78b2b42609b4d280d3ffcd06
+A	superfish.info	c83311d4a01c4939ab7b09e120abc915
+A	superfish.module	199f2f99f13b12355125655d739fa651

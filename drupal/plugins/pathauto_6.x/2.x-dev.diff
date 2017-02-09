@@ -1,16 +1,1 @@
-M	API.txt	1b41d7e3e33fae26cf3ec45ba093b942
-M	INSTALL.txt	d1bdec9227dff8e61d23512d48a2c977
-M	README.txt	0974e7f69f4faf75204badf26ab23aab
-D	i18n-ascii.example.txt	
-M	pathauto.admin.inc	dd28aab2737333a42b1d943bcfde1286
-M	pathauto.api.php	2987bb8c5a05abaf1f3ffd21d3b5160e
-M	pathauto.inc	9d0f0c473704a1d749a6cc409d9e6a12
 M	pathauto.info	bd82d312d253bfc95c2ee7af2a3248ab
-M	pathauto.install	1bcda48bde87296b3e7dcd3f59367386
-M	pathauto.module	6bb0c9d5611f8a9d4801804a7f2be80e
-A	pathauto.pathauto.inc	b72c5f97a0ae8d318982c21cfa948fef
-M	pathauto.test	cc92e301730d7e9f21dc443c0c57ab93
-A	pathauto.tokens.inc	61ea9ede9cc08fd12faa303f4d3ee944
-D	pathauto_node.inc	
-D	pathauto_taxonomy.inc	
-D	pathauto_user.inc	

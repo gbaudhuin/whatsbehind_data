@@ -8,6 +8,12 @@ D	alternative/node-example.tpl.php
 D	documentation/voting_actions_examples/Demote_from_front_page.png	
 D	documentation/voting_actions_examples/Promote_to_front_page.png	
 D	documentation/voting_actions_examples/To_moderation_queue.png	
+D	images/a_down_act.png	
+D	images/a_down_inact.png	
+D	images/a_up_act.png	
+D	images/a_up_inact.png	
+D	images/plus_act.png	
+D	images/plus_inact.png	
 D	node-storylink.tpl.php	
 D	screenshot.png	
 D	template.php	
@@ -43,7 +49,13 @@ A	vud_term/vud_term.module	7c44481e717425521dcabaacaec0125d
 A	vud_term/vud_term.test	78dcca8ba07af5d9a00e848d48f6e475
 A	widgets/alternate/alternate.css	f99d50ab3d83d729d44d53cc437f4e54
 A	widgets/alternate/alternate.inc	9f0ec017a8d79489f4cb123fff5b551c
+A	widgets/alternate/plus_act.png	92af07c7f9096242fc2ee975bccf1dcb
+A	widgets/alternate/plus_inact.png	96a93e505c9af6bfdc951bde2b7a5873
 A	widgets/alternate/widget.tpl.php	d9cf9a8c8e1fb1bed620ff5c6f8c5c47
+A	widgets/plain/a_down_act.png	9515af024c6e0d276f13adec9417958a
+A	widgets/plain/a_down_inact.png	721aaed5b37e2341854f8f60c9dfade9
+A	widgets/plain/a_up_act.png	ac0aa1e2bc538ff35eac78616898cdb4
+A	widgets/plain/a_up_inact.png	ab261e369004c709c98575ec32249e6b
 A	widgets/plain/plain.css	a59e84e30ab6f3f68935b26cdcc049fd
 A	widgets/plain/plain.inc	4de7f28cbc7113b33d41eff1c8dfe696
 A	widgets/plain/votes.tpl.php	b82c9cd7cc3578c6bedf1c0563588dcc

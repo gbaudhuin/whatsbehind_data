@@ -130,6 +130,8 @@ A	src/Plugin/YamlFormElement/YamlFormVideoFile.php	883bec91dcc538e829300f7fc6cbe
 M	src/Plugin/YamlFormElement/YamlFormWizardPage.php	f820a4661d6c01a91302e162f9c5571d
 M	src/Plugin/YamlFormExporter/DelimitedYamlFormExporter.php	755b509080bd5116441f8bcc0be9706b
 A	src/Plugin/YamlFormExporter/DocumentBaseYamlFormExporter.php	14f6a719e587437c226a68e5d9ba211d
+D	src/Plugin/YamlFormExporter/FileHandleBaseYamlFormExporter.php	
+A	src/Plugin/YamlFormExporter/FileHandleTraitYamlFormExporter.php	7d6314007aa460e163fba116518a2517
 A	src/Plugin/YamlFormExporter/JsonYamlFormExporter.php	26534331360a581810547cf763bf29f5
 M	src/Plugin/YamlFormExporter/TableYamlFormExporter.php	8ad65a8ea44cf8204788ff1ecbd978ff
 A	src/Plugin/YamlFormExporter/TabularBaseYamlFormExporter.php	d280458d26cc18e7e9b3ea89f99acb9d
@@ -232,7 +234,11 @@ M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_element_html
 M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_element_html_markup.yml	d4f4d1691c51f912c6c362aa85dc992c
 M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_element_likert.yml	25080e0f669c4e738eede0cb9b3de6da
 M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_element_managed_file.yml	c5ff50e9bb7a763973f962fb7dd9629b
+A	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_element_media_file.yml	5422da096b72b36806ee80a84caf377a
+D	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_element_private.yml	
 A	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_element_table.yml	6f659e74a0af2f6849b131d187b1058d
+D	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_element_tableselect_sort.yml	
+A	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_element_users_roles.yml	412218ecb8e998a83836c39084cfb3b8
 M	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_form_states.yml	65a7a5aa5abb57388fe5668ceae2b12c
 A	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_form_wizard_long_100.yml	d02375be0165f28561bd7f93d24a64f8
 A	tests/modules/yamlform_test/config/install/yamlform.yamlform.test_form_wizard_long_200.yml	99cedb197956dfad4dd59c37f78bd44d

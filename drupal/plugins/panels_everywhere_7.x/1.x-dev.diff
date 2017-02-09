@@ -1,20 +1,9 @@
-A	CHANGELOG.txt	25f2ba1a4ee731fc9237326e7934fa3f
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	d14895da993509744d7a73c6a57e9a30
-A	panels_everywhere.admin.inc	dcbe5a2d08b962bb107ce2cf94aff8be
-A	panels_everywhere.info	8a7e76eaa28bbd211f8cea5a1b7be9dd
-A	panels_everywhere.install	5a364533d8910ba2ed26ec5eae6b7ed6
-A	panels_everywhere.module	af2fc17a2a58c2a5e79eba5832405e39
-A	panels_everywhere.pages_default.inc	899ae975fbdbf675b8a9cb128be73fcd
-A	plugins/arguments/managed_page.inc	75022f9e85cd6f63e4579d26339205c6
-A	plugins/arguments/page_content.inc	c16c2c54fbd906a2afcdf62668843df8
-A	plugins/content_types/page_content.inc	68da8968ccdcda15220165bc61d1f91c
-A	plugins/content_types/pane_header.inc	f70c8d46b5d606b2364163c314f4a846
-A	plugins/content_types/pane_messages.inc	6d5fc4147530c1f30d1f1fd4139514e2
-A	plugins/content_types/pane_navigation.inc	b2282d1e522a8123e4ddf8c3e0edc4ea
-A	plugins/contexts/managed_page.inc	9c61fcbc3258eeb85ec1d0c59f0b0f19
-A	plugins/contexts/page_content.inc	39bb69dd182d6c8521a99faaf13765eb
-A	plugins/tasks/site_template.inc	44e9355fc329f590bad1575ee16e433c
+M	CHANGELOG.txt	25f2ba1a4ee731fc9237326e7934fa3f
+M	README.txt	d14895da993509744d7a73c6a57e9a30
+M	panels_everywhere.info	8a7e76eaa28bbd211f8cea5a1b7be9dd
+M	panels_everywhere.pages_default.inc	899ae975fbdbf675b8a9cb128be73fcd
+D	plugins/access/managed_page.inc	
+M	plugins/tasks/site_template.inc	44e9355fc329f590bad1575ee16e433c
 A	tests/PanelsEverywhereBasicsTestCase.test	24c5fbc20d6795d12e684de5479fd979
 A	tests/PanelsEverywhereNodeEditTestCase.test	f194ef5e34004456255136e2b355855a
 A	tests/PanelsEverywhereNodeViewTestCase.test	8eb792d61c5c1eee0a0dac7512c6a7fb
@@ -24,7 +13,3 @@ A	tests/PanelsEverywhereTermViewTestCase.test	e941c1184c1a9ff3be4638b529bcaee6
 A	tests/PanelsEverywhereTestHelper.test	392400b6b15ac6ae9760c168875c5efa
 A	tests/PanelsEverywhereUserEditTestCase.test	997bcca1a4c9d7c207e5bd7d5b7117b5
 A	tests/PanelsEverywhereUserViewTestCase.test	bdb51061c25112d46ec0c977caa61171
-A	theme/pane-header.tpl.php	245287cf8f2b0c1516dd324e39ede5ef
-A	theme/pane-messages.tpl.php	43b11ba74791aa1a67e60a9c97494d79
-A	theme/pane-navigation.tpl.php	c2ac451383e2c3360746de1f828a522d
-A	theme/theme.inc	807ba08af664a364c53e8aefb3d5366b

@@ -2,8 +2,10 @@ D	.cvsignore
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 M	README.txt	900c13f60c823ebbc605ee9ea87619cb
 M	WIDGETAPI.txt	6d789ad77c3866b425c65c0db60090d4
+D	hook_vud.php	
 D	translations/es.po	
 D	translations/vote_up_down.pot	
+A	vud.api.php	49549898f18cb7b0bf1c633a899bd186
 M	vud.info	67f8434c0fa04367ad1277e6a2ce5beb
 M	vud.install	2131b1730ec54f1e5af51375659f7b53
 M	vud.module	b7c3b64d78ef8968bf857654250295d8

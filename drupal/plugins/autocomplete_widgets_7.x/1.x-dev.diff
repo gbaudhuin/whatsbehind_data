@@ -1,9 +1,2 @@
-A	CHANGELOG.txt	e58dffa5e9463735cb3c35a36ce7f330
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	7fe79d3ae0ffc58d8a9b531cbe00f694
-A	autocomplete_widgets.admin.inc	6935d27191466463ce66c5b81fe19643
-A	autocomplete_widgets.common.inc	6aa1b70d6a0e7805d9891183db69a90f
-A	autocomplete_widgets.info	195b766b761424c192231202f793d691
-A	autocomplete_widgets.install	4c419e5df257b92cf77fd2fcf20147be
-A	autocomplete_widgets.module	358ef48cc8a1fca43aeb89bf21daf603
-A	tests/autocomplete_widgets.test	7d469b87e7dd55f92f6985b3c37bf90a
+M	autocomplete_widgets.info	195b766b761424c192231202f793d691
+M	autocomplete_widgets.module	358ef48cc8a1fca43aeb89bf21daf603

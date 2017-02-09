@@ -1,9 +1,5 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	5f65d14e10dd7f7e1c83e8d27e163766
-D	plugins/tokenauth_context_condition_tokenauth.inc	
-D	tokenauth.drush.inc	
-D	tokenauth.inc	
-M	tokenauth.info	84cbe2d33610f7aecbe1ece4ea097660
-M	tokenauth.install	f3753df7174916f1c327d7f2e237ec10
-M	tokenauth.module	d479d4557de158c36c5351cc6c4c4b75
-D	tokenauth.pages.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	5f65d14e10dd7f7e1c83e8d27e163766
+A	tokenauth.info	84cbe2d33610f7aecbe1ece4ea097660
+A	tokenauth.install	f3753df7174916f1c327d7f2e237ec10
+A	tokenauth.module	d479d4557de158c36c5351cc6c4c4b75

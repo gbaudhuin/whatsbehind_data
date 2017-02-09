@@ -1,4 +1,5 @@
 M	.travis.yml	2f420b24dc29661bc71a9f798a3c377e
+D	LICENSE.txt	
 M	commons.info	59cb33e5f24cb84bce8c901d4793219e
 M	commons.install	04e51da53b8a997ba25a93ef959614ae
 M	drupal-org-core.make	18965a88bbcf6f2d669e88be762ff903
@@ -777,6 +778,7 @@ M	modules/commons/commons_wysiwyg/commons_wysiwyg.features.filter.inc	fad86a5efd
 M	modules/commons/commons_wysiwyg/commons_wysiwyg.info	5d1a3ef40e46da1058dfc4d8009e0491
 M	modules/commons/commons_wysiwyg/commons_wysiwyg.install	f1a0636e73151d81063703c4272aa93f
 M	modules/commons/commons_wysiwyg/commons_wysiwyg.module	f2eca066f6beadd55e8b8fd31989d348
+A	modules/contrib/acquia_connector/LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	modules/contrib/acquia_connector/PATCHES.txt	e683e7aa5b2d0efac134890ab16ac084
 A	modules/contrib/acquia_connector/README.txt	f8fc378ae8e4f948bf16e542f813176c
 A	modules/contrib/acquia_connector/acquia_agent/acquia.ico	9b6e6eb1392cb22c5cae359fd68c6dd5

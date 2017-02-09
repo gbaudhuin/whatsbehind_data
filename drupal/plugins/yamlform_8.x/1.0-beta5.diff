@@ -1,8 +1,0 @@
-M	js/yamlform.element.codemirror.js	0dfb6ae19603dcccfe9e5e120f5a5314
-M	modules/yamlform_examples/yamlform_examples.info.yml	4f4d282c55687e19148253c37fe6550e
-M	modules/yamlform_templates/yamlform_templates.info.yml	5f126a7e4399a253cbb0af3a3ca5c18c
-M	modules/yamlform_ui/yamlform_ui.info.yml	d501bb7e79b1afea7333e793ebfb5844
-M	tests/modules/yamlform_test/yamlform_test.info.yml	eea963899f3bc76524eb941d6ee4a799
-M	tests/modules/yamlform_test_third_party_settings/yamlform_test_third_party_settings.info.yml	ecfc8e2c1f9882e6936d5949ab1eab28
-M	tests/modules/yamlform_translation_test/yamlform_translation_test.info.yml	099dcb983cb4bdde51ab211291c4e78d
-M	yamlform.info.yml	aa251d27c672d525cd8bb2bc6d5debc3

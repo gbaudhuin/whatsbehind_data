@@ -1,0 +1,10 @@
+M	interval.info.yml	603415b8ab06a1d9723977b951805b35
+M	interval.module	3c89e94095b73a131f04818a887740a4
+A	src/Element/Interval.php	1bcb081d8c741b5e4c3a1caf96414c56
+M	src/Plugin/Field/FieldFormatter/IntervalFormatterBase.php	6477250490603e6421d9c3f38144a7ab
+M	src/Plugin/Field/FieldFormatter/IntervalFormatterPhp.php	38dc9ff0a6364a1b1680d5ac066a7fae
+M	src/Plugin/Field/FieldFormatter/IntervalFormatterRaw.php	448c5fa16dbc2ffeea98fff7cf80877e
+M	src/Plugin/Field/FieldType/IntervalItem.php	b82ab41eec201af3da290862a0ec8db0
+M	src/Plugin/Field/FieldWidget/IntervalWidget.php	c4a399810a28bb6d2c2c5af151bc594b
+M	src/Tests/IntervalTest.php	8b245ccba26cac21eb1ac03699a7c6b8
+D	tests/src/IntervalTest.php	

@@ -1,0 +1,9 @@
+M	rng.info.yml	901f53a259b05fcb6a8d0192587f2ae0
+M	rng.module	ff5beb166f058c3f7e97b818a7cb6bd1
+M	rng.services.yml	fd23c35b0f11facd5b6e29e8024b1bd7
+M	rng_debug/rng_debug.info.yml	89bb4f8d0a83ad208ab4a5603cea83c5
+M	rng_views/rng_views.info.yml	47f5f9db22ef25032e1dea14103e5976
+A	src/RngCron.php	3c83b53769aa78868c1dd57797954a77
+A	src/RngEntityAccess.php	9940032b1d365176254b9b0ff07277b5
+A	src/RngEntityModel.php	8f33929f50e116c2c3ab797014b0a0f0
+M	tests/modules/rng_test_views/rng_test_views.info.yml	696ba9686934df02b2d47d3a8bd88e0f

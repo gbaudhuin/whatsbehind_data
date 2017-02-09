@@ -1,15 +1,4 @@
-D	API.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	protected_node.fork.inc	
-M	protected_node.info	0011210a439224e92b61ad73ec5373d4
-M	protected_node.install	22c60a3855d48e5b6e1498edb344ece5
-D	protected_node.mail.inc	
-M	protected_node.module	abe5910318fb878a07cb3271715b9d12
-D	protected_node.redirect.inc	
-D	protected_node.settings.inc	
-D	protected_node_rules.info	
-D	protected_node_rules.module	
-D	protected_node_rules.rules.inc	
-D	protected_node_views.info	
-D	protected_node_views.module	
-D	protected_node_views.views.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	protected_node.info	0011210a439224e92b61ad73ec5373d4
+A	protected_node.install	22c60a3855d48e5b6e1498edb344ece5
+A	protected_node.module	abe5910318fb878a07cb3271715b9d12

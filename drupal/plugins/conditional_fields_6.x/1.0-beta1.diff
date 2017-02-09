@@ -1,9 +1,9 @@
-M	CHANGELOG.txt	e9dd9f5a6a722dc629de0cf2577699e9
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	7090aa04eaf58b2181492407aaa631ee
-M	conditional_fields.info	494bf5e9e37461fa0db437c0fcea5247
-M	conditional_fields.install	1a19737441ea5dbc5309ce75e6e1e33d
-M	conditional_fields.js	af6d7bd351d40a56361b62dbd1916ccc
-M	conditional_fields.module	29bd5199c3c2c3ef0d46e3a19780179e
+A	CHANGELOG.txt	e9dd9f5a6a722dc629de0cf2577699e9
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	7090aa04eaf58b2181492407aaa631ee
+A	conditional_fields.info	494bf5e9e37461fa0db437c0fcea5247
+A	conditional_fields.install	1a19737441ea5dbc5309ce75e6e1e33d
+A	conditional_fields.js	af6d7bd351d40a56361b62dbd1916ccc
+A	conditional_fields.module	29bd5199c3c2c3ef0d46e3a19780179e
 A	translations/conditional_fields.pot	e2e9a7c3442dde4a0d6e145df3943e1e
 A	translations/it.po	d1d8f1fe6c3f50e096864d9a73c096b5

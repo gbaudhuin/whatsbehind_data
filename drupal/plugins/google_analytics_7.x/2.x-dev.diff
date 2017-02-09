@@ -1,11 +1,5 @@
-M	README.txt	a140ea7ff8c490398ac32562267520f0
 M	googleanalytics.admin.inc	323df9f5e4a0ed1e99a4a66032deb9fc
-M	googleanalytics.admin.js	3b6ea418fbf23071eb48998b0931d1d4
-A	googleanalytics.debug.js	cc0afb1d6641aea9ee7fbdf3f09b1413
 M	googleanalytics.info	255d3cad1e29d7aa65ec3da0f8a4ba64
 M	googleanalytics.install	df01289d155501831147d7a69d931b64
-M	googleanalytics.js	983089f44b3560019bf4074e05b9f5e2
 M	googleanalytics.module	279b34644091cd8df40521f3d2be0db8
 M	googleanalytics.test	1bd774d4c32725711d34e7e270824306
-A	googleanalytics.test.js	2665e86ba3cf1c3a3359243af6926cb6
-M	googleanalytics.variable.inc	07386b41b7badf094f784542f91a9706

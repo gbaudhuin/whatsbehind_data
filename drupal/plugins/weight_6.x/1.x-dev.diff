@@ -1,15 +1,1 @@
-A	INSTALL.txt	1561d761d8c3461c85a68e8ef25a4447
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	5353f66e1ceed907d053c98a3725450f
-A	theme/weight-view-weight.tpl.php	c83b28b7339d58f650eadab8ed636c0f
-A	views/weight.views.inc	13b2d2d8f19f9c31e8cf36c2a5879ce4
-A	views/weight_handler_field_sticky.inc	24fe5da137866c21f66c8b274b10eb39
-A	views/weight_handler_filter_sticky.inc	39e4129c194ce8120666e13d08812d40
-A	views/weight_handler_filter_weight.inc	8884617bf46fc1514167bdab0e46e818
-A	views/weight_handler_sort.inc	1439d560df7298f4edea7f817830df6a
-A	views/weight_plugin_style.inc	bdc5901afcb5916c65dfcb48613f0e65
-A	weight.admin.inc	e407e4e9c22495e04fb493b9b13ec6a8
-A	weight.css	9fc74038a219b59648547a8ea4bcb330
-A	weight.info	e7fa7ed02ea1e6e582a6f46067bc034e
-A	weight.install	98372003db1894bb06de164feabca3f5
-A	weight.module	51c062a8dbff79e55762f1dc9dac0399
+M	weight.info	e7fa7ed02ea1e6e582a6f46067bc034e

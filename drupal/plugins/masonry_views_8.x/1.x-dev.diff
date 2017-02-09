@@ -1,5 +1,3 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	masonry_views.info.yml	3cfa54e49667eb767122f9549ee75f8b
-A	masonry_views.module	d89b17b599b81fe1d2b098baf0f50db1
-A	src/Plugin/views/style/Masonry.php	076a1916038ec45f54fe32d7362cc9c4
-A	templates/views-view-masonry.html.twig	24fac1408f171a17f3f489e06fa3bbfe
+M	masonry_views.info.yml	3cfa54e49667eb767122f9549ee75f8b
+M	masonry_views.module	d89b17b599b81fe1d2b098baf0f50db1
+M	templates/views-view-masonry.html.twig	24fac1408f171a17f3f489e06fa3bbfe

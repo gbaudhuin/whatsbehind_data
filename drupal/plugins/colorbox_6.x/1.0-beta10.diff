@@ -4,6 +4,8 @@ M	colorbox.admin.inc	5725cf169c9282c573dbdfad1a5cf18a
 M	colorbox.api.php	b490a01204ee8c81265db5da2302963f
 M	colorbox.info	93d0d26d23e87b380016723cc8cd10ff
 M	colorbox.install	725c40fd053921e65b683476360061a5
+D	colorbox.make	
+A	colorbox.make.example	2e176ee3dd073835ac8194b307ae402b
 M	colorbox.module	b55943b0e2241e7326a6ce5e9ada38df
 M	colorbox.pages.inc	be0529f176b859594ed1de3708b14682
 M	colorbox.theme.inc	c56190164db583d43adc624674c4b25a

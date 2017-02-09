@@ -1,61 +1,7 @@
-M	INSTALL.md	ce3de3678d7495cdadd29a7622d405f7
 M	README.md	44d9f077187c6067907e0a28b2cfe4ca
-M	css/video.css	3e7bd478a2aa5ced4708245702499c68
-M	filesystem/drupal.inc	58d02fbdf2a07892e634f2d54c9e82f0
-D	includes/conversion.inc	
-D	includes/filesystem.inc	
-D	includes/metadata.inc	
-D	includes/preset.inc	
-D	includes/transcoder.inc	
-M	includes/video_helper.inc	356c22e4f50bcd28697646ffc638ccc3
-M	js/video.admin.js	85439fb7dcfabef4453ee1ed9ed8bc08
-D	metadata/flvtool2.inc	
-M	plugins/video_s3/filesystem/video_s3.inc	f86558a38704a48f61cc2b28f003e22b
 M	plugins/video_s3/video_s3.info	3a48c730a322e5d27b1388e3fb77786d
-M	plugins/video_s3/video_s3.install	8b044fbe7cf027405cebc8b9d762d294
-M	plugins/video_s3/video_s3.lib.inc	91bac367ba885afc1902ead365a068ce
-M	plugins/video_s3/video_s3.module	d8d3c4a38159c80bdcb529e3827925ec
-M	plugins/video_zencoder/transcoders/video_zencoder.inc	e78a6a00d0de40000320b6de08552d08
 M	plugins/video_zencoder/video_zencoder.info	582023eef317a0e004d6982e986091a0
-M	plugins/video_zencoder/video_zencoder.install	a03951554d021ae8521a8955bad83198
-M	plugins/video_zencoder/video_zencoder.lib.inc	b746fcbb99ed13607800345c671a49fc
-M	plugins/video_zencoder/video_zencoder.module	10329e7e7129e32bbc873263e0a000bb
-A	tests/transcoder_localcommand.test	1b6416372c1b282bdc8bffe66d1e7fbf
-M	theme/video-play-dcr.tpl.php	626e8c2552c0e8198267073980db0bd9
-M	theme/video-play-divx.tpl.php	0e99571229056de4ed860aa32ed13b54
-M	theme/video-play-flash.tpl.php	638a0d17672f2d53644a955f6cd97024
-M	theme/video-play-flv.tpl.php	5a0177f2461eefd530b24c98ee11531a
-M	theme/video-play-html5.tpl.php	782ee6cbad96bf82bcf5a74ed8b8deb7
-M	theme/video-play-quicktime.tpl.php	56e76b54a62c14a7e6420a3c2c1fd6cc
-M	theme/video-play-realmedia.tpl.php	12d439008ac50a5879401df09c5da327
-M	theme/video-play-theora.tpl.php	bc002cd5b002368b726c555b1d2ce25e
-M	theme/video-play-windowsmedia.tpl.php	7c9bbfa53fd7a570ec5cc3173b6761f7
-D	transcoders/video_ffmpeg.inc	
-A	transcoders/video_localcommand.inc	b3f1b2ebcaf71c13fb1e2c0ba51032a6
 M	types/uploadfield/uploadfield.info	66dbf91f40686ac2cfdecd4a41dbaf5a
-M	types/uploadfield/uploadfield.install	576278ec90bfb6652182c2d0c7f3bb7c
-M	types/uploadfield/uploadfield.module	0c9557931a2701459016b67c6a462758
-M	types/uploadfield/uploadfield.theme.inc	d1b758e60d19a94fd62aa029cb6a23d7
-M	types/uploadfield/uploadfield_widget.inc	c25d4e6a9955e78250fa5448b0cffad7
 M	types/videoftp/videoftp.info	1852ef76e44d06329ba0d392a1d2f0aa
-M	types/videoftp/videoftp.install	859d4edf5b2535cf2b5db9ab739c922f
-M	types/videoftp/videoftp.module	49dbcf718033cb96e544ea4ab16aca69
-M	types/videoftp/videoftp.theme.inc	f5737eefa0c30c4c45f6b815008e82a3
-M	types/videoftp/videoftp_widget.inc	837a24942a3219d52bb0ccceae9e10ac
-M	video.admin.inc	b7eb6fa3b8406fba6fb1832acc1bf1e5
-M	video.drush.inc	8b44fc56fe797f42a7afa8d2678c5196
 M	video.info	b97cfd770468f4bb2a11f898f24da335
 M	video.install	78245a5bbce330dc51623872850b8e90
-A	video.lib.inc	3740ee63b970909932dfebbc61b30e02
-M	video.module	d45c5116105a339d3a19d2e008df0b88
-M	video.theme.inc	35624b966513db935029a3a3b22a71fc
-M	video_formatter.inc	b3d95daea57d13b00f3e7205668888c0
-D	video_preset/hq_flash.inc	
-D	video_preset/html5_mp4.inc	
-D	video_preset/html5_ogv.inc	
-D	video_preset/html5_webm.inc	
-D	video_preset/iphone_mov.inc	
-M	video_scheduler.php	d4113c48944cceb80f0fd2316efdc13d
-M	video_widget.inc	cab8278605405531fd2cfae143ae62fc
-M	views/video.views.inc	1ff69a661fba7ba714a546b408a997e9
-M	views/video_views_handler_field_data.inc	7953d56dd9dec5584a27b73317a678c8

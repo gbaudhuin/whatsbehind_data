@@ -9,6 +9,7 @@ M	feedapi_node/feedapi_node.install	5b0f99834504c65476830e816850741d
 M	feedapi_node/feedapi_node.module	871a4fb7c14e13df31d0bf27ddc6269c
 M	feedapi_node/tests/feedapi_node.module.test	b773a313e0187bac505346ec03204055
 A	feedapi_node/views/feedapi_node.views.inc	163fb0e876237535b0b27a4b3fb4f7f4
+A	feedapi_node/views/feedapi_node.views_default.inc	ee737622e85d87668267c693720df612
 A	feedapi_node/views/handlers/feedapi_node_handler_feedapi_item_title_url.inc	c131508e2f4e3072115de89cf1425194
 A	feedapi_node/views/handlers/feedapi_node_handler_feedapi_title_link.inc	70ea9ff168a6e326a7fa1cca60ffaaae
 A	feedapi_node/views/handlers/feedapi_node_handler_feedapi_title_nid.inc	6d2eaaf82c66dc6edab8be5992da1034
@@ -16,6 +17,7 @@ A	feedapi_node/views/handlers/feedapi_node_handler_feedapi_title_url.inc	c43baa9
 D	feedapi_node_views/feedapi_node_views.info	
 D	feedapi_node_views/feedapi_node_views.module	
 D	feedapi_node_views/feedapi_node_views.views.inc	
+D	feedapi_node_views/feedapi_node_views.views_default.inc	
 D	feedapi_node_views/translations/feedapi_node_views.pot	
 D	feedapi_node_views/translations/hu.po	
 M	parser_common_syndication/parser_common_syndication.info	ce19d34d936bc5f7cfeb1591afec4748

@@ -1,8 +1,8 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	2eceec8b082358a4d3c7255edd619c68
-M	webform_validation.admin.inc	9087bf390d6363ee9dc408ab38131814
-M	webform_validation.info	aa22a34c2e9f0e050a033919b4bedb74
-M	webform_validation.install	69ed41fcf2ab6a0a4f50f513ca386c71
-M	webform_validation.module	ca506a2b33f7ae979ba12341a75c1425
-M	webform_validation.rules.inc	ae8066e00a90e85021066ca1005c9fc0
-M	webform_validation.validators.inc	2f24b513bb39c55088b25f215ca3284d
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	2eceec8b082358a4d3c7255edd619c68
+A	webform_validation.admin.inc	9087bf390d6363ee9dc408ab38131814
+A	webform_validation.info	aa22a34c2e9f0e050a033919b4bedb74
+A	webform_validation.install	69ed41fcf2ab6a0a4f50f513ca386c71
+A	webform_validation.module	ca506a2b33f7ae979ba12341a75c1425
+A	webform_validation.rules.inc	ae8066e00a90e85021066ca1005c9fc0
+A	webform_validation.validators.inc	2f24b513bb39c55088b25f215ca3284d

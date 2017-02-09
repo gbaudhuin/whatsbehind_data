@@ -1,85 +1,36 @@
-M	.gitignore	8cd820c154de01edf728e3ad930e6ba4
-D	.travis.yml	
-M	CHANGELOG.txt	aa24f6c9549681bbcf4ab46c1cbc0c32
-M	INSTALL.txt	e9299e5394f4e43b11abaca42999cf77
+A	.gitignore	8cd820c154de01edf728e3ad930e6ba4
+A	CHANGELOG.txt	aa24f6c9549681bbcf4ab46c1cbc0c32
+A	INSTALL.txt	e9299e5394f4e43b11abaca42999cf77
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	Tests/Controller/DefaultControllerTest.php	0670732f3b45198a19839763c3e54dc1
-D	composer.json	
-D	config/install/search_api_solr_multilingual.solr_field_type.m_text_und_5_2_0.yml	
 A	config/install/search_api_solr_multilingual.solr_field_type.text_und.yml	e0033c64dd42d4c980af6ed1d4b2d067
-D	config/install/search_api_solr_multilingual.solr_field_type.text_und_4_5_0.yml	
-D	config/install/search_api_solr_multilingual.solr_field_type.text_und_5_0_0.yml	
-D	config/optional/search_api_solr_multilingual.solr_field_type.m_text_de_5_2_0.yml	
-D	config/optional/search_api_solr_multilingual.solr_field_type.m_text_en_5_2_0.yml	
-D	config/optional/search_api_solr_multilingual.solr_field_type.m_text_nl_5_2_0.yml	
-D	config/optional/search_api_solr_multilingual.solr_field_type.text_de_5_0_0.yml	
+A	config/optional/search_api_solr_multilingual.solr_field_type.text_de.yml	27d82293ad43c36b970eb62e4367f7df
 A	config/optional/search_api_solr_multilingual.solr_field_type.text_en.yml	1c60b940d5eabb564c96a45d91c46bcd
-D	config/optional/search_api_solr_multilingual.solr_field_type.text_en_4_5_0.yml	
-D	config/optional/search_api_solr_multilingual.solr_field_type.text_en_5_0_0.yml	
-D	config/optional/search_api_solr_multilingual.solr_field_type.text_es_4_5_0.yml	
-D	config/optional/search_api_solr_multilingual.solr_field_type.text_fr_4_5_0.yml	
-D	config/optional/search_api_solr_multilingual.solr_field_type.text_it_4_5_0.yml	
 A	config/optional/search_api_solr_multilingual.solr_field_type.text_nl.yml	98eada8b691b747a455e993cbdbc9119
-D	config/optional/search_api_solr_multilingual.solr_field_type.text_nl_4_5_0.yml	
-D	config/optional/search_api_solr_multilingual.solr_field_type.text_nl_5_0_0.yml	
-D	config/optional/search_api_solr_multilingual.solr_field_type.text_ru_4_5_0.yml	
-D	config/optional/search_api_solr_multilingual.solr_field_type.text_uk_4_5_0.yml	
-D	config/schema/search_api_solr_multilingual.backend.schema.yml	
-M	config/schema/solr_field_type.schema.yml	38b0146c5b8dd3c5a31ac6b49ea45d66
-D	docker-compose.yml	
-D	search_api_solr_multilingual.drush.inc	
-M	search_api_solr_multilingual.info.yml	fe18142bf1e55f21c38c5d565198a7f0
-D	search_api_solr_multilingual.install	
-M	search_api_solr_multilingual.links.action.yml	65db22ac310bc55b4ef22118cd4fa73d
-M	search_api_solr_multilingual.links.task.yml	03538ad1c9885f802f8366bbe62233fa
-M	search_api_solr_multilingual.module	b16299caab7045cdc6955a5b27f84e95
-D	search_api_solr_multilingual.post_update.php	
-M	search_api_solr_multilingual.routing.yml	2942422648c4005d6f42c7ba813c289f
+A	config/schema/solr_field_type.schema.yml	38b0146c5b8dd3c5a31ac6b49ea45d66
+A	search_api_solr_multilingual.info.yml	fe18142bf1e55f21c38c5d565198a7f0
+A	search_api_solr_multilingual.links.action.yml	65db22ac310bc55b4ef22118cd4fa73d
+A	search_api_solr_multilingual.links.task.yml	03538ad1c9885f802f8366bbe62233fa
+A	search_api_solr_multilingual.module	b16299caab7045cdc6955a5b27f84e95
+A	search_api_solr_multilingual.routing.yml	2942422648c4005d6f42c7ba813c289f
+A	search_api_solr_multilingual.services.yml	e3947995cf7bb1edf146f84cce5689d6
+A	solr-conf/5.x/elevate.xml	fad03a3da57c70f58c6747edd1300de8
 A	solr-conf/5.x/managed-schema.xml	7af0fac1ea26473b2cb31a1a63621020
+A	solr-conf/5.x/mapping-ISOLatin1Accent.txt	287f86277b9c667f4a21985d73602ce4
+A	solr-conf/5.x/protwords.txt	5efcd6eedb6b60f385fd9f80fe61ea74
 A	solr-conf/5.x/schema_extra_fields.xml	edb3368bbcdadec12a57322c33d42688
 A	solr-conf/5.x/schema_extra_types.xml	b9ab7493f25ee6bb547652b999c41c58
+A	solr-conf/5.x/solrconfig.xml	a342f037bccb5244978eb7f24c9e9ca5
 A	solr-conf/5.x/solrconfig_extra.xml	6d7afb2b30a9487f5ecc1f18c02e2f0e
-M	src/Access/LocalActionAccessCheck.php	9ec262b46d9ff426db597f33c5990175
-D	src/Controller/SolrFieldTypeController.php	
-M	src/Controller/SolrFieldTypeListBuilder.php	398502961a1deb67ddff0485a40f43eb
-M	src/Entity/SolrFieldType.php	8569c095753706f73b6fcbd0fdb78602
-M	src/EventSubscriber/ConfigSubscriber.php	12d2fe852c37dcd081daeaa41a63d850
-M	src/Form/SolrFieldTypeDeleteForm.php	1173df63e0eac19ed4c5ac74b01aba01
-D	src/Form/SolrFieldTypeExportForm.php	
-M	src/Form/SolrFieldTypeForm.php	b87c911e7524bdcf6169060961f32454
-D	src/Plugin/search_api/backend/AbstractSearchApiSolrMultilingualBackend.php	
-M	src/Plugin/search_api/backend/SearchApiSolrMultilingualBackend.php	e0b864fe5c084389ff8fce384e22a961
-D	src/Plugin/search_api/backend/SearchApiSolrMultilingualManagedSchemaBackend.php	
-D	src/SearchApiSolrMultilingualException.php	
-M	src/SolrFieldTypeInterface.php	401b7447154bf258157e602679dc2c65
-D	src/SolrMultilingualBackendInterface.php	
-D	src/Tests/IntegrationTest.php	
-D	src/Tests/ViewsTest.php	
-M	src/Utility/Utility.php	e9a7bc193062ff06f8f0b775c0bb9102
-D	tests/modules/search_api_solr_multilingual_test/config/install/language.entity.de-at.yml	
-D	tests/modules/search_api_solr_multilingual_test/config/install/language.entity.de.yml	
-D	tests/modules/search_api_solr_multilingual_test/config/install/search_api.index.solr_multilingual_search_index.yml	
-D	tests/modules/search_api_solr_multilingual_test/config/install/search_api.server.solr_multilingual_search_server.yml	
-D	tests/modules/search_api_solr_multilingual_test/search_api_solr_multilingual_test.info.yml	
-D	tests/solr-conf/6.x/accents_de.txt	
-D	tests/solr-conf/6.x/accents_en.txt	
-D	tests/solr-conf/6.x/accents_und.txt	
-D	tests/solr-conf/6.x/nouns_de.txt	
-D	tests/solr-conf/6.x/protwords_de.txt	
-D	tests/solr-conf/6.x/protwords_en.txt	
-D	tests/solr-conf/6.x/protwords_und.txt	
-D	tests/solr-conf/6.x/schema.xml	
-D	tests/solr-conf/6.x/schema_extra_fields.xml	
-D	tests/solr-conf/6.x/schema_extra_types.xml	
-D	tests/solr-conf/6.x/schema_legacy_fields.xml	
-D	tests/solr-conf/6.x/schema_legacy_types.xml	
-D	tests/solr-conf/6.x/solrconfig_spellcheck.xml	
-D	tests/solr-conf/6.x/stopwords_de.txt	
-D	tests/solr-conf/6.x/stopwords_en.txt	
-D	tests/solr-conf/6.x/stopwords_und.txt	
-D	tests/solr-conf/6.x/synonyms_de.txt	
-D	tests/solr-conf/6.x/synonyms_en.txt	
-D	tests/solr-conf/6.x/synonyms_und.txt	
-D	tests/src/Kernel/SearchApiSolrMultilingualTest.php	
-D	tests/src/Kernel/SolrFieldTypeTest.php	
-D	tests/src/Kernel/UtilitiesTest.php	
-D	travis.trigger	
+A	solr-conf/5.x/solrcore.properties	e09f81735ca990685951300e25e0f2fb
+A	solr-conf/5.x/stopwords.txt	d1e4617aedb57410383d606606a436e4
+A	solr-conf/5.x/synonyms.txt	d3bae0cf7df2ff6f3c8dc1b5b025e875
+A	src/Access/LocalActionAccessCheck.php	9ec262b46d9ff426db597f33c5990175
+A	src/Controller/SolrFieldTypeListBuilder.php	398502961a1deb67ddff0485a40f43eb
+A	src/Entity/SolrFieldType.php	8569c095753706f73b6fcbd0fdb78602
+A	src/EventSubscriber/ConfigSubscriber.php	12d2fe852c37dcd081daeaa41a63d850
+A	src/Form/SolrFieldTypeDeleteForm.php	1173df63e0eac19ed4c5ac74b01aba01
+A	src/Form/SolrFieldTypeForm.php	b87c911e7524bdcf6169060961f32454
+A	src/Plugin/search_api/backend/SearchApiSolrMultilingualBackend.php	e0b864fe5c084389ff8fce384e22a961
+A	src/SolrFieldTypeInterface.php	401b7447154bf258157e602679dc2c65
+A	src/Utility/Utility.php	e9a7bc193062ff06f8f0b775c0bb9102

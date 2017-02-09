@@ -24,9 +24,9 @@ A	config/install/core.entity_view_mode.media.gallery.yml	91b73c903a5f103c0cabcc7
 A	config/install/core.entity_view_mode.media.media_library.yml	60a2242c97988bbd9eaebdf28f23ed59
 A	config/install/crop.type.media_crop.yml	1de9445bec2564a6c3c34722fe827413
 A	config/install/embed.button.media.yml	bc16776be7fd6ea5354edf0172545897
-A	config/install/entity_browser.browser.gallery_media_library.yml	ad2d105e0b519b136f2d8753f183c526
-A	config/install/entity_browser.browser.media_embed.yml	70e44cd40a80545ef889e9adb527da6e
-A	config/install/entity_browser.browser.media_library.yml	3eae4c578b530801b4a2fe61ce48dca0
+A	config/install/entity_browser.browser.gallery_media_library.yml	cd8fdfec888eeffb9a87f291c91cfffb
+A	config/install/entity_browser.browser.media_embed.yml	4f01062c188c25c3b9e1c9a4e5c243b9
+A	config/install/entity_browser.browser.media_library.yml	ca00982657eab8cc151564168fec0390
 A	config/install/field.field.media.document.field_document.yml	5c0711dbf9b8f493e7cb78b003b17d41
 A	config/install/field.field.media.document.field_document_size.yml	6e02a4649911f7ae48295b1685fd1499
 A	config/install/field.field.media.document.field_media_in_library.yml	0cf351dd55e19648ac2a2e7a35d23ad3
@@ -100,7 +100,7 @@ A	images/icons/application-vnd.openxmlformats-officedocument.wordprocessingml.do
 A	images/icons/text-plain.png	040b9a558d070aab1b4158cc6c286b18
 A	images/media_embed_icon.png	1a544bb8e2dad076e2e5adec0b594916
 A	js/media.view.js	aad65c94ef573cafcf5843ccf2673637
-A	media.info.yml	3d41cd55893a3292bb70b1b957f0054c
+A	media.info.yml	50a7c9fa68e49c12d5e688817116a28f
 A	media.install	dd1b9c69cd31ace2164d7ce773910a05
 A	media.libraries.yml	c2a56a2f3dcc2d3e7142998c424ac1ca
 A	media.module	a4dc0fb11f355887fa3e7949814e3d42
@@ -119,5 +119,5 @@ A	tests/modules/media_embed_test/config/install/field.field.node.page.body.yml	b
 A	tests/modules/media_embed_test/config/install/filter.format.basic_html.yml	e826756bc46bf877490defcb84e49f8c
 A	tests/modules/media_embed_test/config/install/filter.format.full_html.yml	e139fd1565e90adeb983bf47cc3c0f7b
 A	tests/modules/media_embed_test/config/install/node.type.page.yml	2fddadfea8a04dcc67b5e3daeaca5bcb
-A	tests/modules/media_embed_test/media_embed_test.info.yml	6b02b43507b5b37d7c679a80c0d97ae7
+A	tests/modules/media_embed_test/media_embed_test.info.yml	9e20b6743a57487cc499b0d71b304528
 A	tests/src/FunctionalJavascript/EmbedButtonTest.php	7429bf8fa390d7722f5a588361aaec1e

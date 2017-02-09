@@ -1,11 +1,9 @@
-M	README.md	3c5385ac0bd2f3d7d48702b2a77e7683
-M	js/styled-google-map.js	9f6da3ecaa078a62618779adad80a951
-D	src/Form/styledGoogleMapSettingsForm.php	
-M	src/Plugin/Field/FieldFormatter/StyledGoogleMapDefaultFormatter.php	750268d07c9bc03c9b93a71801f50314
-M	styled_google_map.info.yml	843c949f19de6f8603f41db4e4b18541
-D	styled_google_map.install	
-M	styled_google_map.libraries.yml	1d970174483dbc45fdc4333d3788f16f
-D	styled_google_map.links.menu.yml	
-M	styled_google_map.module	d7ee1e24ef41679f658a8d59f15eba25
-D	styled_google_map.routing.yml	
-D	styled_google_map.settings.yml	
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	3c5385ac0bd2f3d7d48702b2a77e7683
+A	css/styled-google-map.css	950f4b8e6f761b026a66cba867e69f14
+A	js/styled-google-map.js	9f6da3ecaa078a62618779adad80a951
+A	pin.png	20341733f6b834c4530eccb117438161
+A	src/Plugin/Field/FieldFormatter/StyledGoogleMapDefaultFormatter.php	750268d07c9bc03c9b93a71801f50314
+A	styled_google_map.info.yml	843c949f19de6f8603f41db4e4b18541
+A	styled_google_map.libraries.yml	1d970174483dbc45fdc4333d3788f16f
+A	styled_google_map.module	d7ee1e24ef41679f658a8d59f15eba25

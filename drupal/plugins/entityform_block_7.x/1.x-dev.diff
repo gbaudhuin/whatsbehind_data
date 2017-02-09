@@ -1,5 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	entityform_block.info	e4b92d8aec515b8a7a6c842607f79e9c
-A	entityform_block.install	08bd715dcab750056c367dc1dd791a61
-A	entityform_block.module	b7fc3106d09fb9f8c44ed1fd7b7e9dac
-A	entityform_block.test	b1878fbd19e57e739912da84d21b300a
+M	entityform_block.info	e4b92d8aec515b8a7a6c842607f79e9c
+M	entityform_block.module	b7fc3106d09fb9f8c44ed1fd7b7e9dac

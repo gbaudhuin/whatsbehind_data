@@ -82,6 +82,8 @@ M	uc_roles/uc_roles.module	91c914d4b311047847983da7984e9d39
 M	uc_stock/uc_stock.ca.inc	6da5de069eac738ccd5dc49f1950962f
 M	uc_stock/uc_stock.info	7487d8dad67630aeb7942ae6f858ffe2
 M	uc_stock/uc_stock.module	58de798ab83d38534af8a74e53bcd4cb
+D	uc_store/countries/turkey_792_1.cif	
+A	uc_store/countries/turkey_792_2.cif	3b3c3859fbcc11d26867c546cafc730b
 M	uc_store/uc_store.admin.inc	36b57a2e40f3cdfdddf30b743bac1e76
 M	uc_store/uc_store.info	4c234d6a197c4266b975ae0d4696d2db
 M	uc_store/uc_store.module	d24873be59b3221565b55c7210c0b5a9

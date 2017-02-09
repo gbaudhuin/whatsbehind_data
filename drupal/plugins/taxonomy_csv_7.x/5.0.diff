@@ -10,10 +10,9 @@ M	export/taxonomy_csv.export.result.inc	fb1b8a0e5c784224c09af86bf411faef
 M	import/taxonomy_csv.import.admin.inc	bffc5fb274b32aca2a73f0bf45b802b4
 M	import/taxonomy_csv.import.api.inc	cc5a61a50a86e04abfff489777bbc2d7
 M	import/taxonomy_csv.import.line.api.inc	39f4e725d728c5fe530327c3bf26714b
-A	import/taxonomy_csv.import.parser.api.inc	eac10d2ca506101cfa2be8abc0699364
+M	import/taxonomy_csv.import.parser.api.inc	eac10d2ca506101cfa2be8abc0699364
 M	import/taxonomy_csv.import.result.inc	b50e16ba75825bdb7d43b7da96ff5a3c
 M	taxonomy_csv.api.inc	e53d7705f39efcd7fe9a7196e534bc67
-D	taxonomy_csv.drush.inc	
 M	taxonomy_csv.help.html	c446729622688d9d6a67b89c4950c4c3
 M	taxonomy_csv.info	768727edcee6776ae45d2a656d6b0495
 M	taxonomy_csv.install	40d5c6994140dc749cea71d0184fe256

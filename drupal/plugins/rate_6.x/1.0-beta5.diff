@@ -12,7 +12,9 @@ A	rate.results.inc	b7e716a9cb84afe91c97e6df151384b4
 M	templates/emotion.tpl.php	f0d4a641df330285091fe96c3c7f7521
 M	templates/fivestar.css	15a378057101171ca91ffde5761b5067
 M	templates/fivestar.tpl.php	278938a7c33fad9f9ed4ad8464e47f18
+D	templates/helpful.css	
 D	templates/helpful.tpl.php	
 M	templates/thumbs-up-down.tpl.php	9e09167cb0d8f94eb0ee721aaa3ce99a
 M	templates/thumbs-up.tpl.php	9e1a5916c7fdd6afce6ccf469aa5d0e0
+A	templates/yesno.css	5543bd56a1759cd5f6f80b76ab7474a7
 A	templates/yesno.tpl.php	aedd2dc70438a40dac5b4c1eabdd93cb

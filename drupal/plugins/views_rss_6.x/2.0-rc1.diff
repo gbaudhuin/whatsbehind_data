@@ -1,17 +1,21 @@
-D	modules/views_rss_core/views_rss_core.field.inc	
-M	modules/views_rss_core/views_rss_core.inc	4b5f411fc4facca9c5f1354c6572dfc5
-M	modules/views_rss_core/views_rss_core.info	9dacea4e21654149b6618917d0722837
-M	modules/views_rss_core/views_rss_core.install	f42f2e6eb6233142ee0fb6da64975d8d
-M	modules/views_rss_core/views_rss_core.module	74fdd3f502d9d8cf22a974a54dca74f4
-M	modules/views_rss_dc/views_rss_dc.info	45cb028da31f6f30a7cc53f42fb8add5
-M	modules/views_rss_dc/views_rss_dc.install	4948b05bf6bc5d8214f6f36630814610
-M	modules/views_rss_dc/views_rss_dc.module	ac3ebb64e0b4571783d9d4d31b70e9b8
-M	theme/theme.inc	21b050840f3c55b3f7fb9f38fc343672
-M	theme/views-view-views-rss-field.tpl.php	e4dc40e7dde99d7f37647c8faba01691
+D	CHANGELOG.txt	
+A	modules/views_rss_core/views_rss_core.inc	4b5f411fc4facca9c5f1354c6572dfc5
+A	modules/views_rss_core/views_rss_core.info	9dacea4e21654149b6618917d0722837
+A	modules/views_rss_core/views_rss_core.install	f42f2e6eb6233142ee0fb6da64975d8d
+A	modules/views_rss_core/views_rss_core.module	74fdd3f502d9d8cf22a974a54dca74f4
+A	modules/views_rss_dc/views_rss_dc.info	45cb028da31f6f30a7cc53f42fb8add5
+A	modules/views_rss_dc/views_rss_dc.install	4948b05bf6bc5d8214f6f36630814610
+A	modules/views_rss_dc/views_rss_dc.module	ac3ebb64e0b4571783d9d4d31b70e9b8
+A	theme/theme.inc	21b050840f3c55b3f7fb9f38fc343672
+A	theme/views-view-views-rss-field.tpl.php	e4dc40e7dde99d7f37647c8faba01691
+A	theme/views-view-views-rss-fields.tpl.php	ee4517f6bbb45b83bd436a735310dfc8
+A	theme/views-view-views-rss.tpl.php	fcdda398f2aefeff844d898379d9b0e0
+D	views/views-rss-fields-item.tpl.php	
+D	views/views-view-views-rss-fields.tpl.php	
+D	views/views_plugin_style_rss_fields.inc	
 M	views/views_rss.views.inc	77f46df5344a36382a32ae9abf12c8fd
-D	views/views_rss_handler_field_multiple.inc	
-D	views/views_rss_handler_field_term_node_tid.inc	
-M	views/views_rss_handler_field_user_mail.inc	3f74b4832821d4917e38fe2354fc4454
-M	views/views_rss_plugin_style_fields.inc	c2c49852188d29508ecc3a971819f3f4
+A	views/views_rss_handler_field_user_mail.inc	3f74b4832821d4917e38fe2354fc4454
+A	views/views_rss_plugin_style_fields.inc	c2c49852188d29508ecc3a971819f3f4
+D	views/views_rss_views_fields.theme.inc	
 M	views_rss.info	1c6c5d45345030da35f81d4f9c32e883
 M	views_rss.module	d738966addb7fa10eec6d8bc8f6e8741

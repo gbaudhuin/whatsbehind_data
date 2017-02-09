@@ -1,10 +1,7 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
 A	po/it.po	1605e8f4fde6c0b0e1f63fc932802bfd
 A	po/taxonomy_breadcrumb-module.pot	ed2fab72cdd5f62ffa727c339ce90dee
-M	taxonomy_breadcrumb.admin.inc	93621f6339af14e5406e65c7319a0287
-M	taxonomy_breadcrumb.inc	a7000153b85df274cc9888aa09719cb9
+A	taxonomy_breadcrumb.admin.inc	93621f6339af14e5406e65c7319a0287
+A	taxonomy_breadcrumb.inc	a7000153b85df274cc9888aa09719cb9
 M	taxonomy_breadcrumb.info	cffc50fe97d8d3ff0a65628042a94253
 M	taxonomy_breadcrumb.install	476f2b792714b5c05a5d9503bdd74cbf
 M	taxonomy_breadcrumb.module	5404de474ea2d62aea9183f95f7effbb

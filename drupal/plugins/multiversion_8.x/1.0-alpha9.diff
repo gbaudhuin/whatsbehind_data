@@ -1,4 +1,6 @@
 M	.travis.yml	2bf4385a5633fb232203fae974ce7811
+D	.travis/drupal-8.0.x.make.yml	
+A	.travis/drupal-8.2.x.make.yml	3f2e95b203c8ea7b84768e5b4c8b79fe
 M	multiversion.info.yml	6e0b7b76368ece6242106035052c97c0
 D	src/MigratePassword.php	
 M	src/MultiversionServiceProvider.php	e6790f9f6bcfcfc174ddbe89518b8e43

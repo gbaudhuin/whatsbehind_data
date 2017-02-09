@@ -1,10 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	b99e47b8b60012c78f59e2459ef0da95
-A	composer.json	19a20cb59ec9db8678f3faa25c830b7f
-A	imagefield_slideshow.info.yml	aaef40ff8d867679d07f8ad04cd905d3
-A	imagefield_slideshow.install	0d5123bf30624eed7c595a5c129d58c1
-A	imagefield_slideshow.libraries.yml	0e4f4e9f41dd0bed97b63db3fe7bbda1
-A	imagefield_slideshow.module	81be63d7a5b840920ec24a1aee6d3b2c
-A	js/imagefield_slideshow.js	73654365fc86859ec9d3e92c904c5aa5
-A	src/Plugin/Field/FieldFormatter/ImagefieldSlideshowFieldFormatter.php	f9b2fbcb785b57835b4cbdf4a3e54693
-A	templates/imagefield-slideshow.html.twig	cca5500fc8173c4f259643ce516604a9
+M	imagefield_slideshow.info.yml	aaef40ff8d867679d07f8ad04cd905d3

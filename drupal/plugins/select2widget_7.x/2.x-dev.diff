@@ -1,12 +1,5 @@
-M	README.txt	e5c1f1b665c5adec1b001fb6c117c4a9
-A	css/select2widget.css	4ee05b14691f634cac71f3f73da79a46
-M	js/select2widget.js	ab8177b1ce91a8ec9ec6397b5284fd0a
-A	select2widget.api.php	17dce23ee252f3f3310dd8465af7f283
-A	select2widget.entityreference.inc	5e88466a507c4c8b682c77db30161027
+M	select2widget.entityreference.inc	5e88466a507c4c8b682c77db30161027
 M	select2widget.info	4aa06a507a75072ea85835388b2cb5c3
-M	select2widget.install	81ea541a55504f86547b99bb1ad0e0d1
-A	select2widget.make.example	182372230f41c6d47378da3ae45399b2
 M	select2widget.module	5b8df5fc683e53d00d18ef3f5309d2c4
-A	select2widget.reference.inc	154cee12137bac4af1f3596cd0c06069
-A	select2widget.taxonomy.inc	321f6aad28884abd353a298b82ee8c6f
-A	templates/user/user-profile--select2widget.tpl.php	d1de1adbfc250b374f6d0b0f4a61ef7c
+M	select2widget.reference.inc	154cee12137bac4af1f3596cd0c06069
+M	select2widget.taxonomy.inc	321f6aad28884abd353a298b82ee8c6f

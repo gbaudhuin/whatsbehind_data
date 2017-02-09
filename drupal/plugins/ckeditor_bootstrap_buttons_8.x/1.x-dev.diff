@@ -1,5 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	01bd792e83a503d8267160c19a6eb689
-A	ckeditor_bootstrap_buttons.info.yml	cf5a903e16e3c66e7c339b18c87a7c83
-A	ckeditor_bootstrap_buttons.module	4adada7f9f469f8693401b9f757f6df9
-A	src/Plugin/CKEditorPlugin/Btbutton.php	3c74df3818b4d877abea6195814084b6
+M	ckeditor_bootstrap_buttons.info.yml	cf5a903e16e3c66e7c339b18c87a7c83
+M	src/Plugin/CKEditorPlugin/Btbutton.php	3c74df3818b4d877abea6195814084b6

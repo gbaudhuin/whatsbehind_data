@@ -4,9 +4,13 @@ M	advanced_profile.info	b1163deceb77772353a41791839e59e8
 M	advanced_profile.module	863c687c87b6ceadbb07375a8c946efa
 M	includes/panels/advanced_profile.pages_default.inc	c9a1691d3ef827bcc28861d3412cac3c
 M	includes/theme.inc	979fc788c880f33e082ba7498fd92ac0
+D	includes/uprofile.inc	
 M	includes/views/apk.apk_ur_friends_gallery.view	b4d68022b3c596072ec78c5acb50de0d
+D	includes/views/apk.apk_user_posts.view	
 A	includes/views/apk.apk_user_replies.view	6698d6b54527994e85679b6432ce6c05
+A	includes/views/apk.apk_user_topics.view	30161abcde044e112529afd53ee444d8
 M	theme/advanced_profile.css	0ed07f5f61e1d86057da9baa2ee46c16
 M	theme/advanced_profile_author-pane.tpl.php	12bf5e84607f5e8fd1e72c5d40041b5c
 A	uprofile.basic-stats.export	5e4f2ad5b64720359a688dcf546c8e65
 A	uprofile.contact-links.export	02ecc2f779fa3ce4c06708a1cf24885a
+A	uprofile.full.export	7ff1011cbc302dd048264245e65fa966

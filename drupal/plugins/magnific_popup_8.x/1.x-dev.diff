@@ -1,10 +1,5 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	26527332616e2115610d0108254b2b66
-A	css/magnific-popup.video-embed.css	affb47d7f2f7dd5c8e2e5e801a4474ef
-A	js/magnific-popup.js	4a607a7b704d8d1061d17b0a9f8f474e
-A	js/magnific-popup.video-embed.js	ebea6d0f6ef39e6439b23cdbc8ee59d9
-A	magnific_popup.info.yml	6434aefbc7b416c8d7d02d55560b057d
-A	magnific_popup.install	e708a806061c8bb3cfdafea717e0db6f
-A	magnific_popup.libraries.yml	d9c21c1b4c53bf16da68523f37fc20c8
-A	src/Plugin/Field/FieldFormatter/MagnificPopup.php	5e7a90a023672a0ceec36e21573998a3
-A	src/Plugin/Field/FieldFormatter/VideoEmbedField.php	4f69e6256b03902d4324da39fe87fe41
+M	js/magnific-popup.js	4a607a7b704d8d1061d17b0a9f8f474e
+M	js/magnific-popup.video-embed.js	ebea6d0f6ef39e6439b23cdbc8ee59d9
+M	magnific_popup.info.yml	6434aefbc7b416c8d7d02d55560b057d
+M	src/Plugin/Field/FieldFormatter/MagnificPopup.php	5e7a90a023672a0ceec36e21573998a3
+M	src/Plugin/Field/FieldFormatter/VideoEmbedField.php	4f69e6256b03902d4324da39fe87fe41

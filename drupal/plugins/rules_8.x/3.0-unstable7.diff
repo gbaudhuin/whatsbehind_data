@@ -11,6 +11,8 @@ M	src/Context/ContextHandlerTrait.php	a90ffd4194771d8a9aa721ebab9121aa
 M	src/Context/DataProcessorInterface.php	c58446c84deeda728ee23c7e8c2ce32c
 M	src/Context/DataProcessorManager.php	366a660b618f65b4fc9122e4211b99ae
 A	src/Context/GlobalContextRepositoryTrait.php	521355d346a59b4ee1026d89b5828a13
+A	src/Controller/RulesComponentListBuilder.php	4fd8525c1b5931ad72e6e2accc89688c
+A	src/Controller/RulesReactionListBuilder.php	48bf106e2c5f49c301e25917ef40268f
 M	src/Core/RulesActionManager.php	1532df2dcd1a7963104b5e22ebef12f5
 A	src/Engine/ActionExpressionContainer.php	d14168db86b24ca64fa3f465082095f9
 M	src/Engine/ConditionExpressionContainer.php	1cd8905818ba6cf34408a21f2a825253
@@ -27,9 +29,15 @@ A	src/Engine/IntegrityViolationInterface.php	312ee4df4c08102181ea8fc1b879dd78
 A	src/Engine/IntegrityViolationList.php	321683bed340fe008f6ad1d611d362cf
 M	src/Engine/RulesComponent.php	7e178fa019f07fd880b65960bea1ccbc
 M	src/Engine/RulesEventManager.php	324f35bfb34b56b5e706b7ce7c7de727
+D	src/Entity/Controller/RulesComponentListBuilder.php	
+D	src/Entity/Controller/RulesReactionListBuilder.php	
+D	src/Entity/ReactionRuleAddForm.php	
 M	src/Entity/ReactionRuleConfig.php	7abbc5746b0f2f426650013f0282b1fe
 D	src/Entity/ReactionRuleEditForm.php	
+D	src/Entity/RulesComponentAddForm.php	
 M	src/Entity/RulesComponentConfig.php	8c148a22ac353b03fc4eef2e5da85796
+D	src/Entity/RulesComponentEditForm.php	
+D	src/Entity/RulesComponentFormBase.php	
 M	src/Event/UserLoginEvent.php	d1d0b18a63068afc9a31d034a3bc9b01
 M	src/EventSubscriber/GenericEventSubscriber.php	bcb90328f37117bf04500342c6cbe819
 M	src/EventSubscriber/RedirectEventSubscriber.php	f1e932ecb719b0cf884d067871dffd11
@@ -47,7 +55,11 @@ A	src/Form/Expression/ContextFormTrait.php	1a7dbb68bef4e683d85e918f352d7e47
 M	src/Form/Expression/ExpressionFormInterface.php	074d764873a2730d723c501259e962d3
 A	src/Form/Expression/ExpressionFormTrait.php	9226e13d725feede929c1ec32be2f35d
 M	src/Form/Expression/ReactionRuleForm.php	5ae449e01af1bc710c5e74e6be3370a6
+A	src/Form/ReactionRuleAddForm.php	c30c0ddc1564444db9237c5d5c023ba5
 A	src/Form/ReactionRuleEditForm.php	e879379df5479845d987ff5a8d0da5b9
+A	src/Form/RulesComponentAddForm.php	e533e39c2671404ebf7edc5d4c89bfa4
+A	src/Form/RulesComponentEditForm.php	9e35d9da295ebf09d6d90c2bc1bd171b
+A	src/Form/RulesComponentFormBase.php	9da153ac2ab64057ffebde4d61af7d69
 A	src/Form/TempStoreTrait.php	02d8c9eb14bfecde2e599dc9a9836abf
 M	src/Logger/RulesLog.php	c52c910229e3e404ed32333e47fbbdcc
 A	src/ParamConverter/RulesTempConverter.php	a7ff22295be8ece9e5cee9df7ba44c09
@@ -99,7 +111,9 @@ M	tests/src/Integration/RulesAction/RulesActionManagerTest.php	82cc1ef11b8eecb52
 M	tests/src/Integration/RulesEntityIntegrationTestBase.php	186f25b5cbb75e7915acde965749f5cb
 M	tests/src/Integration/RulesIntegrationTestBase.php	6a109eca2dda98cab3cd60a349f38a03
 M	tests/src/Kernel/ConfigEntityDefaultsTest.php	0caaf1cdc2d4b0c1d0c2aa3dc4c66da1
+A	tests/src/Kernel/CoreIntegrationTest.php	b064fad6a713c91b5fa57819a0c6cae5
 M	tests/src/Kernel/EventIntegrationTest.php	c34ee4d8d402a17f00b5875c937f6f8b
+D	tests/src/Kernel/NodeIntegrationTest.php	
 M	tests/src/Kernel/RulesDrupalTestBase.php	94433558d861434eacd623ab1c8f334e
 M	tests/src/Kernel/RulesEngineTest.php	a136703632135497c534efc9488eb288
 M	tests/src/Kernel/TokenIntegrationTest.php	5d59079bfb065c19193ab703e7482d8b

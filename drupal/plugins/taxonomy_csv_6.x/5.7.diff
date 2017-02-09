@@ -16,6 +16,7 @@ M	import/taxonomy_csv.import.parser.api.inc	81c6a2d33703c2b3be74efbe6535c742
 M	import/taxonomy_csv.import.result.inc	c662c05eaa603e3e94b77a27cf30b0e6
 M	taxonomy_csv.api.inc	b534c896c1c697b324788808d1ad7bef
 M	taxonomy_csv.css	010a5db95f264de0927e941dcdee5e87
+A	taxonomy_csv.help.fr.html	86745ac51c688e6187809f20ecc592be
 M	taxonomy_csv.help.html	abd29ceef47d2d679afc475841dfd224
 M	taxonomy_csv.info	c50b9524a4c8b3d189f3aed1333f0a51
 M	taxonomy_csv.install	9d655515863220474b844c6cb2a52524
@@ -25,4 +26,5 @@ M	taxonomy_csv.result.inc	d1986dfecf976e6e8eeef8df06466072
 M	taxonomy_csv.term.api.inc	66ab41b3aa156ea68446ec586c36d608
 M	taxonomy_csv.vocabulary.api.inc	6b9dc5f94f30aaa5c2f7ef010af517b1
 D	translations/taxonomy_csv.fr.po	
+D	translations/taxonomy_csv.help.fr.html	
 D	translations/taxonomy_csv.pot	

@@ -18,6 +18,20 @@ M	piwik.info	4ab18a427795b35678c8222d7494aae1
 M	piwik.install	6e3b2dc6d42966403b84369dab0d9a7d
 M	piwik.module	0cac3e2523c667da47cd4ddaada5a41c
 M	tests/piwik_basic.test	88daae3e0f3a907fe4016d60e328d32d
+D	translations/de.po	
+D	translations/es.po	
 A	translations/general.de.po	0b797b1d762360a963a6eb2994200767
 A	translations/general.pot	8c88fb81b822c918c92e19ecc8643668
+D	translations/it.po	
+D	translations/ja.po	
+A	translations/piwik.de.po	f4bc7a73def4a8bce3caaf548e08a85a
+A	translations/piwik.es.po	10cd48aec7f2b4a4daeff6ab097f1615
+A	translations/piwik.it.po	a6a50fcecb867f967f20eceeac108a65
+A	translations/piwik.ja.po	8549ce6ab21215b278a22c056293325f
 M	translations/piwik.pot	3901dcc926bb6b309d727a8bb3a840eb
+A	translations/piwik.pt.po	5de9ce7dc9b13599b72e9dd898e22a1c
+A	translations/piwik.ru.po	5b8858484cbd96ac700c1576121635d6
+A	translations/piwik.sk.po	50a7406cec7799cb877332d6cc457313
+D	translations/pt.po	
+D	translations/ru.po	
+D	translations/sk.po	

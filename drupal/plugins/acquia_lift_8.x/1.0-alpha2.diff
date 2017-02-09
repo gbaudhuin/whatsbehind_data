@@ -1,0 +1,34 @@
+M	acquia_lift.info.yml	b590d3ba3fcad673cac72cfeeb88e545
+A	acquia_lift.install	29ad68684906f863d2ede9ea837a6cf1
+M	acquia_lift.module	4ff772f56c9f5937e5ac7d036b17d659
+M	acquia_lift.permissions.yml	2278446aaa0aa40b112af78ab9938f4a
+M	acquia_lift.services.yml	81bd7a6eb0e52bd3ad43cda5e8b0dcb4
+M	config/install/acquia_lift.settings.yml	68dfca8682abbdb4fae0272769223d91
+A	config/schema/acquia_lift.settings.yml	3739dba768274cbf606ad0f426db6474
+M	js/acquia_lift.js	cb4541412ce3f6f8c183c54de3f325eb
+A	qunit/acquia_lift.html	11eb147450fca7a74aba319237f807ba
+A	qunit/acquia_lift.tests.js	c6d7723e91976e7967e9801a966a0a8c
+M	src/Controller/TestController.php	e7dde9dfd40cb7b31e1bc182294ff805
+D	src/Entity/Credential.php	
+A	src/Exception/MissingSettingsException.php	ecc5af5ee134c9e785f3228b350c1248
+M	src/Form/AdminSettingsForm.php	1f32a4047611f4871369e762ece1f0e0
+M	src/Service/Api/DataApi.php	e9705f21e9ebf191a2ab7e556151ed13
+M	src/Service/Context/PageContext.php	8c149ff2c60c55e0f233b459879d0f3f
+M	src/Service/Context/PathContext.php	252b322789cc31a117337cfd58771636
+A	src/Service/Helper/HelpMessageHelper.php	48d2ca81fca815887a6f293fbdb9868b
+A	src/Service/Helper/NodeTypeThumbnailFormHelper.php	3101cc585b37e2c8a18c2606f40ef252
+A	src/Service/Helper/PathMatcher.php	553535b0fe02fa5d171774ff4f200c3c
+A	src/Service/Helper/SettingsHelper.php	567519234ff02bc124496917df319990
+D	src/Service/Page/PageAttachmentsManager.php	
+D	src/Service/Page/PathMatcher.php	
+A	src/Tests/FixturesDataTrait.php	594d29c179f15702a7928f4427b3b08a
+A	src/Tests/SettingsDataTrait.php	2ec59d9d68b80628f9f7a3ba382e3673
+A	src/Tests/SettingsTest.php	1f08ec980139806fe531731e1fcfc0bc
+A	tests/src/Unit/Service/Context/PageContextTest.php	59ceb043116093ae8dd51d0628cb574f
+A	tests/src/Unit/Service/Context/PathContextTest.php	9599d59ec06ba83c207cf0ff2d36e583
+A	tests/src/Unit/Service/Helper/HelpMessageHelperTest.php	4f33e8162d93e85dd9848d44fca328e3
+A	tests/src/Unit/Service/Helper/NodeTypeThumbnailFormHelperTest.php	e8711f0120267f2412e0d57b46ad00d9
+A	tests/src/Unit/Service/Helper/PathMatcherTest.php	aa54019e41445e61b35074fa9c0c0078
+A	tests/src/Unit/Service/Helper/SettingsHelperTest.php	2a73baa498fd55ad624287a0552282c7
+A	tests/src/Unit/Service/Helper/image_style_options.php	5a23503161fed53584375eca53325cc9
+A	tests/src/Unit/Traits/SettingsDataTrait.php	7e8da2e2dbf1bd67df816ab75e46011f

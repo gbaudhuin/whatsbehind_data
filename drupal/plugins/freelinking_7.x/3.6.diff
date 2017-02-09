@@ -10,6 +10,8 @@ A	help/creating-plugins.html	36d896cfd34b43d0f1046a01acfd98ca
 A	help/freelinking.help.ini	f6f00f7eae64c7aa74dc82f1a316d517
 A	help/included-filters.html	f85f12dccaa2c931b8845d33e2c6b0e4
 A	help/readme.html	47ca1c8638231f3c87b5bb0a5afdf9ad
+D	modules/freelinking_prepopulate/README.md	
+A	modules/freelinking_prepopulate/README.txt	ac3125b0b72b6decbf8614c26232aac0
 M	modules/freelinking_prepopulate/freelinking_prepopulate.info	36c8470c04f5e4bbe8fe7d8083aed104
 M	modules/freelinking_prepopulate/freelinking_prepopulate.install	f53a532ccbfd2a09509763c06417d009
 M	modules/freelinking_prepopulate/freelinking_prepopulate.module	7d336faa70bfdedfebfe3805d4841662

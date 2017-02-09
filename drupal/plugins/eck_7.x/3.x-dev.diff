@@ -17,6 +17,7 @@ A	eck.property_type.inc	ed248f5001fdf032ca9bb0e62456421b
 A	eck.property_widgets.inc	275cab7a45e74d6fae2603a9b047a0ad
 A	eck.schema.inc	efe18df6c58b9731b6637cabe2799d42
 M	examples/eck_example.info	3d8f086d65c2e4daf3f35631e3d56c81
+M	includes/eck.references_dialog.inc	408bf187a55932e06dd5252b28a8bd3b
 D	includes/translation.handler.eck.inc	
 M	modules/eck_entitycache/eck_entitycache.info	5eba055d73f85bfa9ada0540e63180e3
 A	modules/eck_permissions/eck_permissions.info	7949579e1fc3bf5bd45af04cdb30f8cc

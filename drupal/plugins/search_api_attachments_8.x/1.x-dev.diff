@@ -1,0 +1,13 @@
+A	assets/css/status.css	7c7cd055830b89f2eb809cac6d9086c1
+M	search_api_attachments.api.php	0d886c1cfd77827f58a85f1aebdfe861
+M	search_api_attachments.info.yml	fd4d1f19526e31c7de9f4a450d07e94d
+A	search_api_attachments.libraries.yml	a8935e3ea739234b7376a0fb6c0b7a67
+M	search_api_attachments.module	d87b9df2f66c73b52d0f085b13c3bb85
+M	src/Form/TextExtractorFormSettings.php	45e275f120cfee7c662cc863db9b2740
+M	src/Plugin/search_api/processor/FilesExtrator.php	01147415dcdedaf306a47f986810b495
+M	src/Plugin/search_api_attachments/PdftotextExtractor.php	88ab3367007bf7646ed40df4e0cbfd27
+M	src/Plugin/search_api_attachments/PythonPdf2txtExtractor.php	f68719f832a2159976b7bb907c7c69a3
+M	src/Plugin/search_api_attachments/SolrExtractor.php	c69975e8c4fd5e1391b212f9411b1cbb
+M	src/Plugin/search_api_attachments/TikaExtractor.php	b14d30f50f1afbbdbb4ca04a954af02b
+M	src/TextExtractorPluginBase.php	38449bc9bd5b3cc711707e0d7cdfe49e
+A	templates/saa.html.twig	1666d82484ff8a19b09ffcf58b1c689a

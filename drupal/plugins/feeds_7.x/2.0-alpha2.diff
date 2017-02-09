@@ -52,6 +52,8 @@ A	tests/feeds/assets/hstreet.jpeg	53b4e0003f7adcbe354465131ccad1c7
 A	tests/feeds/assets/tubing.jpeg	32ff5e8bdd26d12cc813c05fab151f8e
 D	tests/feeds/emfield.csv	
 A	tests/feeds/feeds-tests-files.tpl.php	4dc637ddfd020332f102ed935354874d
+A	tests/feeds/feeds-tests-flickr.tpl.php	a9860c0d08b7b051700f8f5d9010f902
+D	tests/feeds/flickr.xml	
 D	tests/feeds/many_items.rss2	
 D	tests/feeds/profile.csv	
 M	tests/feeds_fetcher_file.test	fe3cfe31c87d73ef8f7a18a514f60be8

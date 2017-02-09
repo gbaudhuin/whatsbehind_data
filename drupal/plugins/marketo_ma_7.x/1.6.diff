@@ -16,17 +16,25 @@ A	tests/behat/.gitignore	e0cc3d9d0ef2f60963fd5c4627b2d061
 A	tests/behat/behat.yml.dist	be0faae6c96bb4cdecb7064e2a218933
 A	tests/behat/composer.json	1f1455f2a9ec54028818d0ea1cd0e55a
 A	tests/behat/features/admin/configure.feature	67198401d973a5d8c3b32987243225fe
+A	tests/behat/features/admin/drush.feature	d40b57cb9cf2cef375f691b5e7bdd5f3
 A	tests/behat/features/admin/install.feature	325cb538d499c23378d62796f4b04fe5
 A	tests/behat/features/admin/marketo_ma_user.feature	06868473146aefd7d4d4b293efa9c2de
 A	tests/behat/features/admin/marketo_ma_webform.feature	5c57cadbb90bea6c3eb886d0a6f5b1fb
+A	tests/behat/features/admin/permissions.feature	e83cc20fe1cc7476cef4f23c2e45ff57
 A	tests/behat/features/bootstrap/FeatureContext.php	3b46f828a2e1a8a4a5256ed8a2de2e28
+A	tests/behat/features/travis-ci.feature	cbe42f13eaa833c4212a72fae22e0cb1
+A	tests/behat/features/visitor/browse.feature	ac49e8682537c5459026bdf3b0ab0ab3
 M	tests/composer.json	deb655a03f32c9c2f204185772e3d212
 A	tests/drupal_ti/before/runners/behat/before_script.sh	fa9a2a5869b955d9ee76ca7727b17b06
 D	tests/features/admin/configure.feature	
+D	tests/features/admin/drush.feature	
 D	tests/features/admin/install.feature	
 D	tests/features/admin/marketo_ma_user.feature	
 D	tests/features/admin/marketo_ma_webform.feature	
+D	tests/features/admin/permissions.feature	
 D	tests/features/bootstrap/FeatureContext.php	
+D	tests/features/travis-ci.feature	
+D	tests/features/visitor/browse.feature	
 D	tests/marketo_ma_fields.yml	
 A	tests/phpunit.xml.dist	cffb94154a60d08b46695582bc0827b5
 A	tests/run-behat.sh	9f2cfaaef39b3f4b57c1d59fe9710a79

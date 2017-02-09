@@ -4,6 +4,8 @@ M	js/workbench_scheduler.js	30566694cd01aecee1c91fb06f6d8a7d
 M	tests/workbench_scheduler.test	c267c4a16ef5be96daefac6cc24e3b0e
 A	views/workbench_scheduler.view.inc	fe55c8883920642d36f8fab57f8386ca
 M	workbench_scheduler.admin.inc	b99a186cf0009468c39a77c8e90d6b9f
+D	workbench_scheduler.api.inc	
+A	workbench_scheduler.api.php	41e9844d1063038ed02cc01c84233d51
 M	workbench_scheduler.drush.inc	86a3c7acc025d5169ddc60976987f6e5
 M	workbench_scheduler.features.inc	12257ba654ce59b0238b80d320ccfff0
 M	workbench_scheduler.info	bb2b402c200711d839ca6d4df921aa4e

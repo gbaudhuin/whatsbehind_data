@@ -21,6 +21,7 @@ M	src/Form/FormDelete.php	9d50eb67b4ae8b83c0d4eac795dee04d
 M	src/Form/FormFormBase.php	c01077fb7b0efc809d444d2507ee3b34
 M	src/Form/Settings.php	0187913f56cd42543e0b9e427a25093e
 M	src/Storage/ResponseDataStorage.php	c76158c28424c4d4ccf1ddc39b50b513
+A	src/Tests/AccessTest.php	b926f742cb28797da340ab477a498018
 A	src/Tests/AnalysisAuthenticatedFormCacheTest.php	a377e0dfbc765b6befba4e25ea675081
 A	src/Tests/AnalysisAuthenticatedTest.php	8d103f45a75ff62b06bb0e105986fc14
 A	src/Tests/AnalysisFormCacheTest.php	129ed0a3d48051aaa1ee8e480a80757f
@@ -31,11 +32,14 @@ A	src/Tests/BypassAccessTest.php	ab95b8b292c778e78f26138bff27959a
 A	src/Tests/CaptchaAuthenticatedFormCacheTest.php	a20893330fb912716b1f4f3b0372eff9
 A	src/Tests/CaptchaAuthenticatedTest.php	1bcc9bb6c2ce6b281fde32dcb698cf89
 A	src/Tests/CaptchaFormCacheTest.php	81f5e177bd0dc8e3cb91d1250e861b11
+A	src/Tests/CaptchaTest.php	c295b18c7098371ccb4c528d498b0136
 A	src/Tests/DataCRUDTest.php	3222efe5fb489663caca663045025254
 A	src/Tests/DataTest.php	c6194bd8c39e7e44163f7ffadddc8452
 A	src/Tests/FallbackModeTest.php	abf411f30931d643f117b0de161eb93b
 A	src/Tests/FormConfigurationTest.php	f064c3ad360189711bba69ab393b5805
 A	src/Tests/InstallationTest.php	2f81a482f1912cc5e5d5ddb7ac671fa3
+D	src/Tests/MollomAccessTest.php	
+D	src/Tests/MollomCaptchaTest.php	
 M	src/Tests/MollomTestBase.php	44a42472477d7cf0769a6d2661d13556
 A	src/Tests/ProfanityCheckTest.php	c7162dcdbaf2993053bd0a709d44b7a1
 A	src/Tests/ResponseConfiguredTest.php	c34c996167de80a6d6a277d32b39366e

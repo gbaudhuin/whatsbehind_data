@@ -12,3 +12,5 @@ A	jssor_example/config/install/views.view.jssor.yml	10aebc2701c7c05ee0650cef6367
 A	jssor_example/jssor_example.info.yml	983a9389b593ea0d38b121c7d382f425
 A	src/Plugin/Field/FieldFormatter/JssorFieldFormatter.php	4567acb50e47e334132e8124a7cc4c47
 M	src/Plugin/views/style/Jssor.php	c908201963ed89e274d34c15b7dcc387
+D	templates/jssor.html.twig	
+A	templates/views-view-jssor.html.twig	25da6864eb0dbe2c1cd4a7f0b0ef4ab2

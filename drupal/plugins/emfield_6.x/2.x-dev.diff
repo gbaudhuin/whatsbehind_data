@@ -1,72 +1,8 @@
-D	CHANGELOG.txt	
-M	README.txt	e173517d697869c6c2e55f11d3bb96e4
-D	contrib/emaudio/CHANGELOG.txt	
 M	contrib/emaudio/emaudio.info	e8ac6afe3f577a181684f824fff9c742
-M	contrib/emaudio/emaudio.module	e39e4805fc1d12085d823a0086e61ccd
-D	contrib/emaudio/providers/custom_url.inc	
-D	contrib/emaudio/providers/odeo.inc	
-D	contrib/emaudio/providers/podcastalley.inc	
-D	contrib/emaudio/providers/podomatic.inc	
-A	contrib/embonus/README.txt	1100443ad998727e4ce44ab4c2b38922
-A	contrib/embonus/embonus.info	7c33c52fa8dba42b4daca7fc03ba8d7a
-A	contrib/embonus/embonus.module	ed0460d0048d7304620bcc5139a6c9f9
-D	contrib/emimage/CHANGELOG.txt	
+M	contrib/embonus/embonus.info	7c33c52fa8dba42b4daca7fc03ba8d7a
 M	contrib/emimage/emimage.info	b896f9823e781c9d98857ac5f048f824
-M	contrib/emimage/emimage.install	f26a4b37d13431c53b3123194d57d9ea
-M	contrib/emimage/emimage.module	c8f5cad84eaa0b201a875b9aa87465ae
-M	contrib/emimage/emimage.theme.inc	4748d0c44efa0f78c28bcdf900e51f5b
-D	contrib/emimage/providers/custom_url.inc	
-D	contrib/emimage/providers/flickr.inc	
-D	contrib/emimage/providers/imageshack.inc	
-D	contrib/emimage/providers/photobucket.inc	
-D	contrib/emimage/providers/picasa.inc	
-D	contrib/eminline/CHANGELOG.txt	
 M	contrib/eminline/eminline.info	30c8ac033fb68eb99d842a2e13426d3f
-M	contrib/eminline/eminline.module	4e3a090d423072b5701840d40d9dcc38
-D	contrib/emthumb/CHANGELOG.txt	
 M	contrib/emthumb/emthumb.info	312e405fd66dbadbe6e4cd3c162c29a9
-M	contrib/emthumb/emthumb.module	074dab6c0840984e57dd50d5167a179a
-M	contrib/emthumb/emthumb.theme.inc	4ca84a87df22a49fd243a39ff8ad7afd
-D	contrib/emvideo/CHANGELOG.txt	
 M	contrib/emvideo/emvideo.info	c8715e7abf779fadedcbd4d78dff79ef
-M	contrib/emvideo/emvideo.install	bea947a46e9ac6b36916d3d919ba023b
-M	contrib/emvideo/emvideo.module	11c81709fc418d1de627220a4758872d
-M	contrib/emvideo/emvideo.theme.inc	d29fd456aa24e90063dfe9923eae5a1e
-M	contrib/emvideo/includes/views/emvideo.views.inc	f83fb41c171dfe313d3bdd7ac422f4a3
-A	contrib/emvideo/includes/views/handlers/emvideo_handler_field_description.inc	16614071d912d7928d3cd2be329e90eb
-A	contrib/emvideo/includes/views/handlers/emvideo_handler_field_title.inc	3ff6b5c37d6682d41716f0622d4a1bce
-D	contrib/emvideo/providers/archive.inc	
-D	contrib/emvideo/providers/bliptv.inc	
-D	contrib/emvideo/providers/dailymotion.inc	
-D	contrib/emvideo/providers/example.inc.txt	
-D	contrib/emvideo/providers/google.inc	
-D	contrib/emvideo/providers/guba.inc	
-D	contrib/emvideo/providers/imeem.inc	
-D	contrib/emvideo/providers/lastfm.inc	
-D	contrib/emvideo/providers/livevideo.inc	
-D	contrib/emvideo/providers/metacafe.inc	
-D	contrib/emvideo/providers/myspace.inc	
-D	contrib/emvideo/providers/revver.inc	
-D	contrib/emvideo/providers/sevenload.inc	
-D	contrib/emvideo/providers/spike.inc	
-D	contrib/emvideo/providers/tudou.inc	
-D	contrib/emvideo/providers/twistage.inc	
-D	contrib/emvideo/providers/ustream.inc	
-D	contrib/emvideo/providers/ustreamlive.inc	
-D	contrib/emvideo/providers/vimeo.inc	
-D	contrib/emvideo/providers/voicethread.inc	
-D	contrib/emvideo/providers/yahoomusic.inc	
-D	contrib/emvideo/providers/youtube.inc	
-D	contrib/emvideo/providers/zzz_custom_url.inc	
-D	contrib/emwave/CHANGELOG.txt	
 M	contrib/emwave/emwave.info	d33d22e6c52268262ee7e95e55c24633
-M	contrib/emwave/emwave.module	90d6546fd4efe96c5e1f4b55ea70aee1
-M	emfield.admin.inc	bbd3c72a3673efbafeeb59bdbc4c35d5
-M	emfield.cck.inc	b5b635d9543566b6cbc8b8be5f9d1384
 M	emfield.info	0300b88b0cf687d3dde13d263eac0cff
-M	emfield.install	b4d321f4dc80107420c941b2e8a90827
-M	emfield.module	d568aaeb90e4f61b5f1a42a954624f27
-A	includes/emfield.audit.inc	319ed055785321d8d5c485bcff3a9eb3
-A	includes/emfield.xml.inc	24d65e0ecfb928cc7cf05e9e628ed10f
-M	includes/views/emfield.views.inc	bd07089bac16e5f69821edfb51f8154a
-A	includes/views/handlers/emfield_handler_field_status.inc	11efbf76c8ca672f742e0dd3090c1b69

@@ -4,6 +4,7 @@ M	xmlsitemap.drush.inc	a64a9bc7647fcbbad02d4b12f660e9cd
 M	xmlsitemap.inc	668f017c2ce4cb634e53721dc1f08e17
 M	xmlsitemap.info	3ffd99fe6dfb68ab57aa26d2a2cec6e6
 M	xmlsitemap.install	6235b0998fcaa46efe07ad680fc96303
+A	xmlsitemap.js	05acfac7dd16866d1bd9c4f703826c34
 M	xmlsitemap.module	88fe9b093e09a3cee0d6c7c4d9696d3c
 M	xmlsitemap.pages.inc	6592384e565f3a6bd50adf2840786292
 M	xmlsitemap.test	04a806f68deeee06f88bc4f3bdde34ef
@@ -26,6 +27,7 @@ M	xmlsitemap_menu/xmlsitemap_menu.install	ea982782730e31bd18f49a7ffc8fdefd
 M	xmlsitemap_menu/xmlsitemap_menu.module	a799c17648f29df0ec70c1c18db3b1f0
 M	xmlsitemap_node/xmlsitemap_node.info	c47b9c8fa3e4fc48179ff225550dbdc0
 M	xmlsitemap_node/xmlsitemap_node.install	87f1d8a3ac83bc170607c4aa38573592
+D	xmlsitemap_node/xmlsitemap_node.js	
 M	xmlsitemap_node/xmlsitemap_node.module	59df46ed98fe453d6ae03c0cae16753a
 M	xmlsitemap_node/xmlsitemap_node.test	915e10ab50d15b831ca84158b68c7e27
 M	xmlsitemap_taxonomy/xmlsitemap_taxonomy.info	439b2a6f2302deabbf95fc9b818d79c6

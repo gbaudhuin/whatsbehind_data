@@ -1,0 +1,8 @@
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	lang_dropdown.info	092899747afd4effc906a9c2070f56e6
+M	lang_dropdown.js	135994e949c3a8047fda63ff16afa722
+M	lang_dropdown.module	d5f4cbc159988e1facae3b62e02e2546
+M	msdropdown/dd.css	738eccd03e78220f604bb159e0586e17
+A	msdropdown/dd_after.css	2ef5bd16f9e266f0c237e72a39df9ddc
+M	msdropdown/jquery.dd.js	59559ad2776dc89006e68d08feb4faac
+A	msdropdown/uncompressed.jquery.dd.js	9ca36990ba2f655cdf7a1c41a65e7303

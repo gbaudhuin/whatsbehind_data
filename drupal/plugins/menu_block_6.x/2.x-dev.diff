@@ -1,19 +1,6 @@
-A	CHANGELOG.txt	2186acdf5b9bd3bd1ed3a4ce42785429
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	2534a1c36d1d113266bb78d39e7335e7
-A	menu-block-admin.css	c2916c27f3bbe6ad66954c25270f29b3
-A	menu-block-wrapper.tpl.php	60ebfa1e1d6d037db8ca16068bd4b312
-A	menu-block.js	5af4ac77f29f18366c31762d44b26b0e
-A	menu_block.admin.inc	f242e8acc040b8e0d990cc62bba3005a
-A	menu_block.api.php	f9630a40009212f31304b956453c1038
-A	menu_block.follow.inc	8ca9a449d2dadc1a530a8084b0dcc671
-A	menu_block.info	dab0e1870e089f283438b6a99d6184d3
-A	menu_block.install	70130433b13f15eb9f49105b70823805
-A	menu_block.module	89426403d03081eff2b490c5e637c7a3
-A	menu_block.pages.inc	c78de529340a308f1f2dbace5952b052
-A	menu_block.sort.inc	1c00e0e67e01bcb7dedbc38b69fbf772
-A	plugins/content_types/menu_tree/icon_contrib_booknavigation.png	d4b0c4b5c0e9c065ba80fad14813f29f
-A	plugins/content_types/menu_tree/icon_contrib_menu.png	5f40d8268ea782faa9c6b2b910de6845
-A	plugins/content_types/menu_tree/icon_contrib_navigation.png	300bc62dca8e2a8d7c7b1309d17f1976
-A	plugins/content_types/menu_tree/icon_contrib_primarylinks.png	d037cc62418a03534d3e024dafb8773d
-A	plugins/content_types/menu_tree/menu_tree.inc	b0c06932eb673f52eed982906d5fec6b
+M	CHANGELOG.txt	2186acdf5b9bd3bd1ed3a4ce42785429
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	menu_block.admin.inc	f242e8acc040b8e0d990cc62bba3005a
+D	menu_block.book.inc	
+M	menu_block.info	dab0e1870e089f283438b6a99d6184d3
+M	menu_block.module	89426403d03081eff2b490c5e637c7a3

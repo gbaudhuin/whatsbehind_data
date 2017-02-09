@@ -1,7 +1,11 @@
 M	CHANGELOG.txt	855147cb109fa190659a108eb16e3a20
 M	help/api.html	2fdbc7c8a0a21db110b9eb4d444b9166
+D	help/pane.html	
 M	help/panels.help.ini	412886c512303e944432bab7e04771a8
+D	help/plugin-layout.html	
 D	help/plugin-style.html	
+A	help/plugins-layout.html	a9a1515873288ab3a580dad8efd9aac3
+A	help/plugins-style.html	d41d8cd98f00b204e9800998ecf8427e
 M	includes/callbacks.inc	2b4d6321fd12b477bc3658df4508af29
 M	includes/common.inc	eff55c2e9411c837843cb9610920d45c
 A	includes/page-wizard.inc	010209ad58bec61f01f27b37ecccf29e

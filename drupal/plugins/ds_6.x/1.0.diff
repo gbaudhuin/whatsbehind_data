@@ -1,37 +1,27 @@
-M	CHANGELOG.txt	79233cd30711f74d3124a87ddb5b36a6
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	466043ae2c4f002bd026463c72558d31
-M	css/ds.css	145eebe883162f2b1c5f74e40543a49d
+A	CHANGELOG.txt	79233cd30711f74d3124a87ddb5b36a6
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	466043ae2c4f002bd026463c72558d31
+A	css/ds.css	145eebe883162f2b1c5f74e40543a49d
 A	css/regions.css	fe39019cce5c8e4eed772934c4835526
-M	ds.info	26c1dcd9e813296ef9fa7bf43e206105
-M	ds.install	703d9f1991c6a0e3d0056eb005b7cef7
-M	ds.module	288dfb82921b23889f0e6928a56483ab
-D	ds_ui.info	
-D	ds_ui.module	
-M	includes/ds.admin.inc	e13e001ecf8b28f8dd6728b1c9483333
-M	includes/ds.buildmodes.inc	4d3221e9bad8c42a72c2159f3314c35f
-M	includes/ds.display.inc	40d316db4414997ef5f11dedc3f8d17d
-M	includes/ds.features.inc	18aa300a34cdf69882b0de9f2ddc66b1
-M	includes/ds.fields.inc	1646e9b7d908f283a6d6e35a1515a36f
-D	includes/ds.groups.inc	
-M	includes/ds.info.inc	6f64e6456a8087962991e608fb9445fc
-M	includes/ds.plugins.inc	91e53cc9b29e5e0d445766302863590c
-M	includes/ds.registry.inc	c9db5d391268138bc3cff5640d47c56a
-M	includes/ds.tools.inc	f68e45eee667a156c2e2697938a1c372
-M	js/buildmodes.js	b1401dae1ec527bc41730844ab4c73cc
-M	js/ds.js	ee3b91c898c0b6765fae85c8914c078f
-M	js/fields.js	c53773dc0b0611aaf896622a67ee1c49
-M	plugins/ds_cssoverrider.inc	c2ab3f723cd85653fb3b3ff652a35585
-M	plugins/ds_emptyregionrender.inc	577f5a1741f829b2cce51d46489448b9
-D	plugins/ds_regiontoblock.inc	
-M	theme/ds-display-overview-form.tpl.php	2835cf849f6111a2a59e7aced90ca888
-D	theme/ds-display-overview-views-form.tpl.php	
-D	theme/ds-page-fieldexamples.tpl.php	
-D	theme/ds-row-fields.tpl.php	
-M	theme/ds-row-object.tpl.php	add9cc45ceef55bdcb08049625534160
-M	theme/theme.inc	3599a6e03dfda82c923526f6aa9325de
-D	theme/theme_ui.inc	
-M	views/ds.views.inc	13ef94dc63d3e0b6cea171bd4b309387
-D	views/ds_handler_field_fieldgroup.inc	
-D	views/views_plugin_ds_fields_view.inc	
-M	views/views_plugin_ds_object_view.inc	c215164f1bd5f6f14f411191a44a2961
+A	ds.info	26c1dcd9e813296ef9fa7bf43e206105
+A	ds.install	703d9f1991c6a0e3d0056eb005b7cef7
+A	ds.module	288dfb82921b23889f0e6928a56483ab
+A	includes/ds.admin.inc	e13e001ecf8b28f8dd6728b1c9483333
+A	includes/ds.buildmodes.inc	4d3221e9bad8c42a72c2159f3314c35f
+A	includes/ds.display.inc	40d316db4414997ef5f11dedc3f8d17d
+A	includes/ds.features.inc	18aa300a34cdf69882b0de9f2ddc66b1
+A	includes/ds.fields.inc	1646e9b7d908f283a6d6e35a1515a36f
+A	includes/ds.info.inc	6f64e6456a8087962991e608fb9445fc
+A	includes/ds.plugins.inc	91e53cc9b29e5e0d445766302863590c
+A	includes/ds.registry.inc	c9db5d391268138bc3cff5640d47c56a
+A	includes/ds.tools.inc	f68e45eee667a156c2e2697938a1c372
+A	js/buildmodes.js	b1401dae1ec527bc41730844ab4c73cc
+A	js/ds.js	ee3b91c898c0b6765fae85c8914c078f
+A	js/fields.js	c53773dc0b0611aaf896622a67ee1c49
+A	plugins/ds_cssoverrider.inc	c2ab3f723cd85653fb3b3ff652a35585
+A	plugins/ds_emptyregionrender.inc	577f5a1741f829b2cce51d46489448b9
+A	theme/ds-display-overview-form.tpl.php	2835cf849f6111a2a59e7aced90ca888
+A	theme/ds-row-object.tpl.php	add9cc45ceef55bdcb08049625534160
+A	theme/theme.inc	3599a6e03dfda82c923526f6aa9325de
+A	views/ds.views.inc	13ef94dc63d3e0b6cea171bd4b309387
+A	views/views_plugin_ds_object_view.inc	c215164f1bd5f6f14f411191a44a2961

@@ -18,4 +18,6 @@ M	src/Plugin/ImageEffect/FocalPointScaleAndCropImageEffect.php	2dee49af32780e234
 A	templates/focal-point-preview-page.html.twig	9be04adf81b176989d52dbb772403310
 M	tests/src/Unit/Effects/FocalPointEffectsTest.php	a19c63865c13db14957bedb036753d1b
 A	tests/src/Unit/FieldWidgets/FocalPointFieldWidgetTest.php	7f1fc5c628be7f2da4209e25794ac638
+A	tests/src/Unit/FocalPointManagerTest.php	4c7daad79b616274659046ef07bfd3cb
+D	tests/src/Unit/FocalPointTest.php	
 A	tests/src/Unit/FocalPointUnitTestCase.php	a2e39155249bf5f16b1dc969c40dce95

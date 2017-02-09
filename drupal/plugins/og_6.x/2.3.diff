@@ -15,4 +15,6 @@ M	og.info	9bf5f79ae297ba67b4a851da34df50b2
 M	og.install	f0599f3ecff4b6c44902995bf60cd02a
 M	og.module	d9b2f86a66d81b00863d75bc64f74ad0
 M	og.pages.inc	183ca19e6e73f155d54d54635e046dda
+D	tests/og.language.test	
+A	tests/og.language.test.disabled	c5360bcbd9803d4f7e08a10dc7aeaeb2
 M	tests/og.subscribe.test	c39d2646d2ddaf031661cbfa4cb31a82

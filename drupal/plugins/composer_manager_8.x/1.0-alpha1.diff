@@ -1,14 +1,14 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	README.md	0ddd7288d3235f12880c60d9b8e8dfa8
-D	README.txt	
-M	composer.json	f6714c73571b62dc6d772801c7aa2f4b
+A	composer.json	f6714c73571b62dc6d772801c7aa2f4b
 A	composer_manager.api.php	78d32fe6c455ad1d72b1ddf7fced5209
-M	composer_manager.drush.inc	78a15871ac03b8821271204d1baadd71
-M	composer_manager.info.yml	790005c19dce0d8d18aa1d6928452682
-M	composer_manager.install	301796b341f3df083790fc5e2e185815
-D	composer_manager.links.menu.yml	
-M	composer_manager.module	602977e85ececd7a726239dae9f8fec4
-M	composer_manager.routing.yml	06f4767535993252f772869226885da2
-M	composer_manager.services.yml	c98284dab478651d6fac89f585c05d95
+A	composer_manager.drush.inc	78a15871ac03b8821271204d1baadd71
+A	composer_manager.info.yml	790005c19dce0d8d18aa1d6928452682
+A	composer_manager.install	301796b341f3df083790fc5e2e185815
+A	composer_manager.local_tasks.yml	724a42a4852c65c46eb035b242c6dbd8
+A	composer_manager.module	602977e85ececd7a726239dae9f8fec4
+A	composer_manager.routing.yml	06f4767535993252f772869226885da2
+A	composer_manager.services.yml	c98284dab478651d6fac89f585c05d95
 A	config/composer_manager.settings.yml	26d16a309c5a9567e6c5b9a5fcf82367
 A	lib/Drupal/composer_manager/AutoloaderSubscriber.php	6f352debfcf3a359ffb4a993f3d676c1
 A	lib/Drupal/composer_manager/ComposerFile.php	7bb7295315516147795b0fa26527bedb
@@ -29,12 +29,3 @@ A	modules/symfony_dependency/symfony_dependency.info.yml	33f5bc280239627a214f9ef
 A	modules/symfony_dependency/symfony_dependency.module	e5b9f66f19efe8d8330a3aaeea0f9971
 A	modules/zendframework_dependency/zendframework_dependency.info.yml	edea651cb926aedbbb7cae36c219ee21
 A	modules/zendframework_dependency/zendframework_dependency.module	3422cd21491a6094100bbb1d050a4f75
-D	scripts/init.php	
-D	src/Composer/Command.php	
-D	src/Controller/PackageController.php	
-D	src/ExtensionDiscovery.php	
-D	src/JsonFile.php	
-D	src/PackageManager.php	
-D	src/PackageManagerInterface.php	
-D	tests/src/Unit/ExtensionDiscoveryTest.php	
-D	tests/src/Unit/PackageManagerTest.php	

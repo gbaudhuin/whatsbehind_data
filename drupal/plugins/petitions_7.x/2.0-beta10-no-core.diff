@@ -1740,6 +1740,18 @@ A	modules/contrib/services/tests/ui/ServicesUITests.test	c6ac02e11523c9656808602
 A	modules/contrib/services/tests/unit/TestServicesModule.test	1415e2ccc68cbb4be6c228625363a67e
 A	modules/contrib/services_documentation/LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	modules/contrib/services_documentation/README.txt	27bdc3b61cd0ab2e159651707a8077a3
+A	modules/contrib/services_documentation/services_documentation.api.php	5719b59e85ef56afbf3a31e01f59e298
+A	modules/contrib/services_documentation/services_documentation.info	1ba80f10e618436ea0a014b9ec47a3a4
+A	modules/contrib/services_documentation/services_documentation.module	b7e736cc578e4e4e93d417230aa1dc53
+A	modules/contrib/services_documentation/theme/services-documentation-method-bundle.tpl.php	e5cda31b38616032ae722a1153ebad57
+A	modules/contrib/services_documentation/theme/services-documentation-method-example-implementations-bundles.tpl.php	988f9005d3fe10a6c432cc37f2683c4c
+A	modules/contrib/services_documentation/theme/services-documentation-method-example-implementations-files.tpl.php	6a5f05683bd47821bbab3a61141e4752
+A	modules/contrib/services_documentation/theme/services-documentation-method-example-implementations.tpl.php	c84c333418d8ee149fed6aa27a8dab2c
+A	modules/contrib/services_documentation/theme/services-documentation-method.tpl.php	f19fb44cf583fa1c3dcc039d6cf9a62e
+A	modules/contrib/services_documentation/theme/services-documentation-resource.tpl.php	ef4548f0a8e3a2ded1d6e95ff84b1ec7
+A	modules/contrib/services_documentation/theme/services-documentation-version.tpl.php	2fabc9f34ccbdadc4f52869dc3150468
+A	modules/contrib/services_documentation/theme/services-documentation-versions-overview.tpl.php	5bab3dd66f4d44250127c9a776589d5b
+A	modules/contrib/services_documentation/theme/services_documentation.css	26558d57edbee905f87486ad5c6b84cd
 A	modules/contrib/simplehtmldom/LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 A	modules/contrib/simplehtmldom/simplehtmldom.info	a3e7d27e7293edbc99c603e0b3da94cf
 A	modules/contrib/simplehtmldom/simplehtmldom.module	3c10adb5a1b985625a21cdd8d006d7ea
@@ -2383,10 +2395,22 @@ M	modules/custom/petitions_profanity/petitions_profanity.info	34f32375059d3a3355
 M	modules/custom/petitions_signatures_display/petitions_signatures_display.info	620cdccae410ab67e8e88dd755e377d6
 M	modules/custom/petitions_stats_users/petitions_stats_users.info	9a320eb7bb246f09de03f2b10741e7a8
 M	modules/custom/petitions_usermenu/petitions_usermenu.info	b4d2936894e48e0705280a85870ce8a2
+D	modules/custom/services_documentation/services_documentation.api.php	
+D	modules/custom/services_documentation/services_documentation.info	
+D	modules/custom/services_documentation/services_documentation.module	
 D	modules/custom/services_documentation/services_documentation_ui.info	
 D	modules/custom/services_documentation/services_documentation_ui.module	
 D	modules/custom/services_documentation/services_documentation_ui/services_documentation_ui.info	
 D	modules/custom/services_documentation/services_documentation_ui/services_documentation_ui.module	
+D	modules/custom/services_documentation/theme/services-documentation-method-bundle.tpl.php	
+D	modules/custom/services_documentation/theme/services-documentation-method-example-implementations-bundles.tpl.php	
+D	modules/custom/services_documentation/theme/services-documentation-method-example-implementations-files.tpl.php	
+D	modules/custom/services_documentation/theme/services-documentation-method-example-implementations.tpl.php	
+D	modules/custom/services_documentation/theme/services-documentation-method.tpl.php	
+D	modules/custom/services_documentation/theme/services-documentation-resource.tpl.php	
+D	modules/custom/services_documentation/theme/services-documentation-version.tpl.php	
+D	modules/custom/services_documentation/theme/services-documentation-versions-overview.tpl.php	
+D	modules/custom/services_documentation/theme/services_documentation.css	
 M	modules/custom/shunt/README.txt	a8caa6651f1b97150892993668f7fe3b
 M	modules/custom/shunt/modules/shunt_api/shunt_api.info	bf7180f4786cacb20915d5fbccd70c81
 M	modules/custom/shunt/modules/shunt_api/shunt_api.install	c81a3bfff737113607f02dcbd7c3768e

@@ -24,7 +24,6 @@ A	includes/moodle/lib/pclzip/pclzip.lib.php	413eba8cf9c730743d43d92b16e74da4
 A	includes/moodle/lib/pclzip/readme.txt	681b22f05a24ea19e5419c9c35bc1591
 A	includes/moodle/lib/pclzip/readme_moodle.txt	5b6fff527807fda266c4c5f0dd4786df
 A	includes/moodle/lib/questionlib.php	6cd5c0d947723ca5c0eb88806c483abe
-A	includes/moodle/lib/smarty/COPYING.lib	68ad62c64cc6c620126241fd429e68fe
 A	includes/moodle/lib/smarty/Config_File.class.php	e71253f07e5a8c1c805536f26918eb6b
 A	includes/moodle/lib/smarty/Smarty.class.php	af90d722e6318e66da2f362ee3e9b39b
 A	includes/moodle/lib/smarty/Smarty_Compiler.class.php	2b1b724024ad8edfb51fffcaa5acece6

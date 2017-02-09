@@ -1,39 +1,28 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	09f39fd04ff26a8a2233df10eb082db9
-D	css/lightbox-rtl.css	
-M	css/lightbox.css	c08dbf929f0e2d0f1fa41a2361fc9405
-D	css/lightbox_alt.css	
-D	css/lightbox_lite-rtl.css	
-M	css/lightbox_lite.css	613dd9c02f81b195076b09d7c5fd612e
-D	images/brokenimage.jpg	
-M	images/close.gif	540f65d2b2f94032d6c3037622843a50
-D	images/close_hover.gif	
-D	images/contract.gif	
-D	images/next_alt.gif	
-D	images/next_hover.gif	
-D	images/pause.png	
-D	images/play.png	
-D	images/prev_alt.gif	
-D	images/prev_hover.gif	
-D	js/auto_image_handling.js	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	09f39fd04ff26a8a2233df10eb082db9
+A	css/lightbox.css	c08dbf929f0e2d0f1fa41a2361fc9405
+A	css/lightbox_lite.css	613dd9c02f81b195076b09d7c5fd612e
+A	images/blank.gif	fc94fb0c3ed8a8f909dbc7630a0987ff
+A	images/close.gif	540f65d2b2f94032d6c3037622843a50
+A	images/close_lite.gif	4c7843fd7f423263703c3192344534bb
+A	images/closelabel.gif	0e5462b0b4f00432eac4b33d5fa31c5a
+A	images/expand.gif	51f5b9066c1db13dd9dca00839d8ded2
+A	images/loading.gif	7e99e1159a3686f6aa4f90043c554483
+A	images/loading_lite.gif	c77ae44a51409e7c2183fff5dc25dffa
+A	images/next.gif	804543daa860e91aabe9ba634e64ed2b
+A	images/nextlabel.gif	485d89b62f7af7f0ce9427bb9a636e7e
+A	images/overlay.png	143d209e15051311fdae758b295036b5
+A	images/prev.gif	ef26ef0081ed01613cf6fa8b68019ca4
+A	images/prevlabel.gif	d935f4acf56e0b83218bbdb5835e4e23
 A	js/image_nodes.js	a9c84385f471df18093d35bb38b37e65
 A	js/image_nodes_galleries.js	c281bf998ba255355d3bc8d9da13dde9
 A	js/image_nodes_nogroup.js	d2d860b0b139e7da49da90acbcebecda
 A	js/image_nodes_nogroup_galleries.js	2170458908cac53b226142266c7e77f0
-M	js/lightbox.js	fda94bb439351e62b1c25de91149a3b5
-M	js/lightbox2.js	80b8fa60d7d21d5e0e36725a37f1dfe2
-M	js/lightbox_lite.js	037b75429b9fbe6826b3cfb90434b2a8
-D	js/lightbox_modal.js	
-D	js/lightbox_video.js	
+A	js/lightbox.js	fda94bb439351e62b1c25de91149a3b5
+A	js/lightbox2.js	80b8fa60d7d21d5e0e36725a37f1dfe2
+A	js/lightbox_lite.js	037b75429b9fbe6826b3cfb90434b2a8
 A	js/lightningload.js	8f77ec7a4f123a46c2ca7c4ce490d51f
-D	lightbox2-insert-image.tpl.php	
-D	lightbox2.admin.inc	
-D	lightbox2.formatter.inc	
-M	lightbox2.info	5afd4450822550195a715c1b97fc76ad
-D	lightbox2.insert.inc	
-M	lightbox2.install	8fa5aa53a2f7c4b51302a4aa5ddfb7d7
-M	lightbox2.module	57893fa8eccd9566a8dc414064b5bc39
-D	lightbox2.views.inc	
-D	lightbox2_handler_field_lightbox2.inc	
-D	page-node-lightbox2.tpl.php	
+A	lightbox2.info	5afd4450822550195a715c1b97fc76ad
+A	lightbox2.install	8fa5aa53a2f7c4b51302a4aa5ddfb7d7
+A	lightbox2.module	57893fa8eccd9566a8dc414064b5bc39
 A	po/ja.po	bed713c1517a0f5c159268d4a10b70d0

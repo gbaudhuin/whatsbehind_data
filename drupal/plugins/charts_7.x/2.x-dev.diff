@@ -1,46 +1,11 @@
-M	README.txt	77ef75b7a77a4bce58f55f1e45972941
-D	charts.admin.inc	
-A	charts.api.php	f613f7709e03ef7135750f97bffa0e0e
-D	charts.hooks.inc	
-D	charts.inc	
 M	charts.info	40e2953473e46c66b0ba694da8cb5dbd
-M	charts.install	88e0ed2d33f825ed8f78e022b65f34e4
 M	charts.module	5d835dfe967281d34a78ad9538918f11
-D	charts_color.css	
-D	charts_color.js	
-D	charts_system/charts_system.hooks.inc	
-D	charts_system/charts_system.inc	
-D	charts_system/charts_system.info	
-D	charts_system/charts_system.module	
-D	fusioncharts/fusioncharts.hooks.inc	
-D	fusioncharts/fusioncharts.inc	
-D	fusioncharts/fusioncharts.info	
-D	fusioncharts/fusioncharts.install	
-D	fusioncharts/fusioncharts.module	
-D	google_charts/google_charts.hooks.inc	
-D	google_charts/google_charts.inc	
-D	google_charts/google_charts.info	
-D	google_charts/google_charts.module	
-D	images/hook-rtl.png	
-D	images/hook.png	
-D	images/lock.png	
-A	includes/charts.examples.inc	9742970a42a2402d35ec5fee3a6fdc5d
-A	includes/charts.pages.inc	47879984aaf3ad9e81d889d677df98f4
-A	js/charts.admin.js	29c98f945122dfc177abf0e49bcbef2b
-A	modules/charts_google/charts_google.inc	61dfa8f769b44a9717e42599cf08d488
-A	modules/charts_google/charts_google.info	1575cec3d5557f2670557e2931329044
-A	modules/charts_google/charts_google.js	7027fb89531c995fb9b62abb9c599a77
-A	modules/charts_google/charts_google.module	8b893ff9a37e3f24c1b4a8976cd0c65a
-A	modules/charts_highcharts/charts_highcharts.inc	0c9c6b7296371c25ecf5614a9048ae6b
-A	modules/charts_highcharts/charts_highcharts.info	7151935bd381342b296f96e2dd5e7273
-A	modules/charts_highcharts/charts_highcharts.install	788e2eecfbba6e97ebfd371a7815f899
-A	modules/charts_highcharts/charts_highcharts.js	a53fa81d4c7393068569d1d999931974
-A	modules/charts_highcharts/charts_highcharts.module	234d01c6d872aa1c96addc4be72e9bb8
-D	openflashchart/openflashchart.hooks.inc	
-D	openflashchart/openflashchart.inc	
-D	openflashchart/openflashchart.info	
-D	openflashchart/openflashchart.module	
+M	includes/charts.examples.inc	9742970a42a2402d35ec5fee3a6fdc5d
+M	includes/charts.pages.inc	47879984aaf3ad9e81d889d677df98f4
+M	js/charts.admin.js	29c98f945122dfc177abf0e49bcbef2b
+M	modules/charts_google/charts_google.inc	61dfa8f769b44a9717e42599cf08d488
+M	modules/charts_google/charts_google.info	1575cec3d5557f2670557e2931329044
+M	modules/charts_highcharts/charts_highcharts.inc	0c9c6b7296371c25ecf5614a9048ae6b
+M	modules/charts_highcharts/charts_highcharts.info	7151935bd381342b296f96e2dd5e7273
 M	views/charts.views.inc	3d4e6bceccf00bebe1c82ec6bb087b11
-A	views/charts.views_default.inc	57ce41125a31ca0d144aa32a7cdd5178
-A	views/charts_plugin_display_chart.inc	f55397d81076bb7c08a3fcc6f45c64db
 M	views/charts_plugin_style_chart.inc	1ca57ae4f3ebcdffa2c99a677604a4d7

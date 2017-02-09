@@ -1,6 +1,0 @@
-M	config/schema/forward.schema.yml	8a6844249f1f984bf3354eb56dd7dddb
-M	forward.info.yml	c3badfe0fa95ad1066f439e343827564
-M	src/Controller/ForwardController.php	8922a911b00956bb647b0f2254728dab
-M	src/Plugin/DsField/ForwardForm.php	62bcb5c8fbbe565807772fb8ad097c8a
-M	src/Plugin/DsField/ForwardLink.php	6cf27104476ea6c14fa6a0e8106b519e
-M	src/Plugin/views/field/ForwardLink.php	9a3d6b711ca0e868dfb3919e827ee5bb

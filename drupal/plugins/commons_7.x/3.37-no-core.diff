@@ -1,4 +1,5 @@
 M	.travis.yml	54561e4f36a70bbc60e9e977ff55b80f
+D	LICENSE.txt	
 M	commons.info	adaa4a5949c33c0c9483c5daa3501cec
 M	drupal-org.make	2e5335586f6ca6ecf8fdfa0337f667a0
 A	libraries/backbone/.gitignore	8a604122d1059f0a137342dc5d90c0de
@@ -770,6 +771,7 @@ M	modules/commons/commons_utility_links/commons_utility_links.info	e9b738050d58b
 M	modules/commons/commons_wikis/commons_wikis.info	20380894c423bd3f363aa87784ed0026
 M	modules/commons/commons_wikis/modules/commons_wikis_pages/commons_wikis_pages.info	e59229b57162fa0cbb43b47f215d7c41
 M	modules/commons/commons_wysiwyg/commons_wysiwyg.info	b98795eab32825cf6277057b4c4c1683
+A	modules/contrib/acquia_connector/LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	modules/contrib/acquia_connector/README.txt	f8fc378ae8e4f948bf16e542f813176c
 A	modules/contrib/acquia_connector/acquia_agent/acquia.ico	9b6e6eb1392cb22c5cae359fd68c6dd5
 A	modules/contrib/acquia_connector/acquia_agent/acquia_agent.info	12365cc8e0d36f2ea48d6e58b87dd512

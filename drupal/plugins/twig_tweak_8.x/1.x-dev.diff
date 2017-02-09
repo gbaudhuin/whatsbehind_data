@@ -1,11 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	ac925a95fa3550c42d2c5e9d5b30d4a2
-A	src/TwigExtension.php	5bc6b54b2d219179775f2078a80bc5fe
-A	tests/src/Functional/TwigTweakTest.php	7b5dce94836dfb6c8d952b28bd0e3bf6
-A	tests/twig_tweak_test/config/install/block.block.powered_by_drupal.yml	5b33fe9f0edf94e0000901550a990a17
-A	tests/twig_tweak_test/config/install/views.view.twig_tweak_test.yml	0419d1a38662812b64bbb0bee40bb4db
-A	tests/twig_tweak_test/templates/twig-tweak-test.html.twig	1dfd41c5c67f94c7b455abe80c34ec5b
-A	tests/twig_tweak_test/twig_tweak_test.info.yml	aa2849b635accad7264457e0cd8df1f7
-A	tests/twig_tweak_test/twig_tweak_test.module	1bd92a164540f7f293e1de0ed81dc131
-A	twig_tweak.info.yml	95aeda9e9b46bfd409996f2e1c5b8115
-A	twig_tweak.services.yml	22ceda58f4450ec8066e6a3d443c335a
+M	tests/twig_tweak_test/twig_tweak_test.info.yml	ed4bf9283aa224b9b08abf3610607307
+M	twig_tweak.info.yml	a90e3d15d379e056e781a78918cb1156

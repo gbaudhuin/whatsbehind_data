@@ -7909,11 +7909,14 @@ D	modules/simpletest/tests/theme_test.inc
 D	modules/simpletest/tests/theme_test.info	
 D	modules/simpletest/tests/theme_test.module	
 D	modules/simpletest/tests/theme_test.template_test.tpl.php	
+D	modules/simpletest/tests/themes/engines/nyan_cat/nyan_cat.engine	
 D	modules/simpletest/tests/themes/test_basetheme/test_basetheme.info	
 D	modules/simpletest/tests/themes/test_subtheme/test_subtheme.info	
 D	modules/simpletest/tests/themes/test_theme/template.php	
 D	modules/simpletest/tests/themes/test_theme/templates/node--1.tpl.php	
 D	modules/simpletest/tests/themes/test_theme/test_theme.info	
+D	modules/simpletest/tests/themes/test_theme_nyan_cat/templates/theme_test_template_test.nyan-cat.html	
+D	modules/simpletest/tests/themes/test_theme_nyan_cat/test_theme_nyan_cat.info	
 D	modules/simpletest/tests/unicode.test	
 D	modules/simpletest/tests/update.test	
 D	modules/simpletest/tests/update_script_test.info	
@@ -8074,6 +8077,7 @@ D	modules/update/tests/drupal.0.xml
 D	modules/update/tests/drupal.1.xml	
 D	modules/update/tests/drupal.2-sec.xml	
 D	modules/update/tests/drupal.dev.xml	
+D	modules/update/tests/themes/update_test_admintheme/update_test_admintheme.info	
 D	modules/update/tests/themes/update_test_basetheme/update_test_basetheme.info	
 D	modules/update/tests/themes/update_test_subtheme/update_test_subtheme.info	
 D	modules/update/tests/update_test.info	

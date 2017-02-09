@@ -1,6 +1,7 @@
-A	CHANGELOG.txt	324250d57b7970ff67ce58342f4e7092
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	9761ab65f183026c94b310398d8d8979
-A	role_delegation.info	3c6f8bb45f4bdfead13615a0ee3a4deb
-A	role_delegation.install	6cf2e426061199224e8c42e443c94652
-A	role_delegation.module	61d95dfea59de881a05375f7f2cbe6ee
+M	CHANGELOG.txt	324250d57b7970ff67ce58342f4e7092
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	9761ab65f183026c94b310398d8d8979
+M	role_delegation.info	3c6f8bb45f4bdfead13615a0ee3a4deb
+M	role_delegation.install	6cf2e426061199224e8c42e443c94652
+M	role_delegation.module	61d95dfea59de881a05375f7f2cbe6ee
+D	translations/fr.po	

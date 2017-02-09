@@ -1,5 +1,6 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	5812d02e8e4930741ce7e3537327dee5
-M	uploadpath.info	82a71c81af90b33385b1fc13945e7242
-M	uploadpath.install	c2806dde95ebea8bc1d9e63ea4f2b9fb
-M	uploadpath.module	5508d27c2f5b64e6598d492942ca5805
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	5812d02e8e4930741ce7e3537327dee5
+A	uploadpath.admin.inc	08f78eb130596d4a9b409a14e82f7afe
+A	uploadpath.info	82a71c81af90b33385b1fc13945e7242
+A	uploadpath.install	c2806dde95ebea8bc1d9e63ea4f2b9fb
+A	uploadpath.module	5508d27c2f5b64e6598d492942ca5805

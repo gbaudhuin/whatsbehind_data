@@ -54,6 +54,8 @@ M	profiles/swftools_profiles.install	8bcf04f73599203cb5a83e111bf449b6
 M	profiles/swftools_profiles.module	a90f789b4a1490b4351ab7e4596de411
 M	simpleviewer/swftools-simpleviewer-playlist-element.tpl.php	25270fc1b6ed70b445a547a99293f417
 M	simpleviewer/swftools-simpleviewer-playlist-wrapper.tpl.php	9740da527b74904110a8c0a21916edf6
+D	simpleviewer/swftools-tiltviewer-playlist-element.tpl.php	
+D	simpleviewer/swftools-tiltviewer-playlist-wrapper.tpl.php	
 M	simpleviewer/swftools_simpleviewer.admin.inc	c39e8eda4e1684746b7aa4de4fe9cf51
 M	simpleviewer/swftools_simpleviewer.info	0ccd4859e2c2928566af275411180d15
 M	simpleviewer/swftools_simpleviewer.module	689f867c82b5ed74552e21c1c8be68da
@@ -71,6 +73,8 @@ M	swftools.info	1eb63b39fdf3615c6e0f93189e58b428
 M	swftools.install	5a59623d346f8f80e3efc116224beeea
 M	swftools.js	6ecf2ae69a565be00eddc59c5b2d3657
 M	swftools.module	3fac1b6a07779608d69bf5778ed0ef04
+A	tiltviewer/swftools-tiltviewer-playlist-element.tpl.php	4fbcbf6a98421b99b6ec2e0534bf37aa
+A	tiltviewer/swftools-tiltviewer-playlist-wrapper.tpl.php	f786ec730633cc5078fe5b1ff7eaa08a
 A	tiltviewer/swftools_tiltviewer.admin.inc	9632581ac19eef762cb8c6f0e3e7b4ee
 A	tiltviewer/swftools_tiltviewer.info	540c79ab05a9dbc42bd1747718a6d403
 A	tiltviewer/swftools_tiltviewer.module	536357e2a85343352574e6826bce5593

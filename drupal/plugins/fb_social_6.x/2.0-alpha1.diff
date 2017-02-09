@@ -5,28 +5,48 @@ M	fb_social.admin.inc	95f8e6ae6c6d0d435c299cd711cf06a2
 M	fb_social.info	28c9b12744a8e61f61b95afe69bd90d2
 M	fb_social.install	8d24795cc6da6e70ca153b47d10fa0d9
 M	fb_social.module	31e898e8e5ef6497eab5a511db2d3d5e
-D	fb_social.views.inc	
-M	plugins/boxes/fb_social_activityfeed.inc	14065b4ab5e9e8c78767742b91a98835
-M	plugins/boxes/fb_social_comments.inc	cad9b3ab1ffb76fe4cd4d89e36572f54
-M	plugins/boxes/fb_social_default.inc	b473da48f83914276829cb9808fcd55e
-M	plugins/boxes/fb_social_facepile.inc	672b1cb20e7f1ab89b00403ed732189e
-M	plugins/boxes/fb_social_like.inc	de0b658b5a7589d5b520c9e34dbee474
-M	plugins/boxes/fb_social_likebox.inc	5f315e3fa64622e2dff0fc654157db6d
-M	plugins/boxes/fb_social_livestream.inc	090e3f7979e9a01f8c78e53b14715f95
-M	plugins/boxes/fb_social_recommendations.inc	0aee1603ef8dd6dd0bf81eaba2bc9bdf
-M	plugins/boxes/fb_social_send.inc	928324d390db86ac9feeaf39c89dd8dc
-D	plugins/boxes/fb_social_subscribe.inc	
+D	fb_social.widgets.inc	
+D	modules/fb_social_comments/README.txt	
+D	modules/fb_social_comments/fb_social_comments.admin.inc	
+D	modules/fb_social_comments/fb_social_comments.info	
+D	modules/fb_social_comments/fb_social_comments.install	
+D	modules/fb_social_comments/fb_social_comments.module	
+D	modules/fb_social_like/README.txt	
+D	modules/fb_social_like/fb_social_like.admin.inc	
+D	modules/fb_social_like/fb_social_like.info	
+D	modules/fb_social_like/fb_social_like.module	
+D	modules/fb_social_likebfb_social_like.install	
+D	modules/fb_social_likebfb_social_like.views.inc	
+D	modules/fb_social_likebox/README.txt	
+D	modules/fb_social_likebox/fb_social_likebox.admin.inc	
+D	modules/fb_social_likebox/fb_social_likebox.info	
+D	modules/fb_social_likebox/fb_social_likebox.install	
+D	modules/fb_social_likebox/fb_social_likebox.module	
+D	modules/fb_social_likebviews/fb_social_like_handler_field_like.inc	
+D	modules/fb_social_send/README.txt	
+D	modules/fb_social_send/fb_social_send.admin.inc	
+D	modules/fb_social_send/fb_social_send.info	
+D	modules/fb_social_send/fb_social_send.install	
+D	modules/fb_social_send/fb_social_send.module	
+D	modules/fb_social_share/fb_social_share.admin.inc	
+D	modules/fb_social_share/fb_social_share.info	
+D	modules/fb_social_share/fb_social_share.install	
+D	modules/fb_social_share/fb_social_share.module	
+A	plugins/boxes/fb_social_activityfeed.inc	14065b4ab5e9e8c78767742b91a98835
+A	plugins/boxes/fb_social_comments.inc	cad9b3ab1ffb76fe4cd4d89e36572f54
+A	plugins/boxes/fb_social_default.inc	b473da48f83914276829cb9808fcd55e
+A	plugins/boxes/fb_social_facepile.inc	672b1cb20e7f1ab89b00403ed732189e
+A	plugins/boxes/fb_social_like.inc	de0b658b5a7589d5b520c9e34dbee474
+A	plugins/boxes/fb_social_likebox.inc	5f315e3fa64622e2dff0fc654157db6d
+A	plugins/boxes/fb_social_livestream.inc	090e3f7979e9a01f8c78e53b14715f95
+A	plugins/boxes/fb_social_recommendations.inc	0aee1603ef8dd6dd0bf81eaba2bc9bdf
+A	plugins/boxes/fb_social_send.inc	928324d390db86ac9feeaf39c89dd8dc
 A	plugins/export_ui/fb_social_ctools_export_ui.inc	44e5b45355cf8088bfb4a97290382f36
-D	plugins/export_ui/fb_social_presets_ui.class.php	
-D	plugins/export_ui/fb_social_presets_ui.inc	
-M	plugins/fb_plugin/activityfeed.inc	5c1d86dc5ceedfb324684a9b0fef21eb
-M	plugins/fb_plugin/comments.inc	341fba94af71e1cb8260837f448655e8
-M	plugins/fb_plugin/facepile.inc	201e84baa07830a01bf7cd6ccde62b20
-M	plugins/fb_plugin/like.inc	5b77156f15e096026364f811ed1c30ab
-M	plugins/fb_plugin/likebox.inc	581651ff3d733303827987bdba782e41
-M	plugins/fb_plugin/livestream.inc	2ad532f55d434670e57ad38be685c66c
-M	plugins/fb_plugin/recommendations.inc	d0083b0f4c3f5412d87dfdaf9c4386dd
-M	plugins/fb_plugin/send.inc	2632e6a7fc69ba3e39d0337bb79f4bf0
-D	plugins/fb_plugin/subscribe.inc	
-D	plugins/views/fb_social_handler_field.inc	
-D	theme/fb-social-plugin.tpl.php	
+A	plugins/fb_plugin/activityfeed.inc	5c1d86dc5ceedfb324684a9b0fef21eb
+A	plugins/fb_plugin/comments.inc	341fba94af71e1cb8260837f448655e8
+A	plugins/fb_plugin/facepile.inc	201e84baa07830a01bf7cd6ccde62b20
+A	plugins/fb_plugin/like.inc	5b77156f15e096026364f811ed1c30ab
+A	plugins/fb_plugin/likebox.inc	581651ff3d733303827987bdba782e41
+A	plugins/fb_plugin/livestream.inc	2ad532f55d434670e57ad38be685c66c
+A	plugins/fb_plugin/recommendations.inc	d0083b0f4c3f5412d87dfdaf9c4386dd
+A	plugins/fb_plugin/send.inc	2632e6a7fc69ba3e39d0337bb79f4bf0

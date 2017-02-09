@@ -2,6 +2,8 @@ M	features.info.yml	2b997ab634b9303779840186f3c61c20
 M	modules/features_ui/features_ui.info.yml	b1815db0a64cdee0be3c1c0fb763b7ad
 M	modules/features_ui/src/Controller/FeaturesUIController.php	cf5ab0ccc5664975772b0485769ba48a
 M	modules/features_ui/src/Form/FeaturesEditForm.php	18cece2dd929aca37526a52f5f00df33
+A	modules/features_ui/src/Tests/FeaturesBundleUITest.php	1d60f695bc6f307a8452ed6db3a6e033
+A	modules/features_ui/src/Tests/FeaturesCreateUITest.php	15192ea61129212f7a310f4d7ad015e7
 M	src/ConfigurationItem.php	a8d2929ead961e3819d5479a5abf7def
 M	src/Controller/FeaturesController.php	c0549aa54b848dd3ddb09f6d677ea67e
 M	src/Entity/FeaturesBundle.php	409a7c61832cfa65115392870210cf31
@@ -33,6 +35,8 @@ M	src/Plugin/FeaturesAssignment/FeaturesAssignmentSiteType.php	008681aa577a3f02b
 M	src/Plugin/FeaturesGeneration/FeaturesGenerationArchive.php	661db0f53992d7b7ec291282f35850de
 M	src/Plugin/FeaturesGeneration/FeaturesGenerationWrite.php	0136950f4b05b906721521e3a0166dc6
 M	src/ProxyClass/FeaturesConfigInstaller.php	56b3d6cddfaacf42db1b1b716a86e360
+D	src/Tests/FeaturesBundleUITest.php	
+D	src/Tests/FeaturesCreateUITest.php	
 M	tests/modules/test_feature/test_feature.info.yml	522c73e2b15197cb7beecee7a13e8ab7
 M	tests/src/Unit/ConfigurationItemTest.php	4e245c70f7b69272d10a957fbbaefc91
 M	tests/src/Unit/FeaturesBundleTest.php	46aee71f790b537a63908a11e91566e3

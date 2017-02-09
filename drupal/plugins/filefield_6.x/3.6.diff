@@ -10,4 +10,32 @@ M	filefield_formatter.inc	25fdca17826480c80d435bbcfba5f8e6
 M	filefield_meta/filefield_meta.info	0c65ce31dea79797292a086e3f56a2f8
 M	filefield_meta/filefield_meta.module	8e4923b4481970ab25f54641d3c53958
 M	filefield_widget.inc	11674cbc20fffcac461c11882b45a62c
+A	icons/application-octet-stream.png	5ce7e5c90872685e957c038426c0ce8f
+A	icons/application-pdf.png	12360ffa56e24c97d9d6b2de1476182f
+A	icons/application-x-executable.png	5ce7e5c90872685e957c038426c0ce8f
+A	icons/audio-x-generic.png	cacab0def59416489cfc16cacd41213e
+A	icons/image-x-generic.png	c6b5cea82891ac3137d0bd96cb926e16
+A	icons/package-x-generic.png	5db3a1cd227c6bee475b339016a9036a
+D	icons/protocons/16x16/mimetypes/application-octet-stream.png	
+D	icons/protocons/16x16/mimetypes/application-pdf.png	
+D	icons/protocons/16x16/mimetypes/application-x-executable.png	
+D	icons/protocons/16x16/mimetypes/audio-x-generic.png	
+D	icons/protocons/16x16/mimetypes/image-x-generic.png	
+D	icons/protocons/16x16/mimetypes/package-x-generic.png	
+D	icons/protocons/16x16/mimetypes/text-html.png	
+D	icons/protocons/16x16/mimetypes/text-plain.png	
+D	icons/protocons/16x16/mimetypes/text-x-generic.png	
+D	icons/protocons/16x16/mimetypes/text-x-script.png	
+D	icons/protocons/16x16/mimetypes/video-x-generic.png	
+D	icons/protocons/16x16/mimetypes/x-office-document.png	
+D	icons/protocons/16x16/mimetypes/x-office-presentation.png	
+D	icons/protocons/16x16/mimetypes/x-office-spreadsheet.png	
+A	icons/text-html.png	3056780ec50089fedaacf90739dbe775
+A	icons/text-plain.png	e147f12cd9e75e3d1aff7871a8d51dee
+A	icons/text-x-generic.png	e147f12cd9e75e3d1aff7871a8d51dee
+A	icons/text-x-script.png	4ffc853acd53260267a339930c24c3a9
+A	icons/video-x-generic.png	b17d9cd74370f5aea55dd80374803083
+A	icons/x-office-document.png	8f77379a1bb4f1c54fc002a101fa8445
+A	icons/x-office-presentation.png	d378ed7941a9bff5ace62eec741a3688
+A	icons/x-office-spreadsheet.png	a281d7ab255dbb666cba9c1b6de1872a
 M	tests/filefield.test	d504019c753d586ce7feaea1f5b47505

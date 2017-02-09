@@ -1,15 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	galleryformatter.info	221196f3341a5bf593c1b5d18c525592
-A	galleryformatter.install	9a678e6a45129bd2fcdd089c6a38ce03
-A	galleryformatter.module	90c5564215b717a298c3a43ecd3db8cc
-A	gallerystyles/greenarrows/greenarrows.css	989f0801a355dfeed0f8a5038d3e399f
-A	gallerystyles/greenarrows/images/bg-trans.png	7cc1980ae61f4993d88c14f2d8032cc7
-A	gallerystyles/greenarrows/images/source/imagecache-dimensions.svg	0071250466cd4b95d35d1a9d4834fb1a
-A	gallerystyles/greenarrows/images/source/sprite.svg	3ab636e0a6a9f517f684441c4d77f13d
-A	gallerystyles/greenarrows/images/sprite.png	6d882e81135f05c41adbbda595d3c721
-A	includes/galleryformatter.theme.inc	c2fffd48f0ce2bd3760165ed6f3e6eb7
-A	includes/galleryformatter_imagecache.inc	4ecd3c49ad540793e4bf303a6c43e7f7
-A	theme/galleryformatter.css	34a2ce044cb380e282d141981d988e6c
-A	theme/galleryformatter.js	ae28a86eceecb62e91883b6ed2b397c1
-A	theme/galleryformatter.tpl.php	0fa77cb2aa2ffda1213935399d7d45a5
-A	theme/infiniteCarousel.js	9dd0f27c3e6059643f638eb7b6dea6c1
+M	galleryformatter.info	221196f3341a5bf593c1b5d18c525592

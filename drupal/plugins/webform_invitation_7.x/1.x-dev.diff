@@ -1,7 +1,1 @@
-A	.gitignore	edb274d8c594429b8ccc684d79d771f6
-A	CHANGELOG.txt	71df781829ed1055987f32de4e452f82
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	f4055eb51941d51847cfc85b373b830e
-A	webform_invitation.info	fead02d69d2a1eb9377d7f7f39b73ab5
-A	webform_invitation.install	58d74a082aa6631447132175679e068f
-A	webform_invitation.module	0486c5858378948b7aabd92baf3a722e
+M	webform_invitation.info	fead02d69d2a1eb9377d7f7f39b73ab5

@@ -1,10 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.md	20e7425a262b8a512c38f2a65f29150f
-A	composer.json	c9f37b7d2a428fb744b4cb62b913096a
-A	csv_serialization.info.yml	05f3d59dff3000259f71760c4a3e4429
-A	csv_serialization.install	d890c929330c7179dfb840187bdbca70
-A	csv_serialization.services.yml	969326c3b55cec217f8e86187b6686b7
-A	src/Encoder/CsvEncoder.php	05a987610e8174f30e9c38ace0ad3c03
-A	src/EventSubscriber/CsvSubscriber.php	57fa9a8dd386c55473f275eacdc1202e
-A	tests/src/Unit/CsvEncoderTest.csv	294c7c9152ef7ae155e01e39c2c46c71
-A	tests/src/Unit/CsvEncoderTest.php	6fcd02f8629f3286189719d5e5c9de09
+M	csv_serialization.info.yml	05f3d59dff3000259f71760c4a3e4429

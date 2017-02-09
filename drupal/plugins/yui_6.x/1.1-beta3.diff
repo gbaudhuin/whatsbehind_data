@@ -1,5 +1,6 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	readme.txt	80dc0b6fe406b718dca398b32207a247
 A	translations/hu.po	63a0dddcd17da2f6dbd173d1156b94e5
 A	translations/ja.po	cd1361c249a8f51ac6488ac9920c347d
-M	yui.info	81ad99e13c8b6a0f364ffd8070393bd1
-M	yui.module	70151b37b4d0ec12089e1c8cc23390b7
+A	yui.info	81ad99e13c8b6a0f364ffd8070393bd1
+A	yui.module	70151b37b4d0ec12089e1c8cc23390b7

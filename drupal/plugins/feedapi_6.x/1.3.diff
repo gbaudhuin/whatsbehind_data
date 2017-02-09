@@ -6,6 +6,8 @@ M	feedapi.module	d9b8afc4b4b79e1e2d21f445488526ea
 M	feedapi_inherit/feedapi_inherit.info	0ecb5e775ab9bdb07ae50b03688988ee
 D	feedapi_inherit/feedapi_inherit.install	
 M	feedapi_inherit/feedapi_inherit.module	f21fbe43ce9d39c0b7add1d4ab1082bc
+D	feedapi_inherit/po/feedapi_inherit.pot	
+A	feedapi_inherit/translations/feedapi_inherit.pot	be9f1f6e523a13519e9c0de141106c58
 A	feedapi_inherit/translations/hu.po	4c049b65bc725f1cdb647c18c681f805
 M	feedapi_node/feedapi_node.info	3e560c895df3db084e4671fcbd6b03c1
 M	feedapi_node/feedapi_node.install	d52e1f8a545b5b6629871c1370d8d423
@@ -23,9 +25,15 @@ A	feedapi_node_views/translations/hu.po	1a9dac75b91c842834ae9c100866b047
 M	parser_common_syndication/parser_common_syndication.info	be4c719b46be141612cca6ef5e04e363
 M	parser_common_syndication/parser_common_syndication.install	980c80fcb7ed5080f4caca88e3501c1e
 M	parser_common_syndication/parser_common_syndication.module	e4a182ec7583875d9d40787fa6f3c837
+D	parser_common_syndication/po/parser_common_syndication.pot	
 A	parser_common_syndication/translations/hu.po	d5dc68609245391200adcb4e238b272b
+A	parser_common_syndication/translations/parser_common_syndication.pot	d457a0e980e7c3f2ae54e8493e9b4d0a
 M	parser_simplepie/parser_simplepie.info	1c437067faa3ce72a7b3047bc0b9ba7e
 M	parser_simplepie/parser_simplepie.install	6eb9746ddbb02e1c3e7a4c9201fed229
 M	parser_simplepie/parser_simplepie.module	46f533fe31b6d2d874abc259699694a0
+D	parser_simplepie/po/parser_simplepie.pot	
 A	parser_simplepie/translations/hu.po	88477c86d5d693e0eff03b157f2fb60e
+A	parser_simplepie/translations/parser_simplepie.pot	023f7fca8cb2c0de0fc524ac24943c86
+D	po/feedapi.pot	
+A	translations/feedapi.pot	031e2e30cababa4c44a805134edde62f
 A	translations/hu.po	3556a9d641f9de2f706df90a8a56e8f8

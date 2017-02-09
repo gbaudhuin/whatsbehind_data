@@ -1,5 +1,11 @@
 M	API.txt	d89f435fe38ae5c18dcad07f1364e308
 A	css/easy_social_twitter.css	1ce3985dc4ef3344448a7ae115695be6
+D	easy-social-links.tpl.php	
+D	easy_social.admin.inc	
 M	easy_social.info	beff430dba1ae7c92df4ee18a43a314a
 M	easy_social.install	2df4e22921e341e72aab7b762a347208
 M	easy_social.module	0f9098e9fc85681159e3e1b9353bf3a6
+D	easy_social.widgets.inc	
+A	includes/easy_social.admin.inc	a489f75a2afc741de89e2cc48e51a851
+A	includes/easy_social.widgets.inc	c5168d6c493d0ae4d544ec72349fd796
+A	templates/easy_social-links.tpl.php	de5da9ab23e95b8a8d4f95162003e399

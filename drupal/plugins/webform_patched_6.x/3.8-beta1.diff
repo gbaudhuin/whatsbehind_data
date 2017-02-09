@@ -1,5 +1,7 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	CHANGELOG.txt	10677285861ba8e1fcacc2382fe504c3
+D	INSTALL.txt	
 M	README.txt	63b62e4f1e828c81ba71365c8580728d
+M	THEMING.txt	ab08f740fd44f76bec1762ab76541212
 M	components/date.inc	b64e2a174b7a36a76bc1eafc01f84d57
 M	components/email.inc	5ab23e2159da611871f105b0dc7baec7
 M	components/fieldset.inc	2b0501d242ec9ff7c7fa184f8adad16d
@@ -7,44 +9,56 @@ M	components/file.inc	a39c7bd6432ebc4a1fd7dabb85a42ebf
 M	components/grid.inc	1df40cfca74a6d06d5ce86e039f271ca
 M	components/hidden.inc	423a3bdab0b8887db68832ca7ad2deee
 M	components/markup.inc	c839074e242f8ffb741f86a2baf04b39
-D	components/number.inc	
 M	components/pagebreak.inc	211e21d5f2039e0b37c8411993bcddbe
 M	components/select.inc	a1938858156130682ec42d54e3a9d71c
 M	components/textarea.inc	bbdd0b700ec9ef8a414f527262d276f9
 M	components/textfield.inc	f10f86529d0a96a1b1cb657350efb47f
 M	components/time.inc	07b06c1ca20f1c393e486bdc417d4f41
-M	css/webform-admin.css	93fede6dff1d07e3ba4b48992270dcb6
-M	css/webform.css	cb8d6f76229a734b3adaa1d1c35d2e3c
-M	includes/webform.admin.inc	5aa61f15f80bdd7452421366efc57f6f
-M	includes/webform.components.inc	18348f1867ed03363e59a71673b098d3
-M	includes/webform.emails.inc	c3c78f62f7dfcb93467a5a20551148f5
-M	includes/webform.export.inc	06a47d9b5982e03d27e089dcd2e22648
-M	includes/webform.options.inc	4cc2a899abdf67c1c7fc34ba2eb737b0
-M	includes/webform.pages.inc	65522760be8c1ad6307a78983606e326
-M	includes/webform.report.inc	b4352a886312241225285d064899da3e
-M	includes/webform.submissions.inc	fa2d77c3d7ce1c332f3c710a64a3fb23
-M	js/webform-admin.js	f296d2e768270af8971d82797d2c593b
-M	js/webform.js	953a9b62de0230d475d728c07f712207
-M	templates/webform-calendar.tpl.php	9adbb97d028fc72efca1c0af9cbadd74
-M	templates/webform-form.tpl.php	8287923d8f2f364a32c7dfd08d1c172f
-M	templates/webform-results-submissions.tpl.php	172e1d4a7f90226de670537b9ec5dc06
-M	templates/webform-submission-information.tpl.php	19d2b5663e6cd06198cd5a23e50b69fa
-M	templates/webform-submission-navigation.tpl.php	e985076f000eb93968519071a1db9b10
-M	templates/webform-submission-page.tpl.php	1fbe36f71d0199fbff44808e57026f7d
+A	css/webform-admin.css	93fede6dff1d07e3ba4b48992270dcb6
+A	css/webform.css	cb8d6f76229a734b3adaa1d1c35d2e3c
+A	images/calendar.png	6ae7b8cd260e5836d7d25d0480d371f7
+A	includes/webform.admin.inc	5aa61f15f80bdd7452421366efc57f6f
+A	includes/webform.components.inc	18348f1867ed03363e59a71673b098d3
+A	includes/webform.emails.inc	c3c78f62f7dfcb93467a5a20551148f5
+A	includes/webform.export.inc	06a47d9b5982e03d27e089dcd2e22648
+A	includes/webform.options.inc	4cc2a899abdf67c1c7fc34ba2eb737b0
+A	includes/webform.pages.inc	65522760be8c1ad6307a78983606e326
+A	includes/webform.report.inc	b4352a886312241225285d064899da3e
+A	includes/webform.submissions.inc	fa2d77c3d7ce1c332f3c710a64a3fb23
+A	js/select-admin.js	90c69f60dd65108eabdde18822f068f2
+A	js/webform-admin.js	f296d2e768270af8971d82797d2c593b
+A	js/webform.js	953a9b62de0230d475d728c07f712207
+A	templates/webform-calendar.tpl.php	9adbb97d028fc72efca1c0af9cbadd74
+A	templates/webform-confirmation.tpl.php	16daf1e63814e17800dd14fe8002207c
+A	templates/webform-form.tpl.php	8287923d8f2f364a32c7dfd08d1c172f
+A	templates/webform-mail.tpl.php	57e78f5e5be784a73428f39ed5d2a849
+A	templates/webform-results-submissions.tpl.php	172e1d4a7f90226de670537b9ec5dc06
+A	templates/webform-submission-information.tpl.php	19d2b5663e6cd06198cd5a23e50b69fa
+A	templates/webform-submission-navigation.tpl.php	e985076f000eb93968519071a1db9b10
+A	templates/webform-submission-page.tpl.php	1fbe36f71d0199fbff44808e57026f7d
+A	templates/webform-submission.tpl.php	22500e528b2992fa3542a8f7ca76a53c
 M	tests/components.test	741e75e8ae239d03b50c9264f4a04719
 M	tests/permissions.test	f5d3af114f915f901662af6589c69fa5
 M	tests/submission.test	bc7bdcfd631ce56d0091a43e4134c607
 M	tests/webform.test	eb9712682d3e967bb554dfee56764f5c
-M	views/webform.views.inc	8e4af110875f129b1cd09de245b494a6
-M	views/webform_handler_field_form_body.inc	e2496c0c520e4abcab7e56d810ab3cbd
-M	views/webform_handler_field_is_draft.inc	7c5dd900b0935a51986533d6c805b94b
-M	views/webform_handler_field_node_link_edit.inc	49e44d5ee19346658f3a0d6952a416bd
-M	views/webform_handler_field_node_link_results.inc	49bc9a618217184cf47abed703cb312b
-M	views/webform_handler_field_submission_count.inc	69453ff8085caa387fca10a1fd266bc1
-M	views/webform_handler_field_submission_link.inc	a4694fd84aee82b1d0b1eaab8a32069e
-D	views/webform_handler_field_webform_status.inc	
-M	views/webform_handler_filter_is_draft.inc	4b6bc10015c842634cd820037d78ac45
-D	views/webform_handler_filter_webform_status.inc	
+A	views/webform.views.inc	8e4af110875f129b1cd09de245b494a6
+A	views/webform_handler_field_form_body.inc	e2496c0c520e4abcab7e56d810ab3cbd
+A	views/webform_handler_field_is_draft.inc	7c5dd900b0935a51986533d6c805b94b
+A	views/webform_handler_field_node_link_edit.inc	49e44d5ee19346658f3a0d6952a416bd
+A	views/webform_handler_field_node_link_results.inc	49bc9a618217184cf47abed703cb312b
+A	views/webform_handler_field_submission_count.inc	69453ff8085caa387fca10a1fd266bc1
+A	views/webform_handler_field_submission_link.inc	a4694fd84aee82b1d0b1eaab8a32069e
+A	views/webform_handler_filter_is_draft.inc	4b6bc10015c842634cd820037d78ac45
+D	webform-confirmation.tpl.php	
+D	webform-form.tpl.php	
+D	webform-mail.tpl.php	
+D	webform.css	
 M	webform.info	24bd25286d9febe6fc0be320df96e58e
 M	webform.install	2faac8533a5cfa47038b1b5512820285
+D	webform.js	
 M	webform.module	d61710d0281c3da19c4197cc5633a3e5
+D	webform_components.inc	
+D	webform_export.inc	
+A	webform_hooks.php	d744285e95212079ae59a23f1a0e4811
+D	webform_report.inc	
+D	webform_submissions.inc	

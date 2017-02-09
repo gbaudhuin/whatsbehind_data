@@ -1,9 +1,6 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	23eea2b9041d1e5fb0c3e3c5148e64f5
-M	jquery_update.info	d01ac10c0509ef9495147ea1222b627f
-M	jquery_update.install	d7d5c9e88a44b48106edd40e5bbeaef8
-M	jquery_update.module	d05a6415610689e7e4d768064d813e0e
-D	replace/farbtastic.js	
-D	replace/jquery.min.js	
-D	replace/jquery.packed.js	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	23eea2b9041d1e5fb0c3e3c5148e64f5
+A	jquery.js	15a0b78968a52607e1361c6d464a8d52
+A	jquery_update.info	d01ac10c0509ef9495147ea1222b627f
+A	jquery_update.install	d7d5c9e88a44b48106edd40e5bbeaef8
+A	jquery_update.module	d05a6415610689e7e4d768064d813e0e

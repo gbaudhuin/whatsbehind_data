@@ -1,133 +1,81 @@
-D	.cvsignore	
 D	.project	
 M	CHANGELOG.txt	845badbdb65a0c21a1b103100489694d
 M	INSTALL.txt	d06f3726d52d758758933e4672fc7c33
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	api/swftools_api.info	b14dcc8be48d07a6cc0677b21f8cb12b
-A	api/swftools_api.module	8f63a9d744e54f639ee6321982c901e7
-A	docs/swftools.php	e3ecd2896a5b36e6d1b6971d2d395992
-A	flexpaper/swftools_flexpaper.admin.inc	b7339c2058708aa79a792b5091b37fb0
-A	flexpaper/swftools_flexpaper.info	b627e07bb663b64886af9abdd528c15e
-A	flexpaper/swftools_flexpaper.module	d39de5d6e99b1f8bf6c06b12f2f2441e
-D	flowplayer/flowplayer.admin.inc	
-D	flowplayer/flowplayer.info	
-D	flowplayer/flowplayer.module	
-A	flowplayer/swftools_flowplayer.admin.inc	c9ef989ad55e5dcf699b73fea05b1ed7
-A	flowplayer/swftools_flowplayer.info	81936fedc0ddae8ededa55226736acab
-A	flowplayer/swftools_flowplayer.module	e380dec6e0ed830c532b09ea9776995b
-A	flowplayer3/README.txt	9279d5c4b24caa7832e0a998674de597
-D	flowplayer3/flowplayer3.admin.inc	
-D	flowplayer3/flowplayer3.info	
-D	flowplayer3/flowplayer3.module	
-A	flowplayer3/images/dark.png	bbe94e001ed480f1769bcb173b70c1bf
-A	flowplayer3/images/down.png	f8f11d8e08abc517800684c60617b679
-A	flowplayer3/images/h80.png	80bd64e5d9793449a732d7e23a803b50
-A	flowplayer3/images/light.png	12f4406cd90cce8e0f8f36335cd3f6d2
-A	flowplayer3/images/up.png	572fea0b17e823a6ed98b26df752d6b9
-A	flowplayer3/swftools-flowplayer3-playlist-element.tpl.php	fb1e4239ceac921aa58e719a27e134a6
-A	flowplayer3/swftools-flowplayer3-playlist.tpl.php	7fe80d8e954154d97ef0b3a610a77cf4
-A	flowplayer3/swftools_flowplayer3.admin.inc	56da097a8bc0d3f39499485414f70c5f
-A	flowplayer3/swftools_flowplayer3.css	70b514abe4c6b65f68856efed25fa0e8
-A	flowplayer3/swftools_flowplayer3.info	ded33aa22d9692dbf574d635e7781d4e
-A	flowplayer3/swftools_flowplayer3.js	74c2ec51dfdbba80d6d0e004b21a6763
-A	flowplayer3/swftools_flowplayer3.module	f0b11cb0d9b9745c801893265ea7a5bd
-A	flowplayer3/swftools_flowplayer3.playlist.js	9d648d5d92aed234abe1f4abb4d74f59
-D	genericplayers.module	
-A	getid3/swftools_getid3.info	658b4d4a6a903fa07ad56fd7d3922082
-A	getid3/swftools_getid3.module	3acbbc4d237d142bcf308165917667f7
-D	imagerotator/imagerotator.admin.inc	
-D	imagerotator/imagerotator.info	
-D	imagerotator/imagerotator.module	
-A	imagerotator/swftools-imagerotator-playlist-element.tpl.php	9fe2b64df7f1c137033e77299b50f3f6
-A	imagerotator/swftools-imagerotator-playlist-wrapper.tpl.php	96ae62e815e7d90aa7b3905cb9f1cf2b
-A	imagerotator/swftools_imagerotator.admin.inc	1f353d802bb85d4f6e18c4fc9aa57119
-A	imagerotator/swftools_imagerotator.info	609920654841ce93b026d32f2b17d05e
-A	imagerotator/swftools_imagerotator.module	d33db189f3fff541eafa207237f8958f
-A	includes/empty.gif	325472601571f31e1bf00674c368d335
-A	includes/swftools-page.tpl.php	2c589758fcc415f07d64ce2af28a588f
-A	includes/swftools.admin.inc	6558adbfb5cf1d42d714bdaa01a9c444
-A	includes/swftools.core.inc	e3f3aa71866dd32cb6ab3ae6750e43a5
-A	includes/swftools.genericplayers.inc	7a587034656b7a9dd9424b9b40f1403e
-A	includes/swftools.theme.inc	190bb62b496613d1690d54a578314c6a
-A	jw5/swftools-jw5-playlist-element.tpl.php	42d6a344c935904b63b71649fd8ce18c
-A	jw5/swftools-jw5-playlist-wrapper.tpl.php	a3b8e6d4edaf96a6f566ead44c7b48f5
-A	jw5/swftools_jw5.admin.inc	9eeb3d3a5576965fc73568cdf108156a
-A	jw5/swftools_jw5.info	c4c58dc8c47def45d7d6a5f25553d847
-A	jw5/swftools_jw5.js	d54bddaea6da589b67574c3cd9a6106d
-A	jw5/swftools_jw5.module	7e7ff5770c5f4596e213250e5d54594b
-D	lutman/lutman.info	
-D	lutman/lutman.module	
-D	onepixelout/onepixelout.admin.inc	
-D	onepixelout/onepixelout.info	
-D	onepixelout/onepixelout.js	
-D	onepixelout/onepixelout.module	
-A	onepixelout/swftools_onepixelout.admin.inc	20629d5224adb075e51b83ce62606778
-A	onepixelout/swftools_onepixelout.info	307b0764b42310995f0df00d25c07575
-A	onepixelout/swftools_onepixelout.js	69fa06dd2e0fb84f7cbc53f9853ebeaf
-A	onepixelout/swftools_onepixelout.module	5401c1de496aa35b8235bfab6808680b
-A	profiles/swftools_profiles.admin.inc	328f5a8932fefe745608544533f563fb
-A	profiles/swftools_profiles.info	3094044366a544192c0b5927d7e441f3
-A	profiles/swftools_profiles.install	a0db151224ecf85d3b03a3e25397bf6e
-A	profiles/swftools_profiles.module	84df334f441964d2b1a4a71e1f6d12b6
-D	shared/.cvsignore	
-D	shared/README.txt	
-D	shared/generic/skin_druplicon.swf	
-D	shared/swftools-default.jpg	
-D	simpleviewer/simpleviewer.admin.inc	
-D	simpleviewer/simpleviewer.info	
-D	simpleviewer/simpleviewer.module	
-A	simpleviewer/swftools-simpleviewer-playlist-element.tpl.php	25270fc1b6ed70b445a547a99293f417
-A	simpleviewer/swftools-simpleviewer-playlist-wrapper.tpl.php	9740da527b74904110a8c0a21916edf6
-A	simpleviewer/swftools_simpleviewer.admin.inc	460fab62359bf9b6995cbab07fdd4737
-A	simpleviewer/swftools_simpleviewer.info	89a6194e92033fc5ae354dfddb18ea0c
-A	simpleviewer/swftools_simpleviewer.module	eb4d82bef3fc3998b2ae085319571c04
-A	soundmanager2/swftools_soundmanager2.admin.inc	b30dfa9d5fdbe33e8b23a334f3ea963b
-A	soundmanager2/swftools_soundmanager2.info	b2e6cc15f0c2e5c3d48be9b930be27d6
-A	soundmanager2/swftools_soundmanager2.inlineplayer.css	a815669a5950308f14fd94be1a0bf107
-A	soundmanager2/swftools_soundmanager2.js	e1b27aff1e23b285eea68884b023f67c
-A	soundmanager2/swftools_soundmanager2.module	7f16ea3b9d3e063a321c70d79f840293
-A	swf/generic_flv.fla	adac7a4d4316309a587c792b55aab309
-A	swf/generic_mp3.fla	0807441cc8958c5ed36cf1335cec2967
-D	swfobject/swfobject.info	
-D	swfobject/swfobject.module	
-D	swfobject2/swfobject2.info	
-D	swfobject2/swfobject2.module	
-A	swfobject2/swftools_swfobject2.info	3fbdd268b2bec2146a645266d31e272d
-A	swfobject2/swftools_swfobject2.module	4798a5a7ab7af936dd8b60e9a1e03ccb
-M	swftools.admin.css	d3ef6f14ef896fc01e88421adb12d493
-D	swftools.admin.inc	
-A	swftools.css	637dc7081d2389bb5eccc9007166151f
+M	api/swftools_api.info	b14dcc8be48d07a6cc0677b21f8cb12b
+M	api/swftools_api.module	8f63a9d744e54f639ee6321982c901e7
+M	docs/swftools.php	e3ecd2896a5b36e6d1b6971d2d395992
+M	flexpaper/swftools_flexpaper.admin.inc	b7339c2058708aa79a792b5091b37fb0
+M	flexpaper/swftools_flexpaper.info	b627e07bb663b64886af9abdd528c15e
+M	flexpaper/swftools_flexpaper.module	d39de5d6e99b1f8bf6c06b12f2f2441e
+M	flowplayer/swftools_flowplayer.admin.inc	c9ef989ad55e5dcf699b73fea05b1ed7
+M	flowplayer/swftools_flowplayer.info	81936fedc0ddae8ededa55226736acab
+M	flowplayer/swftools_flowplayer.module	e380dec6e0ed830c532b09ea9776995b
+M	flowplayer3/README.txt	9279d5c4b24caa7832e0a998674de597
+M	flowplayer3/swftools-flowplayer3-playlist-element.tpl.php	fb1e4239ceac921aa58e719a27e134a6
+M	flowplayer3/swftools_flowplayer3.admin.inc	56da097a8bc0d3f39499485414f70c5f
+M	flowplayer3/swftools_flowplayer3.colorpicker.js	675a836c41e1f0326dba6a35ef5c2475
+M	flowplayer3/swftools_flowplayer3.colorschemes.inc	407001d0e602413aa4f2afa609eb5db4
+M	flowplayer3/swftools_flowplayer3.info	ded33aa22d9692dbf574d635e7781d4e
+M	flowplayer3/swftools_flowplayer3.js	74c2ec51dfdbba80d6d0e004b21a6763
+M	flowplayer3/swftools_flowplayer3.module	f0b11cb0d9b9745c801893265ea7a5bd
+M	flowplayer3/swftools_flowplayer3.playlist.js	9d648d5d92aed234abe1f4abb4d74f59
+M	getid3/swftools_getid3.info	658b4d4a6a903fa07ad56fd7d3922082
+M	getid3/swftools_getid3.module	3acbbc4d237d142bcf308165917667f7
+M	imagerotator/swftools-imagerotator-playlist-element.tpl.php	9fe2b64df7f1c137033e77299b50f3f6
+M	imagerotator/swftools-imagerotator-playlist-wrapper.tpl.php	96ae62e815e7d90aa7b3905cb9f1cf2b
+M	imagerotator/swftools_imagerotator.admin.inc	1f353d802bb85d4f6e18c4fc9aa57119
+M	imagerotator/swftools_imagerotator.info	609920654841ce93b026d32f2b17d05e
+M	imagerotator/swftools_imagerotator.module	d33db189f3fff541eafa207237f8958f
+M	includes/swftools.admin.inc	6558adbfb5cf1d42d714bdaa01a9c444
+M	includes/swftools.admin.status.inc	dbbd1502064c0baf9a48aeafe98a9809
+M	includes/swftools.core.inc	e3f3aa71866dd32cb6ab3ae6750e43a5
+M	includes/swftools.genericplayers.inc	7a587034656b7a9dd9424b9b40f1403e
+M	includes/swftools.theme.inc	190bb62b496613d1690d54a578314c6a
+M	jw5/swftools-jw5-playlist-element.tpl.php	42d6a344c935904b63b71649fd8ce18c
+M	jw5/swftools-jw5-playlist-wrapper.tpl.php	a3b8e6d4edaf96a6f566ead44c7b48f5
+M	jw5/swftools_jw5.admin.inc	9eeb3d3a5576965fc73568cdf108156a
+M	jw5/swftools_jw5.info	c4c58dc8c47def45d7d6a5f25553d847
+M	jw5/swftools_jw5.js	d54bddaea6da589b67574c3cd9a6106d
+M	jw5/swftools_jw5.module	7e7ff5770c5f4596e213250e5d54594b
+M	onepixelout/swftools_onepixelout.admin.inc	20629d5224adb075e51b83ce62606778
+M	onepixelout/swftools_onepixelout.info	307b0764b42310995f0df00d25c07575
+M	onepixelout/swftools_onepixelout.js	69fa06dd2e0fb84f7cbc53f9853ebeaf
+M	onepixelout/swftools_onepixelout.module	5401c1de496aa35b8235bfab6808680b
+M	profiles/swftools_profiles.admin.inc	328f5a8932fefe745608544533f563fb
+M	profiles/swftools_profiles.info	3094044366a544192c0b5927d7e441f3
+M	profiles/swftools_profiles.install	a0db151224ecf85d3b03a3e25397bf6e
+M	profiles/swftools_profiles.module	84df334f441964d2b1a4a71e1f6d12b6
+M	simpleviewer/swftools_simpleviewer.admin.inc	460fab62359bf9b6995cbab07fdd4737
+M	simpleviewer/swftools_simpleviewer.info	89a6194e92033fc5ae354dfddb18ea0c
+M	simpleviewer/swftools_simpleviewer.module	eb4d82bef3fc3998b2ae085319571c04
+M	soundmanager2/swftools_soundmanager2.admin.inc	b30dfa9d5fdbe33e8b23a334f3ea963b
+M	soundmanager2/swftools_soundmanager2.info	b2e6cc15f0c2e5c3d48be9b930be27d6
+M	soundmanager2/swftools_soundmanager2.js	e1b27aff1e23b285eea68884b023f67c
+M	soundmanager2/swftools_soundmanager2.module	7f16ea3b9d3e063a321c70d79f840293
+M	swfobject2/swftools_swfobject2.info	3fbdd268b2bec2146a645266d31e272d
+M	swfobject2/swftools_swfobject2.module	4798a5a7ab7af936dd8b60e9a1e03ccb
+M	swftools.css	637dc7081d2389bb5eccc9007166151f
 M	swftools.info	06379cce2d00bda5b362f97acdc5fcfe
 M	swftools.install	80faa10692020fb8744cb08692320409
-A	swftools.js	af6cee65b0b14227698721a3637fd214
+M	swftools.js	af6cee65b0b14227698721a3637fd214
 M	swftools.module	c1f64829ec7c7e41e6b78cbe7710ebe4
-A	tiltviewer/swftools-tiltviewer-playlist-element.tpl.php	f9ccf77e9bf3b6fb4e1967b874c4ac20
-A	tiltviewer/swftools-tiltviewer-playlist-wrapper.tpl.php	f786ec730633cc5078fe5b1ff7eaa08a
-A	tiltviewer/swftools_tiltviewer.admin.inc	64de389db939ebb99c25706bcaf22cd9
-A	tiltviewer/swftools_tiltviewer.info	e78784e904247be368fb578603f40cd9
-A	tiltviewer/swftools_tiltviewer.module	b357f79fda1cc29e1e07a378d469a97b
-D	ufo/ufo.info	
-D	ufo/ufo.module	
-A	upload/swftools_upload.info	5f4a3606442b192a3f0b885d39bf424b
-A	upload/swftools_upload.module	397b4ef3370551eabb093df0aad85379
-A	views/swftools.views.inc	9242f6949e3df5fefd6337704c1ddb65
-A	views/swftools.views.theme.inc	e574b47ee163918de64fe004b0ac8635
-A	views/views-view-swftools.tpl.php	d03baa0f98f0da442389adb255015c3d
-A	views/views_plugin_style_swftools.inc	55c2be189654948b6c2c44e7d16dde4e
-D	wijering/wijering.admin.inc	
-D	wijering/wijering.info	
-D	wijering/wijering.module	
-A	wijering4/swftools-wijering4-playlist-element.tpl.php	73206a270c368bf82da5af020fc586fd
-A	wijering4/swftools-wijering4-playlist-wrapper.tpl.php	f9dbffee29dc6953f318a76a02a6093d
-A	wijering4/swftools_wijering4.admin.inc	aadfc8b36d24e504c35bdac1b1149d6c
-A	wijering4/swftools_wijering4.info	26ee6a5fa09986e1e29774f8bb982ac4
-A	wijering4/swftools_wijering4.js	82c0a62472944a2c1ccb00939bc821f9
-A	wijering4/swftools_wijering4.module	f3ccb31d0af01950285f4098a25dc939
-D	wijering4/wijering4.admin.inc	
-D	wijering4/wijering4.css	
-D	wijering4/wijering4.info	
-D	wijering4/wijering4.module	
-A	wpaudio/swftools_wpaudio.admin.inc	728d8cf8fc07d2d84a1d805e4b41519f
-A	wpaudio/swftools_wpaudio.info	0d9ce751c6a5863fd4f94a401b69ae61
-A	wpaudio/swftools_wpaudio.js	42016e43c96f473bbf22d229cf7fdd1e
-A	wpaudio/swftools_wpaudio.module	5dd31222aee9aa032b572e6e9b7527b3
+M	tiltviewer/swftools-tiltviewer-playlist-element.tpl.php	f9ccf77e9bf3b6fb4e1967b874c4ac20
+M	tiltviewer/swftools_tiltviewer.admin.inc	64de389db939ebb99c25706bcaf22cd9
+M	tiltviewer/swftools_tiltviewer.info	e78784e904247be368fb578603f40cd9
+M	tiltviewer/swftools_tiltviewer.module	b357f79fda1cc29e1e07a378d469a97b
+M	upload/swftools_upload.info	5f4a3606442b192a3f0b885d39bf424b
+M	upload/swftools_upload.module	397b4ef3370551eabb093df0aad85379
+M	views/swftools.views.theme.inc	e574b47ee163918de64fe004b0ac8635
+M	views/views-view-swftools.tpl.php	d03baa0f98f0da442389adb255015c3d
+M	views/views_plugin_style_swftools.inc	55c2be189654948b6c2c44e7d16dde4e
+M	wijering4/swftools-wijering4-playlist-element.tpl.php	73206a270c368bf82da5af020fc586fd
+M	wijering4/swftools-wijering4-playlist-wrapper.tpl.php	f9dbffee29dc6953f318a76a02a6093d
+M	wijering4/swftools_wijering4.admin.inc	aadfc8b36d24e504c35bdac1b1149d6c
+M	wijering4/swftools_wijering4.info	26ee6a5fa09986e1e29774f8bb982ac4
+M	wijering4/swftools_wijering4.js	82c0a62472944a2c1ccb00939bc821f9
+M	wijering4/swftools_wijering4.module	f3ccb31d0af01950285f4098a25dc939
+M	wpaudio/swftools_wpaudio.admin.inc	728d8cf8fc07d2d84a1d805e4b41519f
+M	wpaudio/swftools_wpaudio.info	0d9ce751c6a5863fd4f94a401b69ae61
+M	wpaudio/swftools_wpaudio.js	42016e43c96f473bbf22d229cf7fdd1e
+M	wpaudio/swftools_wpaudio.module	5dd31222aee9aa032b572e6e9b7527b3

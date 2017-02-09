@@ -11,4 +11,12 @@ M	src/Entity/CropType.php	4eca3c0942367aec11938634247a8b3c
 M	src/Form/CropTypeForm.php	d03864ec80b7f7fb8a036ebbc61e12fe
 M	src/Plugin/ImageEffect/CropEffect.php	9f77c9f8aecd836140abb16f3a8024bc
 D	src/Tests/CropCRUDTest.php	
+D	src/Tests/CropEffectTest.php	
+D	src/Tests/CropEntityProvidersTest.php	
+D	src/Tests/CropFunctionalTest.php	
+D	src/Tests/CropUnitTestBase.php	
 A	tests/src/Kernel/CropCRUDTest.php	59c6e0076f2282b9aa73a6494685c99c
+A	tests/src/Kernel/CropEffectTest.php	4ab7e78ec3e3323e23ccd943975759a2
+A	tests/src/Kernel/CropEntityProvidersTest.php	a794f9611b5b07e57c8ec12c1972d495
+A	tests/src/Kernel/CropFunctionalTest.php	e31800bbdb4948fa9c1f1f093b374252
+A	tests/src/Kernel/CropUnitTestBase.php	5731b034a2ee8f0a718de3a46aa83a85

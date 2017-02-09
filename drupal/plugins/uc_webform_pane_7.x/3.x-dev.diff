@@ -1,7 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	9c5b4b6a10922e82196f0846fa50dec6
-A	THEMING.txt	9ab1e23155b6b23847f8cc2f41ecca04
-A	uc_webform_pane.css	72b9adba828f63dd730943568125177a
-A	uc_webform_pane.info	d646fe4a6c413d0c607725c36ef6e410
-A	uc_webform_pane.install	8a66ffbb98b27e3425415f53990138b6
-A	uc_webform_pane.module	336486610a9e1e3234b24087a68b541f
+M	THEMING.txt	9ab1e23155b6b23847f8cc2f41ecca04
+M	uc_webform_pane.info	d646fe4a6c413d0c607725c36ef6e410

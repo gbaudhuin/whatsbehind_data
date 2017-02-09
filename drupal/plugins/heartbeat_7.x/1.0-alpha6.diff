@@ -1,48 +1,30 @@
-M	CHANGELOG.txt	2144016d1778483ec51d821cdaa6ce00
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	1e257457f056d0f78386439b883908ac
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	1e257457f056d0f78386439b883908ac
 A	TODO.txt	6bb28d4dfd209f3780a891e7e7c497f4
-D	css/heartbeat.css	
-D	heartbeat-activity.tpl.php	
+A	changelog.txt	2144016d1778483ec51d821cdaa6ce00
 A	heartbeat-admin.js	438b15a47ad7b84be0b94998f7460936
 A	heartbeat-message-row.tpl.php	c778da5e3a1357ab191bc808540168f6
 A	heartbeat.admin.inc	bb998217a6f55bc4fd4b6b1401a587d9
-D	heartbeat.api.php	
 A	heartbeat.common.inc	02b8826f4c7ce9f2c266b69ef022f2fa
 A	heartbeat.css	83ef8ddb064aeda8b0081738396b5afe
-D	heartbeat.entity.inc	
 A	heartbeat.features.inc	31a7bd23d1475d8a89e3e43942009129
-D	heartbeat.heartbeat.inc	
-M	heartbeat.info	9cd332dbed846b181736a19930bb4ecb
-M	heartbeat.install	ea918f2e1207f7e2af7f3ed7294f420a
+A	heartbeat.info	9cd332dbed846b181736a19930bb4ecb
+A	heartbeat.install	ea918f2e1207f7e2af7f3ed7294f420a
 A	heartbeat.js	be1d818d90dda7c160bd0eb374cd1e66
-M	heartbeat.module	f331cd1cc3e750cb7a108142e8d48006
-M	heartbeat.pages.inc	2dbab2278b53e019cbd7eba234bd6c40
-D	heartbeat.streams.inc	
-D	heartbeat.views.inc	
-D	help/about.html	
-D	help/ctools.html	
-D	help/heartbeat.help.ini	
-D	help/rules.html	
-D	images/ajax-loader.gif	
+A	heartbeat.module	f331cd1cc3e750cb7a108142e8d48006
+A	heartbeat.pages.inc	2dbab2278b53e019cbd7eba234bd6c40
 A	images/blockquote-end.gif	a4a91692b1dbc8590d39957f758e3e29
 A	images/blockquote-start.gif	fcff99434aef8e75267b093731af4b56
-D	images/bullet.png	
 A	images/heartbeat-throbber.gif	8308162eed8e9af997a63f685a258345
 A	includes/heartbeataccess.inc	22a5ff2965054c1feb1357092a9f8320
-M	includes/heartbeatactivity.inc	5378c66728e1b65374a7064b2846de09
+A	includes/heartbeatactivity.inc	5378c66728e1b65374a7064b2846de09
 A	includes/heartbeatmessagebuilder.inc	d574654a0f1aca5bcc62393f909060f7
-M	includes/heartbeatmessagetemplate.inc	8bcffb05445504e7059de0d426763a38
-M	includes/heartbeatparser.inc	b1eccefbd2552160c5c890d40d6c9289
-M	includes/heartbeatstream.inc	83599f8edd8e604b53ad93e23d82f20e
-D	includes/heartbeatstreamconfig.inc	
+A	includes/heartbeatmessagetemplate.inc	8bcffb05445504e7059de0d426763a38
+A	includes/heartbeatparser.inc	b1eccefbd2552160c5c890d40d6c9289
+A	includes/heartbeatstream.inc	83599f8edd8e604b53ad93e23d82f20e
 A	includes/privateheartbeat.inc	51d0b03e41b88a6f506d42ffce4217fe
 A	includes/publicheartbeat.inc	06222a0225aec44d46d38f5aa601bcf2
 A	includes/singleheartbeat.inc	b9fb7da02616b38576c85928ee285e0f
-D	js/autoresize.jquery.js	
-D	js/heartbeat.js	
-D	layouts/heartbeat_2col/heartbeat-2col.tpl.php	
-D	layouts/heartbeat_2col/heartbeat_2col.css	
 A	modules/flag_heartbeat/class.flag_heartbeat_message.inc	ef605269c31f0603129811617edd96e2
 A	modules/flag_heartbeat/flag_heartbeat.info	c69671df39d6e9635a7177bd98b0e87c
 A	modules/flag_heartbeat/flag_heartbeat.module	160b616b2e978babbd3207cd34f77f04
@@ -58,55 +40,17 @@ A	modules/hds/hds.info	b0ab3c0485525d5b98961fac026771f0
 A	modules/hds/hds.module	337d39e14aca91335365c1c4d51f5c2c
 A	modules/hds/hds.tpl.php	ba91a6fd1d8d38682a244b98f2873ed0
 A	modules/hds/hds_regions.css	a0e7155291aa4726ae0211bf736028a6
-M	modules/heartbeat_comments/heartbeat_comments.admin.inc	d23f6f0a0eef4a8c9ce77c4ea762517a
-M	modules/heartbeat_comments/heartbeat_comments.info	3d3b7ced0d33ee5b0d7b774a4cf4f7e3
-M	modules/heartbeat_comments/heartbeat_comments.install	0841dc0a866c79b2fd00f00a725b929a
-M	modules/heartbeat_comments/heartbeat_comments.js	ee64c4cad9254f14c16ffefdf2845f3c
-M	modules/heartbeat_comments/heartbeat_comments.module	041ad52f0dd8c00a6f2396b3fa3337a6
-M	modules/heartbeat_comments/heartbeat_comments.rules.inc	a16a67186f8d12e5dfd21e7e02de54ed
-D	modules/heartbeat_comments/plugins/activitycomments.inc	
-D	modules/heartbeat_defaults/heartbeat_defaults.ds.inc	
-D	modules/heartbeat_defaults/heartbeat_defaults.heartbeat.inc	
-D	modules/heartbeat_defaults/heartbeat_defaults.info	
-D	modules/heartbeat_defaults/heartbeat_defaults.module	
-D	modules/heartbeat_defaults/heartbeat_defaults.views_default.inc	
-D	modules/heartbeat_defaults/streams/nodeactivity.inc	
-D	modules/heartbeat_defaults/streams/relationsactivity.inc	
-D	modules/heartbeat_defaults/streams/siteactivity.inc	
-D	modules/heartbeat_defaults/streams/useractivity.inc	
+A	modules/heartbeat_comments/heartbeat_comments.admin.inc	d23f6f0a0eef4a8c9ce77c4ea762517a
+A	modules/heartbeat_comments/heartbeat_comments.info	3d3b7ced0d33ee5b0d7b774a4cf4f7e3
+A	modules/heartbeat_comments/heartbeat_comments.install	0841dc0a866c79b2fd00f00a725b929a
+A	modules/heartbeat_comments/heartbeat_comments.js	ee64c4cad9254f14c16ffefdf2845f3c
+A	modules/heartbeat_comments/heartbeat_comments.module	041ad52f0dd8c00a6f2396b3fa3337a6
+A	modules/heartbeat_comments/heartbeat_comments.rules.inc	a16a67186f8d12e5dfd21e7e02de54ed
 A	modules/heartbeat_example/custom.heartbeat_filters.inc	5ce27b8e7c0d5e3d7b017f0dc2f7c6b6
-M	modules/heartbeat_example/heartbeat_example.info	b2603a0ad08272ad4761bcad37e3b382
-M	modules/heartbeat_example/heartbeat_example.module	6990177c88e0e8d4f8faaec6e9d84191
+A	modules/heartbeat_example/heartbeat_example.info	b2603a0ad08272ad4761bcad37e3b382
+A	modules/heartbeat_example/heartbeat_example.module	6990177c88e0e8d4f8faaec6e9d84191
 A	modules/heartbeat_example/heartbeat_example.rules_defaults.inc	fda8d5a68f90c8475a8021e54b5b295f
 A	modules/heartbeat_example/siteactivity.inc	fdd736c31a1f793a8391fe597e2591c9
-D	modules/heartbeat_nodejs/heartbeat_nodejs.info	
-D	modules/heartbeat_nodejs/heartbeat_nodejs.js	
-D	modules/heartbeat_nodejs/heartbeat_nodejs.module	
-D	modules/heartbeat_og/heartbeat_og.ds.inc	
-D	modules/heartbeat_og/heartbeat_og.heartbeat.inc	
-D	modules/heartbeat_og/heartbeat_og.info	
-D	modules/heartbeat_og/heartbeat_og.module	
-D	modules/heartbeat_og/heartbeat_og.rules.inc	
-D	modules/heartbeat_og/plugins/og.inc	
-D	modules/heartbeat_og/streams/groupactivity.inc	
-D	modules/heartbeat_og/streams/groupsactivity.inc	
-D	modules/heartbeat_og/streams/membersactivity.inc	
-D	modules/heartbeat_plugins/heartbeat_plugins.api.php	
-D	modules/heartbeat_plugins/heartbeat_plugins.info	
-D	modules/heartbeat_plugins/heartbeat_plugins.install	
-D	modules/heartbeat_plugins/heartbeat_plugins.module	
-D	modules/heartbeat_plugins/includes/heartbeat_plugin.inc	
-D	modules/heartbeat_plugins/includes/heartbeatflagplugin.inc	
-D	modules/heartbeat_plugins/plugins/activitystatus.inc	
-D	modules/heartbeat_plugins/plugins/export_ui/ctools_export_ui_heartbeat_plugin.class.php	
-D	modules/heartbeat_plugins/plugins/export_ui/heartbeat_plugins.inc	
-D	modules/heartbeat_plugins/plugins/flagattachment.inc	
-D	modules/heartbeat_plugins/plugins/shoutbox.inc	
-D	modules/heartbeat_rules/heartbeat_rules.inc	
-D	modules/heartbeat_rules/heartbeat_rules.info	
-D	modules/heartbeat_rules/heartbeat_rules.module	
-D	modules/heartbeat_rules/heartbeat_rules.rules.inc	
-D	modules/heartbeat_rules/heartbeat_rules.rules_defaults.inc	
 A	modules/heartbeat_rules/hrules.info	80c2899899dbebb7b5b8ae2a2e627355
 A	modules/heartbeat_rules/hrules.js	f16ed70962b77da9eae57bffffb1e1c7
 A	modules/heartbeat_rules/hrules.module	7e9943e58afdbc5c3e9db767bf4bb951
@@ -115,14 +59,6 @@ A	modules/heartbeat_rules/hrules.rules_defaults.inc	ff093167ae8a5d46897c942be62d
 A	modules/heartbeat_rules/tests/heartbeat.rules.test	7ac1ed0f8689487f331c934b20b0fdd9
 A	modules/heartbeat_test/heartbeat_test.info	68f1b36fed2231169ebbaeae1e6b83d3
 A	modules/heartbeat_test/heartbeat_test.module	896ac5a8316b98fbb1cb54450e6d0cc6
-D	modules/heartbeat_ui/heartbeat_ui.admin.inc	
-D	modules/heartbeat_ui/heartbeat_ui.css	
-D	modules/heartbeat_ui/heartbeat_ui.info	
-D	modules/heartbeat_ui/heartbeat_ui.module	
-D	modules/heartbeat_ui/plugins/export_ui/ctools_export_ui_heartbeat_stream.class.php	
-D	modules/heartbeat_ui/plugins/export_ui/ctools_export_ui_heartbeat_template.class.php	
-D	modules/heartbeat_ui/plugins/export_ui/heartbeat_streams.export_ui.inc	
-D	modules/heartbeat_ui/plugins/export_ui/heartbeat_templates.export_ui.inc	
 A	modules/og_activity/groupsactivity.inc	d7f59ad1e59f44a2300de671e75749b0
 A	modules/og_activity/membersactivity.inc	af87883013359c3da25f6f5c6335ea20
 A	modules/og_activity/og_activity.info	cad237cc565ab241881a7abec6017cf0
@@ -140,17 +76,14 @@ A	modules/shouts/shouts.rules_defaults.inc	5b8505ccf3f02c5b19533dcf256b481a
 A	streams/heartbeataccess.inc	f1d2a30608d4ea1f7a5526c402f7c87e
 A	streams/privateheartbeat.inc	bcee649664590e790ff8184c434e9f92
 A	streams/publicheartbeat.inc	b9f9940f1839e7ead2be88cfc3f1235b
-D	streams/singleactivity.inc	
 A	streams/singleheartbeat.inc	0210ca9e915bd7cef15c40fb15d9c964
-D	streams/viewsactivity.inc	
 A	tests/heartbeat.admintools.test	e3caacc35fca2f0852aa9b27a4e8ddcc
-M	tests/heartbeat.api.test	0bef5384a46bfbb299bed5a2f2f331c5
+A	tests/heartbeat.api.test	0bef5384a46bfbb299bed5a2f2f331c5
 A	tests/heartbeat.functional.test	184d9d85f11ba29f6ab6b33426af6217
 A	tests/heartbeattest.info	195cc1640412139499ca5212c4355d58
 A	tests/heartbeattest.module	4a4cb514372933c7c6811ab36f081ad6
 A	translations/heartbeat.pot	906e9e0211c05732051ea630680f6eb8
 A	translations/nl.po	ae0c921b006d8ad104213899936aaac6
-D	views-view-row-heartbeat.tpl.php	
 A	views/handlers/views_handler_filter_heartbeat_access.inc	2cdfcaf815ddd9a955468bbe592ca76b
 A	views/handlers/views_handler_filter_heartbeat_language.inc	2f525ee2de27cbac053ea2596b5a2a7c
 A	views/handlers/views_handler_filter_heartbeat_perms.inc	1f63e8d0d30a4d57d458e7fa075acd19
@@ -159,10 +92,4 @@ A	views/heartbeat_views.info	e98a00ad61717267fdd359acc945ef8f
 A	views/heartbeat_views.module	a30ef9209dae76b52ec1f232d00ade95
 A	views/heartbeat_views.views.inc	2911d92ebf0ef3dded6d5d9058866142
 A	views/heartbeat_views.views_default.inc	ed4d17c1fa73bb29408588b277cfd1dd
-D	views/views_handler_field_heartbeat_attachments.inc	
-D	views/views_handler_field_heartbeat_buttons.inc	
-D	views/views_handler_field_heartbeat_message.inc	
-D	views/views_handler_field_heartbeat_message_id.inc	
-D	views/views_handler_filter_heartbeat_message_id.inc	
-M	views/views_plugin_row_heartbeat_rss.inc	3e2e746f21676f1cf8d5ece5a9d41fb9
-D	views/views_plugin_row_heartbeat_view.inc	
+A	views/views_plugin_row_heartbeat_rss.inc	3e2e746f21676f1cf8d5ece5a9d41fb9

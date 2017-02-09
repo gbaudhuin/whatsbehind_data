@@ -1,13 +1,3 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.org	d8bdae0cd71a46aa206326c8ea379840
-A	README.txt	fa70c9f8dfe453e045e482e59b6a8777
-A	oauth2_client.api.php	53e6c61c1cf1474c46cb87c53c1292ba
-A	oauth2_client.inc	5c58edef2fa4b5a9058bc47be79fce52
-A	oauth2_client.info	badb12834c06926e478e0bc1e86e2ce5
-A	oauth2_client.install	fae69e34c37588a0812820e9e216224d
-A	oauth2_client.module	ca3d429c2a47498c6630eca3cdf78848
-A	tests/oauth2_client.test	2e4a2bc4d91f87fb34f2a09394ab03b1
-A	tests/oauth2_client_test.info	b2cc160221a3433a66d9d485e4bf3e2c
-A	tests/oauth2_client_test.install	314a588c9138fc8093fc553d1734b19e
-A	tests/oauth2_client_test.module	6dc96228fb67436f8de446246a6c2c72
-A	tests/run_tests.sh	0391e11bb4117022ce9415f5b49776ba
+M	oauth2_client.inc	5c58edef2fa4b5a9058bc47be79fce52
+M	oauth2_client.info	badb12834c06926e478e0bc1e86e2ce5
+M	tests/oauth2_client_test.info	b2cc160221a3433a66d9d485e4bf3e2c

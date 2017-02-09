@@ -1,9 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	15cf94f39c199cce18027a5f7f67178e
-A	crop.png	eef7bbdc976fde9eb932816d0877ac89
-A	imce_crop.css	b2c4c625ee3a2e18bd4922768939f54f
-A	imce_crop.inc	31b38f4c1f4da6b714ec1b7d6bb00de7
-A	imce_crop.info	2b23ff07bb8452e8ba25c567d1569054
-A	imce_crop.install	ecac83671465e89a77713101bf150004
-A	imce_crop.js	ac48d022bd63117f1628c740e725a7f1
-A	imce_crop.module	46fe36796acfb246b294b71b9656112e
+M	imce_crop.info	2b23ff07bb8452e8ba25c567d1569054
+M	imce_crop.js	ac48d022bd63117f1628c740e725a7f1

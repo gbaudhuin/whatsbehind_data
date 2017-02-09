@@ -1,77 +1,22 @@
-A	.gitignore	4e19fa0dce116199b83ed4651bfbd6ba
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-M	MAINTAINER.txt	800a67b1f6890170ddfe40f9f6b4f9fd
-A	actions/README.txt	c58e2bdedd0fe30c020f198741132b5a
-A	actions/ad_actions.info	1b38910b6ca457e15f923c5ea59fda3e
-A	actions/ad_actions.install	2b0080c185c3bb38ea08e548012dd822
-A	actions/ad_actions.module	c2732444f2595eb0ff276596b7c5dad2
-M	ad.admin.inc	72455892517ba69321a278193a8458d7
+M	actions/ad_actions.info	1b38910b6ca457e15f923c5ea59fda3e
 M	ad.info	bd5d7149d2dbc847cad3a88ba267721d
-M	ad.install	d37a1a5d952dca4c549d1dbb418268d5
 M	ad.module	9fada9462d8ae5428822ec3954cbfe37
-M	ad.pages.inc	495eeb3e316d5876a20f31327c4d100f
-A	ad_token.inc	708113bc5be2a8d1405bc711e2b83819
-A	adcache.inc	82f85c406cb5b668ca7c0e48dd8462c5
 M	adserve.inc	00b3221be38e3ffc6a75c4fca5750c6b
-A	cache/README.txt	414441929114b3bdf51371ac1f8928f6
-M	cache/file/ad_cache_file.inc	d6df8bdb8e591fd79b24f32bcc90d3a6
 M	cache/file/ad_cache_file.info	02d4e65a25d2023a832eb283e4a2c433
-A	cache/file/ad_cache_file.install	500379235fc87d442c86b8cf73d15c9c
-M	cache/file/ad_cache_file.module	f0ee083f5a3cd8ede8bcf0e0e9e2e7e5
-D	cache/memcache/ad_cache_memcache.inc	
-D	cache/memcache/ad_cache_memcache.info	
-D	cache/memcache/ad_cache_memcache.module	
-A	channel/ad_channel.css	703d34a71df62a0dc42d400284c4b540
-A	channel/ad_channel.inc	2dc5008357d67bcac49024e089c8bc59
-A	channel/ad_channel.info	d4605d6a72df224b69fdbd2a55b60981
-A	channel/ad_channel.install	5a10b16057a34f63dcab86674cc60fa7
-A	channel/ad_channel.module	be6e9a95eac81232069207691798cb53
-M	documentation/CHANGELOG.txt	5ae94fbfd0cc20abe0555d6f02b448d4
-M	documentation/CONTRIBUTE.txt	0811e7f74699cc0fa68b8f494bc89f60
-M	documentation/DEBUG.txt	74e1c0dab1ef6a23f36466949fab6c17
-M	documentation/INSTALL.txt	b8050bc3e6fe51b1da034eb9b41171c9
-M	documentation/README.txt	e1e03a5cffd262e8f125284b423a9261
+M	channel/ad_channel.info	d4605d6a72df224b69fdbd2a55b60981
 M	embed/ad_embed.info	6e33db6df4d863776c78b628386f60a9
-M	embed/ad_embed.module	0b694d423cbc344f0d7973dae5f9080f
 M	external/ad_external.info	bde8ee0e5df3d185e0eeec363db9d219
-M	external/ad_external.install	cce7a4b8d70d96afed07eddbf3769a70
 M	external/ad_external.module	2d10ffe81f089a3da89a768e82e75f3f
-M	external/external.inc	41bb1518d067a6539a075d4fa029858c
 M	html/ad_html.info	71b358788db3d4928f922935ffcc3cd5
-M	html/ad_html.install	3eafca3a68e2fc4f53cf6181dd9037fb
-M	html/ad_html.module	17c856f3a3fd0ffb84af52df62fbfd25
 M	image/ad_image.info	c3838103b49d6b87a3c8a4a49c25a621
-M	image/ad_image.install	3a1d194a01c9ce7871965dfc22fd73ec
 M	image/ad_image.module	fcaeae3e2274931037e004473010fdb9
-M	imageserve.inc	84d68110108913d52e68f036a58a0292
-D	notify/ad_notify.info	
-D	notify/ad_notify.install	
-D	notify/ad_notify.module	
 M	owners/ad_owners.info	5414ea736815238dc93c1f5649ad6554
-M	owners/ad_owners.install	000f51020442a695fe71f5523eb2d271
-M	owners/ad_owners.module	717382050f311f078a340c8d5777a3ec
 M	remote/ad_remote.info	d159968cb5bbe144326543f3ba51eefa
-M	remote/ad_remote.module	2eedf4ccd24f82b15bcb455fc24eef43
-A	report/INSTALL.txt	c87cd6d22683674dec38e50178608e75
 M	report/ad_report.info	cb7772294522e3a198a6c4e727f9d8a2
-A	report/ad_report.install	af127c797700c5b794a89e99011b3e11
-M	report/ad_report.module	785df670842ad06ed407e9b16832bb4e
-M	serve.php	125d81380b095300215a3b8b95526223
 M	statistics/click_filter/click_filter.info	e9ac2e1ae90c0391f6c8952301221bab
-M	statistics/click_filter/click_filter.install	67bc0bd14cbf8fcbc4ca6242d49c4e4c
-M	statistics/click_filter/click_filter.module	684444b87b4df6567f8a9faa932b580a
 M	text/ad_text.info	347277af73cc898af4f68af0a0d76e6e
-M	text/ad_text.install	0f4162e3aaa4502c3a477b720f91da13
-M	text/ad_text.module	76a6273fa5d0e8ca518145dadd550aaf
-D	translations/ad.pot	
 A	views/ad.views.inc	93533ea649acc7793d968929836ce2e3
 A	views/handlers/views_handler_field_ad_statistics_date.inc	943b1bb8f00c516a1591f5fbee9ac79c
 A	views/handlers/views_handler_filter_ad_statistics_action.inc	cbb1239243b3ddcb1e7081fdd783a8ff
 A	views/handlers/views_handler_filter_ad_statistics_date.inc	6f560292cf289396e0f33ee809278994
-M	weight/percent/ad_weight_percent.inc	58bd1a76fdeaf2a5b0540b903edebede
-M	weight/percent/ad_weight_percent.install	54efbffe12ae15f85016335796be469a
-M	weight/percent/ad_weight_percent.module	850839e58d1518b5f92dbd3e0182adb2
-A	weight/probability/ad_weight_probability.inc	2dbfb63360db0f2fe6175da0a6360b61
-A	weight/probability/ad_weight_probability.info	ad3eeac0d3dcb49730078e72ba600e86
-A	weight/probability/ad_weight_probability.install	87a29fe25cb6e3e0d4d4eac81aec812d
-A	weight/probability/ad_weight_probability.module	e02c7d8edadcf454d6375f10cd5f1c5f
+M	weight/probability/ad_weight_probability.info	ad3eeac0d3dcb49730078e72ba600e86

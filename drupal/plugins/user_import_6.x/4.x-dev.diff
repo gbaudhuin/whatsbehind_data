@@ -1,13 +1,1 @@
-D	.DS_Store	
-M	README.txt	c81f8e7a6a6787501b1c0af3b8144f3d
-M	sample.txt	ee76b58d49bc683ef64041582469e133
-M	supported/content_profile.inc	e9116d65a4e04f6a7d35192f5914ecfa
-M	supported/profile.inc	7d8c052f738b564166d7703e2f46f58c
-M	supported/user.inc	be71b764fc8a26deb38e139f997a9b33
-M	supported/user_import.inc	3d9bce9f214930ae8fe4728fbcc2b0e8
-M	user_import.admin.inc	378b92dfc63d128c4fd7479fa42db11c
-M	user_import.import.inc	73f75dc30385ba16ec515903c32e305a
 M	user_import.info	8eca76a2140c3213b7f39478bed06542
-M	user_import.install	a1a251675641b6f5cac4e47800bce8da
-M	user_import.module	6439385a928aa05d0cb1b1c8e76b2bd9
-M	user_import.test	2f8f164ab9664d6751dee047524e4b06

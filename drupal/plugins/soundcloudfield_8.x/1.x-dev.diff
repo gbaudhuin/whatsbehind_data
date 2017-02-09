@@ -1,8 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	config/schema/soundcloudfield.schema.yml	dfb7cea69b9599488da22a14afd2cdaf
-A	soundcloudfield.info.yml	8c58a5ab23914852c85b966a0feda218
-A	soundcloudfield.module	6c75b729cb459ae34db87a6b132f5ddc
-A	src/Plugin/Field/FieldFormatter/SoundCloudDefaultFormatter.php	de31821197c9b849f8b2464e91529dd1
-A	src/Plugin/Field/FieldFormatter/SoundCloudLinkFormatter.php	23451e7e03880e46ac97d21956002005
-A	src/Plugin/Field/FieldType/SoundCloudItem.php	04d3f1c69850a548eda7164ef45a6c1d
-A	src/Plugin/Field/FieldWidget/SoundCloudWidget.php	96eb22513fc62a0e2788d7bfd4404a15
+M	soundcloudfield.info.yml	8c58a5ab23914852c85b966a0feda218

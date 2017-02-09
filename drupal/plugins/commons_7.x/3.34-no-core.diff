@@ -3,6 +3,7 @@ A	.drupal-ti/runners/commons-behat/before_script.sh	ce74be361502d5ff87025a2c1f3e
 A	.drupal-ti/runners/commons-behat/install.sh	5f04fca8dafea4b28327d3f2088d6665
 A	.drupal-ti/runners/commons-behat/script.sh	81b53e95229a171491b5b79e102385f4
 M	.travis.yml	f9ae262035806087fc6db472543c88e6
+D	LICENSE.txt	
 A	behat.travis.yml.dist	d405fe90c51d2327138e8693834d7e51
 M	commons.info	a723b7f343ffb5f8ec9673493322009c
 M	drupal-org-core.make	0abdfe0b82d824372ed817557cb7e5ba
@@ -775,6 +776,7 @@ M	modules/commons/commons_utility_links/commons_utility_links.info	7cb6319cc049a
 M	modules/commons/commons_wikis/commons_wikis.info	faf2a0f769b1c6da6c2cb54fc0697a5d
 M	modules/commons/commons_wikis/modules/commons_wikis_pages/commons_wikis_pages.info	db3f9f512576711b5ea6d4624f7e937a
 M	modules/commons/commons_wysiwyg/commons_wysiwyg.info	9ad5901916224898bc9b687fc2c8e30a
+A	modules/contrib/acquia_connector/LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	modules/contrib/acquia_connector/README.txt	f8fc378ae8e4f948bf16e542f813176c
 A	modules/contrib/acquia_connector/acquia_agent/acquia.ico	9b6e6eb1392cb22c5cae359fd68c6dd5
 A	modules/contrib/acquia_connector/acquia_agent/acquia_agent.info	b4609d8987a8a88ec0d47b965fc97ebf
@@ -5556,14 +5558,28 @@ A	modules/contrib/votingapi/votingapi.drush.inc	09fb7967cb654427de5142ab4397367e
 A	modules/contrib/votingapi/votingapi.info	11b88ceb971175b84cc827c081c4d279
 A	modules/contrib/votingapi/votingapi.install	4ca41c3c94cc1441d1b3b023188e3e00
 A	modules/contrib/votingapi/votingapi.module	10af52a06fd7a284538e3cea2d01b720
+A	tests/behat.common.yml	33d85d8c05992d9fc4e51ce06dc6f244
 A	tests/behat.template.yml	48f977c7694fbcfc9fa21b20fe9aa1c6
 D	tests/behat/.gitignore	
 D	tests/behat/README.txt	
 D	tests/behat/behat.template.yml	
+D	tests/behat/behat.travis.yml	
 D	tests/behat/composer.json	
+D	tests/behat/features/blocks.feature	
 D	tests/behat/features/bootstrap/FeatureContext.php	
+D	tests/behat/features/content_types.feature	
+D	tests/behat/features/features.feature	
+D	tests/behat/features/general.feature	
+D	tests/behat/features/login.feature	
+D	tests/behat/features/trusted_contacts.feature	
 A	tests/composer.json	e612382207b878a1401ba271913a0fb6
+A	tests/features/blocks.feature	b377854521533525aa2e39c34f066105
 A	tests/features/bootstrap/FeatureContext.php	99c6c0414dec2d23b8b2f79851080e31
+A	tests/features/content_types.feature	68deedd1ad80fd081aa691608a9cbfcd
+A	tests/features/features.feature	540fae0937d58bb97d09e83e664212f4
+A	tests/features/general.feature	16c2eb0ef3c0e90dc373a93bcba3e9b5
+A	tests/features/login.feature	8d2d7b5dab1417d876854fb3081f697e
+A	tests/features/trusted_contacts.feature	7f6020b7002bc9b7e13118ec285acbd0
 A	tests/steps/commons_test.behat.inc	96badc36b872cdf6ad4677af4005fc90
 M	themes/commons/commons_origins/commons_origins.info	297906c64e1d8d8b1c1fbe0c92f3dcec
 A	themes/contrib/adaptivetheme/GETTING_STARTED.txt	f2cf334f6c18b7de457b59cd6c80bb4f

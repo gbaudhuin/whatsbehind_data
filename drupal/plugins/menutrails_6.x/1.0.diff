@@ -1,6 +1,4 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.TXT	5c09d928735a0facdba6387e4504bc33
-M	menutrails.info	6a5e95605cd222b63b735e398799b3bb
-D	menutrails.install	
-M	menutrails.module	9e2881f73a800730e68fd606f32d2d95
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.TXT	5c09d928735a0facdba6387e4504bc33
+A	menutrails.info	6a5e95605cd222b63b735e398799b3bb
+A	menutrails.module	9e2881f73a800730e68fd606f32d2d95

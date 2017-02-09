@@ -1,38 +1,11 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
-M	css/linkit.css	18c877706e5519e9d4d7262b3c3c9c8a
-D	editors/bueditor/editor_plugin.js	
-D	editors/bueditor/linkit.js	
-D	editors/ckeditor/linkitDialog.js	
-D	editors/ckeditor/plugin.js	
-D	editors/fckeditor/README.txt	
-D	editors/fckeditor/linkit/fckplugin.js	
-D	editors/fckeditor/linkit/linkit.png	
-D	editors/fckeditor/linkit/linkitDialog.js	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	css/linkit.css	18c877706e5519e9d4d7262b3c3c9c8a
 A	editors/linkit.inc	b3e9b416adcb76a07866e53c8b5666b1
+A	editors/linkit_tinymce/images/linkit.png	699178e2dd296763899022ff2b52158d
 A	editors/linkit_tinymce/langs/en.js	417da239d93d40fa0bdbd6dca4870121
 A	editors/linkit_tinymce/linkit_tinymce.css	332aedc85919187c4cf0148ed5c334b5
 A	editors/linkit_tinymce/linkit_tinymce.js	1d493408d867fd4894aed050a49aea14
 A	editors/linkit_tinymce/linkit_tinymce_dialog.js	cf321f63d2c5dbbc5c555a323e623b12
-D	editors/tinymce/editor_plugin.js	
-D	editors/tinymce/images/linkit.png	
-D	editors/tinymce/linkit.js	
-M	linkit-dashboard.tpl.php	c130da135f32d1f1238bc7782c572204
-D	linkit.admin.inc	
-M	linkit.info	62f81e4507931fdec95e5a7c20a87c02
-D	linkit.install	
-D	linkit.js	
-M	linkit.module	c0366743c00b31d769f95214fe88588c
-D	plugins/linkit_file/linkit_file.info	
-D	plugins/linkit_file/linkit_file.module	
-D	plugins/linkit_node/linkit_node.info	
-D	plugins/linkit_node/linkit_node.module	
-D	plugins/linkit_permissions/linkit_permissions.info	
-D	plugins/linkit_permissions/linkit_permissions.module	
-D	plugins/linkit_taxonomy/linkit_taxonomy.info	
-D	plugins/linkit_taxonomy/linkit_taxonomy.module	
-D	plugins/linkit_user/linkit_user.info	
-D	plugins/linkit_user/linkit_user.module	
-D	plugins/linkit_views/linkit_views.info	
-D	plugins/linkit_views/linkit_views.module	
+A	linkit-dashboard.tpl.php	c130da135f32d1f1238bc7782c572204
+A	linkit.info	62f81e4507931fdec95e5a7c20a87c02
+A	linkit.module	c0366743c00b31d769f95214fe88588c

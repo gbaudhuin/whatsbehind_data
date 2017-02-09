@@ -1,4 +1,5 @@
 M	.travis.yml	ce22c4908fc278ec56828e9b456b1958
+D	LICENSE.txt	
 A	README.md	79d35ce141528c00a98a7513d451380b
 M	commons.info	eb07598f16d1d2b4d2b15090fa071eba
 M	drupal-org.make	9e2f3eea87bd86b7b5657974bebb21e4
@@ -770,6 +771,7 @@ M	modules/commons/commons_utility_links/commons_utility_links.info	46846b25394c9
 M	modules/commons/commons_wikis/commons_wikis.info	565f0531b5da8282117dc3d2b296eb5e
 M	modules/commons/commons_wikis/modules/commons_wikis_pages/commons_wikis_pages.info	3a10726e88b5543da7513aa62d73651b
 M	modules/commons/commons_wysiwyg/commons_wysiwyg.info	da9b452fd2b895cd12aea91c4df5d046
+A	modules/contrib/acquia_connector/LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	modules/contrib/acquia_connector/README.txt	f8fc378ae8e4f948bf16e542f813176c
 A	modules/contrib/acquia_connector/acquia_agent/acquia.ico	9b6e6eb1392cb22c5cae359fd68c6dd5
 A	modules/contrib/acquia_connector/acquia_agent/acquia_agent.info	b4609d8987a8a88ec0d47b965fc97ebf

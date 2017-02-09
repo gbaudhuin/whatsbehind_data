@@ -1,55 +1,30 @@
-A	.travis-phpcs.sh	84062e00ee35587e6b58ab53e0544c22
-A	.travis.yml	928af72fb6221844e41773d41cf8ff0e
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.md	1f6206ab66c083b2d737016e820c9eef
-A	composer.json	54834e98f878492e9ba72a3d69f027c8
-A	config/install/system.action.profile_delete_action.yml	47f56e8273339c47f4b34fdcc65ea5ce
-A	config/install/system.action.profile_publish_action.yml	50f74fc8562241b49fc7f2d114d2dfe5
-A	config/install/system.action.profile_unpublish_action.yml	f8eb0aac7fcf458f5183bab48545caf7
-A	config/install/views.view.profiles.yml	f7aede2138b7a9b45b72242b302882ce
-A	config/schema/profile.schema.yml	ea66fb758a38b967a9312beb95c01bcb
-A	css/profile.base.css	69cc344b82c3f72b457c261c6cab03b8
-A	profile.api.php	3d24f9d7a01dbcedcc113cbfa2fa9df6
-A	profile.info.yml	dfd143b75d2ad37ee3e52fd7c31f9a61
-A	profile.libraries.yml	096b244ffa1b3446605405bfcdd4d42c
-A	profile.links.action.yml	e3f49c7a33fce5d9d956400e51b2e36f
-A	profile.links.menu.yml	dbd43ca51b3bdd90b84a963ae9f07677
-A	profile.links.task.yml	81e617ec99b9c9709dcc4daf3a5c97ce
-A	profile.module	f98253089987911be81b6b81fb704161
-A	profile.permissions.yml	30b073ca6f002a720bc400a5050e7010
-A	profile.routing.yml	7f7e1d3a24aa42ba0f96977d1cfa5596
-A	profile.services.yml	822522d0716ce69fe7a94bce64c08307
-A	src/Access/ProfileAccessCheck.php	71d0d2792fe1f801ada3039163d74767
-A	src/Controller/ProfileController.php	726f549bc9150ef8c707684c8d4119d8
-A	src/Controller/ProfileViewController.php	5b7124977085a681c3044adb417ec389
-A	src/Entity/Profile.php	0a6a3afc2bb18ca4e2869a027f1b4176
-A	src/Entity/ProfileInterface.php	57abbec48d27009e9da9b5215cacff01
-A	src/Entity/ProfileType.php	5b8debfaf7f7ac6e9ae8f256787d28b8
-A	src/Entity/ProfileTypeInterface.php	4e38210cd704f1d3768e49f3c0b53d9d
-A	src/Form/DeleteMultiple.php	424011949459590e96b6be8885e2d29e
-A	src/Form/ProfileDeleteForm.php	b0dae72c56c6e45e685c32a2e38b8766
-A	src/Form/ProfileForm.php	cefc0e2bca04cac986aa4706bacf450b
-A	src/Form/ProfileTypeDeleteForm.php	368e4ba55f319463e33628b7b84f98a1
-A	src/Form/ProfileTypeForm.php	0d96d729c05bf92779060ddc750b466f
-A	src/Plugin/Action/DeleteProfile.php	0e6e156a120da2e663d4ef8b533fe601
-A	src/Plugin/Action/PublishProfile.php	5321dc2a5935520df5e6151af50ff949
-A	src/Plugin/Action/UnpublishProfile.php	363c28be7777466d16520bd45aaaf91b
-A	src/Plugin/Derivative/ProfileLocalTask.php	94de497baffde4c082961941e01c8efe
-A	src/Plugin/EntityReferenceSelection/ProfileSelection.php	e8387e594503498a2406e40c97e62639
-A	src/Plugin/views/field/ProfileBulkForm.php	679bc95bad34f4ba3259b98887703b15
-A	src/ProfileAccessControlHandler.php	a8db2748de8a94fb8991e39a7d657e56
-A	src/ProfileHtmlRouteProvider.php	a1bf5be32522ca0641705cf2c5682bb0
-A	src/ProfileListBuilder.php	e727527a8bbb8c1d9db73a7dc106dcec
-A	src/ProfilePermissions.php	2cd6f6113cb7379608c11faf95866010
-A	src/ProfileStorage.php	e73d1130e7f425216fef9a10a36d3400
-A	src/ProfileStorageInterface.php	1692533af336a94ca17ff8fa56fc3cee
+M	profile.api.php	fcb05e4a2ea2e9c3993123c4a29d93fa
+M	profile.info.yml	bc9f54421ab033a4a03586dbd850b0ad
+M	profile.module	5d74c523c5149f75b9ce7d4d175deffc
+M	src/Access/ProfileAccessCheck.php	71d0d2792fe1f801ada3039163d74767
+M	src/Entity/Profile.php	1617d855440ddd98146df94597f17bba
+M	src/Entity/ProfileInterface.php	6b8a2b8123d435b7114ae544f9c71b05
+A	src/Event/ProfileEvents.php	e57881a05e871ef2c7c340d8ca84679c
+A	src/Event/ProfileLabelEvent.php	2957d91379fb64f4bb8e87de371dabe6
+M	src/Form/DeleteMultiple.php	424011949459590e96b6be8885e2d29e
+M	src/Form/ProfileDeleteForm.php	4e6211c2e8925aba87c30d3444cf83f2
+M	src/Form/ProfileForm.php	f9b2841db556412d40d497cae3958690
+M	src/ProfileAccessControlHandler.php	a8db2748de8a94fb8991e39a7d657e56
+M	src/ProfileListBuilder.php	0bdee3fee758a156e345eeec0becd266
+M	src/ProfileStorage.php	ade5455b85afdefbe642971208a0dc2a
 A	src/ProfileTestTrait.php	d82a54371f6d207941bf212f3acba169
-A	src/ProfileTypeListBuilder.php	8ff89e42484a21088c345d9e2b627c24
-A	src/ProfileViewBuilder.php	5acf0c4a89321f154ca13857da6c24aa
-A	src/ProfileViewsData.php	2e6248e1c59eedc27331f6caa5e598bc
-A	templates/profile.html.twig	878dca4cd96f2bc485a496ab23bb0579
-A	tests/profile_test/profile_test.info.yml	08e8d6a01e6e78a108f30ffe70d818fd
-A	tests/profile_test/test_views/views.view.users.yml	903f9229cb4db1ca164a68d31736dcc2
+D	src/Tests/ProfileAccessTest.php	
+D	src/Tests/ProfileAttachTest.php	
+D	src/Tests/ProfileCRUDTest.php	
+D	src/Tests/ProfileDefaultTest.php	
+D	src/Tests/ProfileFieldAccessTest.php	
+D	src/Tests/ProfileRoleAccessTest.php	
+D	src/Tests/ProfileTabTest.php	
+D	src/Tests/ProfileTestBase.php	
+D	src/Tests/ProfileTestTrait.php	
+D	src/Tests/ProfileTypeCRUDTest.php	
+D	src/Tests/ProfileTypeMultipleTest.php	
+M	tests/profile_test/profile_test.info.yml	7d9a7882a476af0e31e91591361378b5
 A	tests/src/Functional/ProfileDefaultTest.php	e01a74a4d34ff81414b983523eb571bc
 A	tests/src/Functional/ProfileFieldAccessTest.php	8ae4332bd701fd465f02dc126c1462e0
 A	tests/src/Functional/ProfileHelpTest.php	b734cabe0ccfaf292f2f2aa9e3bb1bc7
@@ -57,8 +32,7 @@ A	tests/src/Functional/ProfileRegisterFormTest.php	9b967812e0ff5b3f79597bf8d5c5c
 A	tests/src/Functional/ProfileTabTest.php	f392bc180f5330c1566254286fa742ab
 A	tests/src/Functional/ProfileTestBase.php	a065b3ad0835d3b1a9fa65c400004ea4
 A	tests/src/Functional/ProfileTypeCRUDTest.php	5683bfc8c010f3fcb591a63db426367c
-A	tests/src/Functional/ProfileTypeMultipleTest.php	b9aabf79d19c636811ec2bdf54052b31
 A	tests/src/Kernel/ProfileAccessTest.php	fb3ba7a79bd13a36691f5ac2141c3b70
 A	tests/src/Kernel/ProfileRoleAccessTest.php	77dcbdda12f5ae93519479680604ee6b
-A	tests/src/Kernel/ProfileTest.php	a9f5859aba163289a2ac9d29d429ad16
-A	tests/src/Kernel/ProfileViewTest.php	83dba43dd9c13a5d7171a9c4f86b959f
+A	tests/src/Kernel/ProfileTest.php	e034c61dfca135e8d83c6d2bb8c40138
+M	tests/src/Kernel/ProfileViewTest.php	83dba43dd9c13a5d7171a9c4f86b959f

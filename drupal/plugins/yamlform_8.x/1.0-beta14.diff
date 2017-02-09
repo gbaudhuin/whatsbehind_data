@@ -75,7 +75,9 @@ M	src/Plugin/YamlFormElement/ProcessedText.php	e5be417a85327db59b24df7b5987376f
 M	src/Plugin/YamlFormElement/Range.php	a78976807ac9bee79e0a333aebd3f4ae
 M	src/Plugin/YamlFormElement/Search.php	ac418c15df904de529954b7b7b7f8481
 M	src/Plugin/YamlFormElement/Telephone.php	9c53b59ae12bf82d0226a21658233cb4
+A	src/Plugin/YamlFormElement/TextBase.php	9eaedeefe91c884201b5147589c89b4b
 M	src/Plugin/YamlFormElement/TextField.php	36d91791e914156da8a307b865c1324b
+D	src/Plugin/YamlFormElement/TextFieldBase.php	
 M	src/Plugin/YamlFormElement/TextFormat.php	4d9d4f4755f64aa654fd9fb356f771d4
 M	src/Plugin/YamlFormElement/Textarea.php	b22d0c1cd507e06e3ebfdb638d01c06d
 M	src/Plugin/YamlFormElement/Url.php	2305646f9bef5867edf132a7b162cd3e

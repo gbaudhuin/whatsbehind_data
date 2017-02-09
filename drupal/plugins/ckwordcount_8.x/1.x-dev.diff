@@ -1,6 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	557a07440c1ff0e5048a76d1d87b3dc5
-A	ckwordcount.info.yml	f266e2618058369fe1edce685b4ac851
-A	ckwordcount.install	17fd5415fadc4f0eb7e3d31e7f73f1e1
-A	composer.json	85e165ac5e391e769983f7da2a3b4d28
-A	src/Plugin/CKEditorPlugin/Wordcount.php	804acebf08c97bb5a45c6ad5df53631b
+M	ckwordcount.info.yml	f266e2618058369fe1edce685b4ac851

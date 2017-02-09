@@ -1,9 +1,1 @@
-A	.gitignore	376dd1406f83790f37cf0f81347c3c69
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	ca04b23a37ad8bcaa4f0154805cdeb0f
-A	fillpdf.admin.inc	747ac52baae3fd40014e830459146a8a
-A	fillpdf.info	8fedea108dd68e4877f3259d537ded38
-A	fillpdf.install	09dbb1d89207f96e6e77f533a9191e87
-A	fillpdf.module	15cccb8c9545f455a02d6069b1aab845
-A	webform_tokens.inc	0c5ef7d8ab61b70345c6a678cf3d99c0
-A	xfdf.inc	006026ac986c71a36b4b4ec9cea23c0b
+M	fillpdf.info	8fedea108dd68e4877f3259d537ded38

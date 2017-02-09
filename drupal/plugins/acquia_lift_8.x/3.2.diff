@@ -1,0 +1,12 @@
+M	acquia_lift.info.yml	3cb6d6689e3fcf4b24cc85ae162c40c0
+M	acquia_lift.libraries.yml	5fafc4a4e4ab31494ae0c13369f8abad
+M	acquia_lift.module	414b3a6b6ac27fc855651d5a9acb497e
+M	acquia_lift.permissions.yml	0305b9027755d566c74bee89983453f9
+D	assets/acquia_lift.css	
+A	assets/acquia_lift_toolbar.css	163cfe8fbb5593731cceca00ad82edd3
+A	assets/acquia_lift_toolbar_button.css	9eacc8b9b2ccf13c118b450afedefc08
+A	assets/acquia_lift_toolbar_button.js	c4a993b6162db4d40d4497ce9b2e6fb8
+A	images/rocket.svg	56cc0505de2a34e1c88b703b9ac83451
+M	src/Form/AdminSettingsForm.php	3a68b113edba3decf217de963bfa3190
+A	src/Tests/LiftLinkTest.php	4537dc9627d75f40ef9337bcfc61a5ff
+M	src/Tests/SettingsTest.php	ca4303227bf01b8069ff583030857a97

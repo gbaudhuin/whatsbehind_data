@@ -1,3 +1,4 @@
+D	css/newsletter.admin.css	
 M	includes/newsletter.admin.inc	c1759d400ea44d7e2b5575ccfb5bbc0d
 A	includes/newsletter.controller.inc	ca5b2bbbbbba7e1c43a7696c500701a9
 D	includes/newsletter.list.controller.inc	
@@ -15,6 +16,7 @@ A	modules/list/includes/views/newsletter_list.views.inc	7b801e282d264d22d238787a
 A	modules/list/newsletter_list.info	5818df3546bc5a9943db6f81cc443ec4
 A	modules/list/newsletter_list.install	b4ab76c9214a692d68a9552d797d8d1e
 A	modules/list/newsletter_list.module	3e8017f8cbdab09a002d6f74e8c2eb97
+A	modules/statistics/css/newsletter_statistics.admin.css	50b0055f8147ce97129c1b849474bb01
 A	modules/statistics/includes/newsletter_statistics.admin.inc	5f366b888008342aff10633ffd36e7e1
 A	modules/statistics/includes/newsletter_statistics.pages.inc	328fbe4eba5b1f6aead06c8fa9a300eb
 A	modules/statistics/includes/views/newsletter_statistics.views.inc	554210b29b8b33055035cfca259cc9b8

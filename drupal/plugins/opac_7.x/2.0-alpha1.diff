@@ -1,37 +1,30 @@
 M	CHANGELOG.txt	af5054ebe4dee14f6f532a9a015721e5
-M	includes/helper.taxonomy.inc	c32a970093b2b00dba174bd2aa45affb
-D	includes/opac.check.inc	
 M	includes/opac.connector.inc	cea7b8ba5f56de77de4820d1f3158e98
 M	includes/opac.db.inc	6d5224fa4daef7d27f7d6f40c4f8a7bc
 M	includes/opac.harvest.inc	c25665c17b04d28991289ddf37c505c4
 M	includes/opac.node.inc	e5d83f9508ec68d2ebb5f2d5bcd00dfd
 M	modules/opac_asin/opac_asin.info	0e604c5db7089a5960a5c580414d0f06
-M	modules/opac_asin/opac_asin.module	7101f609b44a846f4d132d38ed318ae8
-M	modules/opac_authorities/includes/harvest.inc	bd0ee9cf3216978a1718ac8ae511b867
-M	modules/opac_authorities/opac_authorities.drush.inc	56029ba1274a26eb9813fe50443e7fd4
-M	modules/opac_authorities/opac_authorities.features.inc	b43bf6cae23bef68528dbac017df20f7
 M	modules/opac_authorities/opac_authorities.info	a4fef7ef8c5a613961b7c6d6c85e3492
 M	modules/opac_authorities/opac_authorities.mapping.inc	0abf9c88d6da9f9df54729444591ebe8
-M	modules/opac_authorities/opac_authorities.module	3eb8f3ffb26c8e16b0f5203e86f688a2
 M	modules/opac_items/opac_items.admin.inc	392f78670fdb16e8cfdcc64a04f3bd45
 M	modules/opac_items/opac_items.info	50bf2288a1340385a39494b6d6e56dfb
-M	modules/opac_items/opac_items.js	6339e3e9873bec61b033ff5468548523
+M	modules/opac_items/opac_items.install	ee0a438e44fbbb6be789083a9055c44f
 M	modules/opac_items/opac_items.module	e803af9e849b26d9f4695e3c84e049b1
-M	modules/opac_items/opac_items.theme	12be8bb78686e56860bd1f1b85a635fa
 M	modules/opac_marc/opac_marc.info	df2ac4fc5d21fb7edd50015564a50018
-D	modules/opac_register/opac_register.admin.inc	
-D	modules/opac_register/opac_register.form.inc	
-D	modules/opac_register/opac_register.info	
-D	modules/opac_register/opac_register.js	
-D	modules/opac_register/opac_register.module	
+M	modules/opac_marc/opac_marc.module	b95ced5cbcef5a4ac14aa8fa3d507fb4
+M	modules/opac_users/includes/opac_users.user.inc	581a7abe0501dc3a791d485f5104c12a
 M	modules/opac_users/opac_users.admin.inc	49a578f5e115ff1f761a75080fe751c9
 M	modules/opac_users/opac_users.info	817b6b9b216bfc7ee917647e165fbeaf
 M	modules/opac_users/opac_users.module	bdadd2770ec3594b827090c357836c13
 M	modules/opac_users/opac_users.pages.inc	d466c412202a9b0e49a2ceb019d6c9f0
-D	modules/opac_users/templates/opac-users-table-cell.tpl.php	
+M	modules/opac_users/opac_users.register.inc	950db0d1ded73db4752e523fb49a1795
+M	opac.admin.content-types.inc	228d83257c132ac1413d59da605846e5
 M	opac.admin.inc	3cf969ae94402d0e4e8aa1582453c271
 M	opac.drush.inc	5e4ec988041f7df5660cf4dfccdd9f77
+M	opac.features.inc	613d501b0624e7b08939aa2333bb195b
 M	opac.info	d6aac0838d9ca5fabf2314c040dfca9d
+M	opac.install	f42c2a274b697460c31b8d60d37c850a
 M	opac.module	17f6bdeee914ba6f83d0d78f3a830f4a
-M	plugins/taxonomy.inc	41935ecf0b287bafa8e0b30486495095
-M	plugins/url.inc	232415883c0159fe8e286af1690e4cfc
+M	theme/theme.inc	bc27a33db569a6a0adfbefb66828cacf
+D	translations/fr.po	
+D	translations/opac.pot	

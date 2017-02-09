@@ -1,7 +1,9 @@
 M	README.txt	3b689841767db771ca00338574b1b8f6
 M	includes/scald_file_views_handler_field_filesize.inc	cef179cbfc409aee1df7d7a5ca89921f
+A	scald-file-render.tpl.php	5f6d03185343c98beac57b5cbc5a21b7
 M	scald_file.css	9964c5a757f0266b6abfb81138be105d
 M	scald_file.info	7dd896bb422c18e79413d107f01b925a
 M	scald_file.install	e5aaf884a061194c464d51a080e9ab71
 M	scald_file.js	a39ed5c9b77eb2a37f5c3206754e1094
 M	scald_file.module	8d95c4d6b0fe3823413920e8d2218f45
+D	scald_file_render.tpl.php	

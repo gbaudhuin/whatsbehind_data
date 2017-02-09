@@ -1,8 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	5f26975ac5e31a5d18af933de592dc1c
-A	theme/views-lang-switch-result.tpl.php	1fff9db038f286884caa1cea0455c775
-A	theme/views-lang-switch-results.tpl.php	abfc4b60354618d6ad1931bf874dc429
-A	theme/views_lang_switch.theme.inc	611e34bca242a88470136569eb6c9758
-A	views_lang_switch.info	e709e7a775c7cccf2e2c09b965da5cf0
-A	views_lang_switch.install	656e26f3798424d9d0282503eae4d4b2
-A	views_lang_switch.module	e5782f231704664720434a5d1665fc25
+M	views_lang_switch.info	e709e7a775c7cccf2e2c09b965da5cf0

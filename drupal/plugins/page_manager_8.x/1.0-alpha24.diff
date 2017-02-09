@@ -58,6 +58,7 @@ M	page_manager_ui/src/Form/VariantPluginDeleteBlockForm.php	4f54526f469c53c3c9be
 A	page_manager_ui/src/Tests/AddVariantSelectionTest.php	ee75101bc691832a218492b5939b8944
 M	page_manager_ui/src/Tests/PageManagerAdminTest.php	77bc96a32d317ea9caebfeb17484fa5d
 A	page_manager_ui/src/Tests/PageParametersTest.php	4ccebaaa809fc920ddd47ea3a43725ae
+A	page_manager_ui/src/Tests/StaticContextTest.php	175ee5002c96fa55354f767a0b45cc35
 A	page_manager_ui/src/Wizard/PageAddWizard.php	7729afe7642d87d5c299ae3ad51d0897
 A	page_manager_ui/src/Wizard/PageEditWizard.php	c73103836f8434e16f7e00a99e0e815d
 A	page_manager_ui/src/Wizard/PageVariantAddWizard.php	bc2e1d98e871a7bf09b7351d89dd72e8
@@ -77,6 +78,7 @@ A	src/Tests/PageManagerConfigTranslationTest.php	0e084bb29f9e89c5ac6a2872c72d614
 M	src/Tests/PageNodeSelectionTest.php	1dd64f0c302d5037e445214a70626fd9
 M	src/Tests/PagePlaceholderTest.php	bdddc1c033f94633b5ec030382923c20
 M	src/Tests/PageTestHelperTrait.php	8bfbfd3d0e8824ec797a617e5b58baf6
+D	src/Tests/StaticContextTest.php	
 M	tests/modules/page_manager_test/page_manager_test.info.yml	d52edd0cb6c8cf0b295472432184c720
 A	tests/src/Kernel/PageVariantPageEntityTest.php	8c4a420894ac503188b06c52693b3572
 A	tests/src/Kernel/SerializationTest.php	55d061a90e003b632046436486aac532

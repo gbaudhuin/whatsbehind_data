@@ -1,8 +1,8 @@
 D	arrow-down.png	
 D	arrow-right.png	
-M	css/jquery.treetable.css	9f29f69d8a640b433a9a1a88a6952630
+M	css/jquery.treeTable.css	9f29f69d8a640b433a9a1a88a6952630
 A	css/token.treetable.theme.css	e53aa2f482ed49afb3d1ca7932f57d43
-M	js/jquery.treetable.js	5445ea1a4c2dc1b4ae5717e908414b59
+M	js/jquery.treeTable.js	5445ea1a4c2dc1b4ae5717e908414b59
 M	js/token.js	d0dfa8d47e037f274ca7ccf7cbdebdce
 M	src/Controller/TokenAutocompleteController.php	c53afc7f6869ce6994f9e951016a2552
 M	src/Controller/TokenCacheController.php	7ffa445ccbb812f100a06a3c6717123e

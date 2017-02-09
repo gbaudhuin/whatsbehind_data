@@ -19,7 +19,9 @@ A	js/screenfull.min.js	ff91871d69e1d05f992d5dfa42258ab9
 M	src/EasychartHelper.php	ced3ed84e5bf4d5a268fee52f573d1fa
 A	src/Form/OptionsForm.php	6348c27e72c072af2d65e474a7496b46
 A	src/Form/PresetsForm.php	9cb560cfffdcff8d694134e872a75f7b
+D	src/Form/ResetForm.php	
 A	src/Form/ResetOptionsConfirmForm.php	e2933d4d6ff9e02c40c4ada26279f3eb
+A	src/Form/ResetPresetsConfirmForm.php	3319bf3eff0fb0028b7f06ba17eae7ab
 A	src/Form/ResetTemplatesConfirmForm.php	d653b7debc072ba1b53d03a6c2f54d7d
 D	src/Form/SettingsForm.php	
 A	src/Form/TemplatesForm.php	c8d30daabb876e78d18a4616265d1576

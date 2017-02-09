@@ -24,3 +24,21 @@ A	i18nviews/i18nviews.info	70f02473825484f977548c17e86ef4a1
 A	i18nviews/i18nviews.module	02377b4cef854b5e73c94771950f2d79
 M	languageicons/languageicons.info	dbbda46fc7b7ed7582e2c65d0d0aeca4
 M	languageicons/languageicons.module	7a3eeaaa8b994d88b1e7c340a9faa660
+D	po/ca.po	
+D	po/da.po	
+D	po/de.po	
+D	po/es.po	
+D	po/fr.po	
+D	po/gl.po	
+D	po/i18n-module.pot	
+D	po/i18n.pot	
+D	po/it.po	
+A	translations/ca.po	9c45262abf3a88d0dad3f43ea1a74411
+A	translations/da.po	ea185c955505108d2d3c929d56b6c726
+A	translations/de.po	639e6dd83021c8100517b4b8d5e769a2
+A	translations/es.po	6c4d68fe25e965e8338f82247dc25a37
+A	translations/fr.po	1d961558349c4b407706698e2ed3d185
+A	translations/gl.po	e415a4eb1264c5fbb990863424e555d9
+A	translations/i18n-module.pot	1defd07d46e364642f17dd6dd0a8ceea
+A	translations/i18n.pot	71d398bb243dc40698b107943b35ebdc
+A	translations/it.po	f9423ed6e3d00554de83da94bb4cc185

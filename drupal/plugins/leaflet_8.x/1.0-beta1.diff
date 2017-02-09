@@ -13,3 +13,5 @@ M	leaflet_views/src/Plugin/views/style/LeafletMap.php	f738ff8b293648b8ebca1c4b38
 M	leaflet_views/src/Plugin/views/style/MarkerDefault.php	89c076942a7593fea4490ec18dfddab7
 M	leaflet_views/src/Plugin/views/style/MarkerLayerGroup.php	6f446f77ca1ffdf694576c65843378e3
 M	src/Plugin/Field/FieldFormatter/LeafletDefaultFormatter.php	15396364c24e5770e60c521eb393a778
+A	templates/leaflet-map.html.twig	072b3496f6a8d7fb67de80cc3ca69ec3
+D	templates/leaflet_map.html.twig	

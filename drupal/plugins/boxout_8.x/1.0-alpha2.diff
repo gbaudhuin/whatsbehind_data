@@ -1,7 +1,0 @@
-M	README.md	96a9fda835174d51b927deb4e6c82460
-M	boxout.info.yml	6df9d743dc7d84c0c50c1ccd422ffd8e
-A	boxout.install	f6b2e5c043167e03db05f2df96fce448
-A	composer.json	823a63e75d27fc49a707f795bf0852a0
-M	css/boxout.css	c062ec5f11c66aaf5408dd7fbc99a127
-M	js/plugins/boxout/plugin.js	b0759de45a986e799db160e7be2770b7
-M	src/Form/BoxoutDialog.php	f9490746514b7a7d436a0b09e092a98d

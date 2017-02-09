@@ -59,7 +59,10 @@ M	plugins/export_ui/panels_layouts_ui.class.php	29fb6e98a17829714f2691688b866ccb
 M	plugins/layouts/flexible/flexible-admin.js	ac60ae54ccb92acb8b0fe28ba4519bba
 M	plugins/layouts/flexible/flexible.inc	5bcb8fd2916a63aa4960bb35a778fa59
 M	plugins/layouts/onecol/onecol.css	abf48f540a5bcd1bbd9f486446f9a01a
+A	plugins/layouts/onecol/panels-onecol.html.twig	7a1660c904a75b91ce2b9c6dd6a6e04b
+D	plugins/layouts/onecol/panels-onecol.tpl.php	
 M	plugins/layouts/threecol_33_34_33_stacked/threecol_33_34_33_stacked.inc	d24580a3d6e5469d192b1d2f5129a086
+D	plugins/layouts/twocol/panels-twocol.tpl.php	
 D	plugins/page_wizards/node_override.inc	
 M	plugins/styles/block.inc	3c6bd4b8a3e3cc5f2e196a129bbfdcca
 M	plugins/styles/corners/rounded_corners.inc	350cd0dc889c7761bb3caf42d87591fe

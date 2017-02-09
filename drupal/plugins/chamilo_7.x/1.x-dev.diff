@@ -1,9 +1,1 @@
-A	.gitignore	310d60392f49bcbc9c53fa617c3c0d1a
-A	CHANGELOG.txt	af7e68e2479108f4e2964c0220fdfafc
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.md	0c7fe9449d2fa16bab1a0753153a4774
-A	chamilo.admin.inc	6ace31a521dc68e63381b7c40a2a7b12
-A	chamilo.css	297380179a30150d5bb6ae6cb5b133ab
-A	chamilo.info	41767e9ea890c8f74a6e138a4ef9e641
-A	chamilo.install	cfef2bbc7743b44cfb162604df277500
-A	chamilo.module	2b9195075f26310f7e9b7dfd0a885b40
+M	chamilo.info	41767e9ea890c8f74a6e138a4ef9e641

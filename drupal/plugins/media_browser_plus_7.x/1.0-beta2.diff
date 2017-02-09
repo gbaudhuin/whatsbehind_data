@@ -1,29 +1,4 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README	
-D	css/colorbox.css	
-D	css/jquery.jscrollpane.css	
-D	css/media_browser_plus.admin.css	
-D	css/media_browser_plus.filter.css	
-D	images/controls.png	
-D	images/icons/folder-empty.png	
-D	images/icons/folder-parent-empty.png	
-D	images/icons/folder-parent.png	
-D	images/icons/folder.png	
-D	images/loading.gif	
-D	images/loading_old.gif	
-D	images/pixel.gif	
-D	includes/media_browser_plus.admin.inc	
-D	includes/media_browser_plus.folders.inc	
-D	includes/media_browser_plus.pages.inc	
-D	includes/media_browser_plus.variables.inc	
-D	js/jquery.jscrollpane.min.js	
-D	js/jquery.mousewheel.js	
-D	js/media_browser_plus.admin.edit_multiple.js	
-D	js/media_browser_plus.admin.js	
-D	js/media_browser_plus.admin.menu.js	
-D	js/media_browser_plus.filter.js	
-D	js/media_browser_plus.library.js	
-D	js/mwheelIntent.js	
-M	media_browser_plus.info	064143e514ec0cfa6c2994f39319bb09
-M	media_browser_plus.install	56c3fe4263dd3be1a2549f8cb94bab3e
-M	media_browser_plus.module	7d6da17e1a43f69893a60577f0d81e46
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	media_browser_plus.info	064143e514ec0cfa6c2994f39319bb09
+A	media_browser_plus.install	56c3fe4263dd3be1a2549f8cb94bab3e
+A	media_browser_plus.module	7d6da17e1a43f69893a60577f0d81e46

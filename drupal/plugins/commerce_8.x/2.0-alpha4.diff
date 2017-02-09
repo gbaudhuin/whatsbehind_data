@@ -16,7 +16,7 @@ M	modules/cart/src/Controller/CartController.php	a2b57888ae0c8e1ae0dfffdf7bf007a
 A	modules/cart/src/Event/CartAssignEvent.php	643707e7a5905bb501ef81b16e5d8c0d
 M	modules/cart/src/Event/CartEvents.php	9a9d99bf0744d7561297405f01ff6572
 M	modules/cart/src/Plugin/Block/CartBlock.php	581291aef9e7cc55bc1c78d8709b6bba
-M	modules/cart/src/Plugin/views/field/EditQuantity.php	377441baa32eda907122d0a63b0178a3
+M	modules/cart/src/Plugin/views/Field/EditQuantity.php	377441baa32eda907122d0a63b0178a3
 M	modules/cart/src/Plugin/views/field/RemoveButton.php	c43fab269bac90c76693e23a9296116b
 M	modules/cart/src/Tests/AddToCartFormTest.php	f7f77da950a8884df11972bb49b6b6b2
 M	modules/cart/src/Tests/CartRefreshTest.php	b054cdc1f3aaa6de6f09352632eaa681

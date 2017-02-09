@@ -1,78 +1,94 @@
-M	README.txt	fc1d93840bbecd0e0d003f7cf34e4b46
-M	config/install/core.entity_form_display.node.photos.default.yml	a219b802fb804dcc6d327f6d4ad606f3
-M	config/install/core.entity_view_display.node.photos.default.yml	c1b59a031f559435e2e2dcfdfa9547d3
-M	config/install/core.entity_view_display.node.photos.teaser.yml	653cdcb5152f903b1416a32fbe253914
-M	config/install/photos.settings.yml	35214c7211b47cf5e814c47b2d8e116c
-D	config/optional/comment.type.comment_photos.yml	
-D	config/optional/core.entity_form_display.comment.comment_photos.default.yml	
-D	config/optional/core.entity_view_display.comment.comment_photos.default.yml	
-D	config/optional/field.field.comment.comment_photos.comment_body.yml	
-D	config/optional/field.storage.node.comment_photos.yml	
-M	config/schema/photos.schema.yml	01280f0c047066153b1e5573fb8dc8f4
-D	css/block/photos_information.css	
-D	css/photos.admin.css	
-D	css/photos.grid.css	
-M	inc/photos.form.inc	dc7dc20e8c8ccdd68431ccb2d255c7f7
-D	js/photos.jeditable.js	
-M	js/photos.js	61a6dee7880696701b8f682a56df46e6
-M	photos.info.yml	437a783ba474ad19da88dcef5b56ed12
-M	photos.libraries.yml	74e9b7d0fb0a1e9416094384f690c7a0
-D	photos.links.action.yml	
-M	photos.module	a0e3530445d1108222283212e05bc6cc
-M	photos.routing.yml	0119c9a4d7672db14f22a27f00eaf9bf
-M	photos.services.yml	ae23ddaa03a582c8a520241997d8b289
-D	photos_access/css/photos_access.node.form.css	
-M	photos_access/migration_templates/d7_photos_access.yml	332fb16df1d573670cdf1fb608ccd0f1
-M	photos_access/migration_templates/d7_photos_access_user.yml	c356198a4ac0ffe9e82d1ce3263639a2
-M	photos_access/photos_access.info.yml	b265bfc835077b2daf4dd3d8507e75b4
-M	photos_access/photos_access.install	6393a77a2cd93e524b47142787c78dba
-D	photos_access/photos_access.libraries.yml	
-M	photos_access/photos_access.module	9290cbafe750d1a9946f6b5183c1e6d2
-M	photos_access/src/Controller/DefaultController.php	8190a7147a95456f0652dfaa75d2749b
-M	photos_access/src/Form/PhotosAccessAdminSettings.php	dc07a5de42f0c58d15f1f77594edb6cc
-M	photos_access/src/Form/PhotosAccessPasswordForm.php	bb2c695e4949bf905cabddc00f11cf47
-M	photos_access/src/Plugin/migrate/destination/PhotosAccess.php	0d192c9cb50a84b186f9ee0fbd6a06d0
-M	photos_access/src/Plugin/migrate/destination/PhotosAccessUser.php	7d0d9e748ec046b7cf2ce27d0e43f67d
-M	photos_access/src/Plugin/migrate/source/PhotosAccess.php	2e41254f1bc2f9a51562ba94881db850
-M	photos_access/src/Plugin/migrate/source/PhotosAccessUser.php	5432ebd36a0efe89d1da89b068bac6d5
-M	src/Controller/PhotosAlbumController.php	c1864a6c3fbe40905be91c3824162870
-M	src/Controller/PhotosAlbumsRecentController.php	5f8efe2ad8fc0d048c1b50a7e15fc6d8
-M	src/Controller/PhotosController.php	07f0bdd835650134e4a02544c87c1d5d
-M	src/Controller/PhotosEditController.php	3437320dd6a214761697b91703db1f22
-M	src/Controller/PhotosImageController.php	4d819817be3a355dffb023ed79f40a3c
-M	src/Controller/PhotosImagesRecentController.php	d54f49478d50ca3cbc353fc832affeca
-M	src/Controller/PhotosRearrangeController.php	600a9591ad303b85b9affc3164d936bb
-M	src/Controller/PhotosUserAlbumsController.php	90744ab7039738ba812e2311b91a8087
-M	src/Controller/PhotosUserImagesController.php	47fe7c4f925c278af133f1f355ab4801
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	fc1d93840bbecd0e0d003f7cf34e4b46
+A	config/install/core.entity_form_display.node.photos.default.yml	a219b802fb804dcc6d327f6d4ad606f3
+A	config/install/core.entity_view_display.node.photos.default.yml	c1b59a031f559435e2e2dcfdfa9547d3
+A	config/install/core.entity_view_display.node.photos.teaser.yml	653cdcb5152f903b1416a32fbe253914
+A	config/install/field.field.node.photos.body.yml	1d0b3821043e8a585ca7b674a4e5661b
+A	config/install/field.field.node.photos.comment.yml	b8e24ed38a7e9ab7191e2a9710178ede
+A	config/install/node.type.photos.yml	3e06b3ddb36984b47beed2831c11879f
+A	config/install/photos.settings.yml	35214c7211b47cf5e814c47b2d8e116c
+A	config/schema/photos.schema.yml	01280f0c047066153b1e5573fb8dc8f4
+A	css/photos.dragndrop.css	a5f93e926c814205f75db2c63d4af748
+A	inc/photos.form.inc	dc7dc20e8c8ccdd68431ccb2d255c7f7
+A	js/min/photos.min.js	f648547e61b67a31fb94b26ad702ff88
+A	js/min/photos_editlist.min.js	3922c93356656c63a5597a0b63011e72
+A	js/min/photos_form_full.min.js	50c6a2d3ee611bf50c7c3d2c9e3c7e30
+A	js/min/photos_form_teaser.min.js	386856ff637cd75013b7be12eaea2bf4
+A	js/min/photos_jeditable.min.js	45a87d4bf5259e76dba1c85b6746580c
+A	js/photos.dragndrop.js	e6c137e3f0feeb5f9d3d0c948a84a67d
+A	js/photos.js	61a6dee7880696701b8f682a56df46e6
+A	js/photos_editlist.js	dff5616230da4b2bdc9d8a5b6ffa2139
+A	js/photos_form_full.js	567e2ee83158cfba0db366948c8cc05d
+A	js/photos_form_teaser.js	bce0f6d3fd3d33cd5ba61bcaae42fc1c
+A	js/photos_jeditable.js	8497b53c831fe2c4ad12cf859d2f57ce
+A	migration_templates/d7_photos.yml	2d71b6a43e821a46cb9b5500008faa5d
+A	migration_templates/d7_photos_comment.yml	e20e5bd697bf50d2a75201517115ce1b
+A	migration_templates/d7_photos_count.yml	0db5f7533a518ea2ec33a2d9e29343f1
+A	migration_templates/d7_photos_image.yml	94280defae7a4e3e32a6b05b781ac07b
+A	migration_templates/d7_photos_node.yml	ffa6e220dcd840312ef7b1028bf91ea5
+A	migration_templates/d7_photos_settings.yml	92568f102170ba8a249822c7121dc172
+A	photos.info.yml	437a783ba474ad19da88dcef5b56ed12
+A	photos.install	ada3f92a7ff4b3c5a08319913929c0d4
+A	photos.libraries.yml	74e9b7d0fb0a1e9416094384f690c7a0
+A	photos.links.menu.yml	bdd5bb58b3cfc37ec4b2d47ab0e7644d
+A	photos.links.task.yml	2c0fe29d48e2a882419a9b8c9ef3f80c
+A	photos.module	a0e3530445d1108222283212e05bc6cc
+A	photos.permissions.yml	61ec8ee08717e6b5ed49c8c416a8667e
+A	photos.routing.yml	0119c9a4d7672db14f22a27f00eaf9bf
+A	photos.services.yml	ae23ddaa03a582c8a520241997d8b289
+A	photos_access/migration_templates/d7_photos_access.yml	332fb16df1d573670cdf1fb608ccd0f1
+A	photos_access/migration_templates/d7_photos_access_user.yml	c356198a4ac0ffe9e82d1ce3263639a2
+A	photos_access/photos_access.css	8ac8090521648467f690391b9fa9683e
+A	photos_access/photos_access.info.yml	b265bfc835077b2daf4dd3d8507e75b4
+A	photos_access/photos_access.install	6393a77a2cd93e524b47142787c78dba
+A	photos_access/photos_access.js	8276c9ecb7433069956070926cfa9876
+A	photos_access/photos_access.links.task.yml	39e2e35c3eed62d783ed94334fffaaa1
+A	photos_access/photos_access.module	9290cbafe750d1a9946f6b5183c1e6d2
+A	photos_access/photos_access.routing.yml	e6f86d0fd72d40f23af93d367ef1ddfd
+A	photos_access/src/Controller/DefaultController.php	8190a7147a95456f0652dfaa75d2749b
+A	photos_access/src/Form/PhotosAccessAdminSettings.php	dc07a5de42f0c58d15f1f77594edb6cc
+A	photos_access/src/Form/PhotosAccessPasswordForm.php	bb2c695e4949bf905cabddc00f11cf47
+A	photos_access/src/Plugin/migrate/destination/PhotosAccess.php	0d192c9cb50a84b186f9ee0fbd6a06d0
+A	photos_access/src/Plugin/migrate/destination/PhotosAccessUser.php	7d0d9e748ec046b7cf2ce27d0e43f67d
+A	photos_access/src/Plugin/migrate/source/PhotosAccess.php	2e41254f1bc2f9a51562ba94881db850
+A	photos_access/src/Plugin/migrate/source/PhotosAccessUser.php	5432ebd36a0efe89d1da89b068bac6d5
+A	src/Controller/PhotosAlbumController.php	c1864a6c3fbe40905be91c3824162870
+A	src/Controller/PhotosAlbumsRecentController.php	5f8efe2ad8fc0d048c1b50a7e15fc6d8
+A	src/Controller/PhotosController.php	07f0bdd835650134e4a02544c87c1d5d
+A	src/Controller/PhotosEditController.php	3437320dd6a214761697b91703db1f22
+A	src/Controller/PhotosImageController.php	4d819817be3a355dffb023ed79f40a3c
+A	src/Controller/PhotosImagesRecentController.php	d54f49478d50ca3cbc353fc832affeca
+A	src/Controller/PhotosRearrangeController.php	600a9591ad303b85b9affc3164d936bb
+A	src/Controller/PhotosUserAlbumsController.php	90744ab7039738ba812e2311b91a8087
+A	src/Controller/PhotosUserImagesController.php	47fe7c4f925c278af133f1f355ab4801
 A	src/EventSubscriber/InitSubscriber.php	e0d8515122ae26cc360b03c2bbbe414e
-M	src/Form/PhotosAdminSettingsForm.php	6fe829f37aaaed142c53e0b143d8fa61
-D	src/Form/PhotosDirectoryUploadForm.php	
-M	src/Form/PhotosImageDeleteForm.php	ffc72dcd0a986e08d8e6fad5530e7e6a
-M	src/Form/PhotosImageEditForm.php	0ff63e56fae6c654b24134bad9864a2d
-M	src/Form/PhotosImageSubAlbumForm.php	1ae082c87c2018f96458e94db7a111ef
-M	src/Form/PhotosManagementForm.php	891853525b9896ca0ea51ac625615ca9
-M	src/Form/PhotosUploadForm.php	ca7263a5d0106a0e107289662bb744a5
-M	src/PhotosBreadcrumbBuilder.php	12504b8599fbbd2ac6bb99408d4ce73a
+A	src/Form/PhotosAdminSettingsForm.php	6fe829f37aaaed142c53e0b143d8fa61
+A	src/Form/PhotosImageDeleteForm.php	ffc72dcd0a986e08d8e6fad5530e7e6a
+A	src/Form/PhotosImageEditForm.php	0ff63e56fae6c654b24134bad9864a2d
+A	src/Form/PhotosImageSubAlbumForm.php	1ae082c87c2018f96458e94db7a111ef
+A	src/Form/PhotosManagementForm.php	891853525b9896ca0ea51ac625615ca9
+A	src/Form/PhotosUploadForm.php	ca7263a5d0106a0e107289662bb744a5
+A	src/PhotosBreadcrumbBuilder.php	12504b8599fbbd2ac6bb99408d4ce73a
 A	src/PhotosViewsData.php	035842783213d3a5f0f01c5cabffadc0
-M	src/Plugin/Block/PhotosInformation.php	682beb37df9c734886226fe8d5c37d01
-M	src/Plugin/Block/PhotosRandomImages.php	8572f5ae6c71f8a6d866f54d221813e9
-M	src/Plugin/Block/PhotosRecentImages.php	1be167f93ec4a79dde0f525faa37a3a6
-M	src/Plugin/Block/PhotosUserImages.php	8c767f787c82ad72fc3cfb5c7788dc01
-M	src/Plugin/migrate/destination/Photos.php	342248bb340972e5bf07af54c230dd55
-M	src/Plugin/migrate/destination/PhotosComment.php	4158fc2e1e4cbffdf83b8e529982c99e
-M	src/Plugin/migrate/destination/PhotosCount.php	73dfcbb06326e2d15c3b256a13f49112
-M	src/Plugin/migrate/destination/PhotosImage.php	38924488c1ad086c272009c246ba6719
-M	src/Plugin/migrate/destination/PhotosNode.php	c1a8a74dbfe3fd60f7376170e5ca5c50
-M	src/Plugin/migrate/source/Photos.php	aad248d6adc64175eba318f9bcd2d2e2
-M	src/Plugin/migrate/source/PhotosComment.php	ecdf7afbd04fd9ccef10bf2f7afb98ef
-M	src/Plugin/migrate/source/PhotosCount.php	4a7f8961bd7de0b0a8bb7788bcdf469a
-M	src/Plugin/migrate/source/PhotosImage.php	0eaa9657c1580d1e926813971cbe197e
-M	src/Plugin/migrate/source/PhotosNode.php	2bec57a48aa7253b921a2d556283becb
-D	src/Plugin/views/field/PhotosImage.php	
+A	src/Plugin/Block/PhotosInformation.php	682beb37df9c734886226fe8d5c37d01
+A	src/Plugin/Block/PhotosRandomImages.php	8572f5ae6c71f8a6d866f54d221813e9
+A	src/Plugin/Block/PhotosRecentImages.php	1be167f93ec4a79dde0f525faa37a3a6
+A	src/Plugin/Block/PhotosUserImages.php	8c767f787c82ad72fc3cfb5c7788dc01
+A	src/Plugin/migrate/destination/Photos.php	342248bb340972e5bf07af54c230dd55
+A	src/Plugin/migrate/destination/PhotosComment.php	4158fc2e1e4cbffdf83b8e529982c99e
+A	src/Plugin/migrate/destination/PhotosCount.php	73dfcbb06326e2d15c3b256a13f49112
+A	src/Plugin/migrate/destination/PhotosImage.php	38924488c1ad086c272009c246ba6719
+A	src/Plugin/migrate/destination/PhotosNode.php	c1a8a74dbfe3fd60f7376170e5ca5c50
+A	src/Plugin/migrate/source/Photos.php	aad248d6adc64175eba318f9bcd2d2e2
+A	src/Plugin/migrate/source/PhotosComment.php	ecdf7afbd04fd9ccef10bf2f7afb98ef
+A	src/Plugin/migrate/source/PhotosCount.php	4a7f8961bd7de0b0a8bb7788bcdf469a
+A	src/Plugin/migrate/source/PhotosImage.php	0eaa9657c1580d1e926813971cbe197e
+A	src/Plugin/migrate/source/PhotosNode.php	2bec57a48aa7253b921a2d556283becb
 A	src/photos_handler_field_photos_album_cover.php	aa4ef78e199222ef0f34059a81238a19
 A	src/photos_handler_field_photos_image.php	7082ee1989a91b95f77f051ef550afdb
-D	templates/photos_album_view.html.twig	
+A	templates/photos_albumlinks.html.twig	5da29397b96ca0e6765fe6d70c52380e
 A	templates/photos_albumview.html.twig	e2c3d660ecca46057d850940367287d6
-M	templates/photos_default.html.twig	97c2e2467cff3991a8d8a5b8237d50bd
-D	templates/photos_image_block.html.twig	
+A	templates/photos_default.html.twig	97c2e2467cff3991a8d8a5b8237d50bd
 A	templates/photos_imageblock.html.twig	818e3d35b52c992ccb40b45bb35c656d
+A	templates/photos_imagehtml.html.twig	b70429ed592334793daacde97f5aadc8
+A	templates/photos_imageview.html.twig	33a6bc7704cafc3e22661fc3f7c529fa

@@ -7,10 +7,18 @@ M	heartbeat.module	d29cae8e90ada9daad87a2e459f9f78b
 M	heartbeat.pages.inc	be290b9fa2d032233bc3c5a86ad948a6
 M	heartbeat.streams.inc	54268a53c14624024d702690506546c1
 M	heartbeat.views.inc	7211b6cfbd473f347458f69f5faba384
+A	help/about.html	a20248f07f087af2f60be857e4a9d0fb
+A	help/ctools.html	725b92464bb305a57849cc033a4e29ad
+A	help/heartbeat.help.ini	860520e0ef0e0433544881276c0ab59b
+A	help/rules.html	e0b4a1916af61b08217ea1f5946e460d
 M	includes/heartbeatactivity.inc	9986bb18e02515a640bc44a5ec173fa8
 M	includes/heartbeatparser.inc	61ebeacbbae46402ec1e57db4880b69e
 M	includes/heartbeatstream.inc	996935779785a7c4b388526b0f469090
 M	includes/heartbeatstreamconfig.inc	f930c916f88c69a4620c3a900a636174
+D	includes/help/about.html	
+D	includes/help/ctools.html	
+D	includes/help/heartbeat.help.ini	
+D	includes/help/rules.html	
 M	layouts/heartbeat_2col/heartbeat_2col.css	9f6056007d91d05c0d4362fdb66e48cc
 M	modules/heartbeat_comments/heartbeat_comments.admin.inc	27ef8cfbc6be6fcde546269469973711
 M	modules/heartbeat_comments/heartbeat_comments.info	b4c2d0e7998893d694e58bd2105655f5

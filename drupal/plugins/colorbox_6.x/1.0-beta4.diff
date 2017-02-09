@@ -2,7 +2,9 @@ M	colorbox.admin.inc	b8fd11907e962bf5accfeff888fc9254
 M	colorbox.info	7ab5d4d6ceb175ad1bfc084311d17008
 M	colorbox.module	3403289e75fc6f8f300f3819fd7acb7e
 M	drush/colorbox.drush.inc	63c205a5556329e9961b86fb09acfcaf
+D	js/colorbox_form.js	
 A	js/colorbox_inline.js	f5bc061b2679c09dedf95e2a6c34814d
+A	js/colorbox_load.js	2df59134921720cd742bceb859567c5a
 A	translations/colorbox.pot	0149d2408b3c635838221f09ca289f9a
 A	views/colorbox.views.inc	6799611f608388d2cdeb9d467c5173a0
 A	views/colorbox_handler_field_colorbox.inc	7ee2eca58f5e55cf0cb584f82c2e6ef3

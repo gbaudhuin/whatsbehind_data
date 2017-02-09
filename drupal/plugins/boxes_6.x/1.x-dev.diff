@@ -1,13 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	20a9719f723c621a3e9ba2df70ab28ca
-A	boxes.admin.inc	ed8212c03a6b8ee1bd6158e061af27c5
-A	boxes.css	9f90e76b4de67f76b400b11c73912475
-A	boxes.info	988a8ff32f9e08bf3ab68e001f92a79c
-A	boxes.install	26087efc2787e690a9862cdd77d04f4f
-A	boxes.js	c159162e45a1b12b6a044e0c343640be
-A	boxes.module	fd5dd082beb2d18f55af61dfe869ec07
-A	plugins/boxes_box.inc	2261a14e3d1a28d6e098961221245abe
-A	plugins/boxes_simple.inc	4f10ad8de1bac4ebd9918604f0bf6069
-A	plugins/spaces_controller_boxes.inc	e142c4458989cb484fcb70f663020538
-A	swirly.gif	a51c5608d01acf32df728f299767f82b
-A	tests/boxes.test	07337987d0402a7dcd9c7c37a59519b1
+M	boxes.info	988a8ff32f9e08bf3ab68e001f92a79c
+M	boxes.module	fd5dd082beb2d18f55af61dfe869ec07

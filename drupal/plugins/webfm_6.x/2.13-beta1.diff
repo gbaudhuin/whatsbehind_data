@@ -4,6 +4,7 @@ M	modules/webfm_image/webfm_image.info	6801b063c4f8d3ac578bfcf2288b7b6e
 M	modules/webfm_ipfolder/webfm_ipfolder.info	6631e47150828a98b93ab2124c5dcdd7
 M	modules/webfm_ipfolder/webfm_ipfolder.install	f518057776af4f351d977b8150ee89ed
 M	modules/webfm_mp3/webfm_mp3.info	654af9286187a71864c0bc57020d7e65
+A	modules/webfm_popup/webfm-popup.tpl.php	0a5550d6ac73df04cba0ff1e321a82a7
 M	modules/webfm_popup/webfm_popup.info	593011bfedc6f90c533cfe1adeda3dd8
 M	modules/webfm_popup/webfm_popup.js	1ca482cabeba391494c2138b66bd5ceb
 M	modules/webfm_popup/webfm_popup.module	6b0a9499144be37704f4544cdf28f3b2
@@ -13,6 +14,7 @@ M	views/webfm_views_handler_file_meta.inc	c2e92dcb3134e9f198132d274283d865
 M	views/webfm_views_handler_file_name.inc	1563146476af2233e0bd92ada4e75b63
 M	webfm-attachments.tpl.php	0f5b534ab571302980cdb769ca339ddd
 M	webfm-browser.tpl.php	26585fe57137de29f31f9022990b4651
+D	webfm-popup.tpl.php	
 M	webfm.admin.inc	7405472b70a74d4b976f5aa25309cf76
 M	webfm.info	618573c68814185f9c8c81caef113780
 M	webfm.install	68661d4e20e1b928649948adc520d5c6

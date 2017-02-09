@@ -1,8 +1,2 @@
-A	INSTALL.txt	c26a1ce02b0a05a8a421181b657c84cb
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	897997e721892828cae4b99fa17cd89c
-A	autologout.admin.inc	1feda661d49e3ffd7d9d6db6719aaef9
-A	autologout.info	a935319cb6188d0bed85d2a7d89dbe41
-A	autologout.install	6527be21b05e09c4728b03189c4737b3
-A	autologout.js	8252bf1ce4f6dc1d35551b6b624aa150
-A	autologout.module	98747f8f44b6e784a0c82cf695cd6145
+M	autologout.info	a935319cb6188d0bed85d2a7d89dbe41
+M	autologout.module	98747f8f44b6e784a0c82cf695cd6145

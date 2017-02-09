@@ -1,6 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	15ec2c3b9603628043ed739a647e023b
-A	login_one_time.info	0dbedf9d89b50390f0141455aada6998
-A	login_one_time.install	05c089c5d5643aba7988f73c42c57fc1
-A	login_one_time.module	5676e59232da8411f1da80fc5e326dbc
-A	login_one_time.rules.inc	6bf4d9959ddbe580cdd7638b3e4c0dfa
+M	login_one_time.info	0dbedf9d89b50390f0141455aada6998
+M	login_one_time.module	5676e59232da8411f1da80fc5e326dbc

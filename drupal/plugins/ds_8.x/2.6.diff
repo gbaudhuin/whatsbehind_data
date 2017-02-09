@@ -19,7 +19,6 @@ M	src/Form/FieldDeleteForm.php	ab2aef4e7fe272a01219296197df853f
 M	src/Form/FieldFormBase.php	2f99ce3a080ed2f566633867b91a9a75
 M	src/Form/SettingsForm.php	af230b2b3996cd94e42120583afd2bf7
 M	src/Form/TokenFieldForm.php	98e343ce13e83f1f5c347ea40b83d975
-M	src/Plugin/DsField/Block/BlockDescription.php	351f38bc1e303a7f722bfe496779c5e6
 M	src/Plugin/DsField/BlockBase.php	37b8600e266e90e649ff9b4f1aac516e
 M	src/Plugin/DsField/Date.php	3dbda088e864f9bde7a2d2fe5c9e14c9
 M	src/Plugin/DsField/DsFieldInterface.php	c227fe8672c7327702e70b130a1aad32

@@ -1,4 +1,4 @@
-A	CHANGELOG.txt	68785b182346d000b6eb3cb8944ca956
+M	CHANGELOG.txt	68785b182346d000b6eb3cb8944ca956
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 M	README.txt	08b1503ed0b7d0563219c6b64aa4842c
 M	includes/phpmailer.class.inc	fa956993c706f3ee45e77106929e9ae9
@@ -8,5 +8,6 @@ M	phpmailer.admin.inc	52da5ccbbe62d897b5609555d6714dd9
 M	phpmailer.info	03c69a89d15880fca0f120b47a0db14c
 M	phpmailer.install	3ed3dcda69770a584678f07d7f212e0f
 M	phpmailer.module	4cd6c8aed1590bd1146cadef8f647bbb
+D	phpmailer/COPYHERE.txt	
 M	tests/phpmailer.test	69c636981c445d0b69db753e6a96107a
 A	translations/phpmailer.pot	fa2e01d0d6187eacd69caffaa8233ce6

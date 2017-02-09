@@ -1,8 +1,7 @@
+D	includes/MediaYouTubeBrowser.inc	
 M	includes/MediaYouTubeStreamWrapper.inc	0bf759db52f7e9658e57ff74160bb24d
-M	includes/media_youtube.formatters.inc	dfccc56ca7bce9bef4a7dcd60d64af85
+D	js/media-youtube.browser.js	
+D	js/media_youtube.fromurl.js	
+A	media_youtube.file.inc	91e9ab7108dd315b4fc6b340941f02ba
 M	media_youtube.info	7afd9da44ff98c2d9a1000df513ff701
-D	media_youtube.test	
-D	tests/includes/MediaYouTubeTestHandler.inc	
-D	tests/includes/MediaYouTubeTestStreamWrapper.inc	
-D	tests/media_youtube_test.info	
-D	tests/media_youtube_test.module	
+M	media_youtube.module	a8df6ab45513d9cb66ca3318984f65cb

@@ -1,12 +1,4 @@
-A	CHANGELOG.txt	d9360a682d9b892973b6eda6e20088b6
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	css/module_filter.css	e26231b38983529200047b792b4bd8ea
-A	css/module_filter_tab.css	56f7f724992c66ab53c8221e7b9eeb38
-A	js/dynamic_position.js	cebb16054c99e9f02335c6a534ddcd68
-A	js/module_filter.js	de2c2c3852fc3c8f7a27f1086ea82075
-A	js/module_filter_tab.js	86408c29f5cee4e673b206ba0160fb41
-A	module_filter.admin.inc	195c08ee6c3eca21b66822f435313fb9
-A	module_filter.info	cb3a3a3851572cc68c496c324e68309a
-A	module_filter.install	70e66888a2eb6e8b6bedbac1e0e6de04
-A	module_filter.module	53eb3d5a9d0fde25600f30c1f0f82ba4
-A	module_filter.theme.inc	958a250287334b8dff2ed0c8f29131b4
+M	CHANGELOG.txt	d9360a682d9b892973b6eda6e20088b6
+M	css/module_filter_tab.css	56f7f724992c66ab53c8221e7b9eeb38
+M	module_filter.info	cb3a3a3851572cc68c496c324e68309a
+M	module_filter.theme.inc	958a250287334b8dff2ed0c8f29131b4

@@ -1,9 +1,3 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	f742f3f9fc0d45b0bedc4ed2b91b3a30
-A	varnish.admin.inc	a087e313d83fb9ee84dc2c4f1f1b9cc0
-A	varnish.cache.inc	4b2ceaaec576fdb15669acfdc575ecc3
-A	varnish.drush.inc	7acd701860cc3519dddbcdf734780738
-A	varnish.info	d32f455aa500ae74a3edcbb0df8c3477
-A	varnish.install	e0803301ee3f9415bd3980719e80191a
-A	varnish.module	27773fe30df314060edb90d7e80186c4
-A	varnish.test	997928107c7e6b93a35a2628289381bf
+M	varnish.admin.inc	a087e313d83fb9ee84dc2c4f1f1b9cc0
+M	varnish.info	d32f455aa500ae74a3edcbb0df8c3477
+M	varnish.module	27773fe30df314060edb90d7e80186c4

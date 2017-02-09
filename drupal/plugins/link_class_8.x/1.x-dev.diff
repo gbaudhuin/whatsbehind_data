@@ -1,7 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	composer.json	3dd80966b6e40833b6dd91a2c8b37086
-A	config/schema/link_class.schema.yml	15e359816812bbbb20a1f5ec4a71f728
-A	link_class.info.yml	d687ffc270c30982f1e65d77b070d886
-A	link_class.module	e44c1e2517a09f9ccb011a8fb73def89
-A	src/Plugin/Field/FieldWidget/LinkClassFieldWidget.php	e883c8304096f2f9b51c3251dc6917c7
-A	src/Tests/LinkClassWidgetTest.php	aaa1bd146840b6fef5c460007309dff5
+M	link_class.info.yml	65b00d74a30129b99a579b6d34476342

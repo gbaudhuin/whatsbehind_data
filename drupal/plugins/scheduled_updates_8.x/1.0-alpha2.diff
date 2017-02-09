@@ -33,6 +33,7 @@ A	src/Plugin/UpdateRunner/IndependentUpdateRunner.php	be29daa21d8e1c5668cb6bfb57
 A	src/Plugin/UpdateRunner/LatestRevisionUpdateRunner.php	e4796d98967620c7dbabf1b885b18216
 M	src/Plugin/UpdateRunnerInterface.php	8043e6b85ec8f6404c9055e0c41fd937
 M	src/Plugin/UpdateRunnerManager.php	8ace42b08f7d26d19fbb2bd8702dac3d
+D	src/RevisionUtils.php	
 A	src/Routing/FieldUiRouteEnhancer.php	c01f04e302d2f5821cf9cbf1c91b1760
 A	src/Routing/RouteSubscriber.php	16bcecb81c8fbea9cb30f06ece775b6d
 M	src/ScheduledUpdateAccessControlHandler.php	2205ce86b79d4d3d161ecc8d8b49c5c4
@@ -47,4 +48,5 @@ A	src/Tests/IndependentScheduledUpdateTypeTest.php	66baad440597756444afb945c45a8
 D	src/Tests/ReferencingScheduledUpdateTypeTest.php	
 A	src/Tests/ScheduledUpdatesTestBase.php	d5e78613a0ff75c496bc41ae73711d62
 A	src/UpdateRunnerUtils.php	4958ec96144b5aacd08d27304e4a28dd
+A	src/UpdateUtils.php	9b9e98b12c3b2032995910e2cd45a2bb
 A	src/UpdateUtilsInterface.php	ef7bc3b4b389e6224cf947277e408c08

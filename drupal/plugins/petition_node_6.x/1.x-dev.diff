@@ -1,9 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	a3549cccfa535fb87baad9ee1f1b2d41
-A	petition-signatures-admin.inc	72358628c452d664827c7321be2460f1
-A	petition.info	a795518c1082becfa74d8f56331a7a52
-A	petition.install	e250b84a599bda6d384ce782b89311de
-A	petition.module	ae42bf488bf270ada941e8166c1de6dc
-A	signaturedisplay.css	97fc7096b40a8c12b5ff3a88644a9d99
-A	signaturedisplay.info	5039db68f686f1085d0c77c060b30843
-A	signaturedisplay.module	da417b8e795eb66cc84e7c287d435efc
+M	petition.info	a795518c1082becfa74d8f56331a7a52
+M	signaturedisplay.info	5039db68f686f1085d0c77c060b30843

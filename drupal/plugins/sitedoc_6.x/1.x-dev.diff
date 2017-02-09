@@ -1,7 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	af2833cefa0ee3bce2927e7256da50c9
-A	sitedoc.admin.inc	b0483055ed4451003d70cdc822f36cfd
-A	sitedoc.css	fa7f78e2a3cb6bdb38e99bbefab419d5
-A	sitedoc.info	83995b483ccd379e6fd920be212fe4ac
-A	sitedoc.install	3144ec4f9ec2a2aab1920e03b1307f9c
-A	sitedoc.module	5b041ea7df82e94ff028094ae346fa22
+M	sitedoc.info	83995b483ccd379e6fd920be212fe4ac

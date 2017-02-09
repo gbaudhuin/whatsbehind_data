@@ -1,11 +1,5 @@
-M	CHANGELOG.txt	61fb4ffeda1121ec8fbf29571db7bbd8
-M	README.txt	fa9b2a97faa165b7a3c8d31b540c9f74
-D	includes/entity.inc	
-D	includes/search.inc	
-D	page_manager_search.entity.inc	
-M	page_manager_search.info	b1bb359fcd05682d65ce0969dfc6ae0e
-M	page_manager_search.module	14f1753589dff7cd8e5e88889b329c4f
-D	tests/page_manager_search.test	
-D	tests/page_manager_search_test.info	
-D	tests/page_manager_search_test.module	
-D	tests/plugins/task_handlers/page_manager_search_test.inc	
+A	CHANGELOG.txt	61fb4ffeda1121ec8fbf29571db7bbd8
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	fa9b2a97faa165b7a3c8d31b540c9f74
+A	page_manager_search.info	b1bb359fcd05682d65ce0969dfc6ae0e
+A	page_manager_search.module	14f1753589dff7cd8e5e88889b329c4f

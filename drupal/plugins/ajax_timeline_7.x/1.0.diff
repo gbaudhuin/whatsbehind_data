@@ -1,6 +1,7 @@
-M	ajax_timeline.admin.inc	16eef30cd84cc6e2b683ac9fe456ed77
-M	ajax_timeline.info	bc1f127e24d3b3f5526012eda120f1a7
-D	ajax_timeline.install	
-M	ajax_timeline.module	6b934bdf9488dbf3a27c8d5a56a2e8c8
-M	css/ajax_timeline.css	e6a6d752bfc918371cb1fc89db178ca5
-M	js/ajax_timeline.js	1ab00f8c9034bd78fea7c32bf3d685e0
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	4e95ba6ac03a465a9ddf7d795a6cc4a5
+A	ajax_timeline.admin.inc	16eef30cd84cc6e2b683ac9fe456ed77
+A	ajax_timeline.info	bc1f127e24d3b3f5526012eda120f1a7
+A	ajax_timeline.module	6b934bdf9488dbf3a27c8d5a56a2e8c8
+A	css/ajax_timeline.css	e6a6d752bfc918371cb1fc89db178ca5
+A	js/ajax_timeline.js	1ab00f8c9034bd78fea7c32bf3d685e0

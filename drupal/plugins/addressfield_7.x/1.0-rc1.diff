@@ -7,6 +7,8 @@ M	addressfield.info	05929ee864b18024cbc76f20d30a798d
 M	addressfield.module	d68cbc91a63a65e1e9cbd6b6055dd906
 M	addressfield.tokens.inc	5f5f4e29398f05a9cceb757b26004ee8
 M	example/addressfield_example.info	c03eb480ae184529b51e02a6480deca8
+A	example/plugins/format/address-ch-example.inc	d111ba2fbac1a87e4512f3c10a2be9dc
+D	example/plugins/format/addressfield-example.inc	
 M	plugins/format/address-hide-country.inc	d1f08cba3d5e5c154d6a966fe710039a
 A	plugins/format/address-hide-postal-code.inc	2c4171987da9385535f719c738b70cfa
 A	plugins/format/address-hide-street.inc	19ad4d7df389e034e58c356677e9b4cd

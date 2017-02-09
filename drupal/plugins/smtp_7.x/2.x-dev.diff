@@ -1,7 +1,10 @@
-M	smtp.admin.inc	9de0f61277e1061a0102c36e7836de5f
-M	smtp.info	082d9852ed7f523dd4779a5a2eab19a4
-M	smtp.install	f908cc5d48cdd7dda535ba3350204eda
-M	smtp.mail.inc	1f088e4c98a0237820cdfedac72fc80a
-M	smtp.module	4dcc817a5ec7472bcdd9d3866fb2d3e0
-M	tests/smtp.unit.test	3c8db1a573b713ec24d160e23a72e835
-M	tests/smtp_tests.info	1e655d057c0ecb85fa329431b5bc23bc
+M	smtp.admin.inc	3f2b465104113767769e2dacbfada9db
+M	smtp.info	6803c1d7287911121024b1ee3cd40821
+M	smtp.install	2ba0b35301ba727d5184d4a2bb9e2064
+M	smtp.mail.inc	00ec868d06ee064a6c3c4ec69540bdf1
+M	smtp.module	d7ddf6a2c30a9459819afd67a66e2fd1
+M	smtp.phpmailer.inc	eccd196063c3936277e0bef7e8458782
+A	smtp.theme.inc	5b549854191b4a62b165c9079da6237b
+M	smtp.variable.inc	c862b79e8a9100a2921d23dd16e410e7
+M	tests/smtp.unit.test	94fba1eda15a8c7801d4331ebaf8505a
+M	tests/smtp_tests.info	ed947eca7c1cf7d0a74bfc1edd052cf0

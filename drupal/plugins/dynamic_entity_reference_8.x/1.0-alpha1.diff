@@ -1,55 +1,12 @@
-D	.travis.yml	
-D	README.md	
-D	composer.json	
-D	config/schema/dynamic_entity_reference.schema.yml	
-M	dynamic_entity_reference.info.yml	b2218d7ad0333df8bec2592a2d382672
-D	dynamic_entity_reference.module	
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	dynamic_entity_reference.info.yml	b2218d7ad0333df8bec2592a2d382672
+A	dynamic_entity_reference.libraries.yml	3110982c9921dbaed57e0c709a43f28d
 A	dynamic_entity_reference.routing.yml	bbc92e21585588a5bdd2a81a666c9779
-D	dynamic_entity_reference.services.yml	
-D	dynamic_entity_reference.views.inc	
-M	js/dynamic-entity-reference-widget.js	043edcedaae7a5b8cb38f6310ac0e9ee
-M	src/DataDynamicReferenceDefinition.php	58cac1e918dd64e010cbf826e3e7b1a7
+A	js/dynamic-entity-reference-widget.js	043edcedaae7a5b8cb38f6310ac0e9ee
+A	src/DataDynamicReferenceDefinition.php	58cac1e918dd64e010cbf826e3e7b1a7
 A	src/DynamicEntityReferenceController.php	cef21b2d0420708ec89a696722c54822
-D	src/DynamicEntityReferenceServiceProvider.php	
-D	src/Normalizer/DynamicEntityReferenceItemNormalizer.php	
-M	src/Plugin/DataType/DynamicEntityReference.php	05062d70da1a7131a19a6aad9ef409f7
-D	src/Plugin/Field/FieldFormatter/DynamicEntityReferenceEntityFormatter.php	
+A	src/Plugin/DataType/DynamicEntityReference.php	05062d70da1a7131a19a6aad9ef409f7
 A	src/Plugin/Field/FieldFormatter/DynamicEntityReferenceFormatter.php	b82b540ee13bfaf2f1d11542b2fa590a
-D	src/Plugin/Field/FieldFormatter/DynamicEntityReferenceFormatterTrait.php	
-D	src/Plugin/Field/FieldFormatter/DynamicEntityReferenceIdFormatter.php	
-D	src/Plugin/Field/FieldFormatter/DynamicEntityReferenceLabelFormatter.php	
-D	src/Plugin/Field/FieldType/DynamicEntityReferenceFieldItemList.php	
-M	src/Plugin/Field/FieldType/DynamicEntityReferenceItem.php	849c9db811f78ed299d59f70f676f91c
-D	src/Plugin/Field/FieldWidget/DynamicEntityReferenceOptionsButtonsWidget.php	
-D	src/Plugin/Field/FieldWidget/DynamicEntityReferenceOptionsSelectWidget.php	
-D	src/Plugin/Field/FieldWidget/DynamicEntityReferenceOptionsTrait.php	
-M	src/Plugin/Field/FieldWidget/DynamicEntityReferenceWidget.php	b3530ff9e355bc460d3366bc170a97f7
-D	src/Plugin/Validation/Constraint/ValidDynamicReferenceConstraint.php	
-D	src/Plugin/Validation/Constraint/ValidDynamicReferenceConstraintValidator.php	
-D	src/SelectionPluginManager.php	
+A	src/Plugin/Field/FieldType/DynamicEntityReferenceItem.php	849c9db811f78ed299d59f70f676f91c
+A	src/Plugin/Field/FieldWidget/DynamicEntityReferenceWidget.php	b3530ff9e355bc460d3366bc170a97f7
 A	src/Tests/DynamicEntityReferenceTest.php	9295f063fd694e96a6fbd4753f09cde8
-D	tests/modules/dynamic_entity_reference_entity_test/dynamic_entity_reference_entity_test.info.yml	
-D	tests/modules/dynamic_entity_reference_entity_test/dynamic_entity_reference_entity_test.module	
-D	tests/modules/dynamic_entity_reference_entity_test/test_views/views.view.test_dynamic_entity_reference_entity_test_mul_view.yml	
-D	tests/modules/dynamic_entity_reference_entity_test/test_views/views.view.test_dynamic_entity_reference_entity_test_view.yml	
-D	tests/modules/dynamic_entity_reference_entity_test/test_views/views.view.test_dynamic_entity_reference_mul_entity_test_mul_view.yml	
-D	tests/modules/dynamic_entity_reference_entity_test/test_views/views.view.test_dynamic_entity_reference_mul_entity_test_view.yml	
-D	tests/modules/dynamic_entity_reference_test_views/dynamic_entity_reference_test_views.info.yml	
-D	tests/modules/dynamic_entity_reference_test_views/test_views/views.view.test_dynamic_entity_reference_entity_test_mul_view.yml	
-D	tests/modules/dynamic_entity_reference_test_views/test_views/views.view.test_dynamic_entity_reference_entity_test_rev_view.yml	
-D	tests/modules/dynamic_entity_reference_test_views/test_views/views.view.test_dynamic_entity_reference_entity_test_view.yml	
-D	tests/src/Functional/DynamicEntityReferenceBaseTest.php	
-D	tests/src/Functional/DynamicEntityReferenceFieldDefaultValueTest.php	
-D	tests/src/Functional/DynamicEntityReferenceLocaleTest.php	
-D	tests/src/Functional/DynamicEntityReferenceTest.php	
-D	tests/src/Functional/DynamicEntityReferenceWidgetTest.php	
-D	tests/src/FunctionalJavascript/DynamicEntityReferenceTest.php	
-D	tests/src/Kernel/DynamicEntityReferenceBaseFieldRevisionTest.php	
-D	tests/src/Kernel/DynamicEntityReferenceBaseFieldTest.php	
-D	tests/src/Kernel/DynamicEntityReferenceFieldTest.php	
-D	tests/src/Kernel/DynamicEntityReferenceFormatterTest.php	
-D	tests/src/Kernel/DynamicEntityReferenceItemTest.php	
-D	tests/src/Kernel/DynamicEntityReferenceSchemaTest.php	
-D	tests/src/Kernel/Views/DynamicEntityReferenceBaseFieldRelationshipTest.php	
-D	tests/src/Kernel/Views/DynamicEntityReferenceRelationshipTest.php	
-D	tests/test.de.po	

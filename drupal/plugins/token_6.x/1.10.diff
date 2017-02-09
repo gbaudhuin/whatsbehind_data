@@ -1,27 +1,12 @@
-M	API.txt	66ef3f6e0d4e777d93d2765bbf63e9d0
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	7e1e5e7dec57cfb3149cd5aed0413044
-D	arrow-down.png	
-D	arrow-right.png	
-D	jquery.treeTable.css	
-D	jquery.treeTable.js	
-D	tests/token_test.info	
-D	tests/token_test.module	
-D	token.api.php	
-D	token.css	
-M	token.info	bcab829c38f786a4ad1343a29d97b208
-M	token.install	da312296da3cd24d17f4d01fc07f4c15
-D	token.js	
-M	token.module	bffd221657ff00a2d6e585c9fb7159c5
-D	token.pages.inc	
-D	token.rules.inc	
-D	token.test	
-D	tokenSTARTER.info	
-D	tokenSTARTER.module	
-M	token_actions.info	2cdb4a01d98dc36b627be54674b8b9a5
-M	token_actions.module	4432157ba63c0a41b1a955ca42f08fcd
-D	token_actions.test	
-M	token_comment.inc	4d97c8f27418d3bd9813ce8d9be3249c
-M	token_node.inc	5d2307aa4ba6c1a4bed4f302e178ac22
-M	token_taxonomy.inc	35ea11a18ad0e511b1034beece20d3ea
-M	token_user.inc	913f3d32e86cecf92fc0e3f6daaeda4f
+A	API.txt	66ef3f6e0d4e777d93d2765bbf63e9d0
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	7e1e5e7dec57cfb3149cd5aed0413044
+A	token.info	bcab829c38f786a4ad1343a29d97b208
+A	token.install	da312296da3cd24d17f4d01fc07f4c15
+A	token.module	bffd221657ff00a2d6e585c9fb7159c5
+A	token_actions.info	2cdb4a01d98dc36b627be54674b8b9a5
+A	token_actions.module	4432157ba63c0a41b1a955ca42f08fcd
+A	token_comment.inc	4d97c8f27418d3bd9813ce8d9be3249c
+A	token_node.inc	5d2307aa4ba6c1a4bed4f302e178ac22
+A	token_taxonomy.inc	35ea11a18ad0e511b1034beece20d3ea
+A	token_user.inc	913f3d32e86cecf92fc0e3f6daaeda4f

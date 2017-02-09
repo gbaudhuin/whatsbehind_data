@@ -1,9 +1,12 @@
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-A	README.txt	2b591f9027fa4e02d7dfdf2ab94c59ce
+D	OAuth.php	
+D	OAuth_TestServer.php	
+M	README.txt	2b591f9027fa4e02d7dfdf2ab94c59ce
+D	common.inc.php	
 A	oauth.admin.inc	0cbc41ad21cc484895bd727ca368a6ef
 A	oauth.inc	f80e5bf3eeebfe47a5e0340dbb1dc7c0
-A	oauth.info	64d4f0ba23f46e697cfd5be69807e25f
-A	oauth.install	216c863c15aedbdc91828827e2b87745
+M	oauth.info	64d4f0ba23f46e697cfd5be69807e25f
+M	oauth.install	216c863c15aedbdc91828827e2b87745
 A	oauth.lib.js	9abfb8886df2b2dfb48d00a2abb59639
 A	oauth.lib.php	a465e7fa9b859e015d243197194e48ec
-A	oauth.module	4e068a71e81e4898b046dfc44a32fa60
+M	oauth.module	4e068a71e81e4898b046dfc44a32fa60

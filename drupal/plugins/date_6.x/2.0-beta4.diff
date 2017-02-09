@@ -30,9 +30,11 @@ M	date_popup/lib/README.txt	d48220384f0b45dcdef12f4c9d1215a8
 M	date_popup/lib/jquery.timeentry.pack.js	7db22c93888094ed6181c4f5bdd7068e
 A	date_popup/lib/ui.datepicker.js	ed7a1dadf0beae23aee1cfa4c823c786
 D	date_popup/themes/black.calendar.css	
+A	date_popup/themes/calendar.css	e854b83c2927c18c4da1fb08b8d6707f
 A	date_popup/themes/datepicker.css	bd6f2935d92dbcbf9794330176c767cd
 D	date_popup/themes/flora.calendar.css	
 M	date_popup/themes/timeentry.css	5a148f2b36658679483115d0c10dbaa1
+D	date_popup/themes/white.calendar.css	
 M	date_repeat/date_repeat.info	0cd552b893ffea8e547405d9a87a7739
 M	date_repeat/date_repeat_calc.inc	8e6eda71c8346113f4cd86f57a1ffc53
 M	date_repeat/date_repeat_form.inc	155c4b121aabf8a352ef05fc4a60b420

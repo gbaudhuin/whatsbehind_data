@@ -1,0 +1,15 @@
+M	CHANGELOG.txt	6b69d179d06f377a1b5298fe2faa2f22
+A	UPGRADE.txt	10db7a3d83c08c30912cfe40d777ba81
+M	class/UCXF_FieldList.class.php	0ac25c03b7ed5f237b51a5b560498527
+M	class/UCXF_Pane.class.php	b9e5431ef3713698fe94922dff9e7bd8
+M	class/UCXF_Value.class.php	fe8e55a68c4a28b9e31d707b216b14f5
+M	includes/address_select.inc	bb6cc0eee3aa86e6862964b2492953d0
+M	includes/addressfields.inc	e697a1d458dc2083404b54c31758f88e
+M	includes/uc_addresses.handlers.inc	ff0c8f9af4a2d20ccc8e7845f80f5a95
+M	uc_extra_fields_pane.admin.inc	ca530935d6d27ec933990391e4f4bffe
+A	uc_extra_fields_pane.features.inc	f4a4f54f56965bcdcbf969e95a2e8c76
+M	uc_extra_fields_pane.info	b5a034bfb9555037171548d1b9cd7dc4
+M	uc_extra_fields_pane.install	89e8d4fc45a6ba5f85736ea442babc8b
+M	uc_extra_fields_pane.module	bf7c111b59814f48d45afdf423e24d4d
+M	uc_extra_fields_pane.test	906fa8950e5dba779987d3840700eb0c
+M	views/uc_extra_fields_pane.views.inc	a0a73588544a8ef78296e4054c0f1ef3

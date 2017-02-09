@@ -12,6 +12,7 @@ M	phone.eg.inc	eb1465d55e98ae1f8f0c6db6abded0a2
 M	phone.el.inc	051e91f1f88d331019bd6111444756e1
 M	phone.es.inc	a6034b58338e8d0f32493fc1e41e4468
 M	phone.fr.inc	9a1e18a16a1a2cf0b18962b333f28fc6
+A	phone.gb.inc	e68510afdeea3a8117e4ebbb590f3f97
 M	phone.hu.inc	ff0d1b45c2c434eaa2b5211cb3658f1b
 M	phone.il.inc	eb6babd5b4098bd8d9af7adf996ae11f
 M	phone.info	c288d44e73990fcdab2dc3b1897628ab
@@ -30,6 +31,7 @@ M	phone.ru.inc	3ba4bc072b7aff3dd143f7a560e5f5f2
 M	phone.se.inc	1f575c928366c0a21f14baad1a40e76e
 M	phone.sg.inc	5f52ef779e35155ce6c088a67ade2d30
 M	phone.ua.inc	e57f5644cc7b4cf947e0dec6ee65ce71
+D	phone.uk.inc	
 M	phone.za.inc	6f2f8fd17990e07ab94f591099ca1a83
 M	tests/phone-be.test	3b49959b6c8e0534f52843bcd39778e7
 M	tests/phone-fr.test	8b45e514dafcd47690ef03cbea05f720

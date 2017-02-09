@@ -1,5 +1,0 @@
-M	README.txt	9f63dfda1148d31d5cf500fee7ab7a24
-M	blockcache_alter.info	b02463f31069234e6291072da7b87e7d
-M	blockcache_alter.module	b85aba376171b705d2e9594b83168738
-A	patches/block_no_node_grants.module	c8361b8bd9a272dee800937cc6aa2865
-A	patches/block_with_node_grants.module	2e0a24d1da94ad069503b8d7e2340905

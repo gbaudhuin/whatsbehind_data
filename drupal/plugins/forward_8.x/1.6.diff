@@ -1,7 +1,0 @@
-M	config/install/forward.settings.yml	7e106842ae7e2e7192248ecb5e53dda2
-M	config/schema/forward.schema.yml	88855fae168b5c39c2b229160b048453
-M	forward.info.yml	e00f582f81434f110cac1bed8081c125
-M	forward.install	9375af02d301927b943d1168b775db29
-M	src/Form/ForwardForm.php	94bc62bc1e87481e20eac07efa725258
-M	src/Form/SettingsForm.php	3d2559775a5887bb31ddd9c619bff18c
-M	src/ForwardLinkBuilder.php	618b6429435f2d136cd2fee2d309ee2e

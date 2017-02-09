@@ -32,3 +32,5 @@ A	views/handlers/entity_views_handler_field_text.inc	8b4915258458e5c5c979d2e57d3
 A	views/handlers/entity_views_handler_field_uri.inc	c23d36d8c46850528da9801337f4c70d
 A	views/handlers/entity_views_handler_relationship.inc	695790921365c5553bf5f84cd1da24c2
 M	views/handlers/entity_views_handler_relationship_by_bundle.inc	1ad0ee4c268f514a05a49b087531e75e
+D	views/plugins/entity_plugin_row_entity_view.inc	
+A	views/plugins/entity_views_plugin_row_entity_view.inc	cb3a74dc141f980f377c4422beda3f51

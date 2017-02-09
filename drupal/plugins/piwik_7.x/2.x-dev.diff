@@ -1,11 +1,1 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-M	README.txt	6d84c85af1a7394374994413af6d3cf9
-M	piwik.admin.inc	3700003c8b21622ecca7b669c553a6bb
-M	piwik.admin.js	b7f79d155e1c49256f5887138aaccbd4
 M	piwik.info	a5da3d3ab9bd6a0ad48beb64e0d58cff
-M	piwik.install	9667070bef912efa730e9eb3f185c9b6
-A	piwik.js	1c6ee7ef291565992078bee544b191c6
-M	piwik.module	33ff9f3168879117bfdf37286a0831bb
-M	piwik.test	e9842af3c4cc916b3599c0c5170036c0
-A	piwik.tokens.inc	756277e4e30fb972f4ef6b783aea0040
-A	piwik.variable.inc	863945159f716f87d217c387dfe1aee8

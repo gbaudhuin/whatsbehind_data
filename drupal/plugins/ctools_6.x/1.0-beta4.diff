@@ -11,12 +11,18 @@ D	delegator/css/page-task.css
 D	delegator/css/task-handlers.css	
 M	delegator/delegator.admin.inc	d41d8cd98f00b204e9800998ecf8427e
 D	delegator/delegator.info	
+D	delegator/delegator.install	
 M	delegator/delegator.module	d41d8cd98f00b204e9800998ecf8427e
+D	delegator/help/api-task-handler.html	
+D	delegator/help/api-task-type.html	
+D	delegator/help/api-task.html	
+D	delegator/help/page-task-type.html	
 D	delegator/images/configure.png	
 D	delegator/images/delete.png	
 D	delegator/js/task-handlers.js	
 D	delegator/plugins/task_types/page.admin.inc	
 D	delegator/plugins/task_types/page.inc	
+D	delegator/plugins/tasks/node_edit.inc	
 D	delegator/plugins/tasks/node_view.inc	
 D	delegator/plugins/tasks/page.admin.inc	
 D	delegator/plugins/tasks/page.inc	
@@ -35,12 +41,18 @@ M	includes/plugins.inc	abb67b6c3ad907681413eb1b9528991a
 M	includes/wizard.inc	cd51ddb68aa4cb662db7d9c9fd5afd34
 M	js/ajax-responder.js	fdbda82ee21091055e4e190944c7ae00
 A	page_manager/css/page-manager.css	c4ef103c65889ed4240903cc7b1b5d38
+A	page_manager/help/api-task-handler.html	882c0225785d9323f7bb815561f31f99
+A	page_manager/help/api-task-type.html	600d2f94c90ba16294f24291cb5d2787
+A	page_manager/help/api-task.html	19139db8991e8b5890bf1efe7de7c452
+A	page_manager/help/page-task-type.html	e9ce7eeb86231609a117e8914bd86749
 A	page_manager/images/arrow-active.png	ffa7afc3a81b8c33311f53eee62033bd
 A	page_manager/images/locked.png	996bed957268988e6d42a6159bfc6c3f
 A	page_manager/js/page-list.js	f28af540a9a8028218a3d6bf297a74e4
 A	page_manager/page_manager.admin.inc	d8e01c3d8af1ed9e65e1ed89672c1a4d
 A	page_manager/page_manager.info	60669595ad1b20e8459c71e78e450697
+A	page_manager/page_manager.install	d7d89d32b0b16bc929a75823861bdb78
 A	page_manager/page_manager.module	49df721623d0a71f779864ddf0f83898
+A	page_manager/plugins/tasks/node_edit.inc	a02cb51cd88b125a5e348c42d98f4fb6
 A	page_manager/plugins/tasks/node_view.inc	e4f17c8872a5dbbaa08a4d52cf569a5c
 A	page_manager/plugins/tasks/page.admin.inc	8a7bf76d4b0bf82797d8a8caa3b2c155
 A	page_manager/plugins/tasks/page.inc	982569cd09c2f4b01584cb8798d50af4

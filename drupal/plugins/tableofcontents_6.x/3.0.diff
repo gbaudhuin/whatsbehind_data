@@ -1,22 +1,9 @@
-M	CHANGELOG.txt	caa4b261712fed92f46892cd229c28af
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	c82f1b377177181e0923faf1e3bcb510
-D	back-to-top.gif	
-A	headinganchors.info	d9d2fd7c6cf407c3f997e2d4f88ec77c
-A	headinganchors.module	f613f20747cb34694a385cc418c4e6c0
-D	i18n-ascii.txt	
-D	jquery.localscroll-min.js	
-D	jquery.scrollTo-min.js	
-D	tableofcontents.admin.inc	
-M	tableofcontents.css	60dbcd151adba997299167d82d0227af
+M	headinganchors.info	d9d2fd7c6cf407c3f997e2d4f88ec77c
+M	headinganchors.module	f613f20747cb34694a385cc418c4e6c0
 M	tableofcontents.info	0bf9b4808f450edbb598f767f4720802
-D	tableofcontents.install	
 M	tableofcontents.js	fcbc650b399a3e28fd11d116d7a033f0
 M	tableofcontents.module	6c19b2e7293ced5b01c039c10219d22a
-D	tableofcontents.pages.inc	
-D	tableofcontents_block/tableofcontents_block.info	
-D	tableofcontents_block/tableofcontents_block.install	
-D	tableofcontents_block/tableofcontents_block.module	
 A	translations/fr.po	8574f1d4f819ebfa9b462e24d8af6068
 A	translations/pl.po	9926b083257d03cce953bc14a2e415d7
 A	translations/tableofcontents-module.pot	20d7b06abcd76938d0868ed057d7f973

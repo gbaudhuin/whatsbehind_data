@@ -1,17 +1,7 @@
-D	.gitignore	
-D	README.txt	
-D	certificates/.htaccess	
-M	certificates/certificates.txt	8521567129c036a3c9387bbcd5247c57
-D	certificates/entrust_2048_ca.cer	
-M	includes/push_notifications.admin.inc	70cfd8b0d0824f743f9c380370d28f53
-M	includes/push_notifications.service.inc	5c5a2b23e011d4f4579e1b9a575b5070
-D	push_notifications.api.php	
-M	push_notifications.info	0e1626b32944df887b922928d5aa7d97
-M	push_notifications.install	1b1f6ca4b7239bcfb8d492ab96050c98
-M	push_notifications.module	9cdd3f2067a6850d3feaddca10a30a6e
-D	push_notifications.rules.inc	
-D	scripts/push_notifications_admin.js	
-D	views/push_notifications.views.inc	
-D	views/push_notifications.views_default.inc	
-D	views/push_notifications_views_handler_field_push_notifications_type.inc	
-D	views/push_notifications_views_handler_filter_push_notifications_type.inc	
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	certificates/certificates.txt	8521567129c036a3c9387bbcd5247c57
+A	includes/push_notifications.admin.inc	70cfd8b0d0824f743f9c380370d28f53
+A	includes/push_notifications.service.inc	5c5a2b23e011d4f4579e1b9a575b5070
+A	push_notifications.info	0e1626b32944df887b922928d5aa7d97
+A	push_notifications.install	1b1f6ca4b7239bcfb8d492ab96050c98
+A	push_notifications.module	9cdd3f2067a6850d3feaddca10a30a6e

@@ -1,6 +1,3 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	6bde5dcb6c9dc8c491d77d5b4f9fda0f
-A	elements.info	761f6e29476cc7762f293b723d139e1b
-A	elements.module	b666899b09476749d74d4faaf8d5631a
+M	elements.info	761f6e29476cc7762f293b723d139e1b
+M	elements.module	b666899b09476749d74d4faaf8d5631a
 A	elements.table.css	977e6fc8e928e3fa37f58350fd79a4a4
-A	elements.theme.inc	70ee02b0a864a7c10a0be014870c7dd8

@@ -1,0 +1,20 @@
+M	CHANGELOG.txt	e6b00ed8f40bc4c12204dfb2f9b9c0f5
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	ad7d42060d80dff26c23abeaa24547b8
+M	includes/textsize.admin.inc	02022dfd232b15ed214def3efb087abd
+M	includes/textsize.block.inc	8da272b119cfb0a4e5fd7e075170f31a
+M	jquery.textsize.js	68a743687888db630ee419e169825ed4
+D	po/de.po	
+D	po/textsize.pot	
+M	textsize-form.tpl.php	1c79a4a61449825b5e12ed71710a6c30
+M	textsize-image.tpl.php	00bd63ccd4a0c7fe86f912b0089c834d
+M	textsize-rtl.css	4592d3520a3d299a301e552453fd3c3e
+M	textsize-text.tpl.php	b4ccdb0d21f702e56d071bbfd29290e9
+M	textsize.css	0618dba34a83d21412f45568d174093d
+M	textsize.info	af032554f4b4da048c6161441e3aa1c4
+M	textsize.install	7b04d1196367add08ce1a4db8c563263
+M	textsize.module	e80b7acecfdf09493608be5b4560b68b
+D	translations/cs.po	
+D	translations/de.po	
+D	translations/hu.po	
+D	translations/textsize.pot	

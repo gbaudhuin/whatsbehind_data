@@ -9,6 +9,16 @@ M	devel_generate.module	e86aa87d34beeffa54fbecefdf1c1819
 M	devel_node_access.info	6f2253ce984eeb3c28afba3990a0ccc4
 M	devel_node_access.module	ae7c53a22e802cfbf37ff1a1bcf803f8
 M	krumo/class.krumo.php	c5a2d76cb7f0c5061fdc34e51952b28d
+D	krumo/skins/schablon.com/collapsed.gif	
+D	krumo/skins/schablon.com/dotted.gif	
+D	krumo/skins/schablon.com/empty.gif	
+D	krumo/skins/schablon.com/expanded.gif	
+D	krumo/skins/schablon.com/skin.css	
+A	krumo/skins/white/collapsed.gif	9f822be4370c2c85b107a2a5a4b481a5
+A	krumo/skins/white/dotted.gif	4bd0b101111a2679522ab9ea30e51fba
+A	krumo/skins/white/empty.gif	f06a9516fc45296d03901eeac555ca36
+A	krumo/skins/white/expanded.gif	115925f46a969d6e915e79f6d20c8955
+A	krumo/skins/white/skin.css	083981dce3e4d373b5ac5317fa9df238
 D	performance/README.txt	
 D	performance/performance.info	
 D	performance/performance.install	

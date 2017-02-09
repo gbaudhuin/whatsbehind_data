@@ -1,6 +1,12 @@
+D	contact_component.inc	
+D	contact_component.js	
+A	css/token-input.css	d0160f34313c21e4b9876de2e4c22981
+A	css/webform_civicrm_admin.css	1602fc7f8ce835ed839661150cfc853f
 A	css/webform_civicrm_forms.css	e36a8bc63f97cfd7b49e847cadb34146
 D	icons.png	
 A	images/icons.png	82799672d728b41e374096a322f7c27a
+A	includes/contact_component.inc	25cd0518353ddfd8bea11238336de572
+A	includes/utils.inc	bfef1a6ab9ee328775ca5e1ba0f7f616
 A	includes/wf_crm_admin_component.inc	c7acf69d8e1a03db96fa3586692b398d
 A	includes/wf_crm_admin_form.inc	8f333d71c8c1e20b02c796098f11530d
 A	includes/wf_crm_admin_help.inc	ccc3072b51a7c17195acab9a42f489e8
@@ -8,10 +14,20 @@ A	includes/wf_crm_webform_ajax.inc	d9c19fee979bd6be4bd6445827ad19f7
 A	includes/wf_crm_webform_base.inc	ee60ee6aa728388bb4258cc89fe1e682
 A	includes/wf_crm_webform_postprocess.inc	bcc8d0fd53444d2f71e6a5fead05b6cc
 A	includes/wf_crm_webform_preprocess.inc	e030fc2da40119f457d3c044619e068a
+A	js/contact_component.js	63a5172ac1626224f4138042abeca320
+A	js/webform_civicrm_admin.js	89275064018ce85a41e2150d9a64b2b3
+A	js/webform_civicrm_forms.js	f971b5778d3863783dac6aa579bb9cee
+A	js/webform_civicrm_options.js	7275b347cdf678ced7c1bb6eecabed4a
 A	js/webform_civicrm_payment.js	6450bccd40e37641666a167c38181807
+D	token-input.css	
 M	webform_civicrm.info	89ba98e9b486915a5f8b352c1e7dd682
 M	webform_civicrm.install	a7e2929fce1523aead6d816a687de931
 M	webform_civicrm.module	8ab094c551ec6d636e2d01137fdfa748
+D	webform_civicrm_admin.css	
 D	webform_civicrm_admin.inc	
+D	webform_civicrm_admin.js	
 D	webform_civicrm_forms.css	
 D	webform_civicrm_forms.inc	
+D	webform_civicrm_forms.js	
+D	webform_civicrm_options.js	
+D	webform_civicrm_utils.inc	

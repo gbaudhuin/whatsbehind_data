@@ -12,7 +12,9 @@ D	simplemenu_inactive_parents.module
 D	simplemenu_multi_menu.info	
 D	simplemenu_multi_menu.install	
 D	simplemenu_multi_menu.module	
+D	superfish-1.4.1.js	
 D	superfish-1.4.8.js	
+A	superfish.js	f9609dae83167a18831bf9d5ce23b9bc
 M	themes/blackblue/blackblue.css	98bfff6ffb4bf08338406ad76868cc4f
 D	themes/horizontal/down-green.gif	
 D	themes/horizontal/horizontal.css	

@@ -2,11 +2,17 @@ M	adminimal_admin_toolbar.info.yml	abc2d646d55eef134be35571af214508
 M	css/adminimal_admin_toolbar.css	9f0b21641f9f92b2ff4093039602b6c8
 A	images/0074bd/chevron-right.svg	a20a73a8c65a8215527b829ce9f57737
 A	images/787878/chevron-outline-disc-close.svg	13cab9e7dfe94f2216622d21e45cc387
+A	images/787878/chevron-outline-disc-down.svg	8d1904d732d283e997b6308be1cb30a6
 A	images/787878/drupal-8.svg	79baa567a6a5664468a4979ea64629f3
 D	images/caret-down.svg	
+D	images/chevron-disc-down-hover.svg	
+D	images/chevron-disc-down.svg	
+D	images/chevron-disc-up.svg	
 A	images/ffcfcf/chevron-outline-disc-close.svg	e7b40220fcb65402b7b5edefdb8535eb
 A	images/ffffff/barchart.svg	a5d0e17ceb9e5cf4a9ab642b63d68eef
 A	images/ffffff/chevron-disc-down.svg	a8f032ac8887b57c799d117478187ff9
+A	images/ffffff/chevron-outline-disc-close.svg	a5804301ac127212d22c99374940d63e
+A	images/ffffff/chevron-outline-disc-down.svg	8b20732397f33389843d7764088a1a57
 A	images/ffffff/chevron-right.svg	be424d9c621b0eec0b8fa806e9e7ecbb
 A	images/ffffff/drupal-8.svg	50a7bdb88c2fdea9af94afd51e9228c2
 A	images/ffffff/file.svg	4d369eee3e904ec8473556b7a60bc63f

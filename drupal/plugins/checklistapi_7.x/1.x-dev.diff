@@ -1,20 +1,6 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	README.md	91363d1a37551d35a12dae01b789d77a
-A	checklistapi.admin.inc	1639b9e3bdefd67355848ae1f4002ab8
-A	checklistapi.api.php	3e28587163aa86473f47908116fcd3a5
-A	checklistapi.css	dbb259974b0ae46ecee3fc2db58c78d9
-A	checklistapi.drush.inc	f98d79918438909a6e9caab18ec085a7
-A	checklistapi.info	b467b3434a2b9d7dacf9cf63aade1715
-A	checklistapi.install	a4e7ab0c8fbfe6e620cbafc6d664d233
-A	checklistapi.js	0e92dcf8a3f526354da42752d6bc9b36
-A	checklistapi.module	0008c8dccf863bb69297bff9e5739e9a
-A	checklistapi.pages.inc	4857640967072380fe7d7b7f08fd2db7
-A	checklistapi_example/checklistapi_example.info	2035149d05be9e2f4824df5bc3f52923
-A	checklistapi_example/checklistapi_example.install	bc56c7e8b528b0607b63bc5f75f9ba46
-A	checklistapi_example/checklistapi_example.module	007400f6c43e4d5aeaad1eba554cc15c
-A	lib/Drupal/checklistapi/ChecklistapiChecklist.php	7f7f956e93f0488a64f6f8117bfaf07b
-A	run-tests.sh	982a28c602b3d0e94cfe174af30c05b0
-A	templates/checklistapi-progress-bar.tpl.php	ba2e0b4eabfcbe6dc53efd38d6067fa5
-A	tests/checklistapi.test	4709fb6d54d71501e671479c5962e41a
-A	tests/modules/checklistapi_test/checklistapi_test.info	6868c9ffcf0da945e9912f1d8ab782b8
-A	tests/modules/checklistapi_test/checklistapi_test.module	85097bbdb4b893deb4d0cfc3d759828a
+D	README.txt	
+M	checklistapi.drush.inc	f98d79918438909a6e9caab18ec085a7
+M	checklistapi.info	b467b3434a2b9d7dacf9cf63aade1715
+M	checklistapi_example/checklistapi_example.info	2035149d05be9e2f4824df5bc3f52923
+M	tests/modules/checklistapi_test/checklistapi_test.info	6868c9ffcf0da945e9912f1d8ab782b8

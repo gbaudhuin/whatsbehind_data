@@ -2,6 +2,7 @@ M	CHANGELOG.txt	61c1b2ec07676f978cd2932bc178a79f
 M	MediaYouTubeStreamWrapper.inc	21997dd139d0d6a85631cfd1ee08d983
 M	README.txt	4f685458fdf929afff765e00b6c4d2d6
 M	css/media_youtube.css	43ffbbaba0b6c47d6a4c110465e8a796
+A	css/media_youtube.wysiwyg.css	7636f4bbf4d13ff4a2fea7eae097302d
 A	includes/MediaInternetYouTubeHandler.inc	181edcb3502e3592f47d3c6053be5bc5
 A	includes/MediaYouTubeStreamWrapper.inc	ee56e8ba4c06e742b7c11fe362a232ba
 A	includes/MediaYouTubeStyles.inc	c852991131c5fa7a71fe8bce10bebdba
@@ -17,3 +18,4 @@ D	media_youtube.admin.inc
 M	media_youtube.info	160afeff5729af5dcc3fb2651b023eba
 M	media_youtube.install	3c1c5d2254965004fc6f7c69b54ab42e
 M	media_youtube.module	1d7bd383ead0e424e79ebf1256c6b1b3
+D	media_youtube.wysiwyg.css	

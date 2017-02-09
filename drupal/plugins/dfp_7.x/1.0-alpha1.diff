@@ -1,30 +1,13 @@
-D	README.md	
-D	dfp.admin.css	
-M	dfp.admin.inc	bfc11ce75493b815d0c1889ec75cd81b
-M	dfp.admin.js	3e8901db72a7d638fbba2fb9cbbc11c2
-D	dfp.adtest.inc	
-D	dfp.api.php	
-M	dfp.info	4456afa963214f7752e02968f016e7fb
-M	dfp.install	5861c3c6e539997a21bea40f7ded1dfb
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	dfp.admin.inc	bfc11ce75493b815d0c1889ec75cd81b
+A	dfp.admin.js	3e8901db72a7d638fbba2fb9cbbc11c2
+A	dfp.info	4456afa963214f7752e02968f016e7fb
+A	dfp.install	5861c3c6e539997a21bea40f7ded1dfb
 A	dfp.js	d41d8cd98f00b204e9800998ecf8427e
-M	dfp.module	0097e8bbd27c66b34fad468d18e41b31
-D	docs/images/available_tokens_2.png	
-D	docs/images/background_ad_options.png	
-D	docs/images/dfp_target_individual.png	
-D	docs/images/global_key_value_pairs.png	
-D	docs/images/global_tag_settings.png	
-D	docs/images/inject_javascript.png	
-D	docs/images/list_tab_add_new.png	
-D	docs/images/moderation_state_dropdown.png	
-D	docs/images/taxonomy_options.png	
-D	plugins/content_types/dfp_pane.inc	
-D	plugins/contexts/dfp_context_reaction_adunit.inc	
-D	plugins/contexts/dfp_context_reaction_outofpage.inc	
-M	plugins/contexts/dfp_context_reaction_settings.inc	54ffd7926f15d3ead31751cbc261fec4
-D	plugins/contexts/dfp_context_reaction_sizes.inc	
-M	plugins/contexts/dfp_context_reaction_tags.inc	ed89d6306e778b241008a07721536def
-M	plugins/export_ui/dfp_ctools_export_ui.inc	864f1b6d497862918248072cd8d312d6
-M	plugins/export_ui/dfp_tag_ui.class.php	502fdb87cf356c06b510eb5791eacc3c
-D	tests/dfp.test	
-M	theme/dfp_short_tag.tpl.php	2bd0acdfc0c9bb6a0197395054341a92
-M	theme/dfp_tag.tpl.php	da4d7d80e7cafb31742aed7bd62b8b9e
+A	dfp.module	0097e8bbd27c66b34fad468d18e41b31
+A	plugins/contexts/dfp_context_reaction_settings.inc	54ffd7926f15d3ead31751cbc261fec4
+A	plugins/contexts/dfp_context_reaction_tags.inc	ed89d6306e778b241008a07721536def
+A	plugins/export_ui/dfp_ctools_export_ui.inc	864f1b6d497862918248072cd8d312d6
+A	plugins/export_ui/dfp_tag_ui.class.php	502fdb87cf356c06b510eb5791eacc3c
+A	theme/dfp_short_tag.tpl.php	2bd0acdfc0c9bb6a0197395054341a92
+A	theme/dfp_tag.tpl.php	da4d7d80e7cafb31742aed7bd62b8b9e

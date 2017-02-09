@@ -5,8 +5,7 @@ M	googleanalytics.info	29d8a2b11ba980e8c9caaf9efedc490b
 M	googleanalytics.install	6d35a78ebe908f4461cc48f6b397cf56
 M	googleanalytics.js	9e0eb31b74da032a2579cc8374fae580
 M	googleanalytics.module	949e751c42c943d811aa2ed7d499c8e4
-D	googleanalytics.test	
-A	tests/googleanalytics_basic.test	96ac09bab91b22588d44f8f752dc18ff
+M	tests/googleanalytics_basic.test	96ac09bab91b22588d44f8f752dc18ff
 A	translations/de.po	85337d47143b63d81d535a9a7cb006fa
 A	translations/el.po	b450e081ec9388602d64e6f71cad101c
 A	translations/fr.po	9d3c2e2c3b3327b0e4c15d6fe75eb851

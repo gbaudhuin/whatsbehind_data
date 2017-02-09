@@ -1,12 +1,1 @@
-D	INSTALL	
-D	README	
-D	plugins/content_types/twitter_block.inc	
-A	readme.txt	d591fec2c7f40b69acfdbf1b8c8bcdc3
-M	tests/twitter_block.test	a460b9cad92dcd1e144624e2e4ef3df3
-D	twitter-block-tweet.tpl.php	
-A	twitter_block.admin.inc	5ce5d0c002edd1be3778de4f5cdcce37
-D	twitter_block.class.php	
-D	twitter_block.css	
 M	twitter_block.info	77df2f7cd82c58e667790ca1cdb58689
-M	twitter_block.install	d50587cfeb756ab301dfe2b987d26b71
-M	twitter_block.module	50942a8e7706dd72d26c031b83f98a8a

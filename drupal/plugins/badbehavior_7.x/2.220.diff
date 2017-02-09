@@ -1,6 +1,7 @@
 M	README.txt	66e8c966ab903b8dd114886dd582ffea
-M	badbehavior.admin.inc	74594b44fef51bbf195a987da311599e
+A	badbehavior.admin.inc	74594b44fef51bbf195a987da311599e
 A	badbehavior.css	90a4f5ba0f6a055019fdebc451f4b431
+A	badbehavior.drush.inc	33e40b30e92ec7d181d54c0a2f14b0fe
 M	badbehavior.info	ab9b34ef02db53a9697278d7fcecc386
 M	badbehavior.install	94ed7e93a682edf111ed5ed9c0327da0
 M	badbehavior.module	c2fca55ea6681df9f2ca0df1d296827a

@@ -2,10 +2,12 @@ M	README.txt	56ebe77506d9b870d43d6316bd2a1502
 M	config/install/core.entity_form_display.node.photos.default.yml	6fd8d7ef9e8fc6b5931f32ee87d676f2
 M	config/install/core.entity_view_display.node.photos.default.yml	37c2d48307a601ccd4f011887d76868d
 M	config/install/core.entity_view_display.node.photos.teaser.yml	7d75d4e76defd89c2d07a456a7113f93
+D	config/install/field.field.node.photos.comment.yml	
 A	config/optional/comment.type.comment_photos.yml	b2861524767937ddf0b1b22603a83a2f
 A	config/optional/core.entity_form_display.comment.comment_photos.default.yml	f7550b2cb48bc2c857d109f49dd6133b
 A	config/optional/core.entity_view_display.comment.comment_photos.default.yml	9d06eb76c6b4e184cac6189f2c331838
 A	config/optional/field.field.comment.comment_photos.comment_body.yml	7a64690c95ae0a71827c9cd814d312a3
+A	config/optional/field.field.node.photos.comment_photos.yml	7674b02d75abb9037cbdbb2b5d598c0d
 A	config/optional/field.storage.node.comment_photos.yml	43c30f173fd8d38f41d5222d2455d6ea
 M	css/block/photos_information.css	b38efee2e66788de2b1000e315eaf791
 M	inc/photos.form.inc	bf58a13c9b81201b87c03c862a379626

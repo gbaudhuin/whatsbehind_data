@@ -1,9 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	b400726bdeb0a5d46f866908cd1b8212
-A	includes/labjs.admin.inc	f7de0e6d7f20015563bae3467fa1410c
-A	labjs.info	f198ef1a462f95b21267295138c2c9c4
-A	labjs.install	d1d336f4bc62377c3a82d84dc56f6628
-A	labjs.min.js	f60b5891185dff56ef4b6e1f0aaa02bb
-A	labjs.module	ac2cc63083d96258faecf2b626e71ce1
-A	replace/drupal.js	2e441ce1d4e1d971ca88f7f80a14497e
-A	replace/overlay-parent.js	a99619958d16acc4ce55559fd18d9592
+M	labjs.info	f198ef1a462f95b21267295138c2c9c4

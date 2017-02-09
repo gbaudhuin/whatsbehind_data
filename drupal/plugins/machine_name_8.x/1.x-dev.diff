@@ -1,8 +1,9 @@
 A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	README.txt	32157d54e3414f6c8e2fba666c0b4519
-A	machine_name.info.yml	9b3c2fabf40425d311259141bb7c30cb
-A	src/Plugin/Field/FieldFormatter/MachineName.php	6f265054f683242b230c3a0c52ed90e8
-A	src/Plugin/Field/FieldType/MachineName.php	2443631abeafcd4b2406d0b700ef508a
-A	src/Plugin/Field/FieldWidget/MachineName.php	598134f96a4359be8154776d27bfe5d4
-A	src/Plugin/Validation/Constraint/MachineNameUniqueConstraint.php	00b0aa404ff045185af50e52a48621e6
-A	src/Plugin/Validation/Constraint/MachineNameUniqueValidator.php	e3b2fb5fa66ccae695b07433952e906c
+A	machine_name.info.yml	fd01047f753cff154936daf29af71fd2
+A	src/Plugin/Field/FieldFormatter/MachineName.php	00538822aeddf91032e562df3a88ca2d
+A	src/Plugin/Field/FieldType/MachineName.php	c499641da0c5ec8a1577ee1b0e91a14b
+A	src/Plugin/Field/FieldWidget/MachineName.php	742f35647fd01f944b569a876840ffdf
+A	src/Plugin/Validation/Constraint/MachineNameUniqueConstraint.php	e3755973dfe0514c64e0436ebedcdea0
+A	src/Plugin/Validation/Constraint/MachineNameUniqueValidator.php	844570169c014f1da60cc27767054aba
+A	tests/src/Kernel/MachineNameItemTest.php	be086f05380f93dad9c26b8354950685

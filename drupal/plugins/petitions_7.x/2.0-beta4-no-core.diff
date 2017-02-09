@@ -2358,7 +2358,11 @@ A	modules/custom/api_petitions/example_responses/api_petitions_index.response.js
 A	modules/custom/api_petitions/example_responses/api_petitions_load_signatures.response.json	6a76baef7037021f4489257ff0793019
 A	modules/custom/api_petitions/example_responses/api_petitions_retrieve.response.json	f9465fb03615b36cb2393f7c80fbfd50
 D	modules/custom/api_resource_users/api_resource_users.info	
+D	modules/custom/api_resource_users/api_resource_users.module	
+D	modules/custom/api_resource_users/example_responses/api_resource_users_index.response.json	
 A	modules/custom/api_users/api_users.info	d616d0cbe6fdbca8d98794fd2ed453b2
+A	modules/custom/api_users/api_users.module	3e37fd593f27ee5e162a7810589ce9fe
+A	modules/custom/api_users/example_responses/api_users_index.response.json	1ef7f5f3622f65f873c9583d58b24d87
 M	modules/custom/front_class/front_class.info	3c88dfe47f9cd0d905cff4caedd89ec4
 M	modules/custom/gatekeeper/gatekeeper.info	d7a69530b16e7180fc55eb8f74abc27f
 M	modules/custom/is_not_cached/is_not_cached.info	df0762103be4c1005794f6fde5752b4b

@@ -3,9 +3,21 @@ A	images/buzz.png	6eb67c550353de1f926d9cc696631763
 A	images/linkedin.png	24dca98dba47d6a5182eb12434fd867e
 A	images/myspace.png	7a6b4407afea2989d73408a88e888b8d
 A	images/twitter.png	bf168f980d5bd1bf4a0407c0b535df55
+D	po/de.po	
+D	po/es.po	
+D	po/fr.po	
+D	po/he.po	
+D	po/pt.po	
+D	po/service_links-module.pot	
 M	service_links.info	705fa786ec4342602bdf678f5e1a0aeb
 M	service_links.install	3aa2e8a39a1015323a18895755e18bac
 M	service_links.module	419f5914a538fb182f44a056eb3af691
 M	template.php	db222d4f0e28c29163486e737eb81360
+A	translations/de.po	563c297113ffeae51e7147b4c191f983
+A	translations/es.po	117c063903031b1f158386c0aacd5b8b
+A	translations/fr.po	5347b66eebc907dd42ea0ac4978391b1
+A	translations/he.po	a11fec9927d8e771e2ed4b4f0acc2a2e
 A	translations/hu.po	79ea202f021dc3c30a424ffe37b5fff3
 A	translations/it.po	3f33f05a8fcf213cbda3ed1dfe9cb0ff
+A	translations/pt.po	23dde5b7307d8eebd28c111a59a80f00
+A	translations/service_links-module.pot	d7b789fe14b313f821454cf99380e4a7

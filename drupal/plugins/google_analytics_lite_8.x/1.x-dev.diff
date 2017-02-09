@@ -1,8 +1,0 @@
-A	.gitignore	9a5da9cdbb7678bbacfa2832748bfdeb
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	config/install/google_analytics_lite.settings.yml	da679585a2cb049c9bc60aae9650850f
-A	google_analytics_lite.info.yml	2cc2f27defe93d0c9dabe39e552cdae0
-A	google_analytics_lite.links.menu.yml	499aae229c0e375c7299a47709515157
-A	google_analytics_lite.module	77dda82c73a76cb9b30e94dedcb421f7
-A	google_analytics_lite.routing.yml	21c151cc688112047fe3290c593b2b3c
-A	src/Form/GoogleAnalyticsLiteForm.php	85b2ade3dabc173501cdc41ba1109f72

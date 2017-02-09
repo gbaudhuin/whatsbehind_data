@@ -55,6 +55,7 @@ A	translators/tmgmt_local/src/Plugin/views/field/LoopCount.php	40819104944df3e56
 A	translators/tmgmt_local/src/Plugin/views/field/Progress.php	43926249c3bcf37ca3ab4db03aed1383
 A	translators/tmgmt_local/src/Plugin/views/field/TaskItemOperations.php	b341dd4addac7f6a874252978f9fa68a
 A	translators/tmgmt_local/src/Plugin/views/field/TaskItemStatus.php	078f62c9ea321a3b1727099ae0283f56
+A	translators/tmgmt_local/src/Plugin/views/field/TaskOperations.php	a2a29ef987d59892ad8e60c9beefa8c4
 A	translators/tmgmt_local/src/Plugin/views/field/TaskStatus.php	483139c96aea2b8563fcd02f08b86999
 A	translators/tmgmt_local/src/Plugin/views/field/WordCount.php	549ff424b91eb59f2c27a7a1e6a75495
 A	translators/tmgmt_local/src/Plugin/views/filter/TaskEligible.php	5564fe133bdcf8e7cc2dc8600f7a9235
@@ -66,6 +67,7 @@ A	translators/tmgmt_local/tmgmt_local.theme.inc	41fb112af92c1c200262a70ee8c19fb3
 D	translators/tmgmt_local/views/handlers/tmgmt_local_task_handler_field_item_operations.inc	
 D	translators/tmgmt_local/views/handlers/tmgmt_local_task_handler_field_job_item_count.inc	
 D	translators/tmgmt_local/views/handlers/tmgmt_local_task_handler_field_loop_count.inc	
+D	translators/tmgmt_local/views/handlers/tmgmt_local_task_handler_field_operations.inc	
 D	translators/tmgmt_local/views/handlers/tmgmt_local_task_handler_field_progress.inc	
 D	translators/tmgmt_local/views/handlers/tmgmt_local_task_handler_field_wordcount.inc	
 D	translators/tmgmt_local/views/handlers/tmgmt_local_task_handler_filter_eligible.inc	

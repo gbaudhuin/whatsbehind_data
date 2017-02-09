@@ -22,6 +22,7 @@ D	libraries/php-captcha/images/3.psd
 D	libraries/php-captcha/php-captcha.inc.php	
 M	misc.inc	a30ce734d45306aed3f1e5124d7a7196
 M	mm_admin.inc	630d0d6333604376105183d934ddf91a
+D	mm_api.inc	
 M	mm_browser.inc	c99619ec7d0a6c66e4ad138bf6eee98c
 M	mm_content.inc	5b7e33c340cc7ba7c9f9a8b75cc35721
 M	mm_node.inc	09d2bc6af5ad08d14a79935e4d279e7d
@@ -44,6 +45,7 @@ M	modules/mm_webform/mm_webform.module	2fc73238d75c95e75659268c35c56443
 M	modules/mm_workflow_access/mm_workflow_access.info	dab7996362b6665f8aba0fe05e4a4f80
 M	modules/rss_page/rss_page.info	679ebc533233c68b798b47f8347a121e
 M	modules/rss_page/rss_page.module	e1c8e532b92ed68cb3c05b9bb61e7eb4
+A	monster_menus.api.php	996a20081be7e5279e63984182d8ba82
 M	monster_menus.info	8453645b8aed6b8bc67344f1f8ae748f
 M	monster_menus.install	5b84e39296b1643fa8aa27ece10760f7
 M	monster_menus.module	968af9e1cd18088cd01d3c96ddd1c479

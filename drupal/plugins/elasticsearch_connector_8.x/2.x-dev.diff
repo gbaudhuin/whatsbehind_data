@@ -4,7 +4,7 @@ M	config/schema/elasticsearch_connector.cluster.schema.yml	74a981c833ee52db60b72
 M	config/schema/elasticsearch_connector.index.schema.yml	3f9b6e1e5411cd4775e885cd3e8b90d4
 M	css/ec-index.css	4490034d94cce46fbf5a021dca96f68f
 A	elasticsearch_connector.api.php	ac54b968e020091ff7bc30b8ee87e936
-M	elasticsearch_connector.info.yml	e2d4d60c91dbcf462d8f0c13d3fe0cd6
+M	elasticsearch_connector.info.yml	145a9ea0b9fcd998d0a47156c4e0e3a2
 M	elasticsearch_connector.install	b82f825366bf2df45068cf8c14768d04
 A	elasticsearch_connector.libraries.yml	2ce2a1322d2e3505923d2059c5da5b52
 M	elasticsearch_connector.links.action.yml	8ba77096ef4bf427cf035dc116a1a33e
@@ -13,10 +13,10 @@ M	elasticsearch_connector.links.task.yml	56df9e2282f5d8e4d071a9aec9d3dcc9
 M	elasticsearch_connector.module	180d2a81d581336d6cc58537cac6b525
 M	elasticsearch_connector.permissions.yml	336b762c9615451a8975774d332cec97
 M	elasticsearch_connector.routing.yml	dcbf42c437641db2a229deca72775569
-A	elasticsearch_connector.services.yml	d69bbddae093a0a967f0a1b2e78de92f
+A	elasticsearch_connector.services.yml	0a48f190e23e6f7c5ca0f8df062a7623
 M	js/ec-index-child.js	3527aaafce14d2958388ace88f523325
 M	js/ec-index.js	24e350e5026666a79340234e40ce660b
-A	modules/elasticsearch_connector_views/elasticsearch_connector_views.info.yml	fa6c5818ae540bd01686c0928932083d
+A	modules/elasticsearch_connector_views/elasticsearch_connector_views.info.yml	86e25274aa2d4f5d89de6e3bbbf5f08f
 A	modules/elasticsearch_connector_views/elasticsearch_connector_views.views.inc	8d1c0738bf7f5f4d6406bf52674e5b0f
 A	modules/elasticsearch_connector_views/src/Plugin/views/ElasticsearchViewsHandlerTrait.php	52e66d0af17ab13bfbf365847cd0bf00
 A	modules/elasticsearch_connector_views/src/Plugin/views/field/ElasticsearchViewsBoolean.php	1e0c20eb5bf1c90d88e3f52078f6a5a1
@@ -44,9 +44,9 @@ D	src/DESConnector/DESConnectorInterface.php
 A	src/ElasticSearch/ClientManager.php	e654d119489be9abc9958e18afa3d73c
 A	src/ElasticSearch/ClientManagerInterface.php	a79440f459bf813c30b11b34cb837a36
 A	src/ElasticSearch/Parameters/Builder/SearchBuilder.php	23ac16130004a38a8b958bd406ce695b
-A	src/ElasticSearch/Parameters/Factory/FilterFactory.php	b21d5ce32224ad75f92a389cfd2ca175
+A	src/ElasticSearch/Parameters/Factory/FilterFactory.php	3404be943d844e3d1337f6289f6beb8c
 A	src/ElasticSearch/Parameters/Factory/IndexFactory.php	17aee4ef8beecfcf09b36194512482d2
-A	src/ElasticSearch/Parameters/Factory/MappingFactory.php	dd91b3ac16361f01c693ceeb025d0688
+A	src/ElasticSearch/Parameters/Factory/MappingFactory.php	b2c5ca9ac7f8fdc7a06bf6facfbaa304
 A	src/ElasticSearch/Parameters/Factory/SearchFactory.php	6ff49a25e6a893843cb4e6f725b35721
 M	src/Entity/Cluster.php	80bfb28717c0a432d02caf9c0692905c
 A	src/Entity/ClusterRouteProvider.php	077814dfcdd33e26e8f494b663b50f2a
@@ -59,4 +59,4 @@ M	src/Form/IndexDeleteForm.php	72ab36365effa873fcb8bdb2c86c6b6f
 M	src/Form/IndexForm.php	6749307d6d791a82f3ebe7047825f4bf
 M	src/Plugin/search_api/backend/SearchApiElasticsearchBackend.php	85be96c8da150c0e85afa3d0812bdd73
 M	src/Tests/ElasticsearchTest.php	ce4268d58f6abab0bc160d68533fec43
-M	tests/modules/elasticsearch_test/elasticsearch_test.info.yml	c0c911d04c1dd42e376ab2c7ee4f5fa2
+M	tests/modules/elasticsearch_test/elasticsearch_test.info.yml	5d516a071586ed73019404f5a6d7ee42

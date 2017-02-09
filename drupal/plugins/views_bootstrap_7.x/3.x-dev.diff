@@ -9,7 +9,6 @@ M	plugins/thumbnail/views_bootstrap_thumbnail_plugin_style.inc	c1d56d3476bd2e8b9
 M	templates/accordion/theme.inc	ff72ff58dcb03ebf1e8c1d7e33767fee
 M	templates/accordion/views-bootstrap-accordion-plugin-style.tpl.php	ae3550e4f431845e1a23606aea013158
 M	templates/carousel/theme.inc	bb316b0e1c9de13cddf2e521ed3c48a3
-M	templates/carousel/views-bootstrap-carousel-plugin-rows.tpl.php	80343a572170735f0e0bee2fe79a1de5
 M	templates/carousel/views-bootstrap-carousel-plugin-style.tpl.php	571ecbb2a68926b1c8506efbaf2af22d
 M	templates/grid/theme.inc	6074d702dace1d2126b08706c646f433
 M	templates/grid/views-bootstrap-grid-plugin-style.tpl.php	b3403d70b56dc79a3c658a4138269d7e

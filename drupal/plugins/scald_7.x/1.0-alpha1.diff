@@ -1,9 +1,15 @@
 A	HOWTO.txt	aef8be35e5f54b1ef197c640984a140c
-D	README.txt	
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	TODO.txt	90f13eb807b4d349c7ad38592af2f97c
+A	assets/audio.png	e4280bee79b70ea036d02b355bf2ee28
+A	assets/image.png	62697caaedb8d2c2a5ebd677a11cc8b9
+A	assets/thumbnail_default.png	ada00edb7d07c0c6284200d0be0639d6
+A	assets/video.png	62ac03d0df0527c850b31f655cccdf69
+A	atom_reference/atom_reference.css	0d893a5e5ccfbe7fe3a722a2afe3bb6c
 A	atom_reference/atom_reference.info	f268b2389f4e3e5b9a85e4c076b34475
 A	atom_reference/atom_reference.js	6b6a2037a580113b1297c06885244ad2
 A	atom_reference/atom_reference.module	c685483b02194e25a9bc52bb02ba240e
+A	dnd/css/dnd-library.css	825b40f4024ba66bba64eb07dcfcb976
 A	dnd/dnd-library.tpl.php	0da8860d2450e175d6a157f890f1e7dd
 A	dnd/dnd.admin.inc	732f85c8628869a32f907f4a0bb07732
 A	dnd/dnd.info	73947da84f5951b20b972cbb360f7ab4
@@ -83,128 +89,33 @@ A	dnd/modules/dnd_test/img/item-3-S.jpg	f3acb461ebd04ed264df096aa2646de6
 A	dnd/modules/dnd_test/img/item-3-thumb.jpg	5c1a44ef7b894c7e3ed1ad021fb56f40
 A	docs/scald_overview.txt	c9761ca836944c258754ccac246a5b03
 A	docs/scald_provider_api.txt	d1fe6c91cb3929beffedcc425517a225
-D	includes/ScaldAtom.inc	
-D	includes/ScaldAtomController.inc	
-D	includes/scald.admin.inc	
-D	includes/scald.atom.inc	
-D	includes/scald.constants.inc	
-D	includes/scald.pages.inc	
-D	includes/scald.plupload.inc	
-D	includes/scald.translation_handler.inc	
-M	includes/scald.views.inc	685ced24a12602f33aa8a17739c2a515
-D	includes/scald.views_default.inc	
-D	includes/scald_views_handler_field_actions.inc	
-D	includes/scald_views_handler_field_data.inc	
-M	includes/scald_views_handler_field_representation.inc	31569ecd830722df57b1abace11dc329
-M	includes/scald_views_handler_filter_actions.inc	29ab7c9514eba43109bd8f4c8e05af2b
-M	includes/scald_views_handler_filter_atom_provider.inc	093842e39237a9ad430eea28d68eb565
-M	includes/scald_views_handler_filter_atom_type.inc	7844f92e7b88cb36e730cdcc969d5f9b
+A	includes/scald.views.inc	685ced24a12602f33aa8a17739c2a515
+A	includes/scald_views_handler_field_representation.inc	31569ecd830722df57b1abace11dc329
+A	includes/scald_views_handler_filter_actions.inc	29ab7c9514eba43109bd8f4c8e05af2b
+A	includes/scald_views_handler_filter_atom_provider.inc	093842e39237a9ad430eea28d68eb565
+A	includes/scald_views_handler_filter_atom_type.inc	7844f92e7b88cb36e730cdcc969d5f9b
 A	mee/mee.info	2c98af62a0a8659deb61e9791464275f
 A	mee/mee.install	57f69128055f0a9dc7df3de40324c9a0
 A	mee/mee.js	81a7e268690628008b084742df2758c8
 A	mee/mee.module	90b8eff5676919c15892905fec4d546a
-D	modules/fields/atom_reference/atom_reference.info	
-D	modules/fields/atom_reference/atom_reference.install	
-D	modules/fields/atom_reference/atom_reference.js	
-D	modules/fields/atom_reference/atom_reference.migrate.inc	
-D	modules/fields/atom_reference/atom_reference.module	
-D	modules/fields/atom_reference/atom_reference.test	
-D	modules/fields/mee/css/editor-global.css	
-D	modules/fields/mee/css/editor.css	
-D	modules/fields/mee/mee.info	
-D	modules/fields/mee/mee.install	
-D	modules/fields/mee/mee.js	
-D	modules/fields/mee/mee.module	
-D	modules/fields/mee/mee.views.inc	
-D	modules/fields/mee/plugins/ckeditor/dialogs/dnd.js	
-D	modules/fields/mee/plugins/ckeditor/icons/atom.png	
-D	modules/fields/mee/plugins/ckeditor/lang/en.js	
-D	modules/fields/mee/plugins/ckeditor/plugin.js	
-D	modules/fields/mee/plugins/dndck4/dialogs/atomProperties.js	
-D	modules/fields/mee/plugins/dndck4/icons/atom.png	
-D	modules/fields/mee/plugins/dndck4/lang/en.js	
-D	modules/fields/mee/plugins/dndck4/plugin.js	
-D	modules/fields/mee/plugins/sas.inc	
-D	modules/fields/mee/plugins/sas/images/sas.png	
-D	modules/fields/mee/plugins/sas/sas.css	
-D	modules/fields/mee/plugins/sas/sas.js	
-D	modules/library/dnd/README.txt	
-D	modules/library/dnd/dnd.admin.inc	
-D	modules/library/dnd/dnd.info	
-D	modules/library/dnd/dnd.install	
-D	modules/library/dnd/dnd.module	
-D	modules/library/dnd/icons/audio-large-color.png	
-D	modules/library/dnd/icons/audio-large-inverted.png	
-D	modules/library/dnd/icons/audio-large.png	
-D	modules/library/dnd/icons/audio.png	
-D	modules/library/dnd/icons/close.png	
-D	modules/library/dnd/icons/flash.png	
-D	modules/library/dnd/icons/image-large-color.png	
-D	modules/library/dnd/icons/image-large-inverted.png	
-D	modules/library/dnd/icons/image.png	
-D	modules/library/dnd/icons/library-dark.png	
-D	modules/library/dnd/icons/library-light.png	
-D	modules/library/dnd/icons/plus-inverted.png	
-D	modules/library/dnd/icons/plus-white.png	
-D	modules/library/dnd/icons/search-off.png	
-D	modules/library/dnd/icons/search-on.png	
-D	modules/library/dnd/icons/soundslide-large-color.png	
-D	modules/library/dnd/icons/soundslide-large-inverted.png	
-D	modules/library/dnd/icons/soundslide.png	
-D	modules/library/dnd/icons/video-large-color.png	
-D	modules/library/dnd/icons/video-large-inverted.png	
-D	modules/library/dnd/icons/video.png	
-D	modules/library/dnd/js/dnd-library.js	
-D	modules/library/dnd/js/dnd-modal.js	
-D	modules/library/scald_dnd_library/includes/scald_dnd_library.views_default.inc	
-D	modules/library/scald_dnd_library/includes/scald_plugin_style_library.inc	
-D	modules/library/scald_dnd_library/scald_dnd_library.api.php	
-D	modules/library/scald_dnd_library/scald_dnd_library.module	
-D	modules/library/scald_dnd_library/sdl-library.tpl.php	
-D	modules/providers/scald_audio/libraries/dewplayer/dewplayer-playlist.swf	
-D	modules/providers/scald_audio/scald_audio.info	
-D	modules/providers/scald_audio/scald_audio.install	
-D	modules/providers/scald_audio/scald_audio.module	
-D	modules/providers/scald_audio/scald_audio_html5.tpl.php	
-D	modules/providers/scald_audio/scald_audio_player.tpl.php	
-D	modules/providers/scald_flash/icons/flash-large-color.png	
-D	modules/providers/scald_flash/icons/flash-large-inverted.png	
-D	modules/providers/scald_flash/icons/flash-large.png	
-D	modules/providers/scald_flash/icons/flash.png	
-D	modules/providers/scald_flash/scald_flash.css	
-D	modules/providers/scald_flash/scald_flash.info	
-D	modules/providers/scald_flash/scald_flash.install	
-D	modules/providers/scald_flash/scald_flash.module	
-D	modules/providers/scald_flash/scald_flash_object.tpl.php	
-D	modules/providers/scald_image/scald_image.info	
-D	modules/providers/scald_image/scald_image.install	
-D	modules/providers/scald_image/scald_image.js	
-D	modules/providers/scald_image/scald_image.module	
-D	modules/providers/scald_video/README.txt	
-D	modules/providers/scald_video/scald_video.info	
-D	modules/providers/scald_video/scald_video.install	
-D	modules/providers/scald_video/scald_video.module	
-D	modules/providers/scald_video/scald_video_player.tpl.php	
-D	modules/scald_quickstart/scald_quickstart.install	
-D	modules/scald_quickstart/scald_quickstart.module	
-D	scald-atom.tpl.php	
 A	scald.admin.inc	138f1bce1c073882f9a5fcb6113169a3
-D	scald.api.php	
 A	scald.constants.inc	fae8a11c226bc492e4fa58f1fb0f9c6c
 A	scald.debug.inc	2e128c5c8b42c6db2415b1e4b7e4a466
-D	scald.features.inc	
-M	scald.info	d50f6df972364431b89fb511bacbac2a
-M	scald.install	d3611bd232e28ebcec36cd7267a9009f
-M	scald.module	98aae62b13840c0e3356bd4828e4756b
+A	scald.info	d50f6df972364431b89fb511bacbac2a
+A	scald.install	d3611bd232e28ebcec36cd7267a9009f
+A	scald.module	98aae62b13840c0e3356bd4828e4756b
 A	scald.pages.inc	5a6535ddbbd9b63ca70d6e2acf680461
-D	scald.tokens.inc	
 A	scald_dailymotion/scald_dailymotion.admin.inc	d741b189beba93b6c1066ba407972b3c
 A	scald_dailymotion/scald_dailymotion.info	f04668722a126747038da1d15e1e6743
 A	scald_dailymotion/scald_dailymotion.module	dd8c737d3efc457ebadd322a5e4a1f45
 A	scald_dailymotion/scald_dailymotion.pages.inc	89c8015932d6c938829e2daeb277dde7
 A	scald_dailymotion/scald_dailymotion_player.tpl.php	dde39ce285521bfc2f98be88ded8e31c
+A	scald_dnd_library/includes/scald_dnd_library.views.inc	66b233c951d41ba999855252f63dfec3
 A	scald_dnd_library/includes/scald_dnd_library.views_default.inc	3159a6a0a9cd3c89eae3b305ad6efdaf
+A	scald_dnd_library/includes/scald_plugin_display_library.inc	2ca3819a4da723f9fd2473228b2e0abc
 A	scald_dnd_library/includes/scald_plugin_style_library.inc	5ba2284e14a709e995dddf62af9d4866
+A	scald_dnd_library/scald_dnd_library.info	e705957ea7d2145810678b74427e79fa
+A	scald_dnd_library/scald_dnd_library.install	5099ee9da00d93146a8c2fa2bd7b53dc
 A	scald_dnd_library/scald_dnd_library.module	68ead91eb47d7672ab05ee240bca88bd
 A	scald_dnd_library/sdl-footer.tpl.php	f297c1b4258eb45085b15d7cd77a7485
 A	scald_dnd_library/sdl-header.tpl.php	a0af7a96c6c77f4b3206a5fd37275996
@@ -212,8 +123,6 @@ A	scald_dnd_library/sdl-library.tpl.php	6a17c5f56c3ec75abfb1aa6d0c8835a4
 A	scald_image/scald_image.info	d4b69b53e4c490d24a99c45a2fb32920
 A	scald_image/scald_image.install	8baa6c7c6840cb8be7548d18d3c8efb4
 A	scald_image/scald_image.module	895c633718e683b54b407801450ecbca
+A	scald_quickstart/scald_quickstart.info	cc59a2602c1ab8d69230f25e392b290e
 A	scald_quickstart/scald_quickstart.install	70c320133542087f202926268efd28da
 A	scald_quickstart/scald_quickstart.module	79f4acb791013eb38d71cef42b007471
-D	tests/scald.test	
-D	tests/scald_test/scald_test.info	
-D	tests/scald_test/scald_test.module	

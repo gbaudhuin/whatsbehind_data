@@ -1,9 +1,4 @@
-A	CHANGELOG.txt	1ad49c029706875509565135b8845339
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	0395f8eb133afefb3d03ea7c417f5714
-A	includes/viewfield.views.inc	b30a60610f3e22903893b7aad28e2ebb
-A	theme/viewfield.css	96b80e6a7d14b1eea03d3b3bdb332ab0
-A	theme/viewfield.theme.inc	febe7d411120e9fe2fd3872682e66594
-A	viewfield.info	c05ca08904dd40527ed7ec6715e7e71c
-A	viewfield.install	f5307c026ef982d024e112e7a301787f
-A	viewfield.module	28f0a1937b0979d6f743a812b47babb9
+M	CHANGELOG.txt	1ad49c029706875509565135b8845339
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	theme/viewfield.theme.inc	febe7d411120e9fe2fd3872682e66594
+M	viewfield.info	c05ca08904dd40527ed7ec6715e7e71c

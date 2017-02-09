@@ -3,5 +3,7 @@ M	permissions_by_term.info.yml	a1e378909dc08036c1a48ba59efc5862
 M	src/AccessStorage.php	1c69c1ab741815f9d0add6493085dce4
 M	src/AccessStorageInterface.php	8a121f1e2a911f39e64c9b33c39d94e1
 A	tests/build.xml.example	7c687fec126d0b93fd811d7d8016f6fd
+D	tests/codeception/tests/_data/2016-09-27-pbt-d8.sql	
+A	tests/codeception/tests/_data/dump.sql	0f769a2ea930475b70c667ee94c4bded
 A	tests/codeception/tests/acceptance/AccessRemovalOneTermCept.php	f32e84211167dddf83f066c9c22b203c
 D	upgrade-info.html	

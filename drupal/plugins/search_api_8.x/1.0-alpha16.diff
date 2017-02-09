@@ -116,20 +116,56 @@ M	src/Tracker/TrackerInterface.php	c4030c4ba194187955d8e7817705f94b
 M	src/UnsavedIndexConfiguration.php	ec7835d5ec63a5eef8da488efa2d79f2
 M	src/Utility.php	665e82a547cc8bcf284fafdcf101befe
 A	tests/search_api_test/config/schema/search_api_test.schema.yml	0b839d381a907a63623e68f57f451031
+A	tests/search_api_test/search_api_test.info.yml	9daf0f92ecf220c651b7789909ca2f76
+A	tests/search_api_test/search_api_test.module	df95a50b7325513c25fcd3021c5f0b5b
+A	tests/search_api_test/src/Plugin/search_api/backend/TestBackend.php	1db3c356fa631c79ba797c129880e9b1
 A	tests/search_api_test/src/Plugin/search_api/data_type/AlteringValueTestDataType.php	6b2f1f4dd64cf5284dec224b19e1dbaf
+A	tests/search_api_test/src/Plugin/search_api/data_type/TestDataType.php	981bdb095c6b22b40731840d211c183e
+A	tests/search_api_test/src/Plugin/search_api/data_type/UnsupportedTestDataType.php	1344d5fffb69be2339167d8f6e8c9ecd
+A	tests/search_api_test/src/Plugin/search_api/datasource/TestDatasource.php	20e120b9050c8eacf772701accb222e9
 A	tests/search_api_test/src/Plugin/search_api/processor/TestProcessor.php	97bff994113e6228f0e41cc24fd74bd8
 A	tests/search_api_test/src/Plugin/search_api/tracker/TestTracker.php	6b2e4c3601fc3f1d8127ee12ada9f9a8
 A	tests/search_api_test/src/PluginTestTrait.php	9f739057865eead858c76a0a2b62da68
 A	tests/search_api_test/src/TestPluginTrait.php	070ffb3220ebcfc7d412cdf98e816cd1
 D	tests/search_api_test_backend/config/schema/search_api_test_backend.schema.yml	
 D	tests/search_api_test_backend/search_api_test_backend.info.yml	
+D	tests/search_api_test_backend/search_api_test_backend.module	
+D	tests/search_api_test_backend/src/Plugin/search_api/backend/TestBackend.php	
 D	tests/search_api_test_backend/src/Plugin/search_api/data_type/AlteringValueTestDataType.php	
+D	tests/search_api_test_backend/src/Plugin/search_api/data_type/TestDataType.php	
+D	tests/search_api_test_backend/src/Plugin/search_api/data_type/UnsupportedTestDataType.php	
 D	tests/search_api_test_backend/src/Plugin/search_api/tracker/Test.php	
 M	tests/search_api_test_db/config/install/search_api.index.database_search_index.yml	28e50fd2b96320b5ff025c1b9785bee6
 M	tests/search_api_test_db/search_api_test_db.info.yml	6b68424b687f704fefbcbf87b6c87f01
 D	tests/search_api_test_dependencies/config/schema/search_api_test_dependencies.schema.yml	
+D	tests/search_api_test_dependencies/search_api_test_dependencies.info.yml	
+D	tests/search_api_test_dependencies/src/Plugin/search_api/datasource/TestDatasource.php	
 D	tests/search_api_test_dependencies/src/Plugin/search_api/processor/TestProcessor.php	
 D	tests/search_api_test_dependencies/src/Plugin/search_api/tracker/TestTracker.php	
+D	tests/search_api_test_example_content/config/install/field.field.entity_test.article.body.yml	
+D	tests/search_api_test_example_content/config/install/field.field.entity_test.article.category.yml	
+D	tests/search_api_test_example_content/config/install/field.field.entity_test.article.keywords.yml	
+D	tests/search_api_test_example_content/config/install/field.field.entity_test.article.width.yml	
+D	tests/search_api_test_example_content/config/install/field.field.entity_test.item.body.yml	
+D	tests/search_api_test_example_content/config/install/field.field.entity_test.item.category.yml	
+D	tests/search_api_test_example_content/config/install/field.field.entity_test.item.keywords.yml	
+D	tests/search_api_test_example_content/config/install/field.field.entity_test.item.width.yml	
+A	tests/search_api_test_example_content/config/install/field.field.entity_test_mulrev_changed.article.body.yml	7774a82b5d51065802c1b7351b8919e0
+A	tests/search_api_test_example_content/config/install/field.field.entity_test_mulrev_changed.article.category.yml	d45460cbb3fcb8995e3f05f33d64ba1a
+A	tests/search_api_test_example_content/config/install/field.field.entity_test_mulrev_changed.article.keywords.yml	8b664e2a2f46a8082293accd2506a06d
+A	tests/search_api_test_example_content/config/install/field.field.entity_test_mulrev_changed.article.width.yml	7a3e2d8045ec024e1d9af6a3a8d8b426
+A	tests/search_api_test_example_content/config/install/field.field.entity_test_mulrev_changed.item.body.yml	7b7b9e3dea93f5a1223d9ea1ea978d8d
+A	tests/search_api_test_example_content/config/install/field.field.entity_test_mulrev_changed.item.category.yml	2efd0c5320ed198f93549fd0a64a5224
+A	tests/search_api_test_example_content/config/install/field.field.entity_test_mulrev_changed.item.keywords.yml	e36c4ef7cfab34956c0152a389b2a113
+A	tests/search_api_test_example_content/config/install/field.field.entity_test_mulrev_changed.item.width.yml	c8ddcb21bc755d302826c566b2c3d64a
+D	tests/search_api_test_example_content/config/install/field.storage.entity_test.body.yml	
+D	tests/search_api_test_example_content/config/install/field.storage.entity_test.category.yml	
+D	tests/search_api_test_example_content/config/install/field.storage.entity_test.keywords.yml	
+D	tests/search_api_test_example_content/config/install/field.storage.entity_test.width.yml	
+A	tests/search_api_test_example_content/config/install/field.storage.entity_test_mulrev_changed.body.yml	8f6e7e57b8b02d0a33f4d0ca359a4cc4
+A	tests/search_api_test_example_content/config/install/field.storage.entity_test_mulrev_changed.category.yml	d381d775b0fdccbafa897f65d5864e06
+A	tests/search_api_test_example_content/config/install/field.storage.entity_test_mulrev_changed.keywords.yml	057b535df29ed0c2a2100640f5543bdd
+A	tests/search_api_test_example_content/config/install/field.storage.entity_test_mulrev_changed.width.yml	fef791d081474d48d030e17c2b0e1c57
 M	tests/search_api_test_example_content/search_api_test_example_content.info.yml	ee15b752458f97d28f362374e34121c9
 M	tests/search_api_test_extraction/config/install/field.field.entity_test.article.links.yml	40e74399e1dd7837eb94b9f4852e2a31
 M	tests/search_api_test_extraction/config/install/field.storage.entity_test.links.yml	96a4175e3969fd4039c98266403e994b

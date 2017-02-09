@@ -6,15 +6,11 @@ M	googleanalytics.install	e926b9810dfb5599c3f0b3cf1c28c0b8
 M	googleanalytics.js	88f35e53b11f08d5ca0220fce80a7f08
 M	googleanalytics.module	1bb1f8108d05f801f172fb336a31c862
 M	tests/googleanalytics_basic.test	71e0cf92e75293031454180ba6ee97e4
-D	translations/ca.po	
 D	translations/de.po	
 D	translations/el.po	
-D	translations/es.po	
 D	translations/fr.po	
 D	translations/googleanalytics.pot	
-D	translations/it.po	
+D	translations/hu.po	
 D	translations/ja.po	
 D	translations/pl.po	
-D	translations/pt.po	
-D	translations/ru.po	
 D	translations/sk.po	

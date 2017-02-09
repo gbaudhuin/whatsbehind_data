@@ -4,6 +4,12 @@ M	diff.info	7315022aadb37f25bf88c394e01a0b8f
 M	diff.module	5a2049ae791765baa5e9d67e14223178
 M	diff.pages.inc	46d003977869daaf1ce668c593e99374
 M	diff.theme.inc	ec7ab4310ecf006dcbdd86609d68509d
+A	includes/node.inc	8c3f64c480df6d8cf0907c2b4d3d0be3
+A	includes/taxonomy.inc	b4deab5498c6fca4565ef6c4d31be4fa
+A	includes/upload.inc	f78a2e8b65248f1024481326f2d5dd63
+D	node.inc	
 M	readme.txt	1348f729b4b894892f0db4ccf5ae110e
+D	taxonomy.inc	
 A	translations/diff.sv.po	6a7fabbbd62efffb4c6c6d501f66f7d5
 A	translations/hu.po	4564ceb5b75f8540421ecbbe446ebc60
+D	upload.inc	

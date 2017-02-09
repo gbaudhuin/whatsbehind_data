@@ -1,8 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	7aa9ca474bb0ba784ee5d997113e811f
-A	js/webform_hints.js	c5cb3bf9d996404557fda86034df57b7
-A	webform_hints.admin.inc	4c27df4cdf03895b85c27c5a07c75add
-A	webform_hints.api.php	11663157a156bd02cc63ada887a2ffbe
-A	webform_hints.info	fcfa3fedca97bfb23d37e15e07f98d13
-A	webform_hints.install	eb8c885c4e2c975c2a8694609f1359dd
-A	webform_hints.module	c1ff9489d20330470e3b95b9a96b651e
+M	webform_hints.info	fcfa3fedca97bfb23d37e15e07f98d13

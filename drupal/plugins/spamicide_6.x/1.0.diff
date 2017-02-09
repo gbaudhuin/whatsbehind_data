@@ -1,7 +1,6 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	04972d7970df2db939bc2a593e22af42
-D	UPGRADE.txt	
-M	feed_me.css	87a7db8c0f3a5b7b378b63d7a25d12e9
-M	spamicide.info	6c777580d8274a3b2bdfc9b82f935051
-M	spamicide.install	8a2c3d8c1bb7b207cfb99a89e94364d6
-M	spamicide.module	37e4b183a10e13c38c7cd06714951fdc
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	04972d7970df2db939bc2a593e22af42
+A	feed_me.css	87a7db8c0f3a5b7b378b63d7a25d12e9
+A	spamicide.info	6c777580d8274a3b2bdfc9b82f935051
+A	spamicide.install	8a2c3d8c1bb7b207cfb99a89e94364d6
+A	spamicide.module	37e4b183a10e13c38c7cd06714951fdc

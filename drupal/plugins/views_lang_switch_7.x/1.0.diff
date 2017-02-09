@@ -1,5 +1,5 @@
-D	theme/views-lang-switch-result.tpl.php	
-D	theme/views-lang-switch-results.tpl.php	
-D	theme/views_lang_switch.theme.inc	
-M	views_lang_switch.info	b8d4957a746d72c28153d33f2e4c7ae5
-M	views_lang_switch.module	8be9e046a32e166a1ff6e77f1093cb5a
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	5f26975ac5e31a5d18af933de592dc1c
+A	views_lang_switch.info	b8d4957a746d72c28153d33f2e4c7ae5
+A	views_lang_switch.install	656e26f3798424d9d0282503eae4d4b2
+A	views_lang_switch.module	8be9e046a32e166a1ff6e77f1093cb5a

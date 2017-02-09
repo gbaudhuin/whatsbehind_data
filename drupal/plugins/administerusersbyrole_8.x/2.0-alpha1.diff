@@ -1,0 +1,12 @@
+A	CHANGELOG.txt	55103d697de9a4bdaf78364d37670670
+A	INSTALL.txt	093632a939e9d8cd32b0d056408e16f3
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	1c71613347e5e43ce83240d4a3b080eb
+A	administerusersbyrole.info.yml	29d64eab665e42ea2fb1f31bf59bfe2d
+A	administerusersbyrole.install	ce407ff5715c837d02b1aba7975bf512
+A	administerusersbyrole.module	fcac57c9fc84ab336e1955ca0caaaaf1
+A	administerusersbyrole.permissions.yml	49af5b9c8ce9e6978582205195abe69e
+A	administerusersbyrole.services.yml	708f331712dd3e772164a7f3845e7a79
+A	src/AdministerusersbyrolePermissions.php	0fc6836e77d1683d1750d246604107fd
+A	src/Routing/RouteSubscriber.php	bb4197d8ced5a764d3f968f4b5bddcdf
+A	src/Tests/AdministerusersbyroleTestCaseTest.php	60649ec96a086507b9bd5c03007fe99e

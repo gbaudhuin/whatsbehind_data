@@ -1,4 +1,5 @@
-M	entityform_block.info.yml	ba3e6f4aa4fcd56db8b7a1d76616e528
-M	src/Plugin/Block/EntityEditFormBlock.php	a8a38326a9476535c0d3ab69aa2a315c
-D	src/Tests/LocaleTest.php	
-D	tests/test.de.po	
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	config/schema/entityform_block.schema.yml	5cf31d3fcb4a058e0125dc3fb3001978
+A	entityform_block.info.yml	ba3e6f4aa4fcd56db8b7a1d76616e528
+A	src/Plugin/Block/EntityEditFormBlock.php	a8a38326a9476535c0d3ab69aa2a315c
+A	src/Tests/EntityFormBlockTest.php	43c329d80754f9a77823a58670414d24

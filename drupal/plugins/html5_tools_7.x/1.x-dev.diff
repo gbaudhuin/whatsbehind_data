@@ -1,6 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	html.tpl.php	f39f9650eafac84b4dc87221577a0bcc
-A	html5_tools.admin.inc	73d82f4b1eee53b885c97fc876428465
-A	html5_tools.info	c931fe0aa40939e373674439ec3cb611
-A	html5_tools.install	acb80ef7a415c0962cc17d9bd2b7b176
-A	html5_tools.module	5829c9f0bac30565178c4688016a962a
+M	html5_tools.info	c931fe0aa40939e373674439ec3cb611

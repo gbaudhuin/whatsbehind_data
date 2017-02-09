@@ -1,6 +1,5 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	README.txt	a417c72caac649fd75e2c2fce3ffd578
-A	exclude_node_title.admin.inc	adb8274f3234e1841e12bd175323e8ac
-A	exclude_node_title.info	6b73724bcc647cf445877ab229ddefa6
-A	exclude_node_title.install	d2a721f3855e08277a07d5d88a1733c1
-A	exclude_node_title.module	794805064629380b0714f3a56662d3f1
+M	exclude_node_title.admin.inc	adb8274f3234e1841e12bd175323e8ac
+M	exclude_node_title.info	6b73724bcc647cf445877ab229ddefa6
+M	exclude_node_title.install	d2a721f3855e08277a07d5d88a1733c1
+M	exclude_node_title.module	794805064629380b0714f3a56662d3f1

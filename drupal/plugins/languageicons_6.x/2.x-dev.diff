@@ -1,24 +1,9 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	9274900a9d902c97d26d8d09cb7a5522
+M	README.txt	9274900a9d902c97d26d8d09cb7a5522
 A	flags/af.png	6bc5db4e4e64cebca4e7c56119ebe4c8
 A	flags/be.png	2f4bcd14b86f7637118e8bd178364ff7
 A	flags/bo.png	afe9a24df078306f243d61498aabc152
 A	flags/fil.png	82aa008367245d2a58a838aa763c34eb
-A	flags/hi.png	768574dc980d93e166f6c325f9bbb5ac
-A	flags/ko.png	ad50252eb303ada70dd73fca6e3fe98d
-A	flags/mn.png	ac3e2a2121eb823acbf5017d25440c23
 A	flags/ms.png	a13765b54ed09624c768a4bb2b4b48f8
-A	flags/se.png	ce637326111d4e14cd90880e6f0c6120
 A	flags/so.png	3afdcdc2ce6a4c7a2e479c27a668a6fd
-A	flags/sq.png	6653961bf4704b0c37699a74b6a6793d
-A	flags/sr.png	a4fee293c60af79119fdb7373cbc6a51
 M	languageicons.admin.inc	462b08681782788040dc82d62aa1fad7
 M	languageicons.info	b61a403b0ae37eea62a4652e33c19df9
-M	languageicons.install	76b23d69d160f4c76d8e52adacde5a32
-M	languageicons.module	c7b8ad7bd0d27082f4546670a86f23ff
-D	translations/cs.po	
-D	translations/da.po	
-D	translations/de.po	
-D	translations/el.po	
-D	translations/hu.po	
-D	translations/languageicons.pot	

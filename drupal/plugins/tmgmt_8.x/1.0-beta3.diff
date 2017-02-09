@@ -1,6 +1,7 @@
 M	config/install/tmgmt.settings.yml	dad876d831f2ad61fdc901edf1903bd7
 M	config/install/views.view.tmgmt_job_items.yml	b8242c4c3290505c6e8ecd653fca7712
 M	config/install/views.view.tmgmt_job_overview.yml	c5e65e926ee88645c6d9863d6466be73
+A	config/install/views.view.tmgmt_translation_all_job_items.yml	03e1c08c18c2160b2809f88a28f61061
 M	config/schema/tmgmt.schema.yml	1ead4fc7826fe6a7a5fc1d05d9615118
 M	css/tmgmt.admin.css	c6e051293d2e4d8d845e3175fb2e6518
 M	css/tmgmt.icons.css	165800154a69faa265968430ef9342de
@@ -124,6 +125,7 @@ A	translators/tmgmt_local/config/install/tmgmt_local.settings.yml	9bfedd5a0eb599
 M	translators/tmgmt_local/config/install/views.view.tmgmt_local_manage_translate_task.yml	7c4b9726e43723fe938786e9d15cfa9c
 M	translators/tmgmt_local/config/install/views.view.tmgmt_local_task_items.yml	01c56ade464adf79d2058dc3fddce29e
 M	translators/tmgmt_local/config/install/views.view.tmgmt_local_task_overview.yml	10769ea238fac87beeab08647133dc0e
+D	translators/tmgmt_local/config/install/views.view.tmgmt_local_tasks.yml	
 M	translators/tmgmt_local/config/schema/tmgmt_local.schema.yml	2490c9994367a61fe937619b2bd568c8
 D	translators/tmgmt_local/controller/tmgmt_local.ui_controller.task.inc	
 D	translators/tmgmt_local/controller/tmgmt_local.ui_controller.task_item.inc	

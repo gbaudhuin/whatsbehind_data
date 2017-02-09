@@ -7,7 +7,3 @@ M	includes/phpmailer.mimemail.inc	df2600bc62cc49251cabb530b2cafccd
 M	phpmailer.admin.inc	3fc0598a9be526d7f3f63f53237ed865
 M	phpmailer.info	3b6e5b0a90ff2efe73bcaf20ca061dc6
 M	phpmailer.install	1799d90b649c7bc94a514d2fa813bbcd
-M	phpmailer.module	44546609bfca1bc9c08bce67a19960d1
-D	phpmailer/COPYHERE.txt	
-M	tests/phpmailer.test	e5c1cb91594c50d7ba164bcd51997cd1
-D	translations/phpmailer.pot	

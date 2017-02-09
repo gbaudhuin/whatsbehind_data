@@ -1,4 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	computed_field.info	633ce5d508d479f2ee6c03dce8278184
-A	computed_field.install	7f245ab9725b6a64e5bf437164cbac90
-A	computed_field.module	121c77422b5d90596ab064685e6f69b4
+M	computed_field.info	633ce5d508d479f2ee6c03dce8278184
+M	computed_field.module	121c77422b5d90596ab064685e6f69b4

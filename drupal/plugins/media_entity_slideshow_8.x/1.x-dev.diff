@@ -1,14 +1,4 @@
-A	DEVELOPING.md	32dacf49469762430d987db268847ead
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.md	ac2ef508c6866cbdbda61e8949e2e6e3
-A	config/schema/media_entity_slideshow.schema.yml	761b982cea8534e3d095f00bd9ad724d
-A	images/icons/slideshow.png	161fb4d28544c764d368aaaeb8dc87a0
-A	media_entity_slideshow.info.yml	0eebe7293514ce84f0f14f5ba1f53c63
-A	media_entity_slideshow.install	693551b61d585ba60f4171a649a23f1d
-A	media_entity_slideshow.module	ce407ff5715c837d02b1aba7975bf512
-A	src/Plugin/MediaEntity/Type/Slideshow.php	2d03ec2698f3a6384ca7012b2985fe9f
-A	src/Plugin/Validation/Constraint/ItemsCountConstraint.php	71646d8bd8845871ea41824db8b3de31
-A	src/Plugin/Validation/Constraint/ItemsCountConstraintValidator.php	7eab81c1f2f893fb20ebc0378b59a8e1
+M	media_entity_slideshow.info.yml	0eebe7293514ce84f0f14f5ba1f53c63
 A	src/Tests/MediaEntitySlideshowTest.php	e87a0c54cebc3aeea648f2ea5640c99f
 A	tests/modules/media_entity_slideshow_test/config/install/core.entity_form_display.media.image_bundle.default.yml	1f849c00e9108451ac66fb977d06a4fc
 A	tests/modules/media_entity_slideshow_test/config/install/core.entity_form_display.media.slideshow_bundle.default.yml	fb9c4a0d007a3dfd31af78926e4baf80
@@ -21,4 +11,3 @@ A	tests/modules/media_entity_slideshow_test/config/install/field.storage.media.f
 A	tests/modules/media_entity_slideshow_test/config/install/media_entity.bundle.image_bundle.yml	16bccf681a37622c819c1fc42079a05f
 A	tests/modules/media_entity_slideshow_test/config/install/media_entity.bundle.slideshow_bundle.yml	7ce5302827f52a9f982e0662b2e4cac1
 A	tests/modules/media_entity_slideshow_test/media_entity_slideshow_test.info.yml	3b422e6137ff83943dcf1492cc11a92d
-A	tests/src/Unit/ConstraintsTest.php	1c0f490ca4ccf8dd07dc93c1707dd659

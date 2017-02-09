@@ -86,7 +86,6 @@ A	plugins/content_types/custom/translations/plugins-content_types-custom.hu.po	b
 M	plugins/content_types/form/form.inc	adf4e484099a207bbb57f7452660cb96
 A	plugins/content_types/form/translations/plugins-content_types-form.hu.po	f28c34d7d8669af8a748d0957603c769
 M	plugins/content_types/node/node.inc	47f79fc4e404286a37631fdb6946f2f7
-A	plugins/content_types/node/translations/plugins-content_types-node.hu.po	32d7192497d88fac328bb49d0ac2d5b2
 M	plugins/content_types/node_context/node_attachments.inc	4633f7cebbdd2eec46ca920c10a9c830
 M	plugins/content_types/node_context/node_author.inc	5c15c49e18492e89747796e0b1098442
 M	plugins/content_types/node_context/node_body.inc	80ecacd6e7ace35cef9cd1d36221a27d

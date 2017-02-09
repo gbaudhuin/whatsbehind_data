@@ -1,11 +1,4 @@
 M	README.md	a5a363d9fa76ef55108bca56ceeb4c8e
 M	README.txt	ad0379e7115f1cf5d139b58aec38b7d2
-A	modules/secure_cookie_data_tree_two.class.inc	0c57e893b370840a293fb93ab3128c6f
-A	modules/secure_cookie_data_tree_two.info	089ee741e9290f507b022588e7b7240a
-A	modules/secure_cookie_data_tree_two.module	04a481daf9d77f967c2c874bfed09b6e
-A	secure_cookie_data.class.inc	fe97761a8d7ff05ba8c4dad7be2f151a
-A	secure_cookie_data.info	9c13062a9d86f38f0c1909f3f9637b3e
-A	secure_cookie_data.module	1d2313ed8d0dee3c2334c4c762e14377
-D	secure_data_cookie.class.inc	
-D	secure_data_cookie.info	
-D	secure_data_cookie.module	
+M	modules/secure_cookie_data_tree_two.info	089ee741e9290f507b022588e7b7240a
+M	secure_cookie_data.info	9c13062a9d86f38f0c1909f3f9637b3e

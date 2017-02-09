@@ -9,7 +9,13 @@ M	src/Plugin/Field/FieldWidget/InlineEntityFormBase.php	651e3f0886a063e9f96b9b17
 M	src/Plugin/Field/FieldWidget/InlineEntityFormComplex.php	7482a9d943fc716c59010739afb81aa7
 M	src/Plugin/Field/FieldWidget/InlineEntityFormSimple.php	fe87e376ddc9951e6485b54a71612990
 A	src/Tests/ComplexSimpleWidgetTest.php	52c0174d02ef0cc86b072ec1a93233e1
+A	src/Tests/ComplexWidgetWebTest.php	8d49875623b40490c874f3445f2b29e2
+A	src/Tests/ElementWebTest.php	3ebd928e60193957f800623556663f1d
+D	src/Tests/InlineEntityFormComplexWebTest.php	
+D	src/Tests/InlineEntityFormElementWebTest.php	
+D	src/Tests/InlineEntityFormSimpleWebTest.php	
 M	src/Tests/InlineEntityFormTestBase.php	01a4b74a844e1e61dc4dc58def62773b
+A	src/Tests/SimpleWidgetWebTest.php	03e0bcc5086c4e908f18d8dfae0c9fbf
 M	src/WidgetSubmit.php	6682de5e4636004b7e2eec8af0ee40eb
 A	tests/modules/inline_entity_form_test/config/install/core.entity_form_display.node.ief_complex_simple.default.yml	0533ebe6fa5ea92896f919a510beada3
 A	tests/modules/inline_entity_form_test/config/install/core.entity_view_display.node.ief_complex_simple.default.yml	184b54cfc678413e0dd6799b6e273435

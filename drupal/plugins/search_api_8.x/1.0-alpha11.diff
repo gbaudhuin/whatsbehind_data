@@ -16,8 +16,20 @@ M	search_api.views.inc	699b5212cf49dda4d5ae62fd94d18a27
 M	search_api_db/README.txt	6a914104298393cdd3e70f7405efaa88
 M	search_api_db/search_api_db.info.yml	6ccbf9665d84e47a4e0cba120e5498f4
 A	search_api_db/search_api_db.services.yml	2b8eb94bf024d9493d835dcb1928e21a
+D	search_api_db/search_api_db_defaults/config/install/core.entity_view_display.node.article.search_index.yml	
+D	search_api_db/search_api_db_defaults/config/install/core.entity_view_display.node.article.search_result.yml	
+D	search_api_db/search_api_db_defaults/config/install/core.entity_view_display.node.page.search_index.yml	
+D	search_api_db/search_api_db_defaults/config/install/core.entity_view_display.node.page.search_result.yml	
 D	search_api_db/search_api_db_defaults/config/install/search_api.index.default_index.yml	
+D	search_api_db/search_api_db_defaults/config/install/search_api.server.default_server.yml	
+D	search_api_db/search_api_db_defaults/config/install/views.view.search_content.yml	
+A	search_api_db/search_api_db_defaults/config/optional/core.entity_view_display.node.article.search_index.yml	85aa860c24a847c9de9fa944f274a31f
+A	search_api_db/search_api_db_defaults/config/optional/core.entity_view_display.node.article.search_result.yml	94e3898ccd695b8a12e7b7f4a0716094
+A	search_api_db/search_api_db_defaults/config/optional/core.entity_view_display.node.page.search_index.yml	371395d8d672b8055db6c708b77f55e7
+A	search_api_db/search_api_db_defaults/config/optional/core.entity_view_display.node.page.search_result.yml	025124e7ab33fcb3b50c2b65d59da52c
 A	search_api_db/search_api_db_defaults/config/optional/search_api.index.default_index.yml	8d66d0f5b2697aa178d10a42058fa704
+A	search_api_db/search_api_db_defaults/config/optional/search_api.server.default_server.yml	f94c8358363765361e93f33bdd851d0d
+A	search_api_db/search_api_db_defaults/config/optional/views.view.search_content.yml	51b1dbaf9a8db1435242518bea48478f
 M	search_api_db/search_api_db_defaults/search_api_db_defaults.info.yml	7a6596a9c3b3dce8a34b9859d4c277c4
 M	search_api_db/search_api_db_defaults/search_api_db_defaults.install	a3b56d8ac24a101d96de4c54936cbd68
 M	search_api_db/search_api_db_defaults/src/Tests/IntegrationTest.php	de334c028dbc74d6fead2f3ac5dfc770

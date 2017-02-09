@@ -11,10 +11,16 @@ M	filefield_meta/filefield_meta.install	c36c727049fdd322e679210886c88a9d
 M	filefield_meta/filefield_meta.module	5c2c0cd545e58773971afa0d5b5e3da0
 M	filefield_meta/includes/filefield_meta.views.inc	f4a88039702416e476e7ece18acfc21e
 A	filefield_meta/includes/filefield_meta_handler_field_tags.inc	292214bf67d7e99c2c7c5193ae1b6caf
+A	filefield_meta/translations/de.po	571761d1ce8b01a7cf3c4893a432104c
+D	filefield_meta/translations/filefield_meta.de.po	
+D	filefield_meta/translations/filefield_meta.ja.po	
 M	filefield_meta/translations/filefield_meta.pot	662ad6824389c3d75ff63b7b55e49c3c
+A	filefield_meta/translations/ja.po	20a0b96e754340ac7354b794c878901f
 M	filefield_widget.inc	d99e9f7f679aea4746db1a813d20fac9
 A	translations/cs.po	4eb80b173d91831d2ce000f4553c93da
 M	translations/da.po	c170283e2f381272f3d7f280a03dd99d
+A	translations/de.po	331df0c5466a0e0f7956708e0664d76d
+D	translations/filefield.de.po	
 M	translations/filefield.pot	bdaacc1086fa502bd2313918166494ea
 M	translations/fr-ca.po	673e93a5ae5d503cd563797aea1df811
 M	translations/fr.po	4bdf31b7ec95ddca7f12d6f5385a322c

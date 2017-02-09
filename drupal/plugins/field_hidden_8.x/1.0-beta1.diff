@@ -1,0 +1,11 @@
+A	CHANGELOG.txt	496bd87299c54c3a0b0cbacbffb38490
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	ea987650d8239633505f1d11bba72702
+A	css/field_hidden.css	8fdb2fcf4bd98c111dc5f1666c2782fa
+A	field_hidden.info.yml	9765383a8a085018655c0250dbb7ed69
+A	field_hidden.libraries.yml	4f678d6770065d5a5e142dc621ac34ec
+A	field_hidden.module	d33e275504ab74487cb057fe186c4e38
+A	release_notes/release_notes_8.x-1.0-beta1.txt	201e72be95636b0c137ad6ce74ba9c15
+A	src/Plugin/Field/FieldWidget/FieldHiddenNumberWidget.php	ab425910d4c46835fa11bfcc2012f63b
+A	src/Plugin/Field/FieldWidget/FieldHiddenStringTextareaWidget.php	37b5017fcaa4ec1311b2167fe067de1c
+A	src/Plugin/Field/FieldWidget/FieldHiddenStringTextfieldWidget.php	7482ed3079c02fc3fe00c24367709096

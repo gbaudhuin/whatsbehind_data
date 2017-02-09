@@ -1,5 +1,7 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	simple_subscription.api.php	4042a8c1d99d0f75766593420ed3044f
-M	simple_subscription.info	9562a3da065c3b46d86b39453ff47e4c
-M	simple_subscription.install	e060f09775fe0ede2bc98829f1fe0166
-M	simple_subscription.module	14004b51478eb7a0a1a2e7bf6ee2e5d4
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	simple_subscription.api.php	4042a8c1d99d0f75766593420ed3044f
+A	simple_subscription.css	bf9c38e60d3cde7dff76e83e67454437
+A	simple_subscription.info	9562a3da065c3b46d86b39453ff47e4c
+A	simple_subscription.install	e060f09775fe0ede2bc98829f1fe0166
+A	simple_subscription.js	03dd47344aecfac4aba2ff4d81a33b51
+A	simple_subscription.module	14004b51478eb7a0a1a2e7bf6ee2e5d4

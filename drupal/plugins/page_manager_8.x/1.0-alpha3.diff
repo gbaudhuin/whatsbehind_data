@@ -5,16 +5,22 @@ M	src/EventSubscriber/RouteParamContext.php	7cd98c9c2640a22e90baaf87d47eb6a6
 M	src/Form/DisplayVariantAddForm.php	879f3de77f60f72f0fb99559b88e9a63
 M	src/Form/PageEditForm.php	5b44af6aa03b897a620177e3996b0f4a
 M	src/PageInterface.php	12e9124969473c2a7b0a1a84d19ad5be
+D	src/Plugin/BlockPluginBag.php	
+A	src/Plugin/BlockPluginCollection.php	9dc853b84a73a31470f4b3f43c338068
 M	src/Plugin/BlockVariantTrait.php	cf352d5793148c83e0c5c11b92bfaea3
 M	src/Plugin/ConditionVariantInterface.php	51f62ee6c55016c8b5887be9e55d8592
 M	src/Plugin/ConditionVariantTrait.php	2442f0ca70d0a2457b2afa619dd19deb
 M	src/Plugin/DisplayVariant/BlockDisplayVariant.php	8c7c699af6bb25285b9b75ac1b0f3024
 M	src/Plugin/VariantAwareTrait.php	21581c182630b1d99eb600f53df082b6
+D	src/Plugin/VariantBag.php	
+A	src/Plugin/VariantCollection.php	058a2ece9e566442721b33b1d6bdcb2e
 M	src/Tests/PageConfigSchemaTest.php	6dfbafdafe289aad34001204dd8e400f
 M	src/Tests/PageManagerAdminTest.php	9a9be8cbe3ffb00c6bccff62db014a51
 M	src/Tests/PageNodeSelectionTest.php	ed0cf31821879c78d2ba874ab96519f1
 M	tests/modules/page_manager_test/page_manager_test.info.yml	397a7914de385c3ea626af26d0d6a111
 M	tests/src/Unit/BlockDisplayVariantTest.php	14d99fc5b9dc1020c6da40c279e34a0f
+D	tests/src/Unit/BlockPluginBagTest.php	
+A	tests/src/Unit/BlockPluginCollectionTest.php	b8caecf1ddb92829b14b967332b41940
 M	tests/src/Unit/BlockVariantTraitTest.php	6ac5f6ddd5960c3f8239e6b255d062d5
 M	tests/src/Unit/PageAccessTest.php	31ecc46cbc4e392fc3ca7cacbd83d880
 M	tests/src/Unit/VariantAwareTraitTest.php	86078e86027d5061a886ad5409034f65

@@ -1,0 +1,9 @@
+M	src/Element/CheckboxTree.php	5725509492166a74f753a2c12c1bbafa
+A	src/Plugin/Field/FieldFormatter/TermReferenceTree.php	9735886b83c4c553e0b7ccd77ccfc423
+M	term_reference_tree.css	2b29d6801211b11b7bd4c491cc985dd4
+D	term_reference_tree.field.inc	
+D	term_reference_tree.info	
+M	term_reference_tree.info.yml	888465da01ad5fda5dff15b737235df4
+M	term_reference_tree.libraries.yml	f9b6178c4797ffd82fb29ce4030c6738
+M	term_reference_tree.module	d9ce2eae6bd6f471155a60e411d7e5a5
+D	term_reference_tree.widget.inc	

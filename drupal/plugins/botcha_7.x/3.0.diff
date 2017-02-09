@@ -1,30 +1,36 @@
 M	CHANGELOG.txt	9d5b500a077714e6a6f99582d2a3e7b4
-M	INSTALL.txt	fbd55910dbd9b55bc5e74932a629d562
 M	README.txt	d9b9b821c38c6cfde4a88bfc090fd8c8
-M	TODO.txt	1552f2b783cacc3772f383d6efbea565
-A	botcha.admin.inc	05df888c722b9e60d5f711eef762496d
-A	botcha.css	e258c12a7ae79c45f11e85a350ecd83e
-A	botcha.inc	c9527484492261b09767026d0c9f00c5
+M	botcha.admin.inc	05df888c722b9e60d5f711eef762496d
+M	botcha.css	e258c12a7ae79c45f11e85a350ecd83e
+M	botcha.inc	c9527484492261b09767026d0c9f00c5
 M	botcha.info	18e76c75f05f647018652dbdc9541874
 M	botcha.install	67d08610dad4eb88837e5d9c8203650d
-A	botcha.js	83af0a19ff887a6c1f47adcd72bad066
-D	botcha.make	
+M	botcha.js	83af0a19ff887a6c1f47adcd72bad066
 M	botcha.module	5fbd54d8de7297df9d6b2f26da2e37a0
-M	botcha.rules.inc	94a389f1edad6acbec1eac1871240f36
-M	controller/application/botcha.application.controller.inc	7dde8993b5feb9c0c2c29f9ac1fa08bd
-M	controller/application/decorator/logger/botcha.application.controller.logger.inc	2e36121f09d9a2ca285523dec19075d8
-M	controller/form/botcha.form.controller.inc	10a5af5354c5f2bea065fd494f1ff757
-M	controller/form/decorator/logger/botcha.form.controller.logger.inc	a883399585b9f6e3231603003110144a
-M	controller/recipe/botcha.recipe.controller.inc	19280d329ba1f3df305ea31474d86312
-M	controller/recipe/decorator/logger/botcha.recipe.controller.logger.inc	602c408e4848581552a3986a6c196006
-M	controller/recipebook/botcha.recipebook.controller.inc	f290797fe061de57e823dff42f647b96
-M	controller/recipebook/decorator/logger/botcha.recipebook.controller.logger.inc	87f9a52d68733bd8d1c193d0bdcc3830
-M	model/application/botcha.application.model.inc	e320694edc21d5e385b973bff57294b9
-M	model/form/botcha.form.model.inc	c61a9c7177930c801c1b601e74b355d3
-M	model/recipe/botcha.recipe.model.inc	7b0162d673a51554e02026c1321580f3
-M	model/recipebook/botcha.recipebook.model.inc	579ddfaa247f98b959fcaac9e2ace2cc
-M	model/recipebook/decorator/logger/botcha.recipebook.model.logger.inc	fbe64d6ff0de41393651116fc4d93e39
-D	tests/SELENIUM.txt	
-M	tests/botcha.selenium.test	9fa24940ec64f1e6915109ee8bfca91f
-M	tests/botcha.simpletest.test	bc704fe50d15eebb8fe542367258c95c
-D	tests/upgrade/update.botcha.test	
+D	botcha.test	
+A	controller/application/botcha.application.controller.inc	7dde8993b5feb9c0c2c29f9ac1fa08bd
+A	controller/application/decorator/logger/botcha.application.controller.logger.inc	2e36121f09d9a2ca285523dec19075d8
+D	controller/botcha.controller.inc	
+D	controller/botcha_form.controller.inc	
+D	controller/botcha_recipe.controller.inc	
+D	controller/botcha_recipebook.controller.inc	
+A	controller/form/botcha.form.controller.inc	10a5af5354c5f2bea065fd494f1ff757
+A	controller/form/decorator/logger/botcha.form.controller.logger.inc	a883399585b9f6e3231603003110144a
+A	controller/recipe/botcha.recipe.controller.inc	19280d329ba1f3df305ea31474d86312
+A	controller/recipe/decorator/logger/botcha.recipe.controller.logger.inc	602c408e4848581552a3986a6c196006
+A	controller/recipebook/botcha.recipebook.controller.inc	f290797fe061de57e823dff42f647b96
+A	controller/recipebook/decorator/logger/botcha.recipebook.controller.logger.inc	87f9a52d68733bd8d1c193d0bdcc3830
+A	model/application/botcha.application.model.inc	e320694edc21d5e385b973bff57294b9
+A	model/application/decorator/logger/botcha.application.model.logger.inc	c42b9fc4afdd3b4a40d40d572966a04b
+D	model/botcha.model.inc	
+D	model/botcha_form.model.inc	
+D	model/botcha_recipe.model.inc	
+D	model/botcha_recipebook.model.inc	
+A	model/form/botcha.form.model.inc	c61a9c7177930c801c1b601e74b355d3
+A	model/form/decorator/logger/botcha.form.model.logger.inc	bc3eb6e0521302788c406c16132dd91e
+A	model/recipe/botcha.recipe.model.inc	7b0162d673a51554e02026c1321580f3
+A	model/recipe/decorator/logger/botcha.recipe.model.logger.inc	7b67c637e9b1ac04acba8f0696b10c3b
+A	model/recipebook/botcha.recipebook.model.inc	579ddfaa247f98b959fcaac9e2ace2cc
+A	model/recipebook/decorator/logger/botcha.recipebook.model.logger.inc	fbe64d6ff0de41393651116fc4d93e39
+A	tests/botcha.selenium.test	9fa24940ec64f1e6915109ee8bfca91f
+A	tests/botcha.simpletest.test	bc704fe50d15eebb8fe542367258c95c

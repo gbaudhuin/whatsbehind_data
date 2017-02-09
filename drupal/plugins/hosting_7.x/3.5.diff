@@ -14,6 +14,14 @@ A	example/example_service/drush/Provision/Service/example/basic.php	d4d7aea2430f
 A	example/example_service/drush/basic/basic_service.inc	7438bf86c00a7458913252a957dd308a
 A	example/example_service/drush/example.drush.inc	808479cb69290526fc3f9cc4978b2333
 A	example/example_service/drush/install.provision.inc	37ed7298b5931bed25596ee216ede30a
+A	example/example_service/hosting.feature.example.inc	bc797712f5ec1b88bd17085b1d7a24bf
+A	example/example_service/hosting_example.info	aa6c7a2a9df0f4cde8f0b39770e2569b
+A	example/example_service/hosting_example.module	5fecc81b3730dfabd11496812cf1ece1
+A	example/example_service/hosting_example.service.inc	d045fa863e5a5578edcda563024e0b9f
+D	example/hosting.feature.example.inc	
+D	example/hosting_example.info	
+D	example/hosting_example.module	
+D	example/hosting_example.service.inc	
 M	example/index.php	682bc2574420985f312593c3cbb74798
 A	example/server_data/drush/Provision/Service/server/data.php	f73bcc521b264087cbb80fb7f72def53
 A	example/server_data/drush/server_data.drush.inc	70e4bb40393d98bcc9a190a190972386

@@ -14,3 +14,5 @@ M	recaptcha.admin.inc	bb568b1f04be0f0df095d7fbe13a8a0e
 M	recaptcha.info	42b9e59f6bce5ea73e3582c498edd917
 M	recaptcha.install	013fe8ea4a437fff642968c132cbab7b
 M	recaptcha.module	e173ec8265232a36dbb74ce1f5759d03
+D	src/ReCaptcha/RequestMethod/Drupal6.php	
+A	src/ReCaptcha/RequestMethod/Drupal6Post.php	3bb7d5d5c01666165b0952208b55fd27

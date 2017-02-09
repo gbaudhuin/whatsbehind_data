@@ -1,16 +1,2 @@
-A	.cvsignore	952fd44d14cee87882239b707231609d
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	42a2d36eb7b7a548254b257d1ce51069
-D	sites/godtube.inc	
-D	sites/google.inc	
-D	sites/youtube.inc	
-A	video_filter.codecs.inc	c042dbafea6b696902aeb7f4978e53c2
-A	video_filter.css	93d1b262822acfaf4d60abe80c9941f3
 M	video_filter.info	f14a28f1c6188f9450e9a363237cba82
-A	video_filter.install	620097316d25bf82703bf4073199f2e0
-M	video_filter.module	cdc30b046c38551d29ef7e970ff4ad4a
-A	wysiwyg/tinymce/editor_plugin.js	eb3c14658a93865220e95f7574529130
-A	wysiwyg/tinymce/editor_plugin_src.js	f0d5a1bc47e6d581b1358c4de171a6b5
-A	wysiwyg/tinymce/images/movie_track.png	dca3c67b69c25935b02cc0b83a9fe56a
-A	wysiwyg/tinymce/jscripts/video_filter.js	0b191968d896be61bacbd85605535881
-A	wysiwyg/tinymce/langs/en_dlg.js	e219d1b6210bf962ccfdde570ab46c6f

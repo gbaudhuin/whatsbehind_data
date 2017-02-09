@@ -1,11 +1,4 @@
 A	API.txt	84a13b50b2542f54a32cbc12777d3233
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	browserid.info	eebae638dd55956f93e5528986649e4f
-A	browserid.install	1d96e6072d4b8b9a8306105c89a16d1b
-A	browserid.js	614a224c7db02b2d495261fb50560cb1
-A	browserid.module	b82b77c9647b5087720213b9f3fa22a5
-A	images/sign_in_blue.png	7c6f12cb3ee40864bd7492133fa5da53
-A	images/sign_in_green.png	da4511fd378a2f595ab11de191c73ef3
-A	images/sign_in_grey.png	d06b50024604841dc651fd7618225af6
-A	images/sign_in_orange.png	b2db4de7afbc68b6025996d6f4adee3f
-A	images/sign_in_red.png	439229df7c411f9d02e6bcb2d287bf19
+M	browserid.info	eebae638dd55956f93e5528986649e4f
+M	browserid.js	614a224c7db02b2d495261fb50560cb1
+M	browserid.module	b82b77c9647b5087720213b9f3fa22a5

@@ -1,10 +1,11 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 M	README.txt	835d064a11da8c53b3621f3faed3ef0d
 M	imagebrowser.info	f5828efd7c4cd56c10ef772570a5c012
 M	imagebrowser.install	6e9ab94744f3c0947e416e9fa9f62ecb
 M	imagebrowser.module	1754d7ff7f9cdce6fb6bacfa6def4951
 M	includes/imagebrowser.views.inc	e2779b0da89ca18ccec0a8e35233b64e
 M	includes/imagebrowser.views_default.inc	73f6a345183f70aebfe5581392403a1f
+D	js/ckeditor.js	
+D	js/fckeditor.js	
 D	js/ib_ajax_view.js	
 M	js/imagebrowser.js	30b9f8d2c9147745894071684acaa3ca
 A	plugins/ib_fckeditor/README.txt	4f83984408990159034d4a85e2fd8ce9

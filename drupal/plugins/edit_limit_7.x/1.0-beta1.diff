@@ -1,7 +1,6 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.txt	
-M	edit_limit.admin.inc	cec9235891e45a6d4ffee55bf58f11e1
-M	edit_limit.info	9d0fd9681833898acd1f9dce3cab11fb
-M	edit_limit.install	164996b478f4caef2bb849e49010a67d
-M	edit_limit.js	ae1ea74c63764b0265464eba42f720d5
-M	edit_limit.module	747c6d75f0cd85b73eb3fb20a1ea4b70
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	edit_limit.admin.inc	cec9235891e45a6d4ffee55bf58f11e1
+A	edit_limit.info	9d0fd9681833898acd1f9dce3cab11fb
+A	edit_limit.install	164996b478f4caef2bb849e49010a67d
+A	edit_limit.js	ae1ea74c63764b0265464eba42f720d5
+A	edit_limit.module	747c6d75f0cd85b73eb3fb20a1ea4b70

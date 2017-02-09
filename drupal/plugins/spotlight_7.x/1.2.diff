@@ -1,4 +1,18 @@
+D	css/icons-animation.css	
+D	css/icons-ie7.css	
+D	css/icons.css	
 M	css/spotlight.css	01f012dc14abeb4935c3b1d60b71dd75
+A	css/spotlight.icons-ie7.css	f35094405d9b90ee053201e8dad67f08
+A	css/spotlight.icons.animation.css	5efb6f925470166045ba28c25131f79a
+A	css/spotlight.icons.css	a930f96e33e60372dc79cd2132e122cd
+D	font/icons.eot	
+D	font/icons.svg	
+D	font/icons.ttf	
+D	font/icons.woff	
+A	font/spotlight.eot	848f8be38998a31a922975c5b966fdf0
+A	font/spotlight.svg	e1fcb5239028cd44d06cc0ef051cb91f
+A	font/spotlight.ttf	c0a3522ab4766ee255d4fd84626f6e28
+A	font/spotlight.woff	ec57ed1c97b757a6c828423c679a0e80
 M	js/spotlight.js	8ed9c35a0f2d0b5e22ac0a80c967e65f
 M	spotlight.info	ee83aa51d24925ef5fb262ee4fe3b6b9
 M	spotlight.module	2d7ce66c25445159462bda656b2b2552

@@ -1,25 +1,22 @@
-A	CHANGELOG.txt	c2e96fb51022ea894ce3c744ae26241c
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	2e23e2c0f274fb6ac3310858d34e4e3b
-A	author-pane-block.tpl.php	7c2c195e68b68db0b95ac81d21bc2cff
-A	author-pane.tpl.php	17491c6b1b675c21b5160e217804103b
-A	author_pane.css	0602de8a058cd57feffb1344e88a417d
-A	author_pane.info	db70ea03f4dfa9b42925a975c0914120
-A	author_pane.module	a5f6d1329013fe416d2e710dfc304bd1
-A	images/buddy-add.png	c075ec498c49767da4fc8281ad405cd9
-A	images/buddy-remove.png	b163579eb904bc905f7508c357763708
-A	images/contact.png	62ec7242e094be219981246e54a3844d
-A	images/private-message.png	fdf2b594ac4dfd680d5f10f3fe81f93a
-A	images/user-offline.png	d1ae4ddc5d5deaf5a11af99b4296d8a1
-A	images/user-online.png	340a1975a9bcf34c68d1cee114d3172e
-A	modules/contact.author-pane.inc	6d56c4f7e9e5b8c8a7342a7a72a2bbfa
-A	modules/fasttoggle.author-pane.inc	3d91cdf78ed4b5ad1ee53560674493de
-A	modules/location.author-pane.inc	39f4e9b9739b93b4f39c0adc030f4cf2
-A	modules/og.author-pane.inc	900abea0d502312dc9c3e06c1f0b25f0
-A	modules/profile.author-pane.inc	a411f38b63e966bc6a43d8a0f98b0d02
-A	modules/troll.author-pane.inc	1f9e412209ed410c4b05504fdc36dada
-A	modules/user_badges.author-pane.inc	cb3021181d9b42ee2405388d99160754
-A	modules/user_relationships_api.author-pane.inc	c577366b3c173c177b0174e43fa87359
-A	modules/user_titles.author-pane.inc	bb00714e61ca478e76d4ef04e3fc2eb5
-A	modules/userpoints.author-pane.inc	804dd693aa96a883e7cb9ff53db82f99
-A	plugins/content_types/author_pane.inc	654058ca75b9a4dcd3223b10beb45253
+M	CHANGELOG.txt	c2e96fb51022ea894ce3c744ae26241c
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	2e23e2c0f274fb6ac3310858d34e4e3b
+M	author-pane-block.tpl.php	7c2c195e68b68db0b95ac81d21bc2cff
+M	author-pane.tpl.php	17491c6b1b675c21b5160e217804103b
+M	author_pane.css	0602de8a058cd57feffb1344e88a417d
+M	author_pane.info	db70ea03f4dfa9b42925a975c0914120
+M	author_pane.module	a5f6d1329013fe416d2e710dfc304bd1
+M	modules/contact.author-pane.inc	6d56c4f7e9e5b8c8a7342a7a72a2bbfa
+M	modules/fasttoggle.author-pane.inc	3d91cdf78ed4b5ad1ee53560674493de
+M	modules/location.author-pane.inc	39f4e9b9739b93b4f39c0adc030f4cf2
+M	modules/og.author-pane.inc	900abea0d502312dc9c3e06c1f0b25f0
+D	modules/privatemsg.author-pane.inc	
+M	modules/profile.author-pane.inc	a411f38b63e966bc6a43d8a0f98b0d02
+M	modules/troll.author-pane.inc	1f9e412209ed410c4b05504fdc36dada
+M	modules/user_badges.author-pane.inc	cb3021181d9b42ee2405388d99160754
+M	modules/user_relationships_api.author-pane.inc	c577366b3c173c177b0174e43fa87359
+M	modules/user_titles.author-pane.inc	bb00714e61ca478e76d4ef04e3fc2eb5
+M	modules/userpoints.author-pane.inc	804dd693aa96a883e7cb9ff53db82f99
+M	plugins/content_types/author_pane.inc	654058ca75b9a4dcd3223b10beb45253
+D	translations/ja.po	
+D	translations/sv.po	

@@ -67,6 +67,7 @@ M	modules/contrib/ctools/term_depth/term_depth.info	71999ebc87737ce5b0ab82e89294
 M	modules/contrib/ctools/tests/ctools_export_test/ctools_export_test.info	483cd6c4c513132b77f6dc0e2606bc9b
 M	modules/contrib/ctools/tests/ctools_plugin_test.info	bc6004323bdf59faec36870089106566
 M	modules/contrib/ctools/views_content/views_content.info	9afdaab8e250cf6ea63cc3753ca7c0e8
+D	modules/contrib/date/PATCHES.txt	
 M	modules/contrib/date/date.field.inc	3c04fbfbada6da81a5afdf9b2b0f0a7e
 M	modules/contrib/date/date.info	c265603ff03a94b6559cfc79d6ed6770
 M	modules/contrib/date/date_admin.inc	03252bfa01e1247ab81924429fd6e9a8
@@ -101,6 +102,7 @@ M	modules/contrib/entityreference/entityreference.info	75dc2ff9478833e34501ac855
 M	modules/contrib/entityreference/examples/entityreference_behavior_example/entityreference_behavior_example.info	eed6987b44b9b8ca13c08f2c89b8c0b8
 M	modules/contrib/entityreference/tests/modules/entityreference_feeds_test/entityreference_feeds_test.info	165ae2cb3c0445af499fe69f4ea9c6ae
 M	modules/contrib/feeds_comment_processor/FeedsCommentProcessor.inc	8ca9bc7cdab7c6cf68630b7e22765d29
+A	modules/contrib/feeds_comment_processor/PATCHES.txt	017588ed1ef764102de189db328ec580
 M	modules/contrib/feeds_comment_processor/feeds_comment_processor.info	9e74e0a136c28039432c1e7379a3a439
 M	modules/contrib/feeds_comment_processor/feeds_comment_processor.install	9599ffa3fb097cc0a436d2c57442cb4d
 M	modules/contrib/feeds_comment_processor/feeds_comment_processor.module	04ad559ecd6f5baa8ae8b7425ad87633
@@ -139,6 +141,7 @@ M	modules/contrib/google_analytics/googleanalytics.module	995e7176528373b6a3b61d
 M	modules/contrib/google_analytics/googleanalytics.test	1fae467cd2f0fd9100e6f555de30b0c7
 D	modules/contrib/google_analytics/googleanalytics.test.js	
 M	modules/contrib/google_analytics/googleanalytics.variable.inc	c80a571ef22e2fd2334b80bcd92b528c
+A	modules/contrib/linkit/PATCHES.txt	269e8a1808795523e2522e87e07b596e
 M	modules/contrib/linkit/css/linkit.css	87f8438f24bd03b7f26eed5f0274b08f
 M	modules/contrib/linkit/editors/ckeditor/linkitDialog.js	ac6a13059a57515aff104d2831f72e4b
 M	modules/contrib/linkit/editors/ckeditor/plugin.js	a0528180b8d2a2f2fa7a3183053e553e
@@ -251,6 +254,7 @@ M	modules/panopoly/panopoly_images/CHANGELOG.txt	9ce3e1863572fce69bfc5fcf785b5ed
 M	modules/panopoly/panopoly_images/panopoly-images.css	43f2772920d85ab669e20dcf7ebab54a
 M	modules/panopoly/panopoly_images/panopoly_images.info	a00031513c166012b82442e19aad4f88
 M	modules/panopoly/panopoly_magic/CHANGELOG.txt	b2904047a32d21338889d82abb8ccf35
+D	modules/panopoly/panopoly_magic/PATCHES.txt	
 M	modules/panopoly/panopoly_magic/panopoly_magic.info	f43d866781a8b4c808975f52fc66208e
 M	modules/panopoly/panopoly_magic/panopoly_magic.module	8aa2d57074f5d659503acb84139b669d
 M	modules/panopoly/panopoly_pages/CHANGELOG.txt	049db35df709c6dc5b5a0b53af49d93e

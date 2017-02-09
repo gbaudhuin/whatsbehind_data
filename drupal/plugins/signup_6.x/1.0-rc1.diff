@@ -1,78 +1,56 @@
-M	CHANGELOG.txt	d95822b19c9c31d9bf5850a926a41a03
-M	INSTALL.txt	3304051119cc8fc503ac1e061279484c
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	7b31d26191d0d41f56066794c651c1de
-M	UPGRADE.txt	7bd6ca7b52f339c165a733e01f37cdb7
-M	includes/admin.settings.inc	a4920443cb4290ee0eecb1d3e815eb52
-M	includes/admin.signup_administration.inc	bd5f3f760a46209effd23f10805b4dfd
-M	includes/broadcast.inc	c97720ee8777f54606b2d75eab0b6d3b
-M	includes/cron.inc	4d3c48699ca5dca245b882b2853530aa
-M	includes/date.inc	15cc80d18ae892e757497e44db908767
-M	includes/event.6x-2.inc	fc9c1e65a6922b1c875ec3623ee83a86
+A	CHANGELOG.txt	d95822b19c9c31d9bf5850a926a41a03
+A	INSTALL.txt	3304051119cc8fc503ac1e061279484c
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	7b31d26191d0d41f56066794c651c1de
+A	UPGRADE.txt	7bd6ca7b52f339c165a733e01f37cdb7
+A	includes/admin.settings.inc	a4920443cb4290ee0eecb1d3e815eb52
+A	includes/admin.signup_administration.inc	bd5f3f760a46209effd23f10805b4dfd
+A	includes/broadcast.inc	c97720ee8777f54606b2d75eab0b6d3b
+A	includes/cron.inc	4d3c48699ca5dca245b882b2853530aa
+A	includes/date.inc	15cc80d18ae892e757497e44db908767
+A	includes/event.6x-2.inc	fc9c1e65a6922b1c875ec3623ee83a86
 A	includes/no_views.inc	93502da11391c7b97bdf7d289fc792ab
-M	includes/node_admin.inc	3db4d243d028f19fd13c7e9cc9bd2d4e
-M	includes/node_admin_summary.inc	6cf1acf6a27b3b838c2a289518330759
-M	includes/node_form.inc	4ba91f4fe1b8b308e3b42e93e97c79c9
-M	includes/node_output.inc	812850f31508a7a13aa66507855bccd1
-M	includes/node_settings.inc	c313a9f8ea1ee9d43a4122861f23b2ab
-M	includes/scheduler.inc	83ab9d684d3fc63cb6cda42bc908b6d0
-D	includes/signup_cancel.inc	
+A	includes/node_admin.inc	3db4d243d028f19fd13c7e9cc9bd2d4e
+A	includes/node_admin_summary.inc	6cf1acf6a27b3b838c2a289518330759
+A	includes/node_form.inc	4ba91f4fe1b8b308e3b42e93e97c79c9
+A	includes/node_output.inc	812850f31508a7a13aa66507855bccd1
+A	includes/node_settings.inc	c313a9f8ea1ee9d43a4122861f23b2ab
+A	includes/scheduler.inc	83ab9d684d3fc63cb6cda42bc908b6d0
 A	includes/signup_cancel_form.inc	480c6b8a31abc96fe3392223547e7f20
-D	includes/signup_edit_form.inc	
-M	includes/signup_form.inc	3ac1993b8e4a05ae71b7f39a45f57172
-M	includes/token_help.inc	62355fff9d3ea3551cfadc7c8f442a9e
-M	js/admin.content_types.js	e1e259a0dc9f90bced472393282f0fab
-M	js/admin.settings.js	e45bd23f4cbe0b0fcc4cca0703759e62
+A	includes/signup_form.inc	3ac1993b8e4a05ae71b7f39a45f57172
+A	includes/token_help.inc	62355fff9d3ea3551cfadc7c8f442a9e
+A	js/admin.content_types.js	e1e259a0dc9f90bced472393282f0fab
+A	js/admin.settings.js	e45bd23f4cbe0b0fcc4cca0703759e62
 A	js/node_form.js	467732ee022416565e5d1d7a69d06203
-D	js/signup_edit_form.js	
-D	modules/signup_confirm_email/README.txt	
-D	modules/signup_confirm_email/signup_confirm_email.inc	
-D	modules/signup_confirm_email/signup_confirm_email.info	
-D	modules/signup_confirm_email/signup_confirm_email.install	
-D	modules/signup_confirm_email/signup_confirm_email.js	
-D	modules/signup_confirm_email/signup_confirm_email.module	
-D	modules/signup_roles/signup_roles.info	
-D	modules/signup_roles/signup_roles.module	
-M	panels/README.txt	0b5529cba96bf4bce0f60525381fe659
-M	panels/content_types/signup_form.inc	dee331ea7e0b58ded296ab86f3803c86
-D	signup.api.php	
-M	signup.css	bced57fbbc52363c039fc26433f4c2aa
-M	signup.info	26fba3fd294bcf311c34553ce78b97b3
-M	signup.install	be2542505de77aad69121988c5646df5
-M	signup.module	8fbfe49773223b5bcf9d396772032670
-M	theme/README.txt	4c6a148711bf5ea1b59b6c0407d912a3
-M	theme/admin.inc	bfa727552868b81e41a32f115fee0401
-M	theme/email.inc	89af20924145a1c96088122856f3af37
+A	panels/README.txt	0b5529cba96bf4bce0f60525381fe659
+A	panels/content_types/signup_form.inc	dee331ea7e0b58ded296ab86f3803c86
+A	signup.css	bced57fbbc52363c039fc26433f4c2aa
+A	signup.info	26fba3fd294bcf311c34553ce78b97b3
+A	signup.install	be2542505de77aad69121988c5646df5
+A	signup.module	8fbfe49773223b5bcf9d396772032670
+A	theme/README.txt	4c6a148711bf5ea1b59b6c0407d912a3
+A	theme/admin.inc	bfa727552868b81e41a32f115fee0401
+A	theme/email.inc	89af20924145a1c96088122856f3af37
 A	theme/no_views.inc	9a151e07268e5ea4447293fe46a20d89
-M	theme/node.admin.inc	d8544599dbf6745c7af850188d2d39f5
-M	theme/node.inc	31095c7c0c578b04b56c56c0a58f5966
-M	theme/signup_form.inc	5e3d3aba61c7e37f4fc6c17a840768d0
+A	theme/node.admin.inc	d8544599dbf6745c7af850188d2d39f5
+A	theme/node.inc	31095c7c0c578b04b56c56c0a58f5966
+A	theme/signup_form.inc	5e3d3aba61c7e37f4fc6c17a840768d0
 A	translations/da.po	9a2d5844f336c616d13acda0cba1b2a0
 A	translations/de.po	9ada5384785fb5cd271a6420d7b27888
 A	translations/es.po	714fb878bd73bc839b16aa02543c8563
 A	translations/fr.po	c3193fe301da4f511b47c7852728de87
 A	translations/nb.po	a716ee382d9143eb98d229baee7b0dad
 A	translations/signup.pot	eb15c4a14046fdf0d7cbb20564581a68
-M	views/README.txt	1d89c6a9512856c668e6f7a67936822b
-D	views/default_views/signup_available_signups.view.php	
-D	views/default_views/signup_current_signups.view.php	
-D	views/default_views/signup_user_admin_list.view.php	
-D	views/default_views/signup_user_list.view.php	
-D	views/default_views/signup_user_vbo_admin_list.view.php	
-M	views/handlers/signup_handler_argument_signup_user_uid.inc	3bb1953d39a76fd6e09513018e32e6e0
-D	views/handlers/signup_handler_field_signup_edit_link.inc	
-D	views/handlers/signup_handler_field_signup_node_link.inc	
-M	views/handlers/signup_handler_field_signup_send_confirmation.inc	d160397376fbb102a48920ceed13a84e
-M	views/handlers/signup_handler_field_signup_status.inc	a37896073f36ee976cb60ddbda111886
-D	views/handlers/signup_handler_field_signup_user_attended.inc	
-M	views/handlers/signup_handler_field_signup_user_email.inc	7ec50c3b648d3820cf49054a313e5643
-M	views/handlers/signup_handler_field_signup_user_form_data.inc	6276fabbcc03ef3cc1062d01ae724609
-M	views/handlers/signup_handler_filter_signup_disabled.inc	3868f72a321f18ddaf92fdf80a78d3d1
+A	views/README.txt	1d89c6a9512856c668e6f7a67936822b
+A	views/handlers/signup_handler_argument_signup_user_uid.inc	3bb1953d39a76fd6e09513018e32e6e0
+A	views/handlers/signup_handler_field_signup_send_confirmation.inc	d160397376fbb102a48920ceed13a84e
+A	views/handlers/signup_handler_field_signup_status.inc	a37896073f36ee976cb60ddbda111886
+A	views/handlers/signup_handler_field_signup_user_email.inc	7ec50c3b648d3820cf49054a313e5643
+A	views/handlers/signup_handler_field_signup_user_form_data.inc	6276fabbcc03ef3cc1062d01ae724609
+A	views/handlers/signup_handler_filter_signup_disabled.inc	3868f72a321f18ddaf92fdf80a78d3d1
 A	views/handlers/signup_handler_filter_signup_send_confirmation.inc	390ddd98040c14d00d7a04ca9f316022
-M	views/handlers/signup_handler_filter_signup_status.inc	e9818e93747bc3ba7040afa2b331da5a
-D	views/handlers/signup_handler_filter_signup_user_attended.inc	
-M	views/handlers/signup_handler_filter_signup_user_authenticated.inc	0ea95ffbc5b66ce1e0bfaea87836c35c
-D	views/plugins/signup_plugin_access_user_signup_list.inc	
-M	views/plugins/signup_plugin_argument_validate_signup_status.inc	2cb6805bb4fd94df2052e90632f64fe7
-M	views/signup.views.inc	d154a936555036cf0fa90e57576d30cb
-M	views/signup.views_default.inc	0a8cd0f00657345351724414d0f835c8
+A	views/handlers/signup_handler_filter_signup_status.inc	e9818e93747bc3ba7040afa2b331da5a
+A	views/handlers/signup_handler_filter_signup_user_authenticated.inc	0ea95ffbc5b66ce1e0bfaea87836c35c
+A	views/plugins/signup_plugin_argument_validate_signup_status.inc	2cb6805bb4fd94df2052e90632f64fe7
+A	views/signup.views.inc	d154a936555036cf0fa90e57576d30cb
+A	views/signup.views_default.inc	0a8cd0f00657345351724414d0f835c8

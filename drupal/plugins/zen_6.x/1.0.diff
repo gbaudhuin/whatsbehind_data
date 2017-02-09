@@ -4,11 +4,13 @@ M	STARTERKIT/drupal6-reference.css	3d533a78dd75452b6dd2a19e9b0b8a57
 M	STARTERKIT/template.php	5cdc07be2174098254292797083775bd
 A	images-source/STARTERKIT/screenshot.psd	14b57d0e3c587dcffd06567af204cee3
 A	images-source/zen/messages.psd	a032a7e066be3a3b5991d658e226f970
+A	images-source/zen/tabs.psd	e0429341f448d980a641e346c2dcf861
 M	zen/html-elements.css	cc43a07077916cfd1c42464d56e57a03
 M	zen/ie.css	461d2eaf02cdd647620bee8681b99f1b
 A	zen/images/messages-error-ie6.png	5158fea9cea0656c7b5ccb0dc6a07b74
 A	zen/images/messages-status-ie6.png	c73ecff583db00fdb8b53f4b7576209b
 A	zen/images/messages-warning-ie6.png	2cec6789810fc01651da7f926bbfea06
+D	zen/images/tabs.psd	
 M	zen/layout-fixed.css	85719c48f6089606c186c6c3c69e16ab
 M	zen/layout-liquid.css	f89965add97e90afc4a1875a20415730
 A	zen/maintenance-page.tpl.php	7b96426f34796ac3fa6ee96150e155d1

@@ -1,10 +1,5 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	menu_token.admin.inc	cef22f53d61e71590a820238111232af
-A	menu_token.css	457477582788a48376bde63d575036fe
-A	menu_token.info	f7c3574922241e6740c675d9804176c2
-A	menu_token.install	86301fc8c92dcca9f76bb648eabe4dc3
-A	menu_token.module	beb2a4d9bedb321d4d694de7db4a4adc
-A	menu_token.test	49770eef0db493fdce1569f045328a0a
-A	plugins/menu_token_entity_context.inc	9300c01ebf77b2701c315a2236cf9432
-A	plugins/menu_token_entity_random.inc	bb16d1ff1b36cd5c00220da9172db8c3
-A	plugins/menu_token_entity_user_defined.inc	c9a2191c26e42326b99d236398f77e67
+M	menu_token.admin.inc	9420e13636c0514cc9a6c1ee4ff3cfba
+M	menu_token.info	810d52a842296e0d5c2c8f6e8adcefd1
+M	menu_token.module	b6cbdc992138a0524b2f058055172950
+M	plugins/menu_token_entity_context.inc	ee4acf0c7433fc4d25fe5505e298960b
+A	plugins/menu_token_panel_context.inc	7d47a84fbcb44905505b0c04891e693f

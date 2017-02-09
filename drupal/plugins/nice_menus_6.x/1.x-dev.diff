@@ -1,15 +1,16 @@
-A	CHANGELOG.txt	cbe11b9c0f5d9e7ae033bcab13fb4151
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	d3a14017414767b53b71549aa3b20a11
-A	UPGRADE.txt	3de56171529d8bff1425978174f041d7
-A	arrow-down.png	6d7af59e61494dec44adf48bbe0c0ce1
-A	arrow-left.png	53dd039831da600f444f9c129849396b
-A	arrow-right.png	715ed06b2d606cda88abefc34f009a36
+M	CHANGELOG.txt	cbe11b9c0f5d9e7ae033bcab13fb4151
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	d3a14017414767b53b71549aa3b20a11
+M	UPGRADE.txt	3de56171529d8bff1425978174f041d7
 A	nice_menus.admin.inc	3e99971830dc3283e78575ddde454ac2
-A	nice_menus.css	71df89b06fd802513a1cbc2931c7408b
-A	nice_menus.info	9239acebe4fd8f46ca6c8d27ad33a91b
-A	nice_menus.install	6193b7cb6fc3bd1d63c1bbecacca7bb5
-A	nice_menus.js	19785340cff71bff684d4f21344531de
-A	nice_menus.module	6cfa4f1b564ed18a07977e3ffcdf0d16
-A	nice_menus_default.css	6be4fe153c10aafcd41d1a9072e03360
-A	screenshot-drupal.org.png	2a90357331d21dac5d12f447c556807c
+M	nice_menus.css	71df89b06fd802513a1cbc2931c7408b
+M	nice_menus.info	9239acebe4fd8f46ca6c8d27ad33a91b
+M	nice_menus.install	6193b7cb6fc3bd1d63c1bbecacca7bb5
+M	nice_menus.js	19785340cff71bff684d4f21344531de
+M	nice_menus.module	6cfa4f1b564ed18a07977e3ffcdf0d16
+M	nice_menus_default.css	6be4fe153c10aafcd41d1a9072e03360
+D	po/ja.po	
+D	po/nice_menus.pot	
+D	translations/nice_menus.pot	
+D	translations/sk.po	
+D	translations/sv.po	

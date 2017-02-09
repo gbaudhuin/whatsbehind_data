@@ -1,17 +1,1 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.TXT	bd323f535a3581e658e91bd835fd472b
-A	google_fonts.admin.css	2e9ada518d251c7d9422d62a4edff026
-M	google_fonts.admin.inc	39c28d9b22a47b1d6ff06a67dcda4b0f
 M	google_fonts.info	9cc6a52556aec273aaad5b5bc364648d
-M	google_fonts.install	d4c634649f04fa7f7b01f6a173f0e9f3
-M	google_fonts.module	14c5070b23758c29eb3ef7122bb3d0bc
-D	google_fonts_ui/google_fonts_ui.admin.inc	
-D	google_fonts_ui/google_fonts_ui.info	
-D	google_fonts_ui/google_fonts_ui.install	
-D	google_fonts_ui/google_fonts_ui.module	
-A	icons/cyrillic.png	84a5a3ad9d3eb7b41a53bf8a7ae8886f
-A	icons/greek.png	468149af70d6ff815bafd3aeaad92766
-A	icons/khmer.png	f2fc09896de2b9af7ca1f3965bf12644
-A	icons/latin.png	590093a0c58ecc5c10986c674a18a28b
-A	icons/vietnamese.png	35ccdc9647076fc1b44fb16ef768e8ff
-D	translations/hu.po	

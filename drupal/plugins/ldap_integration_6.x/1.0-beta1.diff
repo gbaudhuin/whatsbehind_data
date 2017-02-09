@@ -1,4 +1,6 @@
 M	README.txt	6da243c3b83e8a19fe4b125708640047
+A	includes/LDAPInterface.inc	fa1997a02acde495815e0d9657fb0dbe
+D	ldap_integration/LDAPInterface.php	
 D	ldap_integration/ldapauth.conf.php	
 D	ldap_integration/ldapdata.conf.php	
 D	ldap_integration/ldapgroups.conf.php	

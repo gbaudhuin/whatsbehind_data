@@ -1,7 +1,9 @@
+D	API.txt	
 M	css/outline_designer.css	0eb65d3ca147024cd1422a44ffee83fa
 M	modules/outline_child_pages/outline_child_pages.info	e9e23d937017affa2c762fc8c1093302
 M	modules/outline_designer_book/js/outline_designer_book.js	8c1bf4ec76023bf39f1d5b019451b123
 M	modules/outline_designer_book/outline_designer_book.info	ae25d992d6e78547d53846cb1e2e0680
 A	modules/outline_designer_book/outline_designer_book.install	cf47a9382470c09403d696c9a5a3db92
 M	modules/outline_designer_book/outline_designer_book.module	26640c1ff45af23d3cde7df3710df4c8
+A	outline_designer.api.php	932ab6d17135827323e77a2632f76cfc
 M	outline_designer.info	51b0b314b0ce90314c03955021d9e431

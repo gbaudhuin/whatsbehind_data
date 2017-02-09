@@ -1,7 +1,3 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	README.html	
-D	README.markdown	
-D	README.txt	
-M	echo.info	58a4770bc9a1577ae7d25621429c4f79
-D	echo.install	
-M	echo.module	f8738941bb9d0f36003dd0998632b4cd
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	echo.info	58a4770bc9a1577ae7d25621429c4f79
+A	echo.module	f8738941bb9d0f36003dd0998632b4cd

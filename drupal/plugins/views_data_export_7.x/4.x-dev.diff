@@ -6,6 +6,11 @@ A	exporters/views_data_export_exporter_doc.inc	dd736744676fae408e3ef507a9354ee8
 A	exporters/views_data_export_exporter_excel_xlsx.inc	380a3e9993a7ca692b54233bc9e50fcd
 A	exporters/views_data_export_exporter_txt.inc	b93ef8d589dabde165ca55b4779e0369
 A	exporters/views_data_export_exporter_xml.inc	d547ce6bc1384ce0df3cdd6cde57b526
+M	images/csv.png	9ce59150f3af599ac31e66d45b0c6281
+M	images/doc.png	39271b6a5752f00617ab8f73bdcc990a
+M	images/txt.png	91a48fbb0c4238286f8c02686215c957
+M	images/xls.png	e97e0c39f5057766d341cc5776a57fcb
+M	images/xml.png	526a3f5dea44513bd7501da3040723f5
 M	plugins/views_data_export_plugin_display_export.inc	e3159c9ac829561f55fcaaf713002659
 M	plugins/views_data_export_plugin_style_export.inc	855f94ece42750d611c2b9a8170abca7
 D	plugins/views_data_export_plugin_style_export_csv.inc	
@@ -26,5 +31,6 @@ M	tests/xml_export.test	c3e4f5a92b88dc8d9baa951afd74856e
 M	theme/views_data_export.theme.inc	2ef71c367b80af87bc9267ccd25e317b
 M	views_data_export.drush.inc	4bfafcc319166c1a499ef9b0c5ef8aa3
 M	views_data_export.info	1d1566ee1b4c23355bc3b17a7f350bc3
+M	views_data_export.install	75ee267dbf034103ec39ae2b9cb429d1
 M	views_data_export.module	da12585c4195b073cb30d9741aa9370f
 M	views_data_export.views.inc	0d3a8023aeaa7f5932424bf46d757966

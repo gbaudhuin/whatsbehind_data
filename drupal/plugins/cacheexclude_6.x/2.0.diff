@@ -1,4 +1,5 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	c5367f19f13145f8ddb9d235ad4b335f
-M	cacheexclude.info	fa983c64c16494571b3ff3461a932b3c
-M	cacheexclude.module	04ee64d8ca5e6bc0a8d0d17628fc0c5f
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	c5367f19f13145f8ddb9d235ad4b335f
+A	cacheexclude.info	fa983c64c16494571b3ff3461a932b3c
+A	cacheexclude.install	27a02d0578cb9c8a3b8783e2fa1559ac
+A	cacheexclude.module	04ee64d8ca5e6bc0a8d0d17628fc0c5f

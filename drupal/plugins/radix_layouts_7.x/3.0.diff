@@ -1,4 +1,5 @@
 A	README.md	730ac8b1cd0555bd305ddfcb0fc8650e
+D	plugins/layouts/radix_brenham/radix_brenham.png	
 A	plugins/layouts/radix_pond/radix-pond.png	2f1b9c1e117f962120970699753bb82d
 A	plugins/layouts/radix_pond/radix-pond.tpl.php	bd28a586507a41f97e60664af7a80c37
 A	plugins/layouts/radix_pond/radix_pond.inc	486fb03ae2d0b908ea29e7835fa55711
@@ -12,6 +13,7 @@ A	plugins/layouts/radix_selby_flipped/radix-selby-flipped.png	5d31e616c4a1450605
 A	plugins/layouts/radix_selby_flipped/radix-selby-flipped.tpl.php	dc0de69adf8dcbc4d66381b870e65af6
 A	plugins/layouts/radix_selby_flipped/radix_selby_flipped.inc	c055726b0d36881dde24ff0789e02fe7
 M	plugins/layouts/radix_sutro/radix-sutro.tpl.php	53678483f588dfcd0849c19c5f019633
+A	plugins/layouts/radix_sutro_double/radix-sutro-double.png	e929a0fe2e039eb2b989d7b135064d44
 A	plugins/layouts/radix_sutro_double/radix-sutro-double.tpl.php	397cc4fafeb14a457de7a04d64f8c13a
 A	plugins/layouts/radix_sutro_double/radix_sutro_double.inc	6bea56b325ccc23dbd021546fcc7bd83
 A	plugins/layouts/radix_webb/radix-webb.png	e2ea3f0839d02b895956a04b4f6f68e1

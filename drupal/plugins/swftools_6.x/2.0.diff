@@ -1,16 +1,14 @@
+A	.cvsignore	3194da6ef1be7041ff33c2735f600f2b
+M	.project	5c57b0943f68381e2642ce4f5e97e1ba
 M	CHANGELOG.txt	13bc3f4e4b6165ea5cf5ecdbad420041
 M	INSTALL.txt	1b4eab766236d036862fddc561c03069
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 M	flowplayer/flowplayer.admin.inc	8c4ba91c19e0cbc706d4aaba2d39e61e
 M	flowplayer/flowplayer.info	b031351dfd696ff76fab159f161cbbbb
 M	flowplayer/flowplayer.module	639d6822bf7514ed93b0bbecbca84105
-M	flowplayer3/flowplayer3.admin.inc	014ec999d7c0b5efea2644a56acb07e4
-D	flowplayer3/flowplayer3.colorpicker.css	
-D	flowplayer3/flowplayer3.colorpicker.js	
-D	flowplayer3/flowplayer3.colorschemes.inc	
-D	flowplayer3/flowplayer3.css	
-M	flowplayer3/flowplayer3.info	f808516c1411748a9f9ccaa2a4dd5b90
-M	flowplayer3/flowplayer3.module	48f85ef45432d1d97614c563c4dada45
+A	flowplayer3/flowplayer3.admin.inc	014ec999d7c0b5efea2644a56acb07e4
+A	flowplayer3/flowplayer3.info	f808516c1411748a9f9ccaa2a4dd5b90
+A	flowplayer3/flowplayer3.module	48f85ef45432d1d97614c563c4dada45
 A	flowplayer3/flowplayer3_colorpicker.css	a8fa95bef69d88ba516b624f87dae299
 A	flowplayer3/flowplayer3_colorpicker.js	114ce7cfe57b2503d226f8a19258549b
 M	genericplayers.module	2100bac96dcc60c296c7ad1789452a78
@@ -21,10 +19,10 @@ M	lutman/lutman.info	041708ba9165ce11e8bb09870db07fc6
 M	lutman/lutman.module	80f526a35f7e90cd14bfd8a9d20e0558
 M	onepixelout/onepixelout.admin.inc	e3c2f9125f97ae9243924cd9983a544b
 M	onepixelout/onepixelout.info	4d3ce174cd11a184d9b751964f2b7f48
-D	onepixelout/onepixelout.js	
 M	onepixelout/onepixelout.module	f976fcfac83ff1345154d514681115f6
 M	shared/.cvsignore	e77538e8a4ebdab7501ce27f32e3944b
 M	shared/README.txt	a6f140f900ed3f9b33102d37630ff8a0
+A	shared/generic/skin_druplicon.swf	d7075b63baa918487445a55393fa6890
 M	simpleviewer/simpleviewer.admin.inc	5b8b3c795c0a5563b4dbad0e1260dc99
 M	simpleviewer/simpleviewer.info	5ae494781af1b2540bef6023a977b67a
 M	simpleviewer/simpleviewer.module	c13d2343e88f6b56fc902fc81e5dd02a
@@ -44,6 +42,5 @@ M	wijering/wijering.admin.inc	6087c92afca874095aa868002f64e892
 M	wijering/wijering.info	10ffe930f305a7ad5421955b7ef930a7
 M	wijering/wijering.module	3398ef6f4475d4f6c703950aaf231810
 M	wijering4/wijering4.admin.inc	c0e8e9f3100c9ecd5e8eddea674d1edf
-D	wijering4/wijering4.css	
 M	wijering4/wijering4.info	3275ededbaaf95ca5fe6095d6453db46
 M	wijering4/wijering4.module	cdcf46ce91db50090571e5a34b22fddc

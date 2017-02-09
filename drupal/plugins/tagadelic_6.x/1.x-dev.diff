@@ -1,7 +1,4 @@
-A	CHANGELOG.txt	924c3d5791a24f4b0fb63ad47a566820
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	84d555f6febe7ee61f5ebc0970c2d39e
-A	tagadelic.css	59f8286dec8cf4070f287484e9ae26c8
-A	tagadelic.info	80a832e3a28dd8fac252cb2671f12741
-A	tagadelic.install	3f0647918ebba4b635fddd2d31d89697
-A	tagadelic.module	ae741788e334fdeb19f003168be0aeb7
+M	CHANGELOG.txt	924c3d5791a24f4b0fb63ad47a566820
+M	README.txt	84d555f6febe7ee61f5ebc0970c2d39e
+M	tagadelic.info	80a832e3a28dd8fac252cb2671f12741
+M	tagadelic.install	3f0647918ebba4b635fddd2d31d89697

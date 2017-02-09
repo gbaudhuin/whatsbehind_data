@@ -1,3 +1,4 @@
+D	lib/Drupal/oauth/Authentication/Provider/OAuthDrupalProvider.php	
 D	lib/Drupal/oauth/Controller/OAuthController.php	
 D	lib/Drupal/oauth/Form/OAuthAddConsumerForm.php	
 D	lib/Drupal/oauth/Form/OAuthDeleteConsumerForm.php	
@@ -11,6 +12,7 @@ M	oauth.module	51649ffa59e5ceda0742b8eb53f772a2
 A	oauth.permissions.yml	c2e8af9c72ed8ff8ba65f922e714b5ec
 M	oauth.routing.yml	e829cee3c0a7b50e0419738772757821
 M	oauth.services.yml	de8f8c4811921a07596170afa3d116be
+A	src/Authentication/Provider/OAuthDrupalProvider.php	eae78c62fb6c7799a47ed7c2e3945e31
 A	src/Controller/OAuthController.php	474c8f66fd7546ba678e7cbaa3633806
 A	src/Form/OAuthAddConsumerForm.php	c4efbac4865bb0c72f4e04b2e56f92b3
 A	src/Form/OAuthDeleteConsumerForm.php	c5ffdd65aa4186af859763268e0c2d18

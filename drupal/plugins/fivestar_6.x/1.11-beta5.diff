@@ -6,3 +6,11 @@ M	fivestar.install	36b3fdda0456121d237e1f7f4472456e
 M	fivestar.module	4407f25478559a0aa4b05ddb46aa1f04
 M	fivestar_comment.inc	15176e22507d7d777addf2c8d4745659
 M	fivestar_field.inc	56a16e99ab3e65844aff6c897dca0ccb
+D	po/br.po	
+D	po/cs.po	
+D	po/de.po	
+D	po/sv.po	
+A	translations/br.po	bba6b6f4aa4f67ae47dc23e16d9e0763
+A	translations/cs.po	e0ef69909bf92a2013dfb0254705093b
+A	translations/de.po	b760c7c8ac48b63d10e16c791603f58e
+A	translations/sv.po	8aea29723fdcb0ce252a7809e817060a

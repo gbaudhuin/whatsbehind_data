@@ -42,6 +42,8 @@ M	src/Plugin/EntityBrowser/WidgetSelector/DropDown.php	8f7546b236ec3ff83f31eca79
 A	src/Plugin/EntityBrowser/WidgetValidation/Cardinality.php	1e93e0b334cf82556b0fd00b678099dd
 A	src/Plugin/EntityBrowser/WidgetValidation/EntityType.php	8c7aa731904e2724d225362d12693481
 A	src/Plugin/EntityBrowser/WidgetValidation/File.php	ad95505f3469c80af151be672c2a7602
+D	src/Plugin/Field/FieldWidget/EntityReference.php	
+A	src/Plugin/Field/FieldWidget/EntityReferenceBrowserWidget.php	2d9fe9739c6566ca46402e2dca231606
 A	src/Plugin/Field/FieldWidget/FileBrowserWidget.php	474e706b4057268c3f5e5a42c63f1cc6
 M	src/Plugin/views/field/SelectForm.php	727d2e505db4715197c4e38bee51853e
 M	src/Tests/ConfigUITest.php	8d55a4c26045b37e632d391d3ba1ea65

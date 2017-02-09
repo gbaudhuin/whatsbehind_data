@@ -1,8 +1,9 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	a01425620df442566123517f8d4fac0f
-D	a_reset.gif	
-M	text_resize.css	274b4e151c08f94c0a4874fe0645ff94
-M	text_resize.info	8134a82eade65afffd2c5362e4c06d4d
-D	text_resize.install	
-M	text_resize.js	a7d6d7540a38c5280c100f6c3cc5442c
-M	text_resize.module	bcc6262282afa030c2e52dd6d40c3235
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	a01425620df442566123517f8d4fac0f
+A	aBig.gif	381261d54396717af9b71fc8bcc69343
+A	aSmall.gif	6104ee4ee796007e5aead471644c87df
+A	jquery.cookie.js	07f95cb9a73d55ce1abfa435fd096604
+A	text_resize.css	274b4e151c08f94c0a4874fe0645ff94
+A	text_resize.info	8134a82eade65afffd2c5362e4c06d4d
+A	text_resize.js	a7d6d7540a38c5280c100f6c3cc5442c
+A	text_resize.module	bcc6262282afa030c2e52dd6d40c3235

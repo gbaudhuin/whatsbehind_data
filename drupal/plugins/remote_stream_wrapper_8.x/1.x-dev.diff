@@ -1,0 +1,14 @@
+M	remote_stream_wrapper.info.yml	8db9f3e381399ae278096875956ce44f
+A	remote_stream_wrapper.install	836be3a73b4e54da5493a151ca14b75f
+M	remote_stream_wrapper.services.yml	ef9371c570752d7cc27d4e5e373b1092
+M	src/Controller/RemoteImageStyleDownloadController.php	cb26aa3769ff1e56706f94c529179391
+M	src/Entity/ImageStyle.php	a0b422d5d901df24181454b8a8dbcfb5
+M	src/File/MimeType/HttpMimeTypeGuesser.php	199a6d3465df3135c930c5df1dd45cf4
+A	src/HttpClientTrait.php	6075ccef132a32f56205e450da5014cd
+M	src/Routing/RemoteImageStyleRoutes.php	836081c34db74d863a9e522986d0174c
+M	src/StreamWrapper/HttpStreamWrapper.php	043c48d9e06b99dcada1acd6e7fdf1c3
+M	src/StreamWrapper/RemoteStreamWrapperInterface.php	1b512b595e0d8f89d72324da04e94d05
+M	tests/src/Functional/HttpStreamWrapperTest.php	9b884f559b74a06b39e570f6cdc77aef
+A	tests/src/Kernel/HttpMimeTypeGuesserTest.php	c3a97bf68e71f9e14231958376302a46
+A	tests/src/Kernel/HttpStreamWrapperTest.php	16da8ee64462a7d7b12814dd53658028
+M	tests/src/Unit/HttpStreamWrapperTest.php	2b4502762719180293e98506c6e65f74

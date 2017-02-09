@@ -12,6 +12,8 @@ M	flowplayer3/swftools_flowplayer3.admin.inc	7bd015efb49e191370e04fde18321788
 M	flowplayer3/swftools_flowplayer3.info	b568c64f43beb7d298bb56b2dcaea8dd
 M	flowplayer3/swftools_flowplayer3.js	fc0d47a4fd1f02086adda2ea288a6d26
 M	flowplayer3/swftools_flowplayer3.module	d9843fa75a3f90a2d5680212e11bb3e3
+D	generic_players/generic_flv.swf	
+D	generic_players/generic_mp3.swf	
 D	generic_players/swftools.genericplayers.inc	
 M	getid3/swftools_getid3.info	11b3254f2ac3712b450c367c2674511c
 M	getid3/swftools_getid3.module	b190500c93892c6b7ea56590c8a8375f
@@ -19,6 +21,8 @@ M	imagerotator/swftools-imagerotator-playlist-element.tpl.php	58e1d3846a6ef8d25e
 M	imagerotator/swftools_imagerotator.admin.inc	cf1d1bee5ba3c48b2799d83ee8b7dd2b
 M	imagerotator/swftools_imagerotator.info	edf4a1a28201d6e116f70d5329c3334c
 M	imagerotator/swftools_imagerotator.module	493bc2b39d0b4ffe30e3c7d5eebf82f2
+A	includes/swftools.admin.inc	ae24ae60e4221c514e0172215b67bb24
+A	includes/swftools.admin.status.inc	aa1982c36e46197eaee4c287ca68c277
 A	includes/swftools.core.inc	580dd0ddfc0392b746642132cd420810
 A	includes/swftools.genericplayers.inc	314743dfc332bb4769436325f72a0c73
 M	onepixelout/swftools_onepixelout.info	a43cc63f8874ab1696b8cd2a70a93088
@@ -39,12 +43,18 @@ A	soundmanager2/swftools_soundmanager2.info	9e953373f2c5aeef7647ebeb41a8f721
 A	soundmanager2/swftools_soundmanager2.inlineplayer.css	a815669a5950308f14fd94be1a0bf107
 A	soundmanager2/swftools_soundmanager2.js	131e59be01b277b0d396a78d8471e0cb
 A	soundmanager2/swftools_soundmanager2.module	3e7660f6c9dafed2bc7e10de0e409199
+A	swf/generic_flv.swf	f2d65a74a221996eab2f048134f80a91
+A	swf/generic_mp3.swf	3d58bd4d6f325e2c1f01fd9966ef24ae
+A	swf/swftools_test_file.swf	bed21630dfc7a058c7252a3026128d60
 M	swfobject2/swftools_swfobject2.info	9f7cc872f9f66eed41b7dc794a71572e
 M	swfobject2/swftools_swfobject2.module	ad299ca8e00e6fc49bf360f42301591e
+D	swftools.admin.inc	
+D	swftools.admin.status.inc	
 M	swftools.info	717704d36bc87b2d0c03396b1f083406
 M	swftools.install	31e559b2846cf6fad3afc38fa79ad5a5
 M	swftools.js	d1fef5f17a268d1ae0144f4761e97608
 M	swftools.module	5f9d463c9b92c88d2620356b0d3bf05e
+D	swftools_test_file.swf	
 A	views/swftools.views.inc	eef67aa40a15bc6aa09cb40b50ce11e1
 A	views/swftools.views.theme.inc	7a4d877624582dd92cb3db1ff3a6ff62
 A	views/views-view-swftools.tpl.php	24245efc00842cc22ae0ec987ad9bff1

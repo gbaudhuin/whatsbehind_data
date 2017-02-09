@@ -1,6 +1,5 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	8dbd538b0dad85b2e8ee030330f2186c
-M	javascript_aggregator.info	c4b40b3f2ebceb3ed5843c3a75e2ab64
-D	javascript_aggregator.install	
-M	javascript_aggregator.module	c5e4b137b939f23df222cd66297cc834
-D	jsminplus.php	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	8dbd538b0dad85b2e8ee030330f2186c
+A	javascript_aggregator.info	c4b40b3f2ebceb3ed5843c3a75e2ab64
+A	javascript_aggregator.module	c5e4b137b939f23df222cd66297cc834
+A	jsmin.php	6b15e68993e45300fa58bb6a02629a6c

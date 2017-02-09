@@ -1,9 +1,2 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	cckformsettings.info	
-D	cckformsettings.install	
-D	cckformsettings.js	
-D	cckformsettings.module	
-D	nodeformsettings.info	
-D	nodeformsettings.install	
-D	nodeformsettings.js	
-M	nodeformsettings.module	830b76a76e8a0884f075a47b25171c14
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	nodeformsettings.module	830b76a76e8a0884f075a47b25171c14

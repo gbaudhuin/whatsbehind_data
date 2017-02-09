@@ -3,7 +3,9 @@ M	payment/uc_2checkout/uc_2checkout.pages.inc	220b664f1075fe7d46d72cf3e85dfad5
 M	payment/uc_authorizenet/uc_authorizenet.info	4fc7553d1ccafe359aa95f259fd83e2b
 M	payment/uc_authorizenet/uc_authorizenet.module	5336de9bbde0fff5a01bc5e44a704367
 M	payment/uc_authorizenet/uc_authorizenet.pages.inc	6cec8196a5c56eb247cba516a9424beb
+D	payment/uc_credit/test_gateway.info	
 D	payment/uc_credit/test_gateway.module	
+A	payment/uc_credit/tests/test_gateway.info	7bfaf5a7b4e4c71fd9e9593efbd7d399
 A	payment/uc_credit/tests/test_gateway.module	c9f09dd54cac585d746d4751dabd795b
 A	payment/uc_credit/tests/uc_credit.test	3d9fc1e168afedb8bcdd79e14321e51d
 M	payment/uc_credit/uc_credit.admin.inc	0db5c758d076afe43bc03868bf703f97
@@ -96,6 +98,7 @@ M	uc_order/uc_order.admin.inc	1cbf7069ca5d4406aa7252a77cc7a06b
 M	uc_order/uc_order.api.php	28db0ea2e0bc6b56b14cdd4aaad509f3
 M	uc_order/uc_order.css	3a524b6c4b026c2278efd2e1f7194e82
 A	uc_order/uc_order.customers.inc	fd93bc00989f9f04071953bd8316f2dd
+A	uc_order/uc_order.customers.js	47b67d758bfa8a196072fa23162716f7
 M	uc_order/uc_order.info	9ab51adb96b5b3c8b00eed1fe649137f
 M	uc_order/uc_order.info.inc	1ce49502d150f052c6f62f2104270fbd
 M	uc_order/uc_order.install	f7d97cf63e2477cd4107ff7860c48ad0
@@ -133,6 +136,8 @@ M	uc_stock/uc_stock.admin.inc	863f17ee9d6ffd53667af7d30cb0ad21
 M	uc_stock/uc_stock.info	7e529f532a585d5b2fce6802204eadd3
 M	uc_stock/uc_stock.module	16b50b377d4632e5f01110d3ff58990f
 M	uc_stock/views/uc_stock.views.inc	cb973b8cee22dcef84609a03d73a889b
+A	uc_stock/views/uc_stock_handler_filter_below_threshold.inc	743d1b18173a1f8bad45f9c7f51f2679
+D	uc_stock/views/uc_stock_views_handler_filter_below_threshold.inc	
 M	uc_store/classes/address.inc	fb62c70cbf88a809005e9eae5243f4d0
 M	uc_store/classes/encrypt.inc	aefedc1ca847b7c1f1cbf8864d8ffdfa
 M	uc_store/includes/coder_review_uc3x.inc	872a9b39915063df62ffca87c04b3a01
@@ -141,6 +146,7 @@ M	uc_store/tests/uc_store.test	676f65dcce9181b1f0f604492c308c6c
 M	uc_store/uc_store.admin.inc	a75717520e535baf708290ab63081762
 M	uc_store/uc_store.info	c797c9aaa562f15cb98a7b669844001c
 M	uc_store/uc_store.install	873194976666923c03bf709688af0b55
+D	uc_store/uc_store.js	
 M	uc_store/uc_store.module	f0c1918e8b4001c5e518d99bd5a4ec82
 M	uc_store/uc_store.tokens.inc	cb804b0acc1a20bf8b4f2ab3ba6c50c3
 M	uc_tax_report/uc_tax_report.info	ccb58d51eb8401676bf69467a9c65203

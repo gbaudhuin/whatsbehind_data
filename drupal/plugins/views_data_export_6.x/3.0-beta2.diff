@@ -1,4 +1,6 @@
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.md	0ec6820a588cfe6c4db0bb4ac0155fb1
+D	README.txt	
 M	migration/views_data_export_migration.info	442292d8a74625765bdac07357e3db6b
 M	plugins/views_data_export_plugin_display_export.inc	19fe3d282ec46192a6f792d0ddd08719
 M	plugins/views_data_export_plugin_style_export.inc	24a4d89e2f1fbe0760f3363283f8d0e4
@@ -8,6 +10,7 @@ M	theme/views-data-export-txt-body.tpl.php	8023da369059d672ca51b21bf18cfa77
 M	theme/views-data-export-xml-body.tpl.php	5090dc7fc1c7de8dba37bbf1f42f7812
 M	theme/views-data-export-xml-header.tpl.php	78a5e482a10d0168d9fb15daba52afe9
 M	theme/views_data_export.theme.inc	853dfa7debfde8fe6368e7240f2d05d8
+M	views_data_export.drush.inc	5259d104e255b0e96e721d22b5d01771
 M	views_data_export.info	9d190b1673715aabbf58e3ca11116f68
 M	views_data_export.install	bfd4f5f3315600283d885f640d41ef2f
 M	views_data_export.module	ced36e663c3f5eee7b8da0cdf522ade1

@@ -7,6 +7,7 @@ M	draggableviews.install	54ff3cb94294a4f271e3539259e03d46
 M	draggableviews.js	0b29ade10c6bee3950853072479b5643
 M	draggableviews.module	88df2c394835e4aa785d3c09d432450f
 D	draggableviews.views.inc	
+D	draggableviews_plugin_style_draggabletable.inc	
 M	draggableviews_theme.inc	30713eeda47e053f9398b8abffaf07e8
 D	graphics/icon_edit.gif	
 D	graphics/icon_edit2.gif	
@@ -17,5 +18,6 @@ A	modules/draggableviews_cck/draggableviews_cck.module	1b07419eb84522ce04934c4c9
 A	modules/draggableviews_cck/draggableviews_handler_cck.inc	dc073bd45430ae193f4833714303daca
 M	styles.css	7076d600794e0884ff312a5dfd0ea9e2
 A	views/draggableviews.views.inc	0324dd039a25ca6a069b399d8f449d34
+A	views/draggableviews_plugin_style_draggabletable.inc	1c95fd6425865abcf442ec16d8239f78
 A	views/handlers/views_handler_field_draggableviews_structure.inc	2597fe5a2025aecd57f5184dff8a39f2
 A	views/handlers/views_handler_sort_draggableviews_structure.inc	573d0590a5673f734413a78ebff78691

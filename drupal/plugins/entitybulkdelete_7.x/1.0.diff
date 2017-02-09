@@ -1,6 +1,8 @@
-M	entitybulkdelete.comments.inc	e186531af18a2f8829a1f25d26ee8105
-M	entitybulkdelete.info	b7992d21ea3201bce5f473d5fbbe2f5f
-M	entitybulkdelete.module	f7971558dba5f3171b5d07f606ec39bb
-M	entitybulkdelete.nodes.inc	e53d61aca641a81727b6f4532eea231a
-M	entitybulkdelete.terms.inc	9b4caa90cffb184bcf813e4c88985973
-M	entitybulkdelete.users.inc	3d4ae8e454ee96661fc76faab3da0b1d
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	5f70c51e990f2a4c292b1efc34f57e47
+A	entitybulkdelete.comments.inc	e186531af18a2f8829a1f25d26ee8105
+A	entitybulkdelete.info	b7992d21ea3201bce5f473d5fbbe2f5f
+A	entitybulkdelete.module	f7971558dba5f3171b5d07f606ec39bb
+A	entitybulkdelete.nodes.inc	e53d61aca641a81727b6f4532eea231a
+A	entitybulkdelete.terms.inc	9b4caa90cffb184bcf813e4c88985973
+A	entitybulkdelete.users.inc	3d4ae8e454ee96661fc76faab3da0b1d

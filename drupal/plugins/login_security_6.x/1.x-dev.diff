@@ -1,7 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	9c00a3d0c35c4a7424a3a1f35fa53420
-A	login_security.admin.inc	56ec0e5cf4bdfb68b6a6cd694dbe8fee
-A	login_security.info	9fe901eccdbbae9bfcd5c2529ca124db
-A	login_security.install	2806e4b1bd02bc05c14a30fdf63c1fc1
-A	login_security.module	053ec49fdc8450238351a2eb1980ca0c
-A	login_security.test	21f2fcbda92f8607f6d6c514403ee926
+M	login_security.info	9fe901eccdbbae9bfcd5c2529ca124db

@@ -12,6 +12,8 @@ M	plugins/ultimate_cron/settings/queue.class.php	441cc2c870291bd363b6596a77dd23b
 D	templates/page-admin-settings-cron-log.tpl.php	
 M	ultimate_cron.admin.inc	e77d2a3de7b9a1bd90f7677848bf2825
 M	ultimate_cron.api.php	029813038332dc24a318e60bcc25e521
+A	ultimate_cron.background_process.inc	ca72aaf69ac303955234336a1709828c
+D	ultimate_cron.background_process_legacy.inc	
 M	ultimate_cron.cache-signal.inc	c67c7f8e83d37fde3f06b1d97f8c14e4
 A	ultimate_cron.cron.inc	fafaace887da030758311c1a78ae5c8d
 M	ultimate_cron.drush.inc	451b9209ecee08ab6f790b67411e6624

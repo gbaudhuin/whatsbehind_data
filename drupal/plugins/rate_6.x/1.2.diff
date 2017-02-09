@@ -12,7 +12,9 @@ M	rate.install	455aa2f35f80990accc40b14c70546b0
 M	rate.js	405389fff386ea2146df6390a38f292e
 M	rate.module	89f921bcf94243ac64fb9ad4c1bc498b
 M	rate.results.inc	044a997ca04cf09e0fa7f61e4002d749
+D	templates/emotion.css	
 D	templates/emotion.tpl.php	
+A	templates/emotion/emotion.css	ffeda1cf366bb6f9db575f22e2524037
 A	templates/emotion/emotion.tpl.php	98d77486c469c3d145aa0bb56dbd1cea
 D	templates/fivestar.css	
 D	templates/fivestar.tpl.php	
@@ -33,5 +35,7 @@ A	templates/thumbs-up/thumbs-up.css	18c06b57a9f1a156a8267420ace1913f
 A	templates/thumbs-up/thumbs-up.tpl.php	4c203965943d6f0bc95f6049f93ea5e8
 D	templates/thumbs_down.png	
 D	templates/thumbs_up.png	
+D	templates/yesno.css	
 D	templates/yesno.tpl.php	
+A	templates/yesno/yesno.css	bf49eb863ec09e17a93e7bbd20f6d727
 A	templates/yesno/yesno.tpl.php	98d77486c469c3d145aa0bb56dbd1cea

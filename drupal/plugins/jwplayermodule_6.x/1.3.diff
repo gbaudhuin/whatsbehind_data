@@ -18,10 +18,12 @@ M	framework/SWFObjectConfig.php	9dc63962b158ff7a94bc8df821b90a39
 D	jwplayermodule.css	
 M	jwplayermodule.info	25a40f5cacdf45657b2b4b334f014bb3
 M	jwplayermodule.install	4dd3c6d77fad7a863449ac454484b1e6
+D	jwplayermodule.js	
 M	jwplayermodule.module	72f9f7d9eb33f576e3104305d0d54629
 M	jwplayermodule_admin.inc	c40d924f2db7228147d9665cff76e5ab
 A	jwplayermodule_admin.php	b4fdc75558ad43ecb59012a7667b41d7
 A	jwplayermodule_jwembedder.js	c7a7aa5d5f5ecdc3368ac8a051266ab2
+A	jwplayermodule_swfobject.js	4a230050f14e5346b351aade9652ad35
 M	jwplayermodule_theme.inc	5b8fec5fa4f00b20a3304f226771e9dc
 A	jwplayermodule_upgrade.js	004bdd4042728970a035b920be119d80
 M	player.xml	94d8dcc21162c9e4ed765a4f71f36547

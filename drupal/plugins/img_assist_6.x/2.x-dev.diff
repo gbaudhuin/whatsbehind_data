@@ -1,29 +1,23 @@
 M	CHANGELOG.txt	caddb76d76860e9df7417717b1b86b7c
-D	INSTALL.txt	
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 M	README.txt	3e2d3a26119290fc5f923cd30268f2b7
-D	drupalimage/README.txt	
-A	drupalimage/css/img_assist.css	21c7e0753330f5dbefea2b7f8e3f3802
-D	drupalimage/drupalimage.css	
+M	drupalimage/css/img_assist.css	21c7e0753330f5dbefea2b7f8e3f3802
 M	drupalimage/editor_plugin.js	d547e2c3c25e0a9601f9aa8e9eb180be
 M	drupalimage/editor_plugin_src.js	d547e2c3c25e0a9601f9aa8e9eb180be
-D	drupalimage/images/readme.txt	
-M	drupalimage/langs/de.js	04f66c41dcdd34dd3abda48678b4a675
-M	drupalimage/langs/en.js	1ff0a355321a15b745d3fb56cfe25f05
 M	img_assist.css	c04d81a54b53c0059f6553cea0772962
 M	img_assist.info	b453076ed93c80705ba6cdee2325a93d
 M	img_assist.install	3a2da6af3591ff0ef08acf21772feeb3
 M	img_assist.js	8ad11112d25d7e3a2e89b1c2ba02be37
 M	img_assist.module	9fe3d3e54cda044f0fb98a22e1bb4243
-A	img_assist_popup.css	723b82e5d3c8c4856596c92adda28056
-A	img_assist_popup.js	a7584fd17e70874080ef96852761396c
+M	img_assist_popup.css	723b82e5d3c8c4856596c92adda28056
+M	img_assist_popup.js	a7584fd17e70874080ef96852761396c
 M	img_assist_textarea.js	4af071749d7ea730a22612c9b925a631
 M	img_assist_tinymce.js	1eb0a06295451dd506436db41e58f5a0
-A	includes/img_assist.token.inc	60f21f96dd4213bb430f05693a7e5318
-A	includes/img_assist.views.inc	ba77c3e7c740e93413406662b58e80b3
-A	includes/img_assist.views_default.inc	2d3850acd5d176e2781b076871fad1e4
-A	theme/img-assist-browser-thumbnail.tpl.php	18d9bc487d772744530649807c0d5756
-A	theme/theme.inc	83282416e9f2de5492f62dc79649f0d6
+M	includes/img_assist.token.inc	60f21f96dd4213bb430f05693a7e5318
+M	includes/img_assist.views.inc	ba77c3e7c740e93413406662b58e80b3
+M	includes/img_assist.views_default.inc	2d3850acd5d176e2781b076871fad1e4
+M	theme/img-assist-browser-thumbnail.tpl.php	18d9bc487d772744530649807c0d5756
+M	theme/theme.inc	83282416e9f2de5492f62dc79649f0d6
 D	translations/ar.po	
 D	translations/da.po	
 D	translations/de.po	

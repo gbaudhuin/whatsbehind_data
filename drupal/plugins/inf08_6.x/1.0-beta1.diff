@@ -1,28 +1,25 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	box.tpl.php	6acbc9a696069f999f286ed6c585e402
-M	comment-wrapper.tpl.php	272bb6ccfbfeec4c700ece53012ec1ad
-M	comment.tpl.php	3248693fbe8eb1446ac878c90c350b9e
-M	css/custom-sample.css	922b8bb08df9488f9b9e1599fb4b824e
-M	css/ie.css	7dce87e3bde47917eafe694613c3bc7d
-M	css/style.css	ac23bcaa58410a3891f0ff4652c2dd88
+A	CREDITS.txt	49d2d7dc1b139bc078558d462d3e19ff
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	box.tpl.php	6acbc9a696069f999f286ed6c585e402
+A	comment-wrapper.tpl.php	272bb6ccfbfeec4c700ece53012ec1ad
+A	comment.tpl.php	3248693fbe8eb1446ac878c90c350b9e
+A	css/custom-sample.css	922b8bb08df9488f9b9e1599fb4b824e
+A	css/ie.css	7dce87e3bde47917eafe694613c3bc7d
+A	css/style.css	ac23bcaa58410a3891f0ff4652c2dd88
+A	favicon.ico	02836c9809cf0de1497a1884e214ae24
+A	images/blue-bg.gif	edf2c75a86785f6507034ef013681807
 A	images/blue-bl.gif	0d7a9b99c9f15f580b4b3d2c657f9d9d
 A	images/blue-blh.gif	683fcc20591dfc7f99d6974fc6c4dc3b
 A	images/blue-bmh.gif	aa88795f840d22fcb58f8be92301fd43
 A	images/blue-br.gif	18dc9cf4f28d3ae03f9d0d4100d90f31
 A	images/blue-brh.gif	e537fe906864a81b5613f905e2f0df94
-D	images/drop-bottom.gif	
-D	images/header-search.gif	
-M	images/screenshot.png	97569a8def601f02c6721953ed35046b
-D	images/search.gif	
-D	images/tab-left.gif	
-D	images/tab-right.gif	
-M	inf08.info	063b251c827c4d3f39874df0e3cd20b0
-D	js/jquery.pngFix.js	
-D	js/suckerfish.js	
-D	logo.png	
-M	node.tpl.php	508f1a35052ecae854c7a06ff12c5fd4
-M	page.tpl.php	a44cac6a4b703d22c00d338072903ad3
-D	search-theme-form.tpl.php	
-M	template.php	fae511f7a683879705172d21c33a075f
-M	theme-settings.inc	38e64d883eca2e6cff803e9e17b5e524
-M	theme-settings.php	5888051bb5e2167a34650c3b069af626
+A	images/icon-com.gif	090c4188bb9208d717b452c799fe6532
+A	images/icon-post.gif	ee4a5448c452980787e5be70575605bf
+A	images/icon-tag.gif	730f06344db7bfcbc27a78a78b6ae45c
+A	images/screenshot.png	97569a8def601f02c6721953ed35046b
+A	inf08.info	063b251c827c4d3f39874df0e3cd20b0
+A	node.tpl.php	508f1a35052ecae854c7a06ff12c5fd4
+A	page.tpl.php	a44cac6a4b703d22c00d338072903ad3
+A	template.php	fae511f7a683879705172d21c33a075f
+A	theme-settings.inc	38e64d883eca2e6cff803e9e17b5e524
+A	theme-settings.php	5888051bb5e2167a34650c3b069af626

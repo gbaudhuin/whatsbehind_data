@@ -22,8 +22,11 @@ M	lib/Admin/ElementObject/WeightsTextual.php	ac166341e1667c74f4119bcd3e727665
 M	lib/Admin/WeightsTable.php	e76efb4092ea849239009e380f16f9d4
 M	lib/BreadcrumbBuilder.php	8a09e08fd5be97380b2bb123efd35a24
 M	lib/CallbackRestoration.php	0fd9cfccaf9f76fb71bd07ba2ce81838
+A	lib/Container/AbstractLazyData.php	a33cb8700ccf2b736e1186142264f295
 A	lib/Container/AbstractLazyDataCached.php	d336e7bc6e6b18910ebf445b7bf19f72
 D	lib/Container/CachedLazyPluginInfo.php	
+D	lib/Container/LazyData.php	
+D	lib/Container/LazyDataByPath.php	
 D	lib/Container/LazyPageData.php	
 D	lib/Container/LazyServices.php	
 M	lib/Container/MultiWildcardData.php	af909794e5e665c165cab1c11e61ae50
@@ -66,6 +69,7 @@ A	lib/PluginSystem/PluginMethodIterator.php	071a5bbcbfad92b0fdc522960b7212c5
 A	lib/PluginSystem/PluginMethodIteratorPosition.php	fffffb3d9adec1036213c685aafe62b2
 M	lib/Router.php	f7368fd8f92ac0130e25562d23da0b24
 D	lib/ServiceFactory.php	
+A	lib/TrailCache.php	42f210bcbdd3e21b2d83f6bc6f81db45
 M	lib/TrailFinder.php	9b4fad42f6869e67835609b8fc209576
 A	lib/UI/Table.php	77363699315bdb1dd380cfb03a7d103b
 A	lib/UI/TableColumns.php	b69c631d315810d1623cd00d48cd69a3

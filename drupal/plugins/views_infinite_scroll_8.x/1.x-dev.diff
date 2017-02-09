@@ -1,12 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	config/schema/views_infinite_scroll.schema.yml	457bc4da666fef3da9d9f2e6e145661a
-A	js/infinite-scroll.js	8027958a41f82c33f3bd35bca423a5b1
-A	src/EventSubscriber/AjaxResponseSubscriber.php	40a3fd16c1d34235cc21892134bc518b
-A	src/Plugin/views/pager/InfiniteScroll.php	1a25dcff8e5c1ae6326db82c1c79a1f9
-A	src/Tests/IntegrationSmokeTest.php	339a16e0ae1756926bf7bd64797709ce
-A	templates/views-infinite-scroll-pager.html.twig	3b94d5e35fefb5b83777433d12c9d61b
-A	tests/src/FunctionalJavascript/InfiniteScrollTest.php	852e9a99324d1cbafef8786d1b2721f8
-A	views_infinite_scroll.info.yml	b9d832e54efa745097e515017ce0dd63
-A	views_infinite_scroll.libraries.yml	80d453346dd3ec2e5a4d78efe4d77277
-A	views_infinite_scroll.module	b1ae9c1d7dd0dba0a8b01992950b2e5e
-A	views_infinite_scroll.services.yml	65152c126a864eb1f54121337abfbcc1
+M	views_infinite_scroll.info.yml	b9d832e54efa745097e515017ce0dd63

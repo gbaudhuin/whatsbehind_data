@@ -69,6 +69,8 @@ M	uc_roles/uc_roles.module	d56b956d3d6515a33cac4df0047e0c90
 A	uc_roles/views/uc_roles.views.inc	0f367617c669fd000da034e430bbf729
 A	uc_roles/views/uc_roles_handler_field_rid.inc	db321a94b6a8b532edf4d991912979d2
 M	uc_stock/uc_stock.info	aeba305a2443a6a49db6227b4d104a91
+D	uc_store/countries/india_356_2.cif	
+A	uc_store/countries/india_356_3.cif	af569eb63c6d668d890fd5d9f6d60bc4
 A	uc_store/uc_store-rtl.css	06d63cbd10f0dea2a0d106c596a9b29e
 M	uc_store/uc_store.countries.inc	41f563dfed537a2684af32094f9ac6ad
 M	uc_store/uc_store.css	79bb63bc8f6140ccac1fd2b528b3523d

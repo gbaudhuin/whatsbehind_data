@@ -25,6 +25,8 @@ M	modules/ds_devel/ds_devel.module	f84a47f67d00132ee8a7c20e57fb05bf
 M	modules/ds_devel/src/Controller/DsDevelController.php	f468c4577f4b4d5a7822a42a38f8f3b1
 M	modules/ds_devel/src/Plugin/Derivative/DsDevelLocalTask.php	1b1d52078874053efe83ec83ed36053b
 M	modules/ds_devel/src/Routing/RouteSubscriber.php	6d699d772fd4a6e3d9e2d2072f4379bc
+D	modules/ds_extras/config/install/core.entity_view_mode.node.revision.yml	
+A	modules/ds_extras/config/optional/core.entity_view_mode.node.revision.yml	bbd0c2dc5b8b85bb06836348520c0095
 M	modules/ds_extras/ds_extras.info.yml	7298f569f339c717fb0af4e2493c918b
 M	modules/ds_extras/ds_extras.module	46375ddb0c9ff61ea922d1a4ef6e8dcb
 M	modules/ds_extras/src/Controller/DsExtrasController.php	8e4c09495b57e51ca5695d5390f7a876
@@ -59,15 +61,12 @@ M	src/Plugin/Derivative/DynamicBlockField.php	064049a92cf430f351a44809562a574c
 M	src/Plugin/Derivative/DynamicCopyField.php	61a358e0780de5224b3825c19ae9f7b5
 M	src/Plugin/Derivative/DynamicField.php	fe41d80c0b4b6e6f08aa43e2a4d772ac
 M	src/Plugin/Derivative/DynamicTokenField.php	d7045572f2765cedf7ddc625342d2412
-A	src/Plugin/DsField/Block/BlockDescription.php	531232971f9bce48dfd11388c8e26f1e
 M	src/Plugin/DsField/BlockBase.php	1bdac9d7baf884403238e01315567fc8
 M	src/Plugin/DsField/Book/BookNavigation.php	a0c1dea58869ad6c4ed196105aedad89
-A	src/Plugin/DsField/BundleField.php	f6a984557ffd174104fb14a75827998c
 M	src/Plugin/DsField/Comment/CommentAuthor.php	e44096be9e02fbff77e91f0518014c32
 M	src/Plugin/DsField/Comment/CommentChangedDate.php	126f4047d565a89ab552b5579f387b33
 M	src/Plugin/DsField/Comment/CommentPostDate.php	2740d00f207aa3e089e9571370a68d89
 M	src/Plugin/DsField/Comment/CommentTitle.php	894cb721a6896b9bef83abadfaa903c3
-M	src/Plugin/DsField/Comment/CommentUser.php	825745ab1823ec28ea4d488e7110d441
 M	src/Plugin/DsField/Comment/CommentUserSignature.php	a71652799e9ae6683136ac5b23def599
 M	src/Plugin/DsField/Date.php	b6db5032a6240e5f2e34815c872b9c21
 M	src/Plugin/DsField/DsFieldBase.php	6212f8b169c3b8a2fa74d5528ab554c9

@@ -1,5 +1,0 @@
-M	ckeditor_abbreviation.info.yml	4077fd96f029c592bcb9a746ee567611
-M	js/plugins/abbr/dialogs/abbr.js	e577b4c9cd53d59a039e11a497951482
-M	js/plugins/abbr/lang/en.js	456edea74e2b7039739b357ad3d6a846
-M	js/plugins/abbr/plugin.js	107842b090ca1715ce421f846c54c0db
-M	src/Plugin/CKEditorPlugin/AbbreviationCKEditorButton.php	f796d2afca93909136f7f78ca6f796b8

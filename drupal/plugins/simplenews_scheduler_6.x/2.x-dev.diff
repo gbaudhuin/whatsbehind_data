@@ -1,12 +1,2 @@
-M	CHANGELOG.txt	23d9d7d5eab7e14a4991f700b4cd3002
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	59bb16340df857f4e3d18519aefc7246
-A	documentation/php_eval_snipps.txt	0f520bbeebddad9805e06552a7d34b9a
-A	simplenews_scheduler.api.php	a7f01e8c64ba92a420de33d225083dcb
+M	simplenews_scheduler.api.php	a7f01e8c64ba92a420de33d225083dcb
 M	simplenews_scheduler.info	481ac447d8e4178859d8acff1d2f546f
-M	simplenews_scheduler.install	52d91f83d3fe4ff07a058cc2d403445e
-M	simplenews_scheduler.js	74e12681a45fcb7f483e8ed8054caeff
-M	simplenews_scheduler.module	78afed4e0e7413434f89a7e02f48ebc3
-A	simplenews_scheduler_views.inc	282231602ebbfb3d8e65bb372f31c7f6
-A	tests/simplenews_scheduler.test	2b511a9e2a7f9e60050c827975481d3f
-D	translations/simplenews_scheduler.pot	

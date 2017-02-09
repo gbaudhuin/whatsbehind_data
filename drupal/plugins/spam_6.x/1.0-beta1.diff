@@ -1,39 +1,25 @@
-M	CHANGELOG.txt	7e07c60148cda8ad201399fc9a7a2b68
-D	DEVELOPER.txt	
-D	INSTALL.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	e5f0184bd96294d63cc7915e62d4c734
-D	content/spam-comment.css	
-D	content/spam-node.css	
-D	content/spam_content_contact.inc	
-D	content/spam_content_node.inc	
-D	content/spam_content_notifications.inc	
-D	content/spam_content_privatemsg.inc	
+A	CHANGELOG.txt	7e07c60148cda8ad201399fc9a7a2b68
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	e5f0184bd96294d63cc7915e62d4c734
 A	filters/bayesian/bayesian.info	f9293894e6b049dab572dc3b39c169d2
+A	filters/bayesian/bayesian.install	b07f1badd3854364611ddcdd8aa9b90d
 A	filters/bayesian/bayesian.module	201019c65cefe7267b98ce3e93f53a15
 A	filters/custom/custom-upgrade.inc	1fced8640d431dcf926dd3054bfa8daf
 A	filters/custom/custom.info	ef74f864830d0eea3e668c91ba6f381c
+A	filters/custom/custom.install	b6d986ac63be0661d463584187628a4d
+A	filters/custom/custom.module	5aabbddd709603d605f98c4aa04a5393
 A	filters/duplicate/duplicate.info	b8bdc44d6a701ebcadbf5150ebfb9d12
+A	filters/duplicate/duplicate.install	68bcda7cb1afa9bee9769f5bc379c605
+A	filters/duplicate/duplicate.module	9a06685f8124fb05802970dcf571c02c
 A	filters/node_age/node_age.info	1817ca50ca47180383894d87df3d1acd
 A	filters/node_age/node_age.module	ef61ccc65b244fe05ea16e9d79263d5b
-D	filters/spam_filter_bayesian/spam_filter_bayesian.info	
-D	filters/spam_filter_bayesian/spam_filter_bayesian.module	
-D	filters/spam_filter_custom/spam_filter_custom-upgrade.inc	
-D	filters/spam_filter_custom/spam_filter_custom.info	
-D	filters/spam_filter_custom/tests/spam_filter_custom.test	
-D	filters/spam_filter_duplicate/spam_filter_duplicate.info	
-D	filters/spam_filter_node_age/spam_filter_node_age.info	
-D	filters/spam_filter_node_age/spam_filter_node_age.install	
-D	filters/spam_filter_node_age/spam_filter_node_age.module	
-D	filters/spam_filter_surbl/spam_filter_surbl.info	
-D	filters/spam_filter_url/spam_filter_url.info	
-D	filters/spam_filter_url/spam_filter_url.install	
-D	filters/spam_filter_url/spam_filter_url.module	
 A	filters/surbl/surbl.info	ce1754f214c75186c3dfcd7e9187b96b
+A	filters/surbl/surbl.module	2ac563dc488393de9c4ea5e9262e7b1c
 A	filters/url/url.info	ba4976b061fadeeb338365298e6bc408
 A	filters/url/url.module	97c68dd7fa5075e29ea46d15628f06c8
+A	modules/spam_comment.inc	f72db8f70119c78f13e78aae40894945
 A	modules/spam_node.inc	b32e804112ace6e8a0c57f46a1ebdb44
-M	spam.info	81f704864c585fe79f6ca92c2914bd60
-M	spam.install	0c8a809655161f2480f43c34f5ff7a3e
-M	spam.module	bad1cd24ebc531455908104a5260c9aa
-D	tests/spam.test	
+A	modules/spam_user.inc	ce5a3c671cb59b3e6316a3064bf77839
+A	spam.info	81f704864c585fe79f6ca92c2914bd60
+A	spam.install	0c8a809655161f2480f43c34f5ff7a3e
+A	spam.module	bad1cd24ebc531455908104a5260c9aa

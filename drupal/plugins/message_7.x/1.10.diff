@@ -1,4 +1,6 @@
 A	.travis.yml	2fa6a6a312bec8bacd372c85f31f39e4
+A	README.md	8c7edf5f3c184ec861fc7d14bf47a331
+D	README.txt	
 M	includes/message.admin.inc	1775a7bf3412788546dd3f8754abe2a8
 M	message.api.php	d1f9d0751fa38a05b7ca29958fbc9cfe
 M	message.info	d3c35a7989b67cb8f64114b41a5043bb

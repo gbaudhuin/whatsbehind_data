@@ -1,4 +1,12 @@
-M	simple_adsense.info.yml	aa7f152b525ed5761d26a47ff5162369
-M	simple_adsense.module	1212dc46861567ce654f4be061d2fdc1
-M	src/Form/SimpleAdSenseForm.php	bec66afa2b69762e6089438bf66906dc
-M	src/Plugin/Block/SimpleAdSenseBlock.php	60c783a4813b865a67b99b74c8f521ba
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	2cce2be35a52ba520a428506478f5c7b
+A	composer.json	a14b543dc9a84243db44378571ec1f52
+A	install/simple_adsense.settings.yml	ebdbd2ae0737c9b694b176dc95942d71
+A	schema/simple_adsense.schema.yml	185917dcd862cf96e9beebbe572e65b4
+A	simple_adsense.info.yml	aa7f152b525ed5761d26a47ff5162369
+A	simple_adsense.links.menu.yml	0f1ede9eda132fdd7e6fb61d6e0d0149
+A	simple_adsense.module	1212dc46861567ce654f4be061d2fdc1
+A	simple_adsense.routing.yml	8745be5c004237fdd9588cb23184ff31
+A	src/Form/SimpleAdSenseForm.php	bec66afa2b69762e6089438bf66906dc
+A	src/Plugin/Block/SimpleAdSenseBlock.php	60c783a4813b865a67b99b74c8f521ba
+A	templates/simple-adsense.html.twig	ad04399988dbcb1dcdafe891ce88aa4b

@@ -1,14 +1,2 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-M	README.txt	7a3e602918dbe019f20af0141b632159
-A	ckeditor_link.admin.inc	20216f3bd8db5fa5b8e5d69a00ee3a09
-A	ckeditor_link.api.php	2fea59197335570339db0f9aa1f414ea
-M	ckeditor_link.css	1cf2a607974e3dd83ec13fd353067870
 M	ckeditor_link.info	eee09cc6aea147999ab7a22f49f8897c
-M	ckeditor_link.install	9cd176a44b3d5544acfabf37cc1958f5
 M	ckeditor_link.module	b56f0034d0d98025d9a3048a5f4cd597
-A	includes/ckeditor_link.i18nmenu.inc	5f28eef8a73cac5c55b12cc2dadcff86
-A	includes/ckeditor_link.i18ntaxonomy.inc	32da90c1e9bdc01a41c64d6a7d96a441
-A	includes/ckeditor_link.menu.inc	ef5367faff5cf7b59c6a6f688b67bb15
-A	includes/ckeditor_link.node.inc	fbd7288665ef0861eb5895f1be39b7c2
-A	includes/ckeditor_link.taxonomy.inc	ea7dfabb381d6e08fcbdba92f24bc81e
-M	plugins/link/plugin.js	0f1c4b8ab907621643a5d8e5718a619f

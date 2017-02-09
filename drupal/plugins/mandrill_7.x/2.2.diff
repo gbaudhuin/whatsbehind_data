@@ -6,4 +6,6 @@ M	modules/mandrill_activity/mandrill_activity.info	9fb78980c3686a5bce14ef1313e47
 M	modules/mandrill_reports/mandrill_reports.info	77045f5df37881446d07a4368391b816
 M	modules/mandrill_template/mandrill_template.info	dfe6070fac1be7b2f7098beb8a83f4a8
 M	modules/mandrill_test/mandrill_test.info	d2b56f8276f359cbfd6da4272a438837
+D	modules/mandrill_test/tests/mandrill_hooks.test	
 M	tests/mandrill.test	8847d4a0ffde19e01a740be808df73ac
+A	tests/mandrill_hooks.test	ca5d1d35350aa23f70e64d63bd487d95

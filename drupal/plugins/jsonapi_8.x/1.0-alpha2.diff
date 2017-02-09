@@ -1,0 +1,49 @@
+M	config/install/jsonapi.resource_info.yml	35a2d0dfa5baed02e36ca7b5c657f3e0
+M	config/schema/jsonapi.schema.yml	84f5476a70f24a600b4b42853cbd2c2b
+M	jsonapi.info.yml	d0e9c195705187960d09d273b483d822
+M	jsonapi.services.yml	6361cbc80f40c5dc953abcb8b46b047d
+D	jsonapi_docson/README.md	
+D	jsonapi_docson/jsonapi_docson.info.yml	
+D	jsonapi_docson/jsonapi_docson.libraries.yml	
+D	jsonapi_docson/jsonapi_docson.links.menu.yml	
+D	jsonapi_docson/jsonapi_docson.permissions.yml	
+D	jsonapi_docson/jsonapi_docson.routing.yml	
+D	jsonapi_docson/src/Controller/DocsonController.php	
+M	src/Annotation/JsonApiResource.php	4019aec38b133a8db3d66c0125a18e9f
+M	src/Configuration/ResourceConfig.php	2afd7453c217266b977bc0a20f838c19
+M	src/Configuration/ResourceConfigInterface.php	99b52a64905afd97d7b6510bead7ca99
+M	src/Configuration/ResourceManager.php	8b165abdbcc859be461ec4129997b724
+M	src/Configuration/ResourceManagerInterface.php	740033acc2f591037dd070aa47f2e53e
+M	src/Context/FieldResolver.php	6cd2d5fed6c0deb562cf19ac52144c70
+D	src/Controller/SchemaController.php	
+M	src/Encoder/JsonEncoder.php	cc173556a3f5bdec21748468d4a8363f
+M	src/EventSubscriber/DefaultExceptionSubscriber.php	900781152bd566b6bf4b8b4ab8f9ef0d
+M	src/LinkManager/LinkManager.php	f14250e24c32281bcf79cf466251fd8e
+M	src/Normalizer/ContentEntityNormalizer.php	149f02c7c68a8dc24705baae796f2529
+M	src/Normalizer/FieldItemNormalizer.php	d6f11d92ed1975490e0d7efb4d38caf9
+M	src/Normalizer/FieldNormalizer.php	68e4f912ea9fa59528b17a50b93c3776
+M	src/Normalizer/NormalizerBase.php	d111f6ab51d34687424b0f4be057614a
+M	src/Normalizer/RelationshipItemNormalizer.php	bc4e0edc86b135d6e1a93178f59e909d
+M	src/Normalizer/RelationshipNormalizer.php	a9fce5245a69d047c496102c4c7d23a9
+M	src/Plugin/Deriver/ResourceDeriver.php	abc60b12f9d2862d595462359f013eb4
+M	src/Plugin/jsonapi/BundleJsonApiResource.php	9f969f7bbe076961767832846c266638
+M	src/Query/QueryBuilder.php	2319ee6b99f8afa4d0d2e671534b3951
+M	src/RelationshipInterface.php	2056785df9647f9d38e91dd6c810e986
+M	src/RelationshipItem.php	a97f1ad5c12f98102d60721f35b33c82
+M	src/RelationshipItemInterface.php	c430494937457574f742bf20a8dbd64a
+M	src/RequestHandler.php	e1d1157703e7ef7c31df3fedb6cfa2ae
+M	src/Resource/EntityResource.php	fd7aac6acfd2de769f6e4887c202be3e
+M	src/Resource/EntityResourceInterface.php	21264107b858f54efc7880fb443eb018
+A	src/ResourceResponse.php	285c39e2c524ce53128e45d91cf1b451
+A	src/ResourceResponseInterface.php	16b9e0c17f92aa0f388c81d46c295fc0
+M	src/Routing/Routes.php	7168ffb41c2022a003acffa8692b9854
+A	tests/modules/jsonapi_test/jsonapi_test.info.yml	c9b54f75e24599ae9bf0a7577ada4220
+A	tests/modules/jsonapi_test/jsonapi_test.module	ab8b65c4b9ac35620adfbd2aff521e66
+A	tests/src/Functional/JsonApiFunctionalTest.php	deb7685a66bb18dda4af40dc6da980d6
+M	tests/src/Kernel/Configuration/ResourceManagerTest.php	cb123c7aff74d40f72bbf7c3ddbde4f2
+M	tests/src/Kernel/Normalizer/DocumentRootNormalizerTest.php	0b6a644862eff4a0fc7fcc535e22c69b
+M	tests/src/Kernel/Resource/EntityResourceTest.php	c33bb3709028a4e22c92b85ae4a95c1b
+D	tests/src/Kernel/Schema/EntityResourceSchemaTest.php	
+M	tests/src/Unit/Configuration/ResourceConfigTest.php	41f0167064b399e8ac51005274341c5b
+M	tests/src/Unit/Plugin/Deriver/ResourceDeriverTest.php	2099a7e51f8b92f5a1353a2b282a598b
+M	tests/src/Unit/Routing/RoutesTest.php	9ab2c630a0ffe56f1d8e111ff192b5cc

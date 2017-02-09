@@ -1,6 +1,5 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-D	editablefields.css	
-M	editablefields.info	016e67f0e158f34501aaa358aec6e7b5
-M	editablefields.js	4d519016f5f03270ed6a29ba8fb83bcf
-M	editablefields.module	0a3ce89ac3cc3f960ec3bef4e6035eab
-D	throbber.gif	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	8cdd6aa93110034c451d0c3ff13b6f8b
+A	editablefields.info	016e67f0e158f34501aaa358aec6e7b5
+A	editablefields.js	4d519016f5f03270ed6a29ba8fb83bcf
+A	editablefields.module	0a3ce89ac3cc3f960ec3bef4e6035eab

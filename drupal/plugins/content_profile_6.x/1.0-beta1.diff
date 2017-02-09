@@ -1,20 +1,9 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	5a6beeb9567f4eea9df6b1529551386c
-M	content_profile-display-view.tpl.php	9c86032134d329ce243c6d7dc23c1989
-M	content_profile.info	71df4c8fbb419cb49321a805c38e78cf
-M	content_profile.install	df664b6b6fb0b15d94dd14d9db1189b9
-M	content_profile.module	d5730a32798177f2c4b037c6b5df5f5c
-D	content_profile.pageroute.inc	
-D	content_profile.rules.inc	
-D	content_profile.rules_defaults.inc	
-M	content_profile.theme.inc	962c6a24c70d1c3d32a441b4f001c997
-D	content_profile.theme_vars.inc	
-D	modules/content_profile_registration.info	
-D	modules/content_profile_registration.install	
-D	modules/content_profile_registration.module	
-D	modules/content_profile_tokens.info	
-D	modules/content_profile_tokens.module	
-D	panels/relationships/node_from_user.inc	
-M	tests/content_profile.test	4879a862ceb035ed7f050f133b9c05d0
-D	views/content_profile.views.inc	
-D	views/content_profile_views_handler_relationship.inc	
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	5a6beeb9567f4eea9df6b1529551386c
+A	content_profile-display-view.tpl.php	9c86032134d329ce243c6d7dc23c1989
+A	content_profile.css	a2dfb159d2ca47e471e948431a471696
+A	content_profile.info	71df4c8fbb419cb49321a805c38e78cf
+A	content_profile.install	df664b6b6fb0b15d94dd14d9db1189b9
+A	content_profile.module	d5730a32798177f2c4b037c6b5df5f5c
+A	content_profile.theme.inc	962c6a24c70d1c3d32a441b4f001c997
+A	tests/content_profile.test	4879a862ceb035ed7f050f133b9c05d0

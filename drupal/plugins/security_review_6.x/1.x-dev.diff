@@ -1,11 +1,2 @@
-A	API.txt	e0be092daa5c9eed8512de4c5a939db6
-A	IGNOREME.txt	7a2aa268cddd49811ac768a03de8726b
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	2fa8f1c9f6900df022b6443002961e9a
-A	security_review.drush.inc	56c0aa4645d65b062f4303e61d94ce32
-A	security_review.help.inc	0c74292a3513aa0b2605acf3fbcf7b6d
-A	security_review.inc	110df0ba61527e388d53a28e487ffcd7
-A	security_review.info	31becd0ae2cc7edbcbfcbe3b1c2af790
-A	security_review.install	3a1522570dc5ecb0d4569bcdb0561e75
-A	security_review.js	6b203dc8e78032ba4278d735f536c04e
-A	security_review.module	5003c850f4c20718c788e58db4789ade
+M	security_review.drush.inc	56c0aa4645d65b062f4303e61d94ce32
+M	security_review.info	31becd0ae2cc7edbcbfcbe3b1c2af790

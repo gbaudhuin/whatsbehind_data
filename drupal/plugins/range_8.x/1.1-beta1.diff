@@ -1,13 +1,25 @@
 M	config/schema/range.schema.yml	c3b41214b674990658bdc836f6635d8d
 D	css/range.admin.css	
 A	css/range.field-widget.css	57163e4bf483b5bd36ad1f6db81ccc93
+D	lib/Drupal/range/Plugin/Field/FieldFormatter/DefaultRangeFormatter.php	
+D	lib/Drupal/range/Plugin/Field/FieldFormatter/RangeDecimalFormatter.php	
+D	lib/Drupal/range/Plugin/Field/FieldFormatter/RangeIntegerFormatter.php	
+D	lib/Drupal/range/Plugin/Field/FieldFormatter/RangeUnformattedFormatter.php	
 D	lib/Drupal/range/Plugin/Field/FieldType/RangeDecimalItem.php	
 D	lib/Drupal/range/Plugin/Field/FieldType/RangeFloatItem.php	
 D	lib/Drupal/range/Plugin/Field/FieldType/RangeIntegerItem.php	
 D	lib/Drupal/range/Plugin/Field/FieldType/RangeItemBase.php	
+D	lib/Drupal/range/Plugin/Field/FieldWidget/RangeWidget.php	
+D	lib/Drupal/range/Plugin/views/filter/RangeWithin.php	
 M	range.info.yml	f177f46c8d70fb8cbc22e9fe69ac929e
 A	range.libraries.yml	2b563af86254708d6bf96e9da91bd3c2
+A	src/Plugin/Field/FieldFormatter/DefaultRangeFormatter.php	4de1f664aecfcbd45cbc25635cfe28d9
+A	src/Plugin/Field/FieldFormatter/RangeDecimalFormatter.php	f9868f012b714cdbec99f6fc665d42c5
+A	src/Plugin/Field/FieldFormatter/RangeIntegerFormatter.php	1e36402c5a86bec87ab74b1bab2b62fa
+A	src/Plugin/Field/FieldFormatter/RangeUnformattedFormatter.php	6c638a228a3b9ac67d719f9c6f807495
 A	src/Plugin/Field/FieldType/RangeDecimalItem.php	f1e6186a0a2aab621c26e4b4ea421e5a
 A	src/Plugin/Field/FieldType/RangeFloatItem.php	829deb503d5970eec67a6a64aae644ba
 A	src/Plugin/Field/FieldType/RangeIntegerItem.php	d19a53fe46e21c3935061515ea16ac01
 A	src/Plugin/Field/FieldType/RangeItemBase.php	7ce00471e869081ea16bfb0efd52e553
+A	src/Plugin/Field/FieldWidget/RangeWidget.php	bd9d18e4442f08a18eac98c697261266
+A	src/Plugin/views/filter/RangeWithin.php	ff12c7c58c4edd171776c7a6f3e3fa2d

@@ -1,9 +1,7 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	70a63d0c0d189b557231076b377983b2
-D	views-attach-node-content-view.tpl.php	
-M	views_attach.info	2a553592889865993a4ae551ca69127b
-M	views_attach.module	e5230ffde9617497f0d1c7d89f1cd9f0
-D	views_attach.theme.inc	
-M	views_attach.views.inc	df4f219304dffde6b760d09e482892dd
-M	views_attach_plugin_display_node_content.inc	205e71afab2b211a73dc243aaace1e3f
-M	views_attach_plugin_display_profile.inc	e82a969466df4f4c366abe7de9895b95
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	70a63d0c0d189b557231076b377983b2
+A	views_attach.info	2a553592889865993a4ae551ca69127b
+A	views_attach.module	e5230ffde9617497f0d1c7d89f1cd9f0
+A	views_attach.views.inc	df4f219304dffde6b760d09e482892dd
+A	views_attach_plugin_display_node_content.inc	205e71afab2b211a73dc243aaace1e3f
+A	views_attach_plugin_display_profile.inc	e82a969466df4f4c366abe7de9895b95

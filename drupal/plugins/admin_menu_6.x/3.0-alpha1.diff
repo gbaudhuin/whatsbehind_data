@@ -1,25 +1,17 @@
 M	CHANGELOG.txt	f8360db3179ef0ccfd8fa79d210b9b7b
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 M	README.txt	8265de66f49781b69aab9f5794b22e27
-D	admin_devel/admin_devel.info	
-D	admin_devel/admin_devel.js	
-D	admin_devel/admin_devel.module	
 M	admin_menu-rtl.css	72cd8c8f51b5c63d6c7f020f783f2174
-D	admin_menu.api.php	
-M	admin_menu.color.css	412042f14bf84317927b6dee31762038
+A	admin_menu.color.css	412042f14bf84317927b6dee31762038
 M	admin_menu.css	43a269a9be57ef9cfb3b9e9806bef12b
+D	admin_menu.drush.inc	
 M	admin_menu.inc	26272d388288cfec244f1ddae0c88b55
 M	admin_menu.info	c5dd4cfaf304570aa13dc67ef47b4d7c
 M	admin_menu.install	9b10ff92447820c9c66433f733213807
 M	admin_menu.js	76d005db22eee9a58aba48783fc962d8
 M	admin_menu.module	5877c549ff05c3fda5c34c5a20658de6
-D	admin_menu.uid1.css	
-D	admin_menu_toolbar/admin_menu_toolbar.css	
-D	admin_menu_toolbar/admin_menu_toolbar.info	
-D	admin_menu_toolbar/admin_menu_toolbar.install	
-D	admin_menu_toolbar/admin_menu_toolbar.js	
-D	admin_menu_toolbar/admin_menu_toolbar.module	
-D	admin_menu_toolbar/toolbar.png	
+A	images/bkg-red.png	c35af5c6678483f04aea8fbed7035e79
+M	images/icon_users.png	854edc7a1a46ea3ddb379d30737e898e
 M	tests/admin_menu.test	6cee9e205c5f19763b3af17628cc551a
 A	translations/admin_menu.pot	12d16b338283a3bf58071bbcf18bda15
 A	translations/da.po	f35050fa01171a355efb207a2ff940d4

@@ -9,9 +9,15 @@ A	juicebox.services.yml	a180b22a6dd9ae0d6bf028157f4bb496
 M	src/Controller/JuiceboxXmlControllerBase.php	b0a1fc0d9ec91d8654e07e2a96981215
 M	src/Controller/JuiceboxXmlControllerField.php	17c9809c6733d4e9835e5a21f67acf30
 M	src/Form/SettingsForm.php	43a243a475580c614fabc466c468b30f
+A	src/JuiceboxFormatter.php	f01036872ee703b93b99d37f371c0521
+A	src/JuiceboxFormatterInterface.php	6d480de2e574c771dca43fb51e02c0b2
 M	src/JuiceboxGallery.php	d8e1b34ba0d55d84b4ca0942f92132a7
 D	src/JuiceboxGalleryDecorator.php	
+D	src/JuiceboxGalleryDrupal.php	
+D	src/JuiceboxGalleryDrupalInterface.php	
 M	src/JuiceboxGalleryInterface.php	c01a417c75672ff2e1534fed129d369c
+A	src/Plugin/Field/FieldFormatter/JuiceboxFieldFormatter.php	c03a72abcb2a977fdf060c75462b0653
+D	src/Plugin/Field/FieldFormatter/JuiceboxFormatter.php	
 M	src/Tests/JuiceboxBaseCase.php	42fcbef4519290e8d1dcb8f554bd0d0c
 A	src/Tests/JuiceboxCacheCase.php	8c69b66de5705c02a3c8a73419d12076
 M	src/Tests/JuiceboxFieldFormatterCase.php	ff045c201589cc07ae43872e9f2d8534

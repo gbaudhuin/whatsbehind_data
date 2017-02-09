@@ -1,8 +1,6 @@
-D	instagram-block-image.tpl.php	
-D	instagram-block.tpl.php	
-M	instagram_block.admin.inc	44b2b9c452e43b38a3a9b73bf901f4ab
-D	instagram_block.api.php	
-M	instagram_block.info	e25a3dbee7dd6f6f3e5c1730c1e116d8
-D	instagram_block.install	
-D	instagram_block.lib.php	
-M	instagram_block.module	79feab7d1f6cd5d0c69442419eefe27c
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	e85b7a2338dc47921ab585301ea056d4
+A	css/instagram-block.css	4e08cfe23e6db52ad730ee5b4839904e
+A	instagram_block.admin.inc	44b2b9c452e43b38a3a9b73bf901f4ab
+A	instagram_block.info	e25a3dbee7dd6f6f3e5c1730c1e116d8
+A	instagram_block.module	79feab7d1f6cd5d0c69442419eefe27c

@@ -23,6 +23,8 @@ M	feeds_ui/feeds_ui.css	d13e1b3cae36ee204871fc445f8f3ff3
 M	feeds_ui/feeds_ui.info	1e8e02d080ce3114403ac6e1045f4c0a
 M	feeds_ui/feeds_ui.js	6e4c917ab54f59a9c657dc6673396f52
 M	feeds_ui/feeds_ui.module	55fe5a279b143fafd7191fe6f2fb96e3
+A	feeds_ui/feeds_ui.test	dad142a3c9df97de665c860acdc04074
+D	feeds_ui/tests/feeds_ui.test	
 M	includes/FeedsConfigurable.inc	1aa295fc8cfe603e8bd5fad742e832ea
 M	includes/FeedsImporter.inc	29ae6fca79c958dcd1ddb2be50e8910b
 M	includes/FeedsSource.inc	396771edf1e3ff92b8a7f845c6a85760
@@ -51,15 +53,19 @@ M	plugins/FeedsSyndicationParser.inc	7abd4eac243c3bdeb35898ef50eacea1
 M	plugins/FeedsTermProcessor.inc	2f7ab5e4be41892b32228fc5234847b6
 M	plugins/FeedsUserProcessor.inc	6a6d57f507ae64d911caef319baa985a
 M	tests/common_syndication_parser.test	ac1027c443c7d71151ab7b4ac814b6f2
+A	tests/feeds.test	e0f3d7344657c72d363326f025f1e747
+D	tests/feeds.test.inc	
 M	tests/feeds/nodes.csv.php	0d776fc309c9adc17b90d6d35278c9ba
 M	tests/feeds/users.csv	48863dc08d8b94738d70af13cfcca80a
 M	tests/feeds_date_time.test	2097808b1e650afa99f2715d8023b049
 M	tests/feeds_fetcher_file.test	d02f3d151996eced333d9c2a088f9ba3
+A	tests/feeds_mapper.test	fccda1b7e43cb7bf9a6dac7264059536
 M	tests/feeds_mapper_date.test	e7a94206e9f87ce56b1b6edfd0f57220
 M	tests/feeds_mapper_field.test	934ca940a0fc6f45ee097a0360fe2f7f
 M	tests/feeds_mapper_file.test	ae55b9dfde99188d0d40e540dcddafe4
 M	tests/feeds_mapper_link.test	3092b91a8c9e5117acd8b7bba3a7e771
 M	tests/feeds_mapper_taxonomy.test	28e5161d1eb7d7bf1be497aff32169f5
+D	tests/feeds_mapper_test.inc	
 M	tests/feeds_parser_sitemap.test	acb8611e8557d78c3ca4b7a04e87d373
 M	tests/feeds_parser_syndication.test	054bbcf2fa06d98cf6ec839a482ce68d
 M	tests/feeds_processor_node.test	7563da59c296a6e6839f06c253546961

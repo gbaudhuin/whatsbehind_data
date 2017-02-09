@@ -1,8 +1,8 @@
 A	CHANGELOG.txt	9fa72137cab0167766ff52e367c2e732
 A	CREDITS.txt	cb9f52caef6f951b9e201150aec30d88
-M	INSTALL.txt	50f078508616de6c6461e972df886bcf
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	69f4b80bf71b87fd8aab5db111757b21
+A	INSTALL.txt	50f078508616de6c6461e972df886bcf
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	69f4b80bf71b87fd8aab5db111757b21
 A	contrib/po/da.po	06023d70a9611f206a09b4032fe01660
 A	flags/ar.png	bb881ef5b3ad6042cb2915126772eb7c
 A	flags/ca.png	2a2e101c27533e2ef93231caff2034da
@@ -31,43 +31,37 @@ A	flags/sv.png	84890dd0178f57e282c0f7737eeba70b
 A	flags/tr.png	ffa6723ae93b1d37caaccf0e39bac69a
 A	flags/uk.png	fde464a943a810f01b0460571ed9116c
 A	flags/vi.png	20dd4dac22d9b9d0b757b0208904c5a4
-M	i18n.admin.inc	f16729ccfe957a26bbccd4db3f790810
-M	i18n.info	45487d28e0f53a0eb6a386367ca37a62
-M	i18n.install	4a93b792607fc69650cef6d6f05bec6c
-D	i18n.js	
-M	i18n.module	ae5899b782d4fdfd82122251ebb5b784
-D	i18n.pages.inc	
-M	i18nblocks/i18nblocks.info	9be407b294bcf9bec6de2328845e6219
-M	i18nblocks/i18nblocks.install	622378c8651856e00cd3e74f40017c78
-M	i18nblocks/i18nblocks.module	69c67559618a1b675cad7fc1eb068999
-D	i18ncck/i18ncck.info	
-D	i18ncck/i18ncck.install	
-D	i18ncck/i18ncck.module	
-M	i18ncontent/i18ncontent.info	1352c8afaa14db8685252b7d3a35e003
-M	i18ncontent/i18ncontent.install	f957a5018a6a89f41dbe9ab04f4d342a
-M	i18ncontent/i18ncontent.module	66912dba12f14b1a05c7074d1cc25af3
-M	i18nmenu/i18nmenu.info	4beefe9e9320472491b477839fcc43ca
-M	i18nmenu/i18nmenu.install	88daa13d3904ebcbbf5157ab8dec2530
-M	i18nmenu/i18nmenu.module	5f4452f6ca5db58e9d81b6dec25c046e
-M	i18npoll/i18npoll.info	80e00a0b6ce35781b3f0b334ebbdaadc
-M	i18npoll/i18npoll.module	9d9c43446013c4a90cc3f0b999f6c547
-M	i18nprofile/i18nprofile.info	bbbc637398548be92bf8f8562e00d845
-M	i18nprofile/i18nprofile.install	751b482620e71a1a1302956f7cb64572
-M	i18nprofile/i18nprofile.module	cd2182666fbd1961f69d82fde22cb7ca
-M	i18nstrings/i18nstrings.admin.inc	c8a720625a3c2729197e727ac549725c
-M	i18nstrings/i18nstrings.info	544682a1df02b12aec41be7560fbc11a
-M	i18nstrings/i18nstrings.install	44e6dc21fa521bbf1ccbd0a40186c458
-M	i18nstrings/i18nstrings.module	c986299ccb11cd7a54d313a8f36ad3ca
-M	i18nsync/README.txt	a2cf8c8abb131567f4c8f64736f4cc77
-M	i18nsync/i18nsync.info	5e55a4009cb8c528ec4c8021c94393be
-M	i18nsync/i18nsync.install	91601386b3206ee213b4af0f19325b59
-M	i18nsync/i18nsync.module	5f9802acc3afb22f7e17282f99ceb738
-M	i18ntaxonomy/i18ntaxonomy.admin.inc	caccae9b453126756687763f0e034d54
-M	i18ntaxonomy/i18ntaxonomy.info	bc306e319194c887c06ce6ae3fef9064
-M	i18ntaxonomy/i18ntaxonomy.install	b0e1e97789962017badfbffc8a29cf69
-D	i18ntaxonomy/i18ntaxonomy.js	
-M	i18ntaxonomy/i18ntaxonomy.module	d74fb405ca2f2489ad61a857862cd1f6
-M	i18ntaxonomy/i18ntaxonomy.pages.inc	dcad92d507832b6241566d26bd09f99d
+A	i18n.admin.inc	f16729ccfe957a26bbccd4db3f790810
+A	i18n.info	45487d28e0f53a0eb6a386367ca37a62
+A	i18n.install	4a93b792607fc69650cef6d6f05bec6c
+A	i18n.module	ae5899b782d4fdfd82122251ebb5b784
+A	i18nblocks/i18nblocks.info	9be407b294bcf9bec6de2328845e6219
+A	i18nblocks/i18nblocks.install	622378c8651856e00cd3e74f40017c78
+A	i18nblocks/i18nblocks.module	69c67559618a1b675cad7fc1eb068999
+A	i18ncontent/i18ncontent.info	1352c8afaa14db8685252b7d3a35e003
+A	i18ncontent/i18ncontent.install	f957a5018a6a89f41dbe9ab04f4d342a
+A	i18ncontent/i18ncontent.module	66912dba12f14b1a05c7074d1cc25af3
+A	i18nmenu/i18nmenu.info	4beefe9e9320472491b477839fcc43ca
+A	i18nmenu/i18nmenu.install	88daa13d3904ebcbbf5157ab8dec2530
+A	i18nmenu/i18nmenu.module	5f4452f6ca5db58e9d81b6dec25c046e
+A	i18npoll/i18npoll.info	80e00a0b6ce35781b3f0b334ebbdaadc
+A	i18npoll/i18npoll.module	9d9c43446013c4a90cc3f0b999f6c547
+A	i18nprofile/i18nprofile.info	bbbc637398548be92bf8f8562e00d845
+A	i18nprofile/i18nprofile.install	751b482620e71a1a1302956f7cb64572
+A	i18nprofile/i18nprofile.module	cd2182666fbd1961f69d82fde22cb7ca
+A	i18nstrings/i18nstrings.admin.inc	c8a720625a3c2729197e727ac549725c
+A	i18nstrings/i18nstrings.info	544682a1df02b12aec41be7560fbc11a
+A	i18nstrings/i18nstrings.install	44e6dc21fa521bbf1ccbd0a40186c458
+A	i18nstrings/i18nstrings.module	c986299ccb11cd7a54d313a8f36ad3ca
+A	i18nsync/README.txt	a2cf8c8abb131567f4c8f64736f4cc77
+A	i18nsync/i18nsync.info	5e55a4009cb8c528ec4c8021c94393be
+A	i18nsync/i18nsync.install	91601386b3206ee213b4af0f19325b59
+A	i18nsync/i18nsync.module	5f9802acc3afb22f7e17282f99ceb738
+A	i18ntaxonomy/i18ntaxonomy.admin.inc	caccae9b453126756687763f0e034d54
+A	i18ntaxonomy/i18ntaxonomy.info	bc306e319194c887c06ce6ae3fef9064
+A	i18ntaxonomy/i18ntaxonomy.install	b0e1e97789962017badfbffc8a29cf69
+A	i18ntaxonomy/i18ntaxonomy.module	d74fb405ca2f2489ad61a857862cd1f6
+A	i18ntaxonomy/i18ntaxonomy.pages.inc	dcad92d507832b6241566d26bd09f99d
 A	languageicons/languageicons.info	de90f9d79d3a8871cf216c6f3b12ae92
 A	languageicons/languageicons.module	a84162776acbd93b02239f9300cbe2b8
 A	po/ca.po	9c45262abf3a88d0dad3f43ea1a74411
@@ -79,10 +73,3 @@ A	po/gl.po	e415a4eb1264c5fbb990863424e555d9
 A	po/i18n-module.pot	1defd07d46e364642f17dd6dd0a8ceea
 A	po/i18n.pot	71d398bb243dc40698b107943b35ebdc
 A	po/it.po	f9423ed6e3d00554de83da94bb4cc185
-D	tests/drupal_i18n_test_case.php	
-D	tests/i18n_api.test	
-D	tests/i18n_blocks.test	
-D	tests/i18n_strings.test	
-D	tests/i18n_taxonomy.test	
-D	tests/i18n_test.info	
-D	tests/i18n_test.module	

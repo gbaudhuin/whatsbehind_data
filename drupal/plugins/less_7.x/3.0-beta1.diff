@@ -1,25 +1,2 @@
-D	.gitignore	
-D	README.md	
-M	README.txt	7ea8f1186d95b5e8342eec2115d34f1b
-D	class.lessjs.inc	
-M	composer.json	24ba477ab12d42fa452a90bdb50a6972
-D	engines/less.less_js.inc	
-D	engines/less.less_php.inc	
-D	engines/less.lessphp.inc	
-M	less.admin.inc	a20d43abf18b8b2a015f054ea8ea12c4
-D	less.api.php	
-D	less.cron.inc	
-M	less.drush.inc	d3ef7c8898bca14cab4a60ef12cc9c11
 M	less.info	589f97e18b953e74a0115537fbc0a4e9
-M	less.install	9592452fb85b0a7bcce7afde01e0c460
-D	less.libraries.inc	
-M	less.module	d2b8cab9952ed91ad0e0deab16c44c33
-D	less.process.inc	
-M	less.theme.inc	643b402ded088e70f7484cdb904a9eec
-D	less.watch.inc	
-M	less.watch.js	66d3a5d5ea4c7ebcb1d1a4eee89eee3b
-M	less.wysiwyg.inc	0d74a7322e410af058185c9f8ca3d03b
-M	less_demo/imports/less_demo.clearfix.css.less	5c328187507862de583ce9cd43233fd5
 M	less_demo/less_demo.info	a1c766c4b2c31acdc0797990e8ca3e5b
-M	less_demo/less_demo.module	c266170c7bac47d4e2bd7a0bc89c3743
-D	less_demo/styles/less_demo.drupal_add_css.css.less	

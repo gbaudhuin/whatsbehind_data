@@ -1,13 +1,1 @@
-A	CHANGELOG.txt	1cee1d56d9f3bd03262fdc44855cded6
-A	INSTALL.txt	3131744969b2446602b01867f6768e5a
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	a3647439c281926f0a515a94a2657f46
-A	UPGRADE.txt	8539302706417bf68b968a3fbffe2678
-A	forum_access.admin.inc	601a8ddc59a4c8a7ed5720b562c5aa4f
-A	forum_access.css	8d37a4b82b73c9887c6276a9eb7b672e
-A	forum_access.info	dcb5e647f008176799625f2edb0ef48f
-A	forum_access.install	2654bb3b16cdf371976b7719fad55eb3
-A	forum_access.module	72d5d4472cb2d082a3a141b995efbc89
-A	forum_access.node.inc	1a63af1e607560d8ed3a0c31de1c5c7d
-A	tests/forum_access.test	3973bf687938e87ee8fe09388727200e
-A	tests/forum_access_test_base.php	299a0e73992a887b3fcaabd9337d2b70
+M	forum_access.info	dcb5e647f008176799625f2edb0ef48f

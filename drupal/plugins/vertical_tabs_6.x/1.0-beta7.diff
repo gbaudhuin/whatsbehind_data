@@ -1,6 +1,7 @@
 A	core/block.js	c420a8efb528dc121f9ebdd38ba68c6a
 A	core/book.js	0ec55f8b74e18c96044fd5c94b69fe05
 A	core/comment.js	4d9d70232d75f2f06fd84ded0e1449f5
+A	core/content_types.js	06cda63ddd12eacf72b801645c3d2eef
 A	core/menu.js	b33e7c49f33599d9b9ab1ebb07391e00
 A	core/node.js	9099ed8d25d0340ff7e98e38ec32f5bc
 A	core/path.js	eb642317e75ca3e2364895de48987a6e
@@ -14,3 +15,4 @@ D	translations/vertical_tabs.pot
 M	vertical_tabs.info	b7d4903617bfffaaecb518c4e74e3569
 M	vertical_tabs.module	a0d8bd77daa47f15c147d086965c9887
 D	vertical_tabs.node_form.js	
+D	vertical_tabs.node_type_form.js	

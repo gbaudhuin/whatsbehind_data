@@ -1,14 +1,13 @@
 M	CHANGELOG.txt	e1fc3428343a3a90ff7af374c0fad264
 M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 M	README.txt	1656eb1dc69ed32469b92ba7d99b015b
-D	includes/mimemail.inc	
-A	includes/phpmailer.class.inc	893dbf9af92d88532a55c23a7ad39b53
-A	includes/phpmailer.drupal.inc	49827f7b86c1f4aa795988c6eca3b8db
-D	includes/phpmailer.inc	
-A	includes/phpmailer.mimemail.inc	64ce15e825ff29a9712e0c21108c0cd9
+M	includes/phpmailer.class.inc	893dbf9af92d88532a55c23a7ad39b53
+M	includes/phpmailer.drupal.inc	49827f7b86c1f4aa795988c6eca3b8db
+M	includes/phpmailer.mimemail.inc	64ce15e825ff29a9712e0c21108c0cd9
 M	phpmailer.admin.inc	50282a32d1de0e8dce44c4e0814b1daa
 M	phpmailer.info	5a6620f6262a98f8daa731a7d3bce1a3
 M	phpmailer.install	7fa78fe5a82af1bd5b1e27c22f756337
 M	phpmailer.module	a6091ebe2427f5b708aa08fc6ffe5111
 M	phpmailer/COPYHERE.txt	b03565b86bbb19628cd6f4b9b57aae8e
-A	tests/phpmailer.test	e5c1cb91594c50d7ba164bcd51997cd1
+M	tests/phpmailer.test	e5c1cb91594c50d7ba164bcd51997cd1
+D	translations/phpmailer.pot	

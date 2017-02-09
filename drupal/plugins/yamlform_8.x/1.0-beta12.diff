@@ -24,11 +24,18 @@ A	images/rating/star-hover.svg	c201e57cce9cec6a7fdf35cb826e61f2
 A	images/rating/star-normal.svg	3930b3402b35dbb5fa5ee1a7adb68324
 A	images/rating/star-preset.svg	d7fbdf106a5bf3f5f6b5cd4cc6ead53d
 A	images/rating/star-selected.svg	50dacda127c027ba7ba806f778096223
+A	includes/yamlform.help.inc	5dd44bc8def13903c73a9f40b3bcde94
 A	includes/yamlform.libraries.inc	9086737f94598932240f215dfcc467bc
 M	js/yamlform.admin.js	f84fea7e25b335b0058e2906443bb236
 M	js/yamlform.element.composite.js	d058649fe05a66c24f7e728e54fffbdd
+A	js/yamlform.element.counter.js	b826ceac3c06dbbc2a5481df15028cf3
+A	js/yamlform.element.inputmask.js	b87dba2427215a0e243529d1bdc128fd
+A	js/yamlform.element.select2.js	4b53a4bf452eb31fd22ff410f47cb15c
 A	js/yamlform.element.signature.js	1d9f75740e386a8b54a1fb5f2d3ca91c
 A	js/yamlform.element.toggle.js	2a774be2b3df2bf16a0c9c9bf36a6e7b
+D	js/yamlform.jquery.counter.js	
+D	js/yamlform.jquery.inputmask.js	
+D	js/yamlform.jquery.select2.js	
 M	mkdocs.yml	a4932c6d58f66575f392b80378e6d185
 M	modules/yamlform_devel/yamlform_devel.info.yml	12a7e4ef4b9bf7a24a98ff43c7974b2e
 M	modules/yamlform_examples/config/install/yamlform.yamlform.example_elements.yml	b2bd7e9d51030e49747144b7f251a68d
@@ -171,6 +178,7 @@ M	tests/modules/yamlform_test/yamlform_test.info.yml	91dfe37d3c45cab0feb9636183f
 M	tests/modules/yamlform_test_third_party_settings/yamlform_test_third_party_settings.info.yml	dbc677970d7f55c2b2d888646a731b45
 M	tests/modules/yamlform_translation_test/yamlform_translation_test.info.yml	7b78353b5f8b588f66d695fb1f39ec05
 A	yamlform.features.yml	b326b5062b2f0e69046810717534cb09
+D	yamlform.help.inc	
 M	yamlform.info.yml	fc8a972a574ce48174e67c8255e6e6bc
 M	yamlform.install	cff31c91b631065a0a1bdcd3e02e4311
 M	yamlform.libraries.make.yml	08084706f3ae177406c7678d97a154e8

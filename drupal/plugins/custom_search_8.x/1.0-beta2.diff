@@ -1,4 +1,6 @@
 A	composer.json	bec98129801cb85f1f017297d16fe512
+A	config/install/custom_search.settings.yml	b3001831fb88257df5650973f5a533c7
+D	config/install/custom_search.yml	
 D	config/schema/custom_search.schema.yml	
 A	config/schema/custom_search.settings.schema.yml	0526bf4cf36a7730bacf8ce6f1c3667e
 M	custom_search.info.yml	b13c4ca505828ec95e3de265063e1e09

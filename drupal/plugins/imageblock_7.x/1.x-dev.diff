@@ -1,7 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	0aadd8f6cbcfbdae6299fe7289af969a
-A	imageblock-content.tpl.php	02f0cca43237455cdf198f7d38e73a69
-A	imageblock.admin.inc	39e30d2bafe40b0ac2c70d2795b9d44a
-A	imageblock.info	58eee4b1f2e7b985e04bebc53b7e06c8
-A	imageblock.install	76f555f02227181af2401efc761e12af
-A	imageblock.module	2f4ecf4debe34cdce60c9fb3f8e49206
+M	imageblock.info	58eee4b1f2e7b985e04bebc53b7e06c8
+M	imageblock.module	2f4ecf4debe34cdce60c9fb3f8e49206

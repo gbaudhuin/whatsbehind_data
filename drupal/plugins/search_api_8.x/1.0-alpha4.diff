@@ -22,7 +22,21 @@ A	search_api_db/search_api_db_defaults/search_api_db_defaults.info.yml	68caf41d6
 A	search_api_db/search_api_db_defaults/src/Tests/IntegrationTest.php	a74667d8990fc94c3034687f50e10d36
 M	search_api_db/src/Plugin/search_api/backend/Database.php	2145fd0c437ec9b602182b1f776d7d65
 M	search_api_db/src/Tests/BackendTest.php	8b217989980e7c3de9b8e08f88f48da3
+D	search_api_test_backend/config/schema/search_api_test_backend.schema.yml	
 D	search_api_test_backend/search_api_test_backend.info.yml	
+D	search_api_test_backend/search_api_test_backend.module	
+D	search_api_test_backend/src/Plugin/search_api/backend/TestBackend.php	
+D	search_api_test_db/config/install/field.field.entity_test.article.body.yml	
+D	search_api_test_db/config/install/field.field.entity_test.article.keywords.yml	
+D	search_api_test_db/config/install/field.field.entity_test.item.body.yml	
+D	search_api_test_db/config/install/field.field.entity_test.item.keywords.yml	
+D	search_api_test_db/config/install/field.storage.entity_test.body.yml	
+D	search_api_test_db/config/install/field.storage.entity_test.keywords.yml	
+D	search_api_test_db/config/install/search_api.index.database_search_index.yml	
+D	search_api_test_db/config/install/search_api.server.database_search_server.yml	
+D	search_api_test_db/search_api_test_db.info.yml	
+D	search_api_test_views/config/install/views.view.search_api_test_views_fulltext.yml	
+D	search_api_test_views/search_api_test_views.info.yml	
 A	src/Annotation/SearchApiDataType.php	b19b371307498196897bda28b1dae351
 M	src/Backend/BackendPluginBase.php	ad8dc594e3eaf740f5f961452bc4bf9e
 M	src/Backend/BackendSpecificInterface.php	6254c27017d605a6c63c2f7a3527baf3
@@ -36,7 +50,9 @@ M	src/Datasource/DatasourcePluginBase.php	9d59413eb1478312962e3c0fd9a2f409
 M	src/Entity/Index.php	74fe9853a5000855e3f69cf3848c2730
 M	src/Entity/Server.php	b19f4daf306f939f6799b84b78599388
 M	src/Form/IndexFieldsForm.php	9aa9b55f3a422a56c9fd52b138694d7d
+D	src/Form/IndexFiltersForm.php	
 M	src/Form/IndexForm.php	b3ff3d496304adb57eea06dc128a647c
+A	src/Form/IndexProcessorsForm.php	1ffc1e23e0dee83222df7728c9d49ba6
 M	src/Form/ServerForm.php	308f4e99f32b0f938a893dfaa2300a95
 M	src/IndexBatchHelper.php	bb58b776505e8cda2ef0c319b1f5b879
 M	src/IndexInterface.php	5f5ea08054202eb39b1a7161bd7d9e70
@@ -86,9 +102,53 @@ M	src/Tests/Processor/TestItemsTrait.php	1393a71bba91c6d79b9d54738a8036d3
 M	src/Tests/ServerTaskUnitTest.php	72698599ff91df282be13966e405962e
 M	src/Tracker/TrackerPluginManager.php	467651cf21a53362946762950616f2ae
 M	src/Utility.php	c00f982332ef5d45b7a0812f7587bbdd
+A	tests/search_api_test_backend/config/schema/search_api_test_backend.schema.yml	093ac2a040dec9af62984f803970a1e8
 A	tests/search_api_test_backend/search_api_test_backend.info.yml	58778465e025e4e41c3ba4a9315346df
+A	tests/search_api_test_backend/search_api_test_backend.module	be22f172b45f5f4fe4aee5cd2beefb2e
+A	tests/search_api_test_backend/src/Plugin/search_api/backend/TestBackend.php	4b617364c191078b93a4065c852c34b5
 A	tests/search_api_test_backend/src/Plugin/search_api/data_type/AlteringValueTestDataType.php	dbc8007b7dace51fe935bf94cf719761
 A	tests/search_api_test_backend/src/Plugin/search_api/data_type/TestDataType.php	d6e7396f56fed254727b7b52d971d7f1
 A	tests/search_api_test_backend/src/Plugin/search_api/data_type/UnsupportedTestDataType.php	47c0ce004811ce798c387f4e7b2bf231
+A	tests/search_api_test_db/config/install/field.field.entity_test.article.body.yml	82791a0f23ec4da2eb09acf8bf6522d9
+A	tests/search_api_test_db/config/install/field.field.entity_test.article.keywords.yml	cb283d4efc99fe72c52e186ed4ee0544
+A	tests/search_api_test_db/config/install/field.field.entity_test.item.body.yml	9524255b57b5743773ccb829f7fe8198
+A	tests/search_api_test_db/config/install/field.field.entity_test.item.keywords.yml	5da5c29bd26c50641cc66ee9b834dc23
+A	tests/search_api_test_db/config/install/field.storage.entity_test.body.yml	957650c2e4711154be0a7d9d500eff01
+A	tests/search_api_test_db/config/install/field.storage.entity_test.keywords.yml	c6a1f5c77a49dacf2facefb0b915ef63
+A	tests/search_api_test_db/config/install/search_api.index.database_search_index.yml	2975ee33ed7c9fa81883b603d13980be
+A	tests/search_api_test_db/config/install/search_api.server.database_search_server.yml	477de3b89e3a458d50a3e411f2d1d2de
+A	tests/search_api_test_db/search_api_test_db.info.yml	78bc356d90038264ac5698cf0df48e8b
+A	tests/search_api_test_views/config/install/views.view.search_api_test_views_fulltext.yml	c2870cbe6475024a3e0b4666614c5fb0
+A	tests/search_api_test_views/search_api_test_views.info.yml	27e90a043eed2e257422867ef4500407
 D	tests/src/Menu/LocalActionsTest.php	
 D	tests/src/Menu/LocalTasksTest.php	
+D	tests/src/Plugin/Processor/AddURLTest.php	
+D	tests/src/Plugin/Processor/AggregatedFieldTest.php	
+D	tests/src/Plugin/Processor/FieldsProcessorPluginBaseTest.php	
+D	tests/src/Plugin/Processor/HighlightTest.php	
+D	tests/src/Plugin/Processor/HtmlFilterTest.php	
+D	tests/src/Plugin/Processor/IgnoreCaseTest.php	
+D	tests/src/Plugin/Processor/IgnoreCharacterTest.php	
+D	tests/src/Plugin/Processor/LanguageTest.php	
+D	tests/src/Plugin/Processor/NodeStatusTest.php	
+D	tests/src/Plugin/Processor/ProcessorTestTrait.php	
+D	tests/src/Plugin/Processor/RoleFilterTest.php	
+D	tests/src/Plugin/Processor/StopwordsTest.php	
+D	tests/src/Plugin/Processor/TestFieldsProcessorPlugin.php	
+D	tests/src/Plugin/Processor/TokenizerTest.php	
+D	tests/src/Plugin/Processor/TransliterationTest.php	
+A	tests/src/Unit/Plugin/Processor/AddURLTest.php	5b9c3977852e62f45ac38166c4f08170
+A	tests/src/Unit/Plugin/Processor/AggregatedFieldTest.php	e2165cd346e786af02fc3ecd47e5450a
+A	tests/src/Unit/Plugin/Processor/FieldsProcessorPluginBaseTest.php	48074f888f2a2bb4d0f37875cdbd122a
+A	tests/src/Unit/Plugin/Processor/HighlightTest.php	0db3a157073a6a295e6b8ba6e85a2d10
+A	tests/src/Unit/Plugin/Processor/HtmlFilterTest.php	a2e198c6bbcdef1144590927fd1cf502
+A	tests/src/Unit/Plugin/Processor/IgnoreCaseTest.php	d88787437da633a08298682d59a5e9e9
+A	tests/src/Unit/Plugin/Processor/IgnoreCharacterTest.php	27bc5dccf90e68db50fa8c66807caff3
+A	tests/src/Unit/Plugin/Processor/LanguageTest.php	0af8edcf7a469ccb1d052e184dbebc51
+A	tests/src/Unit/Plugin/Processor/NodeStatusTest.php	2b4d63e0b8055d8953ba21065801e1b9
+A	tests/src/Unit/Plugin/Processor/ProcessorTestTrait.php	dffedc9024d6cf7ca97491778b20707f
+A	tests/src/Unit/Plugin/Processor/RoleFilterTest.php	e336d49c80ac78dfcfb1f55aa09480ab
+A	tests/src/Unit/Plugin/Processor/StopwordsTest.php	a8afc26d836b797632ed130e038f71db
+A	tests/src/Unit/Plugin/Processor/TestFieldsProcessorPlugin.php	aa181b7d5866ecabf4e15e36a6d2ae43
+A	tests/src/Unit/Plugin/Processor/TokenizerTest.php	9f1b414194b29095bc4f38dfe54df7e2
+A	tests/src/Unit/Plugin/Processor/TransliterationTest.php	64d8778795385c3e3e37aa8ba323043f

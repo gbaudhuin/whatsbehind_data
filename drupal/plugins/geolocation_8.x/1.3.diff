@@ -1,3 +1,7 @@
+D	css/geolocation-googlegeocoder-widget.css	
+D	css/geolocation-html5-widget.css	
+A	css/geolocation-widget-googlegeocoder.css	f7d9813d0ffccef40fc95db42ee845f6
+A	css/geolocation-widget-html5.css	a5b58c59b6ee89dddd8a8b514e74ca33
 M	geolocation.info.yml	263854cf17ad39a33d1feedb72bce00d
 A	geolocation.libraries.yml	cacd020f1487d49befd4321c191ef952
 M	geolocation.module	ba5bda79ab13c7ab9e82ff5c710eeb71
@@ -5,7 +9,9 @@ A	geolocation.services.yml	e74d3424e73bd4b4385fb4ef0195620b
 A	geolocation.views.inc	55dd521e6dd44013ecab2bbd64f3a1f8
 A	js/geolocation-formatter-googlemap.js	3deda073ea0a7343c3b62f908527111d
 D	js/geolocation-googlegeocoder-widget.js	
+D	js/geolocation-html5-widget.js	
 A	js/geolocation-widget-googlegeocoder.js	38615b2c13d8ade6b0824a6a90f5f794
+A	js/geolocation-widget-html5.js	a2a87f08c816809daae1913b0ca8d484
 A	js/geolocation.js	faa4122689630041780769856af74a13
 A	src/GeoCoreInjectionTrait.php	88f5e6f1f0522e0c3a7bfff1b0cfa917
 A	src/GeolocationCore.php	e4555c97f2d146959f8156aaf060d818

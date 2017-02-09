@@ -1,6 +1,5 @@
-D	.gitignore	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	rel_to_abs.info	7358d254ea8591c33624c1ea8a42300e
-M	rel_to_abs.module	42faf76b2f57c04c961ebf799d86c59d
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	rel_to_abs.info	7358d254ea8591c33624c1ea8a42300e
+A	rel_to_abs.module	42faf76b2f57c04c961ebf799d86c59d
 A	translations/general.pot	cf714d01e1fc20241238dde81e246870
 A	translations/pt-br.po	ad4dd6c1ad80bc636fe2a3897266573c

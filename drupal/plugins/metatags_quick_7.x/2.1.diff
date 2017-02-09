@@ -9,5 +9,7 @@ M	metatags_quick.module	74096378a92376b525c6da715dd8dd5b
 A	metatags_quick_extra.admin.inc	183090138393f5fdef3a45adf1f9c10d
 A	metatags_quick_extra.info	3a7b2632a5a29775b530ba7acfe41efa
 A	metatags_quick_extra.module	9641e036ea755e518e40b851d700658a
+A	metatags_quick_import.admin.inc	015abdfc5f9a13d272f9702b4d0963e3
 A	metatags_quick_import.info	5424e8e47b7751bc3a476eb1f1350e6c
 A	metatags_quick_import.module	c4c08d30d08997418b9d70e962aa0b0d
+D	nodewords_upgrade.inc	

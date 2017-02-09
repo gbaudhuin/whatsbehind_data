@@ -85,12 +85,15 @@ M	shipping/uc_weightquote/uc_weightquote.admin.inc	c158f5a1f799e9b9429e1b48a649d
 M	shipping/uc_weightquote/uc_weightquote.info	367efeaf023f76c9d1dc2c4a43d7ad79
 M	shipping/uc_weightquote/uc_weightquote.install	8d3a251e9245a8e7670af1f012ef3639
 M	shipping/uc_weightquote/uc_weightquote.module	af8b67963727444acfee211d57aac9da
+A	uc_attribute/tests/uc_attribute.test	3aa2682066569151d3e360743a6025b4
 M	uc_attribute/uc_attribute.admin.inc	e749838bfb9f18f0d51e41db3253dcc0
 M	uc_attribute/uc_attribute.css	ff86dca242116879e638ca8b7718ca9f
 M	uc_attribute/uc_attribute.info	31551651cf837e33094d0277d4178239
 M	uc_attribute/uc_attribute.install	3f66417770316bd11f6ec6d8b9336788
 M	uc_attribute/uc_attribute.module	af17544e1caadaad2f6f274ee7fa9aac
 M	uc_attribute/uc_attribute.rules.inc	407895989590d323ee695490532512fd
+D	uc_attribute/uc_attribute.test	
+A	uc_cart/tests/uc_cart.test	8087f1b538a5e681834a3ab71caab220
 M	uc_cart/uc_cart.admin.inc	5fea09aec212567fca37bf8fff947516
 A	uc_cart/uc_cart.admin.js	55d54c82e2c6429f615f4c9948e91644
 M	uc_cart/uc_cart.api.php	8295d6c3edc72c421293c0957a0f0af3
@@ -102,6 +105,7 @@ M	uc_cart/uc_cart.module	1728bf9a27a38f6e5002e335ea56c4f4
 M	uc_cart/uc_cart.pages.inc	5c07a42e54cc2badc6f2fadca10ed25e
 M	uc_cart/uc_cart.rules.inc	347bc1b9301465937fc3dbb7cae117fb
 M	uc_cart/uc_cart.rules_defaults.inc	c19683ad1c0664465f9e8635c0c5ac22
+D	uc_cart/uc_cart.test	
 M	uc_cart/uc_cart_block.css	4c89836b2a486d0f2a5678f0e0643c0b
 M	uc_cart/uc_cart_block.js	9c4a9e637f4fa7f1c4fc306940926099
 M	uc_cart/uc_cart_checkout_pane.inc	70c8d90cbedc73380915b31a65171f37
@@ -119,6 +123,8 @@ M	uc_catalog/uc_catalog.info	162bc9e4f874c9916a68cb6126306996
 M	uc_catalog/uc_catalog.install	932b25c1c91d708a057377fd4ac5d8f1
 M	uc_catalog/uc_catalog.module	48b5757913338f2893a7ad2bc3dba2d6
 M	uc_catalog/uc_catalog.pathauto.inc	3de801aefab1b5f1da4d15c82c5ba9d8
+D	uc_catalog/uc_catalog.views_default.inc	
+A	uc_catalog/views/uc_catalog.views_default.inc	1dff40363dd46437445c09e2669ff8ed
 M	uc_file/uc_file.admin.inc	70b8fc5ce29c0641cd226d0189f1129f
 M	uc_file/uc_file.api.php	2b5538e073d4d86aa6f930abca391f0a
 M	uc_file/uc_file.css	86fd390b6ae869c6a733149b3bfa392b
@@ -135,6 +141,7 @@ M	uc_googleanalytics/uc_googleanalytics.info	44b9a83533ecaf3af1b40e789b6e7dfe
 M	uc_googleanalytics/uc_googleanalytics.module	8aef82d2db40f50a4bcd9f471ff8bdee
 M	uc_order/templates/uc-order--admin.tpl.php	e8d039a6581c0ade0e51158feb40b6b1
 M	uc_order/templates/uc-order--customer.tpl.php	1d646cb94637751699b597141ba5b8f3
+A	uc_order/tests/uc_order.test	47696998e9cd727e9eabae332f78e3e7
 M	uc_order/uc_order.admin.inc	6b1aff7e61ef507948cb364fff4d9635
 M	uc_order/uc_order.api.php	073972b30217739f5b50b8adb628bb0c
 M	uc_order/uc_order.css	51f964f3652dc28927f9f9270e6e2b26
@@ -147,6 +154,7 @@ M	uc_order/uc_order.module	4ba66c61828e1ee97fbeb32cd9e6d3ab
 M	uc_order/uc_order.order_pane.inc	ddaaa684cd13618caae92c7e23fea616
 M	uc_order/uc_order.rules.inc	720108ed730751e926ee8e6f315b5935
 M	uc_order/uc_order.rules_defaults.inc	92f932a70b3bd58c40eecbeee0bf078a
+D	uc_order/uc_order.test	
 M	uc_order/uc_order.tokens.inc	f22aa71c07938c19d9addacbf405892a
 M	uc_order/views/uc_order.views.inc	62283b0660c9d324fd153f9a191dc05d
 M	uc_order/views/uc_order.views_default.inc	b20eb4289d246eb0e6f0c021b8581dc7
@@ -162,6 +170,7 @@ M	uc_order/views/uc_order_handler_filter_order_status.inc	807b104eb43cf20673f089
 M	uc_order/views/uc_order_handler_filter_payment_method.inc	31829b9c11e02bb0c0cd1ddbdeb9a5be
 M	uc_order/views/uc_order_handler_filter_zone.inc	7858c55003e87542e34d2e977721c96d
 M	uc_order/views/uc_order_plugin_row_invoice_view.inc	1b4638359c93503383d9ad801388e3ef
+A	uc_product/tests/uc_product.test	3658d91ae94b7e426ca5870dd62c8d68
 M	uc_product/uc_product.admin.inc	95b5f442a4bb98cbb82cba396c8e51fa
 M	uc_product/uc_product.api.php	1dcd2cfc7513ecda3b5866c8ac37bd92
 M	uc_product/uc_product.css	862fabad65d3f379725d975aac367d0a
@@ -170,6 +179,7 @@ M	uc_product/uc_product.install	fe56d6a12f690163707e220b56a2c662
 A	uc_product/uc_product.js	26826ed44631ae6af16a999a395d895b
 M	uc_product/uc_product.module	14e4cf12193bca6c13c2a72c30588c7b
 M	uc_product/uc_product.pages.inc	218a65e19e1e7c3859df91a48633c25b
+D	uc_product/uc_product.test	
 M	uc_product/uc_product.tokens.inc	8f428b0c2a194bd3b0ade2e60009eb7d
 M	uc_product/views/uc_product.views.inc	999bd1b1c88849cd3e8e665f2760c650
 M	uc_product/views/uc_product.views_default.inc	95e1ecbf6d7b2a12c66b98175011f1c6
@@ -240,6 +250,8 @@ M	uc_store/countries/bermuda_60_1.cif	403bdc6b8ca85ad1404b5cd5d5b064a9
 A	uc_store/countries/bhutan_64_1.cif	d43e9d74675627cd493523d531ac8213
 A	uc_store/countries/bolivia_68_1.cif	8046d0841ee1356df7c3ed8a8bd7a980
 A	uc_store/countries/bonaire_535_1.cif	b023fd552489ba1e271d4de390f55a0d
+A	uc_store/countries/bosnia_herzegovina_70_2.cif	2598fb760dc4b057ad6146abb339b67e
+D	uc_store/countries/bosniaherzegovina_70_1.cif	
 M	uc_store/countries/botswana_72_1.cif	fecfc181ee15e56bb7b1375788000c47
 A	uc_store/countries/bouvet_island_74_1.cif	e6b0178fd3d4c242e01cf3a46173bc6f
 M	uc_store/countries/brazil_76_1.cif	a52c06d9c467054f858f216cacf83da3
@@ -250,6 +262,8 @@ A	uc_store/countries/burkina_faso_854_1.cif	6fbf5ff14487d75fbde114db13930207
 A	uc_store/countries/burundi_108_1.cif	369b6109d021659ce20bc501a1f83e53
 M	uc_store/countries/cambodia_116_1.cif	329badc88bb5634e1ad40de4ce4821fb
 A	uc_store/countries/cameroon_120_1.cif	c9b46604f12b3714d8e0f9c1ff1befed
+D	uc_store/countries/canada_124_1.cif	
+A	uc_store/countries/canada_124_2.cif	e53f1575af78bd0a463f941e3a3bc038
 A	uc_store/countries/cape_verde_132_1.cif	5bea15413fe4fda5329eb1c8ed46639c
 A	uc_store/countries/cayman_islands_136_1.cif	df65c674bb518071aea3b319b9f0da15
 A	uc_store/countries/central_african_republic_140_1.cif	1f0a053a1732d7b40897ef36338d061f
@@ -390,7 +404,11 @@ M	uc_store/countries/poland_616_1.cif	2c04f92497e7726fe9ddc1afedaa160c
 M	uc_store/countries/portugal_620_1.cif	8ab694bcbe5f0ba7d4e3a0cac626e4cd
 M	uc_store/countries/puerto_rico_630_1.cif	eac212404d4f0ec956af65855ccf9784
 A	uc_store/countries/qatar_634_1.cif	b915379355ec3838d91ac7b22e49f011
+D	uc_store/countries/reunion_638_1.cif	
+A	uc_store/countries/reunion_638_2.cif	9af427d1a7f54e15f653942fbe700a30
 M	uc_store/countries/romania_642_1.cif	6772f820315b425682c1c12a371571b0
+D	uc_store/countries/russia_643_1.cif	
+A	uc_store/countries/russia_643_2.cif	aaea1f5eb3622d40076e49386be7a5da
 A	uc_store/countries/rwanda_646_1.cif	78a0c786f7bdffff91f33a396317f303
 A	uc_store/countries/saint_barthelemy_652_1.cif	1bee383c6c8aaf24023bf26105f34c6e
 A	uc_store/countries/saint_helena_654_1.cif	9227c4bd30e4bbd2d3439afea3b1d89d
@@ -447,6 +465,8 @@ A	uc_store/countries/united_states_minor_outlying_islands_581_1.cif	1eb0e6c63b72
 M	uc_store/countries/uruguay_858_1.cif	068754b3d3f28780992ab4962835813a
 A	uc_store/countries/uzbekistan_860_1.cif	7d430a893036a2ece5724e8371c0cef4
 A	uc_store/countries/vanuatu_548_1.cif	ebfa46617980511be052bddfe0381d46
+D	uc_store/countries/venezuela_862_1.cif	
+A	uc_store/countries/venezuela_862_2.cif	de0a8b4a6574e1c77232da5f40d0e90f
 M	uc_store/countries/vietnam_704_1.cif	4bbdcd3b3d200730b5c6eb6601750ac4
 M	uc_store/countries/virgin_islands_british_92_1.cif	51ea6501e609203be7683964fffcccaa
 M	uc_store/countries/virgin_islands_us_850_1.cif	26b5f62c1fc2d180eadc12f1e850332e
@@ -460,6 +480,7 @@ M	uc_store/includes/coder_review_uc3x.inc	6588bebba46649cb8fc26f682cb77385
 M	uc_store/includes/summaries.inc	f5f2255172c499df8ad2f589f137f667
 M	uc_store/includes/summaries.js	3dbb7855eb5a26b3cebf48301c42fbe8
 M	uc_store/includes/tapir.inc	ba3e327f27da3400991690d87afd2d8d
+A	uc_store/tests/uc_store.test	fdb75a2a038ad824445eb2f0237fc518
 M	uc_store/uc_country_select.js	be5b3af459f2ebccaad8d72f5c70a19f
 M	uc_store/uc_store.admin.inc	c2018c2ff568a4fa5ff1476e892f302a
 M	uc_store/uc_store.api.php	2dd5f79379397f78b02dd3f97a1b1bad
@@ -468,6 +489,7 @@ M	uc_store/uc_store.info	6c5beefb0d9cfff1821b675847269db0
 M	uc_store/uc_store.install	8e141ab87867c3c0b063bdd5bdf2649a
 M	uc_store/uc_store.js	f66d9ab944fcfbb9f909ac0dec25b6ea
 M	uc_store/uc_store.module	0f3d5d194acbdd1b13c5c571e732e4dc
+D	uc_store/uc_store.test	
 M	uc_store/uc_store.tokens.inc	776222340728bb9f69be706440b6431a
 M	uc_tax_report/uc_tax_report.info	ae5c2ea89b691c2856a178eee256c3f3
 M	uc_tax_report/uc_tax_report.module	eaf59b7998c98d350b8e0246503b42f4

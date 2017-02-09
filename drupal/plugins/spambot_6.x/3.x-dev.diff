@@ -1,6 +1,3 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	spambot.admin.inc	2233b2cf109dd45b3434287f25ea1364
 M	spambot.info	20568448a191025de3dda4a071ed67e0
-A	spambot.install	4c9d5e9626253329245454439a6177d4
 M	spambot.module	76835dee2957ff7d0ec837a27f72e3da
-A	spambot.pages.inc	8f73271434df72a3c2284c011e5f1bee
+M	spambot.pages.inc	8f73271434df72a3c2284c011e5f1bee

@@ -4,4 +4,3 @@ M	notifications_team.install	e66844dee8855eb5150ce8d2a8824ba9
 M	notifications_team.js	06b09401488dc914e8cc82685793410e
 M	notifications_team.module	dfdf131cfa65076ee95cae148d9ceb62
 M	notifications_team.test	c8cd68c3a1b7cd03845db582065e427a
-D	notifications_team.views_default.inc	

@@ -1,13 +1,11 @@
-D	README.txt	
-D	TODO	
-D	composer.json	
-M	entityblock.info.yml	4703fb354290f6e2af1c9e83b33d3e32
-M	entityblock.js	892ec5969ab0d2194067f35c028205c6
-M	entityblock.module	3f95415418d2056e0b2ec861b0e3aede
-M	src/Plugin/Block/EntityBlockBlock.php	e7a573084ee9e0f1a8a3ecff211067b8
-M	src/Plugin/Derivative/EntityBlockContent.php	cd68d650015e54e4dbed6df9be4927d5
-M	src/Plugin/Field/FieldType/EntityBlockItem.php	7511e5eb3d636308765269d6a79b4870
-M	src/Plugin/Field/FieldWidget/EntityBlockWidget.php	976db453546e2768ce543c129d4b166c
-D	src/Tests/EntityBlockFieldTest.php	
-D	src/Tests/EntityBlockFieldUITest.php	
-D	tests/src/Kernel/EntityBlockItemTest.php	
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	config/schema/entityblock.schema.yml	22c5ba5a2808f18b1aa8257dfdef121b
+A	entityblock.info.yml	4703fb354290f6e2af1c9e83b33d3e32
+A	entityblock.js	892ec5969ab0d2194067f35c028205c6
+A	entityblock.libraries.yml	9027f1dcc03c53543192a545196f7db0
+A	entityblock.module	3f95415418d2056e0b2ec861b0e3aede
+A	src/Plugin/Block/EntityBlockBlock.php	e7a573084ee9e0f1a8a3ecff211067b8
+A	src/Plugin/Derivative/EntityBlockContent.php	cd68d650015e54e4dbed6df9be4927d5
+A	src/Plugin/Field/FieldFormatter/EntityBlockFormatter.php	c40c655a396d9b953713888a67ae9d14
+A	src/Plugin/Field/FieldType/EntityBlockItem.php	7511e5eb3d636308765269d6a79b4870
+A	src/Plugin/Field/FieldWidget/EntityBlockWidget.php	976db453546e2768ce543c129d4b166c

@@ -1,44 +1,15 @@
-M	CHANGELOG.txt	2caf2b77ea529aa03c13b8cd3da7f36c
 M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	743ceee5639f70cdbce7f4e589f883a3
-D	fullcalendar.api.js	
-D	fullcalendar.api.php	
+M	fullcalendar.admin.inc	00dfe37cae4bdd154a89be947d67fe07
+M	fullcalendar.custom.css	c162de139f9cfb1da02fcd2788c59b27
+M	fullcalendar.drush.inc	aaf97010b3e63dbd34be6832e21e0648
 M	fullcalendar.info	88e30306dc2b3dba0d4d12c669ecbd9f
 M	fullcalendar.install	a25119d101aca28e5d625f74c8ae5cbc
-D	fullcalendar.make	
 M	fullcalendar.module	a11063a2b80d826dade26bce62f0e56f
-A	fullcalendar.views.inc	46c663115f7633d98d36418cf03ac91f
-A	fullcalendar.views.js	2403aba676ca9fe45d51a522d2bc8bfc
-A	fullcalendar.views_default.inc	32f1787fbea0f4f91e28330c510c6dd9
-D	fullcalendar_colors/fullcalendar_colors.info	
-D	fullcalendar_colors/fullcalendar_colors.install	
-D	fullcalendar_colors/fullcalendar_colors.module	
-D	fullcalendar_legend/css/fullcalendar_legend.theme.css	
-D	fullcalendar_legend/fullcalendar_legend.info	
-D	fullcalendar_legend/fullcalendar_legend.install	
-D	fullcalendar_legend/fullcalendar_legend.module	
-D	fullcalendar_legend/plugins/content_types/fullcalendar_legend.inc	
-D	fullcalendar_legend/theme/theme.inc	
-D	fullcalendar_options/README.txt	
-D	fullcalendar_options/fullcalendar_options.info	
-D	fullcalendar_options/fullcalendar_options.install	
-D	fullcalendar_options/fullcalendar_options.module	
-D	fullcalendar_options/includes/colorbox.fullcalendar.inc	
-D	fullcalendar_options/includes/fullcalendar_options.admin.inc	
-D	fullcalendar_options/includes/fullcalendar_options.fullcalendar.inc	
-D	fullcalendar_options/js/colorbox.fullcalendar.js	
-D	fullcalendar_options/js/fullcalendar_options.fullcalendar.js	
-A	fullcalendar_plugin_display_page.inc	ef6cc1c3940101107fd3d45831d388e3
-D	includes/fullcalendar.fullcalendar.inc	
-D	includes/views/fullcalendar.views.inc	
-D	includes/views/handlers/fullcalendar_handler_field_gcal.inc	
-D	includes/views/plugins/fullcalendar_plugin_style_fullcalendar.inc	
-D	js/fullcalendar.ajax.js	
-D	js/fullcalendar.fullcalendar.js	
-D	js/fullcalendar.library.js	
-D	js/fullcalendar.views.js	
-D	theme/theme.inc	
-A	views-view-fullcalendar.tpl.php	7058715583249f66388a17c3f076216a
-A	views-view-node-fullcalendar.tpl.php	cfbd13b66e5193ce0a5eb06d17857ddd
-A	views_plugin_node_fullcalendar.inc	bca51ea78fabd92014bf41fe273f8481
-A	views_plugin_style_fullcalendar.inc	2e99df1191ccefe7e525c533e825af1a
+M	fullcalendar.views.inc	46c663115f7633d98d36418cf03ac91f
+M	fullcalendar.views.js	2403aba676ca9fe45d51a522d2bc8bfc
+M	fullcalendar.views_default.inc	32f1787fbea0f4f91e28330c510c6dd9
+M	fullcalendar_plugin_display_page.inc	ef6cc1c3940101107fd3d45831d388e3
+M	views-view-fullcalendar.tpl.php	7058715583249f66388a17c3f076216a
+M	views-view-node-fullcalendar.tpl.php	cfbd13b66e5193ce0a5eb06d17857ddd
+M	views_plugin_node_fullcalendar.inc	bca51ea78fabd92014bf41fe273f8481
+M	views_plugin_style_fullcalendar.inc	2e99df1191ccefe7e525c533e825af1a

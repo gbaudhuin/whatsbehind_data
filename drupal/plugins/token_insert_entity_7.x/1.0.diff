@@ -1,4 +1,9 @@
-M	plugins/rendered_entity/rendered_entity.js	28fee64a6c7fddb93cc11db4b94bb2dd
-M	token_insert_entity.info	a2a6ccef575a10235d0e31ec90344216
-M	token_insert_entity.module	4caa4bd17c702584f39b60fb7a80152a
-M	token_insert_entity.pages.inc	6d41c2905b6350dd35a93b4baf7e656e
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	5ef7564267d55c238fb3d0b165cac3f7
+A	plugins/rendered_entity.inc	6d51e89a7df0147bcb6a2e9002f5f3ad
+A	plugins/rendered_entity/images/insert.png	7ea6f07ab11b6c4abf0f54e8deeb1065
+A	plugins/rendered_entity/rendered_entity.css	d41d8cd98f00b204e9800998ecf8427e
+A	plugins/rendered_entity/rendered_entity.js	28fee64a6c7fddb93cc11db4b94bb2dd
+A	token_insert_entity.info	a2a6ccef575a10235d0e31ec90344216
+A	token_insert_entity.module	4caa4bd17c702584f39b60fb7a80152a
+A	token_insert_entity.pages.inc	6d41c2905b6350dd35a93b4baf7e656e

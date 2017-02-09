@@ -1,0 +1,13 @@
+M	CHANGELOG.txt	e34d89f99c0c931d4131765e9e9c2b86
+M	README.txt	280a72dd1cef878158095e55737d39f1
+M	custom_formatters.admin.inc	a2818ce082a354c6cab7f88b9209b416
+M	custom_formatters.info	e0f9caeb80d08461582b4d31a15c9d45
+M	custom_formatters.install	b0d791a1e794b42d4b6822a8462698bc
+M	custom_formatters.module	8dc13355b7e572c93f92fcdd46229eae
+D	custom_formatters_export.tpl.php	
+M	modules/content_multigroup.inc	3d11d5ae71380ad6a7d14c88cf2ca0e6
+A	modules/fieldgroup.inc	2aaba4025961685573c7eb54760bc50d
+M	modules/insert.inc	b9a2c923776ce707485ed98a6677f591
+A	templates/custom_formatters_convert.tpl.php	e2d08896f2fce5d3399282b661738729
+A	templates/custom_formatters_export_info.tpl.php	acc24d7a3f781822b982326f683d805b
+A	templates/custom_formatters_export_module.tpl.php	e2c1e7fb1c2ac5e5941906f51df0f7a4

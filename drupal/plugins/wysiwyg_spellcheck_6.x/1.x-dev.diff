@@ -1,7 +1,1 @@
-A	CHANGELOG.txt	deae9452bd5eace48a0a3fed53d35717
-A	INSTALL.txt	f881f0d75864e078fa6ffacf01c1153e
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	988f42f1336f9162ab2fd4ad6a16caf7
-A	wysiwyg_spellcheck.info	586768a48b018de85df3538bae65b7ba
-A	wysiwyg_spellcheck.install	f1ed043659bd8d4c0ecb24b2a8b2ccad
-A	wysiwyg_spellcheck.module	b588f92d3a14e6f6de051f9bc7e5cf70
+M	wysiwyg_spellcheck.info	586768a48b018de85df3538bae65b7ba

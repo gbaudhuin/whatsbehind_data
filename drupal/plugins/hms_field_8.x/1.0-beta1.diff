@@ -1,1 +1,16 @@
-M	hms_field.info.yml	77b9e44c68c23fe3242d8e7ee4176d04
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	hms_field.info.yml	77b9e44c68c23fe3242d8e7ee4176d04
+A	hms_field.libraries.yml	0d433cc70c2f79df5fbaa2b69633a802
+A	hms_field.migrate.inc	9844702e0e3b9eb3be4918dc08062c88
+A	hms_field.module	ac0f88b41be26c939be080f95cfd6165
+A	hms_field.services.yml	f0048591e83b475fcf4ae4f80cb1c7a3
+A	js/hms_field.js	1def0e63eca7ad9389bbb3a6a1a366f7
+A	src/Element/HMS.php	00520cca09602ca21acd187acbe7c8c8
+A	src/HMSService.php	d5a7b12ab522fbf2a5c2b8264efd96f5
+A	src/HMSServiceInterface.php	c0e6219aba1335d1ec4032d290cb25a6
+A	src/Plugin/Field/FieldFormatter/HMSFormatter.php	4f679ce4d5e95174ff829556d5a93a91
+A	src/Plugin/Field/FieldFormatter/HMSNaturalLanguageFormatter.php	24c27af10f1782bacd91def6ffe2175b
+A	src/Plugin/Field/FieldType/HMSFieldItem.php	78f69432030584ce5ea542c5ad05ab4a
+A	src/Plugin/Field/FieldWidget/HMSFieldWidget.php	9dbf6f621728a11c433ed707f1c6b7f8
+A	templates/hms-natural-language.html.twig	7484a805cb61332db5b93319aea04591
+A	templates/hms.html.twig	1be40352c63f14efeaa0e55c8c3b8e8e

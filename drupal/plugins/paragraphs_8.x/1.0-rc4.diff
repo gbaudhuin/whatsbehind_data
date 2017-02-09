@@ -68,6 +68,8 @@ M	src/Form/ParagraphsTypeForm.php	3082c54e42a600be403b0ceef8ca1407
 M	src/ParagraphAccessControlHandler.php	82f8fc1d47bbd233d9b7a9f0eece4526
 M	src/ParagraphInterface.php	a26bbbae409bdc4211c86c21470efd60
 M	src/ParagraphsTypeInterface.php	808248dc058c9281c5f880a6e30e0388
+A	src/Plugin/EntityReferenceSelection/ParagraphSelection.php	4a952b6adb61ccea19391d791cc4cf01
 M	src/Plugin/Field/FieldWidget/InlineParagraphsWidget.php	50e8caae395322bbd19f2c1509523005
+D	src/Plugin/entity_reference/selection/ParagraphSelection.php	
 A	src/Tests/ParagraphsAdministrationTest.php	184f72acb26a8825c4a5c1457fca6f01
 A	src/Tests/ParagraphsTranslationTest.php	316843b9200b4399da4883bd51de0e4e

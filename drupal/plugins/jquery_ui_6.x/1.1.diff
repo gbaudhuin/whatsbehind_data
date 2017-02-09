@@ -1,6 +1,5 @@
-D	CHANGELOG.txt	
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	a61e927f35731a10d1ccdc255ecaffa5
-M	jquery_ui.info	61fd75653cf14d78e36a3f8997f47942
-M	jquery_ui.install	a0441751e70fe37f8e8a0d7357dea7ce
-M	jquery_ui.module	e68e3889dc21f5edb9d2f38779769fa1
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	a61e927f35731a10d1ccdc255ecaffa5
+A	jquery_ui.info	61fd75653cf14d78e36a3f8997f47942
+A	jquery_ui.install	a0441751e70fe37f8e8a0d7357dea7ce
+A	jquery_ui.module	e68e3889dc21f5edb9d2f38779769fa1

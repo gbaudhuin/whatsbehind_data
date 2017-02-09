@@ -1,27 +1,13 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	20e467d9b672fbd24d9139c1d9d6e7ab
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	20e467d9b672fbd24d9139c1d9d6e7ab
 A	po/de.po	6a45ed4a1c7d81d0d58cab04327a828f
 A	po/es.po	5b26244392a0ae1ffed24d023b78bd68
 A	po/fr.po	23cc7e40299134154869ca33d7972db6
 A	po/hu.po	16d81803c7dcab924feda2b665b4f5a7
 A	po/workflow.pot	c9cca79b25ebe5dab2ec834e52129cb2
-M	workflow.info	dc2d01e2a9aabb0034862c21db1baaa9
-M	workflow.install	588675e0a531260a5607dda7d12195f5
-M	workflow.module	e3de1f28c96c8233bcdff80a7481f15a
-D	workflow.pages.inc	
+A	workflow.info	dc2d01e2a9aabb0034862c21db1baaa9
+A	workflow.install	588675e0a531260a5607dda7d12195f5
+A	workflow.module	e3de1f28c96c8233bcdff80a7481f15a
 A	workflow_access.info	7c103c96ee049841f4436e5f6fb0b6ef
-D	workflow_access/workflow_access.info	
-D	workflow_actions/README.txt	
-D	workflow_actions/workflow_actions.info	
-D	workflow_actions/workflow_actions.module	
-D	workflow_admin_ui/workflow_admin_ui.info	
-D	workflow_admin_ui/workflow_admin_ui.module	
-D	workflow_rules/workflow_rules.info	
-D	workflow_rules/workflow_rules.module	
-D	workflow_views/includes/workflow_views.views.inc	
-D	workflow_views/includes/workflow_views.views_default.inc	
-D	workflow_views/includes/workflow_views_handler_argument_state.inc	
-D	workflow_views/includes/workflow_views_handler_field_sid.inc	
-D	workflow_views/includes/workflow_views_handler_filter_sid.inc	
-D	workflow_views/workflow_views.info	
-D	workflow_views/workflow_views.module	
+A	workflow_access.install	019c82388b147265a2bd835149bcc7ae
+A	workflow_access.module	ad96db6d2a092877e613950c5f8e281d

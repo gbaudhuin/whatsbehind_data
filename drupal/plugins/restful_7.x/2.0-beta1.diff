@@ -5,10 +5,16 @@ M	docs/api_url.md	e0ed18032ed1aa7d29c51eb30c997311
 M	docs/documentation.md	bf57f1f608cab311a28fdb13c85d8ffd
 M	docs/plugin.md	bb5434622d6455f58ad47313270e6005
 D	exceptions/RestfulBadRequestException.php	
+D	exceptions/RestfulException.php	
+D	exceptions/RestfulFloodException.php	
 D	exceptions/RestfulForbiddenException.php	
+D	exceptions/RestfulGoneException.php	
+D	exceptions/RestfulNotFoundException.php	
 D	exceptions/RestfulNotImplementedException.php	
+D	exceptions/RestfulServerConfigurationException.php	
 D	exceptions/RestfulServiceUnavailable.php	
 D	exceptions/RestfulUnauthorizedException.php	
+D	exceptions/RestfulUnprocessableEntityException.php	
 D	exceptions/RestfulUnsupportedMediaTypeException.php	
 A	help/problem-instances-incompatible-field-definition.html	9b7b1bc8743e9d3af695fb198861b45d
 A	help/problem-instances-server-error.html	c7901637ed15845bb5a740294d1d7cd5
@@ -49,6 +55,7 @@ D	modules/restful_angular_example/restful_angular_example.info
 D	modules/restful_angular_example/restful_angular_example.module	
 D	modules/restful_angular_example/templates/restful-angular-html.tpl.php	
 D	modules/restful_angular_example/templates/restful-angular.tpl.php	
+D	modules/restful_example/plugins/formatter/RestfulFormatterHalXml.class.php	
 D	modules/restful_example/plugins/formatter/hal_xml.inc	
 D	modules/restful_example/plugins/restful/db_query/node_user/1.0/RestfulExampleNodeUserResource.class.php	
 D	modules/restful_example/plugins/restful/db_query/node_user/1.0/node_user__1_0.inc	
@@ -61,6 +68,7 @@ D	modules/restful_example/plugins/restful/node/articles/1.1/articles__1_1.inc
 D	modules/restful_example/plugins/restful/node/articles/1.2/articles__1_2.inc	
 D	modules/restful_example/plugins/restful/node/articles/1.3/articles__1_3.inc	
 D	modules/restful_example/plugins/restful/node/articles/1.4/articles__1_4.inc	
+D	modules/restful_example/plugins/restful/node/articles/1.5/RestfulExampleArticlesResource__1_5.class.php	
 D	modules/restful_example/plugins/restful/node/articles/1.5/articles__1_5.inc	
 D	modules/restful_example/plugins/restful/node/articles/1.6/RestfulExampleArticlesResource__1_6.class.php	
 D	modules/restful_example/plugins/restful/node/articles/1.6/articles__1_6.inc	
@@ -75,10 +83,12 @@ D	modules/restful_example/plugins/restful/variable/1.0/RestfulVariableResource.c
 D	modules/restful_example/plugins/restful/variable/1.0/variable__1_0.inc	
 M	modules/restful_example/restful_example.info	8c04be3ea0bfbed33ab828a77196a441
 M	modules/restful_example/restful_example.module	3f013e83b83785a85c0eb353c6300d99
+A	modules/restful_example/src/Plugin/formatter/FormatterHalXml.php	a32dfb4e1229c3fbb3cf1a40fedcbc1c
 A	modules/restful_example/src/Plugin/resource/Tags__1_0.php	871c392df96d56a42ddd77737533bfe8
 A	modules/restful_example/src/Plugin/resource/node/article/v1/Articles__1_0.php	957eb8b57e7833d54d4872d470f46433
 A	modules/restful_example/src/Plugin/resource/node/article/v1/Articles__1_1.php	1b4c5c1a4f6d0155d95a8753bea81f47
 A	modules/restful_example/src/Plugin/resource/node/article/v1/Articles__1_4.php	1dc36aba69ba10a7d3cfeeef6d02a46b
+A	modules/restful_example/src/Plugin/resource/node/article/v1/Articles__1_5.php	3de3181bfc065c75406cc301eeda9153
 A	modules/restful_example/src/Plugin/resource/node/article/v1/Articles__1_6.php	8a5103422647905c59f38e7b86540249
 A	modules/restful_example/src/Plugin/resource/node/article/v1/Articles__1_7.php	7723e6b47afcb6efa9f418634c70d445
 A	modules/restful_example/src/Plugin/resource/node/article/v2/Articles__2_0.php	2340a8e7cc4eed6cdaa7124848a144cd
@@ -88,6 +98,7 @@ A	modules/restful_example/src/Plugin/resource/variables/DataProviderVariable.php
 A	modules/restful_example/src/Plugin/resource/variables/DataProviderVariableInterface.php	0c8fb15337be592d7c07449a73b4cbd7
 A	modules/restful_example/src/Plugin/resource/variables/Variables__1_0.php	53d361f8b3c64c2d9eb6440cad7f5350
 D	modules/restful_token_auth/includes/RestfulTokenAuth.php	
+D	modules/restful_token_auth/includes/RestfulTokenAuthController.php	
 D	modules/restful_token_auth/includes/RestfulTokenAuthenticationBase.php	
 D	modules/restful_token_auth/plugins/authentication/RestfulAuthenticationToken.class.php	
 D	modules/restful_token_auth/plugins/authentication/token.inc	
@@ -99,13 +110,16 @@ M	modules/restful_token_auth/restful_token_auth.info	732bbf8808de2d2be78368bfa0a
 M	modules/restful_token_auth/restful_token_auth.install	1b61a283ed3e0972c39d6f64dc8b763b
 M	modules/restful_token_auth/restful_token_auth.module	58eef4f754878e644db330c9a8ea65af
 A	modules/restful_token_auth/src/Entity/RestfulTokenAuth.php	aabd0bdb9c2704765b2ce0b172da4e5f
+A	modules/restful_token_auth/src/Entity/RestfulTokenAuthController.php	e77e2ad4fa4070140d0d02c42665eb5c
 A	modules/restful_token_auth/src/Plugin/authentication/TokenAuthentication.php	f97ee95e3c4ef2cee892b28baa022933
 A	modules/restful_token_auth/src/Plugin/resource/AccessToken__1_0.php	8a0443eeeee7dccffc30f6f373593f5a
 A	modules/restful_token_auth/src/Plugin/resource/RefreshToken__1_0.php	5569dfbec0f094492b03a847bdb9b59a
 A	modules/restful_token_auth/src/Plugin/resource/TokenAuthenticationBase.php	8dd4f149460a02e0ce0bf20a280a3693
 M	modules/restful_token_auth/tests/RestfulTokenAuthenticationTestCase.test	a819c1c9e8b108d62dd016378bf22939
 D	plugins/authentication/RestfulAuthenticationBase.php	
+D	plugins/authentication/RestfulAuthenticationBasic.class.php	
 D	plugins/authentication/RestfulAuthenticationCookie.class.php	
+D	plugins/authentication/RestfulAuthenticationInterface.php	
 D	plugins/authentication/RestfulAuthenticationManager.php	
 D	plugins/authentication/basic_auth.inc	
 D	plugins/authentication/cookie.inc	
@@ -118,6 +132,7 @@ D	plugins/formatter/json/json.inc
 D	plugins/rate_limit/RestfulRateLimitBase.php	
 D	plugins/rate_limit/RestfulRateLimitGlobal.class.php	
 D	plugins/rate_limit/RestfulRateLimitInterface.php	
+D	plugins/rate_limit/RestfulRateLimitManager.php	
 D	plugins/rate_limit/RestfulRateLimitRequest.class.php	
 D	plugins/rate_limit/global.inc	
 D	plugins/rate_limit/request.inc	
@@ -136,6 +151,7 @@ D	plugins/restful/RestfulEntityBaseNode.php
 D	plugins/restful/RestfulEntityBaseTaxonomyTerm.php	
 D	plugins/restful/RestfulEntityBaseUser.php	
 D	plugins/restful/RestfulEntityInterface.php	
+D	plugins/restful/RestfulFilesUpload.php	
 D	plugins/restful/RestfulInterface.php	
 D	plugins/restful/csrf/RestfulCsrfTokenResource.class.php	
 D	plugins/restful/csrf/csrf_token.inc	
@@ -160,12 +176,18 @@ A	src/Authentication/AuthenticationManager.php	6aadcf3fab3f7649e8cbbf97c50b72de
 A	src/Authentication/AuthenticationManagerInterface.php	f30c61bc6b6f4b1b81903fbb8353a0fb
 A	src/Authentication/AuthenticationPluginCollection.php	530ab777f67e1dc73f2f291a5c3ee526
 A	src/Exception/BadRequestException.php	5e37619c3703eb24f5783ed92ae97c51
+A	src/Exception/FloodException.php	caf365ad298856161ae3b0a16998ad6c
 A	src/Exception/ForbiddenException.php	707656f4f7de800700b27e96e2cae923
+A	src/Exception/GoneException.php	f3149754d13e1a4ef114202491a5d67a
 A	src/Exception/IncompatibleFieldDefinitionException.php	1ebcf904b44e7fa1a9f56031de715fd1
 A	src/Exception/InternalServerErrorException.php	b4763e55efb094fb0d9944ca6859c721
+A	src/Exception/NotFoundException.php	99846144306410a5d08ad72a921ec765
 A	src/Exception/NotImplementedException.php	8672125bd35759a005600edf38f82e3d
+A	src/Exception/RestfulException.php	775f0d1efec44c10ec3f066ccbecd3c4
+A	src/Exception/ServerConfigurationException.php	7bb285872db60c3c8aef7d2155a422fb
 A	src/Exception/ServiceUnavailableException.php	20fc8554126f424636a4b93b7e01560e
 A	src/Exception/UnauthorizedException.php	e3d173c685e141470c9b5cbbdcc92c49
+A	src/Exception/UnprocessableEntityException.php	d4eaddd0beafe95b98d83080aa147fef
 A	src/Exception/UnsupportedMediaTypeException.php	5393c7eabdd3d839bcf73a5c46928054
 A	src/Formatter/FormatterManager.php	6255c46be323a30ed1c4c029f00d2f41
 A	src/Formatter/FormatterManagerInterface.php	ec7044d2c204bd5b128b9e6b3594f7df
@@ -185,6 +207,8 @@ A	src/Plugin/FormatterPluginManager.php	058a9fdc0981d8dba8e40018ab6e503f
 A	src/Plugin/RateLimitPluginManager.php	5b399dde3c175ed9c295de6a9f9d7fb5
 A	src/Plugin/ResourcePluginManager.php	9179000a7a44e7b2243ac6695a20e76c
 A	src/Plugin/authentication/Authentication.php	6eb1c2fc0901974ba3ecb73fec30350e
+A	src/Plugin/authentication/AuthenticationInterface.php	4507a1b286cc38bae36ddc5b3fc36ec2
+A	src/Plugin/authentication/BasicAuthentication.php	d32a61980b42d4d136a7618e71bef55a
 A	src/Plugin/authentication/CookieAuthentication.php	b9ff0c96d308371b662d95bfba4b1530
 A	src/Plugin/formatter/Formatter.php	492c0ada79780f939bb30b6cbbaf1388
 A	src/Plugin/formatter/FormatterHalJson.php	e1385e6ee33f3a12e3fb7f61c852f1f8
@@ -218,6 +242,7 @@ A	src/Plugin/resource/DataProvider/DataProviderDecorator.php	7d9ca23c68e4a95a92d
 A	src/Plugin/resource/DataProvider/DataProviderEntity.php	861687bc54bff99f925f0b873c101c8f
 A	src/Plugin/resource/DataProvider/DataProviderEntityDecorator.php	047e70458dc8597dba08478d2fdc634a
 A	src/Plugin/resource/DataProvider/DataProviderEntityInterface.php	c4dfd0d9267f26a428f28370eb16dc95
+A	src/Plugin/resource/DataProvider/DataProviderFile.php	79afc7f55973d3b1db434c3f7def1217
 A	src/Plugin/resource/DataProvider/DataProviderInterface.php	771b98d07f58cf885f5dbde0f125fc16
 A	src/Plugin/resource/DataProvider/DataProviderNode.php	f16a5e4fce1de7f2bdec5a351368ba34
 A	src/Plugin/resource/DataProvider/DataProviderNull.php	17810d47b6ffd2c501e2903d5494c8b7
@@ -263,6 +288,7 @@ A	src/Plugin/resource/ResourceNode.php	d4b53c4ac608f0394575854cb0f4093d
 A	src/Plugin/resource/Users__1_0.php	ed0092a82388c16d3c1fced6d58e1890
 A	src/RateLimit/Entity/RateLimit.php	d83aa2ef06dba16441f215cb69e868c4
 A	src/RateLimit/Entity/RateLimitController.php	9499a84b05392a325f0c70559d048a99
+A	src/RateLimit/RateLimitManager.php	b33f468c59e56a6ccb54b115c554086f
 A	src/RateLimit/RateLimitManagerInterface.php	d295dbff40950f36b78517de69025b73
 A	src/RateLimit/RateLimitPluginCollection.php	14bf23859e190a64a193e68c5b28e6e4
 A	src/RenderCache/Entity/CacheFragment.php	4a371cbd441b06fc79e92a6ca5b54c67
@@ -321,6 +347,7 @@ D	tests/modules/restful_test/plugins/restful/entity_test/entity_tests/1.0/Restfu
 D	tests/modules/restful_test/plugins/restful/entity_test/entity_tests/1.0/entity_tests__1_0.inc	
 D	tests/modules/restful_test/plugins/restful/entity_test/main/1.0/RestfulTestMainResource.class.php	
 D	tests/modules/restful_test/plugins/restful/entity_test/main/1.0/main__1_0.inc	
+D	tests/modules/restful_test/plugins/restful/entity_test/main/1.1/RestfulTestMainResource__1_1.class.php	
 D	tests/modules/restful_test/plugins/restful/entity_test/main/1.1/main__1_1.inc	
 D	tests/modules/restful_test/plugins/restful/entity_test/main/1.2/RestfulTestMainResource__1_2.class.php	
 D	tests/modules/restful_test/plugins/restful/entity_test/main/1.2/main__1_2.inc	
@@ -353,6 +380,7 @@ A	tests/modules/restful_test/src/Plugin/resource/DataProvider/DataProviderFileTe
 A	tests/modules/restful_test/src/Plugin/resource/db_query_test/v1/DbQueryTest__1_0.php	a4db09d7b0471002bf3e7f4d2d05ec2b
 A	tests/modules/restful_test/src/Plugin/resource/entity_test/EntityTests__1_0.php	925950d767b7b6a6ee0424e45ac410c5
 A	tests/modules/restful_test/src/Plugin/resource/entity_test/main/v1/Main__1_0.php	8527d28a91724b0a9680fd1710554440
+A	tests/modules/restful_test/src/Plugin/resource/entity_test/main/v1/Main__1_1.php	8a7301aa2b8358c285a09618013668bf
 A	tests/modules/restful_test/src/Plugin/resource/entity_test/main/v1/Main__1_2.php	c67837a4639e1b3b1cbdbed46a84d703
 A	tests/modules/restful_test/src/Plugin/resource/entity_test/main/v1/Main__1_3.php	cabc3b4af24ca45faf3bb8216f5cf33b
 A	tests/modules/restful_test/src/Plugin/resource/entity_test/main/v1/Main__1_4.php	2cc758a2d1806c809290bd5d249443ac

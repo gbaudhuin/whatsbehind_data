@@ -1,7 +1,6 @@
-M	README.txt	d4986ea9367f18b54b92b90d640d162e
 M	image_field_caption.info	8eb31a24d856a005f00a6abe548ba60e
 M	image_field_caption.install	a06b8c6fcc11d07bd6b5d556da57e3f6
 M	image_field_caption.module	39d57ce798aca5de2c5ddfafd8b867ab
 M	image_field_caption.tpl.php	0d181d9879aecda8ac8f750adcd4d60a
-A	views/image_field_caption.views.inc	e1b24126819ae765e972a3fb51a42808
-A	views/image_field_caption_handler_join.inc	d45f8add15f9d1ab0f6a258f10c6eeeb
+M	views/image_field_caption.views.inc	e1b24126819ae765e972a3fb51a42808
+M	views/image_field_caption_handler_join.inc	d45f8add15f9d1ab0f6a258f10c6eeeb

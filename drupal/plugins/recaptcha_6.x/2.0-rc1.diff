@@ -1,18 +1,34 @@
 M	README.txt	3d1109452ef90b0b220086661735feb4
-M	recaptcha-php/README.md	8b31e17bb6e6941b53255e9b575911f4
-M	recaptcha-php/examples/example-captcha.php	33ca3cdd7e2305dc5fd4033fc8294b22
-M	recaptcha-php/phpunit.xml.dist	98a1fbba68159c56c64cde90401be939
-M	recaptcha-php/src/ReCaptcha/ReCaptcha.php	11ffe18e070edde82128f6c7b1b72a0a
-D	recaptcha-php/src/ReCaptcha/RequestMethod/Curl.php	
-D	recaptcha-php/src/ReCaptcha/RequestMethod/CurlPost.php	
-M	recaptcha-php/src/ReCaptcha/RequestMethod/Socket.php	dec87d8cd3209a0a37ba66e05dcd0c21
-M	recaptcha-php/src/ReCaptcha/RequestMethod/SocketPost.php	1ed6247b96e4ef0eb98bfb97fda0176a
-M	recaptcha-php/src/ReCaptcha/RequestParameters.php	3bac644cf9abd06fb3699140d1d80d77
-D	recaptcha-php/src/autoload.php	
-D	recaptcha-php/tests/ReCaptcha/RequestMethod/CurlPostTest.php	
+D	recaptcha-php-1.11/LICENSE	
+D	recaptcha-php-1.11/README	
+D	recaptcha-php-1.11/example-captcha.php	
+D	recaptcha-php-1.11/example-mailhide.php	
+D	recaptcha-php-1.11/recaptchalib.php	
+A	recaptcha-php/.gitignore	91b6277aab98e9bcb4e43edd10c51e1e
+A	recaptcha-php/.travis.yml	d2b25f11db6c20508b646d017d664db5
+A	recaptcha-php/CONTRIBUTING.md	6ee06583bc4f746254d12241ca16e720
+A	recaptcha-php/LICENSE	85d051225ef63cb5e5bba300961adf8e
+A	recaptcha-php/README.md	8b31e17bb6e6941b53255e9b575911f4
+A	recaptcha-php/composer.json	f111ddbc39e150afe03e9ac32667c4b0
+A	recaptcha-php/examples/example-captcha.php	33ca3cdd7e2305dc5fd4033fc8294b22
+A	recaptcha-php/phpunit.xml.dist	98a1fbba68159c56c64cde90401be939
+A	recaptcha-php/src/ReCaptcha/ReCaptcha.php	11ffe18e070edde82128f6c7b1b72a0a
+A	recaptcha-php/src/ReCaptcha/RequestMethod.php	c54c9a8feba7dda1c84059a1b8bbc4b1
+A	recaptcha-php/src/ReCaptcha/RequestMethod/Post.php	6823914c4f0dd64b48441c578c78a022
+A	recaptcha-php/src/ReCaptcha/RequestMethod/Socket.php	dec87d8cd3209a0a37ba66e05dcd0c21
+A	recaptcha-php/src/ReCaptcha/RequestMethod/SocketPost.php	1ed6247b96e4ef0eb98bfb97fda0176a
+A	recaptcha-php/src/ReCaptcha/RequestParameters.php	3bac644cf9abd06fb3699140d1d80d77
+A	recaptcha-php/src/ReCaptcha/Response.php	a79b779bce211a6b270c6137148de195
+A	recaptcha-php/tests/ReCaptcha/ReCaptchaTest.php	a6f6376481cd5a8ea8107bd8a1ef054a
+A	recaptcha-php/tests/ReCaptcha/RequestMethod/PostTest.php	833ea740eb86a6a3c9b82165cc06c657
+A	recaptcha-php/tests/ReCaptcha/RequestMethod/SocketPostTest.php	2a7d6ea30cb892ef8b3a5346ede96816
+A	recaptcha-php/tests/ReCaptcha/RequestParametersTest.php	45a7a0fc2f0396eec6921fc34f896127
+A	recaptcha-php/tests/ReCaptcha/ResponseTest.php	d7fc70a69c8b58fdd06eb9d3e7995441
+A	recaptcha-widget-noscript.tpl.php	fe816c5087a69dd945b38566f7e4a7a3
 M	recaptcha.admin.inc	52899e97bed1fe2e3dfec1b1d7733c4f
 M	recaptcha.info	0f2fd5156500a7d4791a7a84b33a6d31
 M	recaptcha.install	693a4e18a4a80b784aeae1e72b04dfd8
 M	recaptcha.module	1ef305096a6a9112db1410f01cef94d0
-D	recaptcha.test	
-D	src/ReCaptcha/RequestMethod/Drupal6Post.php	
+D	recaptcha_mailhide/recaptcha_mailhide.info	
+D	recaptcha_mailhide/recaptcha_mailhide.install	
+D	recaptcha_mailhide/recaptcha_mailhide.module	

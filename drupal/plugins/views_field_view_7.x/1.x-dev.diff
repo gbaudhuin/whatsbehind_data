@@ -1,8 +1,1 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	c60c20686d1ac001b441ddf4afa1d5d1
-A	tests/views_field_view.test	dc5001174f85217bbb41d0742578908f
-A	views_field_view.css	bac02d7cb12c485273fa80a0b06388ca
-A	views_field_view.info	b2a798f734b3e3bba76d8f8b66e48072
-A	views_field_view.module	e8afb74aa401eca02ce5fb57dc6c3f54
-A	views_field_view.views.inc	67234f33c200056db52a9c4e9b891e6e
-A	views_field_view_handler_field_view.inc	44c23bdde2a3b08e5fdf0bd774686236
+M	views_field_view.info	b2a798f734b3e3bba76d8f8b66e48072

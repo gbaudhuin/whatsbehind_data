@@ -2,7 +2,9 @@ M	CHANGELOG.txt	46ed019da55985192067d5940cc6622d
 M	README.txt	177e5c61e46f1cad3d38ca1384911001
 A	css/elfinder.admin.css	2ecbfa007336dae021fa8a0461e08dd2
 A	css/elfinder.common.css	42c114b8e6308461ce4a77417be96bd3
+A	css/elfinder.css	1069554e784858bcbc42257feaaeb5e7
 M	css/elfinder.d7.css	f477ccf9c15e8edc346331a013959f8f
+D	css/elfinder.drupal.css	
 A	css/ui-themes/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png	1e302e32bccef8bde5176d9a8142514f
 A	css/ui-themes/smoothness/images/ui-bg_flat_75_ffffff_40x100.png	0dc48aeb18317b28e22eac024d18e9f3
 A	css/ui-themes/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png	8e6b61ce01e970cd6f1ee2e76f14517a

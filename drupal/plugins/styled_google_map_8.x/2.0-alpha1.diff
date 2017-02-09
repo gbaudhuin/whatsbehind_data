@@ -1,1 +1,4 @@
+M	README.md	496614bb87d9d083d0402703cf0fa687
+A	src/Plugin/views/style/StyledGoogleMapStyle.php	a986e79ab213da8ef79084bf02e3df3c
 M	styled_google_map.info.yml	4ce3e815c0ffeab96ddda03a7adb2785
+A	styled_google_map.views.inc	4d13c02515c775d0887fd0144cfb29cd

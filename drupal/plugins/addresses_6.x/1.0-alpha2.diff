@@ -4,11 +4,21 @@ M	addresses.install	a444e48d0fd083bac5999816f71289bd
 M	addresses.js	45118545e8565c75f8bb117e7fe5dfb1
 M	addresses.module	707374553011843308a5eae5e2cafe43
 D	addresses_cck.info	
+D	addresses_cck.module	
 A	addresses_cck/addresses_cck.inc	5ec3fd065d3c3d50c9335af8f3232e62
 A	addresses_cck/addresses_cck.info	40c768d2962ed466ca96a8b9dd5ce343
+A	addresses_cck/addresses_cck.module	22644b2aed036a4aac253e9d9ce3a212
+D	addresses_phone.info	
+D	addresses_phone.module	
+A	addresses_phone/addresses_phone.info	ba9297f8b8c3df9da305f3d3288460f0
+A	addresses_phone/addresses_phone.module	d3753f4a37ba725f42833f5cdfa186d8
 D	addresses_user.inc	
+D	addresses_user.info	
+D	addresses_user.module	
 A	addresses_user/addresses_user.inc	45441388af5b6a516c8bd868783b47f8
+A	addresses_user/addresses_user.info	d8272e7e23c9ddc89045daa1eeea588d
 A	addresses_user/addresses_user.install	4c6360602143d996a90e48b61c2dd50f
+A	addresses_user/addresses_user.module	0914636b927cd57693830240ef759663
 M	countries/ac.inc	cf6a0dadf48fc18b3df4486d0570eb89
 M	countries/ad.inc	09db142f7a62c034cabbe3c08e220776
 M	countries/ae.inc	9c1e9108ed8b9da449d86b9e59d8e8cf

@@ -1,6 +1,6 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	f78905c2c5d3f1a013111a729ff3e4a3
-D	menu_per_role.admin.inc	
-M	menu_per_role.info	82e67cc389f8f18cb52e96b7fcc0a72b
-M	menu_per_role.install	0424f7ecf5270b98e90bfb48eabba935
-M	menu_per_role.module	e02ede923a7624fb6eae7d6a240dd2dd
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	f78905c2c5d3f1a013111a729ff3e4a3
+A	drupal-6.6-menu-submit.patch	aa9c99dfe1b2f79708fb5f4ccb152c53
+A	menu_per_role.info	82e67cc389f8f18cb52e96b7fcc0a72b
+A	menu_per_role.install	0424f7ecf5270b98e90bfb48eabba935
+A	menu_per_role.module	e02ede923a7624fb6eae7d6a240dd2dd

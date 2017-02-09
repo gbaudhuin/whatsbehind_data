@@ -1,5 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	user_register_notify.admin.inc	11901d0ecc20ee251b2d957241103494
-A	user_register_notify.info	879acb52b2fb134c3465afd45701dfeb
-A	user_register_notify.install	166bedb8b221f2df9c6773a974f7be73
-A	user_register_notify.module	be9fa865a5e33206dd524d5f09fcb4f0
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	user_register_notify.info	879acb52b2fb134c3465afd45701dfeb

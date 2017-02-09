@@ -1,11 +1,13 @@
 M	CHANGELOG.txt	758353f0e99ef38aacc24aed1e9f2db1
 D	includes/mail.inc	
 M	includes/messaging_message.class.inc	42172af9cb9225969d59435e2947c7aa
+D	includes/messaging_method_mail.class.inc	
 M	messaging.info	d0c09722673eee987a39c46ad9ca6943
 M	messaging.module	7eb3ea916a70d8d2d278a7ab0b1db6dc
 A	messaging_mail/messaging_mail.admin.inc	d386959c0cc0ef28eaa8eed4046de5c1
 M	messaging_mail/messaging_mail.info	9a16fb3fc00ecf524f4ad39d09309bb8
 M	messaging_mail/messaging_mail.module	c12e1f1d661bbc003757f6b4b9dc8b5b
+A	messaging_mail/messaging_method_mail.class.inc	99e5e40a38867f841c2398d744006bef
 M	messaging_mime_mail/messaging_mime_mail.info	490bd36a4a64eaacacf0fb2dcc02dc1e
 M	messaging_phpmailer/messaging_phpmailer.info	0365b732627ddd90ff0c7253a2ceb204
 M	messaging_phpmailer/messaging_phpmailer.module	2c21325ac06f42e2dfea30b753de341d

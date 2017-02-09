@@ -1,0 +1,30 @@
+M	.travis.yml	33331dbf00823241c7a2e17d5c3fd062
+A	src/Annotation/TypedDataFormWidget.php	835004e3f7c6ccb7bd05a39377d60273
+M	src/DataFetcherTrait.php	07cf402fc6a3822345b58d08295325c6
+A	src/Form/SubformState.php	2cd1d973ff793949879b78f294f367b7
+A	src/Plugin/TypedDataFormWidget/SelectWidget.php	7b82a1bd55482ed91a7c439ddcff0675
+A	src/Plugin/TypedDataFormWidget/TextInputWidget.php	834800b4ec0a2f661865e04647608268
+A	src/Util/StateTrait.php	964c3b433c7e256dfcbe6a9f2c271982
+A	src/Widget/FormWidgetBase.php	916d3ecf0a1da5166818eb4316ce0c61
+A	src/Widget/FormWidgetInterface.php	815e436bf8b205d6694ca3412fd92262
+A	src/Widget/FormWidgetManager.php	d9a1631be4ebde656f5ac9a4bf237c2c
+A	src/Widget/FormWidgetManagerInterface.php	5a97f72dd8e791d228b4b207ea837797
+A	src/Widget/FormWidgetManagerTrait.php	ca677bd4bc3716a6faf9bcb866bb4c3d
+D	tests/Kernel/DataDefinitionFetcherTest.php	
+D	tests/Kernel/DataFetcherTest.php	
+D	tests/Kernel/DataFilterTest.php	
+D	tests/Kernel/PlaceholderResolverTest.php	
+A	tests/modules/typed_data_widget_test/src/FormWidgetExampleController.php	38ca84946d3bcd2eb917dbeae98f1875
+A	tests/modules/typed_data_widget_test/src/FormWidgetExampleForm.php	6cdba83bbd8dd32d1be98b28d4861743
+A	tests/modules/typed_data_widget_test/typed_data_widget_test.info.yml	206d1dcc72ba155a26dabdbba8a6f41d
+A	tests/modules/typed_data_widget_test/typed_data_widget_test.links.menu.yml	502784952aa86f64de1a5b9680660ed5
+A	tests/modules/typed_data_widget_test/typed_data_widget_test.routing.yml	3a3e6c24c35f45881bee2b91cc533193
+A	tests/src/BrowserTestHelpersTrait.php	5aecb76a4747e97e5aa79e9002934a52
+A	tests/src/Functional/TypedDataFormWidget/SelectWidgetTest.php	585bd4241a4d99ffdd8d615adea33e96
+A	tests/src/Functional/TypedDataFormWidget/TextInputWidgetTest.php	01ca681e4c534a6517dbda3cabed3324
+A	tests/src/Kernel/DataDefinitionFetcherTest.php	814905ecfa955e3f7db008592a600be9
+A	tests/src/Kernel/DataFetcherTest.php	b9f50eaef6b14b61fcea7fa008c2cc76
+A	tests/src/Kernel/DataFilterTest.php	3bc4798b61addcb42f786f52f30c3467
+A	tests/src/Kernel/PlaceholderResolverTest.php	d1081aca8088d956cd2e6430159ed735
+M	typed_data.info.yml	f6beb6f200d028f4217f22b3f16b3373
+M	typed_data.services.yml	a1a66bf9ddb8e15022017a3321de3541

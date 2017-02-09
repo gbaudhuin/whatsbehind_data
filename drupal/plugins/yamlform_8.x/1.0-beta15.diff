@@ -15,6 +15,7 @@ M	docs/developers/development.md	5a092cd2188feee78c76339660d37240
 M	docs/developers/resources.md	b9e0a5a09aa7edbda4019f2162e67090
 M	docs/developers/roadmap.md	5fe572e7f57dac6332cec8c70933df37
 M	drush/yamlform.drush.inc	08b30f0571dfad2694fc51c2a7d462bf
+A	includes/yamlform.theme.inc	ba6b98db13099ffd10bcf84da0280dac
 A	includes/yamlform.update.inc	b599bfbe2fa99538041c223cacca0829
 M	js/yamlform.element.codemirror.js	ceb0ee4d78cfd2959b3b5fd410b8d84c
 A	js/yamlform.element.color.js	7a979a3f92135049290422a34ad06e7a
@@ -183,3 +184,4 @@ M	yamlform.libraries.yml	6c3ea9fe270e69822780dde0f6cf03ae
 M	yamlform.module	c056666f6accfecbf204e81b9afaf4b9
 M	yamlform.routing.yml	d728b5adbe38754b7266279bb0deacc0
 M	yamlform.services.yml	790683dd5e04198287561162f054227e
+D	yamlform.theme.inc	

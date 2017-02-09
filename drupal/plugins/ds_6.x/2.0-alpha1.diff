@@ -1,20 +1,17 @@
 M	CHANGELOG.txt	e602278971050537ad9911201f068eff
+A	css/ds-multigroup.css	7f0af8bc4d1e66da627e20fcc9b95587
 M	css/ds.css	30671554ae55a8705fc5b6de4aaf4892
 M	ds.info	b021c1f39333ed39259871872a64a720
 M	ds.install	b860ae66c3eda0d942a4f2a231f7b144
 M	ds.module	95b3ce2688bb319af11d64c58a9cd2b6
 M	ds_ui.info	72e3d8b1f5d013db34aff0060fe5de06
-M	includes/ds.admin.inc	45d3d9fec7d58f0272b3bade172223b7
 M	includes/ds.buildmodes.inc	9ac607d6e2f573a91b5e64489c34dfb3
 M	includes/ds.display.inc	b75ade75d8dc912793e63bdc13fb4c28
+M	includes/ds.features.inc	701f6db42ce8274d69df7ea5de635c8b
 M	includes/ds.fields.inc	7649cedb8d5b251fb0659f39cb365a76
 M	includes/ds.groups.inc	e3375377a22d5da468bfbd66dc4e993b
-A	includes/ds.info.inc	e02b7752205d8b9790cdcd5b148a442d
-D	includes/ds.modules.inc	
-M	includes/ds.plugins.inc	cb2d7e7b6d96c15d512634d1d7321ed1
 M	includes/ds.registry.inc	68651a80fbc527bf03e1dc5ee802ad25
 M	includes/ds.tools.inc	591a9169780ed25f77f8814b08264835
-M	js/ds.js	e1c56c991ac910a2b084fda42aa30a95
 M	plugins/ds_cssoverrider.inc	8f0a0734b377698d9af2bca235238784
 M	plugins/ds_emptyregionrender.inc	2fd50e0a74664ea8793596c3f34c4c53
 M	plugins/ds_regiontoblock.inc	64b4e8234837da3c16bf3eb96a854520

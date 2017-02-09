@@ -1,5 +1,9 @@
 M	README.txt	44ae7a5e17611a43dfff8174eacf06dd
+A	mollom-captcha-audio.tpl.php	21163c1614b86545e3b9e5583e669579
+A	mollom-captcha-image.tpl.php	6c489e6e2f0bc48b47112b4c23e070f7
 M	mollom.admin.inc	052d901c013d2eb34148e2ee01080154
+D	mollom.captcha.audio.tpl.php	
+D	mollom.captcha.image.tpl.php	
 M	mollom.drupal.inc	d47d839505fd1fc9714ad949e35dc498
 M	mollom.info	67e712dc2e85ca096977f67196b78bb5
 M	mollom.install	01804823276a7d87a48f20215b11ec19

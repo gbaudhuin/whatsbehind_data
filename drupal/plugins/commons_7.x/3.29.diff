@@ -1,3 +1,4 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 D	libraries/backbone/.gitignore	
 D	libraries/backbone/.npmignore	
 D	libraries/backbone/.travis.yml	
@@ -716,6 +717,7 @@ D	libraries/underscore/test/vendor/runner.js
 D	libraries/underscore/underscore-min.js	
 D	libraries/underscore/underscore-min.map	
 D	libraries/underscore/underscore.js	
+D	modules/contrib/acquia_connector/LICENSE.txt	
 D	modules/contrib/acquia_connector/PATCHES.txt	
 D	modules/contrib/acquia_connector/README.txt	
 D	modules/contrib/acquia_connector/acquia_agent/acquia.ico	

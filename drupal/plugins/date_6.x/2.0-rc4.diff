@@ -21,6 +21,8 @@ M	date_popup/date_popup.info	8bb503296db7d936026227f8ef487507
 M	date_popup/date_popup.install	8e41b9c3ce1fab4a21926874f5ed5682
 M	date_popup/date_popup.module	fc5f5a32994e02ef3b37d5d6668dce2f
 M	date_popup/themes/datepicker.css	c7511ebfd4119e22f43d57714d0c3580
+D	date_popup/translations/date_popup-es.po	
+A	date_popup/translations/es.po	1c37c31c847cdd5d801ae62936a1f6b4
 M	date_repeat/date_repeat.info	731e568925ed0b830540c11ec48cd838
 M	date_repeat/date_repeat.module	d5564b65607cdfd6122d5627234f964b
 M	date_repeat/date_repeat_calc.inc	1620e6b52d2f1ed4df5228e77cbd7f5a

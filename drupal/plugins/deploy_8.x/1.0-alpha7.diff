@@ -1,5 +1,7 @@
 M	.travis.yml	0cf46339c8db71f904cce722e4f8bf4c
+D	.travis/drupal-8.0.x.make.yml	
 M	.travis/drupal-8.1.x.make.yml	1dcfe13d9d324aadf22b887d9e0cd7fd
+A	.travis/drupal-8.2.x.make.yml	ee46274f88f079ec8a22bb161af9a6b8
 M	deploy.info.yml	e456f28690e2cabd2aa226b33bc8528e
 M	src/Entity/Form/ReplicationDeleteForm.php	a94d52d43522cd700edf2050ba3850e1
 M	src/Entity/Form/ReplicationForm.php	340d2ca6bbf9f3eeac2f85eaf8a3c38d

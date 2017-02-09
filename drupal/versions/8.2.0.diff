@@ -19,6 +19,8 @@ M	core/lib/Drupal/Core/Entity/EntityTypeInterface.php	0aec7f8af3d69aaae1bf256dd5
 M	core/lib/Drupal/Core/Entity/EntityTypeManager.php	f292bba4b3b3398aca071b22b69c1af2
 M	core/lib/Drupal/Core/Render/Renderer.php	1783146edfc64793d617e3257ee81f0e
 M	core/lib/Drupal/Core/Test/TestDatabase.php	b54a659e8989fd5c3da3b148c88aea61
+A	core/modules/action/migration_templates/action_settings.yml	a7e004b06cfd005fd62e928959aa0766
+D	core/modules/action/migration_templates/d6_action_settings.yml	
 M	core/modules/action/tests/src/Kernel/Migrate/d6/MigrateActionConfigsTest.php	a240a5dd514ac70aa69dc75e1c2cfd5c
 A	core/modules/action/tests/src/Kernel/Migrate/d7/MigrateActionConfigsTest.php	a53297276c1ae950e14bb6f35300896a
 M	core/modules/big_pipe/src/Tests/BigPipePlaceholderTestCases.php	af9275db742f668e49b50a5fe9b53e19
@@ -40,6 +42,8 @@ M	core/modules/content_moderation/src/ModerationStateAccessControlHandler.php	51
 M	core/modules/content_moderation/src/Tests/ModerationStateStatesTest.php	2bd102e978611a606d0e29c0d84bb08b
 M	core/modules/content_moderation/src/Tests/ModerationStateTransitionsTest.php	df12b1ba3d563e2a1f7e2bffb85c745e
 M	core/modules/field/field.purge.inc	d8e470ace0311ccc0af2b08f7b5ff312
+D	core/modules/file/migration_templates/d6_file_settings.yml	
+A	core/modules/file/migration_templates/file_settings.yml	35d6bdf1c95c44b62e23cad22e94381c
 M	core/modules/file/tests/src/Kernel/Migrate/d6/MigrateFileConfigsTest.php	4bfaf558b35d8c36dfb2eef82565e3e0
 A	core/modules/file/tests/src/Kernel/Migrate/d7/MigrateFileConfigsTest.php	fc3f56d5ce5a755562cefb24c2b3ef27
 M	core/modules/filter/tests/src/Unit/Plugin/migrate/source/d6/FilterFormatTest.php	a60bb28288d702edf28301ef2b697f81
@@ -88,19 +92,37 @@ M	core/modules/path/tests/src/Unit/Migrate/d6/UrlAliasTest.php	12a44ee637df741fc
 M	core/modules/rest/src/Entity/ConfigDependencies.php	df3db548b198af6f9ab499429ff3164c
 M	core/modules/rest/src/Plugin/rest/resource/EntityResource.php	7e2d41732cf3ee7a434533b8dc6518e7
 M	core/modules/rest/tests/src/Kernel/Entity/ConfigDependenciesTest.php	73e2fd546405ac0b7f90cfe225c0419a
+D	core/modules/serialization/src/Tests/EntityResolverTest.php	
+D	core/modules/serialization/src/Tests/EntitySerializationTest.php	
 M	core/modules/serialization/src/Tests/NormalizerTestBase.php	c2ddb023fc18c53df4550923c375ead7
+A	core/modules/serialization/tests/src/Kernel/EntityResolverTest.php	0bb017dd08b534cae2f59c8f90af3c8e
+A	core/modules/serialization/tests/src/Kernel/EntitySerializationTest.php	cdb7d751f80a296ace2b733dfefe509e
 A	core/modules/serialization/tests/src/Kernel/NormalizerTestBase.php	7bdc986f3566c7c153c8dcb65eef5c28
 M	core/modules/simpletest/simpletest.module	8f51b893eea95e2632d448fe6bc98b00
 M	core/modules/simpletest/src/KernelTestBase.php	4a2cf319d7ae6cc815faf9f6f9b50771
 M	core/modules/simpletest/src/TestBase.php	4dfbe91fd326d0ea1ffb11da600c3638
 M	core/modules/simpletest/src/WebTestBase.php	5b06d19131e3d8b5b4c591db03c1d705
+D	core/modules/system/migration_templates/d6_system_image.yml	
+D	core/modules/system/migration_templates/d6_system_image_gd.yml	
+D	core/modules/system/migration_templates/d6_system_logging.yml	
+D	core/modules/system/migration_templates/d6_system_maintenance.yml	
+D	core/modules/system/migration_templates/d6_system_rss.yml	
+D	core/modules/system/migration_templates/d6_system_site.yml	
 A	core/modules/system/migration_templates/d7_system_authorize.yml	9e1d6514a60f84eb69643bc9eadde7bb
 A	core/modules/system/migration_templates/d7_system_cron.yml	be976a258dea0a823f34890bf03e5514
 A	core/modules/system/migration_templates/d7_system_date.yml	1e244e66ce329b04d963f7907480426d
 A	core/modules/system/migration_templates/d7_system_file.yml	5290a4495a4b7d504e1a97a242f9f520
 A	core/modules/system/migration_templates/d7_system_mail.yml	c66c915a55d3b1cdcb6227fa350fc6b7
 A	core/modules/system/migration_templates/d7_system_performance.yml	ec4997ad84da283443e031307e4af887
+A	core/modules/system/migration_templates/system_image.yml	4842aaf8a7f693ae7d3dda7e51be5c47
+A	core/modules/system/migration_templates/system_image_gd.yml	bbcd8b1e33cf127f779db5b7e6edea70
+A	core/modules/system/migration_templates/system_logging.yml	b7b7392a93a0cfba2897ffc9b19dd8a7
+A	core/modules/system/migration_templates/system_maintenance.yml	0d4f21ff2276e59792fa1ae097edb06e
+A	core/modules/system/migration_templates/system_rss.yml	dcfa2241796225d080ecb37787cb3db7
+A	core/modules/system/migration_templates/system_site.yml	7707df7f3a386c6e0bd4ec01d0828468
 M	core/modules/system/src/Tests/Cache/AssertPageCacheContextsAndTagsTrait.php	28042e0d1cf39a707d3c32e747f87fce
+D	core/modules/system/src/Tests/Common/PageRenderTest.php	
+D	core/modules/system/src/Tests/Common/SystemListingTest.php	
 M	core/modules/system/src/Tests/Module/ClassLoaderTest.php	c1e3adf3295aea8b0d27b1aaa816f736
 M	core/modules/system/system.install	8b89bc75a04e42a5ffa2f27e47553bd4
 A	core/modules/system/tests/modules/module_install_class_loader_test1/module_install_class_loader_test1.info.yml	1b6e463dc1d3a1782380ee369214fadb
@@ -111,6 +133,8 @@ A	core/modules/system/tests/modules/module_install_class_loader_test2/module_ins
 A	core/modules/system/tests/modules/module_install_class_loader_test2/src/EventSubscriber.php	60a35b1dff1cbb195ee486c1fd229ae4
 M	core/modules/system/tests/modules/test_page_test/src/Controller/Test.php	a51c62797e1c85256ff5ab4aa48a809f
 M	core/modules/system/tests/modules/test_page_test/test_page_test.routing.yml	0598c5d4764412ae72ac772dc1a5d96d
+A	core/modules/system/tests/src/Kernel/Common/PageRenderTest.php	3a93b641fb27899227a8c942afbcc5c2
+A	core/modules/system/tests/src/Kernel/Common/SystemListingTest.php	722887b935cf16d8fb447e995a27a8fd
 M	core/modules/system/tests/src/Kernel/Migrate/d6/MigrateSystemImageGdTest.php	3b0a1afdb5dc5bf8f81d450bc4ae720a
 M	core/modules/system/tests/src/Kernel/Migrate/d6/MigrateSystemImageTest.php	332a381886fb61004d6c888e08f822fc
 M	core/modules/system/tests/src/Kernel/Migrate/d6/MigrateSystemLoggingTest.php	143645b0b49499edf6898250bf9c1dd5

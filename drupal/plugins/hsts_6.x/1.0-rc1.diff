@@ -1,4 +1,8 @@
-M	hsts.admin.inc	92a64ee934d074dede2561238341d370
-M	hsts.info	7a077efef3663036f955731c6b5d4466
-M	hsts.install	e446a4f08e9dacb1b27cae7fbd48abb4
-M	hsts.module	d802b0144818969a0da025eb71d1060a
+A	INSTALL.txt	d0068eb0a7e32d48bd164f8d9bf88c5b
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	d8ffdaba4a580d6f76a9465b30a03ae3
+A	hsts.admin.inc	92a64ee934d074dede2561238341d370
+A	hsts.info	7a077efef3663036f955731c6b5d4466
+A	hsts.install	e446a4f08e9dacb1b27cae7fbd48abb4
+A	hsts.module	d802b0144818969a0da025eb71d1060a
+A	tests/hsts.test	f77503450c8023657067cd612f7497fe

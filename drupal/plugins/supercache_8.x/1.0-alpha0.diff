@@ -1,45 +1,21 @@
-M	src/Cache/ApcuRawBackend.php	bcbd0aecd5a307575d9ab878e843c989
-M	src/Cache/CacheCacheTagsChecksum.php	21230d88252de1728f8029aefe760d4a
-D	src/Cache/CacheInterface.php	
-M	src/Cache/CacheRawBackendInterface.php	3d5ad317f9f6443f345caa39dccfad56
-D	src/Cache/CacheTagsInvalidatorInterface.php	
-M	src/Cache/ChainedFastBackend.php	140f6fcd1c879daa0f0bc54a748f7a02
-M	src/Cache/ChainedFastBackendFactory.php	c1f5484a33bb0269068f24aa9b75ffa0
-M	src/Cache/ChainedFastRawBackend.php	ac9d0b97b302444818a5ffb7b280cb3b
-M	src/Cache/ChainedFastRawBackendFactory.php	04e604b9cdbf442d388122fbc5b56db1
-D	src/Cache/CoordinatedWriteCounterTrait.php	
-M	src/Cache/DatabaseRawBackend.php	9b08c4a007b40f5bc618136b55812307
-M	src/Cache/DatabaseRawBackendFactory.php	33084afbf9a9aa05f6c18705721a0232
-D	src/Cache/RequestTimeTrait.php	
-M	src/KeyValueStore/ChainedStorage.php	e6df95af438b007fed2ffad7aed55403
-M	src/KeyValueStore/ChainedStorageExpirable.php	e6f4e9dd823264dab8731a29ed9e8cac
-D	src/KeyValueStore/ChainedStorageTrait.php	
-M	src/KeyValueStore/KeyValueChainedExpirableFactory.php	705a6c6c5b1d770b365cbcb77235ea92
-M	src/KeyValueStore/KeyValueChainedFactory.php	594c6e6c95f229ed8b61503d9924c53e
-M	src/SupercacheServiceProvider.php	6405f5fe969b98ad2551f87fc80e457b
-D	src/Tests/Cache/ApcuRawBackendClearTests.php	
-D	src/Tests/Cache/ApcuRawBackendExpireTests.php	
-D	src/Tests/Cache/ApcuRawBackendGeneralTestCaseTrait.php	
-D	src/Tests/Cache/ApcuRawBackendGeneralTests.php	
-D	src/Tests/Cache/ApcuRawBackendGetMultipleTests.php	
-D	src/Tests/Cache/ApcuRawBackendSavingTests.php	
-D	src/Tests/Cache/CacheCacheTagsChecksumTests.php	
-D	src/Tests/Cache/DatabaseRawBackendClearTests.php	
-D	src/Tests/Cache/DatabaseRawBackendExpireTests.php	
-D	src/Tests/Cache/DatabaseRawBackendGeneralTestCaseTrait.php	
-D	src/Tests/Cache/DatabaseRawBackendGeneralTests.php	
-D	src/Tests/Cache/DatabaseRawBackendGetMultipleTests.php	
-D	src/Tests/Cache/DatabaseRawBackendSavingTests.php	
-D	src/Tests/Generic/Cache/BackendClearTests.php	
-D	src/Tests/Generic/Cache/BackendExpireTests.php	
-D	src/Tests/Generic/Cache/BackendGeneralTestCase.php	
-D	src/Tests/Generic/Cache/BackendGetMultipleTests.php	
-D	src/Tests/Generic/Cache/BackendSavingTests.php	
-D	src/Tests/Generic/Cache/CacheServicesTrait.php	
-D	src/Tests/Generic/Cache/CacheTagsChecksumTests.php	
-D	src/Tests/Generic/Cache/RawBackendGeneralTestCase.php	
-D	src/Tests/Generic/Cache/RawBackendGeneralTests.php	
-D	src/Tests/Generic/KeyValue/KeyValueTests.php	
-D	src/Tests/KeyValue/ChainedStorageTests.php	
-M	supercache.info.yml	8aec238a9978af5f22839d8bbca011f3
-M	supercache.services.yml	464b2b2e452fab8585e05d8fb5679c41
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	bc7032206c7c01a1ba7c7acd324679d0
+A	src/Cache/ApcuRawBackend.php	bcbd0aecd5a307575d9ab878e843c989
+A	src/Cache/ApcuRawBackendFactory.php	46d5458b97862da7b9b04dbeb2dd48fb
+A	src/Cache/CacheCacheTagsChecksum.php	21230d88252de1728f8029aefe760d4a
+A	src/Cache/CacheRawBackendInterface.php	3d5ad317f9f6443f345caa39dccfad56
+A	src/Cache/CacheRawFactoryInterface.php	3685e652f2d1c109389fc84ff229d5e7
+A	src/Cache/ChainedFastBackend.php	140f6fcd1c879daa0f0bc54a748f7a02
+A	src/Cache/ChainedFastBackendFactory.php	c1f5484a33bb0269068f24aa9b75ffa0
+A	src/Cache/ChainedFastRawBackend.php	ac9d0b97b302444818a5ffb7b280cb3b
+A	src/Cache/ChainedFastRawBackendFactory.php	04e604b9cdbf442d388122fbc5b56db1
+A	src/Cache/DatabaseRawBackend.php	9b08c4a007b40f5bc618136b55812307
+A	src/Cache/DatabaseRawBackendFactory.php	33084afbf9a9aa05f6c18705721a0232
+A	src/Cache/DummyTagChecksum.php	1fc7a6f22303046043ba0c574aec1d41
+A	src/KeyValueStore/ChainedStorage.php	e6df95af438b007fed2ffad7aed55403
+A	src/KeyValueStore/ChainedStorageExpirable.php	e6f4e9dd823264dab8731a29ed9e8cac
+A	src/KeyValueStore/KeyValueChainedExpirableFactory.php	705a6c6c5b1d770b365cbcb77235ea92
+A	src/KeyValueStore/KeyValueChainedFactory.php	594c6e6c95f229ed8b61503d9924c53e
+A	src/SupercacheServiceProvider.php	6405f5fe969b98ad2551f87fc80e457b
+A	supercache.info.yml	8aec238a9978af5f22839d8bbca011f3
+A	supercache.services.yml	464b2b2e452fab8585e05d8fb5679c41

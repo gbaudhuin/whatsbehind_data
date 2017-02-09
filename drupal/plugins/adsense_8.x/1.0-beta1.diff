@@ -8,21 +8,49 @@ D	old/oldcode/adsense_oldcode.info.yml
 D	old/oldcode/adsense_oldcode.libraries.yml	
 D	old/oldcode/adsense_oldcode.links.task.yml	
 D	old/oldcode/adsense_oldcode.routing.yml	
+D	old/oldcode/config/install/adsense_oldcode.settings.yml	
+D	old/oldcode/js/adsense_oldcode.js	
+D	old/oldcode/src/Form/AdsenseOldcodeSettings.php	
 D	old/oldcode/src/Plugin/AdsenseAd/OldCodeAd.php	
+D	old/oldcode/src/Plugin/Block/OldCodeAdBlock.php	
+D	old/revenue_sharing_basic/help/revenue_sharing_basic.help.inc	
+D	old/revenue_sharing_basic/revenue_sharing_basic.admin.inc	
+D	old/revenue_sharing_basic/revenue_sharing_basic.info.yml	
+D	old/revenue_sharing_basic/revenue_sharing_basic.links.task.yml	
+D	old/revenue_sharing_basic/revenue_sharing_basic.module	
+D	old/revenue_sharing_basic/revenue_sharing_basic.routing.yml	
+D	old/revenue_sharing_basic/src/Form/RevenueSharingBasicSettings.php	
 D	old/search/adsense_search.info.yml	
 D	old/search/adsense_search.libraries.yml	
 D	old/search/adsense_search.links.task.yml	
 D	old/search/adsense_search.routing.yml	
 D	old/search/config/install/adsense_search.settings.yml	
+D	old/search/js/adsense_search.js	
 D	old/search/src/Controller/SearchResultsController.php	
+D	old/search/src/Form/AdsenseSearchSettings.php	
 D	old/search/src/Plugin/AdsenseAd/SearchAd.php	
+D	old/search/src/Plugin/Block/SearchAdBlock.php	
 A	oldcode/adsense_oldcode.info.yml	9175136fc06311a3d815d59278ee29e2
 A	oldcode/adsense_oldcode.libraries.yml	e736164978fe84103f81ae94c689eb19
 A	oldcode/adsense_oldcode.links.task.yml	1c09967b2fd832e41d89bcaaf23165a3
 A	oldcode/adsense_oldcode.module	815abf47fefcc98432090dfd42d172ea
 A	oldcode/adsense_oldcode.routing.yml	f93340b6a9c5585fbc35a16f159914b6
+A	oldcode/config/install/adsense_oldcode.settings.yml	a98c06ac2c8c7bcb202175c2ed5bac9a
+A	oldcode/js/adsense_oldcode.js	78085b91b5d707a29be0abb8d0f3d7b0
+A	oldcode/js/adsense_search.js	698ae86e7d49631c86265fc05a9ad363
+A	oldcode/revenue_sharing_basic/help/revenue_sharing_basic.help.inc	66fffb80f3b52bfd460961fc03ed2bde
+A	oldcode/revenue_sharing_basic/revenue_sharing_basic.admin.inc	74c2c7ef46445a7b838da65273b677e4
+A	oldcode/revenue_sharing_basic/revenue_sharing_basic.info.yml	f19dc41b8d598f4bedb2647831b3a19a
+A	oldcode/revenue_sharing_basic/revenue_sharing_basic.links.task.yml	27c83bd24b8376cbf3145d092b58a41e
+A	oldcode/revenue_sharing_basic/revenue_sharing_basic.module	8d2574109caedf5de0420afeb28fd442
+A	oldcode/revenue_sharing_basic/revenue_sharing_basic.routing.yml	1c6126969d673ea0c195e34cab7a0419
+A	oldcode/revenue_sharing_basic/src/Form/RevenueSharingBasicSettings.php	c6c0ef073545b7e188103191bcffb26d
+A	oldcode/src/Form/AdsenseOldCodeSettings.php	e71857d2fda078b6e81aaa3f1ab3de88
+A	oldcode/src/Form/AdsenseOldSearchSettings.php	8df4e08a6ff22e3b2aff3699c5e6f526
 A	oldcode/src/Plugin/AdsenseAd/OldCodeAd.php	a3ba688a7e8213a6f3f4a0c163f436a0
 A	oldcode/src/Plugin/AdsenseAd/OldSearchAd.php	b0d1feb0a23fad1443853d6d89324cb6
+A	oldcode/src/Plugin/Block/OldCodeAdBlock.php	8fc482a4bbf7a7d5a3b3ce2dd9aa7db9
+A	oldcode/src/Plugin/Block/OldSearchAdBlock.php	de6323f88f28fc073de7e0afa946a755
 A	oldcode/templates/adsense-oldcode.html.twig	e89176adb34227d4e728d70e7281426f
 A	oldcode/templates/adsense-oldsearch-form.html.twig	3fdcff173f0239e27e95314b32216263
 M	src/AdsenseAdBase.php	b2f6c386f0efb1e2755e82a98144e1cd

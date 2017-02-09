@@ -2,6 +2,8 @@ A	config/schema/dynamic_entity_reference.schema.yml	b3d0a7df6ec6b741cf821936cd22
 M	dynamic_entity_reference.info.yml	4d29b8631f9c325d8d65d30d9a6792bf
 M	src/DataDynamicReferenceDefinition.php	13bf864ce01aaef55533f0ac2b661790
 M	src/DynamicEntityReferenceController.php	38b2d8c3e324f5c76d733d6d8c6f5c13
+D	src/Plugin/Field/FieldFormatter/DynamicEntityReferenceFormatter.php	
+A	src/Plugin/Field/FieldFormatter/DynamicEntityReferenceFormatterTrait.php	00bc24531f3f306ae50642a580892abb
 A	src/Plugin/Field/FieldFormatter/DynamicEntityReferenceLabelFormatter.php	3deee140c4a09f090127707d073cfc01
 M	src/Plugin/Field/FieldType/DynamicEntityReferenceItem.php	a5bd35a866d73e5bd40caf3633a236b8
 M	src/Plugin/Field/FieldWidget/DynamicEntityReferenceWidget.php	8e18c484665d7ae3ec289fdaeca9ecd6

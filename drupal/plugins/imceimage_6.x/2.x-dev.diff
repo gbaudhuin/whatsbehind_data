@@ -1,9 +1,3 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	images/1x1.png	71a50dbba44c78128b221b7df7bb51f1
-A	images/warning.png	02c17eea619991ce83aa20c5fb93e988
 M	imceimage.info	3e40c2f77ac28553fcd6bbbb9aea5ee9
-A	imceimage.install	55c0d7ab23599b37689b59ef6396e799
-D	imceimage.js	
 M	imceimage.module	dd1e58a111dfdc81e54f02adaabd769f
-A	js/imceimage.js	712757650af983778b38f1d23c4dc0c7
-D	translations/hu.po	
+M	js/imceimage.js	712757650af983778b38f1d23c4dc0c7

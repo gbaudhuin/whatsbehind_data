@@ -5,6 +5,8 @@ M	ckeditor.config.js	b36881f68c6492a35f984dbcb8cc8feb
 M	ckeditor.css	7655a4f11862e2177c623c2bfedc1ae6
 M	ckeditor.info	c28ec27f5275fc42c187add677898063
 M	ckeditor.install	4cb1e1b0a7a2df69e83d80888ae82cdc
+D	ckeditor.make	
+A	ckeditor.make.example	d5c7d57820d92263ea20357b4f2cb207
 M	ckeditor.module	1e7c7456f9b28dbefab1ed12fbfc0f6a
 M	includes/ckeditor.admin.inc	4c52e70fd1da72bf29218e8949258044
 M	includes/ckeditor.admin.js	81a39088cfcd21ff9bbee7d8e26fead4

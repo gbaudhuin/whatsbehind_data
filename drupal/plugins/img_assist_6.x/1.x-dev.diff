@@ -1,20 +1,23 @@
-A	CHANGELOG.txt	da494ea3324c5f3b9bea24f87b706fc7
-A	INSTALL.txt	055dae7cfe30a80e2497a2f17350af8e
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	d5265622c0c02af9b7f5e8ba3cc9ace9
-A	add-image.jpg	2056537216b67e2e65cef7bf19477dfa
-A	drupalimage/README.txt	e9a0c36f8a210028f6ca3facb72fdecb
-A	drupalimage/drupalimage.css	eca6fa9234bd2e78b981cef434aa75c9
-A	drupalimage/editor_plugin.js	0467128a15fc8faf8ae92cff93ce23a3
-A	drupalimage/editor_plugin_src.js	0467128a15fc8faf8ae92cff93ce23a3
-A	drupalimage/images/drupalimage.gif	f876c91055fba04f8472abad7a7dfb93
-A	drupalimage/images/readme.txt	05181b2fb46f63c03975e72254f480cb
-A	drupalimage/langs/de.js	43e0bd92b545983f3a21da617df9cea9
-A	drupalimage/langs/en.js	16cadfd23817298a3535afb03f6db372
-A	img_assist.css	8c3282f89e83d64626e1a045cc7271b8
-A	img_assist.info	53da1ad97d622c1c81c10b8cb2da2a03
-A	img_assist.install	2dc3c71f8a19d7d8d07a51456042de91
-A	img_assist.js	80f249e5adf09429bca68684128188b6
-A	img_assist.module	a877dcffa6491d2e8b801091051010d7
-A	img_assist_textarea.js	a1675050ffe91b92d3b26adc7b1fa50b
-A	img_assist_tinymce.js	1df2e4053f3dbc7709c9c7aeb7a669d6
+M	CHANGELOG.txt	da494ea3324c5f3b9bea24f87b706fc7
+M	INSTALL.txt	055dae7cfe30a80e2497a2f17350af8e
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	README.txt	d5265622c0c02af9b7f5e8ba3cc9ace9
+M	drupalimage/README.txt	e9a0c36f8a210028f6ca3facb72fdecb
+M	drupalimage/drupalimage.css	eca6fa9234bd2e78b981cef434aa75c9
+M	drupalimage/editor_plugin.js	0467128a15fc8faf8ae92cff93ce23a3
+M	drupalimage/editor_plugin_src.js	0467128a15fc8faf8ae92cff93ce23a3
+M	img_assist.css	8c3282f89e83d64626e1a045cc7271b8
+M	img_assist.info	53da1ad97d622c1c81c10b8cb2da2a03
+M	img_assist.install	2dc3c71f8a19d7d8d07a51456042de91
+M	img_assist.js	80f249e5adf09429bca68684128188b6
+M	img_assist.module	a877dcffa6491d2e8b801091051010d7
+M	img_assist_textarea.js	a1675050ffe91b92d3b26adc7b1fa50b
+M	img_assist_tinymce.js	1df2e4053f3dbc7709c9c7aeb7a669d6
+D	translations/ar.po	
+D	translations/da.po	
+D	translations/de.po	
+D	translations/es.po	
+D	translations/fr.po	
+D	translations/img_assist.pot	
+D	translations/nl.po	
+D	translations/sv.po	

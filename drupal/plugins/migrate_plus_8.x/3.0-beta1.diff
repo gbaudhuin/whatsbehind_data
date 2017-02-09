@@ -1,8 +1,12 @@
-M	config/schema/migrate_plus.schema.yml	b156458d153d6640d38cfa324bda7fbb
-M	migrate_example/migrate_example.info.yml	990921af3997a8c4996462625199716e
-M	migrate_example/migrate_example_setup/migrate_example_setup.info.yml	1edc389c7245c8fb7dffd52935ae2d9d
-M	migrate_example_advanced/migrate_example_advanced.info.yml	3770d076458fdc8f8b3c741be349548a
-M	migrate_example_advanced/migrate_example_advanced_setup/migrate_example_advanced_setup.info.yml	ed06fe28626462a3173f5e6fe34573ee
-M	migrate_plus.info.yml	363f77be6b2c3a0a7b5917562fbb5f0d
-M	migrate_plus.module	96279dc836c1a6053aa8f99a1c41d5ec
-M	src/Plugin/migrate_plus/data_parser/Json.php	234f4a037b283f1e604a43bd63017fd3
+A	src/Plugin/migrate/process/EntityGenerate.php	7f11f325e10d57c17b054d98dcecb9df
+A	src/Plugin/migrate/process/EntityLookup.php	7201e3841370ad2a0c52bc3011100e2d
+A	src/Plugin/migrate/process/FileBlob.php	1cce12f90cff8395847f27c69bc4e533
+A	src/Plugin/migrate/process/FileCopy.php	e067346ed0c81820f70bd4b566040f96
+A	src/Plugin/migrate/process/Merge.php	93cf5a74f27ecc95d2226ad0874f8aa5
+A	src/Plugin/migrate/process/SkipOnValue.php	1ddb5a003730f097f58bb9b536ef99d3
+D	src/Plugin/migrate_process/EntityGenerate.php	
+D	src/Plugin/migrate_process/EntityLookup.php	
+D	src/Plugin/migrate_process/FileBlob.php	
+D	src/Plugin/migrate_process/FileCopy.php	
+D	src/Plugin/migrate_process/Merge.php	
+D	src/Plugin/migrate_process/SkipOnValue.php	

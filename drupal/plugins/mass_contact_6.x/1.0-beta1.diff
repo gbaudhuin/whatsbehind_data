@@ -1,8 +1,8 @@
-M	CHANGELOG.txt	60c458a0c03a1f49ca5d8fb978e494e3
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	b04c123a573439ce127b6b4683beb980
-M	TODO.txt	f361e00e5d6ae3036be4e18d042a2104
-M	mass_contact.info	2113383cd814b07d92134d38e971b0c4
-M	mass_contact.install	4aecf2e602ee47a808050bc79af3045d
-M	mass_contact.module	7c425bbf5a4051487ae41f9958939c0d
+A	CHANGELOG.txt	60c458a0c03a1f49ca5d8fb978e494e3
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+A	README.txt	b04c123a573439ce127b6b4683beb980
+A	TODO.txt	f361e00e5d6ae3036be4e18d042a2104
+A	mass_contact.info	2113383cd814b07d92134d38e971b0c4
+A	mass_contact.install	4aecf2e602ee47a808050bc79af3045d
+A	mass_contact.module	7c425bbf5a4051487ae41f9958939c0d
 A	translations/mass_contact.pot	ccb197ca98556b16d062e1fc736fd92f

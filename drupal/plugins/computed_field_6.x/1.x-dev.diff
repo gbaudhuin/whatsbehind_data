@@ -1,6 +1,1 @@
-A	CHANGELOG.txt	15905b8ae17f9571e39cd1b17d977cb7
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	53ee91263fb8886340fad3bfb3931d88
-A	computed_field.info	a8d772b5bfb01a05c30bcb6763d573d3
-A	computed_field.install	2a85e378afe438f30f0cbb0ebed3e965
-A	computed_field.module	5cae6fb8ffcf07b14249d4a0d0f62e9a
+M	computed_field.info	a8d772b5bfb01a05c30bcb6763d573d3

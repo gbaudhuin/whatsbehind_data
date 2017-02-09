@@ -1,8 +1,7 @@
-A	INSTALL.txt	c26636ea073912e76668d3d608e276ee
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	1b02e702f5feaafd4161d87cdb618fcb
-A	taxonomy_defaults.admin.inc	83138f18e0b6240484336b7ce6eb8d6e
-A	taxonomy_defaults.css	e19e1032cd97082d406a9edf2a8c6d65
-A	taxonomy_defaults.info	b6229c33e9dc4e2641fff45a30d8a194
-A	taxonomy_defaults.install	5546b185375b6c41049420806138c4e6
-A	taxonomy_defaults.module	0102da5b5f3177ce8d7fb98670faff7a
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	taxonomy_defaults.admin.inc	83138f18e0b6240484336b7ce6eb8d6e
+M	taxonomy_defaults.info	b6229c33e9dc4e2641fff45a30d8a194
+M	taxonomy_defaults.install	5546b185375b6c41049420806138c4e6
+M	taxonomy_defaults.module	0102da5b5f3177ce8d7fb98670faff7a
+D	translations/es.po	
+D	translations/ja.po	

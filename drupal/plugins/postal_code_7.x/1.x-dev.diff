@@ -1,7 +1,3 @@
 A	.gitignore	7e3f5997a771d3b10c3e6af809603a5e
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	5d5ce4a0d8f6516f88f2ce036b4810b5
-A	content_migrate.zipcode.inc	327594e97bbd1d4f7ebb440d84a55445
-A	postal_code.info	25b2975c0975ef32ae1a9ff4dca9e59c
-A	postal_code.install	6d8e1c992d0aa0266c771364cb2a6b29
-A	postal_code.module	7e2abca361c1e42d95b03d4bb0940bb6
+M	postal_code.info	25b2975c0975ef32ae1a9ff4dca9e59c
+M	postal_code.module	7e2abca361c1e42d95b03d4bb0940bb6

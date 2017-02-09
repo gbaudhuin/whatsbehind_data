@@ -1,69 +1,57 @@
-M	.gitignore	536b33118c7a321b61d79575fc7147f2
-M	Gruntfile.js	a8680134722603c167ae0bed74f81017
-M	config/install/toolbar_themes.settings.yml	a15e7a96ec586600ab3f894e1e9faf49
-M	css/toolbar-themes-form.css	249b76a0d8a616a0cc833fd6df1155c4
-M	src/Form/ToolbarThemesSettingsForm.php	e2e1ce42134c4ceee8ba83bdd9d29755
-M	templates/toolbar-themes--menu.html.twig	71f855a3d6f585eea37eb39219067bc5
-M	templates/toolbar-themes--toolbar.html.twig	9ecac7eeabf2752e3997dd16f775d586
-M	themes/base/base_handles.css	de090022481769bbdd29b6b5fb32de09
-M	themes/base/base_handles.css.map	70f0357904d6f53d2f2256ad60cbdeca
-M	themes/base/base_handles.scss	2b6c65e80c0c37d92b9a8d38d77568f2
-M	themes/base/base_icons.css	a5bbd59a6fc5a6413709ad03dbf2c9ab
-M	themes/base/base_icons.css.map	2bdf07ccb3788c8a7ffea279a46db804
-M	themes/base/base_icons.scss	6ab8838985fa0a7a2049f3d47d335b6f
-D	themes/base/grunticons/original/toolbar-icon-admin-toolbar-tools-help.svg	
-D	themes/base/grunticons/original/toolbar-icon-edit.svg	
-D	themes/base/grunticons/original/toolbar-icon-entity-user-collection.svg	
-D	themes/base/grunticons/original/toolbar-icon-escape-admin.svg	
-D	themes/base/grunticons/original/toolbar-icon-help-main.svg	
-D	themes/base/grunticons/original/toolbar-icon-help.svg	
-D	themes/base/grunticons/original/toolbar-icon-home.svg	
-D	themes/base/grunticons/original/toolbar-icon-link-toolbar-menu.svg	
-D	themes/base/grunticons/original/toolbar-icon-menu.svg	
-D	themes/base/grunticons/original/toolbar-icon-shortcut.svg	
-D	themes/base/grunticons/original/toolbar-icon-system-admin-config.svg	
-D	themes/base/grunticons/original/toolbar-icon-system-admin-content.svg	
-D	themes/base/grunticons/original/toolbar-icon-system-admin-reports.svg	
-D	themes/base/grunticons/original/toolbar-icon-system-admin-structure.svg	
-D	themes/base/grunticons/original/toolbar-icon-system-modules-list.svg	
-D	themes/base/grunticons/original/toolbar-icon-system-themes-page.svg	
-D	themes/base/grunticons/original/toolbar-icon-toolbar-menu.svg	
-D	themes/base/grunticons/original/toolbar-icon-user.svg	
-D	themes/base/grunticons/processed/grunticon.loader.js	
-D	themes/base/grunticons/processed/icons.data.png.css	
-D	themes/base/grunticons/processed/icons.data.png.css.map	
-D	themes/base/grunticons/processed/icons.data.svg.css	
-D	themes/base/grunticons/processed/icons.data.svg.css.map	
-D	themes/base/grunticons/processed/icons.fallback.css	
-D	themes/base/grunticons/processed/icons.fallback.css.map	
-D	themes/base/grunticons/processed/png/toolbar-handle.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-admin-toolbar-tools-help.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-edit.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-entity-user-collection.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-escape-admin.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-help-main.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-help.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-home.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-link-toolbar-menu.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-menu.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-shortcut.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-system-admin-config.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-system-admin-content.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-system-admin-reports.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-system-admin-structure.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-system-modules-list.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-system-themes-page.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-toggle-horizontal.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-toggle-orientation.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-toggle-vertical.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-toolbar-menu.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-tour.png	
-D	themes/base/grunticons/processed/png/toolbar-icon-user.png	
-D	themes/base/grunticons/processed/preview.html	
-D	themes/base/templates/toolbar-themes--base-menu.html.twig	
-D	themes/base/templates/toolbar-themes--base-toolbar.html.twig	
-M	toolbar_themes.info.yml	b1d154e05a8d0ba8b932ca9e0521954b
-D	toolbar_themes.install	
-M	toolbar_themes.libraries.yml	80d77078e6c8f70fe7ef8883bfe4b945
-M	toolbar_themes.module	73617ef8aa74091a89874af664bb6739
-M	toolbar_themes.toolbar_themes.yml	d6a139e996304c01a6d8cd1c3fac3d57
+A	.gitignore	536b33118c7a321b61d79575fc7147f2
+A	Gruntfile.js	a8680134722603c167ae0bed74f81017
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.md	802edd80c73cd3970b286ddaac684062
+A	config/install/toolbar_themes.settings.yml	a15e7a96ec586600ab3f894e1e9faf49
+A	css/toolbar-themes-form.css	249b76a0d8a616a0cc833fd6df1155c4
+A	fonts/libricons.md	925f8f53aa4ea1ca2741ec2250b1aee6
+A	fonts/libricons.ttf	a03b8925b8a1f81fcf8cb040056ebb78
+A	fonts/libricons.woff	73ec31d378fd9a900a8e82e45bd727e6
+A	fonts/libricons.woff2	6377c041436c83794efa0e21f5a0b5f5
+A	js/base.js	a06ca0f82d8a7d2aeb9602850e5e2cbb
+A	js/icon_load.js	a9c4eda1206a020942b8f092c47dd836
+A	package.json	0217db7c98d65572aa87386ffc48e186
+A	src/Form/ToolbarThemesSettingsForm.php	e2e1ce42134c4ceee8ba83bdd9d29755
+A	templates/toolbar-themes--menu.html.twig	71f855a3d6f585eea37eb39219067bc5
+A	templates/toolbar-themes--toolbar.html.twig	9ecac7eeabf2752e3997dd16f775d586
+A	themes/admin_menu/_variables.scss	2d10a21c20e5001c78ebf81345a19053
+A	themes/admin_menu/admin_menu_icons.css	3a901529a139dbe217cf8ed7dcf5bf04
+A	themes/admin_menu/admin_menu_icons.css.map	135eda2b0c3364a1b305c46870d22b46
+A	themes/admin_menu/admin_menu_icons.scss	5e1bd2367afd817cc880b95550ab5298
+A	themes/admin_menu/admin_menu_theme.css	e44a850708864e00ec52d4c47bf1855a
+A	themes/admin_menu/admin_menu_theme.css.map	03b1ec828d40b4bd9fa386a8413c5068
+A	themes/admin_menu/admin_menu_theme.scss	416fe0d3a89482667c08c182df0a81cb
+A	themes/admin_menu/screenshot.png	24910d9903ecabf48e69cc609d93b84e
+A	themes/base/base_handles.css	de090022481769bbdd29b6b5fb32de09
+A	themes/base/base_handles.css.map	70f0357904d6f53d2f2256ad60cbdeca
+A	themes/base/base_handles.scss	2b6c65e80c0c37d92b9a8d38d77568f2
+A	themes/base/base_icons.css	a5bbd59a6fc5a6413709ad03dbf2c9ab
+A	themes/base/base_icons.css.map	2bdf07ccb3788c8a7ffea279a46db804
+A	themes/base/base_icons.scss	6ab8838985fa0a7a2049f3d47d335b6f
+A	themes/base/base_module.css	b2a09e3e00db7a6364f9ef9b9f51eb67
+A	themes/base/base_module.css.map	9d102bdd2c12f6d5d6bd8244e55bf073
+A	themes/base/base_module.scss	694da69d03dce6f215ec860710af91b1
+A	themes/base/base_theme.css	46989a79fe41ca02770160b615f4a77f
+A	themes/base/base_theme.css.map	042bbd7d9f6c7eab75e501af36451394
+A	themes/base/base_theme.scss	efdeb31ec9b71fc056347c759793d7b6
+A	themes/mini/mini_icons.css	0ec0d9814ffb226b49184f120704b93b
+A	themes/mini/mini_icons.css.map	77b6946708469951b9b29d035a07633d
+A	themes/mini/mini_icons.scss	d0583b24e53664b89c0120bb2baebdb0
+A	themes/mini/mini_theme.css	e29b19bf8f67528b4492376b613cb8ba
+A	themes/mini/mini_theme.css.map	335be55558d2c55004323e9b412ae059
+A	themes/mini/mini_theme.scss	b9a4a275924ec579aada8a975b958cdd
+A	themes/mini/screenshot.png	6ce84da1a865f9dee5b0b3d68275eac6
+A	themes/seven/_variables.scss	64ea4a327b5d9d1bb15cb8486dd4047c
+A	themes/seven/screenshot.png	ac701ffd5c343186a02137b0e2844a0f
+A	themes/seven/seven_icons.css	1cdc6485a8f224834702031747e173bf
+A	themes/seven/seven_icons.css.map	c678a3f110dc9b045d77bc78db7505b5
+A	themes/seven/seven_icons.scss	ddd6cd96be290a28ff59c772b88044b1
+A	themes/seven/seven_theme.css	e1fc70bffea4f8dd6d06a60accc46ca2
+A	themes/seven/seven_theme.css.map	9a74b148707930d42f66246adcb525c2
+A	themes/seven/seven_theme.scss	c2e884955cbc10a77b55ac3bcfa307d3
+A	toolbar_themes.info.yml	b1d154e05a8d0ba8b932ca9e0521954b
+A	toolbar_themes.libraries.yml	80d77078e6c8f70fe7ef8883bfe4b945
+A	toolbar_themes.links.menu.yml	8633556f2fb3899579ae49b52b594eaf
+A	toolbar_themes.module	73617ef8aa74091a89874af664bb6739
+A	toolbar_themes.routing.yml	344f7aefc3bb9b9f7c1c06b7adfadf9d
+A	toolbar_themes.toolbar_themes.yml	d6a139e996304c01a6d8cd1c3fac3d57

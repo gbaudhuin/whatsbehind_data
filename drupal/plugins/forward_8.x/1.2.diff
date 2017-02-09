@@ -1,6 +1,0 @@
-A	config/install/views.view.forward_logs.yml	aec6f4ebcd1892d63b90e8d7390839bf
-A	config/install/views.view.forward_statistics.yml	cb6745d5fd992dfbf79dc70ccedb1ec4
-M	forward.info.yml	66e44ba1e3b8e428d334ef02618f60db
-M	forward.install	0e7746d3d4ebe5d390ca9d324bc6d97a
-A	forward.views.inc	5cb30e657551186389cbdb79c6be6195
-M	src/Form/ForwardForm.php	44fd9ef5d895c64897a6c63862026742

@@ -1,11 +1,2 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	a649f0cc6cbe0ddebf7193b7d6d7ffa7
-A	modules/quizzler_multi/quizzler_multi.info	66dc5392a2ed97cd624db1cd7da8a45f
-A	modules/quizzler_multi/quizzler_multi.install	b1a61b09c6191ddf2d217de8f637d5d9
-A	modules/quizzler_multi/quizzler_multi.module	877a55c9eca752521e4861205f211451
-A	quizzler.api.php	609d84191b3a223e87302c7b7d39a1b2
-A	quizzler.info	88d06678f6a63552ce0e23955ae84a07
-A	quizzler.install	81e1ceac3d70fce91a9c7e6d4ee08642
-A	quizzler.module	3d1f724f4c32e1a31997b745fa551f66
-A	templates/quizzler-results.tpl.php	02182ec682623ca899f260eba6e5dd51
-A	templates/quizzler-stats.tpl.php	98f7558ac6f2e299b8a08a8083b9871c
+M	modules/quizzler_multi/quizzler_multi.info	66dc5392a2ed97cd624db1cd7da8a45f
+M	quizzler.info	88d06678f6a63552ce0e23955ae84a07

@@ -116,8 +116,12 @@ M	uc_stock/uc_stock.module	9b5f173afc09a8e57cc0cc1ff3564040
 M	uc_stock/views/uc_stock_views_handler_filter_below_threshold.inc	9cfb7cf58e7282842dd2149c4f3b9ad8
 M	uc_store/countries/aruba_533_1.cif	5b1adf1b0831eae501445e2f1d34b7f8
 M	uc_store/countries/bahrain_48_3.cif	f2b6280bbf69ce47d1a65a99d2bf0e05
+D	uc_store/countries/brunei_darussalam_96_2.cif	
+A	uc_store/countries/brunei_darussalam_96_3.cif	cd2535bfaca0573493ef0b90e68a3997
 D	uc_store/countries/denmark_208_1.cif	
 A	uc_store/countries/denmark_208_2.cif	d058f5e633f344ba4a4d4a4c8c1d40a6
+D	uc_store/countries/falkland_islands_238_1.cif	
+A	uc_store/countries/falkland_islands_238_2.cif	28ca53d76f50d7105a31c3d758ef92a0
 M	uc_store/countries/gibraltar_292_1.cif	8296ecd7b93ec3080b188878f457f328
 M	uc_store/countries/guam_316_1.cif	f9580a9811b467224a0ec354a4f00e1c
 M	uc_store/countries/indonesia_360_1.cif	1aeac57587b1a8546822c65d0957f2ca
@@ -125,6 +129,10 @@ M	uc_store/countries/iran_364_2.cif	42a4fca569c25796d6ee214a171f6ad5
 M	uc_store/countries/isle_of_man_833_1.cif	e6daf421a417ea738a54a5018ea1f238
 D	uc_store/countries/jamaica_388_1.cif	
 A	uc_store/countries/jamaica_388_2.cif	f86055eb70185e34f4be7b1c204fa538
+D	uc_store/countries/korea_democratic_peoples_republic_of_408_1.cif	
+A	uc_store/countries/korea_democratic_peoples_republic_of_408_2.cif	959c84b61dc6a649b21ff705a5b8d94c
+D	uc_store/countries/libya_434_1.cif	
+A	uc_store/countries/libya_434_2.cif	55f6e0c684684098d8f20c97ab607beb
 M	uc_store/countries/macao_446_1.cif	54d882f680290e5e89b68f12f20616a0
 M	uc_store/countries/monaco_492_1.cif	428c885373a3d71cfd37fbffbbb621e9
 M	uc_store/countries/new_caledonia_540_1.cif	ad4697168ac638558a4c9efce5c91eec
@@ -133,10 +141,18 @@ M	uc_store/countries/oman_512_1.cif	8156c899eff44d013d96f5820675ed11
 M	uc_store/countries/portugal_620_1.cif	4b3e6c43512dc49a9f8c0ebb4f4bd02b
 M	uc_store/countries/puerto_rico_630_1.cif	bf485e4df7a83aa0c3483c602878bd34
 M	uc_store/countries/romania_642_2.cif	5bf9a0cef5589b8ad43f1b33de074480
+D	uc_store/countries/saint_barthelemy_652_1.cif	
+A	uc_store/countries/saint_barthelemy_652_2.cif	7ee74addee65603cdca70792e9817672
 D	uc_store/countries/singapore_702_1.cif	
 A	uc_store/countries/singapore_702_2.cif	2b540562592a3b83fc131a035661889e
+D	uc_store/countries/taiwan_158_1.cif	
+A	uc_store/countries/taiwan_158_2.cif	e8e41129d66a6ebb845bfd18a78a8d00
+D	uc_store/countries/tanzania_834_1.cif	
+A	uc_store/countries/tanzania_834_2.cif	9baf168c418c8a456cf488aa7ba803f2
 D	uc_store/countries/turkey_792_2.cif	
 A	uc_store/countries/turkey_792_3.cif	8ae485c5d9d88b8fa0d4d6df1a25ebdd
+D	uc_store/countries/vietnam_704_1.cif	
+A	uc_store/countries/vietnam_704_2.cif	c2fa354a16498153d9c6b0c9bced9a5d
 M	uc_store/countries/virgin_islands_british_92_1.cif	bbd6fc4174a291327fe8424f00950978
 M	uc_store/countries/virgin_islands_us_850_1.cif	cf79346e9fdb241602d56ddabc9e1704
 M	uc_store/includes/summaries.inc	4ec6ddba3086fa77384f3ef328c9aeb9

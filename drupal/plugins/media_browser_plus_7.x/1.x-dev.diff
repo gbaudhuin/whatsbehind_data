@@ -1,4 +1,4 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	README	beedf956bc942839a94de48835de51bc
 A	css/colorbox.css	c90acc38da0bf5b9335c88719228b2c5
 A	css/jquery.jscrollpane.css	398966c874f9cf4594be2fe9ce57b2b4
@@ -24,6 +24,6 @@ A	js/media_browser_plus.admin.menu.js	d2c6c6cc27ed2be4df5246b4fe9b7f30
 A	js/media_browser_plus.filter.js	e3605dd8866de5b69748a17094da1c12
 A	js/media_browser_plus.library.js	03bc3630a7d08ac65ce9538212f4baa4
 A	js/mwheelIntent.js	6d928395e24c20099ed709b63ce578e8
-A	media_browser_plus.info	9caf0a4b22514f2a867289f5e404d94e
-A	media_browser_plus.install	81352b572ce673bd1d8a367540866c7d
-A	media_browser_plus.module	ff09cbfc5f1ddfc8c6da42abf3cedd37
+M	media_browser_plus.info	9caf0a4b22514f2a867289f5e404d94e
+M	media_browser_plus.install	81352b572ce673bd1d8a367540866c7d
+M	media_browser_plus.module	ff09cbfc5f1ddfc8c6da42abf3cedd37

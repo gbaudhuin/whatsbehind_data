@@ -96,6 +96,7 @@ M	includes/convert.inc	39723c31c238e343c56d863a3aac7d7f
 M	includes/form.inc	a96a99b97c3d55e8236a713aa56735c3
 M	includes/handlers.inc	b22061c5f64d30afb2570514e29b9397
 M	includes/plugins.inc	62f76b03dc78f397c162f8333dafdfe6
+D	includes/query.inc	
 M	includes/tabs.inc	2a6a2fea8f39459b29d234488e5cd878
 M	includes/view.inc	9aa3851eb39e9b60dab8ab58aa6975d2
 M	js/ajax.js	4adeb9b108de78ed942f8eb3193a561f
@@ -271,6 +272,7 @@ M	plugins/views_plugin_display_default.inc	21b8d4406206ad9021cd10531c322369
 M	plugins/views_plugin_display_feed.inc	a309f32c3ca5b83f346238ab128332c7
 M	plugins/views_plugin_display_page.inc	dcfaf7084e36383f770f30834ad60c1f
 A	plugins/views_plugin_query.inc	b6b0b35324f5e26d58372ae26da6d0b3
+A	plugins/views_plugin_query_default.inc	750787741778e24e6a02e4a283669b5e
 M	plugins/views_plugin_row.inc	1e68749313cfbc2711ba63fb0948a552
 M	plugins/views_plugin_row_fields.inc	c84671234dfbcb19d865a51608043415
 M	plugins/views_plugin_style.inc	0287288ea09ecf5672d75fe7bb7aa00b
