@@ -395,6 +395,8 @@ M	wp-includes/js/mediaelement/flashmediaelement.swf	42c6680f8035fc10855ee2e559c9
 M	wp-includes/js/mediaelement/mediaelement-and-player.min.js	53972f85761d00c950a6554b55f46f29
 M	wp-includes/js/mediaelement/wp-mediaelement.js	1d889c99f04a39573d4be5b346c6272f
 M	wp-includes/js/mediaelement/wp-playlist.js	7093628e525e5041c3684e5e4c0a6406
+M	wp-includes/js/plupload/handlers.js	c9d857501549cabf90a9c546f0556729
+M	wp-includes/js/plupload/handlers.min.js	813ceb60612a365924d271704d03d95c
 M	wp-includes/js/plupload/plupload.flash.swf	f14859fd400ef63a7a8568986d58a756
 M	wp-includes/js/tinymce/plugins/charmap/plugin.js	8a7931011935fc826805265b3228c616
 M	wp-includes/js/tinymce/plugins/charmap/plugin.min.js	3231e7edd451f1950c2a856e68950399
