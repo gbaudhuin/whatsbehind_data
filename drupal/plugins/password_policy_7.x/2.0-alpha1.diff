@@ -22,6 +22,7 @@ A	includes/PasswordPolicyCondition.inc	88512a4c2a793e8917bb7a42287925c4
 A	includes/PasswordPolicyConstraint.inc	663fa1ef2dc13936ebeb1fba05d01ca9
 A	includes/PasswordPolicyItem.inc	36cd50b254dc44e2fe1ae1cc13f79f08
 D	password_policy.admin.inc	
+D	password_policy.features.inc	
 M	password_policy.info	349251e4687623120ccadd5cb5939624
 M	password_policy.install	ab0799214a09010f23bde0aa6e20259c
 A	password_policy.js	c2092d5e173ff02a452ea7c7cb418548
@@ -43,3 +44,5 @@ A	plugins/export_ui/password_policy.inc	6f668ee9b2d53ee7a540cc6cdade53ef
 A	plugins/item/expire.inc	1b0a8b150b3c77874237d516f6dbbe72
 D	tests/password_policy.test	
 D	tests/password_policy_expiration.test	
+D	tests/password_policy_test/password_policy_test.info	
+D	tests/password_policy_test/password_policy_test.module	

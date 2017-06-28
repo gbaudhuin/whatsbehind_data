@@ -1,4 +1,8 @@
-M	facebook_pull-feed.tpl.php	b7fdec928f6ef7f4fa4f4496b29d66a0
-M	facebook_pull.info	e3d5f73a3a321b645d3e00102023ec10
-M	facebook_pull.module	cc67671cd3c06bc4236a7e17cf596e0d
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	facebook_pull-feed.tpl.php	b7fdec928f6ef7f4fa4f4496b29d66a0
+A	facebook_pull-notes.tpl.php	29cfc7299141c357dd333a3e96ec105e
+A	facebook_pull.css	3a19a347ecf3aec5c915058a191a59f1
+A	facebook_pull.info	e3d5f73a3a321b645d3e00102023ec10
+A	facebook_pull.module	cc67671cd3c06bc4236a7e17cf596e0d
 A	impossible_to_get_configuration_page-2272193-2.patch	ec60b220fb27cf0b9a65338d41015687
+A	plugins/facebook_pull_box.inc	0757b37c7e2ae75ae3d0a8d020c857a9

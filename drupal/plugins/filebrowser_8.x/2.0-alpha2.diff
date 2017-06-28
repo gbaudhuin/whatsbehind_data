@@ -1,0 +1,5 @@
+M	config/install/filebrowser.settings.yml	c371b2625eb9690be7bc2cd51d294ee9
+M	filebrowser.info.yml	e14bd41e3c88d584204d2b7c75839b7d
+M	modules/filebrowser_extra.info.yml	0751ccbf6820d2003e697ce28ec5bdeb
+M	src/FilebrowserManager.php	65362100556418216e8f28efc10ebe1d
+M	src/Form/FilebrowserConfigForm.php	647225c76e30feb2486592b586b3c7ae

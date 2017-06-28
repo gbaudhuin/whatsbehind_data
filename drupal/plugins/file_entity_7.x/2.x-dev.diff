@@ -1,5 +1,2 @@
-M	file_entity.info	066a0d2ea72dec72382cb997d00698cc
-M	file_entity.test	57ca5d097d8a65ee5cd1f7b8af92dde5
-M	file_entity.theme.inc	9d85c720406168d2221e5e4f2cf440ec
-M	plugins/tasks/file_view.inc	d885397d16f271a620a0716060253468
-M	tests/file_entity_test.info	d712717416657bdf3a36455f3adf9639
+M	file_entity.info	f64dd6b95a8b7dcd24bf495d743eacd2
+M	tests/file_entity_test.info	9d3d528cfb8e99698d695fb50271a909

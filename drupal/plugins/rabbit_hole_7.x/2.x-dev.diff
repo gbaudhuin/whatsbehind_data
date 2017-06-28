@@ -1,7 +1,8 @@
-M	modules/rh_file/rh_file.info	e6e0ca0dfdbd7be008aa920c4804a7bc
-M	modules/rh_file/rh_file.module	c0f18c29680452bda09dbc37c3320851
-M	modules/rh_node/rh_node.info	3da9c2ea2faff8abaed1421caa2f1c47
-M	modules/rh_node/rh_node.module	748915f8b0217101435b731c95dfbb0a
-M	modules/rh_taxonomy/rh_taxonomy.info	48f886a77b516b6bab04b564168cfecd
-M	modules/rh_user/rh_user.info	310847d9a24549f0f4dc3a6be10b1b1b
-M	rabbit_hole.info	1b296cbbe3bbb2c05cf8139cb65b03ca
+M	modules/rh_bean/rh_bean.info	53548317e35eeeacd5c11da9a83177d4
+M	modules/rh_field_collection/rh_field_collection.info	afe7a32e55b1256211d99a74aa018acd
+M	modules/rh_file/rh_file.info	dabcbbbed08a08331f2993b2356fad31
+M	modules/rh_node/rh_node.info	c8c46ed748a2f31c1ceaa2b429faff44
+M	modules/rh_profile2/rh_profile2.info	2235d022fd13e6750bd8d29528d12852
+M	modules/rh_taxonomy/rh_taxonomy.info	b3b488021ed6e0fd23874221bc817dfd
+M	modules/rh_user/rh_user.info	496791e3382e1b19c8d0eb80d4c36603
+M	rabbit_hole.info	8658fa0cf6b47c88c2031c46f3448b5e

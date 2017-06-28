@@ -1,2 +1,4 @@
-M	modules/redirect_404/redirect_404.info.yml	17f4baeed95c1eeee98c0c77b0ac2da2
-M	redirect.info.yml	0916219840691bca1660ed51cc34db73
+M	modules/redirect_404/redirect_404.info.yml	1e7a7e3f6e76eba2702610a7813d6dca
+M	modules/redirect_domain/redirect_domain.info.yml	30b4378566d5cb2ce22e1b10b51ac00f
+M	redirect.info.yml	91b2081ff79f6a0b0382fa40164430f6
+M	src/Routing/RouteSubscriber.php	5ea4c3956693028ef84386bf3e102341

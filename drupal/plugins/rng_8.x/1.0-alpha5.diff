@@ -1,8 +1,0 @@
-M	rng.info.yml	d03ab567e074457c13deb87a69c135f0
-M	rng.module	a5e00cfb506bae89eccc94322afe6f28
-M	rng_debug/rng_debug.info.yml	a9aea1569d7c8d121b82c1aeaa41c4eb
-M	src/Breadcrumb/TemplateBreadcrumbBuilder.php	462aa5f372b97cb2c685deb5bc99eccb
-M	src/EventMeta.php	4fa8a9ab2f571824a32a5169fffae307
-M	src/Form/EventTypeForm.php	4debf6abb37d9f5d24947b8f081c1683
-M	src/Form/RegistrantSettingsForm.php	fd9380010bea80fbe4c5dc1660387926
-M	src/Plugin/Menu/LocalAction/ResetAccessRules.php	2a1bc0fe968317c42a7fd5227f112c23

@@ -1,0 +1,12 @@
+D	composer.json	
+M	src/Extension/LibraryDiscovery.php	2f53a892ebccb664a16a0cc421baa1ba
+M	src/StreamWrapper/ExtensionStreamBase.php	e2dd95d99a0e0b9bf491a0dad1c75437
+M	src/StreamWrapper/LibraryStream.php	58f0a2c9f7d034548ae4383ad7483db1
+M	src/StreamWrapper/LocalReadOnlyStream.php	0943e23fb681ec55259c0ad79c242113
+M	src/StreamWrapper/LocalStream.php	fd4af8a98d9a863d78748ac012eaf09e
+M	src/StreamWrapper/ModuleStream.php	694d926ae77b5f76894c1bb393caaa6a
+M	src/StreamWrapper/ProfileStream.php	3aea83fc7f09d123378869f2fd2f71a0
+M	src/StreamWrapper/StreamWrapperBase.php	c3eac5ec9703ea0de0b548dcc40f2332
+M	src/StreamWrapper/ThemeStream.php	7e5fe6f33946b15f019e3f7343bbbe71
+M	system_stream_wrapper.info.yml	c2bf7a83310fc4e444dfaf0bd1d73b63
+A	tests/src/Kernel/LibraryDiscoveryTest.php	29f72c2c57b55e0c4ef97a83402601bb

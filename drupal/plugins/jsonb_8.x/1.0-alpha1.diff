@@ -1,9 +1,0 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	config/schema/jsonb.schema.yml	73bb2432b7059d7c5dbc0671c4582e45
-A	jsonb.info.yml	2d50e82a5a9bcf29f10737a6e5837fa8
-A	jsonb.install	ca18528e588efdee07e0c49082ee76e5
-A	jsonb.module	3beefb00777a6bd04265b7d33c23efa9
-A	src/Plugin/Field/FieldFormatter/JsonbDefaultFormatter.php	93ebba225ae35e17d2fc9a6494187942
-A	src/Plugin/Field/FieldType/JsonItem.php	6e9148d369dd1470853f07f0cb7fb1ee
-A	src/Plugin/Field/FieldType/JsonbItem.php	21801b5a84b8c8f7d7e0f02275ac9896
-A	src/Plugin/Field/FieldWidget/JsonbWidget.php	6c16a392b875a3a15a6b70d8977a3c81

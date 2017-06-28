@@ -232,6 +232,7 @@ M	core/lib/Drupal/Core/Entity/ContentEntityForm.php	29b42846d9e83203bf6dbd5abf52
 M	core/lib/Drupal/Core/Entity/ContentEntityInterface.php	81f3701345c1c3cc254013d782b7ed9f
 M	core/lib/Drupal/Core/Entity/ContentEntityStorageBase.php	9cd5de81cf6356a76f2fc34aaee5a85c
 M	core/lib/Drupal/Core/Entity/Controller/EntityController.php	d717ba6f694414ba67f7f56340c48a4f
+M	core/lib/Drupal/Core/Entity/EntityAccessControlHandler.php	9399fae72a592b3ef9d87acf45a14e4e
 M	core/lib/Drupal/Core/Entity/EntityDisplayBase.php	1065f6c313efda64b43b6e977afa74ec
 M	core/lib/Drupal/Core/Entity/EntityFieldManager.php	afda7a93be7bd16bb80c5c51915ddf83
 M	core/lib/Drupal/Core/Entity/EntityForm.php	7da78b691904f13e8b9180f6723523f5
@@ -547,6 +548,7 @@ M	core/modules/dblog/tests/src/Kernel/Migrate/d6/MigrateDblogConfigsTest.php	bda
 M	core/modules/editor/editor.module	c742ebfe2d5b052198cadde641ceb7b1
 M	core/modules/editor/src/Plugin/EditorBase.php	83da892fee7db2463db5f003e697ec7e
 M	core/modules/editor/src/Plugin/EditorPluginInterface.php	f06dc002c0022845b44a266552887b33
+M	core/modules/editor/src/Tests/EditorPrivateFileReferenceFilterTest.php	472c327a78a6904db32dde846a56cc96
 M	core/modules/editor/tests/src/Kernel/EditorFileUsageTest.php	f46e8471738ca3d0792e52b88bb3771d
 A	core/modules/editor/tests/src/Unit/EditorBaseTest.php	1f7473efebec40015dcace9ccd537a1a
 M	core/modules/field/src/Entity/FieldConfig.php	b7000e9b1656258408807a7ee63f20fc
@@ -819,6 +821,9 @@ M	core/modules/rest/tests/src/Kernel/RequestHandlerTest.php	cbc7152e00484c0fc7cd
 D	core/modules/rest/tests/src/Kernel/RestLinkManagerTest.php	
 A	core/modules/rest/tests/src/Unit/EntityResourceValidationTraitTest.php	1700bd1cb1c06ea1a7943a952fd372f2
 A	core/modules/rest/tests/src/Unit/EventSubscriber/ResourceResponseSubscriberTest.php	827df9175503f58b449a5c480fabb1c3
+M	core/modules/search/search.routing.yml	3353d3dd1af645372f666536f17edaee
+M	core/modules/search/src/Form/SearchBlockForm.php	09dbf9ddac9f01f8d25e47374370b5be
+M	core/modules/search/src/Tests/SearchConfigSettingsFormTest.php	b4b7c2a450c3a593591c186bbdd09f49
 M	core/modules/search/tests/src/Kernel/Migrate/d6/MigrateSearchSettingsTest.php	c743a4cf0e9b5dc7155bbe253283d55c
 A	core/modules/serialization/config/install/serialization.settings.yml	226f86f49c98b3cb5b1d85d90b133ea1
 A	core/modules/serialization/config/schema/serialization.schema.yml	7044414efb0d292298a0ffdab4cc4f1d

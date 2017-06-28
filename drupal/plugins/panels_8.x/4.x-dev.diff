@@ -1,0 +1,13 @@
+M	panels.info.yml	383cf1dd3cc28913481e924a906f1710
+M	panels.module	77ecd26aff0cee227a6b217262f85939
+M	panels.services.yml	ec6f4ff22fb333ba38535cbf0e6ccf9f
+M	panels_ipe/css/panels_ipe.css	f68253ac0500ae50c6a86de0b8a754e6
+M	panels_ipe/js/views/LayoutPicker.js	3dd6ced86156ef67051b41212448f2bd
+M	panels_ipe/panels_ipe.info.yml	86ce54aee583506f0f2c310369b7a0cb
+M	panels_ipe/tests/modules/panels_ipe_page_manager_test_config/panels_ipe_page_manager_test_config.info.yml	6a02cff9ee707bcc3ee95a52d08b366c
+A	src/PanelsEvents.php	0f7dee7f52731cae5d9aec1b69ab3b97
+A	src/PanelsVariantEvent.php	e401c11755e05ac40a7e59663edcb9b7
+M	src/Storage/PanelsStorageBase.php	7b0ca8f56769bb52c31b163893cbd100
+M	src/Storage/PanelsStorageManager.php	5ed2b8e82a2f99260e80bdcf37e403e3
+M	tests/modules/panels_test/panels_test.info.yml	81a7ad901383530c7c4779c93a869f4b
+A	tests/src/Kernel/PanelsStorageManagerTest.php	f258262775d222db8c99a0e1c83c026c

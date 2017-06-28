@@ -1,9 +1,32 @@
-M	devel.info.yml	e6fe9a298c88f753cf0d902e0feb0d2a
-M	devel_generate/devel_generate.info.yml	be3992048907afa1a95fbcae32dccba6
-M	devel_generate/tests/modules/devel_generate_example/devel_generate_example.info.yml	67e0538b2f80460cb31ef1c1b5694c2c
-M	kint/kint.info.yml	0bbe8e9feaafc67ea0eadf3e92fa81d3
-M	tests/modules/devel_dumper_test/devel_dumper_test.info.yml	79be517eea42fe6df98f89d90f6ed434
-M	tests/modules/devel_entity_test/devel_entity_test.info.yml	67fa0acb93f550b63b43b3c53d43b169
-M	tests/modules/devel_test/devel_test.info.yml	f102210afc485be37ba51efc159de2f8
-M	webprofiler/webprofiler.info.yml	6293420af0c420b687453ba697ade0bc
-M	webprofiler/webprofiler.services.yml	8f0eda1cbdf683e706918419f8d12c04
+M	devel.info.yml	9804c240d6e0ebf9e60bd20eb445d6bb
+M	devel.install	69e33cca4b849f097f0573881135a829
+M	devel.module	5f08171a1dc9a935388211bf90af8630
+M	devel.routing.yml	a73a9f2267cecb4a79a1c48503d87f23
+M	devel_generate/devel_generate.info.yml	aeb620a62a2b1d60cfe53cc50d614493
+A	devel_generate/drush.services.yml	cd7eb874ebbcf670b2b349d8a0dc0a29
+D	devel_generate/drush/DevelGenerateUnishTest.php	
+D	devel_generate/drush/devel_generate.drush.inc	
+A	devel_generate/drush/devel_generate.drush8.inc	f76a63fcc20bbe7172c4fee50878216a
+A	devel_generate/src/Commands/DevelGenerateCommands.php	88bbf139127799f27af93ea5e25822be
+M	devel_generate/src/Plugin/DevelGenerate/ContentDevelGenerate.php	94f35706bdab07cccd5116c2b31e1802
+M	devel_generate/tests/modules/devel_generate_example/devel_generate_example.info.yml	9343685e697aa6bf089470469b7c5090
+A	drush.services.yml	af6d7c26cb743c04599cf8e7eaacb92e
+D	drush/devel.drush.inc	
+A	drush/devel.drush8.inc	b5c9b4468e72f6f2712e2613a466b3ff
+D	drush/phpstorm.drush.inc	
+M	kint/kint.info.yml	c591e71c0e444c80dfec3992f7cef7cb
+D	log.json	
+A	src/Commands/DevelCommands.php	44b45568c60b67efa20ab46fb93cb080
+A	src/Controller/LayoutInfoController.php	ee804a1fe98e807de5ade993120289b3
+M	src/DevelDumperBase.php	aaad6ca43fbb6740d18fdaad481edca1
+M	src/Form/ConfigEditor.php	b51729518e09a98fcfb0e878f72412e6
+M	src/Plugin/Devel/Dumper/DoctrineDebug.php	5872a16650bac6b64e07d5d029895930
+M	src/Plugin/Devel/Dumper/DrupalVariable.php	bdd89102d6f6fe72e387b66ed627c537
+A	src/Render/FilteredMarkup.php	81d0a8b397fb4df2f93d955eca9fd3b7
+M	tests/modules/devel_dumper_test/devel_dumper_test.info.yml	12a967ee77e473cb5bc8d91f92da5d05
+M	tests/modules/devel_entity_test/devel_entity_test.info.yml	4dbd08cb8d6eb0592e9979ea9bef7bd1
+M	tests/modules/devel_test/devel_test.info.yml	f4323531942d8947e6c527e7aae2d2f0
+A	tests/src/Functional/DevelLayoutInfoTest.php	74a03cd854acee50eabd0f03ae15857e
+M	tests/src/Functional/DevelRequirementsTest.php	8d6ada12648cae0a17946d054de88bff
+M	webprofiler/src/Entity/Decorators/Config/ShortcutSetStorageDecorator.php	826b1ef3ab60247857928b210921e140
+M	webprofiler/webprofiler.info.yml	95b4a9fc41cc0a1cd86f9df08c1fbbae

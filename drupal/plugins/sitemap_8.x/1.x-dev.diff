@@ -1,14 +1,1 @@
-M	sitemap.info.yml	4d9a4a1770913875252f2984cf211285
-M	src/Controller/SitemapController.php	3bf6d73d2d206163d005d590f1869763
-M	src/Form/SitemapSettingsForm.php	c2003c0f8d5d355c45030124d565c51b
-M	src/Menu/MenuLinkTree.php	606bf76dc7cc3bc4c59df8528ae53a25
-M	src/Plugin/Block/SitemapSyndicateBlock.php	e8cef65966fe6f876d4332f0f14ab957
-M	src/SitemapHelper.php	daeb42a0a2903b0f1a6201b922cd12c1
-M	src/SitemapServiceProvider.php	5b10bb14b3392f2ebf14342603406f71
-M	src/Tests/SitemapBookTest.php	efc11af978eb7cc2fc0cf5ba5a4e0925
-M	src/Tests/SitemapContentTest.php	c6d9a69395d72bfe4e2b4f99239f656c
-M	src/Tests/SitemapCssTest.php	b3c34e1867a477c1213d8e59d99abe1b
-M	src/Tests/SitemapMenuTest.php	0a96e80b971bff51fe8d84199beea0ae
-M	src/Tests/SitemapRssTest.php	216b4be1abd434262d8af2400ee2ad12
-M	src/Tests/SitemapTaxonomyTest.php	ea2ecfb4873cde1e8a0fb3687790fe12
-M	src/Tests/SitemapTestBase.php	16ec8b575a32cfd90f3e2a379b3dea85
+M	sitemap.info.yml	a9b71686978329ce5d9e1d13d0e1fc91

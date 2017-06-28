@@ -1,5 +1,2 @@
-M	image_widget_crop.info.yml	082afb22077cf46a3e6b84a058d086b3
-M	image_widget_crop.libraries.yml	7f817161a44ae39fa782cca4391f1009
-M	modules/image_widget_crop_examples/image_widget_crop_examples.info.yml	88e4892208284481e93274e70527c6d1
-M	src/ImageWidgetCropManager.php	939f9b30aae44a681838213e00277a8f
-M	src/Plugin/Field/FieldWidget/ImageCropWidget.php	f3a6d0d7d72149ed911b7178f2845818
+M	image_widget_crop.info.yml	be8a40bfe2eeb7e1b2ec98ad5a6f65f1
+M	modules/image_widget_crop_examples/image_widget_crop_examples.info.yml	fd7f20d15d1b6cbd580a40ab6bb8ea88

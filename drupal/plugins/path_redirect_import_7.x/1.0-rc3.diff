@@ -1,9 +1,0 @@
-M	path_redirect_import.info	3d79efa82d246f3cc55b0bd0d35f02ce
-M	path_redirect_import.module	2223677a9aca09d88ebfaa399d8a5db8
-A	tests/language_test.csv	cb7de1b10e95a7c1cbb4dd9570ea09df
-A	tests/language_test_language.csv	e93682a1a727c8cbcf2ea23ff10643f5
-A	tests/language_test_redirect.csv	bafee54632147236394d8c399cac2921
-A	tests/path_redirect_import.test	1251720eeaa2bdf81a81f3187920b005
-A	tests/test.csv	e48666ab53180f90f4587508dd9551b2
-A	tests/test_redirect.csv	b862acff9526f7b627d09a733c32e7d0
-A	tests/test_status.csv	67f5b8d74ac2586a728bc38b2dc70372

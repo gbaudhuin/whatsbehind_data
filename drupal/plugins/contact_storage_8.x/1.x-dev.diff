@@ -1,11 +1,12 @@
-M	config/schema/contact_storage.schema.yml	3a7061b0108202de160f2d5b2b650bb8
-M	contact_storage.info.yml	9d781ba0d76576ce0bdc1026040718bf
-M	contact_storage.install	bf431b8039be0b5015f5f71df1df35e6
-M	contact_storage.module	02482433f06daee2d404e57245e16507
-A	src/Plugin/Mail/HTMLTestingMailSystem.php	0db6fd38ed8471fea517bc622cc6fd85
-M	src/Tests/BulkFormTest.php	14dfd6974bb5619626ad640b668b1d8a
-A	src/Tests/ContactStoragePersonalTest.php	41ec6e996e8ef24b44fcdf39eeac1e57
-M	src/Tests/ContactStorageTest.php	3b67164b339e20c6fd6afec015abc3fb
-M	src/Tests/ContactStorageTestBase.php	4f7368e3ab385bd0ef3a560722293b74
-M	src/Tests/ContactViewBuilderTest.php	bd8e6a487a7bad230a9b7e3491dfe824
-M	tests/modules/contact_test_views/contact_test_views.info.yml	fa13f9c69914aee08420137343f663c7
+M	contact_storage.info.yml	deb044cdf5067377f9090da9d7a17707
+D	src/Tests/BulkFormTest.php	
+D	src/Tests/ContactStoragePersonalTest.php	
+D	src/Tests/ContactStorageTest.php	
+D	src/Tests/ContactStorageTestBase.php	
+D	src/Tests/ContactViewBuilderTest.php	
+M	tests/modules/contact_test_views/contact_test_views.info.yml	d4b66a3a29d64ba4efb00d8cbfb8a9ac
+A	tests/src/Functional/BulkFormTest.php	82302dc0b38cffe5bcf06132c559940e
+A	tests/src/Functional/ContactStoragePersonalTest.php	83bde69562414ffcb633ca493a85b4c0
+A	tests/src/Functional/ContactStorageTest.php	036a51468fb36d05b136496ea0a1a378
+A	tests/src/Functional/ContactStorageTestBase.php	0c2d28234ec04495cc24e1a71d2d6f34
+A	tests/src/Functional/ContactViewBuilderTest.php	2cd2b9499f616bdbf9dd1c2a7dd0f34a

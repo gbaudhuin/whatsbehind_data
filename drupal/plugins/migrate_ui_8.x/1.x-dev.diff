@@ -1,4 +1,0 @@
-M	migrate_ui.info.yml	2e0a4733afbaf789b8c288d73b29f6c3
-M	modules/migrate_ui_templates/migrate_ui_templates.info.yml	980fe9f937cdb9bc5200b0b68039975a
-M	modules/migrate_ui_templates/tests/migrate_ui_templates_test/migrate_ui_templates_test.info.yml	44ed8173bf2e6a62d1e6b63a74e514b0
-M	tests/migrate_ui_test_source/migrate_ui_test_source.info.yml	08cf740e8cc557837c5618bedb0c94cd

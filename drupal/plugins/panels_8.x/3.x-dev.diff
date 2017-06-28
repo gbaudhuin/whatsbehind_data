@@ -1,6 +1,0 @@
-M	i18n_panels/i18n_panels.info	154bfd64320db20d1fa2c3e799c2e3f4
-M	panels.info.yml	c89759596a8e9a09923d5f4cfbff812b
-M	panels_ipe/panels_ipe.info.yml	fe740b813ef25bfbf5bcedadcf135dd9
-M	panels_mini/panels_mini.info	274e9815c563b7e6e929d06e46a1d1f3
-M	src/Plugin/DisplayBuilder/StandardDisplayBuilder.php	2e2068795198f1977a3e57bd46a2cd4c
-M	tests/modules/panels_test/panels_test.info.yml	fe47f851e6fe93a3a4a6b33c8458414e

@@ -1,0 +1,5 @@
+M	flag_clear.info	64b22b109d67af557f0f4093765333ab
+M	flag_clear.module	2b1034660347328099586a2165b41778
+M	includes/views/flag_clear.views.inc	68961dc18ccfe9b0532ab69a2d071f34
+A	includes/views/flag_clear_handler_field_clear.inc	04295fe1d28bb08891da6a7115839148
+M	includes/views/flag_clear_handler_field_unflag.inc	0f51675db431bd180980f59fc0d4d4f3

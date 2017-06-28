@@ -1,0 +1,21 @@
+M	search_api_sorts.api.php	9268fd0eec9a08200ae3dfd92e112c43
+M	search_api_sorts.info.yml	9bd6922cc40b52096f6e6d9ead68bf81
+M	search_api_sorts.module	7d959dadc818ae41a6e9c25f228a2bc5
+M	src/Controller/AdminController.php	6c124a3d23325a02093ac30e68924424
+M	src/Form/ManageSortFieldsForm.php	c16fa96ecd4c74728f2e02893ff136fb
+M	src/Plugin/Block/SearchApiSortsBlock.php	f665f71d304bde37c5a207f2c1a0990e
+M	src/Plugin/Block/SearchApiSortsBlockDeriver.php	a18c5932cecc342a8e66d5bca393fe96
+M	src/SearchApiSortsManagerInterface.php	0b973ad3ce4520876e696f545416368e
+M	src/SortsField.php	af2fd2c3b119d7fa85c03ca3c5efa5a2
+D	src/Tests/HooksTest.php	
+D	src/Tests/IntegrationTest.php	
+M	templates/search-api-sorts-sort.html.twig	54803b171df8a841b955b4b4df004e73
+M	tests/search_api_sorts_test_hook/search_api_sorts_test_hook.info.yml	eb759ecbced9202ed7c0e1ba7a414898
+M	tests/search_api_sorts_test_hook/search_api_sorts_test_hook.module	e6014636510429bd89ba00fc47fcf139
+D	tests/search_api_sorts_test_views/config/install/views.view.search_api_sorts_test_view.yml	
+A	tests/search_api_sorts_test_views/config/install/views.view.search_api_test_view.yml	e0545f6a56e6b8dfa11f07190602f5aa
+M	tests/search_api_sorts_test_views/search_api_sorts_test_views.info.yml	46727b93a658885f4109d6bea44dc2b5
+A	tests/src/Functional/HooksTest.php	db047a7398f2aff63803eec5f936eb74
+A	tests/src/Functional/IntegrationTest.php	ad9d6c158e2b972eeccd661e2e6383be
+A	tests/src/Functional/SortsFunctionalBase.php	5a1a063879ac6aa921792cb0a2aa2fed
+M	tests/src/Unit/SortsFieldTest.php	ef0bb760f4d8125f585550cfcfbac6c6

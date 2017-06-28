@@ -1,0 +1,6 @@
+M	samlauth.info.yml	417669f5f1bbb5bbe8c92492ce1e9f7d
+M	samlauth.links.menu.yml	f44776a0c476a292f8d85ddabab3bb3b
+M	src/Controller/SamlController.php	300eb89da54ca715c261a15a708c5159
+M	src/Form/SamlauthConfigureForm.php	1429daaa8625a0b9a853e5a1a0344bb3
+A	src/Plugin/Menu/LoginLogoutMenuLink.php	219456a925868425ef4ee9e2067b7ff0
+M	src/Tests/SamlTest.php	083615a9a5c66028c017a607b3da674b

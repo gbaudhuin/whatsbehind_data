@@ -1,4 +1,7 @@
-M	legal.info	1e3a13f3046adf9e9319d6cff55001ad
-M	legal.module	b5fbb8b2535f26011d5f24e943b16b37
-A	legal.rules.inc	7e17c0715893b62c12f3708336b4ed5a
+D	.DS_Store	
+A	legal.api.php	a9b0b57c57aec740d4510ac54a7749bb
+M	legal.info	70eadcb6255a3a9e2235c05752c2d0e8
+M	legal.module	a06e8d4f9cbba477e4174ac0f7d72bd2
+A	legal.rules.inc	f22967c77303948eafef0e33141c1bdd
 M	legal.test	a230ca7aaa7188acb12bbbb0d3a41f0d
+D	views/.DS_Store	

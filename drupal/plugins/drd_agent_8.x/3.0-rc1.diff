@@ -1,0 +1,3 @@
+M	drd_agent.info.yml	b5138cc3b3bec28421f9669782dd7e30
+M	drd_agent.services.yml	0a68281a394fe56b8574c7d3227a5109
+A	src/Command/Setup.php	d1361ef9b5af7fa92fda218d2776b604

@@ -1,1 +1,3 @@
-M	login_disable.info	7ea6c91a7a82ec6662bf3538df808ee1
+M	login_disable.info	abacfde07e7aff8b5b9ae3767ad361de
+A	login_disable.install	300091569632b2bfb0ec6529b262febf
+M	login_disable.module	6a6f8343686ed40d5534b736d617b257

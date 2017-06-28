@@ -1,8 +1,1 @@
-A	.gitignore	95b55b1e3a304f4e340394a679893575
-M	README.txt	861abda78a442d06e2ecfd8d669ca300
-M	restui.info.yml	37f7c423928a0848938fe4df348cced3
-M	restui.module	15c999b720bcd2da847f4d344499240c
-M	src/Controller/RestUIController.php	c0079df59ac40d443752e997afc3fd91
-M	src/Form/RestUIForm.php	17e5ef17c41b7836d0b54bd3c395305c
-D	src/Tests/RestUITest.php	
-A	tests/src/Functional/RestUITest.php	246ffee4e4235e9d20dfd0c4bfce0048
+M	restui.info.yml	79a278f3feea9fb32fc3371eac07b875

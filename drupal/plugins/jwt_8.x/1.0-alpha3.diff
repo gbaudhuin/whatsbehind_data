@@ -1,0 +1,4 @@
+M	jwt.info.yml	3accd76430b88475c60007ea6d4962a9
+M	jwt.services.yml	5f04a9ed15fef1b5ca46f1d14a04c6fa
+M	modules/jwt_auth_consumer/jwt_auth_consumer.info.yml	3751e2755b81efd620c61e3f5f105c32
+M	modules/jwt_auth_issuer/jwt_auth_issuer.info.yml	a86c730d8f18c7d566c88ae9931617bf

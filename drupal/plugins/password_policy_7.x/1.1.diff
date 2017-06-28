@@ -1,5 +1,0 @@
-M	constraints/constraint_username.inc	156523f6f7ef0449dc0b72bbe06f46d7
-M	contrib/password_tab/password_policy_password_tab.info	de7010309e4968f32d33921c50ca477f
-M	password_policy.info	bb400111731fc5dc5a458e682a020e57
-M	password_policy.install	3b826bafa50001c6278d428ead604898
-M	tests/password_policy.test	7342c897ecb188b8f82cc9f5f23c2498

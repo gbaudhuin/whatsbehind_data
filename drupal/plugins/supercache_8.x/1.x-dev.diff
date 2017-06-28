@@ -1,9 +1,1 @@
-A	composer.json	c3b618209dfb85f6436ef6389166ddba
-M	src/Cache/ApcuRawBackend.php	d6964db5785cf436b8841109bf3196c3
-M	src/Cache/CacheInterface.php	d5a8a5197598c2d302bb2422f1197035
-M	src/Cache/CacheRawBackendInterface.php	d8c13b4d41dcffb9d4536590e55466f6
-M	src/Cache/ChainedFastBackend.php	3a824df2c9bc371315a24df67fd16de9
-M	src/Cache/ChainedFastRawBackend.php	5e8c79673e122187213d41d5acdb3a1b
-M	src/Tests/Cache/ApcuRawBackendGeneralTestCaseTrait.php	b5583096514295925513a878a3babd18
-M	supercache.info.yml	71f654891ee061925516a18f9367e043
-M	supercache.services.yml	a024c4e86a4855185bb3564d2b9bd05b
+M	supercache.info.yml	a9604b114c8d9ed25415e5319671c586

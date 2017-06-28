@@ -1,6 +1,7 @@
 D	.travis.yml	
 M	alias/hosting_alias.info	89091fcbbe03cd9b1d39fc8570326106
 M	alias/hosting_alias.module	e1cd0673588b7a5072255acdf6b8ecff
+M	client/hosting_client.access.inc	5d483ee41a54a20003a68dbc6cde4072
 M	client/hosting_client.info	06bbf9def09706ed299bb373c4ca7094
 M	client/hosting_client.module	41604b999d6155904d501b70bb72756c
 M	clone/hosting_clone.info	9f76b97af7fe3720236554709a08f7d4
@@ -26,12 +27,16 @@ M	hosting.module	d16f8d62fb49a9ce78b4589f3d52a6d3
 M	hosting.queues.inc	43c88ea4e4421fdccd25d3a1f5a07225
 M	migrate/hosting_migrate.batch.inc	77c68fcb7f7baa07b32bd3fd21c2f784
 M	migrate/hosting_migrate.info	aa3cd57003414e093b38f9a27b157f21
+M	migrate/hosting_migrate.module	8226721906ec1e55fcb7b57158d95db2
+M	package/hosting_package.drush.inc	e1e3eb188a16e921b1446b6e49680e2a
 M	package/hosting_package.info	d2336bc3de79e228933a0c9a95700e91
 M	package/hosting_package.instance.inc	270d2fcf8854611d2b86dd58be62e7b7
 M	package/hosting_package.module	5a7c51c3c7df36a65b5e4eabc94049f1
+M	pause.hosting.inc	a1ac52c27cbe206a1c931869d147b75d
 M	platform/hosting_platform.drush.inc	47e39b44dd191275864c3a37db12b2ae
 M	platform/hosting_platform.info	ef245dd1e93f7204e83e3f59a1355c9f
 M	platform/hosting_platform.module	de617305a3089b42439a4b6a65a3e7b4
+M	queued/hosting_queued.admin.inc	046a31f6177c9a46a59dc7024a0dba97
 M	queued/hosting_queued.drush.inc	3e4557e9cc069dba0455249a19fe8a4d
 M	queued/hosting_queued.info	f56cd8e72701813686a9d10c3bd1673a
 M	quota/hosting_quota.info	264bc8be93cb699dfb80cca021b83db7

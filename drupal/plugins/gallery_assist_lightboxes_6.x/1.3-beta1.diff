@@ -1,0 +1,9 @@
+M	gallery_assist_lightboxes.info	8e3d168b15ea4cfd638a7dc93777a313
+M	gallery_assist_lightboxes.module	7d155f50928f66802bf49f90dc4cc6fd
+M	gallery_assist_lightboxes_display.inc	1aec67f1a037722e9d961dae850d0614
+M	gallery_assist_lightboxes_list_display.inc	67bea4b2389057f0e75d4a6e6a605943
+M	js/gallery_assist.colorbox.selector.js	7947f2b779897cf88cda8591a0a5f4ab
+M	js/gallery_assist.fancybox.selector.js	be6ba52a43e2995b0b8bcbc790315428
+M	js/gallery_assist.interface.imagebox.selector.js	f16a0d74a53ab92ad5a8f68cf21d97b2
+M	js/gallery_assist.lightbox.selector.js	937c68412688f0b78524dd0b9670ceb2
+A	js/gallery_assist.lightwindow.selector.js	3131d16076520708789f46cab70d0742

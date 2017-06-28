@@ -1,7 +1,0 @@
-M	README.txt	e69707b740429ce6a645104a9edcd94c
-M	js/simple_social_icons.js	145afd14810155b4d59d9a80b9bbb878
-M	simple_social_icons.info.yml	bc6699a198c42a12bf4806c371441232
-M	simple_social_icons.libraries.yml	8be1f79e7aa9b693a650c5e7617a2670
-A	simple_social_icons.services.yml	d41d8cd98f00b204e9800998ecf8427e
-M	src/Plugin/Block/SimpleSocialIconsBlock.php	aa7cfc918f8fe388d3901dc65a22c38e
-M	styles/simple_social_icons.css	7248d06f2f36fd1f66ed840533c29f51

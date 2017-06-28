@@ -1,0 +1,7 @@
+M	README.md	fbad4bd13fabd44a00d2af754001267c
+M	bootstrap_layouts.info.yml	fabc591fa2ce077f3d6793b46314c9f8
+M	bootstrap_layouts.module	16cb52eeb8cfa3c8fe085265f2325ccd
+M	bootstrap_layouts.services.yml	cf98b15131e3e84c6de7a8c571a494e8
+M	src/BootstrapLayout.php	e5ae72ade90eafd1fd5cfd7aa0261cee
+M	src/BootstrapLayoutsManager.php	c74e4c55675d07852928fbaa5befb99c
+M	src/Plugin/Layout/BootstrapLayoutsBase.php	a7eb29862554ff68542b5d50af0ed9a1

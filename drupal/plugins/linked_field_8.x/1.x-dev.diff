@@ -1,7 +1,1 @@
-M	README.md	099b47f894cc06bd3b1244a5f42a9920
-M	linked_field.info.yml	d690e026a5f22772dd919bc1e7e00c72
-M	linked_field.module	8c74c459dd64d7c607c681945f127973
-A	linked_field.services.yml	a16815c98b9d40f780f1aee4b74d2236
-M	src/Form/ConfigForm.php	eccdc6917eeb28e5db93cdf81eca5b70
-A	src/LinkedFieldManager.php	fc084e7b0d9b9771e8351f3c5e67c28b
-A	src/LinkedFieldManagerInterface.php	cf1692ef0d0ad0d119fc3ae008f735b5
+M	linked_field.info.yml	00f526279e99a4e0ee264de87515385e

@@ -1,6 +1,2 @@
-M	README.txt	a8240f5366065de98b8e26608efbd858
-M	robots.txt	301f7ecc36e969e649a9152bc9e24172
-M	robotstxt.info	a9e26e870aca0f279ad5db6d3c72fe83
-A	robotstxt.test	175f99b645349b32072fd413eeae2f19
-A	tests/robotstxt_test.info	58f46d5efb8a96270765441fe1fd1879
-A	tests/robotstxt_test.module	903f4195dc2f1358587e952d25f4af49
+M	robotstxt.info	f903214ca69a7f1cdeff0fd412d6ca82
+M	tests/robotstxt_test.info	51ac048477f2ab3ba2e163c8da48d199

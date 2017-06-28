@@ -1,0 +1,5 @@
+M	asset_injector.info.yml	7ffe009ad2791c54b524bc671a2bdde1
+M	asset_injector.module	0fa403e9c2f415d3a6d9c13a236e26fb
+M	config/schema/asset_injector.schema.yml	4a880dda82eeea07675da545d649032d
+M	src/Entity/AssetInjectorJs.php	03ffda4253709b82cdf2ffc1ad111ffc
+M	src/Form/AssetInjectorJsForm.php	d206bbd6b176c0bb97684f74fdff2c83

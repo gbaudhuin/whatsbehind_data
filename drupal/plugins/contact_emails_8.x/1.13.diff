@@ -1,0 +1,42 @@
+D	config/install/contact_emails.ContactEmailDelete.yml	
+D	config/install/contact_emails.ContactEmailSettings.yml	
+M	contact_emails.info.yml	8cdbcc0ce8298bea9d259ae6d724ac3a
+M	contact_emails.install	d6a93d628cbd319863a5cc15a74e369b
+A	contact_emails.links.action.yml	9ed2081e6d74cd8fa32951efc6592397
+A	contact_emails.links.menu.yml	04f31ddc310882129bada2e4af8238c2
+M	contact_emails.links.task.yml	ac33ad319fc50aca881245e6f1c39044
+M	contact_emails.module	d843152d84643969529e07f691c3f52c
+M	contact_emails.routing.yml	22f84238fc2d03f5e03abc3a784691b8
+M	contact_emails.services.yml	867f98205f53246c040ac02482df0eb4
+A	src/ContactEmailListBuilder.php	79fac60baa0e0e53aceb239a04115a16
+A	src/ContactEmailStorage.php	e45029402674961cb0d192b26a2d3745
+A	src/ContactEmailStorageInterface.php	de8a8eb7604f9d17d1897d916f5a8324
+A	src/ContactEmailer.php	d27381c4dd79347823cb1e2fb4e83a2d
+D	src/ContactEmailerServiceProvider.php	
+M	src/ContactEmails.php	30c9456b8f8aace796bd6f4338667e15
+D	src/Controller/ContactEmailsController.php	
+A	src/Entity/ContactEmail.php	ef3b355c282fa425e1c3fde32da7d90f
+A	src/Entity/ContactEmailInterface.php	9ed89f3e26d85d8a356ee04655974979
+D	src/Form/ContactEmailDeleteForm.php	
+A	src/Form/ContactEmailForm.php	bb157eb2faab5ab26436d22b5bb5bf43
+D	src/Form/ContactEmailSettingsForm.php	
+A	src/Routing/RouteCallback.php	52c5b0203a4dd121c2118de1558ed3bc
+A	src/Routing/RouteSubscriber.php	88cdde6d5c53a1ac8f36beee2a8cb74d
+A	src/Tests/ContactEmailsDefaultEmailTest.php	a24a5da71b1f19c8a6f97ffd93e5c4ff
+A	src/Tests/ContactEmailsRecipientReferenceTest.php	d48e8a6f098730417af6ebb772d6eecf
+A	src/Tests/ContactEmailsRecipientTest.php	49898da1a6cec5e152774ab17928f234
+A	src/Tests/ContactEmailsReplyToReferenceTest.php	60d9b37b41fb06719f2c3589fb68f1ea
+A	src/Tests/ContactEmailsReplyToTest.php	c40e123fb74e1e1a09baa23d1aca1649
+A	src/Tests/ContactEmailsTestBase.php	b68494275e6f74d4a1b72da60d4790f0
+A	src/Tests/Update/ContactEmailsTableToEntityUpdateTest.php	f48bfa03dde3fb6f967703c0536604ca
+A	tests/fixtures/update/drupal-8.filled.standard.php.gz	44957a11bc634e307734abee7aa678a2
+A	tests/modules/contact_emails_test_mail_alter/contact_emails_test_mail_alter.info.yml	b472fb07bb1ea5f4e11522aefe636d60
+A	tests/modules/contact_emails_test_mail_alter/contact_emails_test_mail_alter.module	aa802e853be663db84ad5a0b98f85d36
+A	vendor/autoload.php	287ccd172c06045d1d0120cd627f3728
+A	vendor/composer/ClassLoader.php	bf6c4758ae060fd8f3e3a88e6c24ac3c
+A	vendor/composer/LICENSE	9b01fc9e0129adc080344653fbcbbc0f
+A	vendor/composer/autoload_classmap.php	8645d3a4e3ad87e7cf4d88a46717aab4
+A	vendor/composer/autoload_namespaces.php	35e12c7d76c4a81633bcf547c0e229a9
+A	vendor/composer/autoload_psr4.php	dd3a00f0d13eb29781edd8c77d4c5100
+A	vendor/composer/autoload_real.php	d73bc202d2003d9a0b454301e6668790
+A	vendor/composer/autoload_static.php	2ce1ff86ec3da8659b6eab03c8a459ac

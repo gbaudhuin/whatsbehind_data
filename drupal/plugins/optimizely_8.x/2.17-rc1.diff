@@ -1,0 +1,6 @@
+M	optimizely.info.yml	f603a100e9b714198d598c7c1730b926
+M	optimizely.module	78805136a2b783f91154ae369be056bf
+M	release-notes.txt	839ba568bbf4b914ee3291af9c8edb2e
+M	src/Tests/OptimizelyAliasIncludeSnippetTest.php	d003a6f6e76319ba50a0904a2ac91fe7
+M	src/Tests/OptimizelyIncludeSnippetTest.php	311c2a1c6dd0f797d15237f10ad6b051
+M	src/Tests/OptimizelyPageSnippetTest.php	fb020c86e0f58fbad069c29126c5599a

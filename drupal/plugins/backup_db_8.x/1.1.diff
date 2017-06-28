@@ -1,0 +1,19 @@
+M	README.md	8cfee058e862eaacc3e46de14d7f73f2
+M	backup_db.info.yml	a8791c10549ad20d136d3ed63bfeff95
+M	backup_db.module	8f2c6a96e77ae24910421aeeddf299b1
+A	backup_db.services.yml	83a4d11e6af39ac7edc8a6b25f01641c
+A	src/Adapter/BackupDatabaseAdapterInterface.php	900b1ac47d97e71f5f9b4164dc74f31e
+A	src/Adapter/BackupDatabaseLocalAdapter.php	6a78870092aa67e91f838d55b2b5432b
+A	src/Adapter/BackupDatabaseRemoteAdapter.php	bdb30cbce521f2feabcf8aeb05d9420d
+A	src/Adapter/BackupDatabaseS3Adapter.php	5983d36c4f06e9618a797cbab7ffaa14
+D	src/BackupDatabase.php	
+A	src/BackupDatabaseClient.php	9f8a368595d5f5a6debb17b11bcdadca
+A	src/BackupDatabaseClientInterface.php	10f4f920a6e66f1c1ff67978588c8e15
+A	src/BackupDatabaseFile.php	4902ad183692965cccf802561a543fda
+A	src/BackupDatabaseFileHandler.php	806a651d7391ca76a70c7c7d2790a040
+D	src/BackupDatabaseLocal.php	
+D	src/BackupDatabaseRemote.php	
+M	src/Form/BackupDatabaseForm.php	94d0dfcf6940557871edb798a3f615c1
+M	src/Form/BackupDatabaseTablesForm.php	6a38d3e799c89d51e0694455577c6373
+A	tests/src/Unit/BackupDatabaseAdapterTest.php	5bb11f0299362ddcd34dfa214d594faa
+A	tests/src/Unit/BackupDatabaseClientTest.php	702eb41430f1a402789675dd7d590b8f

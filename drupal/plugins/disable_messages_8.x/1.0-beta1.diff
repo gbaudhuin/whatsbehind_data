@@ -1,0 +1,11 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	789fb68b256fe07f0f9158c8ec5131a9
+A	config/install/disable_messages.settings.yml	8652c8243b0556b21d55e9139570b958
+A	config/schema/disable_messages.settings.yml	fedb9871ffeeabb97d4a7455dd3b6e22
+A	disable_messages.info.yml	6a96fb6d8167b05d8486654ace5a41ea
+A	disable_messages.install	e9b9f05df2b3ef113290b8bd8de4c861
+A	disable_messages.links.menu.yml	d2295357bf880f5d6f9f03c8952109fe
+A	disable_messages.module	54dae72274575eec1ef37264e5fa7fd4
+A	disable_messages.permissions.yml	43b9adc0aaed41d92df927a74e6e6352
+A	disable_messages.routing.yml	d11dcbe988fb213cb400a35dd1c7e9cc
+A	src/Form/DisableMessagesSettingsForm.php	0d06bdb5d0e5eff99254f831d92f0362

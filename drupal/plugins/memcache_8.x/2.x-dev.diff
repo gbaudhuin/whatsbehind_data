@@ -1,4 +1,8 @@
-M	memcache.info.yml	f51431628fc1b5f71b8d6109b89787ed
-M	src/DrupalMemcacheBase.php	1240bce973ed1484f9370e222fc76910
-M	src/DrupalMemcached.php	06687eeb840034e876ffba78348e429d
-M	tests/modules/memcache_test/memcache_test.info.yml	9bc7cf9bcb390b2d49a094f1e1e3e7a3
+M	memcache.info.yml	0c10f23eb181ecbcfd70394d3be9ae03
+D	memcache.module	
+M	memcache.services.yml	d67122972a5a7733fbcf0f8f4d1e5001
+M	src/DrupalMemcache.php	9864c8b3595cfeabeaabf3c79b4cd2ab
+M	src/DrupalMemcacheBase.php	724c2b8f86f27ebbd2ce69dfc98f8003
+M	src/DrupalMemcacheFactory.php	2968bd5de3ad87e0f327ed58db1bba42
+M	src/DrupalMemcached.php	89b32577098623110a42f1d1348f98b1
+M	tests/modules/memcache_test/memcache_test.info.yml	51f95a65bcca181c6b374ff4a9590835

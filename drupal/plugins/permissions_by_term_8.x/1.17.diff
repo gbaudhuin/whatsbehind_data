@@ -1,0 +1,29 @@
+M	permissions_by_term.info.yml	52ef91d310ced95bda3806c66fc54bf2
+M	permissions_by_term.install	0fdc3b6ab912cbf11bf15ce3897ab6a6
+M	permissions_by_term.module	32c51e7d428a54e69ba2b58b5ef7c1b7
+M	src/AccessStorage.php	37aeecf0fdec08ff8141664469d4f669
+D	tests/codeception/README.md	
+D	tests/codeception/codeception.yml	
+D	tests/codeception/tests/_bootstrap.php	
+D	tests/codeception/tests/_data/dump.sql	
+D	tests/codeception/tests/_support/AcceptanceTester.php	
+D	tests/codeception/tests/_support/FunctionalTester.php	
+D	tests/codeception/tests/_support/Helper/Acceptance.php	
+D	tests/codeception/tests/_support/Helper/Functional.php	
+D	tests/codeception/tests/_support/Helper/Unit.php	
+D	tests/codeception/tests/_support/UnitTester.php	
+D	tests/codeception/tests/_support/_generated/AcceptanceTesterActions.php	
+D	tests/codeception/tests/_support/_generated/FunctionalTesterActions.php	
+D	tests/codeception/tests/_support/_generated/UnitTesterActions.php	
+D	tests/codeception/tests/acceptance.suite.yml	
+D	tests/codeception/tests/acceptance/AccessRemovalOneTermCept.php	
+D	tests/codeception/tests/acceptance/AddDeleteEditNodeCept.php	
+D	tests/codeception/tests/acceptance/RestrictNodeCept.php	
+D	tests/codeception/tests/acceptance/RestrictTermAccessFormCept.php	
+D	tests/codeception/tests/acceptance/TermPermissionsEditCept.php	
+D	tests/codeception/tests/acceptance/_bootstrap.php	
+D	tests/codeception/tests/functional.suite.yml	
+D	tests/codeception/tests/functional/_bootstrap.php	
+D	tests/codeception/tests/unit.suite.yml	
+D	tests/codeception/tests/unit/_bootstrap.php	
+D	tests/src/Kernel/SelectTermTest.php	

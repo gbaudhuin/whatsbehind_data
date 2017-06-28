@@ -1,0 +1,13 @@
+M	API.txt	c6c90fc52389c988e433945b16942423
+M	CHANGELOG.txt	683bed31ff4f49851b5c455d5643a9c3
+M	README.txt	ce131e1fea3a17eeb138c2e19e7415ba
+M	aes.info.yml	7a7e0ece737b2e02a776c253f04f4bdf
+M	aes.install	a1c199390c0ee54200358d10d602ffb7
+M	aes.module	f840d274ec06115412a911c1a1506996
+A	aes.services.yml	e688c5fd494034d4bb74b1ffa01e6ac2
+A	src/AES.php	0da5a7dddb0020935e77331459a3295e
+A	src/Annotation/Cryptor.php	3ec103493bcd16f8efeab06c99713216
+M	src/Form/AesAdminForm.php	e7175837b0ff9e4ccde8b87092760726
+A	src/Plugin/AES/Reverse.php	423f4e5e07b9d9c68b6d1f5e040b4e7d
+A	src/Plugin/AESPluginBase.php	bdc12f72ddfa8f0f4c418cf614a07e0a
+A	src/Plugin/AESPluginManager.php	2f9aeda442403696d188f149c98f9702

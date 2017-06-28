@@ -1,9 +1,0 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	2b5c52550b5cdaeea662fef80ac9410c
-M	ie6update.info	2106ac9f22b3d28cd065c1ea5abb4861
-A	ie6update.install	c3d6f9cdbe8b26d46966f01167527ee8
-M	ie6update.js	14cb045e8fb3b222eb430487a3b73a99
-M	ie6update.module	d18fd4a2559038eab8cae09a611c98ac
-D	translations/fr.po	
-D	translations/ie6update.pot	
-D	translations/it.po	

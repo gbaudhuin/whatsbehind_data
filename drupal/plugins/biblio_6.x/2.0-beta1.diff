@@ -1,0 +1,223 @@
+M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
+M	README.txt	6b3e2ae6ffc33f11e555c51540cf3665
+D	arrow-asc.png	
+D	arrow-desc.png	
+D	biblio.admin.inc	
+D	biblio.contributors.inc	
+M	biblio.css	158ee2cb47b86a1839b09cf5be8db63c
+D	biblio.field.link.data.csv	
+D	biblio.field.type.data.csv	
+D	biblio.import.export.inc	
+M	biblio.info	dcb49a8512215ee6ba848952dd71ec71
+M	biblio.install	6c8af213e67459f9d444e1b960f84f4d
+D	biblio.keywords.inc	
+M	biblio.module	7e367c12776db126aecf51d03acfd818
+D	biblio.pages.inc	
+D	biblio.type.mapper.inc	
+D	biblio.views.inc	
+D	biblio.views_default.inc	
+D	biblio_style_ama.inc	
+D	biblio_style_apa.inc	
+D	biblio_style_chicago.inc	
+D	biblio_style_classic.inc	
+D	biblio_style_cse.inc	
+D	biblio_style_ieee.inc	
+D	biblio_style_mla.inc	
+D	biblio_style_vancouver.inc	
+D	biblio_theme.inc	
+D	biblio_xml.inc	
+D	bibtexParse/CHANGELOG	
+D	bibtexParse/LICENSE	
+D	bibtexParse/PARSECREATORS.php	
+D	bibtexParse/PARSEENTRIES.php	
+D	bibtexParse/PARSEMONTH.php	
+D	bibtexParse/PARSEPAGE.php	
+D	bibtexParse/README	
+D	bibtexParse/bib.bib	
+D	bibtexParse/transtab_latex_unicode.inc.php	
+D	bibtexParse/transtab_unicode_bibtex.inc.php	
+M	changelog.html	69014af4f30efa9e5ef802567b8b613c
+D	class_rtf.php	
+D	crossref_unixref_parser.inc	
+D	endnote7_export.inc	
+D	endnote7_parser.inc	
+D	endnote8_export.inc	
+D	endnote8_parser.inc	
+A	help/about-admin.html	44617fbf7b83c14afdd8f06d772c5c9e
+A	help/biblio-admin.html	94c20ff8c40759ff90e60a5f1a888919
+A	help/biblio.help.ini	3e343878eb563097060e96f9a09bba00
+A	includes/biblio.admin.inc	0befccfb801e455a108f0155baafd521
+A	includes/biblio.contributors.inc	46ae81b290009804ec91d86836237492
+A	includes/biblio.import.export.inc	8e2b4ec1d57cf6a3cbd72e2f3c4bd048
+A	includes/biblio.keywords.inc	f1363205401db1b9cb353b5054e50606
+A	includes/biblio.pages.inc	4d3c15aa70fa6c3d2fcbf2b124b83ca5
+A	includes/biblio.util.inc	778392816f935598073e03dc6970a846
+A	includes/biblio_theme.inc	630b277754677d00e091d8be9e1666b2
+A	includes/biblio_xml.inc	1cc2446eb5c5c503d1d5e3b9777c797c
+A	includes/content.biblio.inc	a5d7278a942cb5286eecde1e66aeb708
+D	marcParse/example.mrc	
+D	marcParse/example.php	
+D	marcParse/php-marc.php	
+A	misc/arrow-asc.png	25bf26aa0ef58d92b2c3a244dbd3e79c
+A	misc/arrow-desc.png	957d0208753f1348c8d4051a4c7e1b54
+A	misc/biblio.field.link.data.csv	a2fc9e26fab1e3ba42ecad5fe80aaf0a
+A	misc/biblio.field.type.data.csv	7a3d9a61fd4a7b256ae7a46525264e09
+A	misc/biblio.highlight.js	c186a7d4e8ef2d979f032be6f0b4886e
+A	modules/CiteProc/CSL.inc	4219a9c2462af109b7a56b5910a16966
+A	modules/CiteProc/Github/Api.php	aaf3159b160a1ff5d44abbaf1b7d95f2
+A	modules/CiteProc/Github/Api/Commit.php	9323b7efab53f2c1837b40bc8f206f5e
+A	modules/CiteProc/Github/Api/Issue.php	db9ed554546905b187e03babc2387c65
+A	modules/CiteProc/Github/Api/Object.php	4d7ce16cc9283448e4feb478d1c01aea
+A	modules/CiteProc/Github/Api/Organization.php	011da4f38675a0b941cb2409ab10b462
+A	modules/CiteProc/Github/Api/Repo.php	5c5f1cac928949626f934c9576591a52
+A	modules/CiteProc/Github/Api/User.php	9002ca7acf5e8c29758d616d8f888319
+A	modules/CiteProc/Github/ApiInterface.php	b1366c35d7258582307f8070e085ac90
+A	modules/CiteProc/Github/Autoloader.php	87ad59164ea7ff8a7b1dacb895437fbf
+A	modules/CiteProc/Github/Client.php	aa1b3782137a3f675f08b48ed6fb8ea0
+A	modules/CiteProc/Github/HttpClient.php	585329b2f44aa8e4fb5aef4f8ab7fed2
+A	modules/CiteProc/Github/HttpClient/Curl.php	cc7463e2af53a232031a12ab6e7a98b9
+A	modules/CiteProc/Github/HttpClient/Exception.php	ad8bf8e26444d12b145349313f67e154
+A	modules/CiteProc/Github/HttpClientInterface.php	2599aac95e8b9dea4563c05125e9235b
+A	modules/CiteProc/biblio_citeproc.admin.inc	0275e095e11362122f0f8ab3556c5abd
+A	modules/CiteProc/biblio_citeproc.info	ca8746c5a847897ae0179e39330d7e39
+A	modules/CiteProc/biblio_citeproc.install	4661520a34434f3711d09787252937a3
+A	modules/CiteProc/biblio_citeproc.module	c1c9bb09bdde3e1c056ca0dd24a4fc3f
+A	modules/CiteProc/locale/locales-af-ZA.xml	778fe17511468c00d714354451dfc734
+A	modules/CiteProc/locale/locales-ar-AR.xml	b27218c3a994304d33b46d9699887919
+A	modules/CiteProc/locale/locales-bg-BG.xml	c71a93672d73c6ecf059aba9329da5c3
+A	modules/CiteProc/locale/locales-ca-AD.xml	dafadb571c9c120b62b860c3b947617e
+A	modules/CiteProc/locale/locales-cs-CZ.xml	df9dce0aacf316b1c064d733a4f37d95
+A	modules/CiteProc/locale/locales-da-DK.xml	08640c8269cb124fe7f51542ea8dfcc7
+A	modules/CiteProc/locale/locales-de-AT.xml	6a282cb2dfdbb3fffba2cf8b61b9e65d
+A	modules/CiteProc/locale/locales-de-CH.xml	e37cd02d3ce67a8b6e3540ddc9924932
+A	modules/CiteProc/locale/locales-de-DE.xml	ec07ed082222272db2c64d541fe6ebb8
+A	modules/CiteProc/locale/locales-el-GR.xml	5922fb79735744c9cde11aca4be39bba
+A	modules/CiteProc/locale/locales-en-US.xml	e4e04102a0301a014d26cbb9c6506fbc
+A	modules/CiteProc/locale/locales-es-ES.xml	f926c00a2c8512dacc12bba1bac5fe9b
+A	modules/CiteProc/locale/locales-et-EE.xml	845887a5b6f8b4d1c78f3cda641b8ec4
+A	modules/CiteProc/locale/locales-fr-FR.xml	f4b9fafd81cf0b2f6b39028b2dc95c7d
+A	modules/CiteProc/locale/locales-he-IL.xml	376247484835ed9786ba62f823eb9235
+A	modules/CiteProc/locale/locales-hu-HU.xml	e824721cc2e021e775618954a4531ec7
+A	modules/CiteProc/locale/locales-is-IS.xml	0dd9bb6b997a3bdebf312af55beb1e2c
+A	modules/CiteProc/locale/locales-it-IT.xml	ba99614b1f95d2f32c9f63985565b13d
+A	modules/CiteProc/locale/locales-ja-JP.xml	5b47604ba3913db8bf152d624cad75a9
+A	modules/CiteProc/locale/locales-km-KH.xml	b48d1e7429035d99d6df7f6474536387
+A	modules/CiteProc/locale/locales-ko-KR.xml	7cac0c8605b9c90cd55709e17b0378ef
+A	modules/CiteProc/locale/locales-mn-MN.xml	4b54ce47b65259e117d1c73d9f54b850
+A	modules/CiteProc/locale/locales-nb-NO.xml	d8f591a89045abb17afa5366ad2070f2
+A	modules/CiteProc/locale/locales-nl-NL.xml	8203a9293480819d12c1f0185c58b181
+A	modules/CiteProc/locale/locales-nn-NO.xml	65c70fff82b00fe1719bcd6b62977b47
+A	modules/CiteProc/locale/locales-pl-PL.xml	2eeffa0e8e677e31c0a06d8e6ef95a4d
+A	modules/CiteProc/locale/locales-pt-BR.xml	58f4cbe9cc297713e2894321b88e3b41
+A	modules/CiteProc/locale/locales-pt-PT.xml	bf30033d801f9cd52b2fb6634a0f14f5
+A	modules/CiteProc/locale/locales-ro-RO.xml	ffa066e65e1a080108222a1495ce5bfc
+A	modules/CiteProc/locale/locales-ru-RU.xml	9832ec1a29fb873a8dd57f54603eff12
+A	modules/CiteProc/locale/locales-sk-SK.xml	8921e3abba00ceca929d98ac2c145cbc
+A	modules/CiteProc/locale/locales-sl-SI.xml	41f37d1f232127a57db085909178b552
+A	modules/CiteProc/locale/locales-sr-RS.xml	efb67d9418e362406983510ef79f556d
+A	modules/CiteProc/locale/locales-sv-SE.xml	c6076d0eabd40be18107ade7b7850263
+A	modules/CiteProc/locale/locales-th-TH.xml	7d1a69d9cbc0cf93fcead023d7ab7c1a
+A	modules/CiteProc/locale/locales-tr-TR.xml	eb88d51da1d12595460bfd52ef46d397
+A	modules/CiteProc/locale/locales-uk-UA.xml	84cc02cf26621bb2bc0a35dbc8ebe27f
+A	modules/CiteProc/locale/locales-vi-VN.xml	6e6539616aa6bd50e57ae16535cf898f
+A	modules/CiteProc/locale/locales-zh-CN.xml	0cd7c23d35230f98771f4a076998e74d
+A	modules/CiteProc/locale/locales-zh-TW.xml	23ac9d4fdfd5474c6c7a62f605249834
+A	modules/CiteProc/style/ama.csl	dd6652ff9473907c49cbeb642f3c83d1
+A	modules/CiteProc/style/apa.csl	79a19518f5c943fca3e017ac14d77973
+A	modules/CiteProc/style/apsa.csl	63812232e40b2378c035638eb8bbe3b9
+A	modules/CiteProc/style/asa.csl	33efff6f762e0435934bbc0f35f01ba2
+A	modules/CiteProc/style/chicago-author-date.csl	28580dfdbbe7c0d07480cc7d08579307
+A	modules/CiteProc/style/chicago-fullnote-bibliography.csl	0c7d064c612b83cb93e5b0644afcd84b
+A	modules/CiteProc/style/chicago-note-bibliography.csl	3345708d6e57b8d7f061ef3f2f8f375d
+A	modules/CiteProc/style/chicago-note.csl	f07a168e2654376c9e9bbea5d28ace15
+A	modules/CiteProc/style/cse.csl	9434ddfb99cc6556e7201db6bb378534
+A	modules/CiteProc/style/harvard1.csl	36e2973ade1e9ba4effbbd7cd6e0b897
+A	modules/CiteProc/style/ieee.csl	2a75237e0313ca9a33065fd99dfccd86
+A	modules/CiteProc/style/mhra.csl	f21fbc0a8bde011dd2bf46d93fd041f3
+A	modules/CiteProc/style/mla.csl	36a82c4aab9d6d19ebb0d4fbc4191a09
+A	modules/CiteProc/style/nature.csl	0b9e8869d642d63560aabab8924b170b
+A	modules/CiteProc/style/nlm.csl	9c12409bf43d75d8923db149d7d638b5
+A	modules/CiteProc/style/vancouver.csl	f062b65453b0c0b9c0d740c818aace22
+A	modules/RIS/biblio_ris.info	b290020d97b88e793be1bde5cfaa34e9
+A	modules/RIS/biblio_ris.install	70954914e07856bba3e2b1a4f4f8b6bc
+A	modules/RIS/biblio_ris.module	4840c1925402bfad4c518d4c8c857824
+A	modules/RIS/views/biblio_handler_field_export_link_ris.inc	5f5abb56fa10c841c447a7520b8a3648
+A	modules/RIS/views/biblio_ris.views.inc	b4c06b194e0d5d7e0470e18540bc22b4
+A	modules/bibtexParse/CHANGELOG	1ff3d8ba68429c7608920d4be5b1c418
+A	modules/bibtexParse/LICENSE	164c6cb98e18fa184509a740c1c7589d
+A	modules/bibtexParse/PARSECREATORS.php	11f32022f32f0bd121dee4eada9e5265
+A	modules/bibtexParse/PARSEENTRIES.php	cda150fb1b4906d568c162b3bda9d4c4
+A	modules/bibtexParse/PARSEMONTH.php	1096df50178567fd1ced0a64cb258840
+A	modules/bibtexParse/PARSEPAGE.php	2c1f0edd61c95aa1053b3140568e1680
+A	modules/bibtexParse/README	3c29ec5ffce6f43ce2dab1151552368c
+A	modules/bibtexParse/bib.bib	0d2edc1afdd9664608534412715e73bd
+A	modules/bibtexParse/biblio_bibtex.info	9cacd40c3c3f402cc72ce376eb10b26d
+A	modules/bibtexParse/biblio_bibtex.install	25f10e6b482f875cf7db455042f44e17
+A	modules/bibtexParse/biblio_bibtex.module	ca3cede5a774978f83cd5f534d8e2d51
+A	modules/bibtexParse/transtab_latex_unicode.inc.php	c02f9e2d06bb473396bc3ae62287f13e
+A	modules/bibtexParse/transtab_unicode_bibtex.inc.php	2a1bafbc39a7424f8b4554e7968bc76f
+A	modules/bibtexParse/views/biblio_bibtex.views.inc	22683e06e422a2547761962773f4c3c8
+A	modules/bibtexParse/views/biblio_handler_field_export_link_bibtex.inc	42a6678b474ca2ee8824ec878bba0f3f
+A	modules/crossref/biblio.crossref.client.php	44cdf6a0491994e9fa45e803e36201dd
+A	modules/crossref/biblio_crossref.info	f7fc12410a0b103ede4a6288f85a0586
+A	modules/crossref/biblio_crossref.install	f3ff319f851986a31d570cb5ceb13557
+A	modules/crossref/biblio_crossref.module	5a16cefdd57203cb623176364c8da3b1
+A	modules/endnote/biblio_tagged.info	88bba256077c7c0d721b9307a06f3a33
+A	modules/endnote/biblio_tagged.install	44ac83e4a8634de210db89dff6ae7a80
+A	modules/endnote/biblio_tagged.module	65b799f5ce26640e81f2e288b9c5da46
+A	modules/endnote/biblio_xml.info	15365995d3a215f92c58772cea9bc392
+A	modules/endnote/biblio_xml.install	f6e8cd3e9e9923b47ad6f409ae0d9ca4
+A	modules/endnote/biblio_xml.module	6101dc714061155247e0d814b13127f6
+A	modules/endnote/endnote8_export.inc	3815ee98176a634a7ec37854c371d553
+A	modules/endnote/endnote_xml_parser.inc	6ffeb98153a47459e6721987878ccbec
+A	modules/endnote/views/biblio_handler_field_export_link_endnote_tagged.inc	e8f5d1f8c5a81dd90530d44134f84a22
+A	modules/endnote/views/biblio_handler_field_export_link_endnote_xml.inc	5a0f1661da45556518de7382e2c9d885
+A	modules/endnote/views/biblio_tagged.views.inc	3fad4aea0a712657fb5eae332905927f
+A	modules/endnote/views/biblio_xml.views.inc	802f1668507c6fa5c24ac02b5e54cf4f
+A	modules/marcParse/biblio_marc.info	7a1193ba7d76ff84acc19640b596876f
+A	modules/marcParse/biblio_marc.install	05b542f5b96fc45fae60893c7ff77a40
+A	modules/marcParse/biblio_marc.module	77282bd391fcda5f2533dd2b0211c543
+A	modules/marcParse/example.mrc	6af971fd9ff5ef3e5fcba8a64a0e7a49
+A	modules/marcParse/example.php	d977fc3ff8b25976a574ae772e4fc3f0
+A	modules/marcParse/php-marc.php	d29420b0ff967b77ed877bf5fc7dbf89
+A	modules/pubmed/EntrezClient.php	978035b1ff085f049343e145afda0b0b
+A	modules/pubmed/EntrezPubmedArticle.php	cbb8db0b636159a0a77ca28097c689ff
+A	modules/pubmed/biblio_pm.info	c08913ded01505ebee11c979beb68f85
+A	modules/pubmed/biblio_pm.install	e3246bc95f5ef9626764dbe6b16fd2e6
+A	modules/pubmed/biblio_pm.module	9169b3a212b6612269c5adc7df105a5f
+A	modules/rtf/biblio_rtf.info	860d164aac0b5380d1b26a1cb3897358
+A	modules/rtf/biblio_rtf.install	2a7b2292338f76b7d391fad64e132cb2
+A	modules/rtf/biblio_rtf.module	98f5e58ba397637ee2443dc1067487c9
+A	modules/rtf/rtf_export.inc	f0d08fe2f6ac7d5847bcbb2a981915d2
+A	modules/rtf/views/biblio_handler_field_export_link_rtf.inc	b43cc2452582cdc6db84a303683cf366
+A	modules/rtf/views/biblio_rtf.views.inc	538bad3fe3c26088fc11a97be4793947
+D	pubmed/EntrezClient.php	
+D	pubmed/EntrezPubmedArticle.php	
+D	pubmed/biblio_pm.info	
+D	pubmed/biblio_pm.install	
+D	pubmed/biblio_pm.module	
+D	ris_parser.inc	
+A	styles/biblio_style_ama.inc	b9ad916a35b5e235fe4d31d2e81aa479
+A	styles/biblio_style_apa.inc	a496433f2a1c553b1018c9f6af28675d
+A	styles/biblio_style_chicago.inc	dd282d95ec408b48450aac15161e37d1
+A	styles/biblio_style_classic.inc	29de2eff09356cb1a703cb13d472ae51
+A	styles/biblio_style_cse.inc	5f3affcef66b370dfb74ceb5a5533dfc
+A	styles/biblio_style_ieee.inc	c1a51e81e3257e41a5bafaa7a879d386
+A	styles/biblio_style_mla.inc	83bc1caca0497b719fe2373dc66b24d8
+A	styles/biblio_style_vancouver.inc	3118f80ee998d51a4aa6c19935278948
+D	tagged_parser.inc	
+A	tests/biblio.test	347881fb078e68937f6aacafddffb5b7
+A	tests/contributor.test	da001f787d1a86e8872a1ac71fedaa61
+A	tests/import.export.test	a5c47bf007bed6a3adf8bc11667c7daf
+A	tests/keyword.test	859acb8a6933e93131e912cee8e3c68e
+A	tests/test.bib	17cf7cc0d95c9fb1963f16d70b5816ae
+A	tests/test.ens	2c498ac288a9d3570b75ef0653b9c037
+A	tests/test.xml	e333eff47b74be87f2ce0395de2d9cfd
+A	views/biblio.views.inc	25661611d20456b23186eeeea5250a22
+A	views/biblio.views_default.inc	127d74d40a98f783a276800b24b00b61
+D	views/biblio_handler_argument_many_to_one.inc	
+M	views/biblio_handler_citation.inc	01082c933f7f34c156dfbcc30d50e1c1
+M	views/biblio_handler_field_biblio_type.inc	171b89ff23b0a65f4013347b4aaee40c
+M	views/biblio_handler_field_contributor.inc	a8bc3aa8001503099c0314aae410e6ad
+A	views/biblio_handler_field_export_link.inc	23006b6157089f699e245a59286e5f45
+M	views/biblio_handler_filter_contributor_lastname.inc	34c284ed46587631d6e56589f83081a5

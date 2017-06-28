@@ -1,0 +1,292 @@
+M	bootstrap.api.php	a7b108941a7f9943572f948028f0d150
+A	bootstrap.breakpoints.yml	5755fef025ebddae9aa27815c8e9b79f
+M	bootstrap.info.yml	c1f96869867d4a685ee8b2c8ad0816dc
+D	bootstrap.make.example	
+M	bootstrap.theme	5df12ef6ad875a75ae9db20ef7986ab3
+A	config/install/block.block.bootstrap_account_menu.yml	81daae693b87c6f61a0eac773991362e
+A	config/install/block.block.bootstrap_branding.yml	4ea5a0f2f8263007f27e334179aa1fa5
+A	config/install/block.block.bootstrap_breadcrumbs.yml	87316d7bf79357b940e90bae3404c543
+A	config/install/block.block.bootstrap_content.yml	d9b161c771ee21ce50abf6ce63388078
+A	config/install/block.block.bootstrap_footer.yml	7302e36b528ded9efbac062c8783b24f
+A	config/install/block.block.bootstrap_help.yml	254097b4643ffb8d0220e57eaede0681
+A	config/install/block.block.bootstrap_local_actions.yml	600742ff3aecd3eb7ed9063ea63c4127
+A	config/install/block.block.bootstrap_local_tasks.yml	f4d2e2ac1da31753d79c135f21748e5e
+A	config/install/block.block.bootstrap_main_menu.yml	83c40efd2aa32815e6abb9f2ca88ee82
+A	config/install/block.block.bootstrap_messages.yml	6a6ba49e5761c08e13b9d9018474a827
+A	config/install/block.block.bootstrap_page_title.yml	0fbd4bbbfef0c7c46ba739f8487fdfbf
+A	config/install/block.block.bootstrap_powered.yml	9121a0ca7018f6c14fe87c9dada46cd2
+A	config/install/block.block.bootstrap_search.yml	3a38f44fe5af2b87bea2c08b13f7e5d9
+A	config/install/block.block.bootstrap_tools.yml	33d483a828839ae8f240633ea3dbcbe1
+D	config/install/bootstrap.settings.yml	
+A	deprecated.inc	c41b6324b75cd7b05aceaaae76063b21
+M	docs/FAQ.md	d5b7943700a6d98410299c9e4c5829be
+M	docs/Getting-Started.md	fb84b5b9804e9072051b438323c81ef0
+M	docs/README.md	48019f564faaf5afde9cf73130e9fb0e
+M	docs/registry/README.md	d19579466c33f4b125f412dfe6c0a83f
+M	docs/subtheme/README.md	269182de34d8fdc3ff959b95d1335116
+M	docs/subtheme/settings.md	372113fb25fc1e7b4ac6745bf74304bf
+A	icons.inc	687015ef241fdfcd51f3200b8495a31c
+D	includes/alter.inc	
+D	includes/cdn.inc	
+D	includes/common.inc	
+D	includes/icons.inc	
+D	includes/pre-render.inc	
+D	includes/process.inc	
+D	includes/registry.inc	
+M	js/bootstrap.admin.js	1802425c15816da11a3a711e9453342d
+M	js/bootstrap.js	821de13c5b4bfa0adaadc01bf6af18d9
+D	logo.png	
+A	src/Annotation/BootstrapAlter.php	23eff8bcd8f9fdf4d28650d5c1a74be9
+A	src/Annotation/BootstrapConstant.php	dbf886738a90a0d83f5ceee335f5722e
+A	src/Annotation/BootstrapForm.php	a060744605d9ea3e6c8c3f5ca12e242f
+A	src/Annotation/BootstrapPreprocess.php	96da1295977f565b09b0f9fe72d24dad
+A	src/Annotation/BootstrapPrerender.php	cbbf04edef951c8fe3a130830b8655d1
+A	src/Annotation/BootstrapProcess.php	4f010f19e9abfaa85b1db977f4c67d52
+A	src/Annotation/BootstrapProvider.php	43ed0e7bf208861d7e9415c0bec24385
+A	src/Annotation/BootstrapSetting.php	70b0c8cd8e0055646de19b6b89c37c70
+A	src/Annotation/BootstrapUpdate.php	01491ce23ef7f5b1691926fb70340bce
+A	src/Bootstrap.php	1e72756b4f4691801eb5e7b9d65da45c
+A	src/Plugin/Alter/AlterInterface.php	2830a15c705017ccbae44783f63b0040
+A	src/Plugin/Alter/Css.php	a03a0c983fbbcc1560dfbd10a1353540
+A	src/Plugin/Alter/ElementInfo.php	ef5f449f27061d0b20e05c9e29c96837
+A	src/Plugin/Alter/IconBundleList.php	33f4581e4647735a660cef09e0bb33d9
+A	src/Plugin/Alter/Js.php	924a4543577a02a91860191315a8c768
+A	src/Plugin/Alter/JsCallbackFilterXss.php	86ce17817196f1011457d4c61b041084
+A	src/Plugin/Alter/MenuLocalTasks.php	6225c8c6bb34c987cceac7002c4bb9f6
+A	src/Plugin/Alter/PageAttachments.php	338a53a410dd96a8adcc24f8228d1328
+A	src/Plugin/Alter/ThemeRegistry.php	7b530b73098e8095d140fd1f7bc83b05
+A	src/Plugin/Alter/ThemeSuggestions.php	5b32402dcda6ce74e208010f609e8959
+A	src/Plugin/AlterManager.php	dd2824237308ea001f824ac9d3374248
+A	src/Plugin/Form/FormBase.php	941ead3672e9e963e209188a6cce8433
+A	src/Plugin/Form/FormInterface.php	a5b765614c86ebc399af9d6a2091be43
+A	src/Plugin/Form/SearchBlockForm.php	52c3223fa7227cc020d041a48888f668
+A	src/Plugin/Form/SearchForm.php	f2eb862cc140ea54d40fae3aee99e751
+A	src/Plugin/Form/SystemThemeSettings.php	772b0e9370958eeaeb35c42afff6a6b9
+A	src/Plugin/FormManager.php	619aececead96a0e4f6228b3cd2e05a2
+A	src/Plugin/PluginManager.php	0c243aa6623f9585fb6f7bb0fdca588e
+A	src/Plugin/Preprocess/Block.php	bc3fe164778b8f00eb40efd4139018ff
+A	src/Plugin/Preprocess/BootstrapPanel.php	08009657a47e98f4bb07a406be0a8ddf
+A	src/Plugin/Preprocess/Breadcrumb.php	0eee3b58a2a8ee0ed25e02b682b8238f
+A	src/Plugin/Preprocess/FieldMultipleValueForm.php	15ffbe4b302e66016b5ebb5e3ea0d361
+A	src/Plugin/Preprocess/FormElement.php	4620bc10f325ea908b9365306953e1cf
+A	src/Plugin/Preprocess/FormElementLabel.php	80186f225b774d4db7376f0dcdb748d6
+A	src/Plugin/Preprocess/Html.php	b3c0b55fce18171a30e59fa3ad23fe68
+A	src/Plugin/Preprocess/Image.php	1e99d0a8d9051456647f7b8048df54c5
+A	src/Plugin/Preprocess/Input.php	5f8e725d08dabb013889ba865f2a065a
+A	src/Plugin/Preprocess/InputButton.php	69203a411c2f01033e5378c4eb6ca53b
+A	src/Plugin/Preprocess/InputSearch.php	5e3103e51098d79f6f1e2406af8b1cfc
+A	src/Plugin/Preprocess/InputTextfield.php	189398982e54eaeac1c6ad3886dfb07b
+A	src/Plugin/Preprocess/Links.php	61c9cc4ba290aa1b31b90b3ddd131287
+A	src/Plugin/Preprocess/MenuLocalAction.php	d77efd5c247ecccab4be7292753cbefc
+A	src/Plugin/Preprocess/MenuLocalTask.php	68633074a7810747f3c5e73741d92a39
+A	src/Plugin/Preprocess/Page.php	54223636ba78fe96ecb0ab6b7b8783e2
+A	src/Plugin/Preprocess/PreprocessInterface.php	1675acb14dbc490cfa4d77f9e8d4ea5a
+A	src/Plugin/Preprocess/Region.php	eb7b23af02e1dad7c61f945203a6defd
+A	src/Plugin/Preprocess/Table.php	7f84d18d2178d31884ac31ee98187aff
+A	src/Plugin/Preprocess/ViewsViewTable.php	16dacb7dc727c57e0f2ca9507f8f4991
+A	src/Plugin/PreprocessManager.php	65b8a48cf6fa654dc05f3b2331a54262
+A	src/Plugin/Prerender/PrerenderInterface.php	fbc2340dabc7acea05b449fff929c224
+A	src/Plugin/PrerenderManager.php	4b502bab56258e03d0c83dd7dfab9800
+A	src/Plugin/Process/Actions.php	351083cb9f0341cbe734b0acf964d0d7
+A	src/Plugin/Process/ProcessInterface.php	1cf5db7c25e476f99e8bfad6ad9e730c
+A	src/Plugin/ProcessManager.php	e0bb50964e391c5d45370e6f6776d75a
+A	src/Plugin/Provider/Custom.php	ef4228a86bd70d14f7bcc5729dff68f1
+A	src/Plugin/Provider/JsDelivr.php	7de8f058633ccab41df29f220c976bc1
+A	src/Plugin/Provider/ProviderBase.php	00002fca7b3e8b19d7e7f36e0c51b4ca
+A	src/Plugin/Provider/ProviderInterface.php	63947e9d97b6690be51d72d52924a068
+A	src/Plugin/ProviderManager.php	4ff165aa7834fa26566239497d09aa98
+A	src/Plugin/Setting/Advanced/Cdn/CdnCustomCss.php	23edc75b4d9514391e7d5103d55851ff
+A	src/Plugin/Setting/Advanced/Cdn/CdnCustomCssMin.php	6c1bc123f32e1e29468a0fda454d4d11
+A	src/Plugin/Setting/Advanced/Cdn/CdnCustomJs.php	0772ce505531035dc8038a1b35830d1a
+A	src/Plugin/Setting/Advanced/Cdn/CdnCustomJsMin.php	a153da27c988d6dbb9570d5c9966e1f0
+A	src/Plugin/Setting/Advanced/Cdn/CdnJsdelivrTheme.php	b09be87a11f05cc6ae81b28332926ac9
+A	src/Plugin/Setting/Advanced/Cdn/CdnJsdelivrVersion.php	bab0bef3b4c5109402fabf42c3cd8cf5
+A	src/Plugin/Setting/Advanced/Cdn/CdnProvider.php	5f11ced1115687c424caf2ac73417b98
+A	src/Plugin/Setting/Advanced/SuppressDeprecatedWarnings.php	e8dc82c19bcf16d50cb204008b819bfe
+A	src/Plugin/Setting/Components/Breadcrumbs/Breadcrumb.php	5c55001663761bdc282b33455bb3a014
+A	src/Plugin/Setting/Components/Breadcrumbs/BreadcrumbHome.php	9e676355ff3542d6da06f404421ad95a
+A	src/Plugin/Setting/Components/Breadcrumbs/BreadcrumbTitle.php	b3edf8ac64ebbc8ea48d8544c5a185c9
+A	src/Plugin/Setting/Components/Navbar/NavbarInverse.php	2aa7aca0eacf8043137601d4b6d15f2a
+A	src/Plugin/Setting/Components/Navbar/NavbarPosition.php	3ca4e0a67eede4ac414a5b8669be5533
+A	src/Plugin/Setting/Components/Region/RegionWells.php	c2362f4b8e6466b6ff1a8d6a26c9ea44
+A	src/Plugin/Setting/General/Buttons/ButtonColorize.php	ceafb1674c99f1544cbbdc7188a3167f
+A	src/Plugin/Setting/General/Buttons/ButtonIconize.php	d4ba56115c9793df1666eab390e3edd4
+A	src/Plugin/Setting/General/Buttons/ButtonSize.php	4890e559d511cf07366f959f628fa11c
+A	src/Plugin/Setting/General/Container/FluidContainer.php	7b8e4b105eab9cc7d4634a189ada7b35
+A	src/Plugin/Setting/General/Forms/FormsRequiredHasError.php	ce8598c99070a8c3b2921a3fadf7ded8
+A	src/Plugin/Setting/General/Forms/FormsSmartDescriptions.php	dec4bc740f771eeedaa53ba62dec0407
+A	src/Plugin/Setting/General/Forms/FormsSmartDescriptionsAllowedTags.php	d9f90ebc082611956ff0eb4ac0015171
+A	src/Plugin/Setting/General/Forms/FormsSmartDescriptionsLimit.php	8b4b9541b003d251cff5f13ecae8fe4e
+A	src/Plugin/Setting/General/Images/ImageResponsive.php	4cafb44dcbb6cf8fc7abb81e4e8a5a21
+A	src/Plugin/Setting/General/Images/ImageShape.php	6f5bb84f0f564705d820eed2f4a2cce2
+A	src/Plugin/Setting/General/Tables/TableBordered.php	add29d02bec236706d2c36b3b924d3c8
+A	src/Plugin/Setting/General/Tables/TableCondensed.php	e260893ab75307c4a84f6f1fd27e0b97
+A	src/Plugin/Setting/General/Tables/TableHover.php	4494854eecac8a738c3ba9b9482481ff
+A	src/Plugin/Setting/General/Tables/TableResponsive.php	713619234f207bdd8db97c844afcb4c8
+A	src/Plugin/Setting/General/Tables/TableStriped.php	ba6f32db8afa04c23aece902a4eb08f9
+A	src/Plugin/Setting/JavaScript/Anchors/AnchorsFix.php	fc7c64b80727a5997f3b72d010d1a127
+A	src/Plugin/Setting/JavaScript/Anchors/AnchorsSmoothScrolling.php	12fc6137224369b90f2d30170e5be084
+A	src/Plugin/Setting/JavaScript/Forms/FormsHasErrorValueToggle.php	8e7c6f07a28741e898185be2469fe05f
+A	src/Plugin/Setting/JavaScript/Popovers/PopoverAnimation.php	9b2178c5e7990a7ecf7a989a5a3cc7f8
+A	src/Plugin/Setting/JavaScript/Popovers/PopoverContainer.php	04412f3191ce56bdcaf8e7697928a3e2
+A	src/Plugin/Setting/JavaScript/Popovers/PopoverContent.php	2966bbe0b649af7526a2d92a2155b12a
+A	src/Plugin/Setting/JavaScript/Popovers/PopoverDelay.php	bb725203aeb0e4a1580b812cd2deacbb
+A	src/Plugin/Setting/JavaScript/Popovers/PopoverEnabled.php	bd4231675217903e2bd43ecf643303c5
+A	src/Plugin/Setting/JavaScript/Popovers/PopoverHtml.php	789ef8bff86432b225b2201e85b9b511
+A	src/Plugin/Setting/JavaScript/Popovers/PopoverPlacement.php	f5ee89c36ac1658b33687f0e9a0af8cb
+A	src/Plugin/Setting/JavaScript/Popovers/PopoverSelector.php	4040833cf451d6b81e3f87b62c0aa784
+A	src/Plugin/Setting/JavaScript/Popovers/PopoverTitle.php	c5f438d0d3191399cd35d0c5146c9d09
+A	src/Plugin/Setting/JavaScript/Popovers/PopoverTrigger.php	a4e7c7b206a8a1f3ee962a1e5c94abe6
+A	src/Plugin/Setting/JavaScript/Popovers/PopoverTriggerAutoclose.php	3561c080286be1c68dc898fe5ae67ffb
+A	src/Plugin/Setting/JavaScript/Tooltips/TooltipAnimation.php	ae581554afdfe58e896ecfe36254cf5c
+A	src/Plugin/Setting/JavaScript/Tooltips/TooltipContainer.php	8ceb11839a6fed7cf934928744438e0c
+A	src/Plugin/Setting/JavaScript/Tooltips/TooltipDelay.php	416ed51f7319c81626b2135d7f02ce97
+A	src/Plugin/Setting/JavaScript/Tooltips/TooltipEnabled.php	f8091fd1878540689a86ef4a854b417d
+A	src/Plugin/Setting/JavaScript/Tooltips/TooltipHtml.php	78ae942e012f8de85651579ebc3835c6
+A	src/Plugin/Setting/JavaScript/Tooltips/TooltipPlacement.php	c51955a402b7423b650325a6da60722f
+A	src/Plugin/Setting/JavaScript/Tooltips/TooltipSelector.php	a8f1d7caac41cf1c9935ff9a5350a276
+A	src/Plugin/Setting/JavaScript/Tooltips/TooltipTrigger.php	6e7e83dbb45a77155832bf7d80fcb240
+A	src/Plugin/Setting/JavaScript/Tooltips/TooltipTriggerAutoclose.php	c95419ff9071904d10839c604b79d731
+A	src/Plugin/Setting/SettingBase.php	f7c40078322a779008fe424051370c7f
+A	src/Plugin/Setting/SettingInterface.php	6d1386bc68a49d348684aadbdc0dfe0d
+A	src/Plugin/Setting/Update.php	cfc432472b6a6b618a0ae2abfbb7b2f6
+A	src/Plugin/SettingManager.php	372b6426b565429dc823ba2d63474795
+A	src/Plugin/Update/UpdateBase.php	f17042d2f73e9b6404b8c144d98d4fa9
+A	src/Plugin/Update/UpdateInterface.php	42f80518ec32c42b264805494e9ec01a
+A	src/Plugin/UpdateManager.php	ea3bf7b351af4cb0ef42be85ba3da98c
+A	src/Theme.php	4252d55627c6c85cf13c89777d51e55b
+A	src/ThemeSettings.php	668de3b85b98d245a5cf78425538fa50
+A	src/Utility/Crypt.php	6c3a8fc8a6dfd42aa5f2e5a2acf6725c
+A	src/Utility/Element.php	b17a6dd77d7857dde6c9f5d9b047ed81
+A	src/Utility/Storage.php	92d108b9f9288ccac754184b87f29e08
+A	src/Utility/StorageItem.php	d38098b69a5f88adb28ae7681fcc5c82
+A	src/Utility/Unicode.php	5d246a9abf26715ac2c6ec26adb9ad7e
+D	starterkits/cdn/THEMENAME.libraries	
+A	starterkits/cdn/THEMENAME.libraries.yml	2f8f7ce2f24fe1e86d708f3884f40ecd
+M	starterkits/cdn/THEMENAME.starterkit.yml	18d8b5502d05d0fb92e3b83c46864143
+D	starterkits/less/THEMENAME.libraries	
+A	starterkits/less/THEMENAME.libraries.yml	d41d8cd98f00b204e9800998ecf8427e
+M	starterkits/less/THEMENAME.starterkit.yml	2d958860477d78018368774c5cc90b9e
+D	templates/admin_menu/admin-menu-links.vars.php	
+A	templates/block--bare.html.twig	d8f5f5ddc54ba816acba742d3bf0418e
+A	templates/block--local-actions-block.html.twig	cf8ec130ee75c6f750ecf654baf9e545
+A	templates/block--local-tasks-block.html.twig	04360551bb697935125b6c930a5e0c4a
+A	templates/block--page-title-block.html.twig	609ade52fe4bbd5572a0afbfe4288be3
+A	templates/block--search.html.twig	84c4d53f69fa80a73c6b3a43ca46fc33
+A	templates/block--system-branding-block.html.twig	4329b23fd2dd5c7e0c5528e5aac0e069
+A	templates/block--system-menu-block--account.html.twig	7588f5dbee5d03e8c98bfe1b7de7b72a
+A	templates/block--system-menu-block--main.html.twig	7588f5dbee5d03e8c98bfe1b7de7b72a
+A	templates/block--system.html.twig	609ade52fe4bbd5572a0afbfe4288be3
+A	templates/block-list.html.twig	27cc85a2ea09895bb7d41d750af3ac67
+A	templates/block.html.twig	9030518287a0fc4ee1763b2d282d465f
+D	templates/block/block-admin-display-form.tpl.php	
+D	templates/block/block-list.html.twig	
+D	templates/block/block.html.twig	
+D	templates/block/block.vars.php	
+D	templates/book/book-navigation.tpl.php	
+D	templates/book/book-navigation.vars.php	
+A	templates/bootstrap-panel.html.twig	a75ef3e2f57ea90be9b1b2f54fee958b
+D	templates/bootstrap/bootstrap-carousel.tpl.php	
+D	templates/bootstrap/bootstrap-carousel.vars.php	
+D	templates/bootstrap/bootstrap-dropdown.func.php	
+D	templates/bootstrap/bootstrap-dropdown.vars.php	
+D	templates/bootstrap/bootstrap-modal.tpl.php	
+D	templates/bootstrap/bootstrap-modal.vars.php	
+D	templates/bootstrap/bootstrap-panel.html.twig	
+D	templates/bootstrap/bootstrap-panel.vars.php	
+D	templates/bootstrap/bootstrap-search-form-wrapper.func.php	
+A	templates/breadcrumb.html.twig	95c5b6b72b354a8968e77f01fe12ed8e
+A	templates/datetime-form.html.twig	57c66af56e0e7aca1f62e75daed6e044
+A	templates/datetime-wrapper.html.twig	439dc6ac209940fa13776b435f118946
+A	templates/field-multiple-value-form.html.twig	03db9b139124e3d879b6c420bddaaec2
+D	templates/file/file-managed-file.func.php	
+D	templates/file/file-upload-help.func.php	
+D	templates/file/file-upload-help.html.twig	
+D	templates/file/file-upload-help.vars.php	
+D	templates/file/file-widget-multiple.func.php	
+D	templates/file/file-widget.func.php	
+D	templates/file/file-widget.vars.php	
+D	templates/filter/filter-tips-more-info.func.php	
+D	templates/filter/filter-tips.func.php	
+D	templates/filter/text-format-wrapper.func.php	
+A	templates/form-element-label.html.twig	f83738708f49e0827dc94c4d476d3a05
+A	templates/form-element.html.twig	ebc8f8ed5baec7dc556b5d03a84e7771
+A	templates/html.html.twig	f53c9bd8eff1b0c2fa87f3a4f6e8aad8
+D	templates/icon/icon.vars.php	
+D	templates/image/image-widget.func.php	
+A	templates/input--button.html.twig	462e639733b63393a8620e8bb19e879d
+A	templates/input--search.html.twig	d5569bafb2dfeb336064dec06acd3007
+A	templates/input--submit.html.twig	558e3cb73736ec8d7f2153883dc75403
+A	templates/input.html.twig	8ec3709c3e33f6a87b7d04b0c4583254
+A	templates/menu--account.html.twig	304ef2c02e25e6d06b3deb9b561b44ae
+A	templates/menu--main.html.twig	57d889863a035bb02c9757bf97ace709
+A	templates/menu-local-tasks.html.twig	d62543ecae1f0edd5ba1191f325ee7e0
+A	templates/menu.html.twig	679b4c03ba786898bd6df8d39213ea58
+D	templates/menu/menu-link.func.php	
+D	templates/menu/menu-local-action.vars.php	
+D	templates/menu/menu-local-task.func.php	
+D	templates/menu/menu-local-task.vars.php	
+D	templates/menu/menu-local-tasks.func.php	
+D	templates/menu/menu-local-tasks.html.twig	
+D	templates/menu/menu-tree.func.php	
+D	templates/menu/menu.html.twig	
+A	templates/page-title.html.twig	e1896eb60dd777094ae5225cc949e52c
+A	templates/page.html.twig	e2472aae5191257c8946ad2354f0dda6
+A	templates/pager.html.twig	cefe2ff06e3f764cb3bef9e268eee091
+D	templates/picture/image-srcset.vars.php	
+D	templates/picture/picture.vars.php	
+D	templates/poll/poll-bar--block.tpl.php	
+D	templates/poll/poll-bar.tpl.php	
+A	templates/progress-bar.html.twig	c601811cdb9ee5824c527f1bf76cda92
+A	templates/region--no-wrapper.html.twig	c895ad5bdf376529009a932a66d4adb1
+A	templates/region.html.twig	16e7db0add6151fb0c0145075c1fd866
+D	templates/search/block--search.html.twig	
+D	templates/search/input--search.html.twig	
+A	templates/status-messages.html.twig	c176d209f2482e6940f9e70899f99cbe
+D	templates/system/block--system-branding-block.html.twig	
+D	templates/system/breadcrumb.html.twig	
+D	templates/system/breadcrumb.vars.php	
+D	templates/system/container.html.twig	
+D	templates/system/date.func.php	
+D	templates/system/datetime-form.html.twig	
+D	templates/system/datetime-wrapper.html.twig	
+D	templates/system/exposed-filters.func.php	
+D	templates/system/field-multiple-value-form.html.twig	
+D	templates/system/field-multiple-value-form.vars.php	
+D	templates/system/form-element-label.html.twig	
+D	templates/system/form-element-label.vars.php	
+D	templates/system/form-element.html.twig	
+D	templates/system/form-element.vars.php	
+D	templates/system/html-tag.vars.php	
+D	templates/system/html.html.twig	
+D	templates/system/html.vars.php	
+D	templates/system/image.vars.php	
+D	templates/system/input--button.html.twig	
+D	templates/system/input.html.twig	
+D	templates/system/input.vars.php	
+D	templates/system/item-list.func.php	
+D	templates/system/links.vars.php	
+D	templates/system/mark.func.php	
+D	templates/system/page.html.twig	
+D	templates/system/page.vars.php	
+D	templates/system/pager.html.twig	
+D	templates/system/progress-bar.tpl.php	
+D	templates/system/region--no-wrapper.html.twig	
+D	templates/system/region.vars.php	
+D	templates/system/select.vars.php	
+D	templates/system/status-messages.html.twig	
+D	templates/system/table.html.twig	
+D	templates/system/table.vars.php	
+D	templates/system/textarea.html.twig	
+D	templates/system/textfield.func.php	
+A	templates/table.html.twig	c476cf616563ee94683466dd9e16621b
+A	templates/textarea.html.twig	c6276d2e8b26d496a11236a292089d7a
+A	templates/views-exposed-form.html.twig	1901d37a63584becc8fed7becb5a72b0
+A	templates/views-view-table.html.twig	836922a4260f2d7b2a46b7c00742b453
+A	templates/views-view.html.twig	4e7a89fa10e5fb66b16ce3cb4941e5cc
+D	templates/views/views-exposed-form.html.twig	
+D	templates/views/views-view-table.html.twig	
+D	templates/views/views-view-table.vars.php	
+D	templates/views/views-view.html.twig	
+D	templates/webform/webform-element.vars.php	
+D	theme-settings.php	

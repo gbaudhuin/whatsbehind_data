@@ -1,3 +1,4 @@
-M	src/Routing/RouteSubscriber.php	60b1a3b1e1adce307c47461b4f1d3891
-M	src/Super_loginSettingsForm.php	8ef2c2e18c48bd5aff0f3da4c29c17d7
-M	super_login.info.yml	5a10663849cbf46c180adc8a877e7d7a
+M	css/super-login.css	f8b5dba289cbe28a49d926b4f15c504d
+M	src/Super_loginSettingsForm.php	926c90b3145a11a5f0dcca40523c2f29
+M	super_login.info.yml	7b302b07bd560b46ff822b469a652ee9
+M	super_login.module	71ed7644875180d9af19ea4360c6d94a

@@ -1,0 +1,11 @@
+M	config/install/services.settings.yml	0d41b74169f25c3b5811e982a0d3cfb4
+M	config/schema/service_endpoint_resource.schema.yml	3a2697c49db28a17e5d571783ecb9a64
+M	config/schema/services.schema.yml	03aa725bc748192a8dd32f81598dddee
+M	services.info.yml	b67f4b237412e565b12deaf165717bf3
+M	services_test/services_test.info.yml	3d32eb38dd0ff28c26fc49d53255e27c
+M	src/Entity/ServiceResource.php	c99b97ad042346961a259e00e38f07da
+M	src/Form/ServiceResourceConfigForm.php	3ff0736f86c20b0a91c5dc986751bd99
+M	src/Form/ServiceSettingsForm.php	7424e5f7adf4ccb0b6a2fa780f00850b
+M	src/Routing/ServiceEndpoint.php	6d0732c69cb241a52e506282c43c72fc
+M	src/ServiceResourceInterface.php	b3c804af447822b7f6fae01948a5bbe0
+A	tests/src/Unit/Entity/ServiceResourceTest.php	460457f6baf50b370819caecae6f2d62

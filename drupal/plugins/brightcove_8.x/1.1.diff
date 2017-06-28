@@ -1,5 +1,0 @@
-M	brightcove.info.yml	b318d59eef8bd2c61e981e0f2d02aec5
-M	brightcove.install	8249c7227f0cd73e97821d53ec9d3f4a
-M	src/Entity/BrightcovePlaylist.php	1907bb5b28ce6a48d6a4c0cbb2101443
-M	src/Entity/BrightcoveVideo.php	536fa4699feaa4e173534c02c7c3dba1
-A	src/Form/BrightcoveInlineForm.php	f06c3ad1483bb9fa72cbe7439da8e7bb

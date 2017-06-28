@@ -1,0 +1,8 @@
+M	includes/office_hours.elements.inc	6c9ed81cdcac68151aae2da049df3017
+M	includes/office_hours.field.inc	f52b1ad1b0fa209d6ab79bb9adda7d9e
+M	includes/office_hours.formatter.inc	9afb87282443e96f9a69f608b5ee105f
+A	includes/office_hours.theme.inc	daa2048333ae6e188b4035cdbd42978d
+M	office_hours.info	0bc209d2da755a42c491297470dd0813
+M	office_hours.install	bcd8126b8bf815dc5f11b0e4a0f4fadb
+M	office_hours.module	7f3615b14bb043e4a9124a3257af6e68
+D	office_hours.theme.inc	

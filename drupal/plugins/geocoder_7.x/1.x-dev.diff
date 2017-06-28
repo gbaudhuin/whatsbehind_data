@@ -1,7 +1,7 @@
 M	geocoder.admin.inc	fc30b01d64506ef330723c2047795aac
-M	geocoder.info	06d9e8f1a1053d17db1145fd20ab4104
+M	geocoder.info	a2e44a07a3a110ab1934f2a1382966c6
 M	geocoder.module	42406ee7b1025fb255f97d40a388bd45
-M	geocoder.widget.inc	7cb2e5586d349a71df51552c19c2ea98
+M	geocoder.widget.inc	7d3b062ca16b64cfe60c24d871371783
 M	plugins/geocoder_handler/bing.inc	c40f1d2631cfd29e85346d86404a4eb0
 M	plugins/geocoder_handler/exif.inc	1bc5ea38a91586b3f9a462566614ff84
 M	plugins/geocoder_handler/google.inc	ac334af2c08da2c9c512a80f7e617ef7

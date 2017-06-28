@@ -1,0 +1,22 @@
+M	.gitignore	5ae48b9e73eb1ff90b13abddd2ef1334
+D	.idea/.name	
+D	.idea/encodings.xml	
+D	.idea/misc.xml	
+D	.idea/modules.xml	
+D	.idea/scopes/scope_settings.xml	
+D	.idea/vcs.xml	
+M	CHANGELOG.md	d1f91cedb4b85ac918767e6dcd2f5891
+M	file_download.info.yml	4988eea218a60e3945ce6ed536249dbf
+M	file_download.module	532996416eef7f1ad3a54b3b635a5dc2
+A	file_download.permissions.yml	155251942f38e69e0ada5b6a95e0a7c7
+D	modules/.DS_Store	
+D	modules/file_download_counter/.DS_Store	
+D	modules/file_download_counter/config/.DS_Store	
+M	modules/file_download_counter/file_download_counter.info.yml	1bf7e8b3af11f7187ede99f90c3f912b
+D	modules/file_download_counter/src/.DS_Store	
+D	modules/file_download_counter/src/Plugin/.DS_Store	
+D	modules/file_download_counter/src/Plugin/views/.DS_Store	
+D	modules/file_download_counter/src/Tests/.DS_Store	
+M	src/Controller/FileDownloadDownloadController.php	f1163982eacd560ad1c818df1cf3d0e4
+M	src/Plugin/Field/FieldFormatter/FileDownloadFieldFormatter.php	6147cc349f57dc9c19ffc58c2b99cc38
+A	templates/download-file-title.html.twig	0eefce0398aeffa907e85c8ac82f2867

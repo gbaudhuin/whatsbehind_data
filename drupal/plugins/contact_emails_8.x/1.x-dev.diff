@@ -1,1 +1,24 @@
-M	contact_emails.info.yml	7647eff18e13531b4d1d3dcba3606169
+A	.gitignore	0c0ef7b9a3271d2fbfa0aca4d0bb61eb
+M	contact_emails.info.yml	466cccbfa40eddfc006fc72b1cc74176
+M	contact_emails.install	eb80984af8162b1bdfae85e4b6894645
+A	src/ContactEmailsTestBase.php	a5979569d45f11b415f5075b90550ab2
+M	src/Entity/ContactEmail.php	f515340dd43a2078c91860e9b7bdb5a2
+M	src/Entity/ContactEmailInterface.php	7fc50ce256957c043828efcece7551f0
+M	src/Form/ContactEmailForm.php	acfbd7ed298e025d9341ee8d517457e9
+M	src/Tests/ContactEmailsDefaultEmailTest.php	0c0a8136f99e8c6e9e4a12d5e5cfe8d4
+M	src/Tests/ContactEmailsRecipientReferenceTest.php	e8164332bdfa8b6fe7ce2292d94ac89e
+M	src/Tests/ContactEmailsRecipientTest.php	5218993409cfbf7da8b6d238ff176849
+M	src/Tests/ContactEmailsReplyToReferenceTest.php	78971075b285943104233f4a086f6215
+M	src/Tests/ContactEmailsReplyToTest.php	f55b85901a0cac2032b7440d92e0d042
+D	src/Tests/ContactEmailsTestBase.php	
+M	src/Tests/Update/ContactEmailsTableToEntityUpdateTest.php	1ae32369d3627f7b77018f2c5b84cf3f
+M	tests/fixtures/update/drupal-8.filled.standard.php.gz	0b1c629af9b4fdea9bf7b5ee143ed772
+M	tests/modules/contact_emails_test_mail_alter/contact_emails_test_mail_alter.info.yml	00e600eb1ca169de6db9ee030416ee8d
+D	vendor/autoload.php	
+D	vendor/composer/ClassLoader.php	
+D	vendor/composer/LICENSE	
+D	vendor/composer/autoload_classmap.php	
+D	vendor/composer/autoload_namespaces.php	
+D	vendor/composer/autoload_psr4.php	
+D	vendor/composer/autoload_real.php	
+D	vendor/composer/autoload_static.php	

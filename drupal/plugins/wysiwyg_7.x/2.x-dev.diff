@@ -1,10 +1,3 @@
-A	editors/css/wymeditor.css	ef4f85020aa5fd83189b39f5b4606807
-M	editors/js/ckeditor-3.0.js	99afe0312d74ab97f04887cd36507bec
-A	editors/js/wymeditor-1.js	499f32a668303f5cb6dac52a0ebaf500
-M	editors/js/wymeditor.js	a71fc4ea37eea7a318d65b69b0b7ed00
-M	editors/wymeditor.inc	9b8166a9ea31802153e912eb1b9a1cf0
-M	tests/wysiwyg_test.info	a6966d3b33717016c569e563d8e0a5ba
-M	wysiwyg.features.inc	d208165673569d253ba875834a1ca34f
-M	wysiwyg.info	f9e46ddc5d462889292f4bed9c425770
-M	wysiwyg.install	b83587c757822e4a92f586269526d457
-M	wysiwyg.module	c23773d43a1f05b1c27857815799f3d5
+M	editors/tinymce.inc	076b33db257f995d965cf6701761944a
+M	tests/wysiwyg_test.info	5ed277ea13ff394208eff00822049532
+M	wysiwyg.info	0839be640382d232a980d30743fb01a4

@@ -1,0 +1,46 @@
+M	biblio.info	c1a67f6ff058fae6eeb02e607d15b3b3
+M	biblio.install	add21d169ea0a329999e874d09e4a111
+M	biblio.module	e954d9dd14ae6fa25a3d73cd86a52cc3
+M	changelog.html	8ba9106426cb25dfec2227cd79869fb0
+A	includes/Name.php	58d98ecd9264b83585e746bf22f34292
+A	includes/Parser.php	51bbc42765b35fa64d78a9c719d3a140
+M	includes/biblio.admin.inc	9528c119a70f160bd59eb199b2740cd5
+M	includes/biblio.contributors.inc	d72ce3aa74170f80e1599e639b45f389
+M	includes/biblio.util.inc	8c030b0d46ce1682928baf187907fc50
+M	includes/biblio_theme.inc	256759ca6cb0034a07f410947d78d040
+M	modules/CiteProc/CSL.inc	ed3613eaad6e78dbef2df9f2dd59553e
+D	modules/CiteProc/Github/Api.php	
+D	modules/CiteProc/Github/Api/Commit.php	
+D	modules/CiteProc/Github/Api/Issue.php	
+D	modules/CiteProc/Github/Api/Object.php	
+D	modules/CiteProc/Github/Api/Organization.php	
+D	modules/CiteProc/Github/Api/Repo.php	
+D	modules/CiteProc/Github/Api/User.php	
+D	modules/CiteProc/Github/ApiInterface.php	
+D	modules/CiteProc/Github/Autoloader.php	
+D	modules/CiteProc/Github/Client.php	
+D	modules/CiteProc/Github/HttpClient.php	
+D	modules/CiteProc/Github/HttpClient/Curl.php	
+D	modules/CiteProc/Github/HttpClient/Exception.php	
+D	modules/CiteProc/Github/HttpClientInterface.php	
+M	modules/CiteProc/biblio_citeproc.admin.inc	b591000873cb1cea2b244ae1b542bc03
+M	modules/CiteProc/biblio_citeproc.info	2271db519cf0205e8de5ef68bb2ae994
+M	modules/CiteProc/biblio_citeproc.module	cc62caab5483369c70b385e92957b249
+M	modules/RIS/biblio_ris.info	1e8599e7de46b94bdaa0518576531711
+M	modules/RIS/biblio_ris.module	632279b16fea183235ce594533a536c8
+M	modules/bibtexParse/biblio_bibtex.info	1341d66664b6b2ad45187a7a313a5d51
+M	modules/crossref/biblio.crossref.client.php	ab415cbb09db72bb732aa947fedf63e7
+M	modules/crossref/biblio_crossref.info	01c73a8a14cdac116a7498323c50df44
+M	modules/crossref/biblio_crossref.module	f9724df9a9b95e2e8d80b10b92759d9b
+M	modules/endnote/biblio_tagged.info	dfc097d38242f5e8fa03d803b16f97f1
+M	modules/endnote/biblio_xml.info	7be356df7f3bab160b880074c44113b4
+M	modules/marcParse/biblio_marc.info	ef66a445e5a864a84977166edd384a52
+M	modules/pubmed/EntrezClient.php	475d873651c4e36f63c08208436ece15
+M	modules/pubmed/biblio_pm.info	b1754270d739cd48a1b04e0ce0f89318
+M	modules/pubmed/biblio_pm.module	cf2c3e787f78523cf6877e2d61a23534
+M	modules/rtf/biblio_rtf.info	3bff77b7819ae5ed5a06f1df3ce0c2f3
+M	tests/biblio.test	a9bdd0a73fbe43ceeb8c7a6a56e5e127
+M	tests/contributor.test	8d9db2e7af26136fa55c7f3ae4edd8ec
+M	tests/import.export.test	3f8a4da17fc4cc4264aa633e903f0077
+M	tests/keyword.test	b6c4b8ee0143d95abe33bc79cf3ce369
+M	views/biblio_handler_argument_many_to_one.inc	7f8b007e9e78fce6caf3e0b7881b0ce5

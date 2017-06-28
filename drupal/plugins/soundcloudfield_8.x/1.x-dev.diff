@@ -1,1 +1,7 @@
-M	soundcloudfield.info.yml	8c58a5ab23914852c85b966a0feda218
+M	config/schema/soundcloudfield.schema.yml	5d86095b9b8487c63ebbfcae6c49cd6a
+M	soundcloudfield.info.yml	f4be486399c056148a09cabc0f91ad0b
+M	src/Plugin/Field/FieldFormatter/SoundCloudDefaultFormatter.php	fc0e4f3831d70f2baa55f186a50e0fc0
+M	src/Plugin/Field/FieldFormatter/SoundCloudLinkFormatter.php	7bdf7a14ee8862ed9e63f2ceb7acc949
+M	src/Plugin/Field/FieldType/SoundCloudItem.php	321e177147d28284b92e080bab62e777
+M	src/Plugin/Field/FieldWidget/SoundCloudWidget.php	bffeaa1b3d126e5a6bb63ed09bbea19c
+A	src/Tests/SoundCloudWidgetValidationTest.php	890821a41bc51019c067f7624e784b17

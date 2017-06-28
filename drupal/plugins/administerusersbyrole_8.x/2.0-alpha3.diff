@@ -1,0 +1,7 @@
+D	CHANGELOG.txt	
+D	INSTALL.txt	
+M	README.md	35f82725cda9e1b16bf17682c66137cd
+M	administerusersbyrole.info.yml	30c9b7e66cd4004fdf5668eb0f76a4fc
+M	administerusersbyrole.module	1499d26e59a4c38db13ade442c967f14
+A	administerusersbyrole_hack/administerusersbyrole_hack.info.yml	ea8501421e50828eb5e09e3e8273cbb0
+A	administerusersbyrole_hack/administerusersbyrole_hack.module	e9f988ae2b30711117a788e53705a6ce

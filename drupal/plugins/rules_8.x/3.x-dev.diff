@@ -1,4 +1,5 @@
-M	rules.info.yml	f7e2a967ecbdca7169a30cd2eebda430
-M	tests/modules/rules_test/rules_test.info.yml	9675b479a047d5077253fce14571b7c4
-M	tests/modules/rules_test_default_component/rules_test_default_component.info.yml	804beecee075af5a73ac7ce9a4c1e8ac
-M	tests/modules/rules_test_ui_embed/rules_test_ui_embed.info.yml	8c02061f6c4896935b9702bec4b95337
+M	.travis.yml	5f8894f20bb01388dc65657e364668a9
+M	rules.info.yml	37463909c7ca36dad8649f66dbbc00f5
+M	tests/modules/rules_test/rules_test.info.yml	d8732f6eb2ecdaf29b390a1d020189eb
+M	tests/modules/rules_test_default_component/rules_test_default_component.info.yml	30396061bbb31ef4823f6b1e52f10c85
+M	tests/modules/rules_test_ui_embed/rules_test_ui_embed.info.yml	21b446750e5f06af9e661635d20484d1

@@ -1,5 +1,0 @@
-A	README.txt	30d4a4211261c814b95bda91292d7f5b
-M	entityblock.info.yml	6984e4a9b558198775c04b2904c3a60f
-M	entityblock.module	a1235498db0ba39d8de17b0001765c8b
-M	src/Plugin/Block/EntityBlockBlock.php	b99341ad64e3fc319d38567509068d97
-M	src/Plugin/Derivative/EntityBlockContent.php	2831094a9f04168c7ff120608dd603aa

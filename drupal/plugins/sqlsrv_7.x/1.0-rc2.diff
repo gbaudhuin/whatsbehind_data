@@ -1,9 +1,5 @@
+A	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
 A	README.txt	a7f6f538e2fee72d27837be6f6585e1a
-D	database.inc	
-D	install.inc	
-D	query.inc	
-D	schema.inc	
-D	select.inc	
 A	sqlsrv.info	dd0d95a4771f1c3efe3d824f19f6c0e4
 A	sqlsrv.module	3beefb00777a6bd04265b7d33c23efa9
 A	sqlsrv/database.inc	304c89f51c90881b9ec4a12c73801326

@@ -1,0 +1,43 @@
+M	README.txt	4f46ea023787abfc6276e66bc5438c12
+M	config/install/photos.settings.yml	1e3f5469686f2c03bd83851140c1cd4d
+M	config/schema/photos.schema.yml	7089e88bf777a3c51c9616b412efd57e
+M	inc/photos.form.inc	0921ad90e197f2844d071bf1a725765a
+D	js/min/photos.min.js	
+D	js/min/photos_editlist.min.js	
+D	js/min/photos_jeditable.min.js	
+D	js/photos.js	
+D	js/photos_editlist.js	
+D	js/photos_jeditable.js	
+M	migration_templates/d7_photos_settings.yml	73d61ddd054633c89ef30d7f54b1199e
+M	photos.info.yml	1d8c9172f97dd90d76b573d196dac320
+M	photos.install	85f8f21d356cb948650d8f5ff66d730c
+M	photos.module	a7a9046fc19283eba17bc9ed0eb72e3f
+M	photos.permissions.yml	5a935227bcdb5defd582038f133f49c5
+M	photos.routing.yml	23305139be005504e191c790ef1d47b0
+M	photos_access/photos_access.info.yml	90665cdf4a2ac565bf92ac68b2568ba0
+M	photos_access/photos_access.module	2d2ead9a451e477db94bae2748a3d93c
+M	photos_access/src/Controller/DefaultController.php	322f80aff8ffc985ccffb206a04e7fbf
+M	src/Controller/PhotosAlbumController.php	b03e13f2af50da58820eeda724a6a8b9
+M	src/Controller/PhotosController.php	7ee979f99d08ebc75bb120688149e9c9
+M	src/Controller/PhotosEditController.php	3da82c037affe614b7f6682922bce1d7
+M	src/Controller/PhotosImageController.php	a52dde755d3181ef5bdd8197a7737eb6
+M	src/Controller/PhotosImagesRecentController.php	4de582f0a961f1b50a253f1ceebd3d77
+M	src/Controller/PhotosRearrangeController.php	34c59239b986a27c3df619deadbdbb63
+M	src/Controller/PhotosUserImagesController.php	2bc08c153c05acf3c279f7469f6b31b2
+M	src/Form/PhotosAdminSettingsForm.php	75a17ed7ac47cb1ffdb65926f32bd399
+M	src/Form/PhotosDirectoryUploadForm.php	e8392de0c58a41822501766cae73e90d
+M	src/Form/PhotosImageDeleteForm.php	3427c657562ed69fab0e53e06887ccf2
+M	src/Form/PhotosImageEditForm.php	bd3553605e1a89d1a06d199e1c5c3a84
+D	src/Form/PhotosImageSubAlbumForm.php	
+D	src/Form/PhotosManagementForm.php	
+M	src/Form/PhotosUploadForm.php	acfa654f399c70eab1b6011f7179c5ef
+A	src/PhotosAlbum.php	f7a18879d55b8c64590055d7658da062
+A	src/PhotosImage.php	c3e8e5ba76dc7f1ca2d83c87be95fee5
+A	src/PhotosUpload.php	71567a417e8ed8560640dc7bc2359b90
+M	src/Plugin/Block/PhotosInformation.php	2fe94e41df2451d66b1a07a8201fbcb7
+M	src/Plugin/Block/PhotosRandomImages.php	71f7f85b033f0848a7c9682071e2ea74
+M	src/Plugin/Block/PhotosRecentImages.php	f18c66c413296d36acc25661e1e7cf1b
+M	src/Plugin/Block/PhotosUserImages.php	f41429b2e0be48f62d92c5084adb8548
+A	src/Plugin/Filter/PhotosFilter.php	da6eca133fcdb92697644893520fb99e
+M	templates/photos_image_block.html.twig	1e246466235ae9185cdd4bde34f898fe
+M	templates/photos_image_view.html.twig	96003adeab7808fdf64818ff239fd65d

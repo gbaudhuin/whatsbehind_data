@@ -1,0 +1,13 @@
+A	config/optional/monitoring.sensor_config.redirect_404.yml	c046ed9b1ff51956ca06da629cdcb08a
+M	config/schema/monitoring.schema.yml	b43e1da8353877dbbb7f63eefdae31c8
+M	modules/demo/config/install/search_api.index.demo.yml	3e32174bc1f4b4f7b23db65049f8ca38
+M	modules/demo/monitoring_demo.info.yml	b43a9aef9d3320463d41a73337d8237b
+M	modules/monitoring_mail/monitoring_mail.info.yml	c824974fc048583afce033caa097d767
+M	modules/multigraph/monitoring_multigraph.info.yml	13d08d3630d98183a28439f35c22b342
+M	modules/test/monitoring_test.info.yml	344dbe5874614021780936796f3d9395
+M	monitoring.info.yml	d9103fb2c8596a73a59442151ec7b4c8
+A	src/Plugin/monitoring/SensorPlugin/Redirect404SensorPlugin.php	133c0a6a106952a6b6d796ce703df47e
+M	src/Plugin/rest/resource/MonitoringSensorResultResource.php	2cb052136df262b968b9707c2a4a0ce6
+M	src/Tests/MonitoringServicesTest.php	2e45549fdeb2073fd0b33c872bb5b9db
+M	src/Tests/MonitoringUITest.php	3017364a4f71e6081e754530f38876ef
+A	tests/src/Kernel/MonitoringRedirect404SensorTest.php	23142ae65044d5af802b299dc58e840a

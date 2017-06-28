@@ -1,0 +1,22 @@
+M	jsonapi.info.yml	db9ba9148231566b8cf7493a1787b040
+A	jsonapi.permissions.yml	2fd3de5a6998375b9428b75f7778c6f4
+M	jsonapi.routing.yml	f5e3ae310366a4e0c257c87d444a9325
+M	src/Context/CurrentContext.php	77589ed2ae7cb8dc1d1c962261b259cf
+M	src/Controller/EntityResource.php	6c105151c5f38917574532fafceb5cb2
+A	src/Controller/EntryPoint.php	ad988b6c00dc848df37800f47cc2443a
+A	src/DependencyInjection/Compiler/RemoveJsonapiFormatCompilerPass.php	320fc0cb478590a3e5fc58620ac1b69b
+M	src/EventSubscriber/DefaultExceptionSubscriber.php	ca18623b0fd6d3dc0c228b9e45268f1a
+M	src/JsonApiSpec.php	039835821c7e8dedd9cd1c74afe93d82
+M	src/JsonapiServiceProvider.php	f3235f28761445b1b4b34027ca4e2295
+M	src/Normalizer/EntityAccessDeniedHttpExceptionNormalizer.php	9cd262f3f288f147ab230ea62d854198
+M	src/Normalizer/EntityReferenceFieldNormalizer.php	d3812606570655bcc7d9aea6d5e081ec
+M	src/Normalizer/Value/JsonApiDocumentTopLevelNormalizerValue.php	9e9c4af18afcea9ea98c1a0086b2d0a7
+D	src/RequestCacheabilityDependency.php	
+M	src/Routing/Routes.php	b1f8a3b197ebcd61ac4eca235bfe0a10
+M	tests/src/Functional/JsonApiFunctionalTest.php	5a9a39aee8a1b010a77297203e6966f6
+A	tests/src/Functional/RestJsonApiFormatUnsupported.php	6d1ec5c25cbdb62168f74cf2b9b5d0b8
+A	tests/src/Functional/RestJsonApiUnsupported.php	555028cbcf3f4e11bac30c03281fd5c6
+A	tests/src/Kernel/Controller/EntryPointTest.php	9b4be74499474ff8d1bbdf8189a3e116
+M	tests/src/Kernel/Normalizer/JsonApiDocumentTopLevelNormalizerTest.php	d8bc6e83c1ebbad8ac4190b7c7cee53e
+M	tests/src/Unit/Normalizer/Value/JsonApiDocumentTopLevelNormalizerValueTest.php	f89022176d429d574ae008e3c9bcbf1c
+D	tests/src/Unit/RequestCacheabilityDependencyTest.php	

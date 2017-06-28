@@ -1,7 +1,9 @@
-M	file_entity.info.yml	4361fcf46e36f960976c07a4d2f28744
+M	file_entity.info.yml	586dc48d5e95599f5d23f375777878f0
 M	file_entity.install	c0676cf70cd1050513ebf60d0caa4857
 M	file_entity.module	3cd87058995342adf3c8b8162a0db586
 M	src/FileEntityServiceProvider.php	a00a8a3c2cef5e85d935acffdbca3c17
+M	src/Plugin/Field/FieldFormatter/FileVideoFormatter.php	b0ba3a972c74ad757558749b079ffe1e
 M	src/Plugin/views/field/LinkDownload.php	3620c2b81543b2e0e57df4ab2187b5c8
 M	src/Tests/FileEntityAdminTest.php	beb068d822eb94396c76856b946f5306
+M	src/Tests/FileEntityCacheTagsTest.php	72c014da595e675c310589bf56561f0e
 M	src/Tests/FileEntityFileTypeClassificationTest.php	ac3f27c20d3a89abc16ea040dac25fbf

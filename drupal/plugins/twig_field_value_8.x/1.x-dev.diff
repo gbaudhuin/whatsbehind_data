@@ -1,1 +1,2 @@
-M	twig_field_value.info.yml	656de0bcb80a41ef898fd98bd52810dc
+M	src/Twig/Extension/FieldValueExtension.php	b8cc7432f4d9f3626fde21b910213342
+M	twig_field_value.info.yml	251a12538fb5e67c222bdb3ec9042f7a

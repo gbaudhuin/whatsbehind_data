@@ -1,5 +1,0 @@
-M	src/Plugin/Block/WeatherCurrentBlock.php	8aa900f62b9eff86b6391605ba44f707
-M	src/Plugin/Block/WeatherForecastBlock.php	e7b94f45e096407fa6fa4332babe754c
-M	src/Plugin/Block/WeatherHourlyBlock.php	5599f35b9cac56a61714fa8344698af1
-M	wunderground_weather.info.yml	6dd5202a9fb2f018e2bbad96b655c704
-M	wunderground_weather.module	64a7b8d482630cd239dbd2adf91aa935

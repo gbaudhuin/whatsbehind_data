@@ -1,2 +1,3 @@
-M	pathauto.info.yml	706ec015354f5c3653c818fa57876879
-M	tests/modules/pathauto_views_test/pathauto_views_test.info.yml	ff0d77030bfc8d472ada8d6ee67200ac
+M	pathauto.info.yml	7bc54ca4bbacde6e189a889fe1260f87
+M	src/Entity/PathautoPattern.php	43e4798b7445d17a297d31bdfe46022a
+M	tests/modules/pathauto_views_test/pathauto_views_test.info.yml	2e1220d24bd38fd39ceeb9eb056223ef

@@ -1,1 +1,7 @@
-M	markdown.info.yml	eec3acdd9bd2408dfd12b09c9e2b5984
+M	config/schema/markdown.schema.yml	b2bfc255abe5ee394a6be3dc423dde45
+M	drush/markdown.drush.inc	c272d378d308d3bf2654549aefc3952a
+M	markdown.info.yml	8b9d454f2487b4e424950f69b2dd1f7c
+M	markdown.install	7627bc10d722c2d269e56b83954aba72
+M	markdown.module	c8527f97cadd680be14c10d63f57cda0
+M	src/Plugin/Block/MarkdownHelp.php	c4e8863698fe2f68e13d5fba895d2cde
+M	src/Plugin/Filter/Markdown.php	0905350e3723ef47b95a9069fdc0884b

@@ -1,0 +1,7 @@
+M	drd.info.yml	5c947565043c5571f741c7b5bdfc626a
+M	src/Entity/DrdDomain.php	d5ba4dbaafcb3a67d1e21faf2a826fad
+M	src/Entity/DrdHost.php	f2740dbc743a14effcc4c94abc78c2d7
+M	src/Plugin/Action/DrdActionDomainsReceive.php	46bf609550825b032c97cc7810ed1826
+M	src/Plugin/DrdActionBase.php	0bf991c44c77d3a514aac30045e9d5a1
+M	src/Plugin/DrdActionBaseInterface.php	644008cbdc92884a0bd8a122549bd153
+M	src/Plugin/DrdActionRemoteBase.php	0a9437a05f80b95e7ffb04875df074cd

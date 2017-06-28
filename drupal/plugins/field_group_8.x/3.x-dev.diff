@@ -1,0 +1,10 @@
+M	contrib/field_group_migrate/field_group_migrate.info.yml	6b378b4364cd652e3ed7e1069b2a5858
+M	contrib/field_group_migrate/tests/src/Unit/Migrate/d7/FieldGroupTest.php	1da12b679e84c7865fdc8171374652b3
+M	field_group.info.yml	055fdad22a1f412d572696eaed5d8330
+M	includes/field_ui.inc	76652f72a81b3961a91b9f56df5d6e7d
+M	js/field_group.field_ui.js	18827b31f8b8f35340066d666727f4f3
+M	src/Form/FieldGroupAddForm.php	8709ef0fb7f09b8c315136d63d52c174
+M	src/Form/FieldGroupDeleteForm.php	a7269490c19100b57a3288342c4a438a
+M	src/Routing/RouteSubscriber.php	bf3af43b81d683fb74456dd4f95a2058
+M	src/Tests/EntityDisplayTest.php	56bb3f2aaf8a43435245dfe3943b3b09
+M	tests/modules/field_group_test/field_group_test.info.yml	59cce2b48a4c0f81042c857454e90a54

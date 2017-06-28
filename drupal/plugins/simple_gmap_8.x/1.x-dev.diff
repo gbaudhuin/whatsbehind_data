@@ -1,1 +1,5 @@
-M	simple_gmap.info.yml	770d3e779f90a360483c23e85e21de34
+M	config/schema/simple_gmap.schema.yml	678611f70f79dfaa3fdbb5bdb982d17c
+M	simple_gmap.info.yml	7cddf03a920387f92836b2d7934d09ef
+M	simple_gmap.module	4f5efb106abb6b88ce57a3fb6827ca1b
+M	src/Plugin/Field/FieldFormatter/SimpleGMapFormatter.php	bf69147220b45eb5351f69e9b4c9832b
+A	src/Tests/SimpleGmapTest.php	8ae148b546daa9ada6c8053c203efd4e

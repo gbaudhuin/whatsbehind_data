@@ -1,0 +1,13 @@
+D	.gitignore	
+M	README.txt	9d9d385856d917e1155dbde39a2208ac
+M	fac.info	6cdaaf8056a5934604f66ccc19e451d2
+M	fac.install	a3e4858994158ee5b954408c637c552d
+M	fac.module	232ce45e06d1de4e7be27a51ec261a7c
+M	inc/fac.admin.inc	b0603e70d7c9e1db90ea8bc6ecd038de
+M	js/jquery.fastautocomplete.js	5210baeef7dd5af4df0d5353b358d814
+M	src/SearchService/AbstractSearchService.php	d1e9280126661ee2df3d92a3d3c41bed
+M	src/SearchService/ApachesolrSearchService.php	c86782f3dbf0be316494b56a102d3106
+M	src/SearchService/BasicTitleSearchService.php	c78662c02325ac502672c7c68df00b2c
+M	src/SearchService/CoreSearchService.php	d9e6b9f03363aa4d21de90b9bc9d2ae5
+M	src/SearchService/SearchApiSearchService.php	1268a7aa62f6217833bd38a378ea75f6
+M	src/SearchService/SearchServiceInterface.php	e5c15c1f416f407bb1235a8f84626fba

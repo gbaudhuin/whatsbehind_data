@@ -1,5 +1,0 @@
-M	message_notify.info.yml	71ac4a5e243731118e12b8886a5ff011
-M	tests/modules/message_notify_test/config/install/message.template.message_notify_test.yml	89bf79dbeaebd380e91792f067254b15
-M	tests/modules/message_notify_test/message_notify_test.info.yml	aa29c5620688f923ffd3312a8b95a6f5
-M	tests/src/Functional/EmailNotifierTest.php	4b9858acb20b1bb3ebab3b2606be8573
-M	tests/src/Kernel/MessageNotifyTest.php	c1f6f617198bb34cdfb3ca6f4bb22726

@@ -1,7 +1,14 @@
 M	.travis.yml	33331dbf00823241c7a2e17d5c3fd062
 A	src/Annotation/TypedDataFormWidget.php	835004e3f7c6ccb7bd05a39377d60273
+A	src/Context/AnnotatedClassDiscovery.php	4d16ea2c9542527ed7a94a64df5b0053
+A	src/Context/Annotation/ContextDefinition.php	115c83c11a65d32aca04112feacbfe3b
+A	src/Context/ContextDefinition.php	4510e7aca76ab4da91d9fcb143b7669a
+A	src/Context/ContextDefinitionInterface.php	28379fb4fbebfbf0cca279fd62b8739f
 M	src/DataFetcherTrait.php	07cf402fc6a3822345b58d08295325c6
 A	src/Form/SubformState.php	2cd1d973ff793949879b78f294f367b7
+A	src/PlaceholderResolverTrait.php	656905bf9dd38d929dc6d6a0627ada3b
+A	src/Plugin/TypedDataFilter/EntityUrlFilter.php	594bbf689c1b4bd57da50eefba42393b
+A	src/Plugin/TypedDataFilter/StripTagsFilter.php	1ed9b976db62206c56288b03ecd80504
 A	src/Plugin/TypedDataFormWidget/SelectWidget.php	7b82a1bd55482ed91a7c439ddcff0675
 A	src/Plugin/TypedDataFormWidget/TextInputWidget.php	834800b4ec0a2f661865e04647608268
 A	src/Util/StateTrait.php	964c3b433c7e256dfcbe6a9f2c271982
@@ -16,7 +23,7 @@ D	tests/Kernel/DataFilterTest.php
 D	tests/Kernel/PlaceholderResolverTest.php	
 A	tests/modules/typed_data_widget_test/src/FormWidgetExampleController.php	38ca84946d3bcd2eb917dbeae98f1875
 A	tests/modules/typed_data_widget_test/src/FormWidgetExampleForm.php	6cdba83bbd8dd32d1be98b28d4861743
-A	tests/modules/typed_data_widget_test/typed_data_widget_test.info.yml	206d1dcc72ba155a26dabdbba8a6f41d
+A	tests/modules/typed_data_widget_test/typed_data_widget_test.info.yml	eef800baf3ef159ac1a738627c7b34b6
 A	tests/modules/typed_data_widget_test/typed_data_widget_test.links.menu.yml	502784952aa86f64de1a5b9680660ed5
 A	tests/modules/typed_data_widget_test/typed_data_widget_test.routing.yml	3a3e6c24c35f45881bee2b91cc533193
 A	tests/src/BrowserTestHelpersTrait.php	5aecb76a4747e97e5aa79e9002934a52
@@ -26,5 +33,5 @@ A	tests/src/Kernel/DataDefinitionFetcherTest.php	814905ecfa955e3f7db008592a600be
 A	tests/src/Kernel/DataFetcherTest.php	b9f50eaef6b14b61fcea7fa008c2cc76
 A	tests/src/Kernel/DataFilterTest.php	3bc4798b61addcb42f786f52f30c3467
 A	tests/src/Kernel/PlaceholderResolverTest.php	d1081aca8088d956cd2e6430159ed735
-M	typed_data.info.yml	f6beb6f200d028f4217f22b3f16b3373
+M	typed_data.info.yml	22027007de97e5677b61930e5770ecf5
 M	typed_data.services.yml	a1a66bf9ddb8e15022017a3321de3541

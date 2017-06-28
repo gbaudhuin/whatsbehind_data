@@ -1,5 +1,5 @@
-M	eu_cookie_compliance.info.yml	3e2fab7a08d0a392007b6bab323354cc
+M	eu_cookie_compliance.info.yml	e7d9aaa471b0444fe46e8fead87f088f
 M	eu_cookie_compliance.module	50e553c85889390bdf3af0353420ccc4
-M	src/Form/EuCookieComplianceConfigForm.php	b45c530e75759bd2ad4389e2c704e7cd
-M	src/Tests/EuCookieComplianceConfigFormTest.php	1e802588e7cb363795908b9b911a96c6
-M	tests/modules/eu_cookie_compliance_test.info.yml	7502b46c9a597aa49731183a9b913ff5
+M	src/Form/EuCookieComplianceConfigForm.php	2d48d24086b1e63eef2110725f8dbf70
+M	src/Tests/EuCookieComplianceConfigFormTest.php	42ce49b0cd5920ef81e7b06a1bde3925
+M	tests/modules/eu_cookie_compliance_test.info.yml	8202e1ef1af44ed77282b7854387fab7

@@ -1,3 +1,6 @@
-M	oauth2_client.inc	5c58edef2fa4b5a9058bc47be79fce52
-M	oauth2_client.info	badb12834c06926e478e0bc1e86e2ce5
-M	tests/oauth2_client_test.info	b2cc160221a3433a66d9d485e4bf3e2c
+M	oauth2_client.api.php	a30e41478e8edef8fad8d946d8f2e56a
+M	oauth2_client.inc	a49f6b865af674a3fbccabc5e453ac27
+M	oauth2_client.info	2e5037a6ba6c39e52f449b195c9d88f8
+M	oauth2_client.module	b38512457a6d070567d0bf7cddfe8a94
+M	tests/oauth2_client_test.info	493f662a41c8eb03467f48004f6716b2
+M	tests/oauth2_client_test.module	6f76f878c8c9db3600eff0313bddc420

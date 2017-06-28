@@ -1,5 +1,5 @@
-M	composer.json	b604ef43e03ea9439b206d6fcc072fd6
-M	media_entity_document.info.yml	5e08144b63d0af7f17ddc50668786562
+D	composer.json	
+M	media_entity_document.info.yml	0214aabb20ebb5bdc62202b0c9a1369e
 M	media_entity_document.install	1a3722cb6476ee3845363fd996c9e078
 M	media_entity_document.module	74131604ea755a63ebac1008c9ae8721
 M	src/Plugin/EntityBrowser/Widget/Upload.php	f86503c7435f8152c9242d83d2d2fa88

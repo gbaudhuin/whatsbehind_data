@@ -1,0 +1,7 @@
+M	config/install/editor.editor.basic_html.yml	e30fbef20b0c0e329028ead0aec777c5
+M	config/install/editor.editor.full_html.yml	802b38f4963b9dc18146e92bedd8a321
+M	config/install/filter.format.basic_html.yml	cfe18fc4fe1b8c621d30d78ea8d924a9
+M	config/install/filter.format.full_html.yml	511ecbc28e6f039cf4bc05f18b7ae788
+M	config/install/filter.format.plain_text.yml	207a7613714953a5394c12fea5159bc5
+M	config/install/filter.format.restricted_html.yml	c0090936380e7b4f74e0465662a363ec
+M	varbase_editor.info.yml	0d464bf5e4bf8a7d5dc0398dd395cdee

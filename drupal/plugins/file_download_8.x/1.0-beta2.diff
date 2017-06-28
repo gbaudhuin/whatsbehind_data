@@ -1,0 +1,11 @@
+A	.gitignore	b67d8b2b252543c01bd803ee4d3128ec
+D	.idea/file_download.iml	
+D	.idea/workspace.xml	
+A	CHANGELOG.md	93035177837826ae2d9d1ed81df80039
+A	composer.json	e773750b439b35782d06d624ff506ec0
+M	file_download.info.yml	ca0a2832a692ef7966be45da4940efa8
+M	file_download.module	258a45bc843ebd73d45bf1425f713740
+M	modules/file_download_counter/file_download_counter.info.yml	896517083f8aa57813976f4363b357c5
+M	modules/file_download_counter/file_download_counter.module	c824ee4087220e4067051e2b4568bea3
+M	src/Controller/FileDownloadDownloadController.php	9945277aea1463f0fd1693a933a8ec53
+M	src/Plugin/Field/FieldFormatter/FileDownloadFieldFormatter.php	26340ac707bc352845768ff66a183c8c

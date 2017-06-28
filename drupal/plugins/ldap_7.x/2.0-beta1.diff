@@ -110,7 +110,6 @@ D	ldap_profile/ldap_profile.info
 D	ldap_profile/ldap_profile.install	
 D	ldap_profile/ldap_profile.module	
 D	ldap_profile/ldap_profile_data_translate.inc	
-D	ldap_query/1431134.patch	
 M	ldap_query/LdapQuery.class.php	a56126561a77ce889f70be4903332603
 M	ldap_query/LdapQueryAdmin.class.php	5862d97617d3ee937a448cc113dac23f
 M	ldap_query/_dev_notes.txt	3e809a80fb5f35b1a49c1d2d62fb1359

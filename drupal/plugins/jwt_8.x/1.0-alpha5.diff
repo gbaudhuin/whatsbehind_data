@@ -1,0 +1,4 @@
+M	jwt.info.yml	7ccbba00b1a359f95ee8868cd44bd37a
+M	modules/jwt_auth_consumer/jwt_auth_consumer.info.yml	58c12c593f1d9e4857bd721218e2f254
+M	modules/jwt_auth_issuer/jwt_auth_issuer.info.yml	66f14a1e997042510765b700c854bb10
+M	modules/jwt_auth_issuer/src/Controller/JwtAuthIssuerController.php	9995c395210c0baca95124fc25963a0b

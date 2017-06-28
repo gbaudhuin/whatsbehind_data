@@ -1,6 +1,10 @@
-M	CHANGELOG.txt	38096e3cc7a28f58702b1a07711d6c3b
+A	.codeclimate.yml	08d3d75d1d39afda55756e701388de80
+A	.csslintrc	2af627fe5e2424e1141a23bcb486b686
+A	.eslintignore	62cc41b5260d3bc58d728911729b3f08
+A	.eslintrc	9fa48a530b6bc9710af3f76779abb0d2
+M	CHANGELOG.txt	533cea8192e395b033aa67ff9f139d96
 M	panelizer.api.php	db16154948a5641b1d8f6343004eb217
-M	panelizer.info	e8ebad4fe1d0eee7f56abf98d4c57160
+M	panelizer.info	0f02876eaa765b7bd27ca59576b7fff3
 M	panelizer.install	8fe741fd121a20d2349f39de168cfc77
 M	panelizer.module	5d9261ff360f7353e8042f09dd6749f8
 M	plugins/entity/PanelizerEntityDefault.class.php	19df9d41fac9157137979c266bb1c3a9
@@ -8,4 +12,4 @@ M	plugins/entity/PanelizerEntityNode.class.php	3907a84805aaedac48c90e718f8869e2
 M	plugins/panels_storage/panelizer_default.inc	282daeb8dcf5522be319e17e30f8bb15
 M	tests/panelizer.exportables.test	5e95fa18056fac6f41066197e09f1f99
 M	tests/panelizer.node.test	895c2cab0853e01acd0334ea86e48a48
-M	tests/panelizer_test_exportables.info	365f9f3a5189ec4d0bbc1b80c4c3f198
+M	tests/panelizer_test_exportables.info	c2d8caea515265d8b2aea36bfbcd762e

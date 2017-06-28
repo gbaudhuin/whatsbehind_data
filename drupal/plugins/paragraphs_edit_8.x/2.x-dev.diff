@@ -1,0 +1,12 @@
+M	paragraphs_edit.info.yml	5bfae0668bef2d0ae0ce518508778f9e
+M	paragraphs_edit.module	9d80264e82482a7c4149fcfe764df4e5
+M	paragraphs_edit.routing.yml	15e2cb15bdd3a1c4b77794a72fe23f56
+A	paragraphs_edit.services.yml	dad69b6aa2a716124aedf9008114b2bc
+A	src/Controller/ParagraphFormController.php	270fade1f553b480e706a348c1377a1d
+A	src/Form/ParagraphCloneForm.php	97f0366bb20c7d4b128c4a55295465cc
+A	src/Form/ParagraphDeleteForm.php	fab935cb72c4cc1f57546fb1feaea500
+A	src/Form/ParagraphEditForm.php	791c4a87df328964387afdd24c110972
+D	src/ParagraphCloneForm.php	
+D	src/ParagraphDeleteForm.php	
+D	src/ParagraphEditForm.php	
+A	src/ParagraphFormHelperTrait.php	17b6b9a4be648ec860f6a8cb1a1677d6

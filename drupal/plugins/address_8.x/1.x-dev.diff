@@ -1,7 +1,4 @@
-M	address.info.yml	7843d417b8927e37481401e3c8697158
-M	css/address.form.css	2ac5b842174dbe1dc4932b26f1995447
-A	src/Element/Address.php	cbbf40f7c58b08812191a334750dca98
-M	src/Plugin/Field/FieldType/AddressItem.php	be2dcc3eb67a8fd651650362da7db041
-M	src/Plugin/Field/FieldWidget/AddressDefaultWidget.php	cfc2790a01c03c2e942522f86249831e
-M	tests/modules/address_test/address_test.info.yml	614ea42b47a739bc3138672d25b918d1
-M	tests/src/FunctionalJavascript/AddressDefaultWidgetTest.php	4cdcad8424bba1fda71ec2db7c27e240
+M	address.info.yml	4e362d6d3e7d50a4ecc79dba82153bc6
+A	ludwig.json	90d525f44bc91be5039b24c9a5a435a1
+M	tests/modules/address_test/address_test.info.yml	19aef166c8e896616a4ee121dfeb09e6
+M	tests/src/Kernel/ZoneItemTest.php	f09b5716d57e0b68a19b620ac04460f8

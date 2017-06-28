@@ -1,0 +1,10 @@
+M	media.info	8408b7bf4a2e375c77eff134aa77265b
+M	media.install	1484c1190088b463726373efae535a6c
+M	modules/media_bulk_upload/media_bulk_upload.info	98576c2bc3beb20c89af0cc6c1c1aa04
+M	modules/media_internet/media_internet.info	de6dc962a659e432779dc7ab1fa51c14
+M	modules/media_internet/tests/media_internet_test.info	2ff7063ca5e46b5d6de9f001b95942bf
+M	modules/media_migrate_file_types/media_migrate_file_types.info	8bd720309b3b9cefe9c0a95aabe546ce
+M	modules/media_wysiwyg/media_wysiwyg.info	30e3ddb631aa5e3a394795d38267d0f2
+M	modules/media_wysiwyg_view_mode/media_wysiwyg_view_mode.info	71e214958256be82d54e04677d641c55
+M	modules/mediafield/mediafield.info	4f0e541fde5805f38b5d36c65133e27e
+M	tests/media_module_test.info	a88da5753a4b50ccd40c9203463d0691

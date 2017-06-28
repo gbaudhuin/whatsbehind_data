@@ -1,0 +1,8 @@
+M	build/drd.phar	eab56882793c2094143be15474280044
+M	drd.info.yml	d499e2ff2200eb32cf4abbd2bd07ade5
+M	drd.services.yml	ced9d32b73d80e2783d5dd33cf89ba35
+A	src/DrdDnsLookup.php	259e6c659e4dd92e567b3d14011b2a59
+M	src/DrdHttpRequest.php	4c2b0b9ff79a958b13c967a7f24f3b98
+M	src/Entity/DrdDomain.php	60ba3aa06a9e5561a9eae4ec2cd2bf97
+M	src/Entity/DrdHost.php	8ebcaa8a9707c451b50675ce48b5d6fc
+M	src/Remote/index.php	4b59e3d776d48b96011b03d5fbc4131e

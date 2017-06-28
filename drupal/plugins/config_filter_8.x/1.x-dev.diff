@@ -1,0 +1,4 @@
+M	config_filter.info.yml	58c2012f1b0bd5562d28394f05d3ef43
+M	src/ConfigFilterStorageFactory.php	5ed061eed8b5c2d3937477359b4e847d
+M	tests/modules/config_filter_split_test/config_filter_split_test.info.yml	8754c4713b1be540ccbbf4b4152d3f94
+M	tests/modules/config_filter_test/config_filter_test.info.yml	d493e56403b16d16476472bae07bf39d

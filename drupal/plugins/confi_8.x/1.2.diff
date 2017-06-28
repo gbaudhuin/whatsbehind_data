@@ -1,0 +1,4 @@
+M	config_import.info.yml	0cd5ed7b1d2648fca0d1f61d7003b283
+M	config_import.services.yml	b4c891d104ee4625f8b3c3d414be728e
+A	src/ConfigFeaturesImporterService.php	5724a31fb419ddd717af57f9eae263db
+M	tests/modules/config_import_test/config_import_test.info.yml	08a0f925424212254939eb129cd13dc1

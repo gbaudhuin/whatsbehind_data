@@ -1,8 +1,2 @@
-M	includes/MediaYouTubeStreamWrapper.inc	131dc752feb84566ec2821bea4364d0c
-M	includes/media_youtube.formatters.inc	e452e0f82de81e4bf677450729fbac39
-M	media_youtube.info	a25cb20cb601eed550edd99604159f62
-A	media_youtube.test	42556c6fb9b555a1ff613fe9062a1970
-A	tests/includes/MediaYouTubeTestHandler.inc	4ea356505c314165567c9f2c89e70f58
-A	tests/includes/MediaYouTubeTestStreamWrapper.inc	d7b5895807238a0561656870e18d6ea4
-A	tests/media_youtube_test.info	24206a4408a33f327321129cf72b3737
-A	tests/media_youtube_test.module	c35cfa57a3693a5da65f309f4090f15b
+M	media_youtube.info	b1961599491022706cdec40a9364d90b
+M	tests/media_youtube_test.info	31b0cda26e3d2241dbaab6afe4078f28

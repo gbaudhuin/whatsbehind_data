@@ -1,5 +1,0 @@
-A	composer.json	19a20cb59ec9db8678f3faa25c830b7f
-M	imagefield_slideshow.info.yml	380153ee4c939d34f64f871e95596282
-M	imagefield_slideshow.install	0d5123bf30624eed7c595a5c129d58c1
-M	imagefield_slideshow.libraries.yml	0e4f4e9f41dd0bed97b63db3fe7bbda1
-M	src/Plugin/Field/FieldFormatter/ImagefieldSlideshowFieldFormatter.php	f9b2fbcb785b57835b4cbdf4a3e54693

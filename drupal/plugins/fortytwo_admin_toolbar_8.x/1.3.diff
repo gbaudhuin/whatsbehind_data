@@ -1,0 +1,35 @@
+M	.gitignore	ea3a38b822fb28078719099250aed180
+A	.sass-lint.yml	7393484f4546eb599ada5c8519430e34
+M	css/fortytwo_admin_toolbar.css	4624cb5615d993c38bceaf2a7af15e77
+M	fonts/linea.eot	1cf53a79951bff77ec5b07b5a6232088
+M	fonts/linea.json	b37d448b2c7b70c19c23092a29d439c5
+M	fonts/linea.svg	20ca2f347a79988bfbe3ceab3246778d
+M	fonts/linea.ttf	10e617da7b89399f39f716aaa16a38b1
+M	fonts/linea.woff	6c2c7d3495b5a22d56b3e33c36941549
+M	fortytwo_admin_toolbar.info.yml	3becb2a871415f25937e1ae95f35609c
+A	gulpfile.js	2d898558e61ae1480b68bba30aca811b
+A	package.json	e046883c6b87ab62b39954e1089da26c
+D	sass/components/_base.sass	
+A	sass/components/_base.scss	6c1b7525d306eeae691787724ec3089d
+D	sass/components/_horizontal.sass	
+A	sass/components/_horizontal.scss	78fd7bebae4568073e1fd81b453ab702
+D	sass/components/_icons.sass	
+A	sass/components/_icons.scss	2a1203e888a9bf1ab5072102ff671f2a
+D	sass/components/_vertical.sass	
+A	sass/components/_vertical.scss	1c92270bcbe71c7c4c21feebe634647e
+D	sass/config/_animation.sass	
+A	sass/config/_animation.scss	84dce8e863b05287c8de4c0d90352842
+D	sass/config/_colors.sass	
+A	sass/config/_colors.scss	cfd3f79ab605e88242e2534ca93a4c04
+D	sass/config/_media.sass	
+A	sass/config/_media.scss	a75d33f3a4ebdd0e2899b3751b50b0a5
+D	sass/fortytwo_admin_toolbar.sass	
+A	sass/fortytwo_admin_toolbar.scss	4a4679c4878850e60f1a25fb358ae5a3
+D	sass/lib/_fonts.sass	
+A	sass/lib/_fonts.scss	4645c689286af9ae1dd4060af16325ea
+D	sass/lib/_linea.sass	
+A	sass/lib/_linea.scss	946767a257737dcfa212a1838a17f154
+D	sass/lib/_mixins.sass	
+A	sass/lib/_mixins.scss	76341d7ca309e8e3b742a4193bf67f4f
+D	sass/profiles/_profile-1.sass	
+A	sass/profiles/_profile-1.scss	abf94f33bdd9a115c28ed912ab3dba46

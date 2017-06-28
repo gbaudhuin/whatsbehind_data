@@ -1,7 +1,4 @@
-M	config/install/ng_lightbox.settings.yml	be80d127f1a03c9c583ca32df1db3659
-M	config/schema/ng_lightbox.schema.yml	b76b71c55dc99a377c8de24a0c24c9cf
-M	ng_lightbox.info.yml	77d34d6a018534130669cfa62337d3b1
-M	ng_lightbox.module	e28652e8ee9ccfbf8d4e0e9c336eff1a
-M	src/Form/NgLightboxSettingsForm.php	06a573be7fb17bb7e896fe438431e0b3
-M	src/NgLightbox.php	e310c0912448252bf927a486c4ba05aa
-A	tests/src/Kernel/NgLightboxTest.php	1af2785393b285e97ce65ab36051c348
+M	ng_lightbox.info.yml	9da00c9b6fa4a9a41c82f84454693963
+M	src/Form/NgLightboxSettingsForm.php	1ce0a758004fdb04856696879766def1
+M	src/NgLightbox.php	1afc34845da74aaefb52ffdfb4098d43
+M	src/Tests/NgLightboxTest.php	fc37a4d52b05570cd49e55830b4459aa

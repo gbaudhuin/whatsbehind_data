@@ -1,0 +1,14 @@
+M	README.txt	1aa3ccd789a6fd407a9f04a16ddd046d
+M	help/term_merge.html	725f73e3bcf0e59e45a406731782ddac
+M	help/term_merge_duplicate_suggestion.html	0de1f7551e6e9ecf640aefdcc5f7c57f
+A	includes/EntityReferenceTermMergeSynonymsBehavior.class.inc	4c7513407740d59c195ba188504e0315
+A	includes/TaxonomyTermReferenceTermMergeSynonymsBehavior.class.inc	66a6f41e12d587430f7fe3644b93f7a8
+A	includes/TermMergeSynonymsBehavior.interface.inc	4a12af52e2931e5ada211bb0b42cb308
+A	includes/TextTermMergeSynonymsBehavior.class.inc	417f14f32b5e4df5b8fee9f17f2c41c7
+A	plugins/behavior/term_merge.inc	e197d34949d4e12cae0bd023219cce29
+M	term_merge.api.php	4641bd676c62d80edb9bb8e5b64bd5a8
+M	term_merge.batch.inc	20c359cd8121b57d212883847ce59d5b
+M	term_merge.info	3c8b6b28c4f940898030aca810fadcc6
+M	term_merge.module	b15f3b9f208453f93d837ef902586f72
+M	term_merge.pages.inc	7db82cfdba652387117e0fbab8edc7c6
+M	term_merge.test	5e29f043fcd2604afe8746de0b051bed

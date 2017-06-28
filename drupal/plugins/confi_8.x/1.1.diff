@@ -1,0 +1,11 @@
+M	README.md	dadf7e594d4accc84f147f474953bec3
+A	config_import.api.php	481afa09e962ecfa59de3f9b11477511
+M	config_import.info.yml	b9ee5499c0fd135634ee358db2d229b6
+M	config_import.services.yml	a84d3350a2f1997db10043399f1f0999
+M	src/ConfigImporterService.php	be876efe905355e1981c9a6d7c61da46
+M	src/ConfigImporterServiceInterface.php	c701dac44cd7eda56cdab5b2d50d3071
+A	tests/config/import/core.extension.yml	6c4016186ccf77aacc4588a097f4d819
+A	tests/modules/config_import_test/config_import_test.info.yml	519ef762d7168140b8b87ba9a9d42450
+A	tests/modules/config_import_test/config_import_test.module	ee8e4d7d60f6cfd8a427cbc8dd31f8ee
+A	tests/src/Unit/ConfigImporterServiceTest.php	44cee08d8fa446e452a14afeebecef74
+A	tests/src/Unit/ConfigImporterServiceTestBase.php	18a636b76ff14fb95ed00605e8c60cdd

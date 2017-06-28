@@ -1,2 +1,6 @@
-M	file_browser.info.yml	53ba2f26302e299351165507b76100ab
-M	modules/file_browser_example/file_browser_example.info.yml	49002ead4a4905a88b94d8f2d7e3ab87
+M	file_browser.info.yml	a09b756e426bba68660b17123e91d9a7
+M	modules/file_browser_example/config/install/core.entity_form_display.block_content.file_browser.default.yml	7a6948e634ba3acd0e423a9dffe2891c
+M	modules/file_browser_example/config/install/core.entity_form_display.node.file_browser.default.yml	f6669bcb728c9ab11639a9d6e22f1b2f
+M	modules/file_browser_example/config/install/core.entity_view_display.block_content.file_browser.default.yml	3684ad1c4a17a81cf582d19c68d25421
+M	modules/file_browser_example/config/install/core.entity_view_display.node.file_browser.default.yml	22e6627a360da35935148f011282594d
+M	modules/file_browser_example/file_browser_example.info.yml	14e7c3fb1f477110d4d1512bacb9c31b

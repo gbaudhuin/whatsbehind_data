@@ -1,0 +1,375 @@
+M	bootstrap.info.yml	c53c4ecbfb54f1d0b09cb01412661cf8
+M	bootstrap.libraries.yml	5b8cf81acc046d3ef5423af5a405e87b
+M	bootstrap.theme	d37b6f2be8dfe1ab57aa1dae5c7b561c
+M	css/3.0.0/overrides-amelia.min.css	413a0592b0298c926d92635a9ae128f2
+M	css/3.0.0/overrides-cerulean.min.css	671dee9e4632e46971949a14f926a188
+M	css/3.0.0/overrides-cosmo.min.css	eb76b940ed266cdd5c08cb20c13bd200
+M	css/3.0.0/overrides-cyborg.min.css	f2e050ac27334f505a1af499db82cd62
+M	css/3.0.0/overrides-flatly.min.css	1103fe3ffebdff857f4d715b4483d57c
+M	css/3.0.0/overrides-journal.min.css	44033b8c30339096e6e99a0a878fe312
+M	css/3.0.0/overrides-readable.min.css	b01775ef22f0385134f580d7cb78b8d1
+M	css/3.0.0/overrides-simplex.min.css	446755fd078e8e1f4a8f543b9515bd66
+M	css/3.0.0/overrides-slate.min.css	2a2432509a7e6eebcbece880e338ba9b
+M	css/3.0.0/overrides-spacelab.min.css	ef932a9d7fcedbc2605dd068384d08b3
+M	css/3.0.0/overrides-united.min.css	0395333d298402dbb3c45db249fe7349
+M	css/3.0.0/overrides.min.css	b6ef5c550b50f8f06e90d7f14bced247
+M	css/3.0.1/overrides-amelia.min.css	43371bcb048ca8145f804e4b9cdad3c6
+M	css/3.0.1/overrides-cerulean.min.css	671dee9e4632e46971949a14f926a188
+M	css/3.0.1/overrides-cosmo.min.css	eb76b940ed266cdd5c08cb20c13bd200
+M	css/3.0.1/overrides-cyborg.min.css	f2e050ac27334f505a1af499db82cd62
+M	css/3.0.1/overrides-flatly.min.css	711cd4af58f68f48c4d5c6e46e9e4c1f
+M	css/3.0.1/overrides-journal.min.css	44033b8c30339096e6e99a0a878fe312
+M	css/3.0.1/overrides-readable.min.css	b01775ef22f0385134f580d7cb78b8d1
+M	css/3.0.1/overrides-simplex.min.css	446755fd078e8e1f4a8f543b9515bd66
+M	css/3.0.1/overrides-slate.min.css	2a2432509a7e6eebcbece880e338ba9b
+M	css/3.0.1/overrides-spacelab.min.css	ef932a9d7fcedbc2605dd068384d08b3
+M	css/3.0.1/overrides-united.min.css	0395333d298402dbb3c45db249fe7349
+M	css/3.0.1/overrides.min.css	061ca9bdb2087306b36ae8eecca471d9
+M	css/3.0.2/overrides-amelia.min.css	43371bcb048ca8145f804e4b9cdad3c6
+M	css/3.0.2/overrides-cerulean.min.css	671dee9e4632e46971949a14f926a188
+M	css/3.0.2/overrides-cosmo.min.css	eb76b940ed266cdd5c08cb20c13bd200
+M	css/3.0.2/overrides-cyborg.min.css	f2e050ac27334f505a1af499db82cd62
+M	css/3.0.2/overrides-flatly.min.css	711cd4af58f68f48c4d5c6e46e9e4c1f
+M	css/3.0.2/overrides-journal.min.css	44033b8c30339096e6e99a0a878fe312
+M	css/3.0.2/overrides-readable.min.css	b01775ef22f0385134f580d7cb78b8d1
+M	css/3.0.2/overrides-simplex.min.css	446755fd078e8e1f4a8f543b9515bd66
+M	css/3.0.2/overrides-slate.min.css	2a2432509a7e6eebcbece880e338ba9b
+M	css/3.0.2/overrides-spacelab.min.css	ef932a9d7fcedbc2605dd068384d08b3
+M	css/3.0.2/overrides-united.min.css	0395333d298402dbb3c45db249fe7349
+M	css/3.0.2/overrides-yeti.min.css	061ca9bdb2087306b36ae8eecca471d9
+M	css/3.0.2/overrides.min.css	061ca9bdb2087306b36ae8eecca471d9
+M	css/3.0.3/overrides-amelia.min.css	43371bcb048ca8145f804e4b9cdad3c6
+M	css/3.0.3/overrides-cerulean.min.css	671dee9e4632e46971949a14f926a188
+M	css/3.0.3/overrides-cosmo.min.css	eb76b940ed266cdd5c08cb20c13bd200
+M	css/3.0.3/overrides-cyborg.min.css	f2e050ac27334f505a1af499db82cd62
+M	css/3.0.3/overrides-flatly.min.css	711cd4af58f68f48c4d5c6e46e9e4c1f
+M	css/3.0.3/overrides-journal.min.css	44033b8c30339096e6e99a0a878fe312
+M	css/3.0.3/overrides-readable.min.css	df837774eff95ddbcbb7eba74342716b
+M	css/3.0.3/overrides-simplex.min.css	446755fd078e8e1f4a8f543b9515bd66
+M	css/3.0.3/overrides-slate.min.css	2a2432509a7e6eebcbece880e338ba9b
+M	css/3.0.3/overrides-spacelab.min.css	ef932a9d7fcedbc2605dd068384d08b3
+M	css/3.0.3/overrides-united.min.css	0395333d298402dbb3c45db249fe7349
+M	css/3.0.3/overrides-yeti.min.css	2de1ed4678bc93ae8f16e73bef9e78a9
+M	css/3.0.3/overrides.min.css	a661e552a224a3072c89276961379802
+M	css/3.1.0/overrides-amelia.min.css	43371bcb048ca8145f804e4b9cdad3c6
+M	css/3.1.0/overrides-cerulean.min.css	671dee9e4632e46971949a14f926a188
+M	css/3.1.0/overrides-cosmo.min.css	eb76b940ed266cdd5c08cb20c13bd200
+M	css/3.1.0/overrides-cyborg.min.css	f2e050ac27334f505a1af499db82cd62
+M	css/3.1.0/overrides-flatly.min.css	711cd4af58f68f48c4d5c6e46e9e4c1f
+M	css/3.1.0/overrides-journal.min.css	44033b8c30339096e6e99a0a878fe312
+M	css/3.1.0/overrides-lumen.min.css	a661e552a224a3072c89276961379802
+M	css/3.1.0/overrides-readable.min.css	df837774eff95ddbcbb7eba74342716b
+M	css/3.1.0/overrides-simplex.min.css	446755fd078e8e1f4a8f543b9515bd66
+M	css/3.1.0/overrides-slate.min.css	2a2432509a7e6eebcbece880e338ba9b
+M	css/3.1.0/overrides-spacelab.min.css	ef932a9d7fcedbc2605dd068384d08b3
+M	css/3.1.0/overrides-superhero.min.css	a661e552a224a3072c89276961379802
+M	css/3.1.0/overrides-united.min.css	0395333d298402dbb3c45db249fe7349
+M	css/3.1.0/overrides-yeti.min.css	2de1ed4678bc93ae8f16e73bef9e78a9
+M	css/3.1.0/overrides.min.css	a661e552a224a3072c89276961379802
+M	css/3.1.1/overrides-amelia.min.css	43371bcb048ca8145f804e4b9cdad3c6
+M	css/3.1.1/overrides-cerulean.min.css	671dee9e4632e46971949a14f926a188
+M	css/3.1.1/overrides-cosmo.min.css	eb76b940ed266cdd5c08cb20c13bd200
+M	css/3.1.1/overrides-cyborg.min.css	f2e050ac27334f505a1af499db82cd62
+M	css/3.1.1/overrides-darkly.min.css	a661e552a224a3072c89276961379802
+M	css/3.1.1/overrides-flatly.min.css	711cd4af58f68f48c4d5c6e46e9e4c1f
+M	css/3.1.1/overrides-journal.min.css	44033b8c30339096e6e99a0a878fe312
+M	css/3.1.1/overrides-lumen.min.css	10cd0a4e852c99252942c24f3c1758b0
+M	css/3.1.1/overrides-readable.min.css	5bf1218be955a2bc7450130305d58e3e
+M	css/3.1.1/overrides-simplex.min.css	085a0cf674fda300d437aaee2f52befc
+M	css/3.1.1/overrides-slate.min.css	2a2432509a7e6eebcbece880e338ba9b
+M	css/3.1.1/overrides-spacelab.min.css	ef932a9d7fcedbc2605dd068384d08b3
+M	css/3.1.1/overrides-superhero.min.css	ea541620f6682ca01ff99eb158514752
+M	css/3.1.1/overrides-united.min.css	0395333d298402dbb3c45db249fe7349
+M	css/3.1.1/overrides-yeti.min.css	2de1ed4678bc93ae8f16e73bef9e78a9
+M	css/3.1.1/overrides.min.css	a661e552a224a3072c89276961379802
+M	css/3.2.0/overrides-amelia.min.css	43371bcb048ca8145f804e4b9cdad3c6
+M	css/3.2.0/overrides-cerulean.min.css	671dee9e4632e46971949a14f926a188
+M	css/3.2.0/overrides-cosmo.min.css	eb76b940ed266cdd5c08cb20c13bd200
+M	css/3.2.0/overrides-cyborg.min.css	f2e050ac27334f505a1af499db82cd62
+M	css/3.2.0/overrides-darkly.min.css	4f6ca8fb6edb9277f9c1d60a059e1dab
+M	css/3.2.0/overrides-flatly.min.css	711cd4af58f68f48c4d5c6e46e9e4c1f
+M	css/3.2.0/overrides-journal.min.css	44033b8c30339096e6e99a0a878fe312
+M	css/3.2.0/overrides-lumen.min.css	10cd0a4e852c99252942c24f3c1758b0
+M	css/3.2.0/overrides-paper.min.css	e31ff2db829996c7cc47df0f54dac14d
+M	css/3.2.0/overrides-readable.min.css	5bf1218be955a2bc7450130305d58e3e
+M	css/3.2.0/overrides-sandstone.min.css	e31ff2db829996c7cc47df0f54dac14d
+M	css/3.2.0/overrides-simplex.min.css	085a0cf674fda300d437aaee2f52befc
+M	css/3.2.0/overrides-slate.min.css	2a2432509a7e6eebcbece880e338ba9b
+M	css/3.2.0/overrides-spacelab.min.css	ef932a9d7fcedbc2605dd068384d08b3
+M	css/3.2.0/overrides-superhero.min.css	ea541620f6682ca01ff99eb158514752
+M	css/3.2.0/overrides-united.min.css	0395333d298402dbb3c45db249fe7349
+M	css/3.2.0/overrides-yeti.min.css	2de1ed4678bc93ae8f16e73bef9e78a9
+M	css/3.2.0/overrides.min.css	e31ff2db829996c7cc47df0f54dac14d
+M	css/3.3.0/overrides-amelia.min.css	e31ff2db829996c7cc47df0f54dac14d
+M	css/3.3.0/overrides-cerulean.min.css	671dee9e4632e46971949a14f926a188
+M	css/3.3.0/overrides-cosmo.min.css	598e4f1de073cc37a6cac91dd968bea6
+M	css/3.3.0/overrides-cyborg.min.css	b672fb3dc9f7ca107a9a0e9bdd2d3ee8
+M	css/3.3.0/overrides-darkly.min.css	4f6ca8fb6edb9277f9c1d60a059e1dab
+M	css/3.3.0/overrides-flatly.min.css	711cd4af58f68f48c4d5c6e46e9e4c1f
+M	css/3.3.0/overrides-journal.min.css	44033b8c30339096e6e99a0a878fe312
+M	css/3.3.0/overrides-lumen.min.css	10cd0a4e852c99252942c24f3c1758b0
+M	css/3.3.0/overrides-paper.min.css	76687378011dcb92b80882839be6e226
+M	css/3.3.0/overrides-readable.min.css	a8cba83fde1d6b4b19066d25991b5c10
+M	css/3.3.0/overrides-sandstone.min.css	68261580e6fb0e1282b100584e094282
+M	css/3.3.0/overrides-simplex.min.css	937f0e04774eec8f11d72b40901c3585
+M	css/3.3.0/overrides-slate.min.css	2a2432509a7e6eebcbece880e338ba9b
+M	css/3.3.0/overrides-spacelab.min.css	ef932a9d7fcedbc2605dd068384d08b3
+M	css/3.3.0/overrides-superhero.min.css	ea541620f6682ca01ff99eb158514752
+M	css/3.3.0/overrides-united.min.css	0395333d298402dbb3c45db249fe7349
+M	css/3.3.0/overrides-yeti.min.css	75900919df37679a70791f3dacce7fb3
+M	css/3.3.0/overrides.min.css	e31ff2db829996c7cc47df0f54dac14d
+M	css/3.3.1/overrides-cerulean.min.css	671dee9e4632e46971949a14f926a188
+M	css/3.3.1/overrides-cosmo.min.css	598e4f1de073cc37a6cac91dd968bea6
+M	css/3.3.1/overrides-cyborg.min.css	b672fb3dc9f7ca107a9a0e9bdd2d3ee8
+M	css/3.3.1/overrides-darkly.min.css	4f6ca8fb6edb9277f9c1d60a059e1dab
+M	css/3.3.1/overrides-flatly.min.css	711cd4af58f68f48c4d5c6e46e9e4c1f
+M	css/3.3.1/overrides-journal.min.css	44033b8c30339096e6e99a0a878fe312
+M	css/3.3.1/overrides-lumen.min.css	10cd0a4e852c99252942c24f3c1758b0
+M	css/3.3.1/overrides-paper.min.css	76687378011dcb92b80882839be6e226
+M	css/3.3.1/overrides-readable.min.css	a8cba83fde1d6b4b19066d25991b5c10
+M	css/3.3.1/overrides-sandstone.min.css	68261580e6fb0e1282b100584e094282
+M	css/3.3.1/overrides-simplex.min.css	937f0e04774eec8f11d72b40901c3585
+M	css/3.3.1/overrides-slate.min.css	2a2432509a7e6eebcbece880e338ba9b
+M	css/3.3.1/overrides-spacelab.min.css	ef932a9d7fcedbc2605dd068384d08b3
+M	css/3.3.1/overrides-superhero.min.css	ea541620f6682ca01ff99eb158514752
+M	css/3.3.1/overrides-united.min.css	0395333d298402dbb3c45db249fe7349
+M	css/3.3.1/overrides-yeti.min.css	75900919df37679a70791f3dacce7fb3
+M	css/3.3.1/overrides.min.css	9659f54098bc9b24c1fe50bae1311b10
+M	css/3.3.2/overrides-cerulean.min.css	671dee9e4632e46971949a14f926a188
+M	css/3.3.2/overrides-cosmo.min.css	598e4f1de073cc37a6cac91dd968bea6
+M	css/3.3.2/overrides-cyborg.min.css	b672fb3dc9f7ca107a9a0e9bdd2d3ee8
+M	css/3.3.2/overrides-darkly.min.css	4f6ca8fb6edb9277f9c1d60a059e1dab
+M	css/3.3.2/overrides-flatly.min.css	711cd4af58f68f48c4d5c6e46e9e4c1f
+M	css/3.3.2/overrides-journal.min.css	44033b8c30339096e6e99a0a878fe312
+M	css/3.3.2/overrides-lumen.min.css	10cd0a4e852c99252942c24f3c1758b0
+M	css/3.3.2/overrides-paper.min.css	76687378011dcb92b80882839be6e226
+M	css/3.3.2/overrides-readable.min.css	a8cba83fde1d6b4b19066d25991b5c10
+M	css/3.3.2/overrides-sandstone.min.css	68261580e6fb0e1282b100584e094282
+M	css/3.3.2/overrides-simplex.min.css	937f0e04774eec8f11d72b40901c3585
+M	css/3.3.2/overrides-slate.min.css	2a2432509a7e6eebcbece880e338ba9b
+M	css/3.3.2/overrides-spacelab.min.css	ef932a9d7fcedbc2605dd068384d08b3
+M	css/3.3.2/overrides-superhero.min.css	ea541620f6682ca01ff99eb158514752
+M	css/3.3.2/overrides-united.min.css	0395333d298402dbb3c45db249fe7349
+M	css/3.3.2/overrides-yeti.min.css	75900919df37679a70791f3dacce7fb3
+M	css/3.3.2/overrides.min.css	9659f54098bc9b24c1fe50bae1311b10
+M	css/3.3.4/overrides-cerulean.min.css	671dee9e4632e46971949a14f926a188
+M	css/3.3.4/overrides-cosmo.min.css	598e4f1de073cc37a6cac91dd968bea6
+M	css/3.3.4/overrides-cyborg.min.css	b672fb3dc9f7ca107a9a0e9bdd2d3ee8
+M	css/3.3.4/overrides-darkly.min.css	4f6ca8fb6edb9277f9c1d60a059e1dab
+M	css/3.3.4/overrides-flatly.min.css	711cd4af58f68f48c4d5c6e46e9e4c1f
+M	css/3.3.4/overrides-journal.min.css	44033b8c30339096e6e99a0a878fe312
+M	css/3.3.4/overrides-lumen.min.css	10cd0a4e852c99252942c24f3c1758b0
+M	css/3.3.4/overrides-paper.min.css	76687378011dcb92b80882839be6e226
+M	css/3.3.4/overrides-readable.min.css	a8cba83fde1d6b4b19066d25991b5c10
+M	css/3.3.4/overrides-sandstone.min.css	68261580e6fb0e1282b100584e094282
+M	css/3.3.4/overrides-simplex.min.css	937f0e04774eec8f11d72b40901c3585
+M	css/3.3.4/overrides-slate.min.css	2a2432509a7e6eebcbece880e338ba9b
+M	css/3.3.4/overrides-spacelab.min.css	ef932a9d7fcedbc2605dd068384d08b3
+M	css/3.3.4/overrides-superhero.min.css	ea541620f6682ca01ff99eb158514752
+M	css/3.3.4/overrides-united.min.css	0395333d298402dbb3c45db249fe7349
+M	css/3.3.4/overrides-yeti.min.css	75900919df37679a70791f3dacce7fb3
+M	css/3.3.4/overrides.min.css	9659f54098bc9b24c1fe50bae1311b10
+M	css/3.3.5/overrides-cerulean.min.css	671dee9e4632e46971949a14f926a188
+M	css/3.3.5/overrides-cosmo.min.css	598e4f1de073cc37a6cac91dd968bea6
+M	css/3.3.5/overrides-cyborg.min.css	b672fb3dc9f7ca107a9a0e9bdd2d3ee8
+M	css/3.3.5/overrides-darkly.min.css	b3fb64bd27a5eac8647fca3be9f2a573
+M	css/3.3.5/overrides-flatly.min.css	711cd4af58f68f48c4d5c6e46e9e4c1f
+M	css/3.3.5/overrides-journal.min.css	44033b8c30339096e6e99a0a878fe312
+M	css/3.3.5/overrides-lumen.min.css	10cd0a4e852c99252942c24f3c1758b0
+M	css/3.3.5/overrides-paper.min.css	76687378011dcb92b80882839be6e226
+M	css/3.3.5/overrides-readable.min.css	a8cba83fde1d6b4b19066d25991b5c10
+M	css/3.3.5/overrides-sandstone.min.css	68261580e6fb0e1282b100584e094282
+M	css/3.3.5/overrides-simplex.min.css	937f0e04774eec8f11d72b40901c3585
+M	css/3.3.5/overrides-slate.min.css	2a2432509a7e6eebcbece880e338ba9b
+M	css/3.3.5/overrides-spacelab.min.css	ef932a9d7fcedbc2605dd068384d08b3
+M	css/3.3.5/overrides-superhero.min.css	ea541620f6682ca01ff99eb158514752
+M	css/3.3.5/overrides-united.min.css	0395333d298402dbb3c45db249fe7349
+M	css/3.3.5/overrides-yeti.min.css	75900919df37679a70791f3dacce7fb3
+M	css/3.3.5/overrides.min.css	9659f54098bc9b24c1fe50bae1311b10
+A	css/3.3.6/overrides-cerulean.min.css	671dee9e4632e46971949a14f926a188
+A	css/3.3.6/overrides-cosmo.min.css	598e4f1de073cc37a6cac91dd968bea6
+A	css/3.3.6/overrides-cyborg.min.css	b672fb3dc9f7ca107a9a0e9bdd2d3ee8
+A	css/3.3.6/overrides-darkly.min.css	b3fb64bd27a5eac8647fca3be9f2a573
+A	css/3.3.6/overrides-flatly.min.css	711cd4af58f68f48c4d5c6e46e9e4c1f
+A	css/3.3.6/overrides-journal.min.css	44033b8c30339096e6e99a0a878fe312
+A	css/3.3.6/overrides-lumen.min.css	10cd0a4e852c99252942c24f3c1758b0
+A	css/3.3.6/overrides-paper.min.css	76687378011dcb92b80882839be6e226
+A	css/3.3.6/overrides-readable.min.css	a8cba83fde1d6b4b19066d25991b5c10
+A	css/3.3.6/overrides-sandstone.min.css	68261580e6fb0e1282b100584e094282
+A	css/3.3.6/overrides-simplex.min.css	937f0e04774eec8f11d72b40901c3585
+A	css/3.3.6/overrides-slate.min.css	2a2432509a7e6eebcbece880e338ba9b
+A	css/3.3.6/overrides-spacelab.min.css	ef932a9d7fcedbc2605dd068384d08b3
+A	css/3.3.6/overrides-superhero.min.css	ea541620f6682ca01ff99eb158514752
+A	css/3.3.6/overrides-united.min.css	0395333d298402dbb3c45db249fe7349
+A	css/3.3.6/overrides-yeti.min.css	75900919df37679a70791f3dacce7fb3
+A	css/3.3.6/overrides.min.css	9659f54098bc9b24c1fe50bae1311b10
+M	docs/subtheme/README.md	0652809af0beac7154e2aa24ec4b9936
+M	grunt/config/githooks.js	542dbb570eae94ffee1edeb46a74e5e3
+A	js/attributes.js	c9536d6494d9b31a6c73fff0f5edaa9c
+M	js/drupal.bootstrap.js	fca0112c733252181216a61e2ee18e3d
+M	js/misc/ajax.js	1b294e974d16108a5083e624d5a443c7
+A	js/misc/autocomplete.js	aa2df17aac69d6d5f412401e1fbf1786
+A	js/misc/batch.js	741f83b34bac5bfe20c7ab788f665d22
+M	js/misc/progress.js	828522a06f8078b8bd0b337b8eabfecc
+M	js/misc/tabledrag.js	bd35d02862eacfc0c16f1eb7373252cb
+M	js/modal.js	9da2107c676d27ea548e55b4fd2c7133
+A	js/modules/filter/filter.js	0518df4492798ad4703946f9b5c8a156
+A	js/modules/views/ajax_view.js	fa4c3dffdb969ab6fdb80a0380ce7a73
+M	js/popover.js	dc4891ce8033690500266f05090e0b54
+A	js/theme.js	909cba38d3cdd7e28a0fed84161d1a38
+M	js/tooltip.js	d6cba652f5661fba392c97985304880d
+M	package.json	916a20054bdea0869f2459ae04274644
+M	src/Annotation/BootstrapPreprocess.php	994ce65b82efc84e5c3e2c9a09ac1ee7
+M	src/Bootstrap.php	18154afeb94b7c4bf773df48200e6f83
+M	src/Plugin/Alter/LibraryInfo.php	c8d0940cb03b6286a91d02ee9a300465
+D	src/Plugin/Alter/MenuLocalTasks.php	
+M	src/Plugin/Alter/ThemeRegistry.php	ba0947f8de1b59206876fac7dd511a2c
+A	src/Plugin/Preprocess/FileLink.php	04c080466212385b4e0993dbf51eb908
+A	src/Plugin/Preprocess/FileUploadHelp.php	85a4947730abb1e5e1b2a79051dd0558
+A	src/Plugin/Preprocess/FilterTips.php	76f4f1a32c80edec61d5a9a64f4a32b9
+M	src/Plugin/Preprocess/FormElement.php	a1c1b1fe347e45f6c3bda6727c623045
+A	src/Plugin/Preprocess/ImageWidget.php	c9ad394636e048542fae89d93541fba5
+M	src/Plugin/Preprocess/Input.php	73cb2f3bb2c2aeade06a2c3c0af2e9bb
+M	src/Plugin/Preprocess/Links.php	5b424a478280ab562c914d32828ef474
+A	src/Plugin/Preprocess/ProgressBar.php	a9994548ebbd3064ec01ba2d9b67afa5
+A	src/Plugin/Preprocess/Select.php	32a9a94061889d436f6618cdd4afb502
+M	src/Plugin/Prerender/Dropbutton.php	b4ad177ab4b5d29b76d2fcda4e1f7030
+A	src/Plugin/Prerender/Link.php	7dacfbb279835bcec03b4de4a2f690c8
+M	src/Plugin/Prerender/Operations.php	4e7a25c48cb63c653c3ec94a7f83365c
+A	src/Plugin/Process/ManagedFile.php	319a97c5aa868ecaf59a58231a666b73
+A	src/Plugin/Process/TextFormat.php	e99cf863dcfe51fc3ed8766549d23e53
+M	src/Plugin/ProcessManager.php	ba23e9203b335e05017badd8ee2a24d4
+M	src/Plugin/Setting/JavaScript/Popovers/PopoverEnabled.php	ee044de426779d62e724b66575f64fae
+M	src/Plugin/Setting/JavaScript/Popovers/PopoverTrigger.php	e31be4975661a382768d5bc2325bd22e
+M	src/Plugin/Setting/JavaScript/Tooltips/TooltipEnabled.php	99a3223cf8b1e5b83dcd150f5b05e86e
+M	src/Plugin/Setting/JavaScript/Tooltips/TooltipTrigger.php	fae6ea64ca99ebe59af82e3e69b3be58
+D	src/Plugin/Setting/JavaScript/Tooltips/TooltipTriggerAutoclose.php	
+M	src/Utility/Element.php	32289e50b3455d48089493bd3ab112c2
+M	starterkits/less/README.md	255deb5cbaad64b447d4ca5aa10184d9
+M	starterkits/less/less/bootstrap.less	c195c15d25d5e23a71d7d3bbaf76618d
+A	starterkits/less/less/component/ajax.less	c74e499a328b51db6b8469d35002d1f5
+M	starterkits/less/less/component/alert.less	1e203f89096710647b0456bd9350a93f
+D	starterkits/less/less/component/button.less	
+A	starterkits/less/less/component/file.less	3fd63d43d28c3194aa0b10579e08da5b
+A	starterkits/less/less/component/filter.less	26d0b8ef9f72ee5b63ac1c619219b97a
+A	starterkits/less/less/component/form.less	5a51a7e1083a413a80017a2d8351cb5f
+A	starterkits/less/less/component/icon.less	7983ac2d1d9ea76c78d07748fb09096f
+M	starterkits/less/less/component/navbar.less	a47d5d58fb9b2a7a291dbe601e4b0b21
+A	starterkits/less/less/component/progress-bar.less	9eee63663a69412480b0879d59264667
+A	starterkits/less/less/component/table-drag.less	e4310b2bf0bf2d10ac4ab5a22fd41151
+A	starterkits/less/less/component/tabs.less	54737dd112cdaf6941574d5857e4a094
+D	starterkits/less/less/component/vertical-tabs.less	
+A	starterkits/less/less/jquery-ui/autocomplete.less	e4137590e154e26295781d51d6c3eba0
+M	starterkits/less/less/overrides.less	06ee56baaab81d5ee0d9bb5f8791d8a1
+D	templates/block--bare.html.twig	
+D	templates/block--local-actions-block.html.twig	
+D	templates/block--local-tasks-block.html.twig	
+D	templates/block--page-title-block.html.twig	
+D	templates/block--search.html.twig	
+D	templates/block--system-branding-block.html.twig	
+D	templates/block--system-menu-block--account.html.twig	
+D	templates/block--system-menu-block--main.html.twig	
+D	templates/block--system.html.twig	
+D	templates/block-list.html.twig	
+D	templates/block.html.twig	
+A	templates/block/block--bare.html.twig	d8f5f5ddc54ba816acba742d3bf0418e
+A	templates/block/block--local-actions-block.html.twig	4b2e4bf2918008c032f9ae389ef5a0a5
+A	templates/block/block--local-tasks-block.html.twig	04360551bb697935125b6c930a5e0c4a
+A	templates/block/block--page-title-block.html.twig	609ade52fe4bbd5572a0afbfe4288be3
+A	templates/block/block--search.html.twig	84c4d53f69fa80a73c6b3a43ca46fc33
+A	templates/block/block--system-branding-block.html.twig	4329b23fd2dd5c7e0c5528e5aac0e069
+A	templates/block/block--system-menu-block--account.html.twig	7588f5dbee5d03e8c98bfe1b7de7b72a
+A	templates/block/block--system-menu-block--main.html.twig	7588f5dbee5d03e8c98bfe1b7de7b72a
+A	templates/block/block--system.html.twig	609ade52fe4bbd5572a0afbfe4288be3
+A	templates/block/block-list.html.twig	27cc85a2ea09895bb7d41d750af3ac67
+A	templates/block/block.html.twig	5237adb3c18a645ffdcd388b5993b751
+D	templates/bootstrap-carousel.html.twig	
+D	templates/bootstrap-dropdown.html.twig	
+D	templates/bootstrap-modal.html.twig	
+D	templates/bootstrap-panel.html.twig	
+A	templates/bootstrap/bootstrap-carousel.html.twig	579ce0e0eda2d643f424a74365e28926
+A	templates/bootstrap/bootstrap-dropdown.html.twig	3cb753a7411eadbec03f9d710affccaf
+A	templates/bootstrap/bootstrap-modal.html.twig	32028390134647c27265ed116b68bc30
+A	templates/bootstrap/bootstrap-panel.html.twig	5168d65fc0f055715e19d1024d798528
+A	templates/bootstrap/item-list--bootstrap-carousel-indicators.html.twig	c4b470c1b125137df9bb3611c1d1589b
+A	templates/bootstrap/item-list--dropdown.html.twig	2fd99cd514123da25c6db41c2cf254a4
+D	templates/breadcrumb.html.twig	
+D	templates/container.html.twig	
+D	templates/datetime-form.html.twig	
+D	templates/datetime-wrapper.html.twig	
+D	templates/field--node--field-image--article.html.twig	
+D	templates/field-multiple-value-form.html.twig	
+D	templates/field.html.twig	
+A	templates/field/field--node--field-image--article.html.twig	4162ae2031352005815956875d0b6ab8
+A	templates/field/field-multiple-value-form.html.twig	03db9b139124e3d879b6c420bddaaec2
+A	templates/field/field.html.twig	9fa7ac1614eb2e0c80e6ea962bb7757a
+A	templates/file/file-link.html.twig	7e4982e9bf5c7c244442cab34a715df9
+A	templates/file/file-upload-help.html.twig	b9f8faf7eb5cb14fa66289bdc7f63881
+A	templates/file/image-widget.html.twig	1c8364fbf0472d794d26eda2e22b85b5
+A	templates/filter/filter-tips.html.twig	1d07c78a6af9f6cf7d6dd1b6d38b4427
+D	templates/form-element-label.html.twig	
+D	templates/form-element.html.twig	
+D	templates/html.html.twig	
+D	templates/image.html.twig	
+D	templates/input--button--dropdown.html.twig	
+D	templates/input--button--split.html.twig	
+D	templates/input--button.html.twig	
+D	templates/input--form-control.html.twig	
+D	templates/input.html.twig	
+A	templates/input/datetime-form.html.twig	57c66af56e0e7aca1f62e75daed6e044
+A	templates/input/datetime-wrapper.html.twig	439dc6ac209940fa13776b435f118946
+A	templates/input/form-element-label.html.twig	0c94c6e46f8743dc8b4a537aaff2177e
+A	templates/input/form-element.html.twig	97e5bf3d9c106ff6b6f659c96fd4fedd
+A	templates/input/input--button--dropdown.html.twig	19826f67ed0a33bde10898cb845faea5
+A	templates/input/input--button--split.html.twig	ebba84f3aee0b17afdb53803b114d7eb
+A	templates/input/input--button.html.twig	657ddfe93be4cebd311e7c909f668912
+A	templates/input/input--form-control.html.twig	2cc6be60346854a75282ad135460c0cc
+A	templates/input/input.html.twig	7e099369d543f8c8e9b120fd969d7e32
+A	templates/input/select.html.twig	73814eb0636fca1edbcddd684cba87c9
+A	templates/input/textarea.html.twig	c6276d2e8b26d496a11236a292089d7a
+D	templates/item-list--bootstrap-carousel-indicators.html.twig	
+D	templates/item-list--dropdown.html.twig	
+D	templates/links.html.twig	
+D	templates/menu--account.html.twig	
+D	templates/menu--main.html.twig	
+D	templates/menu-local-task.html.twig	
+D	templates/menu-local-tasks.html.twig	
+D	templates/menu.html.twig	
+A	templates/menu/menu--account.html.twig	9bfa42e9a75f93d3f8b552c4b8375eb5
+A	templates/menu/menu--main.html.twig	6985cf9eadb23a4a13b2e14dbb25f113
+A	templates/menu/menu-local-task.html.twig	f32b6866e4a3e735f1586c41969bbfc9
+A	templates/menu/menu-local-tasks.html.twig	d62543ecae1f0edd5ba1191f325ee7e0
+A	templates/menu/menu.html.twig	ddd1e5c0373fcdd788a910c80f840645
+A	templates/node/node.html.twig	e4abeaa989779906e3fac2503dee8e00
+D	templates/page-title.html.twig	
+D	templates/page.html.twig	
+D	templates/pager.html.twig	
+D	templates/progress-bar.html.twig	
+D	templates/region--no-wrapper.html.twig	
+D	templates/region.html.twig	
+D	templates/select.html.twig	
+D	templates/status-messages.html.twig	
+D	templates/system-themes-page.html.twig	
+A	templates/system/breadcrumb.html.twig	95c5b6b72b354a8968e77f01fe12ed8e
+A	templates/system/container.html.twig	7f97a1b4b399fdf52d6bc0a35afdb522
+A	templates/system/html.html.twig	5ad4555ad19c2afc5c4c2ee47f9f7e6e
+A	templates/system/image.html.twig	978bc779b6923e52800d63a4ebd1f540
+A	templates/system/links.html.twig	9b5ece4ccb98e3ff7411a1587b16edc9
+A	templates/system/page-title.html.twig	e1896eb60dd777094ae5225cc949e52c
+A	templates/system/page.html.twig	7a373a818716c8ad6ffb73216670fdee
+A	templates/system/pager.html.twig	96e5ff454e032e45d4a760046fa4ce1f
+A	templates/system/progress-bar.html.twig	a419f7555b0bd1559d892359ea55c0aa
+A	templates/system/region--no-wrapper.html.twig	c895ad5bdf376529009a932a66d4adb1
+A	templates/system/region.html.twig	16e7db0add6151fb0c0145075c1fd866
+A	templates/system/status-messages.html.twig	84df66010c73421107b5cc15ca12df48
+A	templates/system/system-themes-page.html.twig	e80ee4979e63f2512fbe28307b829a79
+A	templates/system/table.html.twig	9eb4ed9575ac31b6e373a263ce29db18
+D	templates/table.html.twig	
+D	templates/textarea.html.twig	
+D	templates/views-exposed-form.html.twig	
+D	templates/views-view-table.html.twig	
+D	templates/views-view.html.twig	
+A	templates/views/views-exposed-form.html.twig	1901d37a63584becc8fed7becb5a72b0
+A	templates/views/views-mini-pager.html.twig	8e491ec141e502846206c6dd1c940f69
+A	templates/views/views-view-table.html.twig	0a20cb1c1dd8e80b02afd4a7a52d7d18
+A	templates/views/views-view.html.twig	88295d78a80f60f0f1699a23544f01b5

@@ -1,0 +1,8 @@
+M	config/schema/field_formatter.schema.yml	40ff85a259d29e51f8f927c32944664a
+M	field_formatter.info.yml	a068b349d2aa5fb7db28d0cacf5a805c
+M	src/Plugin/Field/FieldFormatter/FieldFormatterBase.php	0d099c9e6eaa48e9cc6ad47ce29bd6fc
+M	src/Plugin/Field/FieldFormatter/FieldFormatterWithInlineSettings.php	9fc8f549fdb7e67e7a6e286f642dee83
+M	src/Tests/FieldFormatterWithInlineSettingsUITest.php	9faf08bb67dae1eb497c3a8570b11ab2
+M	tests/modules/field_formatter_test/config/install/core.entity_view_display.node.test_content_type.default.yml	2c9d58322e596e1d1178d0548b129904
+M	tests/modules/field_formatter_test/field_formatter_test.info.yml	68ec95bf603de07eec60b270950cf595
+M	tests/src/Kernel/Plugin/Field/FieldFormatter/FieldFormatterWithInlineSettingsTest.php	bd8767b44a176b0f1fee231bc1fa2195

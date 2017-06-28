@@ -1,8 +1,22 @@
-M	jsonapi.info.yml	726432d9024773aa14e8cbc7646a339d
-M	src/Context/CurrentContext.php	77589ed2ae7cb8dc1d1c962261b259cf
-M	src/Controller/EntityResource.php	6c105151c5f38917574532fafceb5cb2
-M	src/JsonApiSpec.php	039835821c7e8dedd9cd1c74afe93d82
-M	src/Normalizer/Value/JsonApiDocumentTopLevelNormalizerValue.php	9e9c4af18afcea9ea98c1a0086b2d0a7
-D	src/RequestCacheabilityDependency.php	
-M	tests/src/Unit/Normalizer/Value/JsonApiDocumentTopLevelNormalizerValueTest.php	f89022176d429d574ae008e3c9bcbf1c
-D	tests/src/Unit/RequestCacheabilityDependencyTest.php	
+M	README.md	0a6eea17031570e67a669519d79b4d17
+M	jsonapi.info.yml	84b0b9e597998ab99139a81bc52a2835
+M	jsonapi.services.yml	ed4da6551c0f14259bb89ac8e9d8d198
+M	src/Controller/EntityResource.php	0dc67e4554b8515e9113b8e2910129fd
+M	src/Controller/RequestHandler.php	4a2f81756fa3108b1b8f2b4ad78ac6df
+A	src/EntityToJsonApi.php	6d36a8dd64807079b74bfbb1dbcf5852
+M	src/EventSubscriber/ResourceResponseSubscriber.php	d35b318aa1422bf1427b4e1e9fb77840
+M	src/LinkManager/LinkManager.php	6e905bbb42a4f0005f7a1217a33cd8f6
+M	src/Normalizer/EntityNormalizer.php	c9e8b4cbaded77fc24258e6a23216a5f
+M	src/Normalizer/FieldItemNormalizer.php	2594310a8606f1e02b5762fee439f504
+M	src/Normalizer/JsonApiDocumentTopLevelNormalizer.php	02789d23a65ae356edb7a4a7af1a49f1
+M	src/Normalizer/Value/JsonApiDocumentTopLevelNormalizerValue.php	40a69918378034a22705c0154dd7dec8
+M	src/Query/QueryBuilder.php	279518b9a2c5994c206b1c18752ff6c3
+M	src/Resource/EntityCollection.php	3bb0221a5736c8ea89e63101dad7e738
+M	src/ResourceType/ResourceType.php	a8d42688d9846ecf8d07d1a075c063ea
+M	src/Routing/Param/Filter.php	2d304f6170cde1a7221aaf4ddec6188b
+M	tests/src/Functional/JsonApiFunctionalTest.php	dc818559e6561de62d9c72ec1804ab3b
+M	tests/src/Kernel/Controller/EntityResourceTest.php	47af89a56d069eaf217bf088e55383a5
+A	tests/src/Kernel/EntityToJsonApiTest.php	f04fc7a87d392ae5e7d90e37a9624556
+M	tests/src/Unit/EventSubscriber/ResourceResponseSubscriberTest.php	d57a4c02b3e83cd9b89bba2213581ae9
+M	tests/src/Unit/LinkManager/LinkManagerTest.php	6072b9b5e850aae9389b994788d7ea59
+M	tests/src/Unit/Routing/Param/FilterTest.php	0c53739978c00709025fa48785b661df

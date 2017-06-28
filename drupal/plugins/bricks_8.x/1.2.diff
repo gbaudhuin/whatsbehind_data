@@ -1,0 +1,6 @@
+M	README.md	2392efbe65ab94d2cb5e47254e22467d
+M	bricks.info.yml	f5b1cb08ba090d6d39bdd12eb87bf0ef
+M	bricks.module	f9bbad3b3e3e221a82520f04558df318
+M	bricks_inline/bricks_inline.info.yml	a9aea2cfb8577b3e9d5cf4ff9f7b908e
+M	bricks_inline/src/Plugin/Field/FieldWidget/BricksTreeInlineWidget.php	cbb830720b7af1844cd34785207326d5
+M	src/Plugin/Field/FieldWidget/BricksTreeAutocompleteWidget.php	c98bb529b367f4aaf3178213a782d35c

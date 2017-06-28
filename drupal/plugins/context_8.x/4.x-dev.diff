@@ -12,9 +12,10 @@ A	context.api.php	a050502ea41045d2c48a473a7994cfd1
 A	context.core.inc	fd3ee006920c210cc49e518747dcb413
 A	context.info	da56502a9542dfe61c7f58545ad048cf
 D	context.info.yml	
-A	context.install	42c78bf8f4df5a5a80674a51c44cbda9
+M	context.install	42c78bf8f4df5a5a80674a51c44cbda9
 M	context.module	5dbe6125f3da2ec71fae9184c4d7a61a
 A	context.plugins.inc	f2997126240c510ca0c0d8890998d6d2
+D	context.routing.yml	
 D	context.services.yml	
 A	context_layouts/README.txt	fc8759704640280cea6ddd2c0f8a4749
 A	context_layouts/context_layouts.info	ee90657d1d5441b52803cdaed0498282
@@ -44,6 +45,7 @@ D	modules/context_ui/assets/js/context_ui.admin.js
 D	modules/context_ui/context_ui.info.yml	
 D	modules/context_ui/context_ui.libraries.yml	
 D	modules/context_ui/context_ui.links.action.yml	
+D	modules/context_ui/context_ui.links.contextual.yml	
 D	modules/context_ui/context_ui.links.menu.yml	
 D	modules/context_ui/context_ui.permissions.yml	
 D	modules/context_ui/context_ui.routing.yml	
@@ -52,6 +54,7 @@ D	modules/context_ui/src/Controller/ContextUIController.php
 D	modules/context_ui/src/Form/ConditionDeleteForm.php	
 D	modules/context_ui/src/Form/ContextAddForm.php	
 D	modules/context_ui/src/Form/ContextDeleteForm.php	
+D	modules/context_ui/src/Form/ContextDisableForm.php	
 D	modules/context_ui/src/Form/ContextEditForm.php	
 D	modules/context_ui/src/Form/ContextFormBase.php	
 D	modules/context_ui/src/Form/ReactionDeleteForm.php	
@@ -88,14 +91,21 @@ A	plugins/context_reaction_theme.inc	099fbbea81877b98b37579fe529cb837
 A	plugins/context_reaction_theme_html.inc	27e0f7af97e5d2c666e1bf1a13765509
 D	src/ContextInterface.php	
 D	src/ContextManager.php	
+D	src/ContextMenuActiveTrail.php	
 D	src/ContextReactionInterface.php	
 D	src/ContextReactionManager.php	
 D	src/ContextReactionPluginBase.php	
+D	src/ContextServiceProvider.php	
 D	src/Entity/Context.php	
 D	src/Entity/ContextAccess.php	
 D	src/EventSubscriber/BlockPageDisplayVariantSubscriber.php	
 D	src/Form/AjaxFormTrait.php	
+D	src/Plugin/Condition/RequestPathExclusion.php	
 D	src/Plugin/ContextReaction/Blocks.php	
+D	src/Plugin/ContextReaction/BodyClass.php	
+D	src/Plugin/ContextReaction/Menu.php	
+D	src/Plugin/ContextReaction/PageTemplateSuggestions.php	
+D	src/Plugin/ContextReaction/Theme.php	
 D	src/Plugin/ContextReactionPluginCollection.php	
 D	src/Plugin/DisplayVariant/ContextBlockPageVariant.php	
 D	src/Reaction/Annotation/ContextReaction.php	
@@ -106,6 +116,7 @@ D	src/Reaction/Blocks/Form/BlockDeleteForm.php
 D	src/Reaction/Blocks/Form/BlockEditForm.php	
 D	src/Reaction/Blocks/Form/BlockFormBase.php	
 D	src/Reaction/ContextReactionFormBase.php	
+D	src/Theme/ThemeSwitcherNegotiator.php	
 A	tests/context.conditions.test	0fda3b64d9b3a2d423e872081430b5df
 A	tests/context.reactions.test	cefc462bd08c311c0641b603230731a2
 A	tests/context.test	d9faa88a215c7a0c84966f0a4cda2c84

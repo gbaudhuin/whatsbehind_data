@@ -1,0 +1,61 @@
+D	.gitignore	
+M	composer.json	9194ffe27e89139520ef043b07a66673
+A	composer.lock	f00b2fa3a799f3f2c91d6191aebc56bc
+M	jwt.info.yml	ba85db3ed6120d6d4ef022268bd5372d
+M	jwt.install	be01d9b735b17fc6a64eefd72aac3a68
+M	jwt.routing.yml	08646e554cbaec0447516cebc664cea9
+M	jwt.services.yml	7dafd34c5732159bdabac8ec834e402d
+M	modules/jwt_auth_consumer/jwt_auth_consumer.info.yml	51168641dd9afe50a153a4c9dc882b97
+M	modules/jwt_auth_consumer/jwt_auth_consumer.module	81c8148bb634f3d1650ee3f14bceb553
+M	modules/jwt_auth_consumer/src/EventSubscriber/JwtAuthConsumerSubscriber.php	a53674f7deaf668968544219899428a4
+A	modules/jwt_auth_issuer/Tests/Controller/JwtAuthIssuerControllerTest.php	2dd23e70da5a60117efadf1dc6043fa8
+M	modules/jwt_auth_issuer/jwt_auth_issuer.info.yml	147adba6b3e2f0baa059c7b898d5c26a
+M	modules/jwt_auth_issuer/jwt_auth_issuer.module	760354cd9311ac0e74a937da50c7ab0c
+M	modules/jwt_auth_issuer/src/Controller/JwtAuthIssuerController.php	0d660196b50a9d0787a44726a136ecfd
+A	modules/jwt_auth_issuer/src/Controller/JwtAuthIssuerEvent.php	9b617887282d57c09aa8757c7012b205
+A	modules/jwt_auth_issuer/src/Controller/JwtAuthIssuerEvents.php	af1af9e274b1dddeae2311a70921f135
+M	modules/jwt_auth_issuer/src/EventSubscriber/JwtAuthIssuerSubscriber.php	c4a33e9e86dff4b405907dd279539d66
+D	src/Authentication/Event/JwtAuthBaseEvent.php	
+D	src/Authentication/Event/JwtAuthEvents.php	
+D	src/Authentication/Event/JwtAuthGenerateEvent.php	
+D	src/Authentication/Event/JwtAuthValidEvent.php	
+D	src/Authentication/Event/JwtAuthValidateEvent.php	
+M	src/Authentication/Provider/JwtAuth.php	4d24b9fb13697a631b1b5cb34bd50f08
+A	src/Authentication/Provider/JwtAuthEvent.php	b0e2f134c84dc5ba34002c9d7a64fe45
+A	src/Authentication/Provider/JwtAuthEvents.php	988f71b72bd09eeeb450de1c4356975c
+M	src/Form/ConfigForm.php	b4843b8f3b00ae98f5a1c759e38fc651
+M	src/JsonWebToken/JsonWebToken.php	302d4efe5a5b8fc47ac8108b7c0665e8
+M	src/JsonWebToken/JsonWebTokenInterface.php	b8967961054b1afa964a9f542695881c
+D	src/PageCache/DisallowJwtAuthRequests.php	
+D	src/Plugin/KeyType/JwtHsKeyType.php	
+D	src/Plugin/KeyType/JwtRsKeyType.php	
+M	src/Transcoder/JwtDecodeException.php	704e62fd705ac8cecb66c21d5e6399d6
+M	src/Transcoder/JwtTranscoder.php	c95d0ecfc65d97ef59768005cf56c1c1
+M	src/Transcoder/JwtTranscoderInterface.php	ce4cae2f4fbe5c391252c9d68dc463e5
+A	src/Validator/JwtInvalidException.php	9e5ee877c273930df23c1212f38bcd61
+A	src/Validator/JwtValidator.php	9b18d311cfeae7a025363e31021a9b8a
+A	src/Validator/JwtValidatorInterface.php	3502c7833025d72bd9ca89a238fff36f
+A	vendor/autoload.php	a780032132848ba739732ece255ccd77
+A	vendor/composer/ClassLoader.php	c67ebce5ff31e99311ceb750202adf2e
+A	vendor/composer/LICENSE	084a034acbad39464e3df608c6dc064f
+A	vendor/composer/autoload_classmap.php	8645d3a4e3ad87e7cf4d88a46717aab4
+A	vendor/composer/autoload_namespaces.php	35e12c7d76c4a81633bcf547c0e229a9
+A	vendor/composer/autoload_psr4.php	d26eae63fdd95eb4050430e50cd15aac
+A	vendor/composer/autoload_real.php	c3790391b7c0c104fc63f9e715bc61f3
+A	vendor/composer/installed.json	2daf9559240053a5f67ddf6ff91ae749
+A	vendor/firebase/php-jwt/.gitignore	940469e7ecf465669377b97c40fa18ab
+A	vendor/firebase/php-jwt/.travis.yml	5fdd81c08c30b1dd6022236c2aedce44
+A	vendor/firebase/php-jwt/LICENSE	8179f9b01f8d9651ca7956d853e8ea24
+A	vendor/firebase/php-jwt/README.md	97489f456af37c13bed3cbf875a32293
+A	vendor/firebase/php-jwt/composer.json	f911ed9f7afe97079b50b4fdc89d2cd9
+A	vendor/firebase/php-jwt/composer.lock	b4adcbafa29fa331ccf33c5e8fbc9df3
+A	vendor/firebase/php-jwt/package.xml	cca7820a85898bb4e1c3410666a4bb7e
+A	vendor/firebase/php-jwt/phpunit.xml.dist	926c9f61c43f41a64af17579989f5510
+A	vendor/firebase/php-jwt/run-tests.sh	e8fd56e320bdf50bc9b9250a00ee7045
+A	vendor/firebase/php-jwt/src/BeforeValidException.php	24585a8f85d5348a35064e279202bd99
+A	vendor/firebase/php-jwt/src/ExpiredException.php	95008b55188b553d3fa70af401f7536b
+A	vendor/firebase/php-jwt/src/JWT.php	8377a0dd4f81fa9c0e987f676b91700c
+A	vendor/firebase/php-jwt/src/SignatureInvalidException.php	ea53ca7298947a62d250cd89861fc487
+A	vendor/firebase/php-jwt/tests/JWTTest.php	6fd650487545b10c18df80acc8bc1104
+A	vendor/firebase/php-jwt/tests/autoload.php.dist	1a4e63fb3a95c094c2018960cbb28a75
+A	vendor/firebase/php-jwt/tests/bootstrap.php	b112ebbd059dd641f737fc1becd9e801

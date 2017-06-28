@@ -4,500 +4,514 @@ token	Token
 libraries	Libraries API
 pathauto	Pathauto
 entity	Entity API
-admin_menu	Administration menu
 jquery_update	jQuery Update
+admin_menu	Administration menu
 webform	Webform
 date	Date
 imce	IMCE
 ckeditor	CKEditor - WYSIWYG HTML editor
-link	Link
 google_analytics	Google Analytics
+link	Link
 module_filter	Module Filter
 wysiwyg	Wysiwyg
 metatag	Metatag
-features	Features
 rules	Rules
-media	Media
 entityreference	Entity reference
+features	Features
 backup_migrate	Backup and Migrate
+media	Media
 xmlsitemap	XML Sitemap
-colorbox	Colorbox
 field_group	Field Group
-views_slideshow	Views Slideshow
-views_bulk_operations	Views Bulk Operations (VBO)
 transliteration	Transliteration
+colorbox	Colorbox
+views_bulk_operations	Views Bulk Operations (VBO)
 variable	Variable
-panels	Panels
 captcha	CAPTCHA
+views_slideshow	Views Slideshow
+panels	Panels
 l10n_update	Localization update
 menu_block	Menu block
 devel	Devel
 context	Context
 i18n	Internationalization
 redirect	Redirect
-globalredirect	Global Redirect
-imce_wysiwyg	IMCE Wysiwyg bridge
-field_collection	Field collection
-strongarm	Strongarm
 file_entity	File Entity (fieldable files)
-ds	Display suite
-menu_attributes	Menu attributes
+globalredirect	Global Redirect
+field_collection	Field collection
+imce_wysiwyg	IMCE Wysiwyg bridge
+strongarm	Strongarm
 block_class	Block Class
-superfish	Superfish
+menu_attributes	Menu attributes
+ds	Display suite
 email	Email Field
 addressfield	Address Field
-references	References
+superfish	Superfish
 job_scheduler	Job Scheduler
 mailsystem	Mail System
 admin_views	Administration Views
+references	References
 flexslider	Flex Slider
 feeds	Feeds
 better_exposed_filters	Better Exposed Filters
-calendar	Calendar
 special_menu_items	Special menu items
+calendar	Calendar
 smtp	SMTP Authentication Support
 uuid	Universally Unique IDentifier
-site_map	Site map
 media_youtube	Media: YouTube
-advanced_help	Advanced help
-lightbox2	Lightbox2
-page_title	Page Title
-taxonomy_menu	Taxonomy menu
-diff	Diff
-views_data_export	Views data export
-imagecache_actions	ImageCache Actions
-plupload	Plupload integration
+site_map	Site map
 views_php	Views PHP
-mimemail	Mime Mail
-honeypot	Honeypot
-quicktabs	Quick Tabs
-search_api	Search API
+views_data_export	Views data export
+advanced_help	Advanced help
+plupload	Plupload integration
+imagecache_actions	ImageCache Actions
 node_clone	Node clone
-recaptcha	reCAPTCHA
 multiupload_filefield_widget	Multiupload Filefield Widget
+diff	Diff
+taxonomy_menu	Taxonomy menu
+page_title	Page Title
+lightbox2	Lightbox2
+mimemail	Mime Mail
+recaptcha	reCAPTCHA
+honeypot	Honeypot
+search_api	Search API
+quicktabs	Quick Tabs
 field_permissions	Field Permissions
-insert	Insert
-inline_entity_form	Inline Entity Form
 multiupload_imagefield_widget	Multiupload Imagefield Widget
-oauth	OAuth
+votingapi	Voting API
 filefield_sources	FileField Sources
+inline_entity_form	Inline Entity Form
+insert	Insert
 facetapi	Facet API
+oauth	OAuth
+fontyourface	@font-your-face
+nice_menus	Nice Menus
 commerce	Drupal Commerce
 scheduler	Scheduler
-nice_menus	Nice Menus
-fontyourface	@font-your-face
 content_access	Content Access
-votingapi	Voting API
 conditional_fields	Conditional Fields
-video_embed_field	Video Embed Field
-title	Title
-jcarousel	jCarousel
-ckeditor_link	CKEditor Link - A plugin to easily create links to Drupal internal paths
-flag	Flag
-imce_mkdir	IMCE Mkdir
-adminimal_admin_menu	Adminimal Administration Menu
 pathologic	Pathologic
-linkit	Linkit
-print	Printer, email and PDF versions
-simplenews	Simplenews
-site_verify	Site verification
-search_api_db	Search API Database Search
-exclude_node_title	Exclude Node Title
+ckeditor_link	CKEditor Link - A plugin to easily create links to Drupal internal paths
+title	Title
+imce_mkdir	IMCE Mkdir
+jcarousel	jCarousel
+video_embed_field	Video Embed Field
 draggableviews	DraggableViews
+adminimal_admin_menu	Adminimal Administration Menu
+print	Printer, email and PDF versions
+site_verify	Site verification
 auto_nodetitle	Automatic Nodetitles
+linkit	Linkit
+flag	Flag
+simplenews	Simplenews
+exclude_node_title	Exclude Node Title
 logintoboggan	LoginToboggan
 extlink	External Links
-geophp	geoPHP
+search_api_db	Search API Database Search
 fivestar	Fivestar
+geophp	geoPHP
 location	Location
+image_url_formatter	Image URL Formatter
 masquerade	Masquerade
 multiform	Multiple forms
-nodequeue	Nodequeue
-migrate	Migrate
-image_url_formatter	Image URL Formatter
-geofield	Geofield
-node_export	Node export
-eva	EVA: Entity Views Attachment
-field_formatter_settings	Field formatter settings
 media_vimeo	Media: Vimeo
-features_extra	Features Extra
+field_formatter_settings	Field formatter settings
+geofield	Geofield
+migrate	Migrate
 responsive_menus	Responsive Menus
-profile2	Profile 2
-better_formats	Better Formats
-webform_validation	Webform Validation
-sharethis	ShareThis
-cck	Content Construction Kit (CCK)
-entity_translation	Entity Translation
 bundle_copy	Bundle copy
-custom_breadcrumbs	Custom Breadcrumbs
-gmap	GMap Module
-taxonomy_manager	Taxonomy Manager
+nodequeue	Nodequeue
+entity_translation	Entity Translation
+node_export	Node export
 feeds_tamper	Feeds Tamper
+module_missing_message_fixer	Module Missing Message Fixer
+features_extra	Features Extra
+better_formats	Better Formats
+eva	EVA: Entity Views Attachment
+cck	Content Construction Kit (CCK)
+taxonomy_manager	Taxonomy Manager
 views_bootstrap	Views Bootstrap
-languageicons	Language icons
+sharethis	ShareThis
 weight	Weight
+profile2	Profile 2
+gmap	GMap Module
+webform_validation	Webform Validation
 i18nviews	Internationalization Views
-mollom	Mollom
+languageicons	Language icons
 htmlmail	HTML Mail
-galleryformatter	Gallery formatter
-login_destination	Login Destination
-services	Services
-custom_search	Custom Search
-chosen	Chosen
 views_field_view	Views Field View
-image_resize_filter	Image Resize Filter
-options_element	Options Element
-field_slideshow	Field Slideshow
-views_accordion	Views Accordion
+services	Services
+custom_breadcrumbs	Custom Breadcrumbs
 filefield_paths	File (Field) Paths
-wysiwyg_filter	WYSIWYG Filter
+mollom	Mollom
+options_element	Options Element
+custom_search	Custom Search
+search404	Search 404
+login_destination	Login Destination
+image_resize_filter	Image Resize Filter
 elements	Elements
-youtube	YouTube Field
+chosen	Chosen
+galleryformatter	Gallery formatter
+views_accordion	Views Accordion
+field_slideshow	Field Slideshow
+breakpoints	Breakpoints
+wysiwyg_filter	WYSIWYG Filter
+eu_cookie_compliance	EU Cookie Compliance
 metatags_quick	Meta tags quick
+youtube	YouTube Field
 fences	Fences
 nivo_slider	Nivo Slider
-eu_cookie_compliance	EU Cookie Compliance
-breakpoints	Breakpoints
-memcache	Memcache API and Integration
-search404	Search 404
+entity_view_mode	Entity view modes
 token_filter	Token Filter
 security_review	Security Review
-multiblock	MultiBlock
 bean	Bean
-entity_view_mode	Entity view modes
 css_injector	CSS Injector
-module_missing_message_fixer	Module Missing Message Fixer
+hierarchical_select	Hierarchical Select
+webform_ajax	Webform Ajax
+password_policy	Password policy
 tb_megamenu	TB Mega Menu
+fontawesome	Font Awesome Icons
+stringoverrides	String Overrides
+multiblock	MultiBlock
+memcache	Memcache API and Integration
 delta	Delta
-view_unpublished	view_unpublished
-smart_trim	Smart Trim
 omega_tools	Omega Tools
 geocoder	Geocoder
-service_links	Service links
-panelizer	Panelizer
-hierarchical_select	Hierarchical Select
-simple_gmap	Simple Google Maps
-checklistapi	Checklist API
-password_policy	Password policy
-stringoverrides	String Overrides
-webform_ajax	Webform Ajax
-twitter	Twitter
-workbench	Workbench
 faq	Frequently Asked Questions
-fontawesome	Font Awesome Icons
-entitycache	Entity cache
-menu_position	Menu position
-addthis	AddThis
-taxonomy_display	Taxonomy display
+twitter	Twitter
+view_unpublished	view_unpublished
+nodeblock	Nodeblock
+panelizer	Panelizer
+service_links	Service links
 imagecache_token	Imagecache Token
+entitycache	Entity cache
+smart_trim	Smart Trim
+colorbox_node	Colorbox Node
+addthis	AddThis
+checklistapi	Checklist API
+workbench	Workbench
+shortcode	Shortcode
+advagg	Advanced CSS/JS Aggregation
+menu_item_visibility	Menu item visibility
+linkchecker	Link checker
+role_delegation	Role Delegation
+phone	Phone
+taxonomy_display	Taxonomy display
+simple_gmap	Simple Google Maps
+manualcrop	Manual Crop
+menu_position	Menu position
+views_load_more	Views Load More
 expire	Cache Expiration
 ubercart	Ubercart
-nodeblock	Nodeblock
-shortcode	Shortcode
-manualcrop	Manual Crop
-colorbox_node	Colorbox Node
-boost	Boost
-phone	Phone
-menu_item_visibility	Menu item visibility
-seo_checklist	SEO Checklist
-advagg	Advanced CSS/JS Aggregation
-role_delegation	Role Delegation
-linkchecker	Link checker
-realname	RealName
-path_breadcrumbs	Path Breadcrumbs
-menu_breadcrumb	Menu Breadcrumb
-views_load_more	Views Load More
-addtoany	Share Buttons by AddToAny
-og	Organic groups
 email_registration	Email Registration
-commerce_shipping	Commerce Shipping
-computed_field	Computed Field
 simplehtmldom	simplehtmldom API
+back_to_top	Back To Top
+realname	RealName
+seo_checklist	SEO Checklist
+menu_breadcrumb	Menu Breadcrumb
 flexslider_views_slideshow	FlexSlider Views Slideshow
+path_breadcrumbs	Path Breadcrumbs
+addtoany	Share Buttons by AddToAny
+imagefield_crop	Imagefield Crop
+og	Organic groups
+message	Message
+advanced_forum	Advanced Forum
 select_or_other	Select (or other)
 filefield_sources_plupload	FileField Sources Plupload
-back_to_top	Back To Top
-less	Less CSS Preprocessor
-views_infinite_scroll	Views Infinite Scroll
-views_autocomplete_filters	Views Autocomplete Filters
-message	Message
-viewfield	Viewfield
-search_api_solr	Search API Solr Search
-advanced_forum	Advanced Forum
-field_validation	Field validation
-jquery_plugin	jQuery plugins
-themekey	ThemeKey
-imagefield_crop	Imagefield Crop
-tablefield	TableField
-workbench_moderation	Workbench Moderation
-navbar	Navbar
-views_responsive_grid	Views Responsive Grid
-empty_front_page	Empty Front Page
-tagclouds	TagCloud
-r4032login	Redirect 403 to User Login
-entityreference_prepopulate	Entityreference prepopulate
-mailchimp	MailChimp
-robotstxt	RobotsTxt
-term_reference_tree	Taxonomy Term Reference Tree Widget
-acl	ACL
-commerce_paypal	Commerce PayPal
-uuid_features	UUID Features Integration
+boost	Boost
 chain_menu_access	Chain Menu Access API
-menu_admin_per_menu	Menu Admin per Menu
-apachesolr	Apache Solr Search
-ldap	Lightweight Directory Access Protocol (LDAP) 
-override_node_options	Override Node Options
-message_notify	Message Notify
-imagemagick	ImageMagick
-maxlength	Maxlength
-menu_token	Menu token
+views_autocomplete_filters	Views Autocomplete Filters
+computed_field	Computed Field
+views_infinite_scroll	Views Infinite Scroll
+commerce_shipping	Commerce Shipping
+viewfield	Viewfield
+views_responsive_grid	Views Responsive Grid
 seckit	Security Kit
-widgets	Widgets
-owlcarousel	Owl Carousel
-session_api	Session API
-semanticviews	Semantic Views
+acl	ACL
+field_validation	Field validation
+themekey	ThemeKey
 autologout	Automated Logout
-entityform	Entityform
-picture	Picture
-follow	Follow
-migrate_extras	Migrate Extras
+jquery_plugin	jQuery plugins
+less	Less CSS Preprocessor
+tagclouds	TagCloud
+entityreference_prepopulate	Entityreference prepopulate
+uuid_features	UUID Features Integration
+menu_admin_per_menu	Menu Admin per Menu
+navbar	Navbar
+search_api_solr	Search API Solr Search
 paragraphs	Paragraphs
-menu_trail_by_path	Menu Trail By Path
-socialmedia	Social media
-lang_dropdown	Language Switcher Dropdown
-views_megarow	Views Megarow
-views_conditional	Views Conditional
-views_datasource	Views Datasource
-date_popup_authored	Date Popup Authored
+empty_front_page	Empty Front Page
+owlcarousel	Owl Carousel
+workbench_moderation	Workbench Moderation
+r4032login	Redirect 403 to User Login
+robotstxt	RobotsTxt
+semanticviews	Semantic Views
 views_fieldsets	Views fieldsets
-xautoload	X Autoload
-countries	Countries
+maxlength	Maxlength
+imagemagick	ImageMagick
+tablefield	TableField
+term_reference_tree	Taxonomy Term Reference Tree Widget
 search_config	Search configuration
-fieldable_panels_panes	Fieldable Panels Panes (FPP)
-search_api_ranges	Search API ranges
+entityform	Entityform
+ldap	Lightweight Directory Access Protocol (LDAP)
+mailchimp	MailChimp
+override_node_options	Override Node Options
+apachesolr	Apache Solr Search
+menu_token	Menu token
+picture	Picture
 elysia_cron	Elysia Cron
+follow	Follow
+auto_entitylabel	Automatic Entity Label
+message_notify	Message Notify
+commerce_paypal	Commerce PayPal
+session_api	Session API
+views_conditional	Views Conditional
+xautoload	X Autoload
+menu_trail_by_path	Menu Trail By Path
+imce_filefield	IMCE for FileField
+views_megarow	Views Megarow
+securepages	Secure Pages
 commerce_flat_rate	Commerce Flat Rate
-html5_tools	HTML5 Tools
+lang_dropdown	Language Switcher Dropdown
+migrate_extras	Migrate Extras
+views_datasource	Views Datasource
+slick	Slick Carousel
 emfield	Embedded Media Field
 video	Video
-securepages	Secure Pages
-auto_entitylabel	Automatic Entity Label
-inline_conditions	Inline Conditions
-imce_filefield	IMCE for FileField
-commerce_features	Commerce features
-twitter_block	Twitter Block
-httprl	HTTP Parallel Request &amp; Threading Library
-fpa	Fast Permissions Administration
+date_popup_authored	Date Popup Authored
+widgets	Widgets
 formblock	Form Block
-media_gallery	Media Gallery
-acquia_connector	Acquia Connector
-views_tree	Views tree
-pm_existing_pages	Page manager existing pages
-crumbs	Crumbs
-rabbit_hole	Rabbit Hole
 front	Front Page
+countries	Countries
+twitter_block	Twitter Block
+search_api_ranges	Search API ranges
+inline_conditions	Inline Conditions
+views_tree	Views tree
+retina_images	Retina Images
+html5_tools	HTML5 Tools
+socialmedia	Social media
+node_convert	Node Convert
+crumbs	Crumbs
+fpa	Fast Permissions Administration
+acquia_connector	Acquia Connector
+media_gallery	Media Gallery
 date_ical	Date iCal
+telephone	Telephone
+rabbit_hole	Rabbit Hole
+color_field	Color Field
+blockreference	Block reference
 disqus	Disqus
+charts	Charts
+eck	Entity Construction Kit (ECK)
+google_tag	GoogleTagManager
+fieldable_panels_panes	Fieldable Panels Panes (FPP)
 navigation404	404 Navigation
 jquery_colorpicker	Jquery Colorpicker
-commerce_discount	Commerce Discount
-telephone	Telephone
-node_convert	Node Convert
-retina_images	Retina Images
+webform_rules	Webform Rules
+icon	Icon API
 commerce_addressbook	Commerce Addressbook
-google_tag	GoogleTagManager
+form_builder	Form Builder
+block_titlelink	Block Title Link
+url	URL field
 search_api_sorts	Search API sorts
-color_field	Color Field
-chart	Google Chart Tools: Image Charts
-blockreference	Block reference
+slick_views	Slick Views
 juicebox	Juicebox HTML5 Responsive Image Galleries
-views_nivo_slider	Views Nivo Slider
-defaultconfig	Default config
-charts	Charts
-simplify	Simplify
+elfinder	elFinder file manager
+chart	Google Chart Tools: Image Charts
+commerce_features	Commerce features
+publishcontent	Publish Content
 conditional_styles	Conditional Stylesheets
-views_isotope	Views Isotope (Deprecated)
+varnish	Varnish HTTP Accelerator Integration
+invisimail	Invisimail
+tvi	Taxonomy Views Integrator
+httprl	HTTP Parallel Request &amp; Threading Library
+videojs	Video.js (HTML5 Video Player)
+views_nivo_slider	Views Nivo Slider
+ultimate_cron	Ultimate Cron
+image_link_formatter	Image Link Formatter
+clientside_validation	Clientside Validation
+commerce_discount	Commerce Discount
+feeds_xpathparser	Feeds XPath Parser
+piwik	Piwik Web Analytics
+video_filter	Video Filter
 commerce_backoffice	Commerce Backoffice
 l10n_client	Localization client
-form_builder	Form Builder
-elfinder	elFinder file manager
-eck	Entity Construction Kit (ECK)
-panels_breadcrumbs	Panels Breadcrumbs
-publishcontent	Publish Content
-video_filter	Video Filter
-invisimail	Invisimail
-block_titlelink	Block Title Link
-videojs	Video.js (HTML5 Video Player)
-icon	Icon API
-autocomplete_deluxe	Autocomplete Deluxe
-tvi	Taxonomy Views Integrator
-registration	Entity Registration
-features_override	Features Override
-slick	Slick Carousel
-commerce_extra_price_formatters	Drupal Commerce Extra Price Formatters
-clientside_validation	Clientside Validation
-webform_rules	Webform Rules
-fast_404	Fast 404
 nodeaccess	Nodeaccess
-geolocation	Geolocation Field
-feeds_xpathparser	Feeds XPath Parser
-url	URL field
-menu_firstchild	Menu Firstchild
-shadowbox	Shadowbox
-domain	Domain Access
-entityreference_view_widget	Entity Reference View Widget
-varnish	Varnish HTTP Accelerator Integration
-image_link_formatter	Image Link Formatter
-save_draft	Save Draft
-flood_control	Flood control
-webform_localization	Webform Localization
-commerce_checkout_progress	Commerce Checkout Progress
-ultimate_cron	Ultimate Cron
-piwik	Piwik Web Analytics
-shs	Simple hierarchical select
-modal_forms	Modal forms (with ctools)
-field_collection_views	Field Collection Views
-privatemsg	Privatemsg
-imageblock	Image Block
-mediaelement	MediaElement
-commerce_autosku	Commerce AutoSKU
-taxonomy_csv	Taxonomy CSV import/export
-field_formatter_class	Field Formatter Class
-fape	Field API Pane Editor (FAPE)
-views_rss	Views RSS
-fitvids	FitVids
-webform_phone	Webform Phone Number
-fancybox	fancyBox
-panels_everywhere	Panels Everywhere
-coffee	Coffee
-scroll_to_top	scroll to top
-admin_language	Administration Language
-schema	Schema
-webform_hints	Webform Hints
-hacked	Hacked!
-newsletter	Newsletter
-leaflet	Leaflet
-commerce_search_api	Commerce Search API
-ds_bootstrap_layouts	Display Suite Bootstrap Layouts
-cloud_zoom	Cloud Zoom
-simplified_menu_admin	Simplified Menu Administration
-rate	Rate
-webform_conditional	Webform Conditional (Same Page Conditionals)
-fb_likebox	Facebook Page Plugin
+fast_404	Fast 404
 login_security	Login Security
-modernizr	Modernizr
-imce_crop	IMCE Crop
-apps	Apps
-caption_filter	Caption Filter
-insert_view	Insert View
-content_taxonomy	Content Taxonomy
-dhtml_menu	DHTML Menu
-references_dialog	References dialog
-spamspan	SpamSpan filter
-commerce_stock	Commerce Stock
-admin_theme	Administration theme
-backports	Backports
-views_ticker	Views Ticker
-webform_layout	Webform Layout
+field_formatter_class	Field Formatter Class
+pm_existing_pages	Page manager existing pages
+geolocation	Geolocation Field
+field_collection_views	Field Collection Views
+defaultconfig	Default config
+registration	Entity Registration
+webform_localization	Webform Localization
+flood_control	Flood control
+menu_firstchild	Menu Firstchild
+simplify	Simplify
+shs	Simple hierarchical select
+fancybox	fancyBox
+domain	Domain Access
+views_isotope	Views Isotope (Deprecated)
+imageblock	Image Block
+fitvids	FitVids
+coffee	Coffee
 legal	Legal
-taxonomy_access_fix	Taxonomy access fix
-image_field_caption	Image Field Caption
-custom_formatters	Custom Formatters
-tabtamer	Tab Tamer
-radix_layouts	Radix Layouts
-field_collection_table	Field Collection Table
-slick_views	Slick views
-masonry	Masonry API
-locationmap	Location Map
-admin	Admin
-panopoly_magic	Panopoly Magic
-disable_breadcrumbs	Disable breadcrumbs
-readmorecontrol	Read More Control
-commerce_message	Commerce Message
-easy_breadcrumb	Easy Breadcrumb
-image_delta_formatter	Image Delta Formatter
-openlayers	Openlayers
-cas	CAS
-rules_conditional	Conditional Rules
-boxes	Boxes
-http_client	Http Client
-fullcalendar	FullCalendar
-galleria	Galleria
-markup	Markup
-imce_rename	IMCE Rename
+entityreference_view_widget	Entity Reference View Widget
+shadowbox	Shadowbox
+features_override	Features Override
+views_rss	Views RSS
+autocomplete_deluxe	Autocomplete Deluxe
+taxonomy_csv	Taxonomy CSV import/export
+commerce_extra_price_formatters	Drupal Commerce Extra Price Formatters
+admin_language	Administration Language
+insert_view	Insert View
+modal_forms	Modal forms (with ctools)
+commerce_search_api	Commerce Search API
 image_captcha_refresh	Image CAPTCHA Refresh
-disable_messages	Disable Messages
-revisioning	Revisioning
-panopoly_widgets	Panopoly Widgets
-panopoly_core	Panopoly Core
-panopoly_theme	Panopoly Theme
-nodereference_url	Node Reference URL Widget
-panopoly_images	Panopoly Images
-views_fluid_grid	Views Fluid Grid
-find_content	Find Content
-google_analytics_reports	Google Analytics Reports
-environment_indicator	Environment Indicator
+webform_hints	Webform Hints
+mediaelement	MediaElement
+leaflet	Leaflet
+panels_breadcrumbs	Panels Breadcrumbs
+privatemsg	Privatemsg
+commerce_autosku	Commerce AutoSKU
+webform_phone	Webform Phone Number
+scroll_to_top	scroll to top
+spamspan	SpamSpan filter
+cloud_zoom	Cloud Zoom
 forum_access	Forum Access
-audiofield	AudioField
-styles	Styles
-securelogin	Secure Login
-menu_import	Menu Export/Import
-rename_admin_paths	Rename Admin Paths
-respondjs	Respond.js
-adaptive_image	Adaptive Image
-compact_forms	Compact Forms
-schemaorg	Schema.org
-noreqnewpass	No Request New Password
-replicate	Replicate
-user_picture_field	user picture field
-flippy	Flippy
-demo	Demonstration site (Sandbox / Snapshot)
+commerce_checkout_progress	Commerce Checkout Progress
+fb_likebox	Facebook Page Plugin
+ds_bootstrap_layouts	Display Suite Bootstrap Layouts
+content_taxonomy	Content Taxonomy
+hacked	Hacked!
+panels_everywhere	Panels Everywhere
 search_autocomplete	Search Autocomplete
+vppr	Vocabulary Permissions Per Role
+rate	Rate
+newsletter	Newsletter
+webform_conditional	Webform Conditional (Same Page Conditionals)
+apps	Apps
+cas	CAS
+webform_layout	Webform Layout
+admin_theme	Administration theme
+save_draft	Save Draft
+securelogin	Secure Login
+taxonomy_access_fix	Taxonomy access fix
+simplified_menu_admin	Simplified Menu Administration
+imce_crop	IMCE Crop
+image_field_caption	Image Field Caption
+references_dialog	References dialog
+session_limit	Session Limit
+easy_breadcrumb	Easy Breadcrumb
+custom_formatters	Custom Formatters
+commerce_stock	Commerce Stock
+schema	Schema
+find_content	Find Content
+fape	Field API Pane Editor (FAPE)
+disable_messages	Disable Messages
+readmorecontrol	Read More Control
+drafty	Drafty
+tabtamer	Tab Tamer
+views_ticker	Views Ticker
+backports	Backports
+environment_indicator	Environment Indicator
+masonry	Masonry API
+modernizr	Modernizr
+locationmap	Location Map
+imce_rename	IMCE Rename
+field_collection_table	Field Collection Table
+markup	Markup
+admin	Admin
+http_client	Http Client
+image_delta_formatter	Image Delta Formatter
+imagestyleflush	Image style flush
+views_fluid_grid	Views Fluid Grid
+replicate	Replicate
+rename_admin_paths	Rename Admin Paths
+galleria	Galleria
+disable_breadcrumbs	Disable breadcrumbs
+adaptive_image	Adaptive Image
+noreqnewpass	No Request New Password
+schemaorg	Schema.org
+rules_conditional	Conditional Rules
+media_soundcloud	Media: SoundCloud
+hide_submit	Hide submit button
+revisioning	Revisioning
+commerce_message	Commerce Message
+compact_forms	Compact Forms
+messaging	Messaging
+menu_import	Menu Export/Import
+styles	Styles
+dhtml_menu	DHTML Menu
+openlayers	Openlayers
+fullcalendar	FullCalendar
+boxes	Boxes
+nodereference_url	Node Reference URL Widget
+audiofield	AudioField
+caption_filter	Caption Filter
 form_placeholder	Form Placeholder
 editablefields	Editable Fields
-media_soundcloud	Media: SoundCloud
-views_distinct	Views Distinct
+media_ckeditor	Media CKEditor
+flippy	Flippy
 imageapi_optimize	Image Optimize (or ImageAPI Optimize)
-imagestyleflush	Image style flush
-commerce_coupon	Commerce Coupon
-colors	Colors
-username_enumeration_prevention	Username Enumeration Prevention
-minify	Minify
-beautytips	BeautyTips
-media_browser_plus	Media Browser Plus
-masonry_views	Masonry Views
-commerce_migrate	Commerce Migrate
-skinr	Skinr
-contact_forms	Contact Forms
-contentanalysis	Content Analysis
-session_limit	Session Limit
-spamicide	Spamicide
 proj4js	Proj4JS
-panopoly_admin	Panopoly Admin
-addanother	Add another
-editableviews	Editable Views
+commerce_coupon	Commerce Coupon
+radix_layouts	Radix Layouts
 administerusersbyrole	Administer Users by Role
-quiz	Quiz
-subpathauto	Sub-pathauto (Sub-path URL Aliases)
-spambot	Spambot
-relation	Relation
-path_redirect_import	Path redirect import
-entity_rules	Entity Rules
-search_api_page	Search API pages
+beautytips	BeautyTips
 filter_perms	Filter permissions
+panopoly_magic	Panopoly Magic
+media_browser_plus	Media Browser Plus
+editableviews	Editable Views
+masonry_views	Masonry Views
+respondjs	Respond.js
+panopoly_widgets	Panopoly Widgets
+minify	Minify
+slick_extras	Slick extras
 roleassign	RoleAssign
-bueditor	BUEditor
-browscap	Browscap
-contact_form_blocks	Contact form blocks
-plup	Plup
-phpmailer	PHPMailer
-vppr	Vocabulary Permissions Per Role
 menu_target	Menu target
-commerce_add_to_cart_confirmation	Commerce add to cart confirmation
-bg_image	Background Images
-hybridauth	HybridAuth Social Login
-wysiwyg_template	Wysiwyg API template plugin
+search_api_page	Search API pages
 menu_editor	Menu Editor
+browscap	Browscap
+panopoly_images	Panopoly Images
+menu_icons	Menu Icons
+spamicide	Spamicide
+views_distinct	Views Distinct
+panopoly_theme	Panopoly Theme
+subpathauto	Sub-pathauto (Sub-path URL Aliases)
+commerce_add_to_cart_confirmation	Commerce add to cart confirmation
+contact_form_blocks	Contact form blocks
+colors	Colors
+demo	Demonstration site (Sandbox / Snapshot)
+panels_bootstrap_layouts	Panels Bootstrap Layouts
+services_views	Services Views
+username_enumeration_prevention	Username Enumeration Prevention
+hybridauth	HybridAuth Social Login
+event_calendar	Event Calendar
+wysiwyg_template	Wysiwyg API template plugin
+composer_manager	Composer Manager
+user_import	User Import
+contact_forms	Contact Forms
+panopoly_core	Panopoly Core
+phpmailer	PHPMailer
+userprotect	User protect
+menu_node	Menu Node API
+spambot	Spambot
+workflow	Workflow
+drd_agent	DRD agent
+webform_multifile	Webform Multiple File Upload
+shib_auth	Shibboleth authentication
+oa_core	Open Atrium Core
+at_base	@Base
+auto_login_url	Auto Login URL
+office_hours	Office Hours
+private	Private
+aes	AES encryption
+restws	RESTful Web Services
+timezone_detect	Timezone Detect
+restful	RESTful
+flag_clear	Flag clear
+hotjar	Hotjar
 osf	OSF for Drupal
 wetkit_omega	Web Experience Toolkit: Omega
 facebook_pull	Facebook Pull
@@ -515,9 +529,7 @@ workbench_scheduler	Workbench Scheduler
 hosting	Hosting
 require_login	Require Login
 oauth2_client	OAuth2 Client
-restws	RESTful Web Services
 coder	Coder
-webform_multifile	Webform Multiple File Upload
 instagram_block	Instagram Block
 outline_designer	Outline Designer
 node_embed	Node Embed
@@ -544,7 +556,6 @@ select2widget	Select2 Field Widget
 values	Values
 token_insert_entity	Token Insert Entity
 chatroom	Chat Room
-restful	RESTful
 encrypt	Encrypt
 mayo	MAYO
 monster_menus	Monster Menus
@@ -568,7 +579,6 @@ workbench_email	Workbench Email
 quickedit	Quick Edit
 commerce_commonwealth	Commerce Commonwealth (CBA)
 time_tracker	Time Tracker
-shib_auth	Shibboleth authentication
 me	me aliases
 acsf	Acquia Cloud Site Factory Connector
 xc	The eXtensible Catalog (XC) Drupal Toolkit
@@ -587,7 +597,6 @@ entityform_block	Entityform block
 ddblock	Dynamic display block
 camtasia_relay	Camtasia Relay
 civicrm_private_report	CiviCRM private report
-user_import	User Import
 og_tag_importer	Open Graph Importer
 current_search_links	Current Search Links
 entitybulkdelete	EntityBulkDelete

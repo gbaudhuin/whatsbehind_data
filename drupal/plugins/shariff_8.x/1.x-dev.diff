@@ -1,4 +1,4 @@
-A	config/schema/shariff.schema.yml	6303399900d3f23d63dd265e3b906b44
-M	shariff.info.yml	f92ae88826df2f1a6fb14842f76eb537
-M	src/Form/ShariffSettingsForm.php	502cf1a9253230a0c5cdff1a7aa0d650
-M	src/Plugin/Block/ShariffBlock.php	8f0d8309bb6096ba125d59450bb47726
+M	composer.json	cd4b67604ad3f073fc13e7e00ed1bf25
+A	js/shariff.js	071d54bd1c4bb5c07406509937fe27a8
+M	shariff.info.yml	935a5ed7253fcd99d03a8278ffae571f
+M	shariff.libraries.yml	2f0c341221c870ff6b8fa5888148ec1d

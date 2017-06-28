@@ -1,9 +1,11 @@
-M	hybridauth.info	e88e193bb054d255a57adcd6a05ce0b1
+M	hybridauth.api.php	d9dde0ca0113e1557cb46114047dddcd
+M	hybridauth.info	4ec7a07cf307351a43b4b45e68f503b9
 M	hybridauth.make	ad5b19ee24a6ded6f174928d39f83690
-M	hybridauth.module	41d78df16f708953f7262fd07b718ae6
+M	hybridauth.module	eea0ab5dbc33f558e90369e5525fc4a4
+M	hybridauth.pages.inc	b8c1110b67465866f56815efcfc4381e
 M	hybridauth.rules.inc	c89fccc58739dfc8bd08c15afad49189
-M	hybridauth_bonus/hybridauth_bonus.info	f9c201e76e6b024375d377293418b608
-M	hybridauth_ulogin/hybridauth_ulogin.info	452abac8340626633b323ac6bd717c4d
+M	hybridauth_bonus/hybridauth_bonus.info	cd32d732c131b90cbdd71b1c4b7cf2f7
+M	hybridauth_ulogin/hybridauth_ulogin.info	06024ac37b540380da63808f5b6d8610
 M	plugins/icon_pack/hybridauth_16/hybridauth_16.css	824bbbabb9ef7c2f3c80dab6c87eb33f
 A	plugins/icon_pack/hybridauth_16/icons/humanitarianid.png	6a61859d0d7a503068a0cfefec768881
 A	plugins/icon_pack/hybridauth_16/icons/pinterest.png	a49e1fdb510592c390a904d6f98b76c7

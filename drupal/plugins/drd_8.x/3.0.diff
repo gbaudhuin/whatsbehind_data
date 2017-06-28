@@ -1,0 +1,39 @@
+M	CHANGELOG.txt	eadc38b0ac7225bfe33eae298ed15a3b
+M	README.md	fcdce942e3f88d9a07f58706c46c828a
+D	build/.gitignore	
+D	build/drd.phar	
+D	build/gulpfile.js	
+D	build/package.json	
+D	build/sass/_mixins.scss	
+D	build/sass/_variables.scss	
+D	build/sass/components/_dashboard.scss	
+D	build/sass/components/_domain_name.scss	
+D	build/sass/components/_header.scss	
+D	build/sass/components/_link.scss	
+D	build/sass/components/_remote_status.scss	
+D	build/sass/components/_ssl.scss	
+D	build/sass/components/_tabs.scss	
+D	build/sass/components/_toggle_domain_name.scss	
+D	build/sass/components/_toolbar.scss	
+D	build/sass/components/_update_info.scss	
+D	build/sass/components/_update_status.scss	
+D	build/sass/drd.scss	
+D	build/sass/entities/_core.scss	
+D	build/sass/entities/_domain.scss	
+D	build/sass/entities/_host.scss	
+D	build/sass/entities/_project.scss	
+D	build/sass/forms/_new_core_wrapper.scss	
+D	build/sass/views/_domains.scss	
+D	build/sass/views/_filter.scss	
+D	build/sass/views/_projects.scss	
+D	docs/data model.png	
+D	docs/data model.puml	
+D	docs/roadmap.md	
+D	docs/style-guide.pdf	
+M	drd.info.yml	2754ef5342e98e818a197b2c46f2f752
+M	img/seo.svg	bf377a63d30c166f8bd30647ee3daf1a
+M	modules/drd_migrate/drd_migrate.info.yml	d0b38ded61cce286c7026f28ff9f3606
+M	src/Entity/Release.php	9d709bc668d0614d544d717250328f1c
+M	src/Entity/ReleaseInterface.php	e74b334fe7570a326028be8633212949
+M	src/LibraryBuild.php	955442e84daa2f947a3302c28983208f
+M	src/Plugin/Action/Projects.php	d2f27ed936bcf9e4c2534d10f7620a4a

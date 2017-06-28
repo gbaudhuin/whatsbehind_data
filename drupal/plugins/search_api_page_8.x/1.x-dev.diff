@@ -1,12 +1,12 @@
-M	search_api_page.info.yml	b1d3f21441bfab1624cd80ee47fc736e
+M	search_api_page.info.yml	274878159e884997fe79fba3506c7457
 M	search_api_page.module	67f8a7ecbd8a6b130b40c7b202e8b708
-M	src/Controller/SearchApiPageController.php	ebeb969baa4d681e628291f89ca852d0
-M	src/Entity/SearchApiPage.php	a51c61f4ab2fec77fb2ef4da86046861
+M	src/Controller/SearchApiPageController.php	297c687387ceb194ef594e3e3c67d685
+M	src/Entity/SearchApiPage.php	245af4bc33363e5f9ff261664bb36287
 M	src/Form/SearchApiPageBlockForm.php	ff532d1e67528ece1d817773f1c0fcc4
 M	src/Form/SearchApiPageDeleteForm.php	33e1a4dcddb7c0bf6a9a7e9df522aba7
 M	src/Form/SearchApiPageForm.php	eae96e7ccd2d1b8e9abefa5f9f7e7843
 M	src/Plugin/Block/SearchApiPageBlock.php	6443d5f774009b131d6b16fb4c1d2fed
-M	src/Plugin/facets/facet_source/SearchApiPage.php	341e2f36877f0c8bb97606c342fb94af
+M	src/Plugin/facets/facet_source/SearchApiPage.php	2e63ee6d39875e0939915fdec978b757
 M	src/Plugin/facets/facet_source/SearchApiPageDeriver.php	ab0286c11b67360142555bedebe88850
 M	src/Routing/SearchApiPageRoutes.php	48f062a1311a6aabec9e15c4b8b4a58a
 M	src/SearchApiPageInterface.php	ec82aad3aeb505260a058f50de192282

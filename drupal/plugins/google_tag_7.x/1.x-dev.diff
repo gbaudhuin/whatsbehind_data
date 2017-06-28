@@ -1,3 +1,7 @@
-M	google_tag.info	bf17571de0691dcc35e0af47200f8dd3
-M	includes/admin.inc	33c595e7aa1bdea5c79a7d7058d2b781
-M	includes/variable.inc	501f853e2f92e49b26db1a1bcaa6518d
+M	README.txt	826eb96f2b9f8389187981768434a365
+M	google_tag.info	7d911cd6c66c95fae9c8e8510354bbe5
+M	google_tag.install	4340359dca3a80a9b0d2777db36fa371
+M	google_tag.module	c267fa3dafd369f27d4af4afbf1b867a
+M	includes/admin.inc	9619707c22d05e444bd2e3883fedd30c
+M	includes/snippet.inc	be5ddbf0874d52aa41fb13e2c1656e22
+M	includes/variable.inc	67fdb4f2b17618cccc1c89d50b6e4d32

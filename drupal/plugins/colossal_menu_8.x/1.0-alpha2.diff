@@ -1,9 +1,0 @@
-M	colossal_menu.info.yml	cacdf430f41d151aa7311fd1f9209f6c
-M	colossal_menu.permissions.yml	b5dcdffdac795ae447a722116e018a68
-M	colossal_menu.routing.yml	4692778d6912e49fb35b0b2493f9591e
-M	src/Entity/Menu.php	2126dced2ec46b7ce196320487b39065
-M	src/Form/MenuForm.php	f0a571ea3c25d0d36ea4f5c49e6c7408
-M	src/LinkAccessControlHandler.php	e8df1d7ab717be0b826b79ef83c47958
-M	src/Menu/MenuLinkTree.php	5785c33af61f2c859b7b9f77df602b5a
-A	src/MenuAccessControlHandler.php	3aac97d56ad8adeb3a206839bc4fdc84
-M	src/Plugin/rest/resource/MenuTreeResource.php	852d2fee825589746764cd5ea768fef7

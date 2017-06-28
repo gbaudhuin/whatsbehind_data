@@ -1,6 +1,2 @@
-M	robotstxt.info.yml	e8278fb606ebb89941d89f369ba038ac
-M	src/Controller/RobotsTxtController.php	2bccbc4247f673ae578c05f253db0c35
-M	src/Form/RobotsTxtAdminSettingsForm.php	4613499b10a3a7017d100c7098d7773c
-M	src/Tests/RobotsTxtBasicTest.php	caaeb23d13f04defc70c6f272f3bccbb
-A	tests/modules/robotstxt_test/robotstxt_test.info.yml	dcd248398d25c8584c498a62acc30c14
-A	tests/modules/robotstxt_test/robotstxt_test.routing.yml	24ab1b93a95ff02167cfbde65d75f104
+M	robotstxt.info.yml	5505308b57c70efa9cc1cfd3a5ac77cc
+M	tests/modules/robotstxt_test/robotstxt_test.info.yml	03933970222e509003549c318d1ce269

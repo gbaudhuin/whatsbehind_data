@@ -1,3 +1,4 @@
+D	.travis.yml	
 M	README.txt	e722ba84742952c0b47bc57b765bdaac
 D	acquia_connector.api.php	
 D	acquia_connector.info.yml	
@@ -8,6 +9,7 @@ D	acquia_connector.module
 D	acquia_connector.routing.yml	
 D	acquia_connector.services.yml	
 D	acquia_connector_drupal_version.inc	
+D	acquia_search/README.txt	
 D	acquia_search/acquia_search.info.yml	
 D	acquia_search/acquia_search.install	
 D	acquia_search/acquia_search.module	
@@ -17,12 +19,20 @@ D	acquia_search/config/install/search_api.index.acquia_search_index.yml
 D	acquia_search/config/install/search_api.server.acquia_search_server.yml	
 D	acquia_search/config/optional/block.block.exposedformacquia_searchpage.yml	
 D	acquia_search/config/optional/views.view.acquia_search.yml	
-D	acquia_search/config/schema/acquia_search.shema.yml	
+D	acquia_search/config/schema/acquia_search.schema.yml	
 D	acquia_search/drush/acquia_search.drush.inc	
+D	acquia_search/src/AcquiaSearchV3ApiClient.php	
 D	acquia_search/src/EventSubscriber/SearchSubscriber.php	
 D	acquia_search/src/Plugin/SolrConnector/SearchApiSolrAcquiaConnector.php	
+D	acquia_search/src/PreferredSearchCoreService.php	
+D	acquia_search/src/Tests/AcquiaConnectorSearchOverrideTest.php	
 D	acquia_search/src/Tests/AcquiaConnectorSearchTest.php	
+D	acquia_search/tests/modules/acquia_search_test/acquia_search_test.info.yml	
+D	acquia_search/tests/modules/acquia_search_test/acquia_search_test.services.yml	
+D	acquia_search/tests/modules/acquia_search_test/src/EventSubscriber/AcquiaSearchTestSubscriber.php	
+D	acquia_search/tests/src/Kernel/AcquiaSearchOverrideTest.php	
 D	acquia_search/tests/src/Unit/AcquiaSearchTest.php	
+D	acquia_search/tests/src/Unit/AcquiaSearchV3ApiClientTest.php	
 D	config/install/acquia_connector.settings.yml	
 D	config/schema/acquia_connector.schema.yml	
 D	css/acquia_connector.admin.theme.css	
@@ -37,6 +47,8 @@ D	images/logo-an-image.png
 D	images/logo-an-slogan.png	
 D	images/logo-an-word.png	
 D	images/separator-arrow.png	
+D	scripts/travis/vhost.txt	
+D	src/AutoConnector.php	
 D	src/Client.php	
 D	src/ConnectorException.php	
 D	src/Controller/MigrateController.php	
@@ -55,6 +67,7 @@ D	src/Form/MigrateForm.php
 D	src/Form/SettingsForm.php	
 D	src/Form/SetupForm.php	
 D	src/Form/SpiChangeForm.php	
+D	src/Helper/Storage.php	
 D	src/Migration.php	
 D	src/Subscription.php	
 D	src/Tests/AcquiaConnectorModuleTest.php	
@@ -66,3 +79,4 @@ D	tests/modules/acquia_connector_test.services.yml
 D	tests/modules/src/Controller/NspiController.php	
 D	tests/modules/src/Controller/NspiRequest.php	
 D	tests/src/Unit/AcquiaConnectorUnitTest.php	
+D	tests/src/Unit/AutoConnectorTest.php	

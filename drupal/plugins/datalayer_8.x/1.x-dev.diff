@@ -1,0 +1,10 @@
+M	config/install/datalayer.settings.yml	fdfb3e74cea3a189aa21119e3386cd65
+M	config/schema/datalayer.schema.yml	761157c0caf5c22e25d85884f9ce3f78
+M	datalayer.api.php	c939ea8753587feb6f038b57103d2b67
+M	datalayer.info.yml	fe12da6c418e25553d1dc178c762ae35
+M	datalayer.module	cd021d6477ab45493f00cc34cac92d24
+M	src/Form/DatalayerSettingsForm.php	8c3e5b1b2c5f8419d25dcf358aa4b975
+D	src/Tests/DataLayerUnitTests.php	
+D	src/Tests/DataLayerWebTests.php	
+A	tests/src/Functional/DataLayerFunctionalTests.php	97aeb0fb3aa9da13be288414da386021
+A	tests/src/Kernel/DataLayerKernelTests.php	8e365683fb74fefc68c1dc8ecb05669e

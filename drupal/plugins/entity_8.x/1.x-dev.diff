@@ -1,2 +1,4 @@
-M	entity.info.yml	68724b68259c2de7230483bf05705f2e
-M	tests/modules/entity_module_test/entity_module_test.info.yml	e86450c6c4c6b74eb94ad883b41d239d
+M	entity.info.yml	7cee629679de778e8b7335d1a37f7d1c
+M	entity.services.yml	6359884943abf36ff0959ceb1cdf791f
+M	src/Access/EntityRevisionRouteAccessChecker.php	684041132f19aa8260893aa56a7329e6
+M	tests/modules/entity_module_test/entity_module_test.info.yml	4f1a6eda8922dc558d6062f7d864321f

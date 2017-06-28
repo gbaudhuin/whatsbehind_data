@@ -1,0 +1,15 @@
+A	composer.json	5f39de6f11385ffbc92abc50cba75e33
+M	image_effects.info.yml	2232faeaeb5696df6fc135f244658072
+M	image_effects.install	559021fa34fd333fcf70d6775544e572
+M	src/Plugin/ImageEffect/AutoOrientImageEffect.php	1ea05b4430e1454cc3926c0eae8bf7e2
+M	src/Plugin/ImageToolkit/Operation/FontOperationTrait.php	e28e401c32dc748d2a60887f2b718e3f
+M	src/Plugin/ImageToolkit/Operation/gd/AutoOrient.php	8d2d16bb13a16415ad9eea1d095886ec
+M	src/Plugin/image_effects/FontSelector/Basic.php	fed31e2687df20be28c9c1cb4c5c975c
+M	src/Plugin/image_effects/FontSelector/Dropdown.php	1b613cbdd9629388bfef696c156d8ceb
+M	src/Tests/Update/TextOverlayUpdateTest.php	197b27d577031a7b7f46747130318aa8
+M	src/Tests/Update/WatermarkUpdateTest.php	fbc6057c130af7e82e5b5da877d52130
+M	tests/modules/image_effects_module_test/image_effects_module_test.info.yml	a6aba2c6b5d8c6c7c3efbf747f301cb1
+M	tests/src/Functional/Effect/AutoOrientTest.php	7f8a3da83356defb8487cce4a678af1a
+M	tests/src/Functional/Effect/TextOverlayTest.php	1426c35c8afbe98146d822c2f09c41e5
+M	tests/src/Functional/SelectorPluginTest.php	fa0a9d3562e25bc1eab6ec5a541b66c8
+M	tests/src/Functional/SettingsFormTest.php	fa0a338116c1b0dda906ccae069c63ab

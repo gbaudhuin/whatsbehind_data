@@ -1,0 +1,5 @@
+M	jwt.info.yml	c8e943bf02891de7edb6863db29f2d92
+M	jwt.install	d87cf7d0fd738c9486f3c1bb26972f74
+M	modules/jwt_auth_consumer/jwt_auth_consumer.info.yml	3f61d50b1ae8b808d7f4af88f8d8e8f9
+M	modules/jwt_auth_issuer/Tests/Controller/JwtAuthIssuerControllerTest.php	9ec8327d72a98a4d9bcb8e68e5ee314e
+M	modules/jwt_auth_issuer/jwt_auth_issuer.info.yml	608f3c6beccbcc59fa1a9082950fc211

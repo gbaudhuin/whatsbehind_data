@@ -1,0 +1,17 @@
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
+A	README.txt	9f5d0973bdd5965211acfc9326d6ec86
+A	auto_login_url.info.yml	5e6031b4878b3a134837bcffa2319257
+A	auto_login_url.install	4c73db3a7624fc3769e790369cead09b
+A	auto_login_url.links.menu.yml	ca97d50141ac3b87e47fc3bbdfb1ae06
+A	auto_login_url.links.task.yml	d9731829065a5bb352e0f5ed7be4afb5
+A	auto_login_url.module	86c542bb790dc4520bbe2f758ce779e7
+A	auto_login_url.permissions.yml	a4c20d7ec3c597c2ada2c50750dabc29
+A	auto_login_url.routing.yml	4f4c3a53e70b89e91fd04bd52ba97c92
+A	auto_login_url.services.yml	729a6375187a9b84000ef53624fbaf3f
+A	config/install/auto_login_url.settings.yml	7f79709ac374299c59cf423de6aa3ab2
+A	config/schema/auto_login_url.schema.yml	c5873b05724af927d8beb67669965459
+A	src/AutoLoginURLCreate.php	f05ab75fd72a705cce48b2710c866fea
+A	src/AutoLoginUrlConvertTextClass.php	f6118ad4db25c3da18c547c7b1adb8a0
+A	src/Controller/AutoLoginURLMainController.php	d83b2ca7c58553905f6f7f864084ae5c
+A	src/Form/ConfigForm.php	447361d6d0e92d4c02a73e15ee62c8f5
+A	src/Tests/AutoLoginUrlTest.php	617bf5cd9367347e523533810d9c0543

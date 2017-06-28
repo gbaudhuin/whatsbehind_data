@@ -1,1 +1,2 @@
-M	views_field_formatter.info.yml	b57486a45be3ab301d45f43447764ed5
+M	src/Plugin/Field/FieldFormatter/ViewsFieldFormatter.php	b2bdc8573ccb2c78fb6bca9870046d0e
+M	views_field_formatter.info.yml	7c1aefa3ccc25ff3919245636afa59c0

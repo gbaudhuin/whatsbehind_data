@@ -1,0 +1,15 @@
+M	adsense.info.yml	ff3603260067fd05b73ffbb125b01e6a
+M	config/install/adsense.settings.yml	db4b2c22b0bec09913f0352d6ef43fbd
+A	config/schema/adsense.schema.yml	65d70a2d58a8cb8e641b5f108bfc82c0
+M	oldcode/adsense_oldcode.info.yml	5016ac9f7956e09c5138acfefe9cee52
+M	oldcode/config/install/adsense_oldcode.settings.yml	3262ec8cd7f8ba1ac213a61258c5e799
+A	oldcode/config/schema/adsense_oldcode.schema.yml	3facf0ae215a390cb1a1c0d9955392dc
+M	oldcode/revenue_sharing_basic/revenue_sharing_basic.info.yml	48f6836e5883ab51453f1e429c921997
+M	oldcode/src/Form/AdsenseOldCodeSettings.php	78a6e366140dae871ca874db2172708a
+M	oldcode/src/Form/AdsenseOldSearchSettings.php	0141093df9b17cda74c68674d29dd91d
+M	oldcode/src/Plugin/AdsenseAd/OldCodeAd.php	027b212c2b1c610d675d9340e926545c
+M	oldcode/src/Plugin/AdsenseAd/OldSearchAd.php	2dd209c1f891612357b91ec9270f7cb3
+M	src/Form/AdsenseCseSettings.php	aa51e0ca0e64c62864395509832f7207
+M	src/Form/AdsenseMainSettings.php	02872028d9dc05dff1dd2d8405118ed3
+M	src/Form/AdsenseManagedSettings.php	6d6ab283f88fa05159f740611927e260
+M	src/Plugin/AdsenseAd/CustomSearchAd.php	2a156b9507ec3f3bfedd2e70cf70a948

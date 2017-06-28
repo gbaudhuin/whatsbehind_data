@@ -1,8 +1,0 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	91831efd4a6b070a7f02a1488c48c353
-A	browsersync.info.yml	b2b1e97d2b6bc70945687827c8990bb8
-A	browsersync.module	8e0948316cf7fe60ffcab5dab9bf570c
-A	browsersync.permissions.yml	9ba00786cc7ae41ac402a04fe8f1ab1c
-A	config/schema/browsersync.schema.yml	d0be97f7915ae625853f59fb75d152ed
-A	src/Tests/BrowsersyncTest.php	55911931972e8d15b0c965c19038f31d
-A	templates/browsersync-snippet.html.twig	4878b2e2261e4fa50749864ad8c88f80

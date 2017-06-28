@@ -1,8 +1,5 @@
-M	flexslider.info.yml	79156c2fce23f7ad3b99f6fc327d5963
-M	flexslider.module	43518505461bbd0c824eda24c0f3da42
-M	flexslider_example/flexslider_example.info.yml	7f6ab65fddcb56a1de68130d8b0c64ff
-M	flexslider_fields/flexslider_fields.info.yml	d4adbd1a000a739cd5b6fb4554923f23
-M	flexslider_fields/src/Plugin/Field/FieldFormatter/FlexsliderFormatterTrait.php	4b52421c431a9d24296130e89fef9652
-M	flexslider_views/flexslider_views.info.yml	0990a7f61f6b63c0d9a7b2cad9155a9f
-M	flexslider_views/templates/flexslider_views.theme.inc	b72dd7803af63348c95630c9161aad7f
-M	templates/flexslider.theme.inc	8ee35d4cc614491b5ffd026626d75de4
+M	flexslider.info.yml	68ef849b29c9dc6a2941dfc7449a5d74
+M	flexslider_example/flexslider_example.info.yml	2d0efac1aa840dc2fd9cd33ed4d38c14
+M	flexslider_fields/flexslider_fields.info.yml	4eed0110593feb69955459c0ddeadb04
+M	flexslider_views/flexslider_views.info.yml	9373a988c0b9451004a47b58bf8b9973
+M	tests/modules/flexslider_library_test/flexslider_library_test.info.yml	b82cd5cffff587845457a3bb2434978e

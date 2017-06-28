@@ -1,12 +1,7 @@
-M	jammer.info	f1ecc36c69e1a8d1f09e027a2f15597d
-M	jammer.module	c3c1f6bd1d5e4120b42d2f5a62bccefb
-D	jammer_feed.info	
-D	jammer_feed.module	
-M	jammer_feed_icon.info	6bbd1e3a69a0903c27890a75a157b7af
-M	jammer_feed_icon.module	068f15ce1bfdbbe03d6ed149f5a04a01
-M	jammer_generic.info	c5aa4ef2976c18ad80b1c9bc7d025946
-M	jammer_generic.module	99f001118f5b63558da66ace40e2cfc5
-M	jammer_messages.info	787dae432894c5ee44cfb9083ef841ff
-M	jammer_messages.module	2f26cef76989efb7faeb0f842dd033a6
-A	tests/jammer_preview.test	c5657d2e22c571f21d1e50d619ac8c60
-A	tests/jammer_settings.test	c1fc8ae57a258ec7fa830334006b2cf0
+M	jammer.info	efe453381595ffd4205a8e2feaba0621
+M	jammer.module	8f410feeddf4f95a67cf8edba5cf5ccd
+M	jammer_feed.info	57fec55f0d2812db93ca8518f7018f4f
+M	jammer_feed_icon.info	f8b57e8c00d10af30107ab8fd5d85040
+M	jammer_generic.info	5ec701e467d8c5ef4bef436858834082
+M	jammer_generic.module	a2ed6e2f3b80a4f09290521c60e334fa
+M	jammer_messages.info	5ab5ac30d4bf60ec8d7895ef1206ba40

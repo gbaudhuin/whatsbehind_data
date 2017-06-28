@@ -1,3 +1,6 @@
-M	cdn.info.yml	3b47208a0781fb18135f919a8530987f
-M	cdn_ui/cdn_ui.info.yml	ea804904417f090e109a17cf5f083ec6
+M	cdn.info.yml	7ca46c0aa0b1f4197d3526eb90c622c1
+M	cdn.install	47d95aadb31a3b3d6dc9f85c9ea6ce4a
+M	cdn.module	4d5b408b287c444e1b554b123150e207
+M	cdn_ui/cdn_ui.info.yml	eb78f9edbb213f5720feb08a31f4da8e
+M	tests/src/Functional/CdnIntegrationTest.php	ba87e834baaea4f6d9e566d8b808ec11
 M	tests/src/Functional/Update/CdnDefaultSettingsUpdateTest.php	60434845f0e38397bc9f2299e9fc07ab

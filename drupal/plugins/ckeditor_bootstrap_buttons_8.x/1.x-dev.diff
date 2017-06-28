@@ -1,2 +1,5 @@
-M	ckeditor_bootstrap_buttons.info.yml	cf5a903e16e3c66e7c339b18c87a7c83
-M	src/Plugin/CKEditorPlugin/Btbutton.php	3c74df3818b4d877abea6195814084b6
+A	README.md	751b3d254061f8632cd325d7f0d98b8b
+D	README.txt	
+M	ckeditor_bootstrap_buttons.info.yml	1cfd60deac3ad009c6e95e16061b5d5c
+A	ckeditor_bootstrap_buttons.install	638e527d6b5ff6046c592ec4e624bb8f
+A	composer.json	16809a7cbbc0efec5394f7be6308590d

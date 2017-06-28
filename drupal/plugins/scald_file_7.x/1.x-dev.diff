@@ -1,7 +1,9 @@
+A	icons/application_vnd.openxmlformats_officedocument.presentationml.slideshow.png	54e302ecc11b7fafaa381cd83e835135
+A	icons/application_vnd.sun.xml.writer.png	73bf704442ad13a673764234a6ffc4f1
 M	includes/scald_file.views.inc	7245efaa012f8d42e259b68ada5a3574
 M	includes/scald_file_views_handler_field_filesize.inc	a6fb63be761facee8f7cf80e0e0234d9
 M	scald-file-render.tpl.php	48def2bc6cf2836c5092e36c2156ded3
-M	scald_file.info	a12fd3d4ac6f6358d7af76a1f0adf342
+M	scald_file.info	c4d5cf100fb1e0db2a03f4669331eda9
 M	scald_file.install	237e9ef2551d4faa064e8ab40baf0685
 M	scald_file.js	7c16e2e0b49eef8dcf25abb4deea04d1
 M	scald_file.module	75bd93c6136fe67889a83d05e8d9bf53

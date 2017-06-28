@@ -1,0 +1,8 @@
+M	bricks.info.yml	124bd11f98eebc10bcf8c3e6fd777631
+M	bricks.module	311e886a12fb4531a53be26eaff73ec4
+M	bricks_inline/bricks_inline.info.yml	2e96f1d7aa1e0b45af63c8ce6a5cacae
+M	bricks_inline/src/Plugin/Field/FieldWidget/BricksTreeInlineWidget.php	66a6d7eac6890dfd87a58a3953aae964
+M	src/Plugin/Field/FieldType/BricksTreeItem.php	4c4f700f87051d6b73b9794a16327d43
+M	src/Plugin/Field/FieldWidget/BricksTreeAutocompleteWidget.php	d88ebc1041df9c9164a4db55b3169f56
+M	templates/brick--columns.html.twig	e56a1b5eb2bc30af1a13ec026a08e913
+M	templates/brick.html.twig	c8f0fce46d9712c12dfc3982cb4f6485

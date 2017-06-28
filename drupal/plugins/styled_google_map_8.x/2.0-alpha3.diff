@@ -1,0 +1,9 @@
+A	composer.json	32dd0d7023186e4641a9e691352b7055
+M	src/Form/styledGoogleMapSettingsForm.php	dc16722b9a85977e7e778f2ba0d9c6b7
+M	src/Plugin/Field/FieldFormatter/StyledGoogleMapDefaultFormatter.php	d618ef3764e2514403c1bc12f9bf9fbc
+M	src/Plugin/views/style/StyledGoogleMapStyle.php	763ef484f820921cdef12ec0b98df78d
+A	src/StyledGoogleMapInterface.php	260272a31d2a56e8a2b4bbc4792bb5c7
+M	styled_google_map.info.yml	d0211d9ab120e1570d0bfde893aa85be
+M	styled_google_map.install	1523204dc5755ee5302d968b2b8490ee
+M	styled_google_map.libraries.yml	b6be0623b8188819d611953c7879180d
+M	styled_google_map.module	4a778dc8eb0f992257126c94465203f0

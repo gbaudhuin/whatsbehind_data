@@ -1,5 +1,5 @@
 M	js/magnific-popup.js	4a607a7b704d8d1061d17b0a9f8f474e
 M	js/magnific-popup.video-embed.js	ebea6d0f6ef39e6439b23cdbc8ee59d9
-M	magnific_popup.info.yml	6434aefbc7b416c8d7d02d55560b057d
-M	src/Plugin/Field/FieldFormatter/MagnificPopup.php	5e7a90a023672a0ceec36e21573998a3
-M	src/Plugin/Field/FieldFormatter/VideoEmbedField.php	4f69e6256b03902d4324da39fe87fe41
+M	magnific_popup.info.yml	7e559d4f30cd8f50754e6d5b4974fa62
+M	src/Plugin/Field/FieldFormatter/MagnificPopup.php	cead1529cf44b7f6c679b513536cd2dd
+M	src/Plugin/Field/FieldFormatter/VideoEmbedField.php	b531313b11c9a50a4b6486b187b39bcf

@@ -1,4 +1,5 @@
 A	.travis.yml	94b674ad1c656ee5718438bfe6abba32
+A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
 A	README.md	5d8ecab626c46e241c7d5e4dc16030bf
 A	config/install/field.field.user.user.field_last_password_reset.yml	b85607099a9e2222911b93c6c46ae67f
 A	config/install/field.field.user.user.field_password_expiration.yml	339f055fbb23cb4496e8ae27f9dc490a

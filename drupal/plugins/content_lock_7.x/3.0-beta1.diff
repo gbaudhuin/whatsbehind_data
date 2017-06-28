@@ -1,0 +1,22 @@
+D	content_lock.admin.inc	
+D	content_lock.admin.js	
+M	content_lock.api.php	f1fbae5390499daa9c3f9fa11a4e0f64
+M	content_lock.info	1066ef306f4aa992fb47c12e17d22cb7
+M	content_lock.install	d47e5326b7de8e2171e7fc52a7771710
+M	content_lock.module	660a94e4f84efd8251b41701ad9a42b5
+A	includes/content_lock.admin.inc	c8a7b8b2f68cbed8e62ff59e3cb8aeb1
+A	includes/content_lock.ajax.inc	195c937b8f5ab27b7a6ddb623b7ed5bb
+A	includes/content_lock.forms.inc	6964fb2f5529f39a894fcce42e9347a7
+A	includes/content_lock.func.inc	8d56128d44db43e90360cbb17fe3f0bc
+A	includes/content_lock.node.inc	3fdf1614693d3da20783ead940590dbc
+A	includes/content_lock.pages.inc	c1c235e12e251e6f8a37997a9f0eae4e
+A	js/content_lock.admin.js	a48786b08b262e32ed18cd6ad807c99e
+A	js/content_lock.core.js	b16bd03378acd72f782573df3d8b0e58
+A	js/content_lock.init.js	18ed9f96aee5ea6a262b7dd4bf0de701
+A	js/content_lock.url.js	e41f12539609bbb327a6d37cade6ac8b
+D	js/content_lock_init.js	
+D	js/jquery.url.packed.js	
+D	js/onUserExit.js	
+M	modules/content_lock_timeout/README.txt	80dccb132788cce164b240c9d50760af
+M	modules/content_lock_timeout/content_lock_timeout.info	0c7d4d3966ba95bee80636254ad58a1f
+M	modules/content_lock_timeout/content_lock_timeout.module	ce5cea126722dea398b81006f0bb84c2

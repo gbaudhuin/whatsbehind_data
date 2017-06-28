@@ -1,4 +1,6 @@
-M	eck.info	83f6499849d1fc7c7b70f693e9cacb3e
-M	examples/eck_example.info	7d613bb61d7e66ca39f1b02f76bd49e1
-M	modules/eck_entitycache/eck_entitycache.info	85c1391f2523f2cda491015d4129b1f7
-M	modules/eck_services/eck_services.info	cd4cf147ad083ed79fea745697eb1e2c
+M	eck.classes.inc	3cf313a62cc9cfe440fbc9471284d532
+M	eck.features.inc	6f51ff3994cf53d6061a83307e2a4338
+M	eck.info	a1a4a78fcf33a3ccd4aa8e2ca035aad4
+M	examples/eck_example.info	e9b56d3e3702c85a09848edaa7cbba81
+M	modules/eck_entitycache/eck_entitycache.info	d2ee5058115e7fc5f9d8daa054e6abf4
+M	modules/eck_services/eck_services.info	4485f84d00e16218bd8992c61cf1bfda

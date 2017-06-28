@@ -1,3 +1,4 @@
 M	elysia_cron.admin.inc	9417f4aa239cbec4f1408ff8db4b7bfc
-M	elysia_cron.info	b53da6089cc21567a1913496391e0b4f
-M	elysia_cron.module	fbba53ce3acb6f7b5322039023064443
+M	elysia_cron.drush.inc	7c8c452eb134a276baa2c9e17ca86402
+M	elysia_cron.info	32f7ce888f0b1cba26d4c1ee576e84d8
+M	elysia_cron.module	3b989fb9c69daa047fa6ccd81633fa10

@@ -1,0 +1,16 @@
+M	config/install/filebrowser.settings.yml	48ec52274638e7918e05afd08b65ec8a
+M	filebrowser.info.yml	d3861c8bed0ad4472da45fc9e4f63fa3
+M	filebrowser.module	0ac6ec265edb43774e2e21adf4c14418
+M	filebrowser.routing.yml	fca5d0f4a3549725455037c17fb837c0
+M	modules/filebrowser_extra.info.yml	1a31aa7b22141840a2f9987d5818e97f
+M	modules/src/EventSubscriber/MetadataInfoEventSubscriber.php	fa295484474285abed7214ec170a29d6
+M	src/Controller/DefaultController.php	ff1ec5a7145e55305a25b63a70d80d11
+M	src/EventSubscriber/MetadataEventSubscriber.php	8d03ddba3a7e2b0edd5b8e6eaed7a092
+M	src/EventSubscriber/MetadataInfoEventSubscriber.php	4bd09e4e71c006841392050e5cb54e78
+M	src/File/DisplayFile.php	e4f5e2165d0faaafc84c543e2a80150c
+M	src/File/DisplayFileList.php	552712878a69b4884185af36dfdc3b45
+M	src/FilebrowserManager.php	d9df7c5718621825c1556c496489a2f3
+M	src/FilebrowserPermissions.php	d21c1a2b0868e517c7af24b433ff60d8
+M	src/Form/ActionForm.php	d83bd764050b60abca99defcce148c9a
+M	src/Presentation.php	d6b9df78a5947a03cf7101e2829a65fd
+M	src/Services/Common.php	07c8394ab4f7e92ee2da6a41e464cb56

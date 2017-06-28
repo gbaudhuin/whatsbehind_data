@@ -1,0 +1,9 @@
+M	src/Annotation/TwigPlugin.php	1503506de7b61f3555bd7c73a860b683
+M	src/Plugin/Twig/TwigExtensionInterface.php	956224529c7202763f6e7a80d1e6d8e3
+M	src/Plugin/Twig/TwigExtensionsPluginManager.php	bcc86ac86d236b4830b9ffc41e41308c
+M	src/Plugin/Twig/TwigPluginBase.php	a7d8453e03816e7eb2722755942e482c
+M	src/Plugin/Twig/TwigPluginManagerInterface.php	bdc849c1bfa288083e3899aece6ecf25
+M	src/Plugin/TwigPlugin/BlockView.php	f5ee25cf8f193bd9ccea18238c2dc853
+M	src/Plugin/TwigPlugin/Truncate.php	a4bfb2a3d7909dbee21a91fb93d5d223
+M	src/TwigExtenderServiceProvider.php	56d062a424e1d49e692c1a85716ff2a9
+M	twig_extender.info.yml	b40c3b9697b38e400dd719629aeedaa4

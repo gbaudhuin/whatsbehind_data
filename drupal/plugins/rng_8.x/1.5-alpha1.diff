@@ -1,0 +1,13 @@
+M	rng.info.yml	6072d4494bcc6695b5d0ede8ab17adb7
+M	rng.module	4964be38b9d3371d29557910157fe20f
+M	rng.services.yml	030d439b7a135fc6bfb16fd8f96c1301
+M	rng_debug/rng_debug.info.yml	cf773aee0dceb8d4320e2cda6538092d
+M	rng_views/rng_views.info.yml	e0f70221685305ab6a44b4bdc502b904
+M	src/Entity/Registration.php	c33cafd9bd8adca569394acd9fa64ac5
+A	src/EventSubscriber/RngRequestSubscriber.php	d06004b7fe276f79fa45663f0343b81b
+M	src/Form/MessageListForm.php	690da1c746df81e29414f359b10a818b
+M	src/RngEntityModel.php	a184241d7398d38322be22f869d0acbf
+A	src/RngEntityModelInterface.php	44508d4802875bf4bcbac09a178e348b
+A	src/RngOperationRecord.php	cec8f244f25deff03844b7e0c9c63755
+M	tests/modules/rng_test_views/rng_test_views.info.yml	e3ee66675aa81cb3339ebdb97142a493
+A	tests/src/Kernel/RngMessageRules.php	732d148ee9318ad49bc7cd703f228ebb

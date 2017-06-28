@@ -1,0 +1,13 @@
+M	README.md	5956996a734b0bd0525972485bd2125d
+M	css/style.css	2c8f9265f99dec3fce5d4781c11946d3
+M	filebrowser.info.yml	1acbe19522d2789b88222bba0269e59d
+M	filebrowser.module	9d2be165778a87de4553b04e3bf049f1
+M	filebrowser.services.yml	f662a230d33f48cfb598a03981d87754
+M	modules/filebrowser_extra.info.yml	d251b80934dd71be3e5461268012b09c
+M	src/Breadcrumb/BreadcrumbBuilder.php	eb5c9b3c72bc0937c0342017a08fff99
+M	src/Controller/DefaultController.php	f8e6601c3b5a0a153bcd287b99ff121e
+M	src/Form/DeleteForm.php	e6355b29767c295fd4695658eb7aaded
+M	src/Form/GridActionForm.php	6527afbe27825fbfe198c015f9c8502b
+M	src/Form/RenameForm.php	b60e492bceada5fd1016bbcccaa23563
+M	src/Services/Common.php	d3ef29e9b69b68f849abcaea3f025755
+M	src/Services/FormHelper.php	d87d6828dd0bea8fcdc49ccb46f8adf6

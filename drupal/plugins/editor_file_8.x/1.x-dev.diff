@@ -1,2 +1,4 @@
-M	editor_file.info.yml	afb58f2250033fc03b26a655cd8d289f
-M	src/Form/EditorFileDialog.php	0c435dd3bd875ec885474482a761ed08
+M	editor_file.info.yml	b0027e6d49fc4990d471809c989e7d13
+M	js/plugins/drupalfile/plugin.js	e35b7c4e4988f4e7d83bf98624bc859c
+M	src/Form/EditorFileDialog.php	8e86209493fde076a3c8636797e10634
+M	src/Plugin/CKEditorPlugin/DrupalFile.php	9e51a48a7e6df57d52f943cf8fe9826c

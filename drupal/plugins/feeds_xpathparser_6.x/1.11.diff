@@ -1,6 +1,0 @@
-M	FeedsXPathParser.inc	77b005fe798b69f36492689e55b36313
-M	feeds_xpathparser.info	f2ca88e081031a4b989ef76637454d04
-M	feeds_xpathparser.module	2714a7e6e2fe10aa4e94339dad9ed4d5
-A	tests/feeds_xpathparser/issues_drupal.org.htm	fb1cc0d114c058871485e44dd5034928
-A	tests/feeds_xpathparser_parser.test	efcdeb95e02d939132a6146f08497b97
-M	tests/feeds_xpathparser_query_parser.test	d7ce30a76bb7af7e28099fa19bd8e735

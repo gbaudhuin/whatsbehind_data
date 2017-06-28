@@ -1,0 +1,9 @@
+M	auto_login_url.info.yml	5c799f19fbe72cf8c78e78cda70fd0b4
+M	auto_login_url.install	a35db5da9be1e8fe5a5a64b69dfff611
+M	auto_login_url.module	e4806307959795196a3da1a4af10ecbe
+M	auto_login_url.services.yml	6e90626d34c923911a65e16f73b7f8c9
+M	src/AutoLoginURLCreate.php	c13a513e260e68f8241189ad42e91a4d
+M	src/AutoLoginUrlGeneral.php	50ba5fdd33219c2edb49a9b90c2ecb88
+M	src/AutoLoginUrlLogin.php	3b69dfa27d5160b39201e9c174df9003
+M	src/Form/ConfigForm.php	ecc0d10a698b71130155487d8e2c87e0
+M	src/Tests/AutoLoginUrlTest.php	e28f3e046a37403512bfe686417eadc5

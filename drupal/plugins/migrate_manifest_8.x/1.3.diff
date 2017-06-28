@@ -1,4 +1,0 @@
-A	composer.json	55ddd9fff8cce0ec9cede220d5e38b21
-M	migrate_manifest.info.yml	2d7cffdeb9118c8af9d170c7e778128a
-M	src/MigrateManifest.php	1231c52e3f4c446721e6760adf8c6050
-A	src/MigrateManifest80.php	81d896fb1e2f3e9fd7c283c8c4a1eb08

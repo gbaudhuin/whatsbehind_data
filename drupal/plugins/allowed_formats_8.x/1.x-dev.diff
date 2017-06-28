@@ -1,2 +1,3 @@
-M	allowed_formats.info.yml	dd6cd07aa3307c4023e4156275026ad9
-M	src/Tests/AllowedFormatsTest.php	82b81b03a7fa8e31bf9d09b56c7cb5ae
+M	allowed_formats.info.yml	c6b1a475fdbe5fa039f599a1321bdaca
+M	allowed_formats.module	9f96dc4ab1f442de2457b03effdac93d
+M	src/Tests/AllowedFormatsTest.php	e7dc1e3ed305156caf068e1579b781e8

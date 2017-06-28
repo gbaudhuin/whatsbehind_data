@@ -1,5 +1,0 @@
-M	.travis.yml	50bd2451fa5c28a809dd8d80e6bf81e5
-A	.travis/drupal-8.3.x.make.yml	0f291d31696258db75bde19890811223
-M	replication.info.yml	abf34883a5af884e0522b2a6574b7dca
-M	src/Normalizer/EntityReferenceItemNormalizer.php	384ca91f0b1e800996a5fe461ffd44bd
-A	tests/src/Unit/Normalizer/EntityReferenceItemNormalizerTest.php	2ebb0141557bd70c43c1252d6f801f29

@@ -1,1 +1,7 @@
-M	masquerade.info.yml	41e9666e7b8d3a6f13edc74e38183278
+M	composer.json	16e9aad42192008f257b4d4a27a9e388
+M	masquerade.info.yml	0e411b5c3b0bd831eb8a57c2ff17c8fb
+M	src/Controller/SwitchController.php	e3563d8f8144885b02fd29053b99583b
+M	src/Form/MasqueradeForm.php	f476ddaa76d3da6d7ef8854b7118fb46
+M	src/Masquerade.php	562d57036f5283587d1d214c8dab4086
+M	src/MasqueradePermissions.php	56a7e829d1b19d7ec78b703a6fa2448f
+M	src/Plugin/Block/MasqueradeBlock.php	c6259813d4b4e56e7a01076a25428ca2

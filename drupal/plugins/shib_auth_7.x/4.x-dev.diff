@@ -1,2 +1,4 @@
-M	shib_auth.info	462831bbf8dd54d760e6f02d01a7d5f9
-M	shib_auth_profile/shib_auth_profile.info	9ec809a0a52e0613f7b639098bee9c5e
+M	shib_auth.info	4817cd86655f6af9ac10cdf3bc658fbd
+M	shib_auth.module	7945f51f47b5401bcbe98d7ed267780d
+M	shib_auth_forms.inc	7e32ea1e6f8121ee482efabb2ecc466c
+M	shib_auth_profile/shib_auth_profile.info	efa5161ae44b1a3d704cabb67c80b4e5

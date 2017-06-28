@@ -1,0 +1,11 @@
+M	README.txt	3683ec6e77dfc7fc48e2cbb2ff070bcc
+M	gallery_assist_lightboxes.info	80f50c5f66841aa2fe2ff3d9daaa8afd
+M	gallery_assist_lightboxes.module	dac2e9732f91255c71a35008513a63b3
+M	gallery_assist_lightboxes_display.inc	56191c0323be9b49bb1646467f1e2042
+A	gallery_assist_lightboxes_list_display.inc	0cfcc359e18fa0f7559e2ba44023d093
+M	js/gallery_assist.colorbox.selector.js	ac656e65fdd6827e506085e6809ef47e
+M	js/gallery_assist.fancybox.selector.js	61c54486a60b8b1b9771b2c71748b363
+A	js/gallery_assist.imagebox.selector.js	f16a0d74a53ab92ad5a8f68cf21d97b2
+A	js/gallery_assist.interface.imagebox.selector.js	c95fa826fbe21634c4ed554b284ae04d
+A	js/gallery_assist.interface.slidershow.selector.js	aa5311c58e05dc0b4a5b2042fb6fffb5
+M	js/gallery_assist.lightbox.selector.js	2e9d8873bf4cc565ee4d7350cbd97ffa

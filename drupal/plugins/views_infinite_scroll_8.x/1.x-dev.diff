@@ -1,1 +1,2 @@
-M	views_infinite_scroll.info.yml	b9d832e54efa745097e515017ce0dd63
+M	src/Plugin/views/pager/InfiniteScroll.php	124a7cf2fbe84e988ed47434ed1736ce
+M	views_infinite_scroll.info.yml	ce97ee8738c7416ff57492616e0b9f44

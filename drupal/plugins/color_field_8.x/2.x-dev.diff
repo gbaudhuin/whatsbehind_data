@@ -1,13 +1,1 @@
-M	color_field.info.yml	f6be8f08abf8ecf88f51b48f1048953a
-M	config/schema/color_field.schema.yml	10a67f6a7194d11cb8753a8a10a92ea5
-M	js/color_field_widget_box.jquery.js	0bff0c84724ab0ac196ef94b182c772b
-M	js/color_field_widget_grid.jquery.js	724b5f082a486b758ccb405e67b9a320
-M	js/color_field_widget_spectrum.jquery.js	60a499d597bf29f0127ba0cf05ede90a
-M	src/ColorHex.php	331d691ab4c4647d0767884f99a3b071
-M	src/Plugin/Field/FieldFormatter/ColorFieldFormatterSwatch.php	4d6e4a907d02cc6fc5808f54d945ae41
-M	src/Plugin/Field/FieldFormatter/ColorFieldFormatterText.php	e702c8bb8966b7e65c76cf73e1253ab4
-M	src/Plugin/Field/FieldType/ColorFieldType.php	7229412e69665c1f69301907878e1e5e
-M	src/Plugin/Field/FieldWidget/ColorFieldWidgetBox.php	3ea9fc567f50af7bb36ef775b727e605
-M	src/Plugin/Field/FieldWidget/ColorFieldWidgetGrid.php	b9d8f030233dde34d491a6995b2ec9c2
-M	src/Plugin/Field/FieldWidget/ColorFieldWidgetHTML5.php	2887ae257ddb7fb10541bff6f2cb92a3
-M	src/Plugin/Field/FieldWidget/ColorFieldWidgetSpectrum.php	2a8d54b9df38fa45838b97a742d8f67e
+M	color_field.info.yml	1dca19b1121e297cb25e6aa52e8b9997

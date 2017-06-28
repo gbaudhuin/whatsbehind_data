@@ -1,0 +1,19 @@
+M	acquia_contenthub.info.yml	f5196192e567217890f60c2966b2fd23
+M	acquia_contenthub.module	a2631a18e32a5d03adf806591f019dd3
+M	acquia_contenthub_subscriber/acquia_contenthub_subscriber.info.yml	b92abe2a01901f17f083dccce6615671
+D	acquia_contenthub_subscriber/ember/assets/ch-ember-app-09ec391a935bd6b512f6569331f0a05c.js	
+A	acquia_contenthub_subscriber/ember/assets/ch-ember-app-2ee413058d68ac77d81ed805864f8580.js	5e31324730ab9d1f9712d5bdf5fc3f2e
+A	acquia_contenthub_subscriber/ember/assets/ch-ember-app-56e51d07e3a707e0d7ab170eb0cfcb77.css	56e51d07e3a707e0d7ab170eb0cfcb77
+A	acquia_contenthub_subscriber/ember/assets/ch-ember-app-758a9fb30520d310a7b7cabe0806651a.map	758a9fb30520d310a7b7cabe0806651a
+D	acquia_contenthub_subscriber/ember/assets/ch-ember-app-8ff6c7bb46143afe55a9f9eca4e0d2ed.map	
+D	acquia_contenthub_subscriber/ember/assets/ch-ember-app-bbced6265b6b25940a5a6c6dd3cf482a.css	
+M	acquia_contenthub_subscriber/ember/assets/images/icons.symbol.svg	e76d037e3fa07fb78629d16528937801
+M	acquia_contenthub_subscriber/ember/index.html	48e7193574d59505d49a8e92e4c0163e
+M	config/schema/acquia_contenthub.schema.yml	9ff7b2b2865145199c30a4d9a19bfd50
+M	src/Controller/ContentHubEntityExportController.php	8cefeed1b0bcb3dd20708828f3fe3bd5
+M	src/EntityManager.php	f3002eaf30262fd08dd450cdd3dc3778
+M	src/Normalizer/ContentEntityCdfNormalizer.php	f5ec87ca1ced8813c4c0cc91def0a9e0
+M	src/Tests/IntegrationTest.php	66599b6b603969ba18ef12a0a507a086
+A	src/Tests/NodeReferenceTest.php	7d50d2456c0e5144e2252d4f5c6a1a1f
+M	src/Tests/WebTestBase.php	3d821fc4ce2f42bf11fd5ddf18ae1b87
+M	tests/src/Unit/Normalizer/ContentEntityNormalizerTest.php	d97d079fb269d8863de6f66bae4e0aef

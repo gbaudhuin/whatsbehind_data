@@ -1,0 +1,38 @@
+M	filebrowser.info.yml	4caa9b38767031fb7c995c83e8bbec27
+M	filebrowser.module	d72198a88c40f9b3a0973778b88058b4
+D	icons/application-certificate.png	
+D	icons/application-msword.svg	
+D	icons/application-pdf.svg	
+D	icons/application-vnd.oasis.opendocument.drawing.png	
+D	icons/application-vnd.oasis.opendocument.presentation.png	
+D	icons/application-vnd.oasis.opendocument.spreadsheet.png	
+D	icons/application-vnd.oasis.opendocument.text.png	
+D	icons/application-vnd.openxmlformats-officedocument.wordprocessingml.document.svg	
+D	icons/application-x-executable.png	
+D	icons/application.png	
+D	icons/ascii.png	
+D	icons/binary.png	
+D	icons/document.png	
+D	icons/empty.png	
+D	icons/file-cloud.png	
+D	icons/file-document.svg	
+D	icons/file-excel.svg	
+D	icons/file-powerpoint.svg	
+D	icons/file-xml.svg	
+D	icons/image-jpeg.svg	
+A	icons/ms-excel.svg	ed3e8c97fc4cc4e69703e4f72b3eb9f4
+A	icons/ms-powerpoint.svg	0e8e768f648163f2443381597926d5bb
+A	icons/ms-word.svg	e21c61da39972d27cfc533c50e9fe5e4
+A	icons/msword.svg	e21c61da39972d27cfc533c50e9fe5e4
+A	icons/openxmlformats-officedocument.svg	d57b2cd7531a0bc39cbe8ad343fbdef1
+D	icons/package-x-generic.png	
+A	icons/pdf.svg	3be1612ef89e97808ac72e9ed3421177
+D	icons/text-html.svg	
+D	icons/text-plain.svg	
+A	icons/text.svg	ebfda7d24123a2ab852847481664baa7
+A	icons/xhtml+xml.svg	27872347d260577e2d6cda3731b25b94
+A	icons/xml.svg	27872347d260577e2d6cda3731b25b94
+M	modules/filebrowser_extra.info.yml	5dad566f4d0d753c497c487ff65f42e9
+M	src/File/DisplayFileList.php	d1bb6195eb9b42523129297647195a78
+M	src/Services/Common.php	d33d40b122790fc6c85bdd0af602f4f2
+M	templates/filebrowser-icon-svg.html.twig	f2f76c94540da3b586e897cdb747af15

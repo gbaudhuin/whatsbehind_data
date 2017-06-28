@@ -1,9 +1,0 @@
-M	import.info.yml	4cc726954db36936ae6d7e486854a2ff
-M	import.module	395295b94ad33a74d5c5dfb428846bad
-A	migrations/import_block_basic.yml	f7bf8f77b323db45d0e2855255f9ab01
-A	migrations/import_comment_comment.yml	706889d8e50d454783dbca7e0e36e668
-A	migrations/import_file_image.yml	81262a772881228a127506965c752366
-A	migrations/import_node_article.yml	3d8810e2a51d0d5cee313ce5c731b6b9
-A	migrations/import_node_page.yml	11c5e06f622e17ef7dc10abee93acd8d
-A	migrations/import_term_tags.yml	eae00c8a90e317314c1ab2a95c6b05f8
-A	migrations/import_user_user.yml	3d4e9294c5953fcf6e79a325dfda03f9

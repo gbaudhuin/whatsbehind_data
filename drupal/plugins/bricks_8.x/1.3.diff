@@ -1,0 +1,17 @@
+M	README.md	c9b9b6d1080c077c3ee33d3ba6279596
+M	bricks.info.yml	b2d029ae50f3e7abe5f2b7eb8b5d2b9c
+M	bricks.module	6338c0f3439b2885b1faef301ba1432c
+D	bricks_inline/bricks_inline.info.yml	
+D	bricks_inline/bricks_inline.module	
+D	bricks_inline/src/Plugin/Field/FieldWidget/BricksTreeInlineWidget.php	
+A	modules/bricks_inline/bricks_inline.info.yml	28ecdb2a71160d42735ca6cdb1bd6d55
+A	modules/bricks_inline/bricks_inline.module	aba9e562526333fdc5a256d0eb063393
+A	modules/bricks_inline/src/Plugin/Field/FieldWidget/BricksTreeInlineWidget.php	3bdbfcc440c55129d70396071dc00fca
+A	modules/bricks_revisions/bricks_revisions.info.yml	1d4b4c3df6e332418f966a658dc998ed
+A	modules/bricks_revisions/src/Plugin/Field/FieldType/BricksTreeRevisionedItem.php	1b1ba1e5731b4f8ae5fa58794539946f
+M	src/Plugin/Field/FieldFormatter/BricksNestedFormatter.php	89d07c45eecfc9dcf5c5d5eefaad9549
+M	src/Plugin/Field/FieldType/BricksTreeItem.php	55430b3e277fea28229554a3314f09c0
+D	templates/brick--columns.html.twig	
+D	templates/brick.html.twig	
+A	templates/eck-entity--brick--columns.html.twig	a59acb58f09e43a9915a4376fabea457
+A	templates/eck-entity--brick.html.twig	c8f0fce46d9712c12dfc3982cb4f6485

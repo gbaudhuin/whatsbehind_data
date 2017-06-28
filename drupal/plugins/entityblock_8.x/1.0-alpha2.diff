@@ -1,9 +1,0 @@
-A	composer.json	6c66b8ce1dc89172990cf4cb057249d7
-M	entityblock.info.yml	c86c61acc971d97c5cdef682296c45fe
-M	entityblock.js	46a9d700598a72eb5e0a1516ea5e6512
-M	src/Plugin/Derivative/EntityBlockContent.php	0e98cf2551649b051c2ff3973f2ef724
-M	src/Plugin/Field/FieldType/EntityBlockItem.php	4b7a978ac34dcd731f197b1568209938
-M	src/Plugin/Field/FieldWidget/EntityBlockWidget.php	7ab98a3b74ab5a7816f47fd1546503c6
-A	src/Tests/EntityBlockFieldTest.php	2b246f257d292394d8b64ab9aab09117
-A	src/Tests/EntityBlockFieldUITest.php	5a64d74e0ed31de8b54ed74a3e964496
-A	src/Tests/EntityBlockItemTest.php	77376c5339db2d28110438d8f6bed63f

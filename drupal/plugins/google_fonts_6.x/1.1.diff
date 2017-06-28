@@ -1,8 +1,0 @@
-M	google_fonts.admin.inc	17d0e47a95323a5df0888f0531b0ba3a
-M	google_fonts.info	14a078d103d339fc0bcfd01213099fa5
-M	google_fonts.install	fdcb4a411f5ee4ef0cc8c0e4f554a2f5
-M	google_fonts.module	c1909f9d53817a8a44e7e0ecf4906dfe
-A	google_fonts_ui/google_fonts_ui.admin.inc	9c4c8d969bd94a96b8f9bb9b32db9842
-A	google_fonts_ui/google_fonts_ui.info	3f6cc48bf120f0b48ab026149eaf0c06
-A	google_fonts_ui/google_fonts_ui.install	489f7900372f0f8ce41d485fefc70e48
-A	google_fonts_ui/google_fonts_ui.module	97810744bdabf15060cdbd8328c3a109

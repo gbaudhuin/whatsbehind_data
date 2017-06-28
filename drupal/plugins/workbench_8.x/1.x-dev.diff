@@ -1,14 +1,6 @@
-A	config/install/system.menu.workbench.yml	faa371320c376d07bc4baeb451d13d4f
-M	css/workbench.toolbar.css	9e0f165c46b95d0f4766bb964a94eba6
-D	images/icons/000000/pencil.svg	
-A	images/icons/000000/workbench.svg	82c03e9e2cf1a02e3a4f99de237fdc76
-A	images/icons/787878/workbench.svg	1658ae96c38948abdb98f21417ae2b92
-A	images/icons/bebebe/workbench.svg	11381172cc9573f7abdfd1e01b226e26
-A	images/icons/ffffff/workbench.svg	e17f541847f4a757c40aad4f96ec826c
-M	src/Controller/WorkbenchContentController.php	b1138c6fac3120cd2682b2bc7927c76e
-M	src/Plugin/Block/WorkbenchBlock.php	ef38fbaa83df9b8918a6bb07b0bb9138
-M	workbench.info.yml	9deab46953ea5c7459ddf98ca10e61c4
-A	workbench.install	6cddf552f0084bcce3b04c9575076071
-M	workbench.links.menu.yml	eb9585f6d697acf985bdb4f92b24d9b8
-D	workbench.links.task.yml	
-M	workbench.module	a92f07c00048bf8b7d3bdda91dbc5ef0
+M	CHANGELOG.md	e5516e84a07002d9b6e71e9c10eaaaf1
+M	src/Controller/WorkbenchContentController.php	d0caa2b15b9dc7fc5f270c19db068400
+M	src/Plugin/Block/WorkbenchBlock.php	cbb55c4fb059e076a2c0fe2193450da7
+M	workbench.api.php	e8df3223705803ea5efd2542b884e6ed
+M	workbench.info.yml	a60a7ebef70f3b05b3804d9923c0c73f
+M	workbench.module	b6a9a0c550c5bf19f10ad5076f388cd4

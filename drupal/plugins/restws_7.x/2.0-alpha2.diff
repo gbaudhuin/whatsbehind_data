@@ -10,8 +10,11 @@ M	restws.api.php	2e4a849955f268934e03bd1649e3d34a
 M	restws.entity.inc	f4e1df8a24c0a457e3c48714c603be28
 M	restws.formats.inc	848ca6f8774d57b63dce46391de0c5d9
 M	restws.info	d3927c86ed8122c4b74293be60a4d598
+D	restws.install	
 M	restws.module	e292230772250104ec4ae51356368bd7
 M	restws.test	830df8c5d9c827e845384029170f4003
 M	restws_basic_auth/restws_basic_auth.info	a5626025d4ca64d678e5048e36c19930
-A	tests/restws_test.info	a360590f435909f9d08c067039376f2e
-A	tests/restws_test.module	ee8722482e40d18f39e198bfbd639d70
+M	restws_basic_auth/restws_basic_auth.module	016e687134407fc418ebaeda3174a780
+D	restws_basic_auth/restws_basic_auth.test	
+M	tests/restws_test.info	a360590f435909f9d08c067039376f2e
+M	tests/restws_test.module	ee8722482e40d18f39e198bfbd639d70

@@ -1,0 +1,17 @@
+M	README.txt	a58691188932fd8056069e7895f322fd
+M	migrate_example/README.txt	68ddecc9d2d409b22307bb1cb90653b1
+D	migrate_example/config/install/migrate_plus.migration.beer_comment.yml	
+M	migrate_example/migrate_example.info.yml	e7f995c0ac090ecd6e609d3dabda3c07
+M	migrate_example/migrate_example_setup/migrate_example_setup.info.yml	c8c1e268bdca6c5e5dbf5fd8cfb2607a
+A	migrate_example/migrations/beer_comment.yml	407b80e23c66cc8dc0d3e5da023af693
+M	migrate_example_advanced/migrate_example_advanced.info.yml	885b56837184303479b0e2af56396eda
+M	migrate_example_advanced/migrate_example_advanced_setup/migrate_example_advanced_setup.info.yml	8023b99f246e2ebfb72703928465470d
+M	migrate_plus.info.yml	66b6ce2c11405eb9d533a438816b136c
+M	migrate_plus.module	88f8ed4a7b57775adaed0398ae67f2bc
+M	migrate_plus.services.yml	f15f11079eccdd97bbd85c205945400b
+A	migrations/migration_config_deriver.yml	926e92b0b41de6d61a29762e1954bfc8
+D	src/Plugin/Discovery/ConfigEntityDiscovery.php	
+A	src/Plugin/MigrationConfigDeriver.php	b2a064688b19eb913334b462d90ddfd0
+D	src/Plugin/MigrationConfigEntityPluginManager.php	
+M	tests/src/Kernel/MigrationConfigEntityTest.php	d914c803d75075e47e852be81f112c53
+M	tests/src/Kernel/MigrationGroupTest.php	d25221dc0434e61ef8e44e958aa40592
