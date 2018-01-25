@@ -3,6 +3,7 @@ M	b2rss.php	81f0f5a1f6a736ec7feab7653ff179fe
 M	b2rss2.php	29050526791fd5ba0605a4157b091739
 M	index.php	83c41b16affa3002e8fd31eb3a7989ec
 M	readme.html	790736d62d442117f9d28b64161919a2
+D	weblogs.com.changes.cache	
 M	wp-admin/admin-footer.php	4c302bb836dd0a8f52e9ce9eb8750c6a
 A	wp-admin/admin-functions.php	4fb137b602e91594f61ed20caed9ebb2
 M	wp-admin/admin-header.php	c843299a6d458190406cece68c96321c
@@ -70,6 +71,7 @@ A	wp-content/plugins/textile2.php	72e07430be35d48688cdce1b8256747c
 A	wp-feed.php	9c32f2e8e32b7edf1c0785931c6806bd
 A	wp-images/fade-butt.png	e6c8b1c6db50db66bf04da9bbbe3ee0e
 M	wp-images/header-shadow.png	3311f3d78a8001132cd15149441f8711
+D	wp-images/links/Thumbs.db	
 M	wp-images/wp-favicon.png	918e3fd1705aedabf581fe9ec02aaaf1
 M	wp-includes/class-xmlrpc.php	649d9316b931f28f56737b6711de5776
 A	wp-includes/functions-formatting.php	4e2bf25f9f4fa517ea776686a9a35a1c

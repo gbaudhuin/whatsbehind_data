@@ -1,4 +1,3 @@
-M	readme.html	092b5391da31c6e8bb02bf4bc03b6b34
 M	wp-admin/about.php	128178b058f157134b93a1d2911bddef
 M	wp-admin/admin-ajax.php	450adbd736d6a9e3bcb2bd84c929c323
 M	wp-admin/admin-footer.php	d654eec8adacac1410b17fd67b81da10
@@ -92,6 +91,7 @@ M	wp-admin/includes/class-wp-list-table.php	cbc3cda8ebe0987a2758e41d8dcf3226
 M	wp-admin/includes/class-wp-media-list-table.php	6cedc492e0e2e9b34c76367360d92627
 M	wp-admin/includes/class-wp-ms-sites-list-table.php	6d48492a1fe35c2de976d4f03e0035dc
 M	wp-admin/includes/class-wp-ms-users-list-table.php	0ae0eb636d84286510bfcaf3cd86dc67
+M	wp-admin/includes/class-wp-plugins-list-table.php	2a7860f1f257f35a7b59436a49a2c013
 M	wp-admin/includes/class-wp-posts-list-table.php	43bf22aa88d140634d09373ac9cdd430
 M	wp-admin/includes/class-wp-press-this.php	70de0ea52c19a2e65c061c04979ad414
 M	wp-admin/includes/class-wp-screen.php	fa7667022663f5ab183c3e1855ef85e3
@@ -175,10 +175,12 @@ M	wp-admin/network/users.php	c860fcfffc818a23600b90647fc8af61
 M	wp-admin/options-general.php	b7b6c6e4ca71216e6d30daff50650e7c
 M	wp-admin/options-reading.php	ea55c841ff18db3e87cfd861c5263501
 M	wp-admin/options.php	368422a1cf9254d6ffb60cca7cd8a01c
+M	wp-admin/plugin-editor.php	0117ab168f37636e1790b4ec16a42469
 M	wp-admin/plugin-install.php	aa6604408d7aece4014614854fdbdee5
 M	wp-admin/plugins.php	b3208582b65400ecf6f830b8bbeaa4d6
 M	wp-admin/post.php	9d563a756d6ec5e7e8bc9997e839f8aa
 M	wp-admin/term.php	4b8a958bc9df443e14708f33ebafa34d
+M	wp-admin/theme-editor.php	64697da003ff9f76c04102fd70a78eb7
 M	wp-admin/theme-install.php	25246e1892f803af7a42bb17867ea01e
 M	wp-admin/themes.php	5f542f71e50accb2db15e3563923c007
 M	wp-admin/upload.php	07fd427d371d52fb67c1c0868a17ebf1
@@ -186,6 +188,7 @@ M	wp-admin/user-edit.php	1a2b688d23436f8542d76236d39172fd
 M	wp-admin/user-new.php	c077f43fbdbe8221f488c43da2558f46
 M	wp-admin/users.php	63fbf97d818785a8159046e0e65bbbcb
 M	wp-admin/widgets.php	d92a0015fb708d28ac8e2e4c4ccfb634
+M	wp-content/plugins/akismet/readme.txt	38e61cb8fefb2ce3956548f2460a3872
 M	wp-content/themes/twentyfifteen/inc/template-tags.php	78fc83a85eacf4f9f09516521c6867e5
 M	wp-content/themes/twentyseventeen/comments.php	0a8250d7cd2bdef7a718e661819ac44d
 M	wp-content/themes/twentyseventeen/front-page.php	3019de40bce4ee44b70fd5d007dc9368
@@ -285,10 +288,12 @@ M	wp-includes/date.php	2968e2c0f14a94c17d0b7d0d1ffb108d
 M	wp-includes/default-filters.php	c36d58bbe56eba91706fdca569c5411e
 M	wp-includes/default-widgets.php	cdd572d40af6c45269b37c11ea2c2d79
 M	wp-includes/deprecated.php	bf412ab104606af538fa34f0eac4106c
+M	wp-includes/embed.php	1ec4e35637d0844567f85e3cca3dd51b
 M	wp-includes/feed-atom-comments.php	6f31ff43e2181627e7a80145ceee279a
 M	wp-includes/feed-atom.php	18d0b3c5403170bc59a0ccda505534fa
 M	wp-includes/feed-rss2-comments.php	58d4e6d98d48cf9bb5d891174bc64525
 M	wp-includes/feed-rss2.php	f1222c983dd4009dd31e0e64ec7b0537
+M	wp-includes/feed.php	8b9507fcf985f1a829cb6a9959cc8017
 M	wp-includes/formatting.php	3d868f6faaa208f49c9b8a836f8a53aa
 M	wp-includes/functions.php	416934812aac498b2cd922b4bc702ed4
 M	wp-includes/general-template.php	a78dd2fd123f11c04a0c6111a1eaab05
@@ -301,6 +306,8 @@ M	wp-includes/js/media-grid.js	d06c587bf1819bb955e35d6254f384f1
 M	wp-includes/js/media-grid.min.js	9cc1fed809dadd16be78544cb911c7d6
 M	wp-includes/js/media-views.js	1cdbaa1991582ba95f889e92790a928a
 M	wp-includes/js/media-views.min.js	ee79b43f38c8673cbb6716e45a93830e
+A	wp-includes/js/mediaelement/flashmediaelement.swf	2efe1fabfea04432f090ecb3153b10a1
+A	wp-includes/js/mediaelement/silverlightmediaelement.xap	d0e44fd6ecebca46f36d734b3012aa2c
 M	wp-includes/js/mediaelement/wp-mediaelement.css	f59fa2d103e13985d7e18df4c9d06c85
 M	wp-includes/js/mediaelement/wp-mediaelement.js	8a628f94d5775fdf423f7cae30eb9453
 M	wp-includes/js/mediaelement/wp-mediaelement.min.css	eb76120347829c4ba3576665b2d871f0
@@ -422,6 +429,7 @@ M	wp-includes/widgets/class-wp-widget-recent-comments.php	1e2b785bee7f7a8fa816b2
 M	wp-includes/widgets/class-wp-widget-recent-posts.php	1d5274bea635b22a7e0cc8c999334034
 M	wp-includes/widgets/class-wp-widget-tag-cloud.php	c6324d294e4cd2b0b708be7826cf8353
 M	wp-includes/widgets/class-wp-widget-text.php	a090c016b7010ccbe41df097e9f9df47
+M	wp-includes/wp-db.php	9318dde9830ed7c02e46356ca763b583
 M	wp-login.php	9f36f6a01e312144fa640dc3d30989b0
 M	wp-settings.php	0796bd2b8989a6851cccb4802c614dd6
 M	wp-signup.php	61e6f203069d55e3bf91ffe46ac3c6e5

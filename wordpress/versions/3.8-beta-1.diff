@@ -67,6 +67,7 @@ M	wp-admin/includes/class-wp-comments-list-table.php	3382e7af2e6ece666a9a8f30c1a
 M	wp-admin/includes/class-wp-ms-sites-list-table.php	89fc5b6cbdfe15845af455eb33240157
 M	wp-admin/includes/class-wp-ms-themes-list-table.php	2de66d39044e1d219f8448f3af2f6005
 M	wp-admin/includes/class-wp-ms-users-list-table.php	695009af857bf4c0491ca20c708a2109
+M	wp-admin/includes/class-wp-plugins-list-table.php	99114ed86197646308916315d6944056
 M	wp-admin/includes/class-wp-posts-list-table.php	60eb32d22cd795c58b33a25a8831c4cc
 M	wp-admin/includes/class-wp-theme-install-list-table.php	5df82625b631d8ee10b2d7a2f8621860
 M	wp-admin/includes/class-wp-upgrader-skins.php	e924d13a3d5de3d0a5a3215521932639
@@ -165,17 +166,20 @@ M	wp-admin/network/site-users.php	1c5ddd154a55f31811ffe3753dc353b4
 M	wp-admin/network/sites.php	74c0e98f43befa8eb3bc2418f0cc1dd8
 M	wp-admin/network/users.php	c17e620cf4dbdf348f94ef8cbc6c0d22
 M	wp-admin/options-writing.php	0cd376fa599e40525e30ffa198aba993
+M	wp-admin/plugin-editor.php	5324707f6dafd1ade6e1932bb96ebe0e
 M	wp-admin/plugins.php	eb4bdc7e7b9d4036193b4874c3b1f2ab
 M	wp-admin/post.php	b6744bbaf3e2450eef34312ce87a3892
 M	wp-admin/press-this.php	4057ee4264234df3f6a3310c8ef927f4
 M	wp-admin/revision.php	1c24da47be6ae44a66a6a993dcd5dc9a
 M	wp-admin/setup-config.php	c943fa351191edf720e96c46cac397a9
+M	wp-admin/theme-editor.php	4bd2891d26da0ec6de6817b5526c61b6
 M	wp-admin/themes.php	1676353a33fb64c033db58fa59c11e97
 M	wp-admin/tools.php	3d66b461c4b898ce951919c9a23e08de
 M	wp-admin/update-core.php	b3254d4cd3628415cf46eebc2f3c5497
 M	wp-admin/update.php	f9a46a7ca34ab350e147846f3797791a
 M	wp-admin/upgrade.php	5ccb5f92a5ab77e6d8f54e92f12e71f7
 M	wp-admin/user-edit.php	fdcc7f12d9bd485055a294102a8e7542
+M	wp-admin/user-new.php	caa0660abd5314606693b52c086f2708
 M	wp-admin/widgets.php	aeaf4d5283ff8ea8161eef748569d07c
 M	wp-content/plugins/akismet/admin.php	6ea136449430a16f0d4675b6af5aa7d8
 M	wp-content/plugins/akismet/akismet.css	80b661909180c3145258b30ac3587f29
@@ -333,6 +337,8 @@ M	wp-includes/js/media-editor.js	29af1d5f15655bad729af42e58aca3f2
 M	wp-includes/js/media-models.js	3848a2f1838aebf9a4ff9dba3613a712
 M	wp-includes/js/media-views.js	f977730e90672fc7ba27ba83d4e190fd
 M	wp-includes/js/media-views.min.js	0b13139d53176ef58565bdaa8b8190d4
+A	wp-includes/js/mediaelement/flashmediaelement.swf	03dc1336e5697e4ceda3a7f4b99b71c7
+A	wp-includes/js/mediaelement/silverlightmediaelement.xap	2fb1bc1a7f10d1dd54689a79b4cf53ac
 M	wp-includes/js/mediaelement/wp-mediaelement.js	f6d921a62cf96294281e0a202a017846
 M	wp-includes/js/plupload/handlers.js	d39498ac697640f306f8a37ac4f9ac30
 M	wp-includes/js/plupload/handlers.min.js	ecfb7e787583e39657598be846a2c335

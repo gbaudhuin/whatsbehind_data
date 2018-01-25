@@ -527,10 +527,11 @@ M	wp-includes/js/media-editor.min.js	a5595167924936ae192d5f968c90abfa
 M	wp-includes/js/media-views.js	999ad3a86de87c0c592571f5cee59fa9
 M	wp-includes/js/media-views.min.js	611a20dba38b0421dc1af45eeaac4acd
 M	wp-includes/js/mediaelement/bigplay.svg	746c3af7a145a09239a36e5ef61cfea0
-M	wp-includes/js/mediaelement/flashmediaelement.swf	42c6680f8035fc10855ee2e559c9cc78
+A	wp-includes/js/mediaelement/flashmediaelement.swf	42c6680f8035fc10855ee2e559c9cc78
 A	wp-includes/js/mediaelement/jumpforward.png	15e1ac8cbacc2efdf1ac2677de48a253
 M	wp-includes/js/mediaelement/mediaelement-and-player.min.js	53972f85761d00c950a6554b55f46f29
 M	wp-includes/js/mediaelement/mediaelementplayer.min.css	55349dce77921ce5ae7b0c66c0ec2e4d
+A	wp-includes/js/mediaelement/silverlightmediaelement.xap	a83ab83a3d43222e4ba77cf96e0074aa
 M	wp-includes/js/mediaelement/wp-mediaelement.css	b03476d23e09e01f7be81edcb0327fce
 M	wp-includes/js/mediaelement/wp-mediaelement.js	3fc9c567b4fe652008ea1c14428c9363
 M	wp-includes/js/plupload/handlers.js	c9d857501549cabf90a9c546f0556729
@@ -553,6 +554,8 @@ M	wp-includes/js/tinymce/plugins/wordpress/plugin.js	70c6ca9a41b5df2d7fc1174c51d
 M	wp-includes/js/tinymce/plugins/wordpress/plugin.min.js	5a4c006f7da20cf8ac912e97caa48b39
 M	wp-includes/js/tinymce/plugins/wpeditimage/plugin.js	bcfada0dc890cf8ebff1f3f8417d8891
 M	wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js	4e072ca42edb6aa2d2957e0bb06bf43f
+M	wp-includes/js/tinymce/plugins/wplink/plugin.js	1cfe476c543e87f1bf2ad3ac091dc920
+M	wp-includes/js/tinymce/plugins/wplink/plugin.min.js	30d7bde04e460530a72425ee649a16d5
 A	wp-includes/js/tinymce/plugins/wpoembed/plugin.js	3090c39f23f50001dcd1ca3fef7589be
 A	wp-includes/js/tinymce/plugins/wpoembed/plugin.min.js	c0b451b3da9bb970fc1e6c0348010826
 M	wp-includes/js/tinymce/skins/wordpress/wp-content.css	fa017da44bc83b2b437dbd75623012d7

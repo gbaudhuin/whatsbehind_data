@@ -12,6 +12,7 @@ M	wp-admin/users.php	8c7644849a1d0677fbf0eea66fa4305d
 M	wp-atom.php	f0c8947b3281e414ace50449994dced3
 M	wp-blog-header.php	c1a384120c48147be415f4a43f656220
 M	wp-comments.php	8fbde33eb9347328bac490201fa5f386
+A	wp-images/links/Thumbs.db	c7aba2c49bbb10b312042ffdf586c765
 M	wp-images/wp-favicon.png	b8e308c594171cb691807867733648a6
 M	wp-includes/functions.php	560020f36ebd6630f88bb35313eda134
 M	wp-includes/links.php	bdb4594ca679e22d0576a89f8af9f941

@@ -518,8 +518,9 @@ M	wp-includes/js/media-models.js	a600f2f0be7015efda030fa48553442f
 M	wp-includes/js/media-models.min.js	9a046cafcd783c18314a808817de9ad6
 M	wp-includes/js/media-views.js	9d3c3ae9ba2f96049c123aa4fc81f824
 M	wp-includes/js/media-views.min.js	a8e0717a6e75ac9052d699412811e532
-M	wp-includes/js/mediaelement/flashmediaelement.swf	f82e1f904e12a82ac15c63999427c909
+A	wp-includes/js/mediaelement/flashmediaelement.swf	f82e1f904e12a82ac15c63999427c909
 M	wp-includes/js/mediaelement/mediaelement-and-player.min.js	5137236c292752ab57beaf4e191df311
+A	wp-includes/js/mediaelement/silverlightmediaelement.xap	2fb1bc1a7f10d1dd54689a79b4cf53ac
 M	wp-includes/js/mediaelement/wp-mediaelement.css	4ffc8353b86c12c52e750dc5cb8dba80
 M	wp-includes/js/mediaelement/wp-mediaelement.js	d407b9b41c97eb551daaf82729fa99da
 A	wp-includes/js/mediaelement/wp-playlist.js	baeed089d73acc6d90722fecf810a985

@@ -115,6 +115,7 @@ M	wp-admin/includes/class-wp-ms-sites-list-table.php	8c327dfea31b770e0df04e974ce
 M	wp-admin/includes/class-wp-ms-themes-list-table.php	b7d8cddc268e99caa0fd867cc57a9d15
 M	wp-admin/includes/class-wp-ms-users-list-table.php	d8b0c7014d80f40c8e49d5958edc05b3
 M	wp-admin/includes/class-wp-plugin-install-list-table.php	c754a3e7bb6867083f6ff4caf7575802
+M	wp-admin/includes/class-wp-plugins-list-table.php	83c9c867334174183419731af252c28e
 M	wp-admin/includes/class-wp-posts-list-table.php	d238f3a29f5b17f9dbf7a8601da96155
 A	wp-admin/includes/class-wp-press-this.php	7bbc670e18285f69562199372c5e3717
 M	wp-admin/includes/class-wp-terms-list-table.php	5eb2173c2679ce21f141199be9f1165c
@@ -217,6 +218,7 @@ M	wp-admin/options-general.php	834a108a59a71302b72d41643849f8b3
 M	wp-admin/options-permalink.php	494bf27ba807f067975ef604c833e1e9
 M	wp-admin/options-reading.php	e704fdc59ef8cd7aa0c6a8ab43f16030
 M	wp-admin/options-writing.php	8932979c12ed2c24638036dea007d5b7
+M	wp-admin/plugin-editor.php	66fb081d5b32491c726ddfe927213260
 M	wp-admin/plugin-install.php	6db8f0e2101fca513a6fcda870f296f7
 M	wp-admin/plugins.php	828027c888417ff87fd35844cc923c30
 M	wp-admin/post-new.php	5ae636173e213f7e459d9cd6d64465e9
@@ -518,11 +520,11 @@ A	wp-includes/js/media/views/uploader/status.js	22eac48e2cef03bc4958e9baec3c1df4
 A	wp-includes/js/media/views/uploader/window.js	469aaf9dd858f177c6a7d3cf2de0ebb8
 A	wp-includes/js/media/views/video-details.js	315eb46da705ad1529f64c0695e02214
 A	wp-includes/js/media/views/view.js	f20c5f1b26d10425f03d688dd0736e30
-M	wp-includes/js/mediaelement/flashmediaelement.swf	a77bd46c3904a70f0e4ed6f3f714099a
+A	wp-includes/js/mediaelement/flashmediaelement.swf	a77bd46c3904a70f0e4ed6f3f714099a
 A	wp-includes/js/mediaelement/froogaloop.min.js	2a8742c0ac1cdbec23be44a7d4e9a3c9
 M	wp-includes/js/mediaelement/mediaelement-and-player.min.js	a3a3353ab882870300207675fa6b1b83
 M	wp-includes/js/mediaelement/mediaelementplayer.min.css	2ca8d8977881d5e608aa01c45bac7dce
-M	wp-includes/js/mediaelement/silverlightmediaelement.xap	a83ab83a3d43222e4ba77cf96e0074aa
+A	wp-includes/js/mediaelement/silverlightmediaelement.xap	a83ab83a3d43222e4ba77cf96e0074aa
 M	wp-includes/js/mediaelement/wp-mediaelement.css	c246d5e16b1cea2c612aafd164941fe9
 M	wp-includes/js/plupload/handlers.js	c9d857501549cabf90a9c546f0556729
 M	wp-includes/js/plupload/handlers.min.js	813ceb60612a365924d271704d03d95c
