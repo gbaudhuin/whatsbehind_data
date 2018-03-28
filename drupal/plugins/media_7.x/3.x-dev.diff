@@ -1,9 +1,0 @@
-M	media.info	c40ce197dab8f4e8e5cbd6f9db26a900
-M	modules/media_bulk_upload/media_bulk_upload.info	bce842d9219315991c32fb825b3233ea
-M	modules/media_internet/media_internet.info	038745de2ef5e2fab87e48f3190f8426
-M	modules/media_internet/tests/media_internet_test.info	5a49cc692a112aab115a19648a4cbb85
-M	modules/media_migrate_file_types/media_migrate_file_types.info	ef65ec0e143f5d3479f923e51f8ac73d
-M	modules/media_wysiwyg/media_wysiwyg.info	843cf2ba0def2e41d619670209915ac9
-M	modules/media_wysiwyg_view_mode/media_wysiwyg_view_mode.info	392a4ecd22e77c761eb777afe459e2f0
-M	modules/mediafield/mediafield.info	5f07575f35ba0c1ea5483e7e6f372700
-M	tests/media_module_test.info	f2d070ff1389aff1d871fc0f5f2aa7f1

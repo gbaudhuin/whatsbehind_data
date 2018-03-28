@@ -1,7 +1,0 @@
-A	modules/tokenauth_context/plugins/tokenauth_context_condition_tokenauth.inc	d7655fdc1d1e2628c9f22b5924eb1995
-A	modules/tokenauth_context/tokenauth_context.info	ac7a4fb6d0041cdb0d214e08fc546274
-A	modules/tokenauth_context/tokenauth_context.module	4232c4d7e2ef8e6e92144dcfaa77afe9
-D	plugins/tokenauth_context_condition_tokenauth.inc	
-M	tokenauth.inc	b47ac981a4e8e756cecbf895549536dc
-M	tokenauth.info	a214a88126e2843f2b512d42876b7038
-M	tokenauth.module	24915d51394057cb131a61fb209d970b

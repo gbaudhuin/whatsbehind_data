@@ -1,6 +1,0 @@
-M	services.info.yml	27e3df971b07a6d1d1d6813b7ead64c4
-A	services.module	ff1772d05c509555e99bacfad04aa05c
-M	services.permissions.yml	6e2dcd3e80ca6e07392d7acbdb2dcda6
-M	services_test/services_test.info.yml	5ebed7dbce9e8e161f21d2d3571c7b45
-M	src/Plugin/ServiceDefinition/EntityIndex.php	0d2875de7c291b5478a93b3b13c788e5
-A	src/Plugin/ServiceDefinition/VocabularyTreeGet.php	89487c6d8771d8f68ffa24ae0901c70c

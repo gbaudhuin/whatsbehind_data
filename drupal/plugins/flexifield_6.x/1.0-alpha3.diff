@@ -1,8 +1,0 @@
-M	flexifield-cck-overrides.inc	44819cb3c76a8077f10ad65f4fe2c929
-M	flexifield-widget.inc	2ef35c2c2efb496c51af7dea71446519
-M	flexifield.info	83520b503114b0aca60f4fc3ff920eda
-M	flexifield.module	6dd2060ade2c2c96839773c689360cd0
-A	modules/fieldgroup/flexifield_fieldgroup.info	d863aab9f9b63b19408cde1cc7c92f5e
-A	modules/fieldgroup/flexifield_fieldgroup.module	46d289ff5194a7f7cfbba75e9b4a5f35
-A	modules/filefield/flexifield_filefield.info	f8b31e262dc4b38b77ba7b63357b9ddb
-A	modules/filefield/flexifield_filefield.module	6580c25dd811aaf99b65923ab322ba2e

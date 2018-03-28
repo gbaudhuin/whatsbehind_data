@@ -1,9 +1,0 @@
-M	Fonecta.php	474bed57ed67f003c03ad95ea59d03c5
-D	INSTALL.txt	
-A	README.txt	48dbe30cef58115216c1b17961c78439
-M	fonecta_verify.info	d9c63191005dbb77c5cdd228219a5fff
-M	fonecta_verify.install	68ce9fec7f159da478f1ae9a00f238d9
-M	fonecta_verify.module	ed7e0c49c71cba6a29c272a9884cd758
-M	fonecta_verify.tpl.php	fc21c709f88df461ef1c77e3d86eac01
-A	includes/fonecta.inc	b7758f2e1ed662eb28394d7aaf27806d
-M	includes/fonecta_verify_page.inc	dcdf19dfcf8a4ae6421209ffdfb58366

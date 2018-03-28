@@ -1,6 +1,0 @@
-M	CHANGELOG.txt	656ab4fa0ae7b9de49ab1573e3045a5c
-M	export/taxonomy_csv.export.api.inc	d69eb6cf0f568332ed001d8c7a47ffe1
-M	import/taxonomy_csv.import.api.inc	4c5d7c69edce24396e0f45bb9c6c225e
-M	taxonomy_csv.drush.inc	37500193b264412398a44c52c098d4f1
-M	taxonomy_csv.info	4e282a9605f1b4494d55e8135abfef02
-M	taxonomy_csv.module	3ad441e2f423f8b7988c4ec3278f7a7a

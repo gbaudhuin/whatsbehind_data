@@ -1,4 +1,5 @@
-M	exclude_node_title.info.yml	58e6d417eef5fe70e33aae852450b16d
+M	config/install/exclude_node_title.settings.yml	b88d6faf711a289c388a0020b023d451
+M	exclude_node_title.info.yml	44649fa098aee12f34395066988b5ea6
 M	exclude_node_title.install	98f98f4942f0819c2b0e8d7f8dcd5f42
 M	exclude_node_title.module	825eb6aa9a3c72277201a78b0e543e7e
 M	exclude_node_title.routing.yml	665b3430856077bbd11a2d049bfde5df

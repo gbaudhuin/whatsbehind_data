@@ -1,7 +1,0 @@
-M	README.txt	e54d0e948f53a7d5bfe726aee92475f6
-M	piwik.admin.inc	71cca68d018812071730e3d4d7ed39dd
-M	piwik.info	0e34be5105261d29fce27a1426d1792f
-M	piwik.install	5c2b90a804da1002f364488302ca98ec
-M	piwik.module	848f8020a1781852e98e6017dbcfb5bf
-A	piwik.test	03ad949cb657247a01897826913da31c
-D	tests/piwik_basic.test	

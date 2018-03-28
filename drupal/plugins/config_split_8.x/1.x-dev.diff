@@ -1,3 +1,2 @@
-M	config_split.info.yml	96920570fd960a713e1bddfbd3132373
-M	src/ConfigSplitCliService.php	1f06d22cad8035777a9b001fbf3c4470
-M	src/Plugin/ConfigFilter/SplitFilter.php	0f717ed8037143eb28aa79eb64a9a1ea
+M	config_split.info.yml	733402f558dca43f5d33ff7271e5edfb
+M	src/Form/ConfigSplitEntityForm.php	2a015556fb35956e6b7d60b821731dd2

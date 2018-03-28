@@ -1,8 +1,0 @@
-A	linkpicker/editor_plugin.js	3f08930db646030a2aa4319bc596947b
-A	linkpicker/img/linkpicker.gif	70ee13f30f1a6e4972fcec8074fe1ad7
-A	linkpicker/js/dialog.js	ff7c6a3db0d905ae655a273b87d42c78
-A	linkpicker/langs/en.js	e3c958c51f74663e53d1fb5fe90c979f
-A	linkpicker/langs/en_dlg.js	1edfe310d7cc45357de7093b47c863fd
-A	theme/page-tinymce_linkpicker.tpl.php	4fac41c4f19611ddc9f7a16b852178b9
-A	theme/page-tinymce_linkpicker_search.tpl.php	ba23e092d810cd8b3b3228070c216b94
-M	tinymce_node_picker.info	c506ec45d3ed3769be35c7d5d9d3218a

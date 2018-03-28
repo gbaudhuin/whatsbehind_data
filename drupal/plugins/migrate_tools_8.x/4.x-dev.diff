@@ -1,5 +1,2 @@
-M	migrate_tools.drush.inc	b665f46e188d4146ecd364bb285ad7d5
-M	migrate_tools.info.yml	8faffafc2ccbe987011ff2eaee483218
-M	src/Controller/MessageController.php	f52513ebc2bb75e03e1077430d8e2e28
-M	src/Controller/MigrationController.php	fd6acdc1e1140a6e4b35a17e88f16286
-M	src/Controller/MigrationListBuilder.php	0132d133f12962ecef0aa508cb4600f1
+M	migrate_tools.info.yml	495000ba3954a4b7135a9bc5fedfe6ee
+M	tests/modules/migrate_tools_test/migrate_tools_test.info.yml	0dc433936977eb9e7edb7db296ab97d1

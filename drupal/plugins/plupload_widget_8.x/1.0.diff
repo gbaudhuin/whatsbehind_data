@@ -1,8 +1,0 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	assets/js/plupload_widget.js	c03433fb51a83a614380d4ea4d1a9db0
-A	plupload_widget.info.yml	18b9883da041293dc440fe7957d4c651
-A	plupload_widget.libraries.yml	2c5b757fb88c4cd43be782a0b14afbe1
-A	src/Plugin/Field/FieldWidget/FileWidget.php	d2e8a98980e3f9a8895457407c456a29
-A	src/Plugin/Field/FieldWidget/ImageWidget.php	75990c3a2af113679957a74962b39d1e
-A	src/Plugin/Field/FieldWidget/PluploadWidgetTrait.php	0f1e718e41ac0253e200ab4c3b561b89
-A	src/UploadConfiguration.php	7c22a98b6373a7152bef4bc7703aa7b9

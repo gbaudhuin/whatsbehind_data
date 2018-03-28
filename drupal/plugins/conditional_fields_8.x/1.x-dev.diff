@@ -1,7 +1,3 @@
-M	conditional_fields.api.inc	b1a4a0ea6ff68cca5d610fab3f9fd50f
-M	conditional_fields.info.yml	8ae452f2768f69f8c409610b01c06761
-M	conditional_fields.install	5829b796955b93f81e259e5eedf22ccc
-M	tests/src/FunctionalJavascript/ConditionalFieldDateListTest.php	ac642597208d7cddd566c849620cea5d
-M	tests/src/FunctionalJavascript/ConditionalFieldDateTimeTest.php	efb4d04e01b4520ff7fb8ea01050ecd0
-M	tests/src/FunctionalJavascript/ConditionalFieldTestBase.php	725d36c1a544ee1184f58998b5324f0f
-M	tests/src/FunctionalJavascript/ConditionalFieldTextfieldTest.php	f0ba5fc84a26df6635b31390a46485c7
+M	conditional_fields.api.inc	bc0a003f9bf364cd2a36574c6eb56d56
+M	conditional_fields.info.yml	cd422c6bce1033a29d1d00c70e3abef1
+M	src/Plugin/conditional_fields/handler/LinkField.php	abf6cbfe98dcbf0536e96eb3baf13719

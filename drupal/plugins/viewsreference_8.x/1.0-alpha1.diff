@@ -1,9 +1,0 @@
-A	CHANGELOG.md	2602ed8215724333cd9c223858233c84
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.md	d41d8cd98f00b204e9800998ecf8427e
-A	js/viewsreference.js	45f1e287c83d3705e5a5f1a3759b6f87
-A	src/Plugin/Field/FieldFormatter/ViewsReferenceFieldFormatter.php	6b660c42558f269d6b14b8d8bc7ecea2
-A	src/Plugin/Field/FieldType/ViewsReferenceItem.php	d7cafda025ad58ccce0d7a2cab9e2f77
-A	src/Plugin/Field/FieldWidget/ViewsReferenceWidget.php	9024a6fecc43aa8135016e865fc30c7d
-A	viewsreference.info.yml	6221d6cd1a1d974ecc8282fe3c6cdeb9
-A	viewsreference.libraries.yml	6ee53eefac023d5a82c8a0c1ff9babdb

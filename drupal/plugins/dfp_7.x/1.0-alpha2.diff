@@ -1,9 +1,0 @@
-A	README.txt	1f6712a238a9c10fe3514471ab5c5c4b
-A	dfp.admin.css	810212ddbfc62485158b00c978dcc75b
-M	dfp.admin.inc	4e749b9021dffacd937b300d72dc4049
-A	dfp.adtest.inc	9256a7fbafa202357597c503d77cbcc6
-M	dfp.info	e2740122ad2732b08986a1a92a27e019
-M	dfp.install	e18b21d122341148ac072bd03a3f394a
-M	dfp.module	00774bfa5a818ee32f7b5f9de195e3c1
-M	plugins/export_ui/dfp_ctools_export_ui.inc	0a2a1ff3f69aab3e91369a738d6457ed
-A	tests/dfp.test	156a7081cdc41f284fdea393112532ec

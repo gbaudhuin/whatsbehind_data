@@ -1,9 +1,0 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-A	page_title-admin-settings-form.tpl.php	5ee8fded5d6f7d8843655a41441c88fb
-A	page_title.admin.inc	2ed10f23909006445b9f969852e8d73f
-M	page_title.info	d5addd2eba8756a85d183db927c874cb
-M	page_title.install	c4e42b1696c91ebac5dad27a0245c993
-M	page_title.module	636628a3760acd9f08a484e923a8a91b
-D	template.php	
-A	translations/page_title.pot	a1443aaae7afe67135be06bc6f370072
-A	translations/ru.po	2833d7cee941ed5163db9cc383a3142f

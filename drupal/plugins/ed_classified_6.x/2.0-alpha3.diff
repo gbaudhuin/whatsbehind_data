@@ -1,9 +1,0 @@
-M	CHANGELOG.txt	45c5247e5282226106558a972954589c
-M	ed_classified.info	610dbd1a7809d7f7e02b685b867d1e01
-M	ed_classified.module	9eb557be1da997458bb5bb8695490609
-M	ed_classified_delete.inc	aca35ad9740a40ab3106f022e6f6ae3d
-M	ed_classified_notifications.inc	23726a1200cf6146b6a375458b824f57
-M	ed_classified_settings.inc	fabfd3dca9cf9103084fd1010bc8a164
-M	ed_classified_themefuncs.inc	5faff6960fbb21daced5e3c812bf3529
-M	ed_classified_utils.inc	9ddeccbf35636324530933b118798469
-D	todo.txt	

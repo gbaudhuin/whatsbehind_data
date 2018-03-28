@@ -1,9 +1,0 @@
-M	config/install/mathjax.settings.yml	a8cde08f6a1a1593ecf9295bd809aa9f
-A	js/config.js	33d0874b344acf21b5f32f063822d511
-D	js/mathjax.js	
-A	js/setup.js	e278fcc8f2cb0100939b25778094367f
-M	mathjax.info.yml	88535a0d49e67f44a84ad6814a1e1522
-M	mathjax.libraries.yml	5f68e9de8d196f93065556dca94c367a
-M	mathjax.module	23965b8a954054744218993708d80303
-M	src/Form/MathjaxSettingsForm.php	e103067e597687c1802f9cda6ebe1186
-M	src/Tests/MathjaxWebTest.php	69817ee660af230c9645fcce8047985e

@@ -1,8 +1,0 @@
-M	config/schema/range.schema.yml	dc0c49278e05957496906decf8f51a66
-M	range.info.yml	a33e3af1ecf70c56d7665db7e7de84f8
-M	src/Plugin/Field/FieldFormatter/RangeUnformattedFormatter.php	5e311ce7d6c11b17755c1cd04ecefa19
-M	src/Plugin/Field/FieldWidget/RangeWidget.php	4b76e6541e4bcb67182d548e651dd709
-M	tests/modules/range_test/range_test.info.yml	6088380d15b011bdaef5197d93f7a2a8
-A	tests/src/Functional/Widget/RangeWidgetUiTest.php	4a4a892cbe21ec3c75b7ef455e91c3cd
-M	tests/src/Kernel/Widget/WidgetTest.php	63d30dced478e7f77b9f08e3ff5a2e38
-M	tests/src/Traits/RangeTestTrait.php	b09b02363a7c28ce44c011132a96d283

@@ -1,3 +1,0 @@
-M	require_login.info.yml	c3448287e16a2898c4f4ca68699d8ab9
-M	src/EventSubscriber/RequireLoginSubscriber.php	e4e7f1b2a934b7ba620ebded34384514
-M	src/Form/RequireLoginSettingsForm.php	e9ec460cd00802688748523ca315bd08

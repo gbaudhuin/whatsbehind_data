@@ -1,8 +1,0 @@
-M	README.txt	fb969228d9b1d6a5a08cdc79431c2ea2
-M	forward.admin.inc	60372101e1e4c9a10cfee479f447a865
-M	forward.info	7cfdf976a667977681a1907d454c7741
-M	forward.module	25e478f00c3977775ef4f659ecf1ac24
-M	plugins/content_types/forward_node.inc	5926d37937b85691a7889480ad2f39ab
-M	plugins/content_types/forward_page.inc	309ab7336c0a24c37a61d2184711146c
-M	views/forward.views.inc	90e8d8bbd951522b8f6a3d280d97e75a
-M	views/forward_handler_field_forward_link.inc	caa97dd3dc3084bf7da7e92da6855921

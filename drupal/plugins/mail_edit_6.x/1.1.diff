@@ -1,8 +1,0 @@
-M	CHANGELOG.txt	4bbd05c94ddbfae9ff4d91385ac1a3d6
-A	mail_edit.admin.css	5989cb8a987a7a0e797746846f90adf6
-A	mail_edit.admin.inc	b810b8b060fb20c143f650ee4393f2b9
-M	mail_edit.info	4cc064b6b062118e0213abb8ca072b5e
-M	mail_edit.install	4ad575067a2891e17dc22da9e0b0ef10
-M	mail_edit.module	00e6393fc8f282f78755e459abd86b98
-M	mail_edit_logintoboggan.inc	1b776e1ffc081769c6cb2c45e85d2f63
-M	mail_edit_user.inc	2d49e9dcbd6d9347617161f92efbc064

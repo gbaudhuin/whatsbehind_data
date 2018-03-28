@@ -1,8 +1,0 @@
-M	modules/restful_angular_example/restful_angular_example.info	9e99f7e54a0832497c7912052461ab51
-M	modules/restful_example/restful_example.info	42acaf9b3acb56c5f7da5abb37bfd509
-M	modules/restful_token_auth/restful_token_auth.info	e26e6f191887e662f30835df823aef94
-M	restful.info	562c09e03036863097a6890e537ed084
-M	restful.module	b2c59eca2fef469166abf74d7c4757bc
-M	tests/RestfulHookMenuTestCase.test	80d6dac63e78baf1db5427ed50f4602d
-M	tests/modules/restful_node_access_test/restful_node_access_test.info	8131a54afd3ffce690518373cfa6f31a
-M	tests/modules/restful_test/restful_test.info	d20b49514eda6c7532acc5e949b63495

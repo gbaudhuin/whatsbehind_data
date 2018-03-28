@@ -1,4 +1,1 @@
-M	persistent_login.info.yml	5e2d90ed2313f07f890cfe796f029ac3
-M	src/CookieHelper.php	ea5c2d00bd6c416871b8557ca6590e9d
-M	src/CookieHelperInterface.php	e248d10637abb31b95b9063374da9dac
-M	src/EventSubscriber/TokenHandler.php	caf58d31fde51d9320d7aff03719dc9f
+M	persistent_login.info.yml	8506f8a8c06e33b8ef028c1e70ba17a9

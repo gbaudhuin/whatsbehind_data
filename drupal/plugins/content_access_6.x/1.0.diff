@@ -1,8 +1,0 @@
-M	README.txt	a0cc61fd559c141333981b8c58c79f0d
-M	content_access.admin.inc	004fa5d91ae10fa2d5db31c64fc49c65
-M	content_access.info	28cc2e6dc3a150479e406118514be3a5
-M	content_access.module	cb2b421a4e9ccfecd9ffafffeab11e13
-M	content_access.rules.inc	e5237fc0b1ffa45a82f04274d2612161
-A	tests/content_access.test	df4b1b67487ee137537c0df3eb27c73e
-A	tests/content_access_acl.test	dac56c93794bd1baac761e4335acef78
-A	tests/content_access_test_help.php	a2de80eb1ad6c7895f81f647d23c597f

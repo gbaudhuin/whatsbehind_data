@@ -1,5 +1,2 @@
-M	README.txt	9a1045106146e9ca2138ed17cd0dc829
-M	config_readonly.info.yml	05abd1363bb577658a3f92f6c2c5e325
-M	src/Config/ConfigReadonlyStorage.php	0f4b25a2b6457a3beb69b9cb27ba2d9b
-M	src/EventSubscriber/ReadOnlyFormSubscriber.php	e6497da66eb5edb6f41e03505f62ebc8
-M	src/Tests/ReadOnlyConfigTest.php	6f22baa70fcc55a085106fbb1ac93da9
+M	config_readonly.info.yml	15ab57d9134f69e687e2645121a26cd5
+M	tests/modules/config_readonly_whitelist_test/config_readonly_whitelist_test.info.yml	aca537bee5fa38ceac07e56a44e79480

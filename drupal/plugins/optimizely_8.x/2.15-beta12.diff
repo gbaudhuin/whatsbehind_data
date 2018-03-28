@@ -1,9 +1,0 @@
-M	optimizely.info.yml	9a62f65fd83a68f2e139417fcf0baec8
-M	optimizely.module	7480837eea98c19c720df4ab5126c0ab
-M	optimizely.routing.yml	257fe469970bb9b734deb048b3112ff0
-M	src/LookupPath.php	0b9f2b7f819179e49fdd77f2590fbf9f
-M	src/Tests/OptimizelyAddUpdateTest.php	7267822019d34633e6fa220f26799389
-M	src/Tests/OptimizelyAliasIncludeSnippetTest.php	dd0cf54c41cad2d602a0d83d56105333
-M	src/Tests/OptimizelyEnableDisableTest.php	2ab7e6f678d755416483bd59b956a5ab
-M	src/Tests/OptimizelyIncludeSnippetTest.php	fe4b15fceca864d45f0a03c998ba59dc
-M	src/Tests/OptimizelyPageSnippetTest.php	af2c0766a0126b3b3cc11cb67fadfaef

@@ -1,7 +1,6 @@
-M	README.txt	826eb96f2b9f8389187981768434a365
-M	google_tag.info	7d911cd6c66c95fae9c8e8510354bbe5
-M	google_tag.install	4340359dca3a80a9b0d2777db36fa371
-M	google_tag.module	c267fa3dafd369f27d4af4afbf1b867a
-M	includes/admin.inc	9619707c22d05e444bd2e3883fedd30c
-M	includes/snippet.inc	be5ddbf0874d52aa41fb13e2c1656e22
-M	includes/variable.inc	67fdb4f2b17618cccc1c89d50b6e4d32
+M	google_tag.info	26fbd57e2dbd11903a5dc334e818d256
+M	google_tag.install	f35d0b5f5c5c2b6441409c1beb8e2822
+M	google_tag.module	4812ce24d950a5ce2b79ccf4f141979f
+M	includes/admin.inc	8d758752aa45371be89e3cb9119a1064
+M	includes/snippet.inc	cd9a5bf77121a321c520dff9d788c47f
+M	includes/variable.inc	64f94c810a6346972609271d0115df57

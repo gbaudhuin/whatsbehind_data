@@ -1,9 +1,0 @@
-A	CHANGELOG.txt	8f0db52725bf3be28eb30badb63b378d
-M	includes/ultimenu.utilities.inc	90cc541335d084072421cb7ccc7bc96e
-M	src/Plugin/Block/UltimenuBlock.php	4946243c51f357551e107e63c8ec04ac
-M	src/Plugin/Derivative/UltimenuBlock.php	9654c33b4778b34ba63c9ac8e0dad6ec
-M	src/UltimenuSettingsForm.php	5c506dddf884965934eafd5c0c40c497
-M	ultimenu.info.yml	c9d609e3889fe97d99c1ac9607221e3f
-A	ultimenu.links.menu.yml	fc3f6f836fb6e288f64f7483588b9c09
-D	ultimenu.menu_links.yml	
-M	ultimenu.module	5aa8ae037025fdbc6987c3b47c3e6af1

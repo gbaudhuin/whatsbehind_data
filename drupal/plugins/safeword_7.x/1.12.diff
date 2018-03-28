@@ -1,7 +1,0 @@
-A	plugins/arguments/entity_by_safeword.inc	d83533e291c48835abb4b1900c7203ff
-M	safeword.info	cbc19f019f8c0772d1d33ea16ed3fd8c
-M	safeword.js	7990780136d16adff4d8452b9727f740
-M	safeword.module	678800ec7014099fa5c8f4bd3ebf68a3
-A	safeword_context/safeword_context.info	3681239087151e1cd9626e6bdae48fa9
-A	safeword_context/safeword_context.module	ae5557b6ce0a8e33af1807635b05e0c0
-A	safeword_context/safeword_context_condition.inc	619275c99b2aad995af5acce7e12350f

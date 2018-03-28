@@ -1,8 +1,0 @@
-D	README.txt	
-A	includes/rc4.inc	a537af133da3204c78ed1fd8e7233059
-M	includes/views/simplenews_statistics.views.inc	cfdce5a9749ec39429a8d0bd7bbe9a1d
-D	rc4.inc	
-A	simplenews_statistics.admin.inc	95d6242178b29557ea78f0c066de155b
-M	simplenews_statistics.info	6a05d2d4c4fd3c16f8864b3132f46054
-M	simplenews_statistics.install	2c7244350b63cbe9191684e015288322
-M	simplenews_statistics.module	cf000eedf1c993d404bb583c3e24d6fd

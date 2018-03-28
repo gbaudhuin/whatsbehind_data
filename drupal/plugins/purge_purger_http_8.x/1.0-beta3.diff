@@ -1,4 +1,0 @@
-M	purge_purger_http.info.yml	b910beef1191ecba0ef0c40aff556b0c
-M	src/Plugin/Purge/Purger/HttpBundledPurger.php	aa2fe26a8ffd610c4d959fa0439e5e6d
-M	src/Plugin/Purge/Purger/HttpPurger.php	81f360be8c132bbb9d2bd0db85b1c635
-M	src/Plugin/Purge/Purger/HttpPurgerBase.php	78c6977a8fc146db0606b44cdd08ea77

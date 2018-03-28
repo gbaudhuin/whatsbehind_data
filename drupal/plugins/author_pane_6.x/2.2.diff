@@ -1,6 +1,0 @@
-M	CHANGELOG.txt	e6a14a1269ee031712d984cb86ce5be2
-M	author-pane.tpl.php	f0d10aa7c5f6208e3fb48b7d4ce7d86d
-M	author_pane.info	902e05e3a040a9b4715c34f66d3dfbbe
-D	modules/location.author-pane.inc	
-M	modules/og.author-pane.inc	42126c3d3b0542cdc88f3796295ecb5c
-M	modules/user_badges.author-pane.inc	df2a03c86ab4be22c6e103f5b921e8c6

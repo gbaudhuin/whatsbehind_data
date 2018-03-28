@@ -1,8 +1,0 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-M	autologout.admin.inc	bd71c50c0ca9dd9b791cd0754eb1665f
-A	autologout.api.php	f0b4df2959c0a70ddace1a37e2be5fd9
-M	autologout.info	81b84975a6929ba27295adae982536d9
-M	autologout.install	9a8f76f2035e25b4b1ed49b208a3cfa3
-M	autologout.js	b66a7ff0206b103a8b94f371d82ac247
-M	autologout.module	f0df94d922f5ff452d6c02ea829f1849
-A	tests/autologout.test	3eac603cd6805d8bd5f1f6e839eca9b3

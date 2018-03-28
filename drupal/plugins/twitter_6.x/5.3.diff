@@ -1,9 +1,0 @@
-M	CHANGELOG.txt	1d09c0437c25ac3ffa480e7ef07af75f
-M	tests/core.test	fa9f594f39f54051d3e20c3ecea8d2c1
-M	tests/input_filters.test	67519dbb9fa105fd5ce65fa3747cbef4
-M	tests/twitter_mock.info	0948569a8930d7cfeefef458c6f64a11
-M	twitter.info	679dea8cc66638f387c5dc5c23d668e5
-M	twitter_actions/twitter_actions.info	caf8f98a289e7152cd75f58aacd43cd8
-M	twitter_post/twitter_post.info	2314491c31205672f3f6df95bdf269c3
-M	twitter_post/twitter_post.install	2471c6559044379661b7d9a4b96f1660
-M	twitter_signin/twitter_signin.info	d00e44cccf2577963210952cef4836b8

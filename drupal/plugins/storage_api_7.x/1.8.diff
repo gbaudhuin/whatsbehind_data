@@ -1,6 +1,0 @@
-M	audit/storage_audit.info	0b5a3555f7248c45b5a163b37777686d
-M	audit/tests/storage_audit_test.info	a20e35b4018a910e6ba6902a93cac1ac
-M	core_bridge/storage_core_bridge.info	9b956d99c6754a782534217368c9e729
-M	core_bridge/storage_core_bridge.module	f4ca1db8256179b5cc33347a47959d58
-M	statistic/storage_statistic.info	568baaa96d1f2846d2da091b9d59a37d
-M	storage.info	444297f0ea18ed3f9c90f9250a8d0260

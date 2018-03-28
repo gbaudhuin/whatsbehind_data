@@ -1,5 +1,1 @@
-D	config/install/flood_unblock.settings.yml	
-M	flood_unblock.info.yml	6ab847cdc5bf572591daf47c541a360e
-M	flood_unblock.services.yml	8522e906cf5228e30727c1e9caa9c5ef
-M	src/FloodUnblockManager.php	752bd1c1ef60b50b06077d0b62d2d282
-M	src/Form/FloodUnblockAdminForm.php	61ec31882abc0262c89e68ddc3c105c8
+M	flood_unblock.info.yml	fa64585f60c496162939854dac4d95d8

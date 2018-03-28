@@ -1,5 +1,0 @@
-M	services.info.yml	0e344b8f25fc009fb7c5977a7ad29b4e
-M	services.routing.yml	1ecfde91f1ed5668132f86de5c35843a
-M	services_test/services_test.info.yml	1bd09dcb93bcb5134c0a627549bff3a2
-M	src/Controller/ServiceEndpointListBuilder.php	679bd17f47c47ebd78aaaa1e19f45b84
-M	src/Controller/ServiceEndpointResources.php	7ada9229220c19b5add66e848de30984

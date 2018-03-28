@@ -1,9 +1,0 @@
-M	admin_toolbar.info	6b6d72f887173f6ee96e1e3cc202f0d3
-M	admin_toolbar.info.yml	df2bf8b0a8ebb10b102eda734f0c1fc7
-M	admin_toolbar.module	0532e6df45ee19233467e19893ef9a8f
-M	admin_toolbar_tools/admin_toolbar_tools.info.yml	18ecb30891976f9e53fc9bf1cbfae5e1
-M	admin_toolbar_tools/admin_toolbar_tools.links.menu.yml	467eb586822d59f7bd13a3a28ae87885
-M	admin_toolbar_tools/admin_toolbar_tools.module	95319aa80d2bb22fd9d67dd6af581849
-M	admin_toolbar_tools/admin_toolbar_tools.routing.yml	b1271fb35f7a6676f7140207a57154b4
-M	admin_toolbar_tools/src/Controller/ToolbarController.php	26a3af44420c20c7496c63c8e71824c7
-M	css/admin.toolbar.css	17226f37f0d38f94cbe6fd4546798428

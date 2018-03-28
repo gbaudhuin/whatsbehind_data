@@ -1,7 +1,0 @@
-M	addons/nodequeue_service/nodequeue_service.info	00ff042e3fadd0d5410ea553131eb6a5
-M	includes/views/nodequeue.views_default.inc	525a53df1619c4aeab64ce92bc904770
-M	nodequeue.info	9a704d8edcedfc18e795cebee191ad5f
-M	nodequeue.module	727959136a3920b5a1938806f6adf58d
-M	nodequeue_generate.info	c4e0b019e42cc8c3493b73a22c201463
-M	smartqueue.info	ee1415f0dc989fcaa1fa4a4e19737280
-M	smartqueue.install	4b43af5d55167b1bc327e4912fc926b3

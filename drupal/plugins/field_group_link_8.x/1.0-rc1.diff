@@ -1,3 +1,0 @@
-M	field_group_link.info.yml	7a6637d9dde248912637036048000eee
-A	src/Element/LinkElement.php	9841e09dc98f4bc6c4cdc90737f03ca9
-M	src/Plugin/field_group/FieldGroupFormatter/Link.php	b594c8930c767eff70d033c8ba47a640

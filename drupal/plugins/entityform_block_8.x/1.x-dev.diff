@@ -1,4 +1,0 @@
-M	entityform_block.info.yml	593bdda825fe3777d3c8e8b357d9feab
-M	src/Plugin/Block/EntityEditFormBlock.php	faac0266dbd85ea5885f06cc9c34de60
-M	src/Tests/EntityFormBlockTest.php	4ba09b1a1c4f76a3a95632e38d9fbf4a
-M	src/Tests/LocaleTest.php	d88b585c54db01e6fc5912060e0f6037

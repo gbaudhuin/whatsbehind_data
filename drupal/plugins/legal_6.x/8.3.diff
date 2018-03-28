@@ -1,8 +1,0 @@
-M	README.txt	536efb8b8d9d27f7880eed427379b9fa
-M	legal.admin.inc	12f76a1c049f0cabf08511c74017bcfa
-M	legal.info	5246a9f2d4a7d9898828478c1cc5289d
-M	legal.module	8a0a437ab4a285546e9b7ae943bb5412
-A	views/legal.views.inc	f31d133c0beb3ddd27c8fe73429e682a
-A	views/legal.views_default.inc	ab232cb35f75bdeddece3cdcb1762d75
-A	views/legal_views_handler_field_exploded_list.inc	7cc22d85d2fb3d83550b0a7265d40a57
-A	views/legal_views_handler_field_unserialized_list.inc	8fda37f18218088b72d3047a5d536009

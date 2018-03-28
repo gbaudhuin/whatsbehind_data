@@ -1,6 +1,0 @@
-M	.travis.yml	117c25800a4c4faf218b9d4eef1f2d10
-M	README.md	daa3535daddb326137f89b38ac49c0a1
-M	flysystem_s3.info.yml	11aaf9a609154d9c455878eb5eb58065
-M	src/Flysystem/S3.php	10a156c6221c5cec134f3fc03317dabe
-M	tests/src/Unit/AwsCacheAdapterTest.php	b7fb12ac42ff3d307e5da886f10657e6
-M	tests/src/Unit/Flysystem/S3Test.php	62ad1c87c810ceb4daa86eba3228a7c2

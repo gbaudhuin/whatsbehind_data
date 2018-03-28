@@ -1,7 +1,0 @@
-M	README.md	44d9f077187c6067907e0a28b2cfe4ca
-M	plugins/video_s3/video_s3.info	3a48c730a322e5d27b1388e3fb77786d
-M	plugins/video_zencoder/video_zencoder.info	582023eef317a0e004d6982e986091a0
-M	types/uploadfield/uploadfield.info	66dbf91f40686ac2cfdecd4a41dbaf5a
-M	types/videoftp/videoftp.info	1852ef76e44d06329ba0d392a1d2f0aa
-M	video.info	b97cfd770468f4bb2a11f898f24da335
-M	video.install	78245a5bbce330dc51623872850b8e90

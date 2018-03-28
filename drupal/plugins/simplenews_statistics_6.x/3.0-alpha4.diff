@@ -1,7 +1,0 @@
-A	README.txt	d65dae34db1d6cbf65f068e385df9f3e
-M	includes/views/simplenews_statistics.views.inc	ad46da767079ffd2fb7ed7b0f67a67c4
-A	includes/views/simplenews_statistics.views_default.inc	689c3d27ae1c0b7f6aa98b5cb3e02b8e
-M	simplenews_statistics.admin.inc	3aecc5f205cf32672b4a069c758ed5ca
-M	simplenews_statistics.info	95745707cf3c65be02983a0a8e655103
-M	simplenews_statistics.install	0ce5043e96ed787f180549fafa4a195d
-M	simplenews_statistics.module	56b368397c528990dff81ad7dd5bd2bd

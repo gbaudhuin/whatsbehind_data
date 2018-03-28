@@ -1,9 +1,0 @@
-M	CHANGELOG.txt	64605c16a1606d25d328f9baf2231840
-A	modules/themekey.wurfl.inc	bc2788c13152c6b526f96741be59f099
-M	themekey.info	b71a02ac0074125d9111aebd6d644cd4
-M	themekey.module	d7c72c8ee6caf686d7c5509bbdf43910
-M	themekey_base.inc	48caaeffbf40e72c5be56ae9d8f422d3
-M	themekey_build.inc	89b1f61a2ec3716525b47466e7771e5a
-M	themekey_debug.info	df13cc8143d0dd15b34f4c1f2fcc20fa
-M	themekey_features.info	8cc17a4c3e3363a37e4e78a5cc59bc64
-M	themekey_ui.info	d16ce2a68bbebf2ca18af15727c6a4ef

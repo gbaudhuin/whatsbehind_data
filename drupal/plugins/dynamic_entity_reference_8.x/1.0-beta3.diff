@@ -1,7 +1,0 @@
-M	dynamic_entity_reference.info.yml	ff15dd23608f2d1237959677d1887cb3
-M	src/Plugin/Validation/Constraint/ValidDynamicReferenceConstraint.php	8f8c6f6913b0c879b3f012fbe103a02f
-M	src/Tests/DynamicEntityReferenceFieldDefaultValueTest.php	3958a5f64b976706b7a8c3698536efb6
-M	src/Tests/DynamicEntityReferenceFieldTest.php	8d32021c86e9daaa0110fdecdc129825
-M	src/Tests/DynamicEntityReferenceFormatterTest.php	c244b23547dc028cc2d255dac57787e4
-M	src/Tests/DynamicEntityReferenceSchemaTest.php	e71119a8b375bc0c92b0958d5d09ccae
-M	src/Tests/DynamicEntityReferenceTest.php	75641194db7a047325c4c0b9405e1fe3

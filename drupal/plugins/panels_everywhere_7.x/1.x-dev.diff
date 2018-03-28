@@ -1,6 +1,7 @@
-M	CHANGELOG.txt	25f2ba1a4ee731fc9237326e7934fa3f
+M	CHANGELOG.txt	8b1b05bf1965beafa1ae9b69f830489e
 M	README.txt	d14895da993509744d7a73c6a57e9a30
-M	panels_everywhere.info	8a7e76eaa28bbd211f8cea5a1b7be9dd
+M	panels_everywhere.info	af85e04fc11e36950ff6bcb1592d1d3b
+M	panels_everywhere.module	21b93bf15486455230c099eccc08412f
 M	panels_everywhere.pages_default.inc	899ae975fbdbf675b8a9cb128be73fcd
 D	plugins/access/managed_page.inc	
 M	plugins/tasks/site_template.inc	44e9355fc329f590bad1575ee16e433c

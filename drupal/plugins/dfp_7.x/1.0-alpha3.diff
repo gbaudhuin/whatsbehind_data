@@ -1,9 +1,0 @@
-M	dfp.admin.inc	2561130ed85fffd3fac05cbfad9bd648
-M	dfp.info	e40ce2e0f59de4e99a906da4109a9958
-D	dfp.js	
-M	dfp.module	109425275ef21ff54a4fb8e0f8ff9363
-M	plugins/contexts/dfp_context_reaction_settings.inc	1b4756a6432277188517b2520afb4b8f
-M	plugins/contexts/dfp_context_reaction_tags.inc	bd761cbf9b0ffc35f02d89b24521e769
-M	plugins/export_ui/dfp_ctools_export_ui.inc	b8ad7f4f55a170b15698470e499d3544
-M	plugins/export_ui/dfp_tag_ui.class.php	068559e9a185c8a4fbe2980cd393123f
-M	tests/dfp.test	e3ada3a94aaada156c0c7fb7c766440f

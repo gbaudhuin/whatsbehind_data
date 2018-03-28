@@ -1,5 +1,2 @@
-M	src/Controller/TaxonomyViewsIntegratorTermPageController.php	70a01d1e0ecd79b8c01442764d375c4d
-M	src/Service/TaxonomyViewsIntegratorManager.php	c7be466f7e4493ef740f9a5262c09708
-A	src/Service/TaxonomyViewsIntegratorManagerInterface.php	5f69f0d2f8fd07f7f3e970b1bbf6da62
-M	tests/modules/tvi_test/tvi_test.info.yml	2eccfc0622a2cc3a9df033769484eead
-M	tvi.info.yml	be88d2af69bf6f05462e1085770e7ab5
+M	tests/modules/tvi_test/tvi_test.info.yml	eb606aa63b30426fe2043fbee70464fa
+M	tvi.info.yml	a81623c58603ae74de3f4ec0784f152e

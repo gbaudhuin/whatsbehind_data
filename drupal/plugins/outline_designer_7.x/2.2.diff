@@ -1,9 +1,0 @@
-D	.gitignore	
-M	css/outline_designer.css	32c0843dd0c3c9c8a538e6ccaaceb439
-M	js/outline_designer.js	0f960c11edea6ead08b15e5ead718425
-M	modules/outline_child_pages/outline_child_pages.info	57c2536cbf1784d123ccce9ed4956a86
-M	modules/outline_designer_book/js/outline_designer_book.js	2c92d0cbfd90ee5723a5ee4d455f545e
-M	modules/outline_designer_book/js/overrides.js	43ed76f31afe5de8897f3e45bd869839
-M	modules/outline_designer_book/outline_designer_book.info	7218ae43bbb0f7543c47ef9e646568ed
-M	modules/outline_designer_book/outline_designer_book.module	a2bf1a4d2901a86bcc9472de45da0570
-M	outline_designer.info	b92286d3221f550f8886d3d0b3fdbf3e

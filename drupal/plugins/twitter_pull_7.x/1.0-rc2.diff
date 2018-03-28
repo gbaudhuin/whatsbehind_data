@@ -1,8 +1,0 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	plugins/twitter_pull_box.inc	bcaa233833369468dbb9ba8e2a672bf3
-M	twitter-pull-listing.css	42896239ecab5703edcdc05f370326b3
-M	twitter-pull-listing.tpl.php	c05348591533b771b242a1e58d65256a
-M	twitter_pull.class.inc	bb0e520fb0cf8e29fb4dfcc94607029b
-M	twitter_pull.info	66a1b9c2fcf502b6c8605fc42a1f747b
-M	twitter_pull.install	79e59a629b1ddb728e1dc5972e7ed1ba
-M	twitter_pull.module	6138f641edd6a7809b7ead19497a8b5c

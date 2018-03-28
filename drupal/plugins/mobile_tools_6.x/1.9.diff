@@ -1,8 +1,0 @@
-M	INSTALL.txt	b297c129247d9922665ac0edc729fc06
-M	README.txt	9463fb16f7c0ccafba6825ea780eb983
-M	contrib/mt_browscap/mt_browscap.info	c507ebc782e63d3fff41b1e32038c25a
-M	mobile_tools.info	48955e7b95d1d87b61e77c8b1d132d04
-M	mobile_tools.install	0d1bdd5ebd2c2d1bbe079d05c3e08e1c
-M	mobile_tools.module	90bb507fbbd215872e0b9fd583465876
-A	mobile_tools_roles.inc	a5c4d48095591f280e8ec2fc69983d1e
-A	plugins/access/is_mobile.inc	3b408d5ba6cfa0b3e2c8bd35edfaa092

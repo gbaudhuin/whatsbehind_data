@@ -1,9 +1,0 @@
-M	README.txt	535eba80d9423f1d22d84d39f9c0658c
-A	petition-signatures-admin.inc	903686c77b7650196ae62f59201d35ff
-D	petition.css	
-M	petition.info	33c68b6c4dbacb8a091eec5ccef916f0
-M	petition.install	5e55aa0ff4a252f0fb8f2dc51b90ab25
-M	petition.module	cc08db352f0ef84fab91141b10e2098c
-A	signaturedisplay.css	b74bc8f1d15801c2273798085d6f33e8
-A	signaturedisplay.info	37afa1fd23e844899c42896b63d4d92c
-A	signaturedisplay.module	7c187feac7017ac342a77b84b0889876

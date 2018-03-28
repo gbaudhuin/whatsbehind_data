@@ -1,3 +1,0 @@
-A	config/schema/field_group_link.field_group_formatter_plugin.schema.yml	4293bb0b5c480bdfaf639f2e33847989
-M	field_group_link.info.yml	0632ffc7286cf29ce92225b37c2ce32d
-M	src/Plugin/field_group/FieldGroupFormatter/Link.php	bccc29f3793bbc425244f6f60d757f36

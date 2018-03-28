@@ -1,8 +1,0 @@
-M	CHANGELOG.txt	21d2642ef14817933626b48e2dffbffe
-M	homebox-admin-display-form.tpl.php	8068d3828a002cccd81cf45543514b29
-M	homebox-block.tpl.php	2f0deec16bf9c52d6ef5f8058d1fd1a2
-M	homebox.admin.inc	097845a9b8bb8eb6899589fd486f4883
-M	homebox.info	8514a3d9d40f40dc5273629c6f1f6715
-M	homebox.install	45086c975703dd9e752eb0e269600665
-M	homebox.module	ef29715c988e9a53933b8168b23b5108
-A	translations/homebox.pot	95c65071d4c8628dcd614a2fe15b041c

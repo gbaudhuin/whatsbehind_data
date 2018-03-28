@@ -1,9 +1,0 @@
-M	nodereferrer.info	adfa06b1e29a0613c6ced447e5d5130d
-M	nodereferrer.module	a594faf09713cc732d97226ad5f1d0c4
-A	translations/de.po	8fd0474efd7fb3e667170c57ebf123c3
-A	translations/fr.po	3d3852d618253bb3d4644a951dcc600a
-A	translations/nodereferrer.pot	0ea8d3525233bf7841a9c3ebbe2b229c
-M	views/nodereferrer.views.inc	974b2d8441c22aa18c2dba52c0ddb64e
-M	views/nodereferrer_view_handler_argument.inc	ef5591163be2c1b25870a5206610d133
-M	views/nodereferrer_view_handler_field.inc	526ee63d1828b23696dcc0fba0b7c14e
-M	views/nodereferrer_view_handler_filter.inc	0e2c672c1b6fc0c3364e430791b948b0

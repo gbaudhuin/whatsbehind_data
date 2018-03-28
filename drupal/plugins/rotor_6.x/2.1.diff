@@ -1,9 +1,0 @@
-M	rotor.info	c696375fbb4164eb961abcb5fb43a0d8
-M	rotor.install	9cbf006df324bf663595b6a8a9f4ce8d
-M	rotor.js	61fb1d220adef4cec11b89ab0221b5c2
-M	rotor.module	b4f5707a380652953bdd2227953505fe
-M	theme/rotor-view-rotor.tpl.php	d9ecbe7ee292bb0e401a8994f575d07f
-M	theme/theme.inc	93862f8c163c78855bcb0f85e4fc73f5
-M	views/rotor.views.inc	1ac43cb6dc9240474e2addffc78943b6
-M	views/rotor_plugin_row_rotor.inc	67990a73f81b2a53584eed2f4f3e7394
-A	views/views_field_handler_rotor_image.inc	3b7fbd09f7c5d48211d6c5a685fdc5e7

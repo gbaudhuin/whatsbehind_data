@@ -1,6 +1,0 @@
-M	plugins/video_s3/video_s3.info	6289c7a524565d330ccd4293794dd9b9
-M	plugins/video_zencoder/video_zencoder.info	462ffdcaf34c2a1ee7d89e7eed8094e6
-M	transcoders/video_ffmpeg.inc	4abc64ac95a9fa8ca0948376b78482ca
-M	types/uploadfield/uploadfield.info	cafadfc6df4457c7a0c6ea9ffb1a33e6
-M	types/videoftp/videoftp.info	f28cea43686a15f3a450adc59e847b39
-M	video.info	0d64b70fd6804845170c3af625eba434

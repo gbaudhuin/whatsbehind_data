@@ -66,7 +66,6 @@ D	ldap_authorization/tests/DeriveFromEntry/ldap_authorization.inc
 D	ldap_authorization/tests/DeriveFromEntry/ldap_authorization.nested.inc	
 D	ldap_authorization/tests/DeriveFromEntry/ldap_servers.inc	
 D	ldap_authorization/tests/LdapAuthorizationTestCase.class.php	
-D	ldap_authorization/tests/Og/Og.test	
 D	ldap_authorization/tests/Og/Og2.test	
 D	ldap_authorization/tests/Og/ldap_authentication.inc	
 D	ldap_authorization/tests/Og/ldap_authorization.inc	
@@ -142,8 +141,10 @@ M	ldap_servers/ldap_types/LdapTypeOpenLdap.class.php	7bb36eaa05eabd0c7fec59623a6
 D	ldap_servers/tests/LdapServerTest.class.php	
 D	ldap_servers/tests/LdapTestFunctions.class.php	
 M	ldap_servers/tests/ldap_servers.test	054ebb9d4c72eae4aa031a0c0a6b5c0d
-M	ldap_sso/ldap_sso.info	386b4b711b18ced1f3debcd966ea84c5
-M	ldap_sso/ldap_sso.module	44df3312ba8334cdada9d3aff645e73c
+A	ldap_sso/MSTMG.notes.txt	52a3df0f9cde80865973eab4095feae4
+A	ldap_sso/README.txt	6cbff1016705f67226ff0fb85a53ca07
+A	ldap_sso/ldap_sso.info	386b4b711b18ced1f3debcd966ea84c5
+A	ldap_sso/ldap_sso.module	44df3312ba8334cdada9d3aff645e73c
 A	ldap_test/LdapServerTest.class.php	808109bb953501cea9f35f1d240bfbd8
 A	ldap_test/LdapTestCase.class.php	43e7f57219ede5ef00e949a9e1254891
 A	ldap_test/LdapTestFunctions.class.php	91ae296bda23c4c281a21d812e8fe6ec

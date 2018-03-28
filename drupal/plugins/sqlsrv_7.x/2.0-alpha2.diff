@@ -1,5 +1,0 @@
-M	sqlsrv.info	9af8a4e2b8ef54edd35b7875da5ac85b
-M	sqlsrv/database.inc	0e04e3ebb6493e601f89e014ace6811a
-A	sqlsrv/fastcache.inc	14f21fde8449bc4dfbb66c3f419beda8
-A	sqlsrv/fastcacheitem.inc	64fcdb893a77cd3ce70c7b0739788617
-M	sqlsrv/schema.inc	268d5b4cbad1c401b0b79e4673b67b5d

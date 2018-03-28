@@ -1,9 +1,0 @@
-M	permissions_by_term.info.yml	e17c4e31b26c57d2f095dde70e26ebd9
-M	permissions_by_term.install	cecab9ae0242f7c7bcd0ad8133148a21
-M	permissions_by_term.module	150ef942fd1ff48265c33bd2afec2a09
-M	src/AccessCheck.php	4ff181d2229fcede0935fdd07fa768f4
-M	src/AccessStorage.php	691181beb4efedb9c948b4c3f39ba4a0
-M	src/KernelEventListener.php	c6af72a9bfd56748452bb2a0b909d8d8
-M	src/Plugin/views/filter/PermissionsByTerm.php	8cde4436cc63ad25494ba977f7b0547b
-M	tests/src/Unit/Base.php	80179d2922383aa189ecb85ef01c90ea
-M	tests/src/Unit/NodeAccessTest.php	32d619aa4d73ab574322c8afc99acaf6

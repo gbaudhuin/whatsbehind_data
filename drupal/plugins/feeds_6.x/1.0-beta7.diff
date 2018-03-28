@@ -1,9 +1,0 @@
-M	CHANGELOG.txt	795006b154ba3ccbbbe6c70e00719304
-M	feeds.info	ef4e87b9f68cf0600ad7d5ddf703a11a
-M	feeds_fast_news/feeds_fast_news.info	aa4e8b6a9e62d9621aa375dec71b0e1a
-M	feeds_fast_news/feeds_fast_news.install	1cb916139d817a34b625c295d45bc370
-M	feeds_import/feeds_import.info	4b0ef97035cfc25cc5c61e9b87873fde
-M	feeds_news/feeds_news.info	a43353e3b6e54a4e306c420625ea219e
-M	feeds_ui/feeds_ui.info	33456c7754bc42842941a39923e8f32a
-M	includes/FeedsImporter.inc	e5459926b006d0aef7337ec488daecbb
-M	plugins/FeedsNodeProcessor.inc	a5a8921de1034a199a013c5fb5d245e7

@@ -1,6 +1,0 @@
-A	composer.json	5206c67da57a79882b1f2091b8b7c4e7
-M	courier.info.yml	e0f929c31e8ce5192194736191845f69
-M	courier_message_composer/courier_message_composer.info.yml	c3f740ede5de4e82769b8426c387eea9
-M	courier_system/courier_system.info.yml	53d9f7679559373c047c97f6ce2b09e1
-M	src/Element/TemplateCollectionList.php	1d9ecaf49e60caf49bb3d65211187a2e
-M	tests/modules/courier_test_message/courier_test_message.info.yml	34b35df92c5745229d35ac249b679d63

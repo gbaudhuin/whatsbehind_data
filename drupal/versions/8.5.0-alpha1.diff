@@ -631,6 +631,7 @@ A	core/modules/comment/migrations/d7_comment_field_instance.yml	9132e014b75635b9
 A	core/modules/comment/migrations/d7_comment_type.yml	01a08583fd4b0215f0d7bcb033a5b0a3
 M	core/modules/comment/src/CommentForm.php	7eed9ed6dfda2e5713edadfe42e0b907
 M	core/modules/comment/src/CommentTypeForm.php	015be4de9268c65b578c11f574f34b81
+M	core/modules/comment/src/Controller/CommentController.php	8e40bc5fbc5796d03785f57257be319c
 M	core/modules/comment/src/Form/CommentAdminOverview.php	b1cc6eb45ffab230f266b5d96349c701
 M	core/modules/comment/src/Form/CommentTypeDeleteForm.php	57caad8a06f3a7e8517e452d3c5c4947
 M	core/modules/comment/src/Form/ConfirmDeleteMultiple.php	754f47b8fa49e3f2619e305de626e8a0
@@ -643,8 +644,11 @@ M	core/modules/comment/src/Plugin/Menu/LocalTask/UnapprovedComments.php	58fd4b61
 M	core/modules/comment/src/Plugin/views/field/CommentBulkForm.php	fd1e6eb120a097b724b7d8a80524da6f
 M	core/modules/comment/src/Plugin/views/wizard/Comment.php	c03e8f81ab7e8efe76d4a44e23fefa6a
 M	core/modules/comment/src/Tests/Views/CommentTestBase.php	1fb644e65ee73935dfa385f576536877
+D	core/modules/comment/tests/src/Functional/CommentAccessTest.php	
 M	core/modules/comment/tests/src/Functional/CommentActionsTest.php	c7d4e2f5b827ba3e16d3a4a9780282f2
+M	core/modules/comment/tests/src/Functional/CommentNonNodeTest.php	636c6ebecf3d32c7e6668bcadc1073e2
 M	core/modules/comment/tests/src/Functional/CommentPreviewTest.php	1e990f63598b465123f4230af2e62935
+M	core/modules/comment/tests/src/Functional/CommentTokenReplaceTest.php	f23677deebee28276a908f3ba72a17e1
 A	core/modules/comment/tests/src/Kernel/CommentBundlesTest.php	094037bd573f1ab55fa1482f71284c50
 M	core/modules/comment/tests/src/Kernel/Migrate/MigrateCommentStubTest.php	9dcbed603c6e97825605299db134b3fa
 M	core/modules/comment/tests/src/Unit/CommentLinkBuilderTest.php	1400ab93cc7641b35b11e2a11b900288
@@ -1301,6 +1305,7 @@ A	core/modules/node/migrations/d7_node_settings.yml	035fe3a02a7a5c3f688b4da14902
 A	core/modules/node/migrations/d7_node_title_label.yml	d449c8807d89e99eaa119bd9e491e912
 A	core/modules/node/migrations/d7_node_translation.yml	60416bc9fc734f07fce6c41ad42cf243
 A	core/modules/node/migrations/d7_node_type.yml	45caffd713bee4c65d1b45c40e91dfcf
+M	core/modules/node/node.install	c6475983863a1927ef61db05604e09c8
 M	core/modules/node/node.permissions.yml	028e250b735f7a586041d27dcbbee988
 M	core/modules/node/node.services.yml	cb8dc30041404e20cde7f1add828c49c
 M	core/modules/node/src/Form/DeleteMultiple.php	24d5c9d0cb97ff7cf2f84a0d8622c2ad
@@ -1312,6 +1317,7 @@ M	core/modules/node/src/Form/NodeRevisionRevertTranslationForm.php	5709e6d7163df
 M	core/modules/node/src/Form/NodeTypeDeleteConfirm.php	da86fab64ab7c2481c1fca012385f288
 M	core/modules/node/src/Form/RebuildPermissionsForm.php	74ecc998717e8eadc77a2e83d44bd5c4
 M	core/modules/node/src/NodeForm.php	3cda5fd727fdf3273d541c0a0fd24c37
+M	core/modules/node/src/NodeGrantDatabaseStorage.php	0a899cbac647c035a3c4fe379fa606a9
 M	core/modules/node/src/NodeListBuilder.php	294e6e40f6b2fd9e46d76eedf1460c1d
 M	core/modules/node/src/NodeTypeForm.php	f220d204afcacd02b9c0627c99a058c4
 M	core/modules/node/src/NodeViewBuilder.php	43035e2dd91695984e040d5c405a4b7d
@@ -1327,6 +1333,7 @@ M	core/modules/node/src/Plugin/views/field/Path.php	2ea6f32b7b15557fcfb35a958de4
 M	core/modules/node/src/Plugin/views/wizard/Node.php	e53fc0596b698a8195a567911ce40b0a
 M	core/modules/node/src/Plugin/views/wizard/NodeRevision.php	fcbf06dc0750e99be1ee2f6be7fd45b9
 M	core/modules/node/src/Tests/PagePreviewTest.php	d3e7059a4b85edd17704fa95db32735a
+D	core/modules/node/tests/src/Functional/NodeAccessLanguageFallbackTest.php	
 M	core/modules/node/tests/src/Functional/NodeActionsConfigurationTest.php	df5c586e8822d6d320f2592041314786
 A	core/modules/node/tests/src/Functional/NodeContextualLinksTest.php	2daf03a328e20a7ade5eba7d651c3331
 M	core/modules/node/tests/src/Functional/NodeTranslationUITest.php	b594955f8a8250781271490f5e941f6c
@@ -1635,6 +1642,8 @@ M	core/modules/settings_tray/settings_tray.libraries.yml	403dadf8dbba84334c03478
 M	core/modules/settings_tray/settings_tray.module	1229af32f90ac13b9c585e01f3720ec7
 M	core/modules/settings_tray/settings_tray.services.yml	c6b44c9bebbec2c26df63a7e6e101ca6
 D	core/modules/settings_tray/src/Ajax/OpenOffCanvasDialogCommand.php	
+M	core/modules/settings_tray/src/Form/SystemBrandingOffCanvasForm.php	35dd8d8bcc5aa44436a15e912ab6f503
+M	core/modules/settings_tray/src/Form/SystemMenuOffCanvasForm.php	f591cfe5a41fe3096598b8e151f27cb1
 D	core/modules/settings_tray/src/Render/MainContent/OffCanvasRenderer.php	
 D	core/modules/settings_tray/templates/settings-tray-page-wrapper.html.twig	
 D	core/modules/settings_tray/tests/modules/off_canvas_test/off_canvas_test.info.yml	

@@ -1,7 +1,0 @@
-M	CHANGELOG.txt	acb2628fae11d7e3bd570f388d328d79
-M	feeds.info	70ccfdd89d5983a3eb38e725722f29ea
-M	feeds_defaults/feeds_defaults.info	f4198bfdb8e324d40ab133c80a750938
-M	feeds_ui/feeds_ui.info	834e26f2891b5c79b86255ddae562501
-D	mappers/formatted_number.inc	
-M	plugins/FeedsParser.inc	860229e43fc213ea7705692193dd9036
-D	tests/feeds_mapper_formatted_number.test	

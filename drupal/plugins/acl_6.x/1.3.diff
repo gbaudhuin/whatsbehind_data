@@ -1,9 +1,0 @@
-M	CHANGELOG.txt	60280596c6a404786f70a1f88b84cc8c
-M	acl.admin.inc	b926406f91cb0a41bb98243bea988de7
-A	acl.api.php	40eee5351155eca72429c25535c35e04
-M	acl.info	187a53281ed3de0614601a2d0d64826a
-M	acl.install	5e74b548f2564ad99bbc973498fae90a
-M	acl.module	03b85fb0e9a4287f0996204006c3afeb
-D	translations/acl.pot	
-D	translations/de.po	
-D	translations/sv.po	

@@ -1,4 +1,2 @@
-M	src/Form/MessagesForm.php	f6ecaf3f88675f90790fc3fa91529d40
-M	swiftmailer.info.yml	cf236a0a243d880ab4cdc96aa789e247
-M	swiftmailer.links.menu.yml	d2af5d102e0bf35f7f4c141ba0e88bca
-M	swiftmailer.routing.yml	5becb5705f1031ed64e72f1ecfee658e
+M	swiftmailer.info.yml	09ffe1978f3ee04bd7272850bb0dc203
+M	tests/modules/swiftmailer_test/swiftmailer_test.info.yml	fc2029c0c7d362c44c7701884c11dd0f

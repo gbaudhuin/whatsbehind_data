@@ -1,8 +1,0 @@
-A	README.txt	4b654378523243d2487e2f53bd8cfca3
-M	contrib/easy_social_example/easy_social_example.info.yml	dd5a4715a05ca3025d8e43f7c748111d
-M	contrib/easy_social_example/easy_social_example.module	b64560b0bcfabddcc8c8df1ed9f366b3
-M	contrib/easy_social_example/src/Form/SettingsForm.php	b4d445c27df49acb2bfb14d1e0bd2833
-A	contrib/easy_social_example/templates/easy-social-example.html.twig	e5a5de27aff9b74ce06793b53aa37852
-M	easy_social.info.yml	14b257c7cbb5e9f6452c6cf4428cdcd3
-M	easy_social.theme.inc	0893d78c07f67bff6955055c9c58f7f2
-M	src/Plugin/Block/EasySocialBlock.php	7875ed2dcc697303721fc2dc2b06b089

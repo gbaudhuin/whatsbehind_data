@@ -1,9 +1,0 @@
-M	config/schema/jw_player.schema.yml	e2f5ac4665a3b4911ca18cbd6ea20c54
-M	jw_player.info.yml	b1a30f9a8d252506e022689beb56a0be
-M	jw_player.install	ff13d99853d191b2ad8d140d91ce6859
-M	src/Element/JwPlayer.php	36873d1861807e36c3eac52b67230108
-M	src/Entity/Jw_player.php	5c3a888f2ccbca2b799c51831b2c4324
-M	src/Form/JwplayerPresetAdd.php	4315a9dab6773d20c2c9526cef5c89f2
-M	src/Jw_playerInterface.php	2eeae30869946ec178f110b500dfdaeb
-M	src/Plugin/Field/FieldFormatter/JwplayerFormatter.php	1b88abd04dbdd70d83f1dbea73bed195
-M	src/Tests/JwPlayer7ConfigurationTest.php	d139f13ffda6c42021614bf69ad7fa20

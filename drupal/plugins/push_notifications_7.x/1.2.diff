@@ -1,8 +1,0 @@
-M	.gitignore	2fbf72afc04a76f95e31b117d518c30e
-M	README.txt	5992c6b84b00510ef9af5fb3de3c9846
-A	certificates/entrust_2048_ca.cer	3102f7dd5d45affceafbb4dd6b3f3d85
-M	includes/push_notifications.admin.inc	f9cf6a1c82b0b18dae902ea5573b192a
-M	push_notifications.info	b13af2f3ab2424b92719c07f5ca94e0a
-M	push_notifications.install	4c2c34f36ef4efb163f40d7092998dae
-M	push_notifications.module	32a0e6a114c7710b7e5491675319be63
-M	push_notifications.rules.inc	39734b7ec54995eacf58321e9901a216

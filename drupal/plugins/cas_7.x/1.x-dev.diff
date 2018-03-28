@@ -1,5 +1,4 @@
-M	cas.api.php	aa0726b776038b86567bda0bcee6cb55
-M	cas.info	0d47c51020bffcc838659fa7c5a01ea2
-M	cas.module	0160a2836c1c5ec514bf017643e873ce
-M	cas_server.info	ecc2bd742fd213a15e5e8cf15e55785f
-M	tests/cas_test.info	e62cf2fb6586d54044e3a05ed0ecd79b
+M	cas.drush.inc	a328345775bb81c1051fd27f3e41e533
+M	cas.info	81d933884cb08bb29f149ef462c21424
+M	cas_server.info	6f017accfff4e991ffa744a72de017cf
+M	tests/cas_test.info	bf0c9e9e1895bc8ac007e32379f3c940

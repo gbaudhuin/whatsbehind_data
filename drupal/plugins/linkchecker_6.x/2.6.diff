@@ -1,7 +1,0 @@
-M	CHANGELOG.txt	d123a2ab42875ea2bfdcd72d9d9f7b40
-M	README.txt	277a5894ead2e5d792a6e96dcb587c4e
-M	includes/linkchecker.admin.inc	93f63d9f4ac8dea059f2e3e356f9e955
-M	linkchecker.info	2edcaae7d5919bf155d8db53f9c0f2de
-M	linkchecker.install	cee96ce206403d4135ccc03dd920fbfa
-M	linkchecker.module	a163ad57ae7c48f27a00ad2b857b101b
-M	tests/linkchecker_extract_links.test	27dac6e241e15a29f7463e4fe34d7c96

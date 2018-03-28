@@ -1,11 +1,3 @@
-M	contrib/field_group_migrate/field_group_migrate.info.yml	1ef054793f0e8ffb4a9d64ffc35fc70b
-M	contrib/field_group_migrate/tests/src/Kernel/Migrate/d7/MigrateFieldGroupTest.php	4b457d4d72bc063abac981e2f1f6f9a9
-M	field_group.info.yml	35a02747f3d4333c4c5f4794e673ef36
-M	field_group.module	ad361e3a90fe7a3e0ec12f6d0e394712
-M	formatters/html_element/html-element.js	cec4bf6669a86cea3fc9c594ef769d6c
-M	includes/helpers.inc	1e5fa1ad6951fa16f5cbc21b9a93760b
-M	src/Element/HtmlElement.php	e5bb25e2981fe54c003adb7c05fc5fce
-M	src/Plugin/field_group/FieldGroupFormatter/Fieldset.php	ec3290894d0622f93b818f998d75a6e5
-M	src/Plugin/field_group/FieldGroupFormatter/HtmlElement.php	ca66e9452540591992c881dbfb817956
-M	tests/modules/field_group_test/field_group_test.info.yml	27cf7f06dc86ab729b236dbb9f9b44fb
-M	tests/src/FunctionalJavascript/FieldGroupUiTest.php	3d32805108c3c9346579a65905835c09
+M	contrib/field_group_migrate/field_group_migrate.info.yml	50b8787dd6fb8fe0a02a72dea24f30e4
+M	field_group.info.yml	5125cc84b88c2f2510379469b8551e31
+M	tests/modules/field_group_test/field_group_test.info.yml	6024445e7e40c71576747d290ba77f7c

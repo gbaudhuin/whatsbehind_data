@@ -682,6 +682,7 @@ A	core/modules/comment/js/node-new-comments-link.es6.js	9ddd87cb331375cfb11de90c
 M	core/modules/comment/js/node-new-comments-link.js	a869a0bf8b9d2039a93faf52d693d3ad
 M	core/modules/comment/src/CommentViewsData.php	0bf5673844323a39d2146bceecdd77ce
 D	core/modules/comment/src/Controller/AdminController.php	
+M	core/modules/comment/src/Controller/CommentController.php	3c573f08662a05afb90db68bd13168af
 M	core/modules/comment/src/Entity/Comment.php	cb113eb139082caf7847e8def72650f3
 M	core/modules/comment/src/Form/CommentAdminOverview.php	2ec3c5ff636bdd85662fa6207d837184
 M	core/modules/comment/src/Form/ConfirmDeleteMultiple.php	8ecda43626f515667927861dd462298a
@@ -697,9 +698,11 @@ M	core/modules/comment/src/Plugin/views/filter/UserUid.php	25f280bf9cc1dd5b0e5bf
 M	core/modules/comment/src/Tests/CommentAdminTest.php	109b64a7d2c9dae314bfeff0f5ba3e70
 M	core/modules/comment/src/Tests/CommentNonNodeTest.php	3b936e4df9e10d74c17217f76eef4ebb
 M	core/modules/comment/src/Tests/CommentTestBase.php	ad124334bd5031c8de363d4fe08adfec
+M	core/modules/comment/src/Tests/CommentTokenReplaceTest.php	c38e4847665494693c43ba574dd5feb6
 A	core/modules/comment/src/Tests/Update/CommentAdminViewUpdateTest.php	9a3f5a44ecbbed7396707cc98fabd659
 A	core/modules/comment/src/Tests/Views/CommentAdminTest.php	f4ed59a0df376321c7a146087905205b
 A	core/modules/comment/src/Tests/Views/CommentEditTest.php	ba38c530ebdc5ba9c2192f0746d5f33e
+D	core/modules/comment/tests/src/Functional/CommentAccessTest.php	
 M	core/modules/comment/tests/src/Functional/CommentStatusFieldAccessTest.php	b4c9e9d01e014bb517a374df0783c88c
 M	core/modules/comment/tests/src/Unit/Entity/CommentLockTest.php	cf58ab389b00f025d2ac75eadcddda1c
 A	core/modules/comment/tests/src/Unit/Plugin/views/field/CommentBulkFormTest.php	8bfd63804a49656fa1ca3219a0fc4683
@@ -1147,6 +1150,7 @@ M	core/modules/node/src/Entity/Node.php	b70e0298af4849f3afd832a7c159a255
 M	core/modules/node/src/Form/NodeRevisionRevertForm.php	caf8472b3ca880e60a9d27d46ed0b368
 M	core/modules/node/src/Form/NodeRevisionRevertTranslationForm.php	a0dbf04cebf1ca5769045985eb215bd8
 M	core/modules/node/src/NodeForm.php	ab0116c53f8f15e7959e9057c76c124f
+M	core/modules/node/src/NodeGrantDatabaseStorage.php	b35a24e911a37faa05463324f5874726
 M	core/modules/node/src/NodeListBuilder.php	0b01ad3ca1439a6a916206e194b9e147
 M	core/modules/node/src/NodePermissions.php	72a979dbee24d64f2a45c2afadaffee3
 M	core/modules/node/src/Plugin/Action/DemoteNode.php	d9915c6656f33a7e02845bb29c41619e
@@ -1159,6 +1163,7 @@ M	core/modules/node/src/Plugin/Action/UnstickyNode.php	4e6175d461484c41f84167eeb
 M	core/modules/node/src/Plugin/views/filter/Access.php	b8996ac7b96e2bc2653e3bd7be0fa7aa
 M	core/modules/node/src/Tests/PagePreviewTest.php	e6a7f62662593107e10ae73f5a98a184
 M	core/modules/node/src/Tests/Update/NodeUpdateTest.php	f78f88b3d4febefcd0ff969ef0572584
+D	core/modules/node/tests/src/Functional/NodeAccessLanguageFallbackTest.php	
 M	core/modules/node/tests/src/Functional/NodeEditFormTest.php	99ea4d771e58449da3366a948d96974a
 D	core/modules/node/tests/src/Functional/NodeFormButtonsTest.php	
 M	core/modules/node/tests/src/Functional/NodeRevisionsUiBypassAccessTest.php	e80b4a745451a13a3e4cfffb8b09883b
@@ -1537,6 +1542,7 @@ M	core/modules/tracker/tracker.pages.inc	62578d4aee2553430860cc28f7113451
 M	core/modules/update/src/Form/UpdateManagerInstall.php	ce8b47d08b7116195c100203b750b6cf
 M	core/modules/update/src/Form/UpdateManagerUpdate.php	02a0a83ae3df00bb8d5423695915a669
 M	core/modules/update/update.manager.inc	d95c79da014c374ff3ea076d4ef508ab
+M	core/modules/update/update.module	dbb1b964b71c0b0685ad1e0dd418c832
 M	core/modules/user/src/AccountForm.php	4594474a18c6072d31d6d00f4847b8a9
 M	core/modules/user/src/Controller/UserAuthenticationController.php	ddee75c63b6b370c24e1889a307777d7
 M	core/modules/user/src/Plugin/Block/UserLoginBlock.php	44423a66116a86a780580cfc441fa877

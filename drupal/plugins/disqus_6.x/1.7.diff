@@ -1,8 +1,0 @@
-M	disqus.admin.inc	e8dabff208a81ac8fdf40f853237ff2d
-M	disqus.info	78ac7f25d9376f94fbef7dbc1ddaa313
-M	disqus.install	eecf554e4a50ba825d4cb0474931395e
-M	disqus.module	fbe023307a578894732d2abecf6ef3d5
-M	disqus_migrate.admin.inc	0c153bced7adff695238ac54cb6c58c3
-M	disqus_migrate.info	88473b525289dd8ec262f463352050ec
-A	disqus_migrate.install	df8366e9b933d7b8cbb5041d37fa28b6
-M	disqus_migrate.module	0fecf14b10e0b39d6aed37dd5055f0bd

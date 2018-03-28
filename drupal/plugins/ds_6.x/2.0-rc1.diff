@@ -1,8 +1,0 @@
-M	CHANGELOG.txt	87ed9afd8b2d96d5cb7c25d6eed95bf1
-M	ds.info	58d60fa06a4cd34e5a91bff45441c357
-M	ds.module	3b05a7cdd429de10c8385f58db6483e0
-M	ds_ui.info	a54dfdefb0a7beaf2d53649d72ebe7ea
-M	includes/ds.display.inc	26a310ccb5e7855df7a5abd5eedfc7e7
-M	plugins/ds_cssoverrider.inc	aec155bedc09b7f915bc300803c36e6c
-M	plugins/ds_emptyregionrender.inc	9a0907e72b8ef010bb3cdae4b7d98917
-M	plugins/ds_regiontoblock.inc	82ce568f772111d6f0d43b044c9e19c9

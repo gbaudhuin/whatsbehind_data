@@ -1,9 +1,0 @@
-M	CHANGELOG.txt	12d36a007c63776136daa315f6eee84b
-M	README.txt	7e75fa9ad2b958cf5ad014ccbc605077
-M	data.info	d468c2cda3d2a8cfb2cd153c5c51afa1
-M	data_node/data_node.info	6d1d44ffafd93dade9c6bed493223b76
-M	data_search/data_search.info	be2272ba86204ec5e93dd5e36c811d2f
-M	data_taxonomy/data_taxonomy.info	192f785a0048ae916d2a6b6806e37869
-M	data_taxonomy/data_taxonomy.module	c28d3051f6ada66d06fb3c1547c713ed
-M	data_ui/data_ui.info	a5c0db06232bdc6da5e680073a448b07
-M	data_ui/tests/data_ui_test.info	d4513480111206fd07a1c1044ce50532

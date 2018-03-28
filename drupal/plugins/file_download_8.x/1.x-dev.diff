@@ -1,8 +1,0 @@
-M	CHANGELOG.md	b8c290cfb0785d79264834ea17404650
-A	README.md	d16b5b33b281e3d362b6ec2501885a38
-M	file_download.info.yml	beafa6eb215663a375f8e4f61eef6b70
-M	modules/file_download_counter/file_download_counter.info.yml	f5f2711bbae71de632d5a54e62a65dea
-M	modules/file_download_counter/file_download_counter.module	9f967b598c822ecc491e75a31ce11228
-M	modules/file_download_counter/src/Plugin/Block/FileDownloadPopularBlock.php	50c328473a6a862499a3189896e869aa
-M	src/Plugin/Field/FieldFormatter/FileDownloadFieldFormatter.php	c4699aeafd392e5992b64f125738903d
-M	templates/download-file-link.html.twig	1c9719d609ea314423f1c545e38d4869

@@ -1,8 +1,0 @@
-M	js/uc_ajax_cart.js	be03f778f726f7aecf25e5682d81f422
-M	templates/uc_ajax_cart_block_content.tpl.php	c7dd289358eba6899e9b4dbe07b46524
-M	templates/uc_ajax_cart_block_content_empty.tpl.php	917e486e943d12eb073da2b11fae4f41
-M	uc_ajax_cart.admin.inc	14fbac5534b17b4c4607c0f3168a9855
-M	uc_ajax_cart.info	224d09ac549427564efd32a953c999c6
-M	uc_ajax_cart.install	797dda09cde34d43979c6da5094b5f64
-M	uc_ajax_cart.module	285b1ae3935a14f0c0998c954b25a491
-M	uc_ajax_cart.theme.inc	278918864b625b9f28cc5a0030785486

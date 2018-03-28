@@ -1,11 +1,5 @@
-M	contrib/profile2_i18n.info	50f26bcfb75a3897b2b0b3a487920c10
-M	contrib/profile2_og_access.info	9aeb8e933a82ee36a9875fa93a94e4dd
-M	contrib/profile2_page.info	a14217cdd61d3b45ef21ae93d9823c9d
-M	contrib/profile2_page.module	1f46e487af04628f09069a167c3d3995
-A	plugins/relationships/profile2.inc	86de84504b89b1b23ec168e41941f165
-M	profile2.admin.inc	469720209bf009a0f8b049b1d881857f
-A	profile2.devel.inc	51be9783407a81a5675514d11ff9f72f
-M	profile2.info	ccc3aeca09ae50e2eb11add0edc876e8
-M	profile2.install	1a3512708cdf7e09dccd7567d4b81cd7
-M	profile2.module	763ad308d4a27808a6d422c24507b131
-M	profile2.test	950610e5dc1f786d38ce9fd8cb0b046f
+M	contrib/profile2_i18n.info	b2749a0af1b7d1ce50a770f1992d51bb
+M	contrib/profile2_og_access.info	2159c2342f4b4f43815e02b5808e8916
+M	contrib/profile2_page.info	30fedd5b0948cfc2349336c5644b02b1
+M	profile2.info	7701c16e12720ed27a22bd8e40b27c06
+M	profile2.module	f7ac548027b2de013bbd3faba0bbe7e7

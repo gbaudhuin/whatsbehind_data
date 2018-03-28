@@ -1,8 +1,0 @@
-M	includes/node_field.api.inc	33c107199ebd6aa9b06b4a3c84a11dca
-M	modules/node_field_file/node_field_file.info	8763d273c870b87b8bc3a0a7a309962e
-M	modules/node_field_gmap/node_field_gmap.info	bb2ca54da26e72772d08aef2b010f1ac
-M	modules/node_field_range/node_field_range.info	baa43d8965fb7662b3d77065675a5963
-M	modules/node_field_sheet/node_field_sheet.info	5b37518c02a20d0700f0d1984bbea2b6
-M	node_field.info	8c83f8e15ebb5bbe2bcc2c424ecd23b2
-M	node_field.module	e9439b05abc7165f99133cd8ab356bf0
-A	tests/node_field.test	c16474ca84232738995d580a24a4cc5d

@@ -1,9 +1,0 @@
-M	CHANGELOG.txt	a85f5e3f1b962ffa6ac35850dd511fa7
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	chart.api.php	535fe3c1f27d49e6fd65181c3fd01885
-M	chart.info	340fbef0f8eb54d0502302f22f69b0af
-M	chart.module	270a111c464b8db9bd2a37124fa2679d
-M	chart_views/chart_views.info	4adb211fc3390ec8cf19528364b6a95f
-M	chart_views/includes/views/chart_views_plugin_style_chart.inc	b175287e514a4d6dfc0c47d6e6176ef3
-M	contrib/system_charts/system_charts.info	6ae56d15bb831ce8a2494299e9b57afa
-M	contrib/system_charts/system_charts.module	922c2a022ce123991f9a8039d7f162cc

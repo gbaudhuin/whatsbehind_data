@@ -1,6 +1,0 @@
-M	permissions_by_term.info.yml	7d3a9fe31cd415bb27c60a6060aa3999
-M	permissions_by_term.module	f5246831fe3edcbc18775722ad1d7f66
-M	phpunit.xml	74a77458ccc6e891761ebd7bce4fdcdb
-M	src/AccessCheck.php	0545cbe4a067df59df68c84411dfa308
-M	src/KernelEventListener.php	c76cee077a67e335e5ce350d258d5c67
-A	tests/src/Unit/Base.php	73600b33e80751e4a3bdcd542d527592

@@ -1,9 +1,0 @@
-A	.eslintignore	5b02eda54bc0f0a09cd739fc05d62655
-M	CHANGELOG.txt	d647e613ff87df4b3fdb805e21c99893
-M	js/ultimenu.js	560df6dccc622226bd69a7cbe10235e8
-M	js/ultimenu.min.js	e418d7da0eff52e4044ea240c20ee1ce
-M	src/Plugin/Block/UltimenuBlock.php	f0334b23da633e204feb4a2d5b61c5c2
-M	src/UltimenuManager.php	eafa21a27c451be59e6ba4664f136935
-M	src/UltimenuSettingsForm.php	30c5cbd9cb12ba5e2e7b52aabf43a9ee
-M	ultimenu.info.yml	33057afee94636cd42fa6f2d98a26a11
-M	ultimenu.module	f99bea5ceadd1ebd76541d4650fbb793

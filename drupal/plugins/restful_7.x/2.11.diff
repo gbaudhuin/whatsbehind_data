@@ -1,8 +1,0 @@
-M	modules/restful_example/restful_example.info	548e39c6cae46453d6362e0d69c88b99
-M	modules/restful_token_auth/modules/restful_token_auth_test/restful_token_auth_test.info	3728789c1d0434c9a661a974f4fb8440
-M	modules/restful_token_auth/restful_token_auth.info	a9374b4ff09ec6967271405d7be43e2c
-M	restful.info	db1d2ba9baecdc3abfffe9eb00585a86
-M	src/Plugin/formatter/FormatterJsonApi.php	89e897d8529e21a18f5167e0e6af6dd6
-M	src/Plugin/resource/DataProvider/DataProvider.php	78034ac15d3956accd826cc98fc71b95
-M	tests/modules/restful_node_access_test/restful_node_access_test.info	34f460645651a84b6a5e1941f0b7dd41
-M	tests/modules/restful_test/restful_test.info	42e3d15ae63d43621e81a46e7c2a59b6

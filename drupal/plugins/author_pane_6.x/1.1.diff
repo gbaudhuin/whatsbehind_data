@@ -1,6 +1,0 @@
-M	CHANGELOG.txt	a4398fbc751f78d37812afc9545b5130
-M	author_pane.info	05444ad5f8373a03d6e3609fe552ff28
-M	author_pane.module	97a49d9394d937be77529e3ed64ba4e7
-D	panels_content_types/author_pane.inc	
-A	plugins/content_types/author_pane.inc	faa4b71d180ec01666a0a5441129710e
-A	translations/ja.po	22ddb5e211dd6433e23cb43c29c1aa89

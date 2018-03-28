@@ -1,5 +1,0 @@
-M	permissions_by_term.info.yml	2849f0ff195091d3afab3a8381b03618
-M	permissions_by_term.module	78626e5e7fcb2cb67d1d722610fcda2f
-M	src/AccessCheckService.php	a51ce1795480bd8e2ed93a673c2cdecd
-M	src/AccessStorageService.php	2b96074b8a78532e9e939f0fa9edeb0a
-M	src/Controller/PermissionsByTermController.php	33bfbf7e9198f22696351f6229ebc130

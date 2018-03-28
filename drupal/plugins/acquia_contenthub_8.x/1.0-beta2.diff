@@ -1,9 +1,0 @@
-M	acquia_contenthub.info.yml	eb6bccaa73a25c25161e7fa1dd0b5576
-M	acquia_contenthub_subscriber/acquia_contenthub_subscriber.info.yml	e716bf459239401164d98384062dae54
-A	acquia_contenthub_subscriber/ember/assets/ch-ember-app-0bed04cdf545a652a24fd827fce5e6ef.js	eff740123f6c9749d290fb56d0f90d8e
-D	acquia_contenthub_subscriber/ember/assets/ch-ember-app-bb9cd92d014b72354d0e3a52585b4848.js	
-D	acquia_contenthub_subscriber/ember/assets/vendor-6938d2c7879a810b76cfd4ad389226ef.js	
-A	acquia_contenthub_subscriber/ember/assets/vendor-bf3d620dd8640bc8cb32f1c6b437df3d.js	bf3d620dd8640bc8cb32f1c6b437df3d
-M	acquia_contenthub_subscriber/ember/index.html	43c0bba4d016bd74659401dc03bc5340
-M	src/EntityManager.php	75ce9036714bf615797aba9e4d513767
-M	src/Normalizer/ContentEntityCdfNormalizer.php	82365fc13106396e3fc17bb7644aa493

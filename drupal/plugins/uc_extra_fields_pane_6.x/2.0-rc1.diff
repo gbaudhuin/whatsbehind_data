@@ -1,9 +1,0 @@
-M	CHANGELOG.txt	ea7bdd11eb29600a6013347e9943ec95
-M	class/UCXF_Field.class.php	752a295869ae6cc7e31889e413efd734
-M	class/UCXF_Value.class.php	ab927b9bfc75aa3a35b43dcbdc7b1d5a
-M	includes/addressfields.inc	e79db4006c70c4ccd38f6406f9ff41c4
-M	includes/weights.inc	487c22cd182e2be224825d9417378485
-M	uc_extra_fields_pane.admin.inc	780854a4ffd105ad42dd251a67324e4c
-M	uc_extra_fields_pane.info	42f3cbeb471e487c5cd1d2ec5fa2cd3e
-M	uc_extra_fields_pane.module	2710f7368cf77fe2f04831c24d282118
-M	uc_extra_fields_pane.test	e4c985a7731545131ba2e7987b76c3e5

@@ -1,9 +1,0 @@
-A	addons/nodequeue_service/nodequeue_service.inc	987f865ce9a4ed656353bc1877931a72
-A	addons/nodequeue_service/nodequeue_service.info	6cf66e29956788f67420c8ccd20e5c4a
-A	addons/nodequeue_service/nodequeue_service.module	1f3e20560a418f3cb364ab1ff60c0368
-M	nodequeue.info	7522571e99037cdf1c9a26ad9c5463b2
-M	nodequeue.module	5ee9b669aeaa85e4ce6267940356ceb1
-M	nodequeue_generate.info	9ca3fc7df3612dc5578a50e7fbfac8b4
-M	nodequeue_generate.module	8c11b6c56c8bc7d2366cb9fdf6bf4e79
-M	smartqueue.info	0f96daf84d980f76b28cded0b0d5854a
-M	smartqueue.module	9d6224911da52390c537953890835fcc

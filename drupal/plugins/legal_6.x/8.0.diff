@@ -1,9 +1,0 @@
-M	LICENSE.txt	998ed0c116c0cebfcd9b2107b0d82973
-M	README.txt	13ee08439fa41069b6a4a659e06234a9
-A	legal.admin.inc	ad32d259f9e6e0c3b89b82a6a6bac658
-M	legal.info	84b5a8d1b9807df1e733d2fe5e677ba0
-M	legal.install	3747b4c825c4dcc64195dccdc370d5df
-M	legal.module	0a3412a15efb82a1cc1b252a85fcc949
-A	legal.pages.inc	c190216f778e90aaf1c8cbe6d4541ef4
-A	legal.test	571d833046c9ae601a3dc3c7e1654606
-D	tests/register.test	

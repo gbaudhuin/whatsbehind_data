@@ -1,6 +1,1 @@
-M	addtoany.info.yml	ac279119d8ff559e6931a37d9dc85352
-M	addtoany.module	9740e269229f33e6650c1f3209e5ac71
-M	addtoany.views.inc	0c4474cc81ca6b5e34badaabc4fcf27f
-M	src/Form/AddToAnySettingsForm.php	f1e95b941731e7ad0ca6da990f79c56c
-M	src/Plugin/Block/AddToAnyBlock.php	1c6798bcaaef1887786cf26421070ac1
-M	src/Plugin/views/field/NodeAddToAnyShare.php	cb329b69808ea78615fa49f88921d09c
+M	addtoany.info.yml	2c9ffa1f1bf032a04831f3c0a7a4023a

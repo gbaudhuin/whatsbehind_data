@@ -1,5 +1,0 @@
-M	like_dislike.info.yml	222a26f4165f1ce127f42f1a1f19954e
-M	like_dislike.module	1e645239904be56138899d80eef03f6c
-M	src/Controller/LikeDislikeController.php	9387ffb64b45eb61f892bfed8809e47e
-M	src/Plugin/Field/FieldFormatter/LikeDislikeFormatter.php	999864b9303c9cf3cd6fe00661c7447a
-M	templates/like-dislike.html.twig	48adda69348bd7f596221afbd6e54bca

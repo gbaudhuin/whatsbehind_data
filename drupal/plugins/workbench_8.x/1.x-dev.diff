@@ -1,6 +1,2 @@
-M	CHANGELOG.md	e5516e84a07002d9b6e71e9c10eaaaf1
-M	src/Controller/WorkbenchContentController.php	d0caa2b15b9dc7fc5f270c19db068400
-M	src/Plugin/Block/WorkbenchBlock.php	cbb55c4fb059e076a2c0fe2193450da7
-M	workbench.api.php	e8df3223705803ea5efd2542b884e6ed
-M	workbench.info.yml	a60a7ebef70f3b05b3804d9923c0c73f
-M	workbench.module	b6a9a0c550c5bf19f10ad5076f388cd4
+M	CHANGELOG.md	3dfe99acc49773c59bdc8d5955a29064
+M	workbench.info.yml	51a4d6b9bb0d9f12fb45e5f8f64b55b7

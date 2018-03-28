@@ -1,4 +1,2 @@
-M	reroute_email.info.yml	10aedb4d40f44bde64344b2d2a48f40b
-M	src/Form/RerouteEmailSettings.php	642814d323bab810e5e7c8650c9b2d25
-M	src/Form/RerouteEmailTestEmailForm.php	88fb661a4c403bf67b4fc86578f1c19b
-M	test_modules/reroute_email_test.info.yml	fb6046facb3325c456c71324740cba03
+M	reroute_email.info.yml	0ffa670eb52a08097509bf95aabc5ded
+M	tests/modules/reroute_email_test/reroute_email_test.info.yml	19b4a7cd887d3ca362984e29cf458ec2

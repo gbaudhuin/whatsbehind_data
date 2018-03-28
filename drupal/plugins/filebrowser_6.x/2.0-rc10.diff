@@ -1,6 +1,0 @@
-M	filebrowser.info	34edb1cc22d7728ca1c0b696e1951b33
-M	filebrowser.install	017f85eed64c7bbb01aacf0dacfe2bab
-M	filebrowser.module	e3086a0d4fd974c05f29bb9f292c3c36
-D	logger.inc	
-A	logger_stub.inc	c666054f5b9fe1066f051980af04338a
-D	translations/filebrowser.pot	

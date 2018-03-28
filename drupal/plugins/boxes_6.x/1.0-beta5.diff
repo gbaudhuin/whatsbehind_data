@@ -1,8 +1,0 @@
-M	README.txt	27cb2726bffff9f7b53c13ee012a6e5e
-M	boxes.admin.inc	11024ee00dbb5df71fe394864ad590f9
-M	boxes.info	1f30cd1643a0b9e13df0be12565992ea
-M	boxes.install	b66e46a6d24c0fd29a466100c870e914
-M	boxes.module	6b7b13252ce6f181930f6385093ff91a
-A	plugins/boxes_box.inc	6b1919d538e0fba8a8b9317e94c5d4cd
-A	plugins/boxes_simple.inc	6c95d7cf6cf8ce18a7b8e8cda93929e3
-M	plugins/spaces_controller_boxes.inc	bf9f7ba295957dc805e28d95839bdc8b

@@ -1,10 +1,12 @@
-M	config/install/datalayer.settings.yml	fdfb3e74cea3a189aa21119e3386cd65
-M	config/schema/datalayer.schema.yml	761157c0caf5c22e25d85884f9ce3f78
-M	datalayer.api.php	c939ea8753587feb6f038b57103d2b67
-M	datalayer.info.yml	fe12da6c418e25553d1dc178c762ae35
-M	datalayer.module	cd021d6477ab45493f00cc34cac92d24
-M	src/Form/DatalayerSettingsForm.php	8c3e5b1b2c5f8419d25dcf358aa4b975
+M	README.md	949f8e8e3fbcc21c4fcd7f80478f579c
+M	config/install/datalayer.settings.yml	fddd415ebe1a817f18a1634c5d5ebe01
+M	config/schema/datalayer.schema.yml	59cdac0376361a0a30eb8a9d1deced82
+M	datalayer.api.php	5ba55cf3f00c8dbf94ca451d9e2842f2
+M	datalayer.info.yml	570d19604dcfc03fd9eca35de7ff1384
+M	datalayer.libraries.yml	b1b0556293bd1b6ce02593528e24fffc
+M	datalayer.module	f2c5a8857b25cf7b535564c4334a6c2c
+M	src/Form/DatalayerSettingsForm.php	896cb36dfa886fc9811ee6721dfeb2d8
 D	src/Tests/DataLayerUnitTests.php	
 D	src/Tests/DataLayerWebTests.php	
-A	tests/src/Functional/DataLayerFunctionalTests.php	97aeb0fb3aa9da13be288414da386021
-A	tests/src/Kernel/DataLayerKernelTests.php	8e365683fb74fefc68c1dc8ecb05669e
+A	tests/src/Functional/DataLayerFunctionalTest.php	aa79d1d8ad8fd2151fbe4a034992245c
+A	tests/src/Kernel/DataLayerKernelTest.php	0fa2670a5e1e481f49159c21fded22b1

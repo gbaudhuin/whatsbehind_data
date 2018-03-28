@@ -1,9 +1,0 @@
-M	contact_emails.info.yml	6148cc2af8d9cd43417ae40744dfedd7
-M	contact_emails.module	20f984979162ec4aaf0d3af33ee6cdc0
-M	contact_emails.services.yml	ccd52a874c25b0101f6cba502a1247f2
-D	src/ContactEmailerService.php	
-A	src/ContactEmailerServiceProvider.php	059a96554ea147bfd414027d3d93404b
-M	src/ContactEmails.php	ffd2fc604fba49074b9c003a2d415981
-M	src/Controller/ContactEmailsController.php	652abdfd5146cb3099066aeec390b2cb
-M	src/Form/ContactEmailDeleteForm.php	b73a8165fce9074113b0b0896e264af8
-M	src/Form/ContactEmailSettingsForm.php	d4109bfdac03e34d9949b3d0cb423a9a

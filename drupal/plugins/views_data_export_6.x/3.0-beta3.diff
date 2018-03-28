@@ -1,6 +1,0 @@
-M	migration/views_data_export_migration.info	515b261ee9c5373d142b928ebe154300
-M	plugins/views_data_export_plugin_display_export.inc	b14a28623bf8d042c4cbee96cd079681
-M	plugins/views_data_export_plugin_style_export.inc	f03ce2ace65ddd0be184f70aab17dde0
-M	views_data_export.info	0f9acd2d902626db7b1dba7f9e350b1d
-M	views_data_export.install	5db9bd0ef311aca042a34cdd995d0015
-M	views_data_export.views.inc	b48caa0206e16fb6c46cd28033783f7f

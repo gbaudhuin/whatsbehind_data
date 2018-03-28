@@ -1,8 +1,0 @@
-A	README.txt	61c5d56944f4da82f9f47688cfc07818
-A	l10n_update.api.php	c68e15dd1d8f62156f92874a0ec70d3f
-M	l10n_update.batch.inc	c9f08432b3ed154c5f3ba15e2b2c6157
-M	l10n_update.check.inc	58b9918121768ae8b2863419a367b2f2
-A	l10n_update.drush.inc	3f32a55653a46ea431fd149564617b81
-M	l10n_update.info	8be169fad42563741a7dda54019233e1
-M	l10n_update.install	6f5b53a28b1cf8d3f5cdbd5b1e826845
-M	l10n_update.locale.inc	2850b791b38797fb7ad944cef29091f0

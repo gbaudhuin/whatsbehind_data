@@ -1,11 +1,3 @@
-M	charts.info	40e2953473e46c66b0ba694da8cb5dbd
-M	charts.module	5d835dfe967281d34a78ad9538918f11
-M	includes/charts.examples.inc	9742970a42a2402d35ec5fee3a6fdc5d
-M	includes/charts.pages.inc	47879984aaf3ad9e81d889d677df98f4
-M	js/charts.admin.js	29c98f945122dfc177abf0e49bcbef2b
-M	modules/charts_google/charts_google.inc	61dfa8f769b44a9717e42599cf08d488
-M	modules/charts_google/charts_google.info	1575cec3d5557f2670557e2931329044
-M	modules/charts_highcharts/charts_highcharts.inc	0c9c6b7296371c25ecf5614a9048ae6b
-M	modules/charts_highcharts/charts_highcharts.info	7151935bd381342b296f96e2dd5e7273
-M	views/charts.views.inc	3d4e6bceccf00bebe1c82ec6bb087b11
-M	views/charts_plugin_style_chart.inc	1ca57ae4f3ebcdffa2c99a677604a4d7
+M	charts.info	84afcfe241c6b3beaa2e5082f39fa54b
+M	modules/charts_google/charts_google.info	848559cc6e0cb8357a6cf0c56ba575aa
+M	modules/charts_highcharts/charts_highcharts.info	065522d5fb14e4cd5d724c83e130d83f

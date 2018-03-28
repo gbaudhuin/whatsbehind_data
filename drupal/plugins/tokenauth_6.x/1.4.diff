@@ -1,7 +1,0 @@
-M	README.txt	d19a8b747fbaf578ab5463e4ab177b64
-A	plugins/tokenauth_context_condition_tokenauth.inc	9f4aa1e39ae8372a2a348017f1aeae4b
-A	tokenauth.drush.inc	c42b5c26526a016b8005515497517489
-M	tokenauth.info	fbf31defecbcdba3b09438a6658021ac
-M	tokenauth.install	a0c4f77a2431ade224b2cef26f1f710c
-M	tokenauth.module	42cecb391b5cf87403d170366d9a408d
-A	tokenauth.pages.inc	a8150d07a798c9d4251e5daa472d7a37

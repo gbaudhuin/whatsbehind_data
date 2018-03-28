@@ -51,7 +51,6 @@ D	scripts/travis/vhost.txt
 D	src/AutoConnector.php	
 D	src/Client.php	
 D	src/ConnectorException.php	
-D	src/Controller/MigrateController.php	
 D	src/Controller/ModuleDataController.php	
 D	src/Controller/SecurityReviewController.php	
 D	src/Controller/SpiController.php	
@@ -63,12 +62,10 @@ D	src/CronService.php
 D	src/CryptConnector.php	
 D	src/EventSubscriber/InitSubscriber.php	
 D	src/Form/CredentialForm.php	
-D	src/Form/MigrateForm.php	
 D	src/Form/SettingsForm.php	
 D	src/Form/SetupForm.php	
 D	src/Form/SpiChangeForm.php	
 D	src/Helper/Storage.php	
-D	src/Migration.php	
 D	src/Subscription.php	
 D	src/Tests/AcquiaConnectorModuleTest.php	
 D	src/Tests/AcquiaConnectorSpiTest.php	

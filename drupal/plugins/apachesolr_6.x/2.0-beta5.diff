@@ -1,9 +1,0 @@
-M	CHANGELOG.txt	173c281f2465b2bcdb8584c346f00e7c
-M	apachesolr.index.inc	690d331cb46ac83858debd918913a172
-M	apachesolr.info	9e10d10ad3c5e16bf9a55ac5b4695e9e
-M	apachesolr_search.info	86250e14a6fd9c239ad1bd80cbe79385
-M	contrib/apachesolr_commentsearch/apachesolr_commentsearch.info	c83f4bb89e97946b7e814ba113ff6183
-M	contrib/apachesolr_date/apachesolr_date.info	1182f2ef440d6331e518961abf1b44d4
-M	contrib/apachesolr_image/apachesolr_image.info	3fa935890b0cb0a7bf27525d19d12f3a
-M	contrib/apachesolr_nodeaccess/apachesolr_nodeaccess.info	64eb9e537c0ba80f2a1d9b7d5164afb1
-M	contrib/apachesolr_text/apachesolr_text.info	c0a716ff2b43f022668ea80c34f5087a

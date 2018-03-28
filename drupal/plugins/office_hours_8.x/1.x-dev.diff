@@ -1,31 +1,6 @@
 M	css/office_hours.css	717c74682ed5fea656e7dc400c6fe2d9
-M	js/office_hours.js	08b7efb3c5180517a44340142c5258fb
-M	office_hours.info.yml	f766a185e1afaed1a429b2f76bf8c47e
-M	office_hours.install	c6e3e84922fb2da33f7dabc0f29c43de
-M	office_hours.libraries.yml	3e5acbe3ece41efc727c867827f6a805
-M	office_hours.module	871b4be3caab237bdc57ee2c1cf14bfe
-M	office_hours.views.inc	5ba26ee4c4b0c68859e659e65990cb39
-A	src/Element/OfficeHoursDatelist.php	03b9594eceb7f996411fb67bb3346990
-A	src/Element/OfficeHoursDatetime.php	e9f75139040dc045cd74c6982d6fb32d
-M	src/Element/OfficeHoursList.php	97d33c6de4149566d721d90d82fc1a9e
-D	src/Element/OfficeHoursSelect.php	
-M	src/Element/OfficeHoursSlot.php	ec39b19bcc68d60da301f0595e3e6837
-M	src/Element/OfficeHoursTable.php	a88439d98bd663ff3d23baabf564e0bd
-M	src/OfficeHoursDateHelper.php	dc903f995c5b2758059454d6b02df1c9
-D	src/OfficeHoursListInterface.php	
-D	src/Plugin/Field/FieldFormatter/OfficeHoursFormatter.php	
-A	src/Plugin/Field/FieldFormatter/OfficeHoursFormatterBase.php	1aa2830ea464b3d328f76595c28ca95c
-A	src/Plugin/Field/FieldFormatter/OfficeHoursFormatterDefault.php	911b32092bdf5f62c8cea6351d87dbcc
-A	src/Plugin/Field/FieldFormatter/OfficeHoursFormatterStatus.php	c1c467b5cbb22f8e0856c3b2423ac293
-A	src/Plugin/Field/FieldFormatter/OfficeHoursFormatterTable.php	61056d64015daea44e8cfec11b337cea
-M	src/Plugin/Field/FieldType/OfficeHoursItem.php	150a79be96871cdf539566f1bccb81d2
-M	src/Plugin/Field/FieldType/OfficeHoursItemList.php	0c6135b12f1ee8f6fd0d9bde59f63aba
-A	src/Plugin/Field/FieldType/OfficeHoursItemListInterface.php	cd7ed946470505e043986157ee49e187
-M	src/Plugin/Field/FieldWidget/OfficeHoursDefaultWidget.php	0d2cb24d4fda9aa8dc325c5c51cf0db5
-M	src/Plugin/Field/FieldWidget/OfficeHoursListWidget.php	a2ca86ae3cc1ccd3a88727b0bcce2ab0
-M	src/Plugin/Field/FieldWidget/OfficeHoursWidgetBase.php	4fb2153c8405f7150f42a92ca5da9cd0
-A	src/Plugin/migrate/cckfield/OfficeHoursField.php	3b9ca14b080b237d2192911a0e3aa422
-A	src/Plugin/migrate/process/OfficeHoursField.php	87c79c9426b9ed421d583cf5b770a5f6
-M	templates/office-hours-status.html.twig	bb588e65687a66dbfd504fa992400c4f
-A	templates/office-hours-table.html.twig	5c70056202635a0fa3d6aca8934fc2cd
-M	templates/office-hours.html.twig	8ddf151cd811ff9299c3a535898842c3
+M	js/office_hours.js	d59cfb5e9c5426bc5f834215ec027252
+M	office_hours.info.yml	16040e4b5571a93bbf21c0aa9b9865b0
+M	src/Plugin/Field/FieldFormatter/OfficeHoursFormatterBase.php	364e4fcf2d6bf6a71bfb1a11a281a5a5
+M	src/Plugin/Field/FieldFormatter/OfficeHoursFormatterDefault.php	bd8f3a617acb654a61b97f55d59bc650
+M	src/Plugin/Field/FieldType/OfficeHoursItemList.php	ac514a37adb8de926d1cd5a6f3a1b9dc

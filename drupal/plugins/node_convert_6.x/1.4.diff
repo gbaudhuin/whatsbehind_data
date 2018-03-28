@@ -1,8 +1,0 @@
-A	README.txt	c5e5c70d4c9aacd33fc0e6e505c1478a
-A	TODO.txt	6ce5694975c77568f17188f726725ddd
-M	includes/book.node_convert.inc	638db29222b38cbb94d90b84c5945d52
-M	includes/forum.node_convert.inc	19d78de6d5be2491023336fe6cd3f1a1
-M	node_convert.info	24729fc335ee696821afa4c02319143f
-A	node_convert.install	071c63bdf12143e3fe2e18f2c8e3f414
-M	node_convert.module	e233befefee47a18c113f1c0fc812ce2
-M	node_convert.test	6e59bc0f2dfdb397cf981290ae0d335f

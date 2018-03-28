@@ -1,8 +1,0 @@
-M	CHANGELOG.txt	b4b9b615fe2c7f3da02073b0ab8f158d
-M	README.txt	18b05b8fc7c9c7b77cf2d2d1dc69e661
-M	custom_formatters.admin.inc	a9b20e8cfaa50d4ec224c565e3758338
-M	custom_formatters.info	d8739f45bcc22b58ee69cf321c827d7e
-M	custom_formatters.install	fd48af1b456585dcd1d94670ab2d18e2
-M	custom_formatters.module	8f4695603e4c737e8eb458bc97c0d4cb
-A	custom_formatters_export.tpl.php	5e3134e6b77f48ba90210da135877e7e
-A	translations/custom_formatters.pot	57745614d24f659ed00d9374162e445a

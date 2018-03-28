@@ -1,8 +1,0 @@
-M	sqlsrv.info	5655bcd4f7c56589afa264111b3043e1
-A	sqlsrv/context.inc	b872018936c61574e40a11abf478ba9a
-M	sqlsrv/database.inc	f8a99431cc0e390e0f25383019c36fe5
-M	sqlsrv/fastcache.inc	7c08e509931813d79d5e738e1be4a52c
-M	sqlsrv/query.inc	719aec5704116f37d889a3e82d7167a5
-M	sqlsrv/schema.inc	8ae9d115351ca145c3493c775ee56a21
-M	sqlsrv/transaction.inc	13f4b21763decaf4e181f2b12ceea70d
-M	sqlsrv/utils.inc	754f1683e30a7bb8de9abe4d06295ce1

@@ -1,8 +1,7 @@
-M	empty_page.info.yml	633d440f7fa804dff46f3ba670ba5071
-M	empty_page.install	c37b7e56698951ee0f55c2e66e185929
-M	empty_page.permissions.yml	1370dc834740be344136666384f55d9f
-M	src/Controller/EmptyPage.php	40a7be0ad74ef313dd202ab33ba293c0
-M	src/Controller/EmptyPageController.php	fd5e32c7708045d101e991773548887d
-M	src/Form/CallbackDeleteForm.php	0b877e042f012e3923ed636eb679c2b4
-M	src/Form/CallbackForm.php	0eb7648af9b98f28ef71ffcaeffa5c86
-M	src/Routing/EmptyPages.php	b8683d4f6cd5e9f3dd0e2cb9eaf33344
+A	config/install/empty_page.settings.yml	2763226406f3d9f634263ab14aa7fc5d
+M	empty_page.info.yml	8b32ce9af4a5f8dd6a10ef027a9a9e3e
+M	empty_page.install	baffb4c3f1d6339865fc1c7fe6afb334
+M	src/Controller/EmptyPageController.php	3bd1de314ac88d973d61d610fb55ed4a
+M	src/Form/CallbackDeleteForm.php	b464e335f024aff9f166884e401503f4
+M	src/Form/CallbackForm.php	7f1a72ed69c2832cf96ea15c9419d5a4
+M	src/Routing/EmptyPages.php	1a4992228f854b1dcdbddc8661cf4b24

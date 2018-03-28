@@ -1,2 +1,3 @@
-M	contact_ajax.info.yml	de65d575a2572b137051762dd5b0b772
-M	contact_ajax.module	4cf77513d793b5d700afcd36149aaa10
+M	contact_ajax.info.yml	c52151735bd2d9d09c8109e7ca6aa6fc
+M	contact_ajax.module	c31577353fcd928d0c66220f2f0439a8
+M	src/Tests/ContactAjaxTest.php	feb3527c5f624e1fb6e8581037aad9dd

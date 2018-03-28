@@ -1,5 +1,0 @@
-M	README.md	42eee78801b840ab53eb0017daa2b64c
-M	jdrupal.info.yml	004eb31565c4df7d2c3cb10dea610663
-M	js/jdrupal.min.js	2626201b76544868df9a65fc4f362313
-A	src/Tests/jDrupalConnectTest.php	646b61dcc193199a5636f17474929b20
-A	tests/src/Unit/JDrupalConnectTest.php	646b61dcc193199a5636f17474929b20

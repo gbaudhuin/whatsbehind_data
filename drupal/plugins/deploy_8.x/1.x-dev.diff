@@ -1,6 +1,1 @@
-M	.travis.yml	e02c4bc4224f1967c3cecb5f5a98a7b4
-M	deploy.info.yml	c3565ac4d61ba6a47a5472cfbaac2ab4
-M	deploy.module	bc1be73d965b3afb3a4f87fcf3f9c04a
-M	src/Entity/Form/ReplicationDeleteForm.php	86bf9b388f8772f27f688f89543b341a
-M	src/Entity/ReplicationViewsData.php	015e5af52f590fe1d6a313097d4162d6
-M	src/Form/ReplicationActionForm.php	0bc1a75a1b210b08bf9b006bbf4d6953
+M	deploy.info.yml	af290c6999358605120c2f82f3979a70

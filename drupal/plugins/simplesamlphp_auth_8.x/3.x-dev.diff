@@ -1,4 +1,2 @@
-M	simplesamlphp_auth.info.yml	808ea91859cdfd707ce5a275e6162618
-M	simplesamlphp_auth.install	cd56676f9f1fd8144f0cde1e783f5f04
-M	src/Service/SimplesamlphpDrupalAuth.php	8193885a6bdbedbc28bcd36370f4a94f
-M	tests/simplesamlphp_auth_test/simplesamlphp_auth_test.info.yml	472ad17abe0c05230fc0a0d7f2070154
+M	simplesamlphp_auth.info.yml	e2f70aae71cd461f7ef39b814080dd00
+M	tests/simplesamlphp_auth_test/simplesamlphp_auth_test.info.yml	2a4c06f6bd218d0596061f1f8c4be677

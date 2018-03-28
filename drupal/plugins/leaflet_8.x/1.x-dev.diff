@@ -1,10 +1,4 @@
-M	README.txt	b9ebb83c4020a4b164b58b2953af9788
-M	composer.json	808a10d941b11444fe540b93d17af843
-M	leaflet.api.php	63d46944ac8659c0b3b355c45ad68dbb
-M	leaflet.info.yml	e359b58f461cee2eb765334022192145
-M	leaflet.libraries.yml	8ecf9d4159d26219061ca2e9ce4563c5
-M	leaflet_views/leaflet_views.info.yml	779875a1b26df3acda2c40cf7c7013bb
-M	leaflet_views/src/Plugin/views/row/LeafletMarker.php	213ca7e137e2960642b5ecac6a840b4a
-M	leaflet_views/src/Plugin/views/style/LeafletMap.php	cd8ac24ef13e2c22dd69ab013eefe038
-M	leaflet_views/src/Plugin/views/style/MarkerDefault.php	52fa995bd3ef1a9ce43ba7ae1b1aaa59
-M	src/Plugin/Field/FieldFormatter/LeafletDefaultFormatter.php	6bcf306c123b7b52b403268e533d843a
+M	README.md	9dcd5b42ae54688346514f16fce79bcf
+M	leaflet.info.yml	bc2ec3e1ed3942711986f433e55d6624
+M	leaflet_views/leaflet_views.info.yml	410666568b2f74a6bcbe97be66bfabf1
+M	leaflet_views/src/Plugin/views/row/LeafletMarker.php	455fa6f00a06e4b4c77d302decb4c0a4

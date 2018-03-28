@@ -1,5 +1,0 @@
-M	services.info.yml	398ab1cb747bf18e2e719a24336fbc6e
-M	services_test/services_test.info.yml	152f48e68558ace8d34bb9c0852b2293
-A	src/Plugin/Deriver/AliasGet.php	a17050f0ddf01cabfa18b95460aed503
-A	src/Plugin/ServiceDefinition/AliasGet.php	d0f9e2d13123ffe2a5e10a7fe95b60c8
-M	src/Plugin/ServiceDefinition/EntityPost.php	0f6cd67efcfaae226e7903652a10e148

@@ -1,4 +1,0 @@
-M	facebook_pull.info	36dc7a3884ab21db091f5aa4a2e72ec9
-M	facebook_pull.install	a932e2310f460558991ffe366e5a6e2a
-M	plugins/facebook_pull_box.inc	f5d87ece46d90581ac2d7ec9e7b64030
-D	remove_variables_when_uninstall-2372227-1.patch	

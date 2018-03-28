@@ -1,5 +1,0 @@
-M	config_inspector.info.yml	ee954a23fb0b963f5273439cc07d05f7
-M	src/ConfigInspectorManager.php	ef66b2ab4a6963a8db9e6240ddc4f686
-M	src/Controller/ConfigInspectorController.php	a4936c5df378c890d358e5b9695a837b
-M	src/Form/ConfigInspectorItemForm.php	046b0d10568494fbfd5cbfb52c8119ad
-M	src/Tests/ConfigInspectorUITest.php	ef6b2126faf392aa90c7f6427cef3ec7

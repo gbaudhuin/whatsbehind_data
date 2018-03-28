@@ -1,7 +1,0 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-D	README.md	
-A	README.txt	0ec6820a588cfe6c4db0bb4ac0155fb1
-M	migration/views_data_export_migration.info	f8739369ed721e7222ffe425db99087d
-M	plugins/views_data_export_plugin_display_export.inc	5ebe99ae1809ffdcb594edbcf854fc33
-M	views_data_export.info	973a15210129cbca0f8203069419c2cb
-M	views_data_export.module	e97f7212458ac62d8b2e787a533cb3fc

@@ -1,8 +1,0 @@
-M	assets/coffee/moip.coffee	5e71841fdd39628548548b1a77c03a54
-M	assets/js/moip.js	1b9eb7cf1cafaca0a8368d7bd4efbac7
-M	assets/js/moip.min.js	c3af44c726a29cfd2f8ffe9768ddac59
-M	lib/Drupal/moip/Commerce/FormControllers/MoipCheckoutTransparenteForm.php	a2546b3cf1c4166271fa2667c5e797ad
-M	lib/Drupal/moip/MoipDrupal.php	45a99fef9d9003519dad5f6f2aa08d79
-M	moip.info	3eca9022c6db7af68c9dcf4260d41534
-M	moip.module	527590cfa231e9b0ae66b5efc75c69fb
-M	tpl/moip_ct_js_form.tpl.php	eef229763ad334fd332c4a413c6fcbd9

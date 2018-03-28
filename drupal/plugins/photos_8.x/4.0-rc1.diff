@@ -1,8 +1,0 @@
-M	config/schema/photos.schema.yml	22fdbaae0b5f3a4e2b3bbf076bdee741
-M	inc/photos.form.inc	8031b597ba59ed7b8dea5f53171bcfb4
-M	photos.info.yml	4e198a9ee4921c56d0ae35f0849bbc92
-M	photos.module	16d089ff8f7f390ed2969fe4456ab349
-M	photos_access/photos_access.info.yml	6442af721ba4d68295694942de1cb87a
-M	src/Controller/PhotosAlbumController.php	c19e2f1bfe4356306838a26bb8ab97d3
-M	src/Form/PhotosAdminSettingsForm.php	8d4046fe55d5ce278b6e8970b4ad648e
-A	templates/photos_image_colorbox_link.html.twig	68212d6c7e669551c95f46317ac17dac

@@ -1,7 +1,1 @@
-M	menu_admin_per_menu.api.php	085049659c1e554dc88f2f1a8e8f62ee
-M	menu_admin_per_menu.info.yml	964d94c6b11c5e3039301de85a3d2059
-M	menu_admin_per_menu.module	32b2f2a2e072f08c406d9c6a49137019
-M	src/Access/MenuAdminPerMenuAccess.php	567101629b2be55a76f2e6cd1b0d9b17
-M	src/Controller/MenuAdminPerMenuController.php	e72749b0c273bd6aab3c3a80aed552ae
-M	src/MenuAdminPerMenuPermissions.php	e32874b6578572cd944cdd61bf7894e5
-M	src/Routing/RouteSubscriber.php	010262b1a827cfc514ce4640b9eaa3bb
+M	menu_admin_per_menu.info.yml	53dd46db4926c4d33649bd3071e02c93

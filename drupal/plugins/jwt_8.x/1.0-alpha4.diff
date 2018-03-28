@@ -1,4 +1,0 @@
-M	jwt.info.yml	000a4a895bac24aa0443e8005e63accc
-M	modules/jwt_auth_consumer/jwt_auth_consumer.info.yml	336c0ad83e00bebd0791527baaa402a5
-M	modules/jwt_auth_issuer/jwt_auth_issuer.info.yml	7ab0127f7c916b97735613af8fb17b9d
-M	src/Validator/JwtValidator.php	aa0a22ba202eeadaa8331a9b084e9e9c

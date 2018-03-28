@@ -1,9 +1,0 @@
-M	expiration/rate_expiration.info	5a7a00f2463b6b08dcd20ac87b0874dc
-A	poll/rate_poll.info	febbfa2ae81e30aae7324bf0838e2ddc
-A	poll/rate_poll.install	afd028b57f5b4c8c2078fdd348253787
-A	poll/rate_poll.module	4f87f801edd7f5ee7a679ce7048ae98e
-A	poll/templates/poll/poll.css	68b329da9893e34099c7d8ad5cb9c940
-A	poll/templates/poll/poll.tpl.php	4ca9d5590a3ed874ee4679dda9167001
-M	rate.info	83563af2c53feb8821afea18eb60ec4d
-M	rate.module	3def3f593b93c07bf2402313f424477b
-M	slider/rate_slider.info	dea033377bfb81495912ab09f6187205

@@ -1,8 +1,0 @@
-A	.cvsignore	4586f6c028b8c68b87dfbf66b3574e37
-M	scheduler.info	58d81bd692463df42d3364927050b536
-M	scheduler.install	158601d62760737dc271890bb9b8e8a1
-M	scheduler.module	947b6ab05b5cd2f1894249d9564439d7
-M	scheduler.views.inc	630954fb15927cb40cf754e8bcc66872
-A	scheduler_handler_field_scheduler_countdown.inc	75184cf419aa79ab28afddb35815a08c
-A	translations/pt-pt.po	27e86ad1653a363a4245d359c89bd793
-A	translations/sv.po	079df752693104b416f85fd732777ba5

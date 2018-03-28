@@ -1,10 +1,4 @@
-M	chosen.info.yml	7d1b025b202e28e638197404a73f84f4
-M	chosen.module	4dfe32bf04171af98eeeb2f300a658b3
-M	config/install/chosen.settings.yml	f166b40a240cb748cd038e77c2f1c1cd
-M	config/schema/chosen.schema.yml	a51c561cb9ab29687b25c8450d214fb2
-M	modules/chosen_field/chosen_field.info.yml	8efd89fa893a21a0fb537651ff54b1dd
-M	modules/chosen_lib/chosen_lib.info.yml	a84c40be1352877fd31b55419497d274
-M	modules/chosen_lib/chosen_lib.libraries.yml	173cfa7fc326aa8d8fda975e08289e14
-M	modules/chosen_lib/chosen_lib.module	2fc49c533bdf114ec3a26eb457849564
-M	src/Form/ChosenConfigForm.php	f1c6ef0a88fde739bc2be48877e29fc0
-M	tests/modules/chosen_test/chosen_test.info.yml	e07c624edf01332f53d6dae6a54987e7
+M	chosen.info.yml	efecb8ff3bc845ee38cdfc2371e67ba3
+M	modules/chosen_field/chosen_field.info.yml	fa0049c78a9c8884fc6b22af3be859bc
+M	modules/chosen_lib/chosen_lib.info.yml	68f7ff308936809fa45d10b6cff27bcf
+M	tests/modules/chosen_test/chosen_test.info.yml	34a8e306230ffa4b331d33fdb7405ff0

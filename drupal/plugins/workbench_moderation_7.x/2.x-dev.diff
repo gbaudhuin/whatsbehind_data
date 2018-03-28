@@ -19,7 +19,7 @@ A	modules/workbench_workflows/plugins/export_ui/workbench_workflows_ui.class.php
 A	modules/workbench_workflows/plugins/state_flow_entity/workbench_workflows_ignore.inc	f63c1cde791553ad7b07e2c51911f6a4
 A	modules/workbench_workflows/tests/workbench_workflows.test	0dc8b8a1d495c636e695d511d30173c9
 A	modules/workbench_workflows/workbench_workflows.admin.inc	a42718f9914c13851d7f43f5e6cface5
-A	modules/workbench_workflows/workbench_workflows.info	da00994cf25f6e655516f02fe3e9e284
+A	modules/workbench_workflows/workbench_workflows.info	4a94a8f3eeedbf57fc663acac9683dc3
 A	modules/workbench_workflows/workbench_workflows.install	60c1b261447a8fff3c225fe247728bde
 A	modules/workbench_workflows/workbench_workflows.module	b13efeaabbeef0a2ca649764daa2dde1
 A	modules/workbench_workflows/workbench_workflows.state_flow_entity.inc	f53e457242b04e27b0a6e5213f91976d
@@ -35,10 +35,10 @@ D	workbench_moderation.admin.inc
 D	workbench_moderation.api.php	
 D	workbench_moderation.features.inc	
 D	workbench_moderation.iib.inc	
-M	workbench_moderation.info	43d1ada42d8a0666939732266a25a0f8
+M	workbench_moderation.info	59c62613e7ad2f675ab0a8f84d1a1f7e
 D	workbench_moderation.install	
 D	workbench_moderation.migrate.inc	
-M	workbench_moderation.module	b8cb387c5bdcb3a8145262ee1c7821bf
+M	workbench_moderation.module	ca30247f19f3a67e09de729ec16a25c5
 M	workbench_moderation.node.inc	1bd272bd5b68b2200221f1e1c26c07e5
 D	workbench_moderation.rules.inc	
 M	workbench_moderation.views.inc	601cbfb9fb1ae8217fbb57dff3954704

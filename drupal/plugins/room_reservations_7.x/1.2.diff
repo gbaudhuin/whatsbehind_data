@@ -1,9 +1,0 @@
-M	controller/room_reservations_calendar.controller.inc	eedf24c420c4b704420ed2b18ff6918d
-M	room_reservations.admin.inc	32c7a897fb6ad8fd5c2845b9c6e2fb53
-M	room_reservations.inc	b7a20deb60fbaa878a60b849fc4bc384
-M	room_reservations.info	d35886323fbc54b894956b33fe7d4218
-M	room_reservations.install	a99156388bca6339dbd97f011371d56c
-M	room_reservations.module	30a0253a16ce50423086bd7a483683a2
-M	room_reservations.node.inc	2cf5309dc0db2353331e0c63578c08cf
-M	room_reservations.series.inc	3b8050ea0cb1c5cb29f1ab92822f4a3b
-M	view/room_reservations_calendar.view.inc	cebcb9bee7576150a7a86d84aa42f408

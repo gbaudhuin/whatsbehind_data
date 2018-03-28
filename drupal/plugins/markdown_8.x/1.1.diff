@@ -1,6 +1,0 @@
-M	README.txt	e47cd4e76b5d9cd8e5bad335a5706d38
-M	composer.json	e2800ac77de4f81cc098f360a0e975d5
-M	markdown.info.yml	7ee8b87c5c49935a714f32d76e56d2c7
-M	markdown.module	d0e8b47b52ae565f6e9388c419b199d3
-M	src/Plugin/Block/MarkdownHelp.php	f327e9e70e4512de96e982749d81db6d
-M	src/Plugin/Filter/Markdown.php	a214a31f84fcb67d1dd17595339b646d

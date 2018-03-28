@@ -1,6 +1,1 @@
-A	modules/viewsreference_options/src/Field/FieldFormatter/ViewsReferenceOptionsFieldFormatter.php	09ea1e46e758a02121581e1345482fc8
-A	modules/viewsreference_options/src/Field/FieldWidget/ViewsReferenceOptionsWidget.php	2bee79a6ebe2b885e7dd69a56d5f418b
-A	modules/viewsreference_options/viewsreference_options.info.yml	989cbb68abbab255c31330f5d1679673
-M	src/Plugin/Field/FieldFormatter/ViewsReferenceFieldFormatter.php	4df1bd11e25557310690521c74d96336
-M	viewsreference.info.yml	e7b59e98027ec82c62e4f70b97f52d97
-M	viewsreference.install	9f6f36093148721742794656394a3684
+M	viewsreference.info.yml	8a50b3060d9127845d7aa0172a592106

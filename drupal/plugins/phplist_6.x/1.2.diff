@@ -1,8 +1,0 @@
-M	README.txt	95a224746a413e8188f2981b72363147
-M	phplist.info	be1717579b1fe7345614d1cb73f7bdde
-M	phplist.install	98a0a3c2b47ebed3680aa0064f4c5985
-M	phplist.js	057df48ce24fe194b36d75f5e50eece5
-M	phplist.module	151da5913b08bae54561996bf17b078d
-A	phplistbackend/phplistbackend.info	5c9dfe310af9c8f7ceffb5b8411d162e
-A	phplistbackend/phplistbackend.install	327e9b3f18c55089542b56b4f39481b5
-A	phplistbackend/phplistbackend.module	a9aab7b8d1990131c68c09a3195b9b4a

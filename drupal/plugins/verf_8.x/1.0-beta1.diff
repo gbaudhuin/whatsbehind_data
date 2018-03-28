@@ -1,6 +1,0 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	config/schema/verf.schema.yml	15a64c7dc363e4918f2ab2e5434cf21e
-A	phpunit.xml.dist	8171eaaa364164660639da9014bc0a4d
-A	src/Plugin/views/filter/EntityReference.php	f1e3203edeff46ef6187f32394ae91eb
-A	verf.info.yml	236b217d3442017926a261b1fb9472a7
-A	verf.module	6be9b9a412bfcbf1f42194687db5b937

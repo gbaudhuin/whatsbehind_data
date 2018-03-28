@@ -1,4 +1,5 @@
-M	composer.json	c285b172370a45d4efc9c7783213e21d
+M	composer.json	fcd3495dde659dc185efaca9f38074f5
+M	config/schema/video.schema.yml	70aeaa20f3c54cf87693b6a1c49ee4c9
 A	modules/video_media_entity/video_media_entity.info.yml.planning	b97ae59a24a2f7f75472589c4aa6b38f
 A	modules/video_transcode/README.md	854be78120ac2492145985c178eda0ba
 A	modules/video_transcode/config/schema/video_transcode.schema.yml	7bd3a7982a555d741eddf82c1dbd219e
@@ -10,7 +11,7 @@ A	modules/video_transcode/src/Entity/TranscodeJob.php	96b444d4f9419b073ab1255f34
 A	modules/video_transcode/src/Form/PresetAddForm.php	0ce8e38e84e85327a5787dad292e9591
 A	modules/video_transcode/src/Form/PresetDeleteForm.php	eb6c123b67c0dcf6c59603c9b25a7846
 A	modules/video_transcode/src/Form/PresetEditForm.php	ad88883d0a9adce11aec4e7c00e2107a
-A	modules/video_transcode/src/Form/PresetFormBase.php	ea0f09a8439b48702475ee75743a9247
+A	modules/video_transcode/src/Form/PresetFormBase.php	5205509e85c057107e075ba396fc8ff3
 A	modules/video_transcode/src/Form/TranscodeJobDeleteForm.php	8ebf0e3b7fa634de72d11c0805c6b532
 A	modules/video_transcode/src/Form/TranscodeJobForm.php	a3c023a9d37eb22e77b915d3f13a5367
 A	modules/video_transcode/src/Form/TranscodeJobSettingsForm.php	b1cf3e9765f6810edb53665fdd9e8637
@@ -22,7 +23,7 @@ A	modules/video_transcode/src/TranscodeJobInterface.php	8580f215bcf78801ae0c3189
 A	modules/video_transcode/src/TranscoderBase.php	3301118a69462a5524b3b73dce357a39
 A	modules/video_transcode/src/TranscoderInterface.php	da52e57b99444fc981c4fb3c41fc46fb
 A	modules/video_transcode/src/TranscoderManager.php	91d35a9ad9366704ea4b5fbb3d614a5d
-A	modules/video_transcode/video_transcode.info.yml	3bcebb554b63a1890231e777947bb07d
+A	modules/video_transcode/video_transcode.info.yml	4942fdb5fa3cc94dbe6274e8c4fb6ace
 A	modules/video_transcode/video_transcode.install	510eb9f378bd0084891c842f1d51211e
 A	modules/video_transcode/video_transcode.links.action.yml	08371d15f89bf85bb7ce062d99ff364c
 A	modules/video_transcode/video_transcode.links.menu.yml	37ca553b77cdff4f8bd8af40346fdc0e
@@ -34,8 +35,9 @@ A	modules/video_transcode/video_transcode.services.yml	72b8e4f063ed43facedd3f2f3
 A	modules/video_transcode_zencoder/video_transcode_zencoder.info.yml.planning	21f8e564db72e9227d674c86074123ec
 M	src/Plugin/Field/FieldFormatter/VideoEmbedPlayerFormatter.php	ce4a7dcc098e72e2bbfa844258666c74
 M	src/Plugin/Field/FieldFormatter/VideoEmbedThumbnailFormatter.php	533c3060d5324643cc8691a9557e7f6a
-M	src/Plugin/Field/FieldFormatter/VideoPlayerFormatter.php	ebde541be095d42326a4c978a5e736d6
-M	src/Plugin/Field/FieldFormatter/VideoPlayerListFormatter.php	cca053a235d01833856baf77eb40e5d4
+M	src/Plugin/Field/FieldFormatter/VideoPlayerFormatter.php	43307e68cd0cb31f168d2d3090d7c81e
+M	src/Plugin/Field/FieldFormatter/VideoPlayerListFormatter.php	6827122011e3df2eb7a158e61aa5c7c5
 M	src/Plugin/Field/FieldType/VideoItem.php	311fe7169e1472442e0e2b10f1b5c4ac
 M	src/Plugin/Field/FieldWidget/VideoEmbedWidget.php	a6a41980565f85a95fdefa827249bc13
-M	video.info.yml	87e057e902251cb0879f062e1bb46530
+M	src/Plugin/video/Provider/Vimeo.php	30387519e9250bede332d0f1475ee20c
+M	video.info.yml	126abf0b51367104b2e6a5d29222a4fb

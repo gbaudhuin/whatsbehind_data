@@ -1,5 +1,0 @@
-Failure to follow guideline/specification -  integrity check value : https://www.drupal.org/node/1679820
-Sensitive Data Protection Vulnerability : https://www.drupal.org/node/1515282
-Access bypass, Arbitrary code execution : https://www.drupal.org/node/1394428
-Cross Site Scripting (XSS) : https://www.drupal.org/node/1307504
-Validation bypass : https://www.drupal.org/node/1140124

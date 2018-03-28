@@ -1,25 +1,5 @@
-M	DEVELOPING.md	67f03827e2f54a5980775e906800fd06
-D	composer.json	
-M	media_entity.info.yml	5adf685619e3550d35a0a5487f72cb9b
-M	src/Entity/Media.php	2684ce17eaa41a139e754a3a4ef1df6e
-D	src/Tests/BasicTest.php	
-D	src/Tests/MediaTestTrait.php	
-D	src/Tests/MediaUITest.php	
-D	src/Tests/Views/BulkFormTest.php	
-D	src/Tests/Views/WizardTest.php	
-M	tests/modules/media_entity_test_bundle/media_entity_test_bundle.info.yml	40a4267364061cf1be9ecfba2e131bde
-M	tests/modules/media_entity_test_type/media_entity_test_type.info.yml	456b7203741b47bd18acd41f441a2577
-A	tests/modules/media_entity_test_views/config/install/views.view.test_media_entity_bulk_form.yml	3608f1bbfb572b0570edc611a91260f5
-M	tests/modules/media_entity_test_views/media_entity_test_views.info.yml	7b3cf8d67a345aadaa5e8676097b5241
-D	tests/modules/media_entity_test_views/test_views/views.view.test_media_entity_bulk_form.yml	
-A	tests/src/Functional/MediaAccessTest.php	c79b7245a6369078243c46db32add183
-A	tests/src/Functional/MediaBulkFormTest.php	7c739fb48590a9751e4cef21f060a5c6
-A	tests/src/Functional/MediaEntityFunctionalTestBase.php	adc68bf63dcfa08f06e530133ed47419
-A	tests/src/Functional/MediaEntityFunctionalTestTrait.php	c0adc5dff286a09257a164cc22ba1e09
-A	tests/src/Functional/MediaUiFunctionalTest.php	6d0f2804e01dd17f4364e7ef48639f4c
-A	tests/src/FunctionalJavascript/MediaEntityJavascriptTestBase.php	68b5b7de4268a37168e157f5982d96c4
-A	tests/src/FunctionalJavascript/MediaIefIntegrationTest.php	6565671612d99237e75c6c2e0eee8077
-A	tests/src/FunctionalJavascript/MediaUiJavascriptTest.php	5849e6d8f3773af8c90bfc21da2de7c7
-A	tests/src/FunctionalJavascript/MediaViewsWizardTest.php	d507369b5bcb7e3b0ee6855416cb2c75
-A	tests/src/Kernel/BasicCreationTest.php	85ca086a7d02357ab38ebd31a9175aa6
-M	tests/src/Kernel/TokensTest.php	7dbeabfcb7b0573ac959caa080ebebdc
+M	README.md	2366ba64087f872eb88681b3d4b7af4e
+M	media_entity.info.yml	0e884812232e0c7198bf8ee0104fe264
+M	tests/modules/media_entity_test_bundle/media_entity_test_bundle.info.yml	e2c5c41fbecee605c33c08279856cc9b
+M	tests/modules/media_entity_test_type/media_entity_test_type.info.yml	4915e34c2aa9bc01339d121c4d308bf5
+M	tests/modules/media_entity_test_views/media_entity_test_views.info.yml	26f37203d7371cf6da53741c6e51dc2d

@@ -1,7 +1,0 @@
-A	legal.admin.inc	3b116564f8fd2ffdba21a3517d8f2ba3
-M	legal.info	0629abb5eb0d62ece110346aaf54b051
-M	legal.install	cae4a406e438d54f1cc9fa20f05baf59
-M	legal.module	0c2eb5f9bfc247bcd143384716da7a23
-A	legal.pages.inc	9edf96aed8a8e19da158955cb016c39c
-A	legal.test	2b798b5c29d1bbf2b5e8f9025b8200fa
-D	tests/register.test	

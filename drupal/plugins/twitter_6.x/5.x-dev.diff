@@ -1,8 +1,0 @@
-M	CHANGELOG.txt	115f928b375f30f479d5ce4926cbcf88
-M	tests/twitter_mock.info	4b27b670c1e776f694463feba05274e7
-M	twitter.inc	d306f6fb26da80e5172c2fad7da3af09
-M	twitter.info	6a86e9f9c52fe6715183437b14d675aa
-M	twitter.install	8e4d9c50b89bf34e245738f8977730a7
-M	twitter_actions/twitter_actions.info	a8eacd3519e325cd6857a3f46029ce56
-M	twitter_post/twitter_post.info	bee1b638e1c257a5f0ed0214c3cbbb8c
-M	twitter_signin/twitter_signin.info	241a11feab9f56bafd48679414424961

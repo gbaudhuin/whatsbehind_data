@@ -1,16 +1,1 @@
-A	config/install/openid_connect.settings.github.yml	7f1e6d1fc2e4ed23731346328ca2e047
-M	config/schema/openid_connect.schema.yml	66047d02a45382a7c82172459ec2ebfe
-M	openid_connect.info.yml	d419e738da9d968f6b0c3649ce8fa89a
-M	openid_connect.install	5fcda43f79e01e92085cf702e729e8b1
-M	openid_connect.module	ad542ea20cdafba63da62d763b7cdc91
-M	src/Authmap.php	131aeaf28f772f0cbd993c881d7721ec
-M	src/Claims.php	f5b2c1396c8bb2862590a84892544289
-M	src/Controller/RedirectController.php	928fdf024454ecc659944afce7372eee
-M	src/Form/AccountsForm.php	711f410a744309b5029b01ca89edd93d
-M	src/Form/LoginForm.php	ec9782cc98ce5d0bfc45291b48192c6f
-M	src/Form/SettingsForm.php	1def0ac7a07b6b8e8c203418e09059c6
-M	src/Plugin/OpenIDConnectClient/Facebook.php	ec09e164543246713eacbc0cff8c74b6
-M	src/Plugin/OpenIDConnectClient/Generic.php	ec53998721ec72fb415bfa49553f9e0c
-A	src/Plugin/OpenIDConnectClient/Github.php	9b2f5559d0b2c1583fd29c1b51b1ce25
-M	src/Plugin/OpenIDConnectClient/Google.php	55ae3d5d49a59189ce12d242bac5f8f2
-M	src/Plugin/OpenIDConnectClientBase.php	bc0770875de2d1257404997cbd57786e
+M	openid_connect.info.yml	36a5e21b9317f9792e78de94e5a91097

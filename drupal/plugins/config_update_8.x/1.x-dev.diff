@@ -1,11 +1,2 @@
-M	config_update.info.yml	7cd00a3690e49083407dc3c3d2aa69bc
-M	config_update_ui/config_update_ui.drush_testing.inc	7b1d255521e71ef486d25d256549c953
-M	config_update_ui/config_update_ui.info.yml	f106e1ccc481921735cd9e36d999aeb7
-M	config_update_ui/src/Controller/ConfigUpdateController.php	1eba1875e1577c5aef8e58c0a3013508
-A	config_update_ui/src/Tests/ConfigProfileOverridesTest.php	1bb6eee310073816c24be2a4851d5823
-M	config_update_ui/src/Tests/ConfigUpdateTest.php	d6d018465356fe66de0344ccbb30bae7
-M	src/ConfigDiffInterface.php	e4e0d9cb674010411bc1875632f20458
-M	src/ConfigDiffer.php	e23630c6c81290113fe687cdeb1a1d09
-M	src/ConfigLister.php	c8f8c2d25ed247d9a8dd61b77797b70e
-M	src/ConfigListerWithProviders.php	c60ee674c879452ccca0ea608acd5e6e
-A	tests/src/Unit/ConfigDifferTest.php	9bca868165baa916786898cfa40cdd1c
+M	config_update.info.yml	faf5a633c17585eac8a973417c51b648
+M	config_update_ui/config_update_ui.info.yml	50aa1d6e2e96366f340d386b367e45c4

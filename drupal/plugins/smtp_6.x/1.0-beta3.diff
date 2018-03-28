@@ -1,7 +1,0 @@
-M	CHANGELOG.txt	c32a6bb294f20daa77e1905386905309
-A	class.phpmailer.php.2.0.2.patch	660a65213c03df239616bfb358b22b1e
-A	class.phpmailer.php.2.2.1.patch	2d82de03b1a4b60f3b69cc20fae61b76
-D	po/smtp.pot	
-M	smtp.info	e5c1611efd21895f2d128607206881ac
-M	smtp.module	b3034d7743ceec4d9661db4fdd20a974
-D	translations/smtp.pot	

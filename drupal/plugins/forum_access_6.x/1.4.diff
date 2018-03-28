@@ -1,8 +1,0 @@
-M	CHANGELOG.txt	3d6d9de766801eabd926c8aa9c88e4b2
-M	forum_access.admin.inc	568ea3f11d070e0aa9b8ca5269c06284
-M	forum_access.info	ae78a0f582a42320c2ac9dc1f65ac0c3
-M	forum_access.install	e356149fd8c3d71ccad7fd6f1cb083fc
-M	forum_access.module	9b80556bea19dcf6607ace7373e2e86d
-M	forum_access.node.inc	b3b9ba6c8aaf005c04e4134ae3791275
-D	translations/forum_access.pot	
-D	translations/sv.po	

@@ -1,7 +1,7 @@
-M	session_api.admin.inc	70e40812c824a157d099c8ffc28fa927
+M	session_api.admin.inc	d2fee35ffc2a2df3eb645ffff2ffd8d4
 A	session_api.api.php	6f2e4ed6bb4e2ca5f1905b5475c8c139
-M	session_api.info	635e2bd1ec507b37af063f0d3355a81a
-M	session_api.install	23ab12223a61b74eec066c94d93b8bcd
-M	session_api.module	8154425ca28e88055dbe125d0b980448
+M	session_api.info	1e8a88bf567ab24a08d1bbae42d5e992
+M	session_api.install	18dcde70ddfdc8c070bf3c55c02baa25
+M	session_api.module	4d4c39d55c95b37658429984878d35e8
 M	session_api.test	3f6e0523832918a11661e532555319c0
-M	tests/session_api_test.info	961500c94379ad1ea377e7f986cf382c
+M	tests/session_api_test.info	9b8b758de4bd724108adc7ca5d969aef

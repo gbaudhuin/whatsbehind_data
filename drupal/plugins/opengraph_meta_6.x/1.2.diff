@@ -1,7 +1,0 @@
-M	README.txt	43443197bc3c54d645b01b64ee5f3586
-M	opengraph_meta.admin.inc	98310c436db7e7b5b02fc6be6cf28ba4
-M	opengraph_meta.common.inc	de59cd16a9ad62931e7c006af917fd33
-M	opengraph_meta.info	0dce998f09d79b1fc8f6417b5fd38222
-M	opengraph_meta.install	31375b964876a37426f672d0312d154c
-M	opengraph_meta.module	80dd6e1ff687a1098e13c0d9be63493d
-A	tests/Basic.test	5b0d69ff194025b49525326cc14afd8c

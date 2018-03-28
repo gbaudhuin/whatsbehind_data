@@ -5,7 +5,7 @@ D	menu-block-background-display-options.png
 D	menu-block.admin.css	
 D	menu-block.js	
 M	menu_block.admin.inc	c4f555a03de30e54d9b9a40a28548bc2
-M	menu_block.info	b09ef69f36d3e0f04ec03c7b77fa4e37
-M	menu_block.module	2eae241dc177d20e4f6a1a6e574a48b7
-M	menu_block_export.info	cda3ac8244126b491f639f3b0134697a
+M	menu_block.info	6217b560740b93884cb337e3fe34a3be
+M	menu_block.module	ce239b549520d6f752fcfacc16a8192d
+M	menu_block_export.info	c148e52c8d84761d233b2c2143ec00cf
 M	plugins/content_types/menu_tree/menu_tree.inc	a5358a1cb8ace56a7c20aef5b8394557

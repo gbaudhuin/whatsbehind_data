@@ -1,8 +1,0 @@
-M	CHANGELOG.txt	2feefa4f9eeba0963700348893c54a88
-M	mass_contact.admin.inc	6de0f0afde2216527398496c91f28814
-M	mass_contact.info	b4e4bd65d2c74b37b5324800c7eb06ff
-M	mass_contact.install	d3eab88a9470ffe93db5a28e353ce478
-M	mass_contact.module	57b0e54df1558d61710dd8d7aa5f5b43
-M	mass_contact.page.inc	6cbb71ae090e5b0802cc2054ca24eb30
-A	plugins/mass_contact_role.inc	27917d26c5b3fc0fc0540936d765a8b8
-A	plugins/mass_contact_taxonomy.inc	bfb0c897f672a8c5ef4ddf5157def149

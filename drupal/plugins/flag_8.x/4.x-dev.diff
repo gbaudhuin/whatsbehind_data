@@ -1,18 +1,5 @@
-M	config/schema/flag.schema.yml	4f411ead42f34bfd7b47da42282b41b0
-M	flag.info.yml	cc115455186e1a4f3860baa7a4359e96
-M	flag.links.task.yml	a9c169cc7392c71b5ea85e29e8a75a19
-M	flag.module	fc2f2f06a3df3b72dad13cc822e4d592
-M	flag.routing.yml	090c623e448dcc3ab8aefdf6f5fb606c
-M	modules/flag_bookmark/config/install/flag.flag.bookmark.yml	63c6e64bc91a4eb48f21354c1b8fd006
-M	modules/flag_bookmark/flag_bookmark.info.yml	cc24394a7db35727a4a9634122bd7b31
-M	modules/flag_follower/flag_follower.info.yml	7f4db27a64bd7db0fd9be093ae4238ed
-M	src/Controller/ActionLinkController.php	0670820b0e1c20b6e0905b82f9c319c4
-M	src/FlagService.php	08ff0279f0b1e5fd2aa817b54795c233
-M	src/FlagServiceInterface.php	a955777662f617849760a4bef55bbf2a
-D	src/Form/ClearAllForm.php	
-D	src/Tests/FlagUninstallTest.php	
-M	src/Tests/LinkTypeConfirmFormTest.php	5945dde48e54dd470d29e585a8391816
-M	src/Tests/LinkTypeReloadTest.php	9458d94d075e64fac8f956f96f1a7ab0
-M	tests/modules/flag_event_test/flag_event_test.info.yml	bd753312c317457caf08a3db604dfb1f
-M	tests/modules/flag_test_plugins/flag_test_plugins.info.yml	8b1ee912dbe4dd7692331619b55d0bb2
-M	tests/src/Kernel/FlagServiceTest.php	e8ab820d1788ffa62f21bf673b0d7f04
+M	flag.info.yml	5f995e573a80d7a32c470046746c2114
+M	modules/flag_bookmark/flag_bookmark.info.yml	4330c978699b44cd1b85a012572ef330
+M	modules/flag_follower/flag_follower.info.yml	06991d8597d5a1ebe29cadc365d3fd2e
+M	tests/modules/flag_event_test/flag_event_test.info.yml	443276c9f7e658ff29c235e2c95a8260
+M	tests/modules/flag_test_plugins/flag_test_plugins.info.yml	910c53ffb4656ee3835d7002efd7ce04

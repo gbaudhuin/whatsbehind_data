@@ -1,8 +1,0 @@
-M	CHANGELOG.txt	677d1b0867caee1cb1e41a1318747267
-M	feedapi.info	c2d0d40eb407d83580c185c6c4e01066
-M	feedapi.install	2288f86b1b03c6a77f1aaaa6a7b0ef23
-M	feedapi_inherit/feedapi_inherit.info	ed144aa5765522b3f3c426a0252568b6
-M	feedapi_node/feedapi_node.info	4ff1e5f7924427433e60cc27db235b3e
-M	feedapi_node/feedapi_node.module	e4f91d64ae4fcb90fd9271b7e99f7a57
-M	parser_common_syndication/parser_common_syndication.info	ad35ab5a61e3083a6efd7c58e347f562
-M	parser_simplepie/parser_simplepie.info	b318dc1f799ce3a962f7200b8d302f36

@@ -1,8 +1,11 @@
-M	config/extlink.settings.yml	3bae37f398f83478a31aa96a637f0718
-M	config/schema/extlink.schema.yml	8fa7dab851aab230ea4c6b6ad0cfda61
-M	extlink.info.yml	797ac7c5c522ee53506137a18b9fc74b
-M	extlink.js	7f7290340743562707827fbb1c42bce3
-M	extlink.min.js	76e79d3fe0590ace482b77f5cdc9e799
-M	extlink.module	0374343c2e8c74640026007cfa4b8f59
-M	src/Form/ExtlinkAdminSettingsForm.php	6046e24ec2c36bd634756a51ecc44daf
+D	config/extlink.settings.yml	
+A	config/install/extlink.settings.yml	cb38c35d881da0ced4f8c78243e84b90
+M	config/schema/extlink.schema.yml	1cc19e9622389e97065824d7a50d1967
+A	extlink.api.php	97c978d0bb8ffe5c3fd56e3f14439288
+M	extlink.info.yml	aa1eb358144131c6f7589920a4569f44
+M	extlink.install	e20238cec1259261836b9a1f42336696
+M	extlink.js	b771174bc76cf40c62b282db18131f45
+M	extlink.min.js	2dcef3bb38a53c1e9e4028095f1a72d1
+M	extlink.module	43222174f0637eb2f35d45515115fc31
+M	src/Form/ExtlinkAdminSettingsForm.php	d57f2c15a0b5bc3d0cabfaad039c2149
 M	src/Tests/ExtlinkTestBase.php	f12dfde66057f43a712acb5310c970ec

@@ -1,7 +1,8 @@
-M	seckit.info.yml	eef16e7733d03a5a1a78d6a8e0b64fbf
+A	composer.json	a02c9a46a52b7c6ca336087fdf3e680a
+M	seckit.info.yml	83a744ec5585f9bc41a1336649933676
 M	seckit.module	70cbc8d87cebea4d116b76e9530dfc19
-M	src/Controller/SeckitExportController.php	c9aa81d365297aef748732855cab3f97
-M	src/EventSubscriber/SecKitEventSubscriber.php	31c611af40b1297b31c24ec4308d9fff
-M	src/Form/SecKitSettingsForm.php	5ef099dad47168d0279f860b800a082f
-M	src/Tests/SecKitCSPCaseTest.php	815750b4a8956e6f23b9ab9c3eb355f1
-M	src/Tests/SecKitTestCaseTest.php	b1403e1b582c4913a56f5d24f5bcd4e0
+M	src/Controller/SeckitExportController.php	42c49bc27d9862a90202b27bbe6b491b
+M	src/EventSubscriber/SecKitEventSubscriber.php	f47c6da3095eff0b2cafc4a33583657e
+M	src/Form/SecKitSettingsForm.php	c10be505b309a9fbfe63cbb506fabdff
+M	src/Tests/SecKitCSPCaseTest.php	36e3ad8e552ba98800ade672b08cf607
+M	src/Tests/SecKitTestCaseTest.php	78679bf353d91312f872590c59ff1669

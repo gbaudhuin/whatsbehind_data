@@ -1,9 +1,0 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-M	README.txt	b8d77ce006894e14cae38d24adba92e9
-M	block_edit.admin.inc	9f26542e464b32a7f1cfd3879c45d931
-M	block_edit.css	ef8e49bba89e1bb6e53bb5c3b4b7d164
-M	block_edit.info	aaab9a17ae193d0f9eb004d1243dab60
-A	block_edit.install	4be4fe25c5badd5ad1700bdaef152b93
-M	block_edit.js	38c9696ce36b2f7ae87ebb9e206a2790
-M	block_edit.module	9ba58a12b4863588b667d54de11cbf81
-M	block_edit.views.inc	7d683f14f2028c43b8b83b3452f3b795

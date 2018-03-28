@@ -1,5 +1,0 @@
-M	mandrill.info.yml	8d8c4f7021813f2c8b931e4e0b9ab2fb
-M	modules/mandrill_activity/mandrill_activity.info.yml	160b0848b7f0da1aec2b0fb37739f6b0
-M	modules/mandrill_reports/mandrill_reports.info.yml	fc0c4f21fa9b99fb4c1abfce5ea11e40
-M	modules/mandrill_template/mandrill_template.info.yml	6839c015c5dbf28afb096171a5166e05
-M	src/Plugin/Mail/MandrillMail.php	461a3cc4eff08e4a77c639bcc0921e11

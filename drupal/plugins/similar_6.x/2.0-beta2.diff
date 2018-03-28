@@ -1,7 +1,0 @@
-M	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-M	similar.info	c0d061b1016ce4d3d6732e68f0e1a9be
-M	views/similar.views.inc	f8d4ca833ed37a0d0ba80ad234e5c77d
-M	views/similar.views_default.inc	c697bd499e464e0d0bafa842cfa35489
-M	views/similar_handler_argument_nid.inc	d5b07c28985b654f43fb86809cb93b5d
-A	views/similar_handler_field_similarity.inc	2f0bc57600f4e9fd30df13a4a821eeae
-M	views/similar_handler_sort_similarity.inc	00b8e1b7e8b2d85c9a32cd97c68447ae

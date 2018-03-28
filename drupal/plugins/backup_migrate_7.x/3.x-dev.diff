@@ -1,17 +1,7 @@
-M	backup_migrate.info	40582f67eea86013124448eb8c1d27f4
-M	backup_migrate.install	5fbbd1f615ab4b4b87184344e19080b2
-M	backup_migrate.module	54cd6a9ebb362bd02eebe76fd9e4c73e
-M	includes/crud.inc	0b311ab6c57aafd9324f416465e16e66
-M	includes/destinations.db.mysql.inc	94d01b54c2c40fe186595813863409d6
-M	includes/destinations.email.inc	95f071be3b09aec51d7bd77da8a225f5
-M	includes/destinations.inc	419a215272e1120f1c2faa83fbf2701f
-M	includes/destinations.nodesquirrel.inc	2e742a81f827e78d3fffb69b6caea6e4
-M	includes/files.inc	85b63682242ad3caa22f159b04c1d142
-M	includes/filters.backup_restore.inc	8005a2ea92f66bf777da5a5e64ff6a15
-M	includes/filters.inc	d21d63d47f507da2fc1e01959e7d3793
-M	includes/locations.inc	2da66a7e4a0e8a335425dac1fc84292b
-M	includes/profiles.inc	bf19a5e178613bcaca3cfaf2c449b342
-M	includes/schedules.inc	b0bca5c00e6cc2b1880350a7dd2afb0f
-M	includes/sources.archivesource.inc	ee57b620a92839ba519ed959f9758db0
-M	includes/sources.db.mysql.inc	f3e9448441cf5d9aa80b30347bed6494
-M	includes/sources.filesource.inc	8c8ecf207cc8097fe19b923154b49946
+M	backup_migrate.info	0ea27c88127d679e09ab2c25149ecdda
+M	includes/files.inc	3c1f555d05486985ac760824126cdb9a
+D	tests/BackupMigrateBasicsTest.test	
+D	tests/BackupMigrateHelper.test	
+A	tests/BmTestBase.test	a66cdaf68a90cb2f35360d23db75a077
+A	tests/BmTestBasics.test	eacc31e8de4bfcb8d29a6566052f190c
+A	tests/BmTestProfiles.test	a0b581102672795f6fe8c1f71cd976f5

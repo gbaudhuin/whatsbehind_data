@@ -1,7 +1,0 @@
-M	restws.entity.inc	20109eb6dfda5adae020511e299a2daf
-M	restws.info	7809639d2ef41910749d940e205eb3b6
-M	restws.module	fd3c69d9f4d221f8cfe662a76a755079
-M	restws.test	ced5171f9463ffb52dbc821ea534c86d
-M	restws_basic_auth/restws_basic_auth.info	36f41a6dc441fcc58926ca39e7744a02
-A	tests/restws_test.info	2ceb8b4f42c74049c0160eb537cc6c15
-A	tests/restws_test.module	210847092475e2083d7303219c4c742f

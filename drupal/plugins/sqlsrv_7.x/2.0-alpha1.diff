@@ -1,7 +1,0 @@
-M	sqlsrv.info	205a41bc328f7983002c0175a9f257cb
-D	sqlsrv.install	
-M	sqlsrv/database.inc	a394d50d61154bc1a2d3e6ebc19776e6
-M	sqlsrv/install.inc	fe7756c40c705fc00f374fa2d0e38079
-M	sqlsrv/schema.inc	6bc3b77f30aac470e29981e087d22f49
-M	tests/sqlsrv.schema.test	c33461c37cc483687ea7cf3aa2e97fdc
-M	tests/sqlsrv.select.test	a4d996f5965e7b4a44c8e93a6df37520

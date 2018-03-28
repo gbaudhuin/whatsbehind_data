@@ -1,6 +1,0 @@
-M	CHANGELOG.txt	1cdf987d26035186693d16cbbd7a51c3
-A	modules/nd_permalink/nd_permalink.info	200ec79018d898d7f48cc7ced45a559d
-A	modules/nd_permalink/nd_permalink.module	7358174c7169a4659818d2af18e5df7e
-M	nd.info	fa2a36471619977f8a7006c9c2e20a17
-M	nd.module	ca9fb70be2074f5e9631290a3809e68f
-M	tests/ndtest.info	a974ea5f68a2fe24c944dab95f10e039

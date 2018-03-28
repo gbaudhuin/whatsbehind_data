@@ -1,8 +1,0 @@
-A	LICENSE.txt	b234ee4d69f5fce4486a80fdaf4a4263
-A	README.txt	c40755300d3a365106c6f0046435c95d
-A	similarterms.info.yml	b874edecf926c15a5f4b9539de0c76b6
-A	similarterms.module	952128ac2e47e41d73384b131b7c8c02
-A	similarterms.views.inc	4019544f63927074d7e770af63aa3de4
-A	src/Plugin/views/argument/SimilarTermsArgument.php	3f52d2d1cd39f9a0f504db3de5eb8692
-A	src/Plugin/views/field/SimilarTermsField.php	30fa996c57e3198da96d2e237b561c9a
-A	src/Plugin/views/sort/SimilarTermsSort.php	8dc6094a94155b7bc31f4d17ad6848a1

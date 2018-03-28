@@ -1,9 +1,0 @@
-M	acsf.info	b7834c8e10e46eb7c461edc9e1daccb7
-M	acsf_duplication/acsf_duplication.info	97f3bf040454fb37c808508241d5457e
-M	acsf_init/acsf_init.drush.inc	401db07b73415ec1a5f637d572350538
-A	acsf_init/lib/sites/g/.htaccess	b2e8e6ad6227190c4e3dded54d041d48
-M	acsf_openid/acsf_openid.info	ce8d86e07048b24a39fd3c66bea03b0f
-M	acsf_pingdom/acsf_pingdom.info	aea96d1103a8d7576c41d3491f0cf883
-M	acsf_theme/acsf_theme.info	1ddb454fcc22d0b026b50d36bfa9c171
-M	acsf_variables/acsf_variables.info	ed142dd493f8f03c7e83806ec02e1e7d
-M	build_info	18ce1b63602a2e4937ca7277cee8af5e

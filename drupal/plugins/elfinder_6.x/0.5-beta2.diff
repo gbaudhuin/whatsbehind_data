@@ -1,9 +1,0 @@
-M	CHANGELOG.txt	38983c4b0ec8ee51424479cd8633c657
-M	README.txt	9af7b971c52378b7fda686cb9e91cec0
-A	css/elfinder.d7.css	108aefe52d44d2487b5ee98f063b0ffe
-M	elfinder.info	2c55846121966d55a488a70742b41ec7
-M	elfinder.module	a9f292459f2c2af29bbbd1e93c280240
-A	inc/elfinder.admin.inc	76eba3a5b5650a1025f38aed1d3319bf
-M	js/elfinder.callback.js	31838f821287954eb538b8936af57e16
-A	js/elfinder.wymeditor.js	ce2dda0bbbb263972d441bc62c84d739
-A	tpl/elfinder-page-backend.tpl.php	c0d95966fa1b5a8a6f585faf5da41e46
